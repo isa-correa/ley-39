@@ -1,0 +1,177 @@
+{
+ "pr-39-016": {
+  "bloque": "revision",
+  "precepto": "Art. 107 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El **art. 107.2** dice que la declaración de lesividad no es susceptible de recurso, aunque puede notificarse a los interesados a meros efectos informativos.",
+   "No. El plazo no es de un año sino de **cuatro años** desde que se dictó el acto (**art. 107.2**).",
+   "No. La caducidad llega a los **seis meses** desde que se inicia el procedimiento, no a los tres (**art. 107.3**).",
+   "No. Justo lo contrario: la declaración de lesividad **no** admite recurso (**art. 107.2**). Se discute después, en el proceso contencioso, como presupuesto de la demanda."
+  ],
+  "ojo": "Lesividad: cuatro años para declararla, seis meses para tramitarla, sin recurso, y luego el recurso contencioso lo interpone la propia Administración."
+ },
+ "pr-39-017": {
+  "bloque": "organos",
+  "precepto": "Art. 19.2.f) de la Ley 40/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Velar por la legalidad formal y material de las actuaciones es función del **Secretario** (**art. 16.2**). Al Presidente le toca “asegurar el cumplimiento de las leyes” (art. 19.2.e), que es otra cosa.",
+   "No. La antelación mínima para recibir la convocatoria es de **dos días**, no de tres (**art. 19.3.a**).",
+   "Es esta. El **art. 19.2.f** dice que corresponde al Presidente visar las actas y certificaciones de los acuerdos del órgano.",
+   "No. El acta puede aprobarse en la misma reunión o en la **inmediata siguiente** (**art. 18.2**), no necesariamente al terminar cada sesión."
+  ],
+  "ojo": "El Secretario redacta el acta y certifica, el Presidente la visa. Y dos días de antelación, no tres.",
+  "revisar": "La opción a se parece a la función del Presidente de asegurar el cumplimiento de las leyes (art. 19.2.e), pero el “velar por la legalidad” literal es del Secretario (art. 16.2). Se marca la c, que es literal."
+ },
+ "pr-39-018": {
+  "bloque": "responsabilidad",
+  "precepto": "Art. 36.4 de la Ley 40/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Las pruebas duran **quince días**, no siete (**art. 36.4.b**).",
+   "Es esta. La audiencia dura **diez días** (**art. 36.4.c**).",
+   "No. Las alegaciones duran **quince días**, no cinco (**art. 36.4.a**).",
+   "No. La propuesta de resolución se formula en **cinco días** desde que acaba la audiencia, no en quince (**art. 36.4.d**)."
+  ],
+  "ojo": "Orden y plazos: alegaciones 15, pruebas 15, audiencia 10, propuesta 5, resolución 5."
+ },
+ "pr-39-019": {
+  "bloque": "finalizacion",
+  "precepto": "Arts. 100 y 101 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. La multa coercitiva se usa para forzar a cumplir una obligación de hacer o no hacer, y se repite en el tiempo (art. 103). No es para cobrar una cantidad de dinero.",
+   "Es esta. Cuando hay que pagar una cantidad líquida de dinero, el medio es el **apremio sobre el patrimonio** (**arts. 100.1.a y 101**).",
+   "No. La compulsión sobre las personas es para obligaciones personalísimas de hacer o soportar, y solo si la ley lo autoriza (art. 104). No sirve para cobrar dinero.",
+   "No. La ejecución subsidiaria es para actos que otra persona puede hacer en lugar del obligado, a costa de este (art. 102). El impago de una cantidad va por apremio."
+  ]
+ },
+ "pr-39-020": {
+  "bloque": "finalizacion",
+  "precepto": "Art. 88.1 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. El plazo no es de diez días. Es de **no superior a quince** (**art. 88.1**).",
+   "Es esta. El **art. 88.1** permite pronunciarse sobre cuestiones conexas no planteadas, poniéndolo antes de manifiesto a los interesados por un plazo **no superior a quince días**.",
+   "No. Dice “no inferior a veinte”, y la ley fija un máximo de quince, no un mínimo de veinte (**art. 88.1**).",
+   "No. Sí puede pronunciarse sobre ellas, con el trámite previo de poner la cuestión de manifiesto a los interesados (**art. 88.1**)."
+  ]
+ },
+ "pr-39-021": {
+  "bloque": "instruccion",
+  "precepto": "Art. 96.6 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. En un procedimiento sancionador se inicia de oficio, no hay una solicitud del interesado que subsanar. La subsanación del art. 96.6.b solo tiene sentido cuando se inicia a solicitud.",
+   "No. La propuesta de resolución no está entre los trámites de la tramitación simplificada (**art. 96.6**), que pasa de las alegaciones y la audiencia directamente a la resolución.",
+   "No. La audiencia solo se hace cuando la resolución vaya a ser **desfavorable** para el interesado (**art. 96.6.d**). Aquí te dicen lo contrario.",
+   "Es esta. El **art. 96.6.c** incluye las alegaciones formuladas al inicio del procedimiento durante el plazo de **cinco días**, y en los sancionadores es un trámite propio."
+  ],
+  "ojo": "La tramitación simplificada se resuelve en treinta días y solo tiene los trámites que enumera el art. 96.6.",
+  "revisar": "La subsanación (96.6.b) también aparece en la lista general, pero solo existe si el procedimiento se inicia a solicitud. En un sancionador, que va de oficio, la respuesta defendible es la d."
+ },
+ "pr-39-022": {
+  "bloque": "recursos",
+  "precepto": "Arts. 112 a 123 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Si pasa el plazo sin recurrir, el acto queda firme. Lo dice el **art. 122.3** para el recurso de alzada: transcurrido el plazo sin interponerlo, la resolución será firme a todos los efectos.",
+   "No. El recurso potestativo de reposición solo cabe contra actos que **ya ponen fin** a la vía administrativa (**art. 123.1**), no antes.",
+   "No. Es al revés: con carácter general el silencio en los recursos es **desestimatorio** (art. 122.2 para la alzada). La excepción es el recurso de alzada contra la desestimación por silencio de una solicitud, que sí se entiende estimado si no se resuelve a tiempo (art. 24.1, tercer párrafo).",
+   "No. El recurso de alzada puede interponerse ante el órgano que dictó el acto **o** ante el competente para resolverlo (**art. 121.2**)."
+  ],
+  "ojo": "Alzada: se presenta en cualquiera de los dos órganos. Reposición: solo contra actos que ya agotan la vía administrativa."
+ },
+ "pr-39-023": {
+  "bloque": "actos",
+  "precepto": "Art. 35.1 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. La motivación obligatoria alcanza a las propuestas de resolución en los procedimientos **sancionadores** y a los actos que resuelvan responsabilidad patrimonial (**art. 35.1.h**), no a las propuestas en los de responsabilidad patrimonial.",
+   "Es esta. El **art. 35.1.b** obliga a motivar los actos que resuelvan procedimientos de **revisión de oficio**, recursos administrativos y arbitraje, y los que declaren su inadmisión.",
+   "No. Se motivan los actos que **se separen** del dictamen de órganos consultivos (**art. 35.1.c**). Si lo siguen, no hace falta motivación por este motivo.",
+   "No. Se motivan los actos que **rechacen** pruebas propuestas por los interesados (**art. 35.1.f**). Los que las incorporan no."
+  ]
+ },
+ "pr-39-024": {
+  "bloque": "revision",
+  "precepto": "Art. 106.2 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El **art. 106.2** permite a las Administraciones declarar de oficio la nulidad de disposiciones, en los casos del art. 47.2, y con dictamen **favorable** del Consejo de Estado.",
+   "No. Para las disposiciones solo cabe de oficio. La posibilidad de actuar a solicitud del interesado es para los **actos** (art. 106.1), no para las disposiciones.",
+   "No. Sí es preceptivo el dictamen favorable del Consejo de Estado u órgano consultivo equivalente (**art. 106.2**).",
+   "No. Falla en las dos cosas: solo de oficio, y con dictamen favorable obligatorio (**art. 106.2**)."
+  ],
+  "ojo": "Actos nulos: de oficio o a solicitud. Disposiciones nulas: solo de oficio. En ambos casos, dictamen favorable."
+ },
+ "pr-39-025": {
+  "bloque": "responsabilidad",
+  "precepto": "Art. 30.1 de la Ley 40/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Un mes es el plazo que cuenta para reanudar la prescripción si el expediente se paraliza (art. 30.2), no el de prescripción de las leves.",
+   "No. Tres meses no aparece en el **art. 30.1**. Los plazos son tres años, dos años y seis meses.",
+   "Es esta. Si la ley sancionadora no fija plazos, las leves prescriben a los **seis meses** (**art. 30.1**).",
+   "No. Un año es el plazo de prescripción de las **sanciones** impuestas por faltas leves, no de las infracciones leves (**art. 30.1**)."
+  ],
+  "ojo": "Infracciones: 3 años, 2 años, 6 meses (muy graves, graves, leves). Sanciones: 3 años, 2 años, 1 año."
+ },
+ "pr-39-026": {
+  "bloque": "fuentes",
+  "precepto": "Art. 2.1 del Código Civil",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Quince días no es el plazo del **art. 2.1 CC**.",
+   "Es esta. El **art. 2.1 del Código Civil** dice que, si la ley no dispone otra cosa, entra en vigor a los **veinte días** de su completa publicación en el BOE.",
+   "No. Treinta días no es el plazo del **art. 2.1 CC**.",
+   "No. Entrar en vigor al día siguiente solo ocurre si la propia ley lo dice. La regla general es de veinte días (**art. 2.1 CC**)."
+  ]
+ },
+ "pr-39-027": {
+  "bloque": "responsabilidad",
+  "precepto": "Art. 32.8 de la Ley 40/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. El Ministerio de Justicia tramita el procedimiento, pero no fija el importe (**art. 32.8**, párrafo segundo).",
+   "Es esta. El **art. 32.8** dice que el **Consejo de Ministros** fija el importe de las indemnizaciones.",
+   "No. El Consejo de Estado solo es oído en el procedimiento (**art. 32.8**), no decide el importe.",
+   "No. El Tribunal Constitucional declara el funcionamiento anormal, pero no fija la indemnización (**art. 32.8**)."
+  ]
+ },
+ "pr-39-028": {
+  "bloque": "fuentes",
+  "precepto": "Art. 24.1.d) de la Ley 50/1997",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Las “Órdenes” son la forma de las disposiciones de los Ministros (**art. 24.1.f**) y de los acuerdos de las Comisiones Delegadas.",
+   "No. “Resoluciones del Consejo de Ministros” no es una forma que recoja el **art. 24.1**.",
+   "No. “Reglamentos del Consejo de Ministros” no existe como forma: los reglamentos del Consejo de Ministros adoptan la forma de Real Decreto (**art. 24.1.c**).",
+   "Es esta. El **art. 24.1.d** dice que las decisiones del Consejo de Ministros que no deban adoptar la forma de Real Decreto son **Acuerdos** del Consejo de Ministros."
+  ]
+ },
+ "pr-39-029": {
+  "bloque": "fuentes",
+  "precepto": "Art. 1.5 del Código Civil",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Adoptarlo no basta. Según el **art. 1.5 CC**, las normas jurídicas de los tratados no son de aplicación directa hasta que pasan a formar parte del ordenamiento interno por su publicación.",
+   "Es esta. El **art. 1.5 CC** dice que los tratados internacionales válidamente celebrados, una vez publicados oficialmente en España, forman parte del ordenamiento interno. La publicación es en el BOE.",
+   "No. La ratificación o autorización por las Cortes puede ser necesaria para celebrarlo, pero lo que lo incorpora al ordenamiento interno es la **publicación** (**art. 1.5 CC**).",
+   "No. El Boletín Oficial de las Cortes Generales no es el medio. El tratado se publica en el **Boletín Oficial del Estado** (**art. 1.5 CC**)."
+  ]
+ },
+ "pr-39-030": {
+  "bloque": "recursos",
+  "precepto": "Art. 46.1 de la Ley 29/1998",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Seis meses es el plazo cuando el acto **no es expreso** (silencio), no cuando es expreso (**art. 46.1**).",
+   "No. Un mes es el plazo del recurso de alzada (art. 122 de la Ley 39/2015), no del contencioso.",
+   "Es esta. Contra un acto expreso, el recurso contencioso-administrativo se interpone en **dos meses** desde el día siguiente a la notificación o publicación del acto que pone fin a la vía administrativa (**art. 46.1**).",
+   "No. Tres meses no figura en el **art. 46.1**. Para acto expreso son dos meses."
+  ],
+  "ojo": "Contencioso: dos meses si el acto es expreso, seis meses si es presunto (silencio)."
+ }
+}

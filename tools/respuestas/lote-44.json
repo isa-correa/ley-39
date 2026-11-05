@@ -1,0 +1,118 @@
+{
+ "pr-40-011": {
+  "bloque": "plazos",
+  "precepto": "Arts. 21.3.b) y 30.4 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El 5 de febrero de 2027 saldría de contar ocho meses desde otra fecha (5 de junio), que es cuando se presentó en el registro de otra Administración. No es la que cuenta.",
+   "No. El 19 de diciembre de 2026 sale de contar seis meses desde el 19 de junio, la fecha del acuerdo de inicio. Seis meses es el tope general, pero aquí la norma fija ocho, y además el cómputo no arranca en esa fecha sino el 11 de junio (**art. 21.3.b**).",
+   "Es esta. En un procedimiento a solicitud, el plazo se cuenta desde la entrada de la solicitud en el registro del órgano competente (**art. 21.3.b**): el **11 de junio de 2026**. Los plazos por meses van de fecha a fecha (**art. 30.4**), así que acaba el **11 de febrero de 2027**, que es jueves y hábil.",
+   "No. El 19 de febrero de 2027 sale de contar ocho meses desde el 19 de junio, la fecha del acuerdo de inicio. Pero en un procedimiento a solicitud no cuenta el acuerdo de inicio, sino la entrada en el registro (**art. 21.3.b**)."
+  ],
+  "ojo": "Procedimiento de oficio: cuenta desde el acuerdo de iniciación. Procedimiento a solicitud: desde la entrada de la solicitud en el registro del órgano competente."
+ },
+ "pr-40-012": {
+  "bloque": "actos",
+  "precepto": "Arts. 40.4 y 43.3 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Para entender cumplida la obligación de notificar dentro del plazo, el **art. 43.3** basta con poner la notificación a disposición del interesado en la sede electrónica o en la **dirección electrónica habilitada única**. Una sociedad mercantil está obligada a relacionarse electrónicamente (art. 14.2).",
+   "No. No hace falta que el interesado acceda. Para cumplir el plazo basta con la puesta a disposición (**art. 43.3**) o el intento de notificación acreditado (**art. 40.4**).",
+   "No. El intento en el domicilio es el camino de las notificaciones en papel. A una empresa obligada a la vía electrónica se le notifica electrónicamente y basta la puesta a disposición (**art. 43.3**).",
+   "No. La ley no concede un plazo adicional de diez días hábiles para notificar. Lo que dice es que la notificación o su intento acreditado ha de producirse dentro del plazo máximo (**art. 40.4**)."
+  ],
+  "revisar": "Se ha elegido la a por tratarse de una persona jurídica, obligada a la vía electrónica (art. 14.2). La c sería la respuesta si el interesado no estuviera obligado a relacionarse electrónicamente."
+ },
+ "pr-40-013": {
+  "bloque": "actividad",
+  "precepto": "Art. 24.1 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. La caducidad es una forma de terminar un procedimiento por paralización causada por el interesado, o en los de oficio por el vencimiento del plazo (art. 25). No es lo que ocurre aquí: el procedimiento se inició a solicitud.",
+   "No. El silencio positivo es la regla en procedimientos a solicitud, pero el **art. 24.1** lo excluye cuando se ejercen **actividades que puedan dañar el medio ambiente**, como esta campaña de prospección sísmica.",
+   "Es esta. El **art. 24.1** establece silencio **desestimatorio** en los procedimientos cuya estimación implique actividades que puedan dañar el medio ambiente. El enunciado la califica como actividad “susceptible de provocar daños al medio ambiente”.",
+   "No. Vencer el plazo no amplía ningún plazo máximo. La ampliación debe acordarse de forma expresa (art. 23), no se produce sola."
+  ]
+ },
+ "pr-40-014": {
+  "bloque": "recursos",
+  "precepto": "Arts. 112, 114 y 122.1 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. La reposición solo cabe contra actos que **ya ponen fin** a la vía administrativa (**art. 123.1**). El Director General depende jerárquicamente del Secretario de Estado, así que su resolución no la agota.",
+   "No. Es reposición, que no procede, y además el plazo de tres meses no es el de ningún recurso expreso: el de reposición es de un mes (art. 124).",
+   "Es esta. Como la resolución la dicta un órgano con superior jerárquico, no agota la vía y cabe recurso de **alzada** ante ese superior. Si el acto es expreso, el plazo es de **un mes** (**art. 122.1**).",
+   "No. La alzada sí, pero el plazo es de **un mes** si el acto es expreso, no de tres meses (**art. 122.1**). Tres meses es el plazo para resolver el recurso."
+  ]
+ },
+ "pr-40-015": {
+  "bloque": "recursos",
+  "precepto": "Art. 121.2 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Presentarlo ante el órgano que dictó el acto es una opción, pero no la única (**art. 121.2**).",
+   "No. Ante el Secretario de Estado también se puede, pero no es la única vía (**art. 121.2**).",
+   "No. La Ministra no es ni el órgano que dictó la resolución ni el que la resuelve en alzada. Aquí el superior jerárquico es el Secretario de Estado (**art. 121.1**).",
+   "Es esta. El **art. 121.2** dice que el recurso de alzada puede interponerse ante el órgano que dictó el acto **o** ante el competente para resolverlo. Aquí son el Director General y el Secretario de Estado."
+  ],
+  "ojo": "Si se presenta ante el que dictó el acto, este tiene diez días para remitirlo al competente con su informe y el expediente."
+ },
+ "pr-40-016": {
+  "bloque": "recursos",
+  "precepto": "Art. 115.2 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. No se archiva ni se suspende. El error en la calificación no impide tramitar el recurso (**art. 115.2**).",
+   "No. Tampoco se desestima por ese motivo: el error en la calificación no es causa para rechazarlo (**art. 115.2**).",
+   "No. La ley no prevé suspender para dar cinco días de subsanación por una calificación errónea del recurso (**art. 115.2**).",
+   "Es esta. El **art. 115.2** dice que el error o la ausencia de calificación del recurso por parte del recurrente no es obstáculo para su tramitación, siempre que se deduzca su verdadero carácter."
+  ]
+ },
+ "pr-40-017": {
+  "bloque": "recursos",
+  "precepto": "Art. 118.1 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Si hay que tener en cuenta nuevos hechos o documentos no recogidos en el expediente originario, se pone de manifiesto a los interesados por un plazo **no inferior a diez días ni superior a quince** (**art. 118.1**).",
+   "No. El máximo es quince días, no veinte (**art. 118.1**).",
+   "No. El plazo no tiene un mínimo de veinte días. Es de diez a quince (**art. 118.1**).",
+   "No. Sí procede la audiencia cuando se tienen en cuenta nuevos hechos o documentos no recogidos en el expediente (**art. 118.1**)."
+  ],
+  "ojo": "Mismo margen de diez a quince días que la audiencia del procedimiento (art. 82.2)."
+ },
+ "pr-40-018": {
+  "bloque": "recursos",
+  "precepto": "Art. 121.1 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El órgano ante el que se presenta no tiene por qué ser el que resuelve. El recurso puede presentarse ante el que dictó el acto y lo resuelve otro (**art. 121.2**).",
+   "No. La Ministra está por encima del Secretario de Estado, pero la alzada se resuelve por el **superior jerárquico** inmediato del que dictó el acto (**art. 121.1**).",
+   "Es esta. El **art. 121.1** dice que la alzada se resuelve por el órgano **superior jerárquico** del que dictó el acto. El Director General depende del Secretario de Estado de Medio Ambiente.",
+   "No. Si lo resolviera el mismo que dictó el acto sería un recurso de reposición. En la alzada resuelve su superior (**art. 121.1**)."
+  ]
+ },
+ "pr-40-019": {
+  "bloque": "recursos",
+  "precepto": "Art. 122.2 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El **art. 122.2** fija **tres meses** para dictar y notificar la resolución del recurso de alzada. Si pasa sin resolución, se puede entender **desestimado**.",
+   "No. Un mes es el plazo para interponer la alzada si el acto es expreso (**art. 122.1**), no el de resolverla.",
+   "No. Falla el plazo (no es un mes) y el sentido: el silencio es desestimatorio (**art. 122.2**).",
+   "No. El plazo de tres meses es correcto, pero el silencio no es estimatorio, sino desestimatorio (**art. 122.2**)."
+  ],
+  "ojo": "La excepción es el recurso de alzada contra la desestimación por silencio de una solicitud: ahí el silencio sí estima (art. 24.1, tercer párrafo). No es el caso, porque aquí se recurre una resolución expresa."
+ },
+ "pr-40-020": {
+  "bloque": "recursos",
+  "precepto": "Art. 122.3 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Contra la resolución de una alzada no cabe reposición ni ningún otro recurso administrativo ordinario (**art. 122.3**).",
+   "No. La alzada no se repite. Contra su resolución no cabe otro recurso administrativo, salvo el extraordinario de revisión (**art. 122.3**).",
+   "No. Es casi cierta, pero omite una excepción: el recurso extraordinario de revisión, que sí cabe en los casos del **art. 125.1**.",
+   "Es esta. El **art. 122.3** dice que contra la resolución de un recurso de alzada no cabe ningún otro recurso administrativo, **salvo** el extraordinario de revisión en los casos del art. 125.1."
+  ],
+  "ojo": "Después de la alzada, solo queda el recurso contencioso-administrativo o, en casos tasados, el extraordinario de revisión."
+ }
+}

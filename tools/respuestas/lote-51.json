@@ -1,0 +1,169 @@
+{
+ "pr-42-016": {
+  "bloque": "organos",
+  "precepto": "Art. 9.1 de la Ley 40/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Cambia los dos órganos de sitio en el segundo supuesto. Si son de distintos Ministerios aprueba el superior del **delegado**, no del delegante (**art. 9.1**).",
+   "Es esta. El **art. 9.1** exige la aprobación previa del **superior común** si ambos órganos son del mismo Ministerio, o del órgano superior de quien dependa el **delegado** si son de distintos Ministerios.",
+   "No. El Secretario de Estado no es el órgano que aprueba en el supuesto del mismo Ministerio. Lo hace el superior común (**art. 9.1**).",
+   "No. Falla en las dos partes: no es el Secretario de Estado, y en distintos Ministerios aprueba el superior del delegado, no del delegante (**art. 9.1**)."
+  ]
+ },
+ "pr-42-017": {
+  "bloque": "responsabilidad",
+  "precepto": "Art. 32.8 de la Ley 40/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El **art. 32.8** dice que el procedimiento para fijar el importe se tramita por el **Ministerio de Justicia**, con audiencia al **Consejo de Estado**.",
+   "No. El Ministerio de Justicia es correcto, pero la audiencia es al Consejo de Estado, no al Tribunal de Cuentas (**art. 32.8**).",
+   "No. Quien lo tramita es el Ministerio de Justicia, no el de Hacienda (**art. 32.8**).",
+   "No. Se equivoca en las dos cosas: ni lo tramita Hacienda ni se oye al Tribunal de Cuentas (**art. 32.8**)."
+  ]
+ },
+ "pr-42-018": {
+  "bloque": "social",
+  "precepto": "Art. 64 de la Ley Orgánica 3/2007",
+  "correcta": 3,
+  "justificaciones": [
+   "No. La ley fija un momento concreto, el inicio de cada legislatura, y no deja la aprobación a que el Gobierno lo considere necesario.",
+   "No. El plan no es anual: la ley lo vincula al comienzo de cada legislatura (art. 64).",
+   "No. Tampoco es bienal: el plan se aprueba al inicio de cada legislatura (art. 64).",
+   "Es esta. El **art. 64** dice que el Gobierno aprobará, al inicio de cada legislatura, un Plan para la Igualdad entre mujeres y hombres en la Administración General del Estado y en los organismos públicos vinculados o dependientes de ella."
+  ]
+ },
+ "pr-42-019": {
+  "bloque": "fuentes",
+  "precepto": "Art. 26.2 de la Ley 50/1997",
+  "correcta": 3,
+  "justificaciones": [
+   "No. La “necesidad y oportunidad” son la materia sobre la que se consulta, no una causa para saltarse la consulta.",
+   "No. Es al revés: se puede prescindir cuando la propuesta **no** tenga un impacto significativo en la actividad económica.",
+   "No. La ley exige **razones graves de interés público**, no cualquier razón de interés general.",
+   "Es esta. El **art. 26.2** permite prescindir de la consulta pública cuando la propuesta regule aspectos parciales de una materia, entre otros supuestos."
+  ],
+  "ojo": "Otros supuestos para prescindir: normas presupuestarias u organizativas, razones graves de interés público, sin impacto significativo en la economía o sin obligaciones relevantes para los destinatarios."
+ },
+ "pr-42-020": {
+  "bloque": "actos",
+  "precepto": "Art. 35.1 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Se motivan los actos que **se separen** del criterio seguido en actuaciones precedentes (**art. 35.1.c**), no los que lo continúen.",
+   "No. Pedir informes o dictámenes no es un acto de los que enumera el **art. 35.1** como motivados.",
+   "No. El **art. 35.1.a** habla de los actos que **limiten derechos subjetivos o intereses legítimos**, no de “derechos e intereses fundamentales”.",
+   "Es esta. El **art. 35.1.e** obliga a motivar los acuerdos de tramitación de urgencia, de **ampliación de plazos** y de realización de actuaciones complementarias."
+  ],
+  "ojo": "Se motivan los acuerdos de ampliación de plazos, aunque contra ellos no quepa recurso (art. 32.3)."
+ },
+ "pr-42-021": {
+  "bloque": "iniciacion",
+  "precepto": "Art. 62 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El **art. 62.2** dice que las denuncias deberán expresar la identidad de quienes las presentan y el relato de los hechos que se ponen en conocimiento de la Administración.",
+   "No. Si la denuncia invoca un perjuicio en el patrimonio de las Administraciones Públicas, la no iniciación **deberá ser motivada** (**art. 62.3**), no “podrá no serlo”.",
+   "No. El órgano **deberá** eximir al denunciante de la multa cuando sea el primero en aportar elementos de prueba que permitan iniciar el procedimiento o comprobar la infracción (**art. 62.4**). No es una facultad.",
+   "No. La presentación de una denuncia **no confiere por sí sola** la condición de interesado (**art. 62.5**)."
+  ]
+ },
+ "pr-42-022": {
+  "bloque": "iniciacion",
+  "precepto": "Art. 56 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Es el texto del **art. 56.1**: el órgano competente para resolver, de oficio o a instancia de parte y de forma motivada, puede adoptar las medidas provisionales con proporcionalidad, efectividad y menor onerosidad.",
+   "No. Iniciado el procedimiento, la competencia es del órgano **competente para resolver**, no del que inicia o instruye. Además puede ser a instancia de parte y el principio es la “efectividad”, no la “eficiencia” (**art. 56.1**).",
+   "No. Antes de iniciar el procedimiento, la adopción es para casos de **urgencia inaplazable**, no de “emergencia”, y la competencia es del órgano que inicia o instruye, no del que resuelve (**art. 56.2**).",
+   "No. Antes de iniciar el procedimiento corresponde al órgano competente para **iniciar o instruir**, de oficio o a instancia de parte, y en casos de urgencia inaplazable (**art. 56.2**)."
+  ]
+ },
+ "pr-42-023": {
+  "bloque": "recursos",
+  "precepto": "Art. 118.1 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El **art. 118.1** da un plazo **no inferior a diez días ni superior a quince**.",
+   "No. Es un margen, no un plazo fijo de quince días (**art. 118.1**).",
+   "No. Es un margen, no un plazo fijo de diez días (**art. 118.1**).",
+   "No. El margen no es de cinco a diez, sino de diez a quince días (**art. 118.1**)."
+  ]
+ },
+ "pr-42-024": {
+  "bloque": "recursos",
+  "precepto": "Art. 121.2 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. El plazo es de diez días, no de cinco (**art. 121.2**).",
+   "Es esta. Si el recurso se presenta ante el órgano que dictó el acto, este debe remitirlo al competente en **diez días**, con su informe y copia completa y ordenada del expediente (**art. 121.2**).",
+   "No. El plazo es de diez días, no de quince (**art. 121.2**).",
+   "No. Un mes es el plazo para interponer la alzada contra un acto expreso, no el de remisión (**art. 121.2**)."
+  ]
+ },
+ "pr-42-025": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "Art. 44 de la LCSP",
+  "correcta": 3,
+  "justificaciones": [
+   "No. En obras el umbral es de **más de tres millones** de euros, no de uno.",
+   "No. Misma razón: el umbral en obras es de más de tres millones de euros.",
+   "No. En suministros el umbral es de **más de cien mil** euros, no de cincuenta mil.",
+   "Es esta. Los pliegos de los contratos de servicios con valor estimado superior a **cien mil euros** son recurribles en vía especial (**art. 44**)."
+  ]
+ },
+ "pr-42-026": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "Art. 102 de la LCSP",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El precio se entiende **con el IVA incluido**, y el IVA se indica **en todo caso como partida independiente** (**art. 102**).",
+   "No. No es una posibilidad: debe indicarse **en todo caso** como partida independiente (**art. 102**).",
+   "No. Sí se entiende incluido el IVA en el precio (**art. 102**).",
+   "No. No hay excepción para las concesiones de obras: en el precio se entiende incluido el IVA, indicado como partida independiente."
+  ]
+ },
+ "pr-42-027": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "Art. 99 de la LCSP",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Sí se puede limitar el número de lotes a los que un mismo licitador puede presentar oferta, justificándolo en el expediente (**art. 99**).",
+   "No. El objeto debe ser **determinado**, no indeterminado (**art. 99**).",
+   "No. Está **prohibido** fraccionar un contrato para disminuir su cuantía y eludir publicidad o requisitos de adjudicación (**art. 99**).",
+   "Es esta. El órgano de contratación puede reservar alguno o algunos lotes para centros especiales de empleo o empresas de inserción."
+  ]
+ },
+ "pr-42-028": {
+  "bloque": "lcsp-general",
+  "precepto": "Arts. 25 y 26 de la LCSP",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Los contratos de poderes adjudicadores que **no son Administración Pública** son contratos privados (**art. 26.1.b**).",
+   "No. Los celebrados por entidades que no son poder adjudicador también son privados (**art. 26.1.b**).",
+   "No. Los contratos de creación e interpretación artística de las Administraciones son **privados** (**art. 26.1.a**).",
+   "Es esta. Los contratos típicos de las Administraciones Públicas, como el suministro de energía, son **administrativos** (**art. 25.1.a**)."
+  ]
+ },
+ "pr-42-029": {
+  "bloque": "fuentes",
+  "precepto": "Art. 1.5 del Código Civil",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Adoptarlo no basta. El tratado forma parte del ordenamiento interno cuando se publica oficialmente en España (**art. 1.5 CC**).",
+   "Es esta. Según el **art. 1.5 CC**, los tratados internacionales válidamente celebrados, una vez publicados oficialmente en España, forman parte del ordenamiento interno. Se publican en el BOE.",
+   "No. La autorización de las Cortes puede ser necesaria para celebrarlo, pero lo que lo incorpora es la **publicación** (**art. 1.5 CC**).",
+   "No. El Boletín Oficial de las Cortes Generales no es el medio. Es el **Boletín Oficial del Estado**."
+  ]
+ },
+ "pr-42-030": {
+  "bloque": "fuentes",
+  "precepto": "Art. 24.1.d) de la Ley 50/1997",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Las “Órdenes” son la forma de las disposiciones de los Ministros (**art. 24.1.f**).",
+   "No. “Resoluciones del Consejo de Ministros” no es una forma que recoja el **art. 24.1**.",
+   "No. “Reglamentos del Consejo de Ministros” no existe como forma: los reglamentos del Consejo de Ministros adoptan la forma de Real Decreto (**art. 24.1.c**).",
+   "Es esta. El **art. 24.1.d** dice que las decisiones del Consejo de Ministros que no deban adoptar la forma de Real Decreto son **Acuerdos** del Consejo de Ministros."
+  ]
+ }
+}

@@ -1,0 +1,162 @@
+{
+ "pr-41-043": {
+  "bloque": "fuentes",
+  "precepto": "Art. 86 de la Constitución y art. 24.1.a) de la Ley 50/1997",
+  "correcta": 3,
+  "justificaciones": [
+   "No. La delegación legislativa con una ley de bases es la vía de los **Decretos Legislativos** (art. 82 CE). Un Real Decreto-ley no necesita ninguna ley previa que lo habilite.",
+   "No. Un Real Decreto-ley tiene **rango de ley**, mientras que un Real Decreto acordado en Consejo de Ministros es una norma reglamentaria. No tienen el mismo rango.",
+   "No. Es una disposición **legislativa** provisional, no reglamentaria (**art. 86 CE**). Se dicta por el Gobierno en caso de extraordinaria y urgente necesidad.",
+   "Es esta. El **art. 86.2 CE** manda someter los decretos-leyes a debate y votación de totalidad en el Congreso de los Diputados en los treinta días siguientes a su promulgación, para su convalidación o derogación."
+  ],
+  "ojo": "Decreto-ley: urgente, rango de ley, provisional y con convalidación en treinta días. Decreto legislativo: delegación previa de las Cortes."
+ },
+ "pr-41-044": {
+  "bloque": "fuentes",
+  "precepto": "Art. 2 del Código Civil",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El **art. 2.3 del Código Civil** dice que las leyes no tendrán efecto retroactivo si no dispusieren lo contrario.",
+   "No. No hay retroactividad por el solo hecho de que beneficie al interesado. Solo si la propia ley lo dispone (**art. 2.3 CC**), aunque la Constitución prohíbe la de normas restrictivas de derechos individuales.",
+   "No. La regla general es de **veinte días**, no de quince (**art. 2.1 CC**).",
+   "No. La derogación de la ley derogatoria no hace recobrar vigencia a las leyes que esta había derogado (**art. 2.2 CC**)."
+  ]
+ },
+ "pr-41-045": {
+  "bloque": "iniciacion",
+  "precepto": "Art. 62 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Presentar una denuncia **no confiere por sí sola** la condición de interesado (**art. 62.5**).",
+   "No. Solo se notifica la decisión de iniciar o no cuando la denuncia invoque un perjuicio en el patrimonio de las Administraciones Públicas, no “en todo caso” (**art. 62.2**).",
+   "No. El **art. 62.2** exige que la denuncia exprese la identidad de quien la presenta, así que no se prevé una denuncia anónima. Y, anónima o no, no confiere por sí sola la condición de interesado (**art. 62.5**).",
+   "Es esta. Si la denuncia invoca un perjuicio en el patrimonio de las Administraciones Públicas, la decisión de no iniciar el procedimiento debe ser **motivada** y se notifica al denunciante (**art. 62.3**)."
+  ]
+ },
+ "pr-41-046": {
+  "bloque": "organos",
+  "precepto": "Art. 9.1 de la Ley 40/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. No hace falta dependencia jerárquica. El **art. 9.1** permite delegar en otros órganos de la misma Administración **aun cuando no sean jerárquicamente dependientes**.",
+   "Es esta. El **art. 9.1** permite delegar en otros órganos de la misma Administración, aun cuando no sean jerárquicamente dependientes, o en organismos públicos o entidades vinculadas o dependientes.",
+   "No. La delegación es dentro de la misma Administración (o a sus organismos y entidades vinculados), no a otra Administración distinta, y no exige dependencia jerárquica (**art. 9.1**).",
+   "No. Falla la parte de la “distinta Administración”: se delega dentro de la misma (**art. 9.1**). Entre distintas Administraciones se usan otras figuras, como la encomienda de gestión o los convenios."
+  ]
+ },
+ "pr-41-047": {
+  "bloque": "actividad",
+  "precepto": "Art. 14.1 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El **art. 14.1** dice que las personas físicas pueden elegir en todo momento comunicarse con las Administraciones por medios electrónicos o no, y que el medio elegido podrá ser modificado por aquellas **en cualquier momento**.",
+   "No. No hay ese límite temporal. El cambio de medio es posible en cualquier momento (**art. 14.1**).",
+   "No. Tampoco existe ese límite de la propuesta de resolución (**art. 14.1**).",
+   "No. No están obligadas a mantener el medio. Pueden cambiarlo cuando quieran (**art. 14.1**)."
+  ]
+ },
+ "pr-41-048": {
+  "bloque": "organos",
+  "precepto": "Art. 15.3 de la Ley 40/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Que estén compuestos por representaciones de distintas Administraciones no obliga por sí solo a publicar (**art. 15.2 y 15.3**). Lo que obliga es dictar resoluciones con efectos frente a terceros.",
+   "No. Ser interdepartamental no es el criterio del **art. 15.3**.",
+   "Es esta. El **art. 15.3** exige publicar el acuerdo de creación y las normas de funcionamiento de los órganos colegiados **que dicten resoluciones con efectos jurídicos frente a terceros**.",
+   "No. Los órganos que solo emiten informes facultativos no producen efectos frente a terceros, así que no se aplica el **art. 15.3**."
+  ]
+ },
+ "pr-41-049": {
+  "bloque": "actividad",
+  "precepto": "Art. 24 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Solo es así cuando el silencio es **desestimatorio** (**art. 24.3.b**). Si el silencio es positivo, la resolución expresa posterior solo puede confirmarlo (art. 24.3.a).",
+   "No. Eso es lo que ocurre con el silencio **desestimatorio**: solo permite recurrir. La estimación por silencio produce un acto administrativo con plenos efectos (**art. 24.2 y 24.4**).",
+   "Es esta. El **art. 24.1** dice que el silencio también es desestimatorio en los procedimientos de impugnación de actos y disposiciones y en los de revisión de oficio iniciados a solicitud de los interesados.",
+   "No. Los actos por silencio producen efectos **desde el vencimiento del plazo** máximo (**art. 24.4**), no desde que se expida el certificado, que solo sirve para acreditarlo."
+  ]
+ },
+ "pr-41-050": {
+  "bloque": "interesados",
+  "precepto": "Art. 4.1 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "Sí tienen la condición de interesados (**art. 4.1.a**). No se marca.",
+   "Esta es la que hay que marcar. El **art. 4.1.c** exige que se personen en el procedimiento **en tanto no haya recaído resolución definitiva**. Una vez dictada, ya no.",
+   "Sí tienen la condición de interesados (**art. 4.1.b**): los que, sin haberlo iniciado, tengan derechos que puedan resultar afectados por la decisión. No se marca.",
+   "Sí tiene la condición de interesado (**art. 4.3**): el derechohabiente cuando la condición derive de una relación jurídica transmisible. No se marca."
+  ],
+  "ojo": "Pide la que NO es interesado. Aquí la trampa es el momento: hay que personarse mientras el procedimiento no esté resuelto."
+ },
+ "pr-41-051": {
+  "bloque": "revision",
+  "precepto": "Art. 107.1 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. La revisión de oficio con dictamen del Consejo de Estado es para actos **nulos** (art. 106). Este acto es anulable.",
+   "Es esta. Para impugnar un acto favorable anulable, la Administración debe declararlo **lesivo para el interés público**, con audiencia previa de los interesados, y recurrirlo ante el juez contencioso-administrativo (**art. 107**).",
+   "No. Revocar solo cabe en actos de gravamen o desfavorables (art. 109.1). Este es favorable.",
+   "No. La Administración no puede declarar por sí misma la anulabilidad de un acto favorable. Tiene que pedir su anulación a los tribunales, previa declaración de lesividad (**art. 107**)."
+  ]
+ },
+ "pr-41-052": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "Art. 156.6 de la LCSP",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. En el procedimiento abierto de contratos **no sujetos a regulación armonizada**, el plazo mínimo de presentación de proposiciones es de **quince días** en suministros y servicios, contados desde el siguiente a la publicación del anuncio en el perfil de contratante.",
+   "No. En suministros el mínimo es de **quince días**, no de veinte.",
+   "No. En obras, la LCSP fija **veintiséis días**, no treinta.",
+   "No. En la concesión de obras el mínimo no sujeto a regulación armonizada es de **veintiséis días**. Los treinta y cinco días son del suministro sujeto a regulación armonizada."
+  ],
+  "ojo": "No SARA: quince días en suministros y servicios, veintiséis en obras y concesiones. SARA: treinta y cinco en suministros y servicios, treinta en obras."
+ },
+ "pr-41-053": {
+  "bloque": "lcsp-general",
+  "precepto": "Art. 21.1 de la LCSP",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Esa cifra no es el umbral de ninguna Administración en la LCSP.",
+   "No. Los 140.000 euros son el umbral reducido, pero se aplica **solo** a la AGE, sus organismos autónomos y las entidades gestoras y servicios comunes de la Seguridad Social. Una Consejería de la Junta de Andalucía no está en ese grupo.",
+   "No. Esa cifra no coincide con el umbral de la LCSP para suministros de otras Administraciones.",
+   "Es esta. Una Consejería autonómica no es la AGE, así que se aplica el umbral general para suministros y servicios de **216.000 euros** (**art. 21.1**)."
+  ],
+  "ojo": "Suministros y servicios: 140.000 euros solo para la AGE y su entorno; 216.000 euros para el resto de poderes adjudicadores."
+ },
+ "pr-41-054": {
+  "bloque": "instruccion",
+  "precepto": "Art. 76.2 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Antes del trámite de audiencia es el plazo de las alegaciones generales (art. 76.1), no el de los defectos de tramitación.",
+   "No. No hay límite en la propuesta de resolución para esto (**art. 76.2**).",
+   "No. Tampoco hay esa ventana. Los defectos de tramitación pueden alegarse en todo momento (**art. 76.2**).",
+   "Es esta. El **art. 76.2** dice que los interesados pueden alegar los defectos de tramitación **en todo momento**."
+  ]
+ },
+ "pr-41-055": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "Art. 212.8 de la LCSP",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Cuatro meses es menos que el plazo legal.",
+   "No. Seis meses es el tope general de los procedimientos de la Ley 39/2015, pero la resolución de contratos tiene un plazo propio, más largo.",
+   "Es esta. El **art. 212.8** de la LCSP fija **ocho meses** para instruir y resolver los expedientes de resolución contractual.",
+   "No. Doce meses es más de lo que fija la ley."
+  ],
+  "ojo": "Resolución de contratos: ocho meses. Procedimientos de la Ley 39/2015: seis meses, salvo ley que fije otro."
+ },
+ "pr-41-056": {
+  "bloque": "lcsp-tipos",
+  "precepto": "Art. 235 de la LCSP",
+  "correcta": 3,
+  "justificaciones": [
+   "No. La cifra no se mide en valor estimado sino en **presupuesto base de licitación**, y el umbral es de 500.000 euros, no 350.000.",
+   "No. El umbral es de **500.000 euros**, no de 350.000 euros.",
+   "No. Acierta el umbral, pero el criterio es el **presupuesto base de licitación**, no el valor estimado (**art. 235**).",
+   "Es esta. El informe de la oficina o unidad de supervisión es obligatorio cuando el **presupuesto base de licitación** es igual o superior a **500.000 euros**, IVA excluido (**art. 235**)."
+  ],
+  "ojo": "Presupuesto base de licitación en la supervisión de proyectos. Valor estimado en la clasificación del contratista."
+ }
+}

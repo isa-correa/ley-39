@@ -1,0 +1,174 @@
+{
+ "pr-43-016": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "Art. 205.2.c) de la LCSP",
+  "correcta": 1,
+  "justificaciones": [
+   "No. 6.000 euros es el 10 % del precio de adjudicación. Ese es el límite de los contratos que **no** son de obras.",
+   "Es esta. Las modificaciones no previstas que no son sustanciales están limitadas, aislada o conjuntamente, al **15 %** del precio inicial en **obras**, IVA excluido. Sobre 60.000 euros, son **9.000 euros**.",
+   "No. 10.500 euros no sale de aplicar ninguno de los porcentajes de la ley a 60.000 euros.",
+   "No. 12.000 euros es el 20 % del precio inicial, el tope de las modificaciones previstas en el pliego, no de las no sustanciales."
+  ],
+  "ojo": "El incremento previsto, de 18.000 euros, supera con mucho los 9.000, por lo que no se podría considerar no sustancial. Por eso el órgano descartó aprobarlo."
+ },
+ "pr-43-017": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "Art. 193.3 de la LCSP",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Si el pliego no dice otra cosa, la penalidad por demora en el plazo total es de **0,60 euros por cada 1.000 euros del precio del contrato**, IVA excluido, al día. Con un precio de 60.000 euros son 36 euros diarios, y en diez días, **360 euros**.",
+   "No. 420 euros no sale de aplicar 0,60 euros por cada 1.000 euros al precio del contrato, que es de 60.000 euros: eso da 36 euros al día.",
+   "No. 435,60 euros saldría de aplicar la fórmula sobre el precio con IVA (72.600 euros). La ley dice IVA excluido.",
+   "No. 3.600 euros sale de multiplicar por diez de más: 0,60 euros por cada 1.000 son 36 euros al día, no 360."
+  ]
+ },
+ "pr-43-018": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "Arts. 229 y 230 de la LCSP",
+  "correcta": 2,
+  "justificaciones": [
+   "No. La Dirección General de Racionalización y Centralización de la Contratación es el órgano al que está adscrita la Junta, pero no es el órgano de contratación.",
+   "No. El Ministro de Hacienda **declara** qué bienes son de contratación centralizada, pero no contrata él.",
+   "Es esta. El órgano de contratación del sistema estatal de contratación centralizada es la **Junta de Contratación Centralizada**, adscrita al Ministerio de Hacienda (**art. 229**).",
+   "No. La Ministra del Ministerio destinatario no adjudica los contratos que se tramitan por el sistema centralizado."
+  ],
+  "ojo": "Declara el Ministro de Hacienda. Contrata la Junta de Contratación Centralizada."
+ },
+ "pr-43-019": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "Arts. 100 y 101 de la LCSP",
+  "correcta": 3,
+  "justificaciones": [
+   "No. 102.700 euros no sale de ningún cálculo con los datos del caso.",
+   "No. 130.000 euros es el **valor estimado**, que va sin IVA. El presupuesto base de licitación lleva IVA.",
+   "No. 143.000 euros no sale del cálculo del presupuesto base de licitación con los datos del caso.",
+   "Es esta. Sin prórrogas, modificaciones ni opciones, el valor estimado es de 130.000 euros. El **presupuesto base de licitación** es el límite máximo de gasto **con IVA incluido**: 130.000 más el 21 % son **157.300 euros**."
+  ],
+  "ojo": "Valor estimado: sin IVA. Presupuesto base de licitación: con IVA. El del caso se calcula aplicando el 21 % de IVA.",
+  "revisar": "Se ha aplicado el tipo general del 21 %, que no consta en el enunciado."
+ },
+ "pr-43-020": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "Arts. 21, 44 y 159 de la LCSP",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Con 130.000 euros de valor estimado, un contrato de servicios de la AGE no llega al umbral de regulación armonizada de 140.000 euros.",
+   "No. El procedimiento abreviado del art. 159.6 exige un valor estimado inferior a 60.000 euros en servicios, y aquí son 130.000.",
+   "Es esta. Los anuncios de licitación y los pliegos de contratos de servicios con valor estimado superior a **100.000 euros** son susceptibles de recurso especial (**art. 44**). Este vale 130.000 euros.",
+   "No. El abierto simplificado es una posibilidad cuando se cumplen sus requisitos, pero no es obligatorio: se puede usar el abierto ordinario (**art. 159**)."
+  ]
+ },
+ "pr-43-021": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "Art. 324 de la LCSP",
+  "correcta": 3,
+  "justificaciones": [
+   "No. La cifra de doce millones es un supuesto distinto. En el arrendamiento financiero o con opción de compra hay un criterio propio: el número de anualidades.",
+   "No. La autorización se exige por el número de anualidades, no por el ejercicio de la opción de compra.",
+   "No. Se cuenta al revés: la autorización es necesaria cuando las anualidades **superan cuatro**, y cinco las superan.",
+   "Es esta. El **art. 324** exige autorización del Consejo de Ministros en el arrendamiento financiero o con opción de compra cuando el número de anualidades **supera cuatro**. Aquí son cinco."
+  ],
+  "ojo": "Cuatro anualidades justas no necesitan autorización. Cinco, sí."
+ },
+ "pr-43-022": {
+  "bloque": "responsabilidad",
+  "precepto": "Art. 67.1 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. El año no se cuenta desde la caída cuando hay daños físicos con secuelas: se cuenta desde la determinación del alcance de las secuelas (**art. 67.1**).",
+   "Es esta. El derecho a reclamar prescribe al año, y en daños físicos el plazo empieza con la **determinación del alcance de las secuelas** (**art. 67.1**). Fue el 15 de mayo de 2025, y la reclamación se presentó el 16 de marzo de 2026, antes de cumplirse el año.",
+   "No. No hay un plazo de seis meses. El plazo de seis meses es el de resolución del procedimiento (art. 91.3).",
+   "No. No hay dos años: el plazo es de un año (**art. 67.1**)."
+  ]
+ },
+ "pr-43-023": {
+  "bloque": "actividad",
+  "precepto": "Art. 14 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Doña Amalia acudió al Ministerio para una gestión **particular**, no como empleada pública. Los empleados públicos solo están obligados a la vía electrónica en los trámites que hagan por razón de su condición (**art. 14.2.e**). Como persona física, puede elegir entre presentación presencial o electrónica (**art. 14.1**).",
+   "No. La responsabilidad patrimonial no está exceptuada de nada. La razón es que, como persona física, puede elegir el medio.",
+   "No. Su condición de funcionaria solo obliga a relacionarse electrónicamente en los trámites que haga **por razón de su empleo**, y aquí actúa a título particular.",
+   "No. La ley presume capacidad de acceso a medios electrónicos solo para los sujetos del art. 14.2. Una persona física puede elegir (**art. 14.1**)."
+  ],
+  "ojo": "Fíjate en cómo se describe el motivo de la visita: una gestión particular."
+ },
+ "pr-43-024": {
+  "bloque": "instruccion",
+  "precepto": "Art. 81.1 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. No es facultativo ni son quince días. En responsabilidad patrimonial este informe es **preceptivo** y se emite en diez días (**art. 81.1**).",
+   "No. Acierta el plazo, pero el informe no es facultativo: el **art. 81.1** lo hace preceptivo en estos procedimientos.",
+   "Es esta. El **art. 81.1** dice que en los procedimientos de responsabilidad patrimonial será **preceptivo** solicitar informe al servicio cuyo funcionamiento haya ocasionado la lesión, y que su emisión no puede exceder de **diez días**. Como regla general, los informes no son vinculantes (art. 80.1).",
+   "No. Es preceptivo y el plazo es correcto, pero no es vinculante: los informes lo son solo si una disposición lo dice expresamente (art. 80.1)."
+  ]
+ },
+ "pr-43-025": {
+  "bloque": "responsabilidad",
+  "precepto": "Arts. 91.3 y 92 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Ni el órgano ni la fecha. La caída ocurrió en un edificio del Ministerio de Juventud e Infancia, y no en el de Cultura donde ella presta servicios.",
+   "No. El órgano es correcto, pero el plazo es de **seis meses**, no tres, y el 16 de junio es una fecha que no sale de este cómputo.",
+   "No. El Ministerio de Cultura es donde trabaja doña Amalia, pero el daño se produjo en el edificio del Ministerio de Juventud e Infancia.",
+   "Es esta. En la AGE, la responsabilidad patrimonial se resuelve por el **Ministro respectivo**, es decir, el del Departamento cuyo servicio causó el daño. El plazo es de **seis meses** desde el inicio (**art. 91.3**): desde el 16 de marzo de 2026 acaba el **16 de septiembre de 2026**."
+  ]
+ },
+ "pr-43-026": {
+  "bloque": "responsabilidad",
+  "precepto": "Art. 34.2 de la Ley 40/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Las indemnizaciones por razón del servicio son las dietas y gastos de los empleados, que no tienen que ver con valorar un daño corporal.",
+   "Es esta. El **art. 34.2** dice que en los casos de muerte o lesiones corporales se podrá tomar como referencia la valoración de los **baremos de la normativa vigente en materia de seguros obligatorios y de la Seguridad Social**.",
+   "No. Los baremos de prevención de riesgos laborales no son la referencia del **art. 34.2**.",
+   "No. La Ley de Presupuestos no aprueba tablas anuales de indemnización por daños personales."
+  ]
+ },
+ "pr-43-027": {
+  "bloque": "responsabilidad",
+  "precepto": "Art. 34.3 de la Ley 40/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El **art. 34.3** dice que la cuantía se calcula con referencia al día en que la lesión efectivamente se produjo, sin perjuicio de su actualización a la fecha de la resolución y de los intereses. La caída fue el 24 de febrero de 2025.",
+   "No. El 15 de mayo de 2025 es la fecha de determinación de las secuelas, que sirve para empezar a contar el plazo para reclamar, no para calcular la cuantía.",
+   "No. El 16 de marzo de 2026 es la fecha de la reclamación, que no es la del cálculo.",
+   "No. La fecha de la resolución solo sirve para actualizar la cuantía, no para calcularla (**art. 34.3**)."
+  ]
+ },
+ "pr-43-028": {
+  "bloque": "recursos",
+  "precepto": "Arts. 9 y 11 de la Ley 29/1998",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Los Juzgados Centrales, ahora Secciones del Tribunal Central de Instancia, conocen de los recursos contra resoluciones de Ministros en responsabilidad patrimonial cuando lo reclamado **no exceda de 30.050 euros** (**art. 9.1.d**). Aquí se reclaman 35.000.",
+   "No. El TSJ no conoce de resoluciones dictadas por un Ministro, que son de ámbito nacional.",
+   "Es esta. La Sala de lo Contencioso-Administrativo de la **Audiencia Nacional** conoce en única instancia de los actos de los Ministros (**art. 11.1.a**), y como se reclaman más de 30.050 euros no corresponde a los Juzgados Centrales.",
+   "No. No hace falta agotar la vía con reposición. La resolución de un Ministro pone fin a la vía administrativa y la reposición es solo potestativa (**art. 123.1** de la Ley 39/2015)."
+  ]
+ },
+ "pr-43-029": {
+  "bloque": "sector",
+  "precepto": "Art. 93 de la Ley 40/2015 (los estatutos del organismo)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Los estatutos de los organismos públicos se aprueban por **Real Decreto del Consejo de Ministros**, a propuesta conjunta del Ministerio de Hacienda y del Ministerio al que el organismo esté vinculado.",
+   "No. El Ministerio de Hacienda participa en la propuesta, pero no aprueba los estatutos por Orden.",
+   "No. El Ministro de adscripción propone junto a Hacienda, pero la aprobación es por Real Decreto.",
+   "No. El propio organismo no aprueba sus estatutos. Se aprueban por Real Decreto."
+  ]
+ },
+ "pr-43-030": {
+  "bloque": "revision",
+  "precepto": "Art. 111.c).1.º de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. La revisión de oficio también alcanza a los organismos públicos vinculados o dependientes de la AGE (**art. 111.c**), no solo a los órganos ministeriales.",
+   "No. El Consejo de Ministros revisa sus propios actos y los de los Ministros (**art. 111.a**), no los del máximo órgano rector de un organismo.",
+   "No. El **art. 111.c.1.º** atribuye la revisión de los actos del máximo órgano rector al órgano **al que esté adscrito** el organismo, no a él mismo. Si lo revisara el propio órgano, se resolvería a sí mismo.",
+   "Es esta. El **art. 111.c.1.º** dice que son competentes para revisar los actos del máximo órgano rector del organismo los órganos a los que esté adscrito. El Instituto de la Juventud está adscrito a través de la Secretaría de Estado de Juventud e Infancia."
+  ],
+  "ojo": "Prescindir total y absolutamente del procedimiento es causa de nulidad (art. 47.1.e), así que cabe la revisión de oficio con dictamen favorable del Consejo de Estado."
+ }
+}

@@ -1,0 +1,162 @@
+{
+ "pr-41-057": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "Art. 158 de la LCSP",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Los quince días son para cuando el **único criterio es el precio**. Con el coste del ciclo de vida como único criterio, el plazo es de dos meses.",
+   "No. Falla el plazo y el momento. El plazo para adjudicar se cuenta desde la apertura de proposiciones, no desde la publicación de la licitación.",
+   "Es esta. Cuando hay pluralidad de criterios, o el único criterio es el **coste del ciclo de vida**, el plazo máximo para adjudicar es de **dos meses desde la apertura de proposiciones** (**art. 158**), salvo que el pliego fije otro.",
+   "No. Dos meses es correcto, pero cuentan desde la **apertura de las proposiciones**, no desde la publicación en el perfil de contratante."
+  ],
+  "ojo": "Quince días solo si el único criterio es el precio. Coste del ciclo de vida cuenta como pluralidad: dos meses."
+ },
+ "pr-41-058": {
+  "bloque": "lcsp-tipos",
+  "precepto": "Arts. 306 y 307 de la LCSP",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Si la Administración suspende el suministro más de ocho meses, el contratista tiene derecho al **6 %** del precio de adjudicación **de los suministros dejados de realizar**, en concepto de beneficio industrial, IVA excluido (**art. 307**).",
+   "No. El 3 % es la indemnización cuando se desiste antes de iniciar el suministro o se suspende su inicio. Una vez iniciado, es el 6 %.",
+   "No. El 3 % se calcula sobre el precio de adjudicación del contrato y es para el caso de desistimiento antes de iniciar. No es el de este supuesto.",
+   "No. El porcentaje es correcto, pero la base no es el precio de adjudicación del contrato entero, sino el de los suministros **dejados de realizar** (**art. 307**)."
+  ]
+ },
+ "pr-41-059": {
+  "bloque": "social",
+  "precepto": "Art. 2 del Real Decreto Legislativo 1/2013",
+  "correcta": 2,
+  "justificaciones": [
+   "No. La accesibilidad universal es la condición que deben cumplir entornos, productos y servicios para que todas las personas puedan usarlos en condiciones de seguridad y comodidad. No describe el poder de decisión sobre la propia vida.",
+   "No. La normalización es el principio por el que las personas con discapacidad pueden llevar una vida en igualdad de condiciones. No es la definición pedida.",
+   "Es esta. El **art. 2 del RDL 1/2013** define la **vida independiente** como la situación en la que la persona con discapacidad ejerce el poder de decisión sobre su propia existencia y participa activamente en la vida de su comunidad. (El texto consolidado actual de la norma redacta esta definición de forma distinta, pero la pregunta usa la fórmula clásica.)",
+   "No. La inclusión social es el principio por el que la sociedad debe contar con las personas con discapacidad, pero no es la definición del enunciado."
+  ]
+ },
+ "pr-41-060": {
+  "bloque": "social",
+  "precepto": "Art. 26 de la Ley 39/2006",
+  "correcta": 1,
+  "justificaciones": [
+   "No. El apoyo **extenso** corresponde al Grado II, dependencia severa.",
+   "Es esta. El Grado I, dependencia moderada, se corresponde con necesidades de apoyo **intermitente o limitado** para la autonomía personal.",
+   "No. El apoyo **generalizado** es el del Grado III, gran dependencia.",
+   "No. El apoyo indispensable y continuado es el del Grado III, gran dependencia."
+  ],
+  "ojo": "Grado I moderada: limitado. Grado II severa: extenso. Grado III gran dependencia: generalizado o continuo."
+ },
+ "pr-41-061": {
+  "bloque": "lcsp-otros",
+  "precepto": "Art. 326 de la LCSP",
+  "correcta": 2,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. La mesa califica la documentación acreditativa del cumplimiento de los requisitos previos.",
+   "Es verdadera, así que no se marca. La mesa valora las proposiciones de los licitadores.",
+   "Esta es la falsa, y por eso es la que hay que marcar. La mesa **propone** la adjudicación, pero quien adjudica es el **órgano de contratación**.",
+   "Es verdadera, así que no se marca. La mesa propone, cuando proceda, la calificación de una oferta como anormalmente baja."
+  ],
+  "ojo": "La mesa asiste y propone. La decisión de adjudicar es del órgano de contratación."
+ },
+ "pr-41-062": {
+  "bloque": "lcsp-general",
+  "precepto": "Art. 4 de la LCSP",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El **art. 4** dice que los negocios y contratos excluidos se regulan por sus normas especiales, y se aplican los **principios de la LCSP** para resolver las dudas y lagunas.",
+   "No. No se rigen solo por el derecho privado: se rigen por sus normas especiales y, para dudas y lagunas, por los principios de la ley (**art. 4**).",
+   "No. En defecto de normas especiales no se aplica la LCSP entera, sino sus **principios** (**art. 4**).",
+   "No. No se rigen solo por normas administrativas. Su régimen es el de sus normas especiales (**art. 4**)."
+  ]
+ },
+ "pr-41-063": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "Art. 36 de la LCSP",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. La regla general es que el contrato se perfecciona con la formalización, pero los **contratos basados en un acuerdo marco** y los **específicos de un sistema dinámico de adquisición** se perfeccionan con su **adjudicación** (**art. 36**).",
+   "No. La formalización es la regla general. Estos dos tipos de contrato son la excepción, para agilizar su tramitación.",
+   "No. La publicación no perfecciona el contrato.",
+   "No. La firma es la formalización. En estos contratos basta la adjudicación."
+  ]
+ },
+ "pr-41-064": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "Art. 29 de la LCSP",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Veinticinco años es el máximo de la concesión de servicios genérica, sin obra.",
+   "No. Diez años es el plazo de la concesión de servicios sanitarios **sin** obras. Aquí sí comprende ejecución de obras.",
+   "Es esta. La concesión de servicios que comprende ejecución de obras tiene un máximo de **cuarenta años**, incluidas las prórrogas, aunque el servicio sea sanitario (**art. 29**).",
+   "No. Quince años no es ninguno de los máximos de las concesiones del **art. 29**."
+  ],
+  "ojo": "Cuarenta años: concesión de obras y concesión de servicios con obra. Veinticinco: servicios genéricos. Diez: servicios sanitarios sin obra."
+ },
+ "pr-41-065": {
+  "bloque": "lcsp-general",
+  "precepto": "Art. 21 de la LCSP",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Un Ayuntamiento no es la AGE: se aplica el umbral de 216.000 euros, no el de 140.000.",
+   "No. Las entidades gestoras de la Seguridad Social están en el grupo reducido de la AGE: el umbral es de **140.000 euros**, no de 216.000.",
+   "Es esta. Una Comunidad Autónoma no pertenece al grupo de la AGE, así que el umbral para servicios es de **216.000 euros** (**art. 21**).",
+   "No. Una Universidad es otro poder adjudicador distinto de la AGE: el umbral es de 216.000 euros, no de 140.000."
+  ]
+ },
+ "pr-41-066": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "Art. 168 de la LCSP",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Los servicios sociales personalísimos no son un supuesto del procedimiento negociado sin publicidad del art. 168.",
+   "Es esta. El **art. 168** permite el negociado sin publicidad cuando no exista competencia por razones técnicas, entre otros supuestos tasados.",
+   "No. Contratar proyectos o soluciones innovadoras es un supuesto del procedimiento negociado **con** publicidad (art. 167).",
+   "No. Los servicios intelectuales de especial complejidad también son supuesto del negociado **con** publicidad (art. 167)."
+  ],
+  "ojo": "Con publicidad (art. 167): innovación y servicios intelectuales complejos. Sin publicidad (art. 168): casos tasados como la falta de competencia por razones técnicas."
+ },
+ "pr-41-067": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "Art. 44 de la LCSP",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Contra los contratos adjudicados por tramitación de **emergencia** no cabe recurso especial, aunque superen el umbral.",
+   "No. En la concesión de servicios el umbral es de **más de tres millones** de euros, no de dos.",
+   "Es esta. En servicios el umbral es de más de 100.000 euros de valor estimado, y la tramitación de **urgencia** no impide el recurso especial. Un contrato de 140.000 euros supera el umbral.",
+   "No. En suministros hace falta un valor estimado **superior** a 100.000 euros. Con exactamente 100.000 no llega."
+  ],
+  "ojo": "Emergencia: nunca recurso especial. Urgencia: sí. Obras y concesiones: más de tres millones. Suministros y servicios: más de cien mil."
+ },
+ "pr-41-068": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "Art. 72.6 de la LCSP",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Tres años es el límite de otras prohibiciones de contratar, como las de los supuestos de infracciones graves.",
+   "No. Cuatro años no es el plazo que fija la ley para este caso.",
+   "No. Un año no es el plazo de ninguna de las prohibiciones por sentencia penal.",
+   "Es esta. Cuando la sentencia penal firme no fija la duración, la prohibición de contratar no puede exceder de **cinco años** desde la fecha de la condena."
+  ]
+ },
+ "pr-41-069": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "Art. 50 de la LCSP",
+  "correcta": 1,
+  "justificaciones": [
+   "No. El plazo es de **quince** días hábiles, no diez.",
+   "Es esta. El **art. 50** fija **quince días hábiles** para interponer el recurso especial en materia de contratación.",
+   "No. Ni son diez ni son naturales. Son quince días hábiles.",
+   "No. La cifra es correcta pero los días son **hábiles**, no naturales (**art. 50**)."
+  ]
+ },
+ "pr-41-070": {
+  "bloque": "lcsp-general",
+  "precepto": "Art. 16 de la LCSP",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Los contratos relativos a propiedades incorporales **no** se consideran de suministro (art. 16).",
+   "No. Los programas de ordenador desarrollados a medida son contratos de **servicios** (art. 17), no de suministro.",
+   "Es esta. El **art. 16** considera contratos de suministro los que tienen por objeto la adquisición de energía primaria o transformada.",
+   "No. Redactar el proyecto de una obra es un contrato de **servicios**, no de suministro (art. 17)."
+  ]
+ }
+}

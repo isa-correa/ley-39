@@ -1,0 +1,172 @@
+{
+ "pr-42-001": {
+  "bloque": "actividad",
+  "precepto": "Art. 24.1 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. En los procedimientos a solicitud, el vencimiento del plazo máximo sin resolución expresa **legitima al interesado para entenderla estimada** por silencio (**art. 24.1**), salvo que una norma con rango de ley, del Derecho de la UE o del Derecho internacional establezca lo contrario.",
+   "No. Es al revés: el silencio es **desestimatorio**, no estimatorio, en el derecho de petición del art. 29 de la Constitución (**art. 24.1**).",
+   "No. La regla general es el silencio **positivo**. El desestimatorio es la excepción cuando una norma con rango de ley o del Derecho de la UE lo dispone (**art. 24.1**).",
+   "No. La resolución expresa posterior sin vinculación al sentido del silencio se da cuando el silencio es **desestimatorio**. Cuando el silencio estima, la resolución posterior solo puede confirmar la estimación (**art. 24.3.a**)."
+  ],
+  "ojo": "Silencio positivo: la resolución tardía solo puede ser confirmatoria. Silencio negativo: la resolución tardía es libre."
+ },
+ "pr-42-002": {
+  "bloque": "interesados",
+  "precepto": "Art. 5.3 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El **art. 5.3** habla de **desistir de acciones**, no de interponerlas. Falla el verbo.",
+   "No. Formular denuncias no figura entre las actuaciones del **art. 5.3** para las que se exige acreditar la representación.",
+   "Es esta. El **art. 5.3** exige acreditar la representación para formular solicitudes, presentar declaraciones responsables o **comunicaciones**, interponer recursos, desistir de acciones y renunciar a derechos.",
+   "No. Se cambia la fórmula. El **art. 5.3** habla de **renunciar** a derechos y **desistir de acciones**, no de “desistir de derechos”."
+  ],
+  "ojo": "Se desiste de acciones y se renuncia a derechos. Cambiarlo es la trampa clásica."
+ },
+ "pr-42-003": {
+  "bloque": "actos",
+  "precepto": "Art. 39 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Si la eficacia está supeditada a su publicación, queda **demorada** hasta que ocurra (**art. 39.2**).",
+   "No. La eficacia retroactiva excepcional vale para actos dictados en sustitución de actos **anulados**, no de actos nulos (**art. 39.3**).",
+   "No. La retroactividad solo puede darse cuando los efectos son **favorables** al interesado, no desfavorables (**art. 39.3**).",
+   "Es esta. El **art. 39.2** dice que la eficacia queda demorada cuando así lo exija el contenido del acto o esté supeditada a su notificación, publicación o aprobación superior."
+  ],
+  "ojo": "Retroactividad excepcional: sustituir actos anulados, o efectos favorables al interesado, con límites."
+ },
+ "pr-42-004": {
+  "bloque": "fuentes",
+  "precepto": "Art. 2.1 del Código Civil",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Quince días no es el plazo del **art. 2.1 CC**.",
+   "Es esta. Si la ley no dispone otra cosa, entra en vigor a los **veinte días** de su completa publicación en el BOE (**art. 2.1 CC**).",
+   "No. Treinta días no es el plazo del **art. 2.1 CC**.",
+   "No. Al día siguiente solo entra en vigor si la propia ley lo establece. La regla general es de veinte días."
+  ]
+ },
+ "pr-42-005": {
+  "bloque": "actos",
+  "precepto": "Art. 43 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El **art. 43.2** dice que las notificaciones por medios electrónicos se entienden practicadas en el momento en que se produce el acceso a su contenido.",
+   "No. Se entiende rechazada a los **diez días naturales**, no a los cinco (**art. 43.2**).",
+   "No. El **art. 43.4** dice que los interesados **podrán** acceder desde el Punto de Acceso General electrónico, no que deban hacerlo solo desde ahí. También pueden hacerlo desde la sede electrónica.",
+   "No. La notificación se practica mediante comparecencia en la sede electrónica o en la dirección electrónica habilitada única (**art. 43.1**), no en la carpeta ciudadana."
+  ],
+  "ojo": "Acceso al contenido: notificación practicada. Diez días naturales sin acceder: rechazada."
+ },
+ "pr-42-006": {
+  "bloque": "nulidad",
+  "precepto": "Art. 48.1 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Es nulo de pleno derecho: **art. 47.1.f**, actos por los que se adquieren facultades o derechos sin los requisitos esenciales.",
+   "No. El órgano **manifiestamente** incompetente por razón de la materia o del territorio da lugar a **nulidad** (**art. 47.1.b**).",
+   "Es esta. El **art. 48.1** dice que son anulables los actos que incurran en cualquier infracción del ordenamiento jurídico, **incluso la desviación de poder**.",
+   "No. Prescindir total y absolutamente del procedimiento legalmente establecido da lugar a **nulidad** (**art. 47.1.e**)."
+  ],
+  "ojo": "Nulos: lista cerrada del art. 47.1. Anulables: cualquier otra infracción."
+ },
+ "pr-42-007": {
+  "bloque": "recursos",
+  "precepto": "Art. 114.1.d) de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Las resoluciones que acuerden medidas provisionales no ponen fin a la vía administrativa; son resoluciones de trámite.",
+   "No. El **art. 114.2.c** habla de los órganos directivos con nivel de **Director General** o superior, en materia de personal, no de Subdirector General.",
+   "No. El **art. 114.1.c** dice “salvo que una **Ley** establezca lo contrario”. La opción añade “o reglamentaria” y generaliza a todos los órganos administrativos, cuando la letra se refiere a los que carecen de superior jerárquico.",
+   "Es esta. El **art. 114.1.d** dice que ponen fin a la vía administrativa los acuerdos, pactos, convenios o contratos que tengan la consideración de **finalizadores** del procedimiento."
+  ]
+ },
+ "pr-42-008": {
+  "bloque": "instruccion",
+  "precepto": "Art. 87 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Siete días es el plazo para formular alegaciones al acabar las actuaciones complementarias, no el plazo para practicarlas.",
+   "No. Ese margen, de diez a quince días, es el de la audiencia (art. 82.2), no el de las actuaciones complementarias.",
+   "No. Veinte días no figura en el **art. 87**.",
+   "Es esta. El **art. 87** dice que las actuaciones complementarias deberán practicarse en un plazo **no superior a quince días**."
+  ]
+ },
+ "pr-42-009": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "Art. 102 de la LCSP",
+  "correcta": 3,
+  "justificaciones": [
+   "No. La recuperación de la inversión es un requisito de la revisión de precios en general, no una vía para admitirla cuando los precios son provisionales.",
+   "No. Ese plazo de recuperación no abre la puerta a la revisión en contratos con precios provisionales.",
+   "No. El 20 % de ejecución y el año desde la formalización son requisitos para la revisión de precios ordinaria (art. 103), no para precios provisionales.",
+   "Es esta. Los precios provisionales son una excepción y en esos contratos **no cabe la revisión de precios** (**art. 102**)."
+  ]
+ },
+ "pr-42-010": {
+  "bloque": "subvenciones",
+  "precepto": "Art. 2.4 de la Ley 38/2003",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Las ayudas de la Política Agrícola Común se regulan por su normativa específica, pero el art. 2.4 no las excluye con ese nombre.",
+   "No. Financiar proyectos de ciencia y tecnología puede ser objeto de subvención.",
+   "Es esta. El **art. 2.4** dice que los beneficios fiscales y los beneficios en la cotización a la Seguridad Social no tienen carácter de subvenciones.",
+   "No. Fomentar actividades de interés social es la finalidad típica de una subvención (**art. 2.1.c**)."
+  ]
+ },
+ "pr-42-011": {
+  "bloque": "responsabilidad",
+  "precepto": "Art. 32.8 de la Ley 40/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. El Ministerio de Justicia tramita el procedimiento, pero no fija el importe (**art. 32.8**, párrafo segundo).",
+   "Es esta. El **art. 32.8** dice que el **Consejo de Ministros** fija el importe de las indemnizaciones.",
+   "No. El Consejo de Estado solo es oído en el procedimiento (**art. 32.8**), no decide el importe.",
+   "No. El Tribunal Constitucional declara el funcionamiento anormal, pero no fija la indemnización (**art. 32.8**)."
+  ]
+ },
+ "pr-42-012": {
+  "bloque": "social",
+  "precepto": "Art. 5.2 de la Ley 4/2023",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Entre las medidas de los poderes públicos del **art. 5** está fomentar el reconocimiento institucional y la participación en los actos conmemorativos de la lucha por la igualdad real y efectiva de las personas LGTBI.",
+   "No. La ley va en sentido contrario: promueve la diversidad, no la limita.",
+   "No. Poner en valor la identidad cultural y religiosa no es la finalidad del art. 5 de esta ley.",
+   "No. Tampoco la identidad racial y cultural es el objeto de esta medida del art. 5."
+  ]
+ },
+ "pr-42-013": {
+  "bloque": "actos",
+  "precepto": "Art. 45.1.b) de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. La publicación obligatoria es para una pluralidad **indeterminada** de personas, no determinada (**art. 45.1.a**). Si los destinatarios están determinados, se notifica a cada uno.",
+   "Es esta. El **art. 45.1.b** manda publicar los actos integrantes de un procedimiento selectivo o de concurrencia competitiva de cualquier tipo.",
+   "No. Haber varios interesados no obliga a publicar. Se notifica a cada uno.",
+   "No. Que el interesado lo pida expresamente en su solicitud no obliga a publicar."
+  ]
+ },
+ "pr-42-014": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "Art. 106 de la LCSP",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. La garantía provisional no puede superar el **3 %** del **presupuesto base de licitación**, IVA excluido (**art. 106**).",
+   "No. El porcentaje es correcto, pero la base no es el valor estimado: es el presupuesto base de licitación (**art. 106**).",
+   "No. El tope es del **3 %**, no del 2 %.",
+   "No. Falla el porcentaje y la base: es el 3 % del presupuesto base de licitación (**art. 106**)."
+  ]
+ },
+ "pr-42-015": {
+  "bloque": "lcsp-general",
+  "precepto": "Arts. 16 y 17 de la LCSP",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Adquirir equipos y sistemas de telecomunicaciones es un contrato de **suministro** (art. 16).",
+   "Es esta. Los contratos para elaborar programas de ordenador desarrollados a medida se consideran contratos de **servicios** (**art. 17**).",
+   "No. Adquirir energía primaria es un contrato de **suministro** (art. 16).",
+   "No. Adquirir energía transformada también es un contrato de **suministro** (art. 16)."
+  ]
+ }
+}

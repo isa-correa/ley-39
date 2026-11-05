@@ -1,0 +1,164 @@
+{
+ "pr-41-001": {
+  "bloque": "actos",
+  "precepto": "Art. 36.2 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El **art. 36.2** dice que, si un órgano ejerce su competencia de forma verbal y hace falta constancia escrita, la efectúa y la firma el titular del **órgano inferior o el funcionario que la reciba oralmente**, indicando de qué autoridad procede.",
+   "No. La ley no deja al titular superior elegir a un funcionario para que firme. Firma quien recibe la orden oral (**art. 36.2**).",
+   "No. El titular superior es quien da la orden verbal, no quien deja la constancia por escrito (**art. 36.2**).",
+   "No. Sí pueden ejercer sus competencias de forma verbal; el **art. 36.2** regula precisamente cómo se documenta cuando hace falta."
+  ]
+ },
+ "pr-41-002": {
+  "bloque": "revision",
+  "precepto": "Art. 107.2 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Sí tiene límite de tiempo. “En cualquier momento” es la regla de la revisión de actos nulos (art. 106), no de la lesividad.",
+   "No. El límite no es de un año sino de **cuatro** (**art. 107.2**).",
+   "Es esta. El **art. 107.2** dice que la declaración de lesividad no puede adoptarse una vez transcurridos **cuatro años** desde que se dictó el acto.",
+   "No. Seis meses es el plazo de caducidad del procedimiento de lesividad desde su inicio (**art. 107.3**), no el plazo para adoptarla desde que se dictó el acto."
+  ],
+  "ojo": "Dos plazos distintos: cuatro años desde el acto, y seis meses desde que se inicia el procedimiento de lesividad."
+ },
+ "pr-41-003": {
+  "bloque": "organos",
+  "precepto": "Art. 11 de la Ley 40/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. La encomienda **no** cede la titularidad de la competencia (**art. 11.2**). Solo se encarga la realización de una actividad.",
+   "Es esta. El **art. 11.1** dice que se encomienda la realización de actividades de carácter **material o técnico** de la competencia de los órganos administrativos o entidades de derecho público.",
+   "No. Puede ser a órganos o entidades de la misma **o de distinta** Administración (**art. 11.1**). Si son de distintas Administraciones, se formaliza mediante convenio.",
+   "No. Es al revés: las encomiendas **no pueden** tener por objeto prestaciones propias de los contratos del sector público (**art. 11.1**, párrafo segundo)."
+  ]
+ },
+ "pr-41-004": {
+  "bloque": "sector",
+  "precepto": "Arts. 113 y 114 de la Ley 40/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. La creación de una sociedad mercantil estatal se autoriza mediante **acuerdo del Consejo de Ministros** (**art. 114.1**), que debe ir acompañado de una propuesta de estatutos y de un plan de actuación.",
+   "No. El **art. 113** dice que no pueden disponer de facultades de autoridad pública, **sin perjuicio** de que excepcionalmente la ley les atribuya el ejercicio de potestades administrativas. “En ningún caso” es demasiado.",
+   "No. Se rigen por el ordenamiento jurídico **privado**, salvo en materias de normativa presupuestaria, contable, de personal, control económico-financiero y contratación (**art. 113**). No se rigen íntegramente por el derecho público.",
+   "No. Las sociedades mercantiles estatales no son organismos públicos. Los organismos públicos son los organismos autónomos y las entidades públicas empresariales (art. 88)."
+  ]
+ },
+ "pr-41-005": {
+  "bloque": "sector",
+  "precepto": "Art. 49.h).1.º de la Ley 40/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Los convenios no tienen una duración mínima de cuatro años. El **art. 49.h.1.º** pone un **máximo** de cuatro años.",
+   "Es esta. El **art. 49.h.1.º** dice que los convenios tendrán una duración determinada, que no podrá ser **superior a cuatro años**, salvo que normativamente se prevea un plazo superior.",
+   "No. No hay mínimo de cinco años, y el tope es de cuatro, no de cinco (**art. 49.h.1.º**).",
+   "No. El tope es de cuatro años, no de cinco (**art. 49.h.1.º**)."
+  ],
+  "ojo": "Convenios: máximo cuatro años, prorrogables por acuerdo unánime hasta otros cuatro más."
+ },
+ "pr-41-006": {
+  "bloque": "plazos",
+  "precepto": "Art. 32 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. Lo dice el **art. 32.1**: el acuerdo de ampliación se notifica a los interesados.",
+   "Esta es la falsa, y por eso es la que hay que marcar. El **art. 32.3** dice que en ningún caso podrá ampliarse un plazo ya vencido. Por tanto no hay constancia de motivos que valga, porque no se puede hacer.",
+   "Es verdadera, así que no se marca. El **art. 32.2** aplica la ampliación por el tiempo máximo permitido en todo caso a los procedimientos que exijan trámites en el extranjero.",
+   "Es verdadera, así que no se marca. El **art. 32.3** dice que los acuerdos sobre ampliación o su denegación no son susceptibles de recurso, sin perjuicio del que proceda contra la resolución final."
+  ],
+  "ojo": "La ampliación debe pedirse y acordarse antes de que venza el plazo, y no puede pasar de la mitad del mismo."
+ },
+ "pr-41-007": {
+  "bloque": "nulidad",
+  "precepto": "Art. 50 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. La conservación (art. 51) salva actos y trámites que habrían sido iguales aunque no existiera el vicio.",
+   "No. La convalidación (art. 52) subsana los vicios de un acto anulable. No lo convierte en otro.",
+   "Es esta. El **art. 50** se titula “Conversión de actos viciados”: el acto, anulable o nulo, que reúne los elementos de otro distinto produce los efectos de este.",
+   "No. “Transmisibilidad” no es una figura de la Ley 39/2015 en este contexto."
+  ]
+ },
+ "pr-41-008": {
+  "bloque": "recursos",
+  "precepto": "Art. 118.1 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El plazo tiene un máximo de quince días, no solo un mínimo (**art. 118.1**).",
+   "No. El máximo no es de treinta días sino de quince (**art. 118.1**).",
+   "Es esta. El **art. 118.1** da un plazo **no inferior a diez días ni superior a quince** para alegar sobre nuevos hechos o documentos.",
+   "No. Ni el mínimo es de quince ni el máximo de treinta (**art. 118.1**)."
+  ]
+ },
+ "pr-41-009": {
+  "bloque": "finalizacion",
+  "precepto": "Art. 104 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El **art. 104** permite la compulsión directa sobre las personas, cuando la ley lo autorice y respetando su dignidad, para actos que impongan una obligación personalísima de **no hacer o soportar**.",
+   "No. Pagar una cantidad líquida se ejecuta por apremio sobre el patrimonio (arts. 100 y 101).",
+   "No. Las obligaciones que otro puede cumplir en lugar del obligado se ejecutan por ejecución subsidiaria (art. 102).",
+   "No. Se cambia la fórmula. El **art. 104** habla de obligaciones personalísimas de **no hacer o soportar**, no de “hacer”. Las de hacer personalísimas se ejecutan por multa coercitiva (art. 103)."
+  ],
+  "ojo": "Compulsión sobre las personas: no hacer o soportar. Multa coercitiva: hacer personalísimo."
+ },
+ "pr-41-010": {
+  "bloque": "recursos",
+  "precepto": "Arts. 32.3, 33.2, 107.2 y 112.1 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Los acuerdos sobre ampliación de plazos o sobre su denegación no son susceptibles de recurso (**art. 32.3**).",
+   "No. La declaración de lesividad no es susceptible de recurso (**art. 107.2**).",
+   "No. El acuerdo de aplicar la tramitación de urgencia no es susceptible de recurso (**art. 33.2**).",
+   "Es esta. La resolución que declara la caducidad pone fin al procedimiento, y por eso se puede recurrir (**art. 112.1**: resoluciones y actos de trámite cualificados)."
+  ],
+  "ojo": "No admiten recurso: ampliación de plazos, tramitación de urgencia y lesividad. Sí lo admiten las resoluciones que terminan el procedimiento."
+ },
+ "pr-41-011": {
+  "bloque": "revision",
+  "precepto": "Art. 111.b).1.º de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El **art. 111.b.1.º** dice que los Ministros son competentes para revisar de oficio los actos de los Secretarios de Estado y los de los órganos directivos de su Departamento **no dependientes de una Secretaría de Estado**. El titular del Departamento es el Ministro.",
+   "No. El art. 111 no atribuye la revisión de oficio al Subsecretario.",
+   "No. El art. 111 no atribuye la revisión de oficio al Secretario General Técnico.",
+   "No. El Consejo de Ministros revisa sus propios actos y los de los Ministros (**art. 111.a**), no los de órganos directivos del Departamento."
+  ]
+ },
+ "pr-41-012": {
+  "bloque": "interesados",
+  "precepto": "Arts. 13 y 53.1.b) de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. Es el **art. 13.a**: comunicarse con las Administraciones a través del Punto de Acceso General electrónico.",
+   "Es verdadera, así que no se marca. Es el **art. 13.f**: exigir las responsabilidades de las Administraciones y autoridades cuando corresponda legalmente.",
+   "Es verdadera, así que no se marca. Es el **art. 13.g**: obtener y usar los medios de identificación y firma electrónica.",
+   "Esta es la falsa, y por eso es la que hay que marcar. Identificar a las autoridades y al personal bajo cuya responsabilidad se tramita un procedimiento es un derecho del interesado **en el procedimiento**, recogido en el **art. 53.1.b**, no en el art. 13."
+  ],
+  "ojo": "Art. 13: derechos generales de relación con la Administración. Art. 53: derechos del interesado dentro de un procedimiento."
+ },
+ "pr-41-013": {
+  "bloque": "nulidad",
+  "precepto": "Art. 47.1.f) de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Cualquier infracción del ordenamiento jurídico hace el acto **anulable** (**art. 48.1**), no nulo.",
+   "Es esta. Es el **art. 47.1.f**: son nulos los actos, expresos o presuntos, contrarios al ordenamiento por los que se adquieren facultades o derechos cuando se carezca de los requisitos esenciales para adquirirlos.",
+   "No. La desviación de poder hace el acto **anulable** (**art. 48.1**).",
+   "No. Carecer de los requisitos formales indispensables hace el acto **anulable** (**art. 48.2**)."
+  ],
+  "ojo": "Nulo: lista cerrada del art. 47.1. Anulable: cualquier otra infracción, incluida la desviación de poder."
+ },
+ "pr-41-014": {
+  "bloque": "actividad",
+  "precepto": "Art. 14.2 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Los empleados públicos solo están obligados para los trámites que hagan **por razón de su condición de empleado público**, no para cualquier trámite (**art. 14.2.e**).",
+   "No. Los trabajadores autónomos no figuran en la lista del **art. 14.2**, salvo que ejerzan una actividad profesional con colegiación obligatoria.",
+   "No. Solo están obligados los representantes de sujetos que estén **a su vez obligados** (**art. 14.2.d**), no los de cualquier interesado.",
+   "Es esta. El **art. 14.2.c** incluye a quienes ejercen una actividad profesional con colegiación obligatoria para los trámites que hagan en ese ejercicio, y expresamente a los notarios y registradores."
+  ],
+  "ojo": "Las personas físicas pueden elegir medio. Están obligadas las personas jurídicas, las entidades sin personalidad, los colegiados en su actividad profesional, los representantes de obligados y los empleados públicos por razón de su cargo."
+ }
+}

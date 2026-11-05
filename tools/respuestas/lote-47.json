@@ -1,0 +1,162 @@
+{
+ "pr-41-029": {
+  "bloque": "recursos",
+  "precepto": "Art. 114.1 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Las resoluciones de los recursos de reposición no están en la lista del **art. 114.1**. Sí lo están las de los recursos de alzada (letra a).",
+   "No. “En todo caso” es falso: las resoluciones de órganos sin superior jerárquico ponen fin a la vía administrativa **salvo que una ley establezca lo contrario** (**art. 114.1.c**).",
+   "No. Los acuerdos, pactos, convenios o contratos ponen fin a la vía cuando son **finalizadores** del procedimiento, no cuando lo inician (**art. 114.1.d**).",
+   "Es esta. El **art. 114.1.f** dice que ponen fin a la vía administrativa las resoluciones de los procedimientos complementarios en materia sancionadora del art. 90.4."
+  ],
+  "ojo": "Cuidado con las palabras: “finalizadores” frente a “iniciadores”, y “salvo que una ley establezca lo contrario” frente a “en todo caso”."
+ },
+ "pr-41-030": {
+  "bloque": "actos",
+  "precepto": "Art. 37.2 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El **art. 37.2** dice que las resoluciones administrativas de carácter particular no pueden vulnerar lo establecido en una disposición de carácter general, **aunque** procedan de un órgano de igual o superior jerarquía al que la dictó.",
+   "No. Ni siquiera un órgano de igual o superior jerarquía puede hacerlo (**art. 37.2**). Es la llamada inderogabilidad singular de los reglamentos.",
+   "No. Un órgano superior tampoco puede vulnerar la disposición general con un acto particular (**art. 37.2**).",
+   "No. No depende de lo que decida el órgano ni de la audiencia al interesado: está prohibido en todo caso (**art. 37.2**)."
+  ]
+ },
+ "pr-41-031": {
+  "bloque": "instruccion",
+  "precepto": "Art. 70 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "Sí forma parte. Cuando se remite el expediente, debe ir con un índice numerado de todos sus documentos (**art. 70.2**).",
+   "Sí forma parte. El expediente incluye la resolución adoptada, en copia electrónica certificada (**art. 70.2**).",
+   "Sí forma parte. Los informes, preceptivos y facultativos, solicitados antes de la resolución forman parte del expediente (**art. 70.2**).",
+   "Es esta. El **art. 70.4** dice que no forma parte del expediente la información de carácter auxiliar o de apoyo: borradores, notas, comunicaciones internas, juicios de valor..."
+  ],
+  "ojo": "Pide la que NO forma parte del expediente. La información auxiliar o de apoyo se queda fuera."
+ },
+ "pr-41-032": {
+  "bloque": "actividad",
+  "precepto": "Art. 21.3 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. No sirve cualquier Administración. Cuenta la entrada en el registro de la Administración u Organismo **competente para su tramitación** (**art. 21.3.b**).",
+   "No. Mezcla los dos casos. De oficio se cuenta desde el acuerdo de iniciación, y a solicitud, desde la entrada en el registro competente (**art. 21.3**).",
+   "No. En los procedimientos de oficio cuenta la **fecha del acuerdo de iniciación**, no la de su notificación (**art. 21.3.a**).",
+   "Es esta. En los iniciados a solicitud, el plazo se cuenta desde que la solicitud entra en el registro electrónico de la Administración u Organismo competente para tramitarla (**art. 21.3.b**)."
+  ]
+ },
+ "pr-41-033": {
+  "bloque": "revision",
+  "precepto": "Art. 109.1 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. La revocación no es “en cualquier momento”: solo mientras no haya transcurrido el plazo de **prescripción** (**art. 109.1**). Lo que se puede hacer en cualquier momento es rectificar errores materiales (art. 109.2).",
+   "No. Los actos favorables no se revocan. Para ellos, si son anulables, la vía es la lesividad (art. 107).",
+   "Es esta. El **art. 109.1** permite revocar los actos de **gravamen o desfavorables** mientras no haya transcurrido el plazo de prescripción, con los límites de igualdad, interés público y ordenamiento.",
+   "No. Falla el tipo de acto: la revocación es solo de actos de gravamen o desfavorables, no de los favorables (**art. 109.1**)."
+  ],
+  "ojo": "Revocar: actos desfavorables, mientras no prescriba. Rectificar errores materiales: en cualquier momento."
+ },
+ "pr-41-034": {
+  "bloque": "finalizacion",
+  "precepto": "Art. 103.1 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Es el **art. 103.1.b**: se puede imponer multa coercitiva en los actos en que, procediendo la compulsión directa sobre la persona, la Administración no la estima conveniente.",
+   "No. Cambian una palabra. El **art. 103.1.c** permite la multa en los actos cuya ejecución **sí pueda** el obligado encargar a otra persona, no en los que no pueda.",
+   "No. El **art. 103.1.a** habla de actos personalísimos en los que **no proceda la compulsión directa** sobre la persona. Nada tiene que ver con que puedan o no sancionarse.",
+   "No. Cobrar una cantidad líquida se ejecuta por apremio sobre el patrimonio (arts. 100 y 101), no por multa coercitiva."
+  ],
+  "ojo": "Multa coercitiva (art. 103): personalísimos sin compulsión, compulsión que no se estima conveniente, o actos que el obligado puede encargar a otro."
+ },
+ "pr-41-035": {
+  "bloque": "iniciacion",
+  "precepto": "Art. 69 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Permiten iniciar la actividad **desde el día de su presentación**, no desde el día siguiente (**art. 69.3**).",
+   "No. Lo que puede presentarse en un plazo posterior al inicio de la actividad, si la legislación lo prevé, es la **comunicación**, no la declaración responsable (**art. 69.3**, párrafo segundo).",
+   "Es esta. El **art. 69.6** dice que solo será exigible una declaración responsable **o** una comunicación para iniciar una misma actividad, sin que se puedan exigir ambas acumulativamente.",
+   "No. No hace falta resolución expresa. Con la declaración o la comunicación basta, sin perjuicio de las facultades de comprobación de la Administración (**art. 69.3**). Por eso están exceptuadas de la obligación de resolver (art. 21.1)."
+  ]
+ },
+ "pr-41-036": {
+  "bloque": "iniciativa",
+  "precepto": "Art. 129.1 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El **art. 129.1** enumera los principios de buena regulación: **necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia**.",
+   "No. “Neutralidad”, “igualdad” y “legalidad” no están en la lista del **art. 129.1**.",
+   "No. Falta la necesidad y la transparencia, y “igualdad” no es uno de los principios del **art. 129.1**.",
+   "No. “Neutralidad” no es uno de los principios del **art. 129.1**. El primero es la necesidad."
+  ]
+ },
+ "pr-41-037": {
+  "bloque": "responsabilidad",
+  "precepto": "Art. 33.1 y 33.3 de la Ley 40/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. La primera parte es correcta, pero la responsabilidad no es mancomunada: las Administraciones responden **solidariamente** frente al particular (**art. 33.1**).",
+   "Es esta. A falta de Estatutos o reglas de la organización colegiada, la competencia es de la Administración con **mayor participación en la financiación** del servicio (**art. 33.3**), y la responsabilidad frente al particular es **solidaria** (**art. 33.1**).",
+   "No. El interés público tutelado es un criterio para repartir la responsabilidad en otros supuestos (art. 33.2), no para decidir qué Administración tramita. Y no es mancomunada.",
+   "No. Falla el criterio de la competencia: no se decide por el interés público tutelado, sino por la mayor participación en la financiación (**art. 33.3**)."
+  ]
+ },
+ "pr-41-038": {
+  "bloque": "organos",
+  "precepto": "Arts. 16, 17 y 18 de la Ley 40/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. Es el **art. 16.2**: el Secretario vela por la legalidad formal y material de las actuaciones.",
+   "Es verdadera, así que no se marca. Es el **art. 18.2**: el acta puede aprobarse en la misma reunión o en la inmediata siguiente.",
+   "Es verdadera, así que no se marca. Es el **art. 16.1**: el Secretario puede ser miembro del órgano o una persona al servicio de la Administración.",
+   "Esta es la falsa, y por eso es la que hay que marcar. La urgencia se declara por el **voto favorable de la mayoría**, no por unanimidad (**art. 17.4**)."
+  ],
+  "ojo": "Para tratar un asunto que no está en el orden del día hacen falta dos cosas: que asistan todos los miembros y que la mayoría declare la urgencia."
+ },
+ "pr-41-039": {
+  "bloque": "organos",
+  "precepto": "Arts. 23 y 24 de la Ley 40/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. La actuación con motivo de abstención **no implica necesariamente** la invalidez de los actos (**art. 23.4**), no “en todo caso”.",
+   "No. El parentesco es de consanguinidad dentro del **cuarto** grado o de afinidad dentro del **segundo** (**art. 23.2.b**). La opción lo iguala en los dos.",
+   "No. El superior resuelve en el plazo de **tres días**, no al día siguiente (**art. 24**).",
+   "Es esta. Contra las resoluciones en materia de recusación no cabe recurso, sin perjuicio de alegarla al recurrir el acto que ponga fin al procedimiento (**art. 24**)."
+  ]
+ },
+ "pr-41-040": {
+  "bloque": "recursos",
+  "precepto": "Art. 46.1 de la Ley 29/1998",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Dos meses es para actos expresos (**art. 46.1**).",
+   "No. Un mes no es el plazo del contencioso-administrativo.",
+   "Es esta. Si el acto **no es expreso**, el plazo es de **seis meses**, a contar desde el día siguiente al en que se produce el acto presunto (**art. 46.1**).",
+   "No. Sí hay plazo. Para actos presuntos es de seis meses (**art. 46.1**)."
+  ]
+ },
+ "pr-41-041": {
+  "bloque": "recursos",
+  "precepto": "Art. 46.3 de la Ley 29/1998",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Dos meses no es el plazo para la vía de hecho (**art. 46.3**).",
+   "Es esta. Si no hubo requerimiento previo, el plazo es de **veinte días** desde que se inició la actuación en vía de hecho (**art. 46.3**).",
+   "No. Diez días es el plazo cuando hubo requerimiento, contado desde que termina el plazo del art. 30 (**art. 46.3**). Aquí no lo hubo.",
+   "No. Treinta días no figura en el **art. 46.3**."
+  ],
+  "ojo": "Vía de hecho: con requerimiento, diez días desde que acaba su plazo. Sin requerimiento, veinte días desde que empezó la actuación."
+ },
+ "pr-41-042": {
+  "bloque": "recursos",
+  "precepto": "Art. 125.1 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Se interpone ante el propio órgano que dictó el acto, que también lo resuelve (**art. 125.1**). No hay un superior que intervenga.",
+   "Es esta. El **art. 125.1** dice que se interpone ante el órgano administrativo que dictó el acto, que también es el competente para resolverlo.",
+   "No. Ante la jurisdicción contencioso-administrativa se va con el recurso contencioso, no con el extraordinario de revisión.",
+   "No. El Consejo de Estado no resuelve este recurso (**art. 125.1**)."
+  ]
+ }
+}

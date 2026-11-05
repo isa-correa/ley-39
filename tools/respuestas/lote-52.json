@@ -1,0 +1,171 @@
+{
+ "pr-43-001": {
+  "bloque": "iniciacion",
+  "precepto": "Art. 68.1 y 68.2 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. El plazo base no es de cinco días sino de **diez** (**art. 68.1**). Lo que se amplía es hasta cinco días más.",
+   "Es esta. Se concede un plazo de **diez días**, que puede ampliarse prudencialmente **hasta cinco días más** cuando aportar los documentos presente dificultades especiales (**art. 68.2**). Como el caso lo dice expresamente, aquí la ampliación es posible.",
+   "No. Quince días es el resultado de sumar diez y cinco, pero no es un plazo fijo: el plazo es de diez días, ampliable.",
+   "No. Sí puede ampliarse. Las dificultades especiales de aportar los documentos son justo la causa que el **art. 68.2** prevé."
+  ],
+  "ojo": "El caso aclara que no es un procedimiento selectivo ni de concurrencia competitiva (es una autorización de uso de sala), así que la ampliación es posible."
+ },
+ "pr-43-002": {
+  "bloque": "iniciacion",
+  "precepto": "Art. 68.1 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El **art. 68.1** manda indicar que, si no subsana, se le tendrá por **desistido** de su petición, previa resolución dictada en los términos del art. 21.",
+   "No. Declarar decaído en el derecho al trámite no es la consecuencia que fija el **art. 68.1** para no subsanar la solicitud.",
+   "No. La caducidad es por paralización del procedimiento por causa imputable al interesado (art. 95), y no es lo que prevé el **art. 68.1**.",
+   "No. No se archiva sin más. Hace falta resolución que declare el desistimiento (**art. 68.1** y art. 21.1)."
+  ]
+ },
+ "pr-43-003": {
+  "bloque": "plazos",
+  "precepto": "Arts. 30.2 y 82.2 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El viernes 13 es el octavo día hábil. El plazo mínimo de la audiencia son diez días hábiles, así que aún quedan dos.",
+   "No. El lunes 16 es el noveno día hábil, no el décimo.",
+   "Es esta. El plazo mínimo del **art. 82.2** es de diez días. Son hábiles (**art. 30.2**), así que no cuentan sábados ni domingos, y se empieza a contar el día siguiente a la notificación. Notificado el martes 3, el día 1 es el miércoles 4 y el día 10 es el **martes 17 de noviembre**.",
+   "No. El martes 24 sale de contar diez días hábiles empezando por la semana siguiente, o de contar quince. El plazo mínimo es de diez días hábiles."
+  ],
+  "ojo": "Cuenta los días hábiles uno a uno: 4, 5, 6, 9, 10, 11, 12, 13, 16 y 17. Fíjate en que 3 de noviembre de 2026 es martes."
+ },
+ "pr-43-004": {
+  "bloque": "instruccion",
+  "precepto": "Art. 87 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. El momento (tras la audiencia) no es el problema. El problema es **quién** lo acuerda: debe ser el órgano competente para resolver (**art. 87**).",
+   "No. Acordarlo antes de redactar la propuesta no lo valida: quien debe acordar las actuaciones complementarias es el órgano competente para resolver, no el instructor.",
+   "No. Aunque pueda acordarse antes de resolver, la competencia no es del instructor sino del que resuelve (**art. 87**).",
+   "Es esta. El **art. 87** atribuye la decisión de realizar actuaciones complementarias al **órgano competente para resolver**. El Subdirector General instruye y quien resuelve es el Subsecretario de Juventud e Infancia."
+  ]
+ },
+ "pr-43-005": {
+  "bloque": "instruccion",
+  "precepto": "Art. 87 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. Las actuaciones complementarias se practican en un plazo no superior a quince días (**art. 87**).",
+   "Es verdadera, así que no se marca. El plazo para resolver queda suspendido hasta que terminen (**art. 87** y art. 22.2.b).",
+   "Esta es la falsa, y por eso es la que hay que marcar. Los siete días para alegar se dan **tras la finalización** de las actuaciones, no antes de su realización (**art. 87**).",
+   "Es verdadera, así que no se marca. El acuerdo debe ser motivado (**art. 87**), y el art. 35.1.e lo recoge entre los actos que se motivan."
+  ]
+ },
+ "pr-43-006": {
+  "bloque": "plazos",
+  "precepto": "Arts. 21.3 y 30.4 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. El 14 de diciembre saldría de contar tres meses desde el 14 de septiembre, día de presentación en el Ayuntamiento de Málaga. Ese registro no es el del órgano competente (**art. 21.3.b**).",
+   "Es esta. La norma no fija plazo máximo, así que son **tres meses** (**art. 21.3**). Se cuentan desde la entrada de la solicitud en el registro de la Administración competente, el miércoles 16 de septiembre. Por meses, de fecha a fecha (**art. 30.4**), acaba el **miércoles 16 de diciembre de 2026**.",
+   "No. El 17 de diciembre sumaría un día de más. En los plazos por meses no se añade ese día: acaba el mismo número de día (**art. 30.4**).",
+   "No. El 16 de marzo de 2027 son seis meses, el tope general cuando la norma sí fija plazo. Aquí la norma no fija ninguno, así que son tres."
+  ],
+  "ojo": "Dos datos del caso: el ayuntamiento de Málaga no cuenta como registro competente y la norma no fija plazo."
+ },
+ "pr-43-007": {
+  "bloque": "actos",
+  "precepto": "Arts. 41, 42.1 y 43 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Cuando se notifica por distintos cauces, se toma como fecha la de la notificación practicada **en primer lugar** (**art. 41.7**), sea cual sea el cauce.",
+   "No. La notificación electrónica se entiende practicada cuando se **accede a su contenido** (**art. 43.2**). La puesta a disposición basta solo para cumplir el plazo máximo de notificar (art. 43.3).",
+   "No. La falta del aviso de puesta a disposición **no impide** que la notificación sea plenamente válida (**art. 41.6**).",
+   "Es esta. Las notificaciones que se practiquen en papel deben ponerse también a disposición del interesado en la **sede electrónica**, para que pueda acceder a ellas de forma voluntaria (**art. 42.1**)."
+  ]
+ },
+ "pr-43-008": {
+  "bloque": "recursos",
+  "precepto": "Arts. 112, 114 y 121 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. La resolución la dicta el Subsecretario, que tiene superior jerárquico (el titular del Departamento), por lo que no pone fin a la vía administrativa y cabe **alzada**. Puede presentarse ante el órgano que dictó el acto **o** ante el competente para resolver (**art. 121.2**).",
+   "No. El Subdirector General no dictó la resolución ni es quien resuelve. Quien resuelve es el superior del Subsecretario, el titular del Departamento.",
+   "No. No hace falta presentarlo solo ante el Ministro: la alzada también se puede presentar ante el órgano que dictó el acto (**art. 121.2**).",
+   "No. La reposición solo cabe contra actos que ponen fin a la vía administrativa (**art. 123.1**), y el del Subsecretario no la agota."
+  ]
+ },
+ "pr-43-009": {
+  "bloque": "organos",
+  "precepto": "Art. 14.1 de la Ley 40/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. El órgano incompetente no inadmite sin más: **remite** las actuaciones al competente (**art. 14.1 Ley 40/2015**).",
+   "No. No depende de que el competente sea del mismo Departamento. Siempre debe remitirlo.",
+   "No. Tampoco depende de que sea su superior. Debe remitir las actuaciones al órgano que considere competente.",
+   "Es esta. El **art. 14.1** de la Ley 40/2015 dice que el órgano que se estime incompetente remitirá directamente las actuaciones al órgano que considere competente, y notificará esta circunstancia a los interesados."
+  ]
+ },
+ "pr-43-010": {
+  "bloque": "recursos",
+  "precepto": "Art. 122.2 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Los tres meses son para dictar **y notificar** la resolución. No hay diez días adicionales (**art. 122.2**).",
+   "No. Un mes no es el plazo de la alzada, y tampoco hay días adicionales.",
+   "Es esta. El **art. 122.2** fija **tres meses** para dictar y notificar la resolución del recurso de alzada.",
+   "No. Un mes es el plazo para interponer la alzada contra un acto expreso (**art. 122.1**), no para resolverla."
+  ]
+ },
+ "pr-43-011": {
+  "bloque": "lcsp-tipos",
+  "precepto": "Art. 232 de la LCSP",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Las obras de reforma crean o modifican algo, y aquí no se cambia el edificio, solo se repone lo estropeado por el uso.",
+   "Es esta. Las obras de **conservación y mantenimiento** enmiendan un menoscabo producido por el tiempo y el uso natural del bien (**art. 232**), que es justo lo que describe el caso: ventanas deterioradas por su uso natural.",
+   "No. La reparación simple arregla daños que no afectan a la estructura, como un golpe que rompe un escaparate. Aquí no hay un daño puntual, sino desgaste con el tiempo.",
+   "No. La gran reparación afecta fundamentalmente a la estructura resistente del edificio. Cambiar ventanas no."
+  ]
+ },
+ "pr-43-012": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "Art. 159.6 de la LCSP",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El contrato de obras tiene un valor estimado de 70.000 euros (menos de 80.000) y sus criterios son solo fórmulas, así que cabe el procedimiento abierto simplificado abreviado del **art. 159.6**, el más ágil. Su plazo mínimo es de **diez días hábiles**.",
+   "No. Quince días es el plazo mínimo del simplificado ordinario en suministros y servicios, y en este contrato de obras sería más.",
+   "No. Veinte días es el mínimo del simplificado ordinario en obras. El de valor estimado inferior a 80.000 euros tiene uno más corto.",
+   "No. Veintiséis días es el mínimo del abierto ordinario en obras, que es el procedimiento más lento."
+  ]
+ },
+ "pr-43-013": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "Art. 159.6 de la LCSP",
+  "correcta": 3,
+  "justificaciones": [
+   "No. En el procedimiento abierto simplificado abreviado no se exige garantía provisional ni definitiva.",
+   "No. Misma razón: no se exige ninguna de las dos.",
+   "No. El 5 % del precio de adjudicación sería 3.000 euros, pero en el **art. 159.6** no se exige garantía definitiva.",
+   "Es esta. En el simplificado abreviado del **art. 159.6** no se exige garantía provisional ni definitiva."
+  ]
+ },
+ "pr-43-014": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "Art. 158 de la LCSP",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Quince días solo valen cuando el **único criterio** es el precio. Aquí hay dos: precio y ampliación del plazo de garantía.",
+   "No. Un mes no es el plazo de la ley.",
+   "Es esta. Con pluralidad de criterios, el plazo máximo para adjudicar es de **dos meses** desde la apertura de proposiciones (**art. 158**), salvo que el pliego fije otro.",
+   "No. Tres meses es más de lo que la ley permite."
+  ],
+  "revisar": "El art. 158.2 fija dos meses con pluralidad de criterios. El art. 159.6 (abreviado) no regula el plazo de adjudicación y remite al régimen general, por lo que se aplica esa regla; no hay un plazo propio."
+ },
+ "pr-43-015": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "Arts. 44 y 117 de la LCSP",
+  "correcta": 1,
+  "justificaciones": [
+   "No. El recurso ordinario sí es el camino, pero su interposición no paraliza automáticamente nada.",
+   "Es esta. El contrato de obras tiene un valor estimado de 70.000 euros, por debajo de los tres millones, así que **no cabe recurso especial** y se usan los recursos administrativos ordinarios. Su interposición **no suspende por sí sola** la ejecución del acto.",
+   "No. El recurso especial no cabe en este caso, porque no supera el umbral de tres millones de euros en obras (**art. 44**).",
+   "No. El recurso especial no cabe en este caso por la cuantía (**art. 44**)."
+  ]
+ }
+}

@@ -1,0 +1,180 @@
+{
+ "pr-39-001": {
+  "bloque": "organos",
+  "precepto": "Arts. 8 y 11.2 de la Ley 40/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Te quitan la excepción. El **art. 8.1** dice que la competencia es irrenunciable y la ejercen los órganos que la tienen como propia, **salvo** los casos de delegación o avocación. Con “en todo caso” no habría delegación posible.",
+   "No. Es justo lo contrario. El **art. 8.1** dice que la delegación no supone alteración de la titularidad de la competencia, aunque sí de los elementos que determinan su ejercicio.",
+   "No. Te cambian la palabra. El **art. 8.2** habla de competencias **desconcentradas** en órganos jerárquicamente dependientes. “Descentralizar” es otra cosa: es pasar funciones a una entidad con personalidad propia.",
+   "Es esta. El **art. 11.2** dice que la encomienda de gestión no supone cesión de la titularidad de la competencia ni de los elementos sustantivos de su ejercicio. Quien encomienda sigue siendo el titular y dicta los actos jurídicos que dan soporte a la actividad."
+  ],
+  "ojo": "Desconcentrar es repartir hacia abajo dentro del mismo organismo (órganos dependientes). Descentralizar es salir a otra entidad. Es una trampa muy típica."
+ },
+ "pr-39-002": {
+  "bloque": "revision",
+  "precepto": "Art. 106.1 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. No hace falta que nadie lo pida. El **art. 106.1** permite declarar la nulidad por iniciativa propia de la Administración o a solicitud de un interesado, así que la solicitud de un ciudadano no es un requisito.",
+   "No. Los cuatro años son el límite de la declaración de lesividad (art. 107.2), no de la revisión de actos nulos. Esta se puede hacer “en cualquier momento” (**art. 106.1**).",
+   "No. La revisión de oficio por esta vía es solo para los supuestos de **nulidad del art. 47.1**. La anulabilidad del art. 48 tiene otro camino: la declaración de lesividad (art. 107).",
+   "Es esta. El **art. 106.1** exige dictamen **favorable** del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma, si lo hubiere. Sin ese dictamen favorable, la Administración no puede declarar la nulidad."
+  ],
+  "ojo": "Nulidad de pleno derecho: revisión de oficio, en cualquier momento y con dictamen favorable. Anulabilidad de un acto favorable: lesividad, en cuatro años y con recurso ante el juez."
+ },
+ "pr-39-003": {
+  "bloque": "iniciacion",
+  "precepto": "Art. 56.1 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. “Onerosidad” sola y “discrecionalidad” no son los principios del **art. 56.1**. La ley pide la **menor** onerosidad, es decir, la medida que menos cargue al afectado.",
+   "Es esta. El **art. 56.1** manda adoptar las medidas provisionales de acuerdo con los principios de **proporcionalidad, efectividad y menor onerosidad**.",
+   "No. Mezcla un principio que sí está (proporcionalidad) con “eficiencia” y “onerosidad”, que no aparecen así en el **art. 56.1**.",
+   "No. “Eficacia” no está entre los tres principios del **art. 56.1**, que son proporcionalidad, efectividad y menor onerosidad."
+  ],
+  "ojo": "Las tres palabras: proporcionalidad, efectividad y menor onerosidad. Si ves “onerosidad” sin “menor”, desconfía."
+ },
+ "pr-39-004": {
+  "bloque": "recursos",
+  "precepto": "Arts. 2 y 3 de la Ley 29/1998",
+  "correcta": 2,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. El **art. 2.b** de la Ley 29/1998 incluye en el orden contencioso los actos de preparación y adjudicación de contratos sujetos a la legislación de contratos del sector público.",
+   "Es verdadera, así que no se marca. El **art. 2.c** incluye los actos de las Corporaciones de Derecho público adoptados en el ejercicio de funciones públicas.",
+   "Esta es la falsa, y por eso es la que hay que marcar. El **art. 3.c** dice que NO corresponden al orden contencioso-administrativo los conflictos de jurisdicción entre Juzgados y Tribunales y la Administración.",
+   "Es verdadera, así que no se marca. El **art. 2.e** incluye la responsabilidad patrimonial de las Administraciones públicas, sea cual sea la naturaleza de la actividad."
+  ],
+  "ojo": "Pide la que NO corresponde. Las tres primeras sí son contencioso-administrativo, y la que queda fuera es el conflicto de jurisdicción."
+ },
+ "pr-39-005": {
+  "bloque": "nulidad",
+  "precepto": "Art. 47.1 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. Es el **art. 47.1.b**: nulo el acto dictado por órgano manifiestamente incompetente por razón de la materia o del territorio.",
+   "Es verdadera, así que no se marca. Es el **art. 47.1.c**: nulo el acto de contenido imposible.",
+   "Esta es la falsa, y por eso es la que hay que marcar. El **art. 47.1.a** solo habla de los actos que lesionen los derechos y libertades susceptibles de **amparo constitucional**, no de “cualquier derecho del interesado”.",
+   "Es verdadera, así que no se marca. Es el **art. 47.1.d**: nulos los actos constitutivos de infracción penal o dictados como consecuencia de ella."
+  ],
+  "ojo": "Pide la que NO es nula. Te ensanchan el supuesto: de los derechos con amparo constitucional pasan a “cualquier derecho”."
+ },
+ "pr-39-006": {
+  "bloque": "actividad",
+  "precepto": "Art. 21.1 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El **art. 21.1** exceptúa de la obligación de resolver los procedimientos de ejercicio de derechos sometidos únicamente a declaración responsable o comunicación, y los que terminan por pacto o convenio.",
+   "No. En la prescripción y la renuncia sí hay que resolver: la resolución consiste en declarar la circunstancia que concurre (**art. 21.1**, párrafo segundo). Solo el pacto o convenio es una excepción.",
+   "No. En la caducidad y el desistimiento también hay que dictar resolución, que declara esa circunstancia (**art. 21.1**). La excepción es el pacto o convenio, no estos casos.",
+   "No. La desaparición sobrevenida del objeto obliga a resolver, declarando que ha desaparecido (**art. 21.1**). Solo el pacto o convenio está exceptuado."
+  ],
+  "ojo": "Truco: prescripción, renuncia, caducidad, desistimiento y desaparición del objeto SÍ se resuelven. No se resuelve el pacto o convenio ni las comunicaciones y declaraciones responsables."
+ },
+ "pr-39-007": {
+  "bloque": "nulidad",
+  "precepto": "Arts. 50 a 52 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Esto es la **conservación** de actos y trámites (art. 51), no la conversión.",
+   "Es esta. Es la **conversión** del **art. 50**: un acto nulo o anulable que reúne los elementos de otro acto distinto produce los efectos de ese otro.",
+   "No. Que una falta de autorización se arregle otorgándola después es un caso de **convalidación** (art. 52.3), no de conversión.",
+   "No. Subsanar un defecto de forma es **convalidación** (art. 52.1). La conversión cambia el tipo de acto, no arregla el defecto."
+  ],
+  "ojo": "Conversión (art. 50): el acto se convierte en otro. Conservación (art. 51): se salvan trámites. Convalidación (art. 52): se arregla el vicio."
+ },
+ "pr-39-008": {
+  "bloque": "actividad",
+  "precepto": "Art. 22 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. Es el **art. 22.2.c**: el plazo se suspende por recusación, desde que se plantea hasta que la resuelve el superior jerárquico.",
+   "Esta es la que hay que marcar. Esperar un pronunciamiento de un órgano jurisdiccional está en el **art. 22.1.g**, el apartado de los casos en que el plazo “se podrá” suspender. El enunciado habla de los casos en que “se suspenderá”, que son los del apartado 2.",
+   "Es verdadera, así que no se marca. Es el **art. 22.2.b**: las actuaciones complementarias del art. 87 suspenden el plazo.",
+   "Es verdadera, así que no se marca. Es el **art. 22.2.a**: el requerimiento a otra Administración para que anule o revise un acto ilegal suspende el plazo."
+  ],
+  "ojo": "El art. 22.1 enumera suspensiones facultativas (“se podrá suspender”) y el 22.2 las obligatorias (“se suspenderá”): requerimiento a otra Administración, actuaciones complementarias y recusación.",
+  "revisar": "Las cuatro opciones están en el art. 22. La respuesta se apoya en que el enunciado dice “se suspenderá” y solo la opción b es de las facultativas (22.1.g)."
+ },
+ "pr-39-009": {
+  "bloque": "fuentes",
+  "precepto": "Art. 1.1 del Código Civil",
+  "correcta": 3,
+  "justificaciones": [
+   "No. La jurisprudencia no es fuente del ordenamiento: solo lo **complementa** (art. 1.6 CC). Y falta la mención a los principios generales.",
+   "No. Se cuela la jurisprudencia, que el **art. 1.1** no cita como fuente. Complementa el ordenamiento, pero no lo forma.",
+   "No. La Constitución es norma suprema, pero el **art. 1.1 CC** enumera tres fuentes: ley, costumbre y principios generales del derecho. Le faltan dos.",
+   "Es esta. El **art. 1.1 del Código Civil** dice: las fuentes del ordenamiento jurídico español son la ley, la costumbre y los principios generales del derecho."
+  ]
+ },
+ "pr-39-010": {
+  "bloque": "nulidad",
+  "precepto": "Art. 48.2 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El defecto de forma no determina “siempre” la nulidad. Por regla general hace el acto, como mucho, anulable (**art. 48.2**).",
+   "No. Carecer de los requisitos formales indispensables hace el acto **anulable**, no nulo (**art. 48.2**). La nulidad es solo para los casos tasados del art. 47.",
+   "Es esta. El **art. 48.2** dice que el defecto de forma solo determina la anulabilidad cuando el acto carezca de los requisitos formales indispensables para alcanzar su fin o dé lugar a la indefensión de los interesados.",
+   "No. “Siempre” es demasiado. Solo es anulable si falta algún requisito formal indispensable o hay indefensión (**art. 48.2**)."
+  ],
+  "ojo": "Un simple defecto de forma no anula el acto. Hace falta que falte un requisito indispensable o que cause indefensión."
+ },
+ "pr-39-011": {
+  "bloque": "iniciacion",
+  "precepto": "Art. 62.1 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. La petición razonada la hace un órgano administrativo, no cualquier persona, y propone iniciar un procedimiento (art. 61). No es lo mismo que denunciar.",
+   "No. La declaración responsable es un documento del interesado en el que afirma cumplir los requisitos para un derecho o actividad (art. 69). No informa de hechos que justifiquen abrir un procedimiento.",
+   "No. La comunicación informa a la Administración de datos para ejercer un derecho (art. 69). No pone en su conocimiento un hecho para que inicie de oficio un procedimiento.",
+   "Es esta. Es la definición de **denuncia** del **art. 62.1**: el acto por el que cualquier persona, tenga o no obligación legal, pone en conocimiento de un órgano administrativo un hecho que pudiera justificar iniciar un procedimiento de oficio."
+  ]
+ },
+ "pr-39-012": {
+  "bloque": "recursos",
+  "precepto": "Art. 125 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El recurso extraordinario de revisión se interpone ante el **órgano que dictó el acto** (**art. 125.1**). Con la causa de prevaricación (letra d), el plazo es de **tres meses** desde que la sentencia quedó firme (**art. 125.2**).",
+   "No. Se interpone ante el órgano que dictó el acto, no ante su superior, y el plazo de cuatro años solo vale para el error de hecho (causa a).",
+   "No. El órgano es correcto, pero el plazo de cuatro años es solo para el error de hecho (causa a). Para la prevaricación son tres meses desde la firmeza de la sentencia.",
+   "No. El plazo de tres meses es correcto, pero no se interpone ante el superior jerárquico: el órgano ante el que se presenta y que lo resuelve es el que dictó el acto (**art. 125.1**)."
+  ],
+  "ojo": "Recurso extraordinario de revisión: error de hecho, cuatro años desde la notificación. Todas las demás causas: tres meses desde que se conoce el documento o desde la firmeza de la sentencia."
+ },
+ "pr-39-013": {
+  "bloque": "instruccion",
+  "precepto": "Art. 76.2 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Antes de la audiencia es el plazo para **alegaciones** y aportar documentos (art. 76.1). Para alegar defectos de tramitación no hay esa limitación.",
+   "No. Antes de la propuesta de resolución no es el límite. Los defectos de tramitación se pueden alegar siempre (**art. 76.2**).",
+   "No. La información pública no marca ningún límite para alegar defectos de tramitación (**art. 76.2**).",
+   "Es esta. El **art. 76.2** dice que los interesados pueden alegar los defectos de tramitación **en todo momento**, en especial los de paralización, incumplimiento de plazos u omisión de trámites subsanables."
+  ],
+  "ojo": "Alegaciones y documentos: antes de la audiencia (76.1). Defectos de tramitación: en todo momento (76.2)."
+ },
+ "pr-39-014": {
+  "bloque": "organos",
+  "precepto": "Art. 9.1 de la Ley 40/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Para órganos no relacionados jerárquicamente, la aprobación no la da el superior del delegante en todo caso. Depende de si son del mismo Ministerio o de distintos (**art. 9.1**).",
+   "No. Lo del superior del órgano delegado solo vale cuando pertenecen a **distintos** Ministerios. Si son del mismo, aprueba el superior común.",
+   "Es esta. El **art. 9.1** dice que se necesita la aprobación previa del **superior común** si ambos son del mismo Ministerio, o del órgano superior de quien dependa el **delegado** si son de distintos Ministerios.",
+   "No. Acierta con el superior común, pero se equivoca en el segundo caso: si son de distintos Ministerios, aprueba el superior del órgano **delegado**, no del delegante (**art. 9.1**)."
+  ]
+ },
+ "pr-39-015": {
+  "bloque": "fuentes",
+  "precepto": "Art. 24.2 de la Ley 50/1997",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El **art. 24.2** de la Ley del Gobierno ordena los reglamentos en dos niveles: primero, los aprobados por Real Decreto del Presidente del Gobierno o acordados en Consejo de Ministros; segundo, los aprobados por Orden Ministerial.",
+   "No. Separa en dos niveles distintos el Real Decreto del Presidente y los acordados en Consejo de Ministros. El **art. 24.2** los pone en el mismo primer nivel.",
+   "No. Igual que la anterior, parte en dos lo que la ley junta en un único primer nivel (**art. 24.2**), y además inventa un orden entre ellos.",
+   "No. Sí hay jerarquía. Las disposiciones de Real Decreto están por encima de las Órdenes Ministeriales (**art. 24.2**)."
+  ],
+  "ojo": "Solo hay dos peldaños: Real Decreto (del Presidente o del Consejo de Ministros) y, debajo, Orden Ministerial."
+ }
+}

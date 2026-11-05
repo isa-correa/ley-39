@@ -1,0 +1,118 @@
+{
+ "pr-40-001": {
+  "bloque": "actividad",
+  "precepto": "Art. 21.4 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. El 5 de junio es el día en que la empresa presentó la solicitud en el registro de la Junta de Castilla y León, pero no es la fecha que cuenta. El **art. 21.4** cuenta desde que la solicitud llega al registro electrónico de la Administración u Organismo competente.",
+   "Es esta. El **art. 21.4** dice que, si el procedimiento empieza a solicitud, la Administración informa del plazo máximo y de los efectos del silencio en el plazo de **diez días** desde la recepción de la solicitud en el registro del organismo competente. Aquí entró en el registro de la AGE el 11 de junio.",
+   "No. El 19 de junio es la fecha en que el instructor acordó iniciar la tramitación. El plazo de diez días no se cuenta desde el acuerdo, sino desde que la solicitud entra en el registro competente (**art. 21.4**).",
+   "No. La Administración debe informar de las dos cosas: el plazo máximo **y** los efectos del silencio administrativo (**art. 21.4**)."
+  ],
+  "ojo": "Fechas del caso: presentación el 5 de junio (otra Administración), entrada en el registro de la AGE el 11 de junio. Para plazos de la Administración manda siempre la entrada en el registro del órgano competente."
+ },
+ "pr-40-002": {
+  "bloque": "actividad",
+  "precepto": "Art. 21.2 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. “Nunca” es falso. El **art. 21.2** fija seis meses como tope general, pero permite más si lo dice una norma con rango de ley o el Derecho de la Unión Europea.",
+   "No. Tres meses es el plazo cuando la norma del procedimiento no fija ninguno (**art. 21.3**), no el máximo.",
+   "No. Un reglamento no puede pasar de seis meses. Solo una norma con **rango de ley** o el Derecho de la UE pueden fijar un plazo mayor (**art. 21.2**).",
+   "Es esta. Ocho meses supera el tope de seis, y solo es válido si lo fija una norma con **rango de ley** o lo prevé el **Derecho de la Unión Europea** (**art. 21.2**)."
+  ]
+ },
+ "pr-40-003": {
+  "bloque": "iniciacion",
+  "precepto": "Art. 68 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. El plazo general es de **diez días**, no de quince (**art. 68.1**).",
+   "No. La ampliación no es solo a petición del interesado: también puede hacerse **a iniciativa del órgano** (**art. 68.2**). La pregunta pregunta justamente si podía hacerlo de oficio.",
+   "No. Precisamente porque no es un procedimiento selectivo ni de concurrencia competitiva sí cabe ampliar el plazo. En esos procedimientos no se puede (**art. 68.2**).",
+   "Es esta. Al plazo de diez días puede añadirse una ampliación de hasta cinco, **a petición del interesado o a iniciativa del órgano**, cuando aportar los documentos presente dificultades especiales (**art. 68.2**). Diez más cinco son quince."
+  ],
+  "ojo": "Diez días más hasta cinco de ampliación, y la ampliación vale tanto a petición como de oficio. No cabe en procedimientos selectivos ni de concurrencia competitiva."
+ },
+ "pr-40-004": {
+  "bloque": "iniciacion",
+  "precepto": "Art. 68.1 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Declarar decaído en el derecho al trámite es la consecuencia de no hacer algo dentro de un plazo en un trámite (art. 73.3). En la subsanación de la solicitud la ley prevé otra cosa: el desistimiento.",
+   "Es esta. El **art. 68.1** manda indicar en el requerimiento que, si no se subsana, se le tendrá por **desistido** de su petición, previa resolución dictada en los términos del art. 21.",
+   "No. La caducidad es por paralización del procedimiento por causa imputable al interesado (art. 95), no por no subsanar la solicitud.",
+   "No. No se archiva “sin más trámite”: hace falta una resolución que declare el desistimiento (**art. 68.1 y art. 21.1**)."
+  ]
+ },
+ "pr-40-005": {
+  "bloque": "actividad",
+  "precepto": "Art. 22.1.a) de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El **art. 22.1.a** dice que el plazo máximo **se podrá** suspender por el tiempo entre la notificación del requerimiento y su cumplimiento por el destinatario. Aquí fueron diez días, aunque tuviera quince de plazo.",
+   "No. El plazo concedido solo cuenta si el interesado no cumple (“o, en su defecto, por el del plazo concedido”). Aquí cumplió a los diez días, así que se suspende ese tiempo, no los quince.",
+   "No. La suspensión en este caso es potestativa: “se podrá suspender” (**art. 22.1.a**). No es obligatoria.",
+   "No. Falla en las dos cosas: no es obligatoria y no son quince días, sino los diez que tardó en cumplir (**art. 22.1.a**)."
+  ],
+  "ojo": "Dos palabras clave: “podrá” (no es obligatorio suspender) y “efectivo cumplimiento” (cuenta lo que tardó, no lo que le dieron)."
+ },
+ "pr-40-006": {
+  "bloque": "instruccion",
+  "precepto": "Art. 82.1 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. La audiencia es antes de la propuesta de resolución, no inmediatamente antes de la resolución. Hay un paso en medio (**art. 82.1**).",
+   "Es esta. El **art. 82.1** dice que, instruido el procedimiento, **inmediatamente antes de redactar la propuesta de resolución**, se pone de manifiesto a los interesados.",
+   "No. La audiencia no va tras las pruebas, sino al final de la instrucción y justo antes de la propuesta (**art. 82.1**).",
+   "No. Es antes de redactar la propuesta, no después (**art. 82.1**). Tras la audiencia es cuando se prepara la propuesta."
+  ]
+ },
+ "pr-40-007": {
+  "bloque": "instruccion",
+  "precepto": "Art. 82.2 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. “No inferior a quince días” permitiría plazos larguísimos. El **art. 82.2** fija entre diez y quince.",
+   "No. El máximo es de quince días, no de treinta (**art. 82.2**).",
+   "Es esta. El **art. 82.2** da un plazo **no inferior a diez días ni superior a quince** para alegar y presentar documentos.",
+   "No. Veinte días no entra en el margen del **art. 82.2**, que es de diez a quince."
+  ]
+ },
+ "pr-40-008": {
+  "bloque": "instruccion",
+  "precepto": "Art. 80 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. El **art. 80.2** dice que los informes se emiten a través de medios electrónicos.",
+   "Es verdadera, así que no se marca. Lo dice el **art. 88.6**: la aceptación de informes o dictámenes sirve de motivación cuando se incorporan al texto de la resolución.",
+   "Es verdadera, así que no se marca. El **art. 80.1** dice que, salvo disposición en contra, los informes son facultativos y no vinculantes.",
+   "Esta es la falsa, y por eso es la que hay que marcar. El plazo general para emitir informes es de **diez días**, no quince (**art. 80.2**), salvo que una disposición permita o exija otro."
+  ],
+  "ojo": "Pide la incorrecta. El plazo ordinario de los informes es de diez días, que es el mismo número que el de subsanar y el de audiencia mínima."
+ },
+ "pr-40-009": {
+  "bloque": "instruccion",
+  "precepto": "Art. 87 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Las actuaciones complementarias las acuerda **el órgano competente para resolver** (**art. 87**). Aquí resuelve el Director General de Calidad y Evaluación Ambiental, no el instructor.",
+   "No. El Secretario de Estado es el superior jerárquico del que resuelve, pero la competencia para acordar estas actuaciones es del órgano que resuelve (**art. 87**).",
+   "No. El instructor no tiene esa competencia. Solo la tiene el órgano competente para resolver, que es el Director General (**art. 87**).",
+   "No. Ser instructor no basta. El **art. 87** lo atribuye al órgano competente para resolver."
+  ],
+  "ojo": "Instruir y resolver son funciones distintas. En el art. 87 manda quien resuelve."
+ },
+ "pr-40-010": {
+  "bloque": "instruccion",
+  "precepto": "Art. 87 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. El plazo para practicarlas es de **quince días** como máximo, no diez (**art. 87**).",
+   "Es esta. Al terminar las actuaciones complementarias, los interesados tienen **siete días** para formular alegaciones (**art. 87**).",
+   "No. La suspensión del plazo para resolver no depende de lo que decida el instructor: el **art. 87** dice que queda suspendido hasta la terminación de las actuaciones. Además, esas actuaciones las acuerda el órgano que resuelve.",
+   "No. El acuerdo debe ser **motivado** (**art. 87**), y además el art. 35.1.e obliga a motivar el acuerdo de realizar actuaciones complementarias."
+  ],
+  "ojo": "Cifras del art. 87: quince días para practicarlas, siete para alegar al terminar."
+ }
+}

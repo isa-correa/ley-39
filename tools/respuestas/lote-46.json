@@ -1,0 +1,163 @@
+{
+ "pr-41-015": {
+  "bloque": "nulidad",
+  "precepto": "Art. 48.3 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Los actos anulables sí pueden convalidarse (art. 52). Actuar fuera de tiempo no cierra esa puerta.",
+   "No. Actuar fuera de tiempo no es una causa de nulidad del **art. 47**. Como mucho, anulabilidad, y solo en algunos casos.",
+   "No. No es “siempre”. El **art. 48.3** limita la anulabilidad al caso en que lo imponga la naturaleza del término o plazo.",
+   "Es esta. El **art. 48.3** dice que la realización de actuaciones fuera del tiempo establecido solo implicará la anulabilidad del acto cuando así lo imponga la **naturaleza del término o plazo**."
+  ],
+  "ojo": "Regla general: actuar tarde no anula el acto. Solo cuando el plazo es esencial."
+ },
+ "pr-41-016": {
+  "bloque": "actos",
+  "precepto": "Art. 42.2 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. No son dos intentos, sino uno más.",
+   "Es esta. Si el primer intento en el domicilio no es posible, el **art. 42.2** manda repetirlo **una sola vez**, en una hora distinta, dentro de los **tres días siguientes**.",
+   "No. El segundo intento no es al día siguiente, sino dentro de los tres días siguientes (**art. 42.2**).",
+   "No. Ni son dos veces ni dos días. Es una vez y tres días (**art. 42.2**)."
+  ],
+  "ojo": "Dos intentos como mucho en el domicilio: el segundo, a otra hora y dentro de los tres días siguientes."
+ },
+ "pr-41-017": {
+  "bloque": "instruccion",
+  "precepto": "Art. 72.1 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Esto también está en el art. 72, pero es el apartado 2, que habla de consignar el plazo al solicitar trámites a otros órganos. La pregunta se refiere al principio de simplificación administrativa, que es el apartado 1.",
+   "Es esta. El **art. 72.1** dice que, de acuerdo con el principio de simplificación administrativa, se acuerdan en un solo acto todos los trámites que admitan impulso simultáneo y no obliguen a un cumplimiento sucesivo.",
+   "No. Que el procedimiento se impulse de oficio en todos sus trámites es el principio de celeridad, del **art. 71.1**.",
+   "No. Guardar el orden riguroso de incoación en asuntos de homogénea naturaleza es el **art. 71.2**, no el art. 72."
+  ],
+  "ojo": "El art. 72 se titula “Concentración de trámites”. La pregunta usa la frase literal de su apartado 1.",
+  "revisar": "La opción a también es literal del art. 72 (apartado 2). Se elige la b porque el enunciado cita el principio de simplificación administrativa, que aparece en el apartado 1."
+ },
+ "pr-41-018": {
+  "bloque": "instruccion",
+  "precepto": "Art. 74 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Las cuestiones sobre nulidad de actuaciones **tampoco** suspenden la tramitación. El **art. 74** lo dice expresamente: “incluso las que se refieran a la nulidad de actuaciones”.",
+   "Es esta. El **art. 74** dice que las cuestiones incidentales, incluso las de nulidad de actuaciones, no suspenden la tramitación, **salvo la recusación**.",
+   "No. Mete la nulidad de actuaciones como excepción, y no lo es. Solo la recusación suspende (**art. 74**).",
+   "No. La regla general es que no suspenden (**art. 74**)."
+  ]
+ },
+ "pr-41-019": {
+  "bloque": "recursos",
+  "precepto": "Art. 124.2 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El recurso potestativo de reposición se resuelve y notifica en **un mes** (**art. 124.2**).",
+   "No. Tres meses es el plazo del recurso de alzada (**art. 122.2**), no de la reposición.",
+   "No. Dos meses no es el plazo de ninguno de estos recursos.",
+   "No. Treinta días no es lo que dice la ley. La reposición es de **un mes**, y los meses se cuentan de fecha a fecha, no por días."
+  ],
+  "ojo": "Alzada: un mes para interponerla y tres para resolverla. Reposición: un mes para interponerla y un mes para resolverla."
+ },
+ "pr-41-020": {
+  "bloque": "subvenciones",
+  "precepto": "Art. 42.4 de la Ley 38/2003",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Cuatro años es el plazo de prescripción del derecho a reintegrar (art. 39), no el plazo para resolver el procedimiento.",
+   "No. Seis meses no es el plazo del procedimiento de reintegro.",
+   "No. Tres meses tampoco. El plazo es de doce meses.",
+   "Es esta. El **art. 42.4** de la LGS fija un plazo máximo de **doce meses** desde la fecha del acuerdo de iniciación para resolver y notificar el reintegro."
+  ],
+  "ojo": "Cuatro años para reclamar el reintegro, doce meses para tramitarlo."
+ },
+ "pr-41-021": {
+  "bloque": "subvenciones",
+  "precepto": "Arts. 9, 10 y 34 de la Ley 38/2003",
+  "correcta": 3,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. Otorgar una subvención exige que el órgano competente apruebe el gasto.",
+   "Es verdadera, así que no se marca. Las bases reguladoras se publican en el diario oficial correspondiente (**art. 9.3**).",
+   "Es verdadera, así que no se marca. Antes de otorgar subvenciones hay que aprobar las normas con las bases reguladoras (**art. 9.2**).",
+   "Esta es la falsa, y por eso es la que hay que marcar. La autorización previa del Consejo de Ministros **no implica** la aprobación del gasto, que corresponde al órgano competente (**art. 10.2**)."
+  ]
+ },
+ "pr-41-022": {
+  "bloque": "subvenciones",
+  "precepto": "Art. 22.1 de la Ley 38/2003",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El **art. 22.1** de la LGS permite al órgano competente prorratear el importe global máximo entre los beneficiarios, de forma excepcional y siempre que lo prevean las bases reguladoras.",
+   "No. No basta con que el órgano lo considere adecuado: tiene que estar previsto en las bases reguladoras (**art. 22.1**).",
+   "No. No es la regla general. Lo general es la concurrencia competitiva, y el prorrateo es excepcional y solo si lo prevén las bases (**art. 22.1**).",
+   "No. El prorrateo se prevé en el procedimiento de concurrencia competitiva, no en las subvenciones nominativas."
+  ]
+ },
+ "pr-41-023": {
+  "bloque": "subvenciones",
+  "precepto": "Art. 42.2 y 42.5 de la Ley 38/2003",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El reintegro se inicia **siempre de oficio**, por acuerdo del órgano competente (**art. 42.2**).",
+   "No. El plazo es de **doce meses**, no de seis (**art. 42.4**).",
+   "Es esta. El **art. 42.5** dice que la resolución del procedimiento de reintegro pondrá fin a la vía administrativa.",
+   "No. Si pone fin a la vía administrativa, cabe contra ella el recurso potestativo de reposición, además del contencioso."
+  ]
+ },
+ "pr-41-024": {
+  "bloque": "subvenciones",
+  "precepto": "Art. 2.1 de la Ley 38/2003",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Es lo contrario. Si hay contraprestación directa, no es subvención sino contrato o similar (**art. 2.1.a**).",
+   "No. La subvención sí exige al beneficiario cumplir obligaciones materiales o formales (**art. 2.1.b**): el cumplimiento de un objetivo, la ejecución de un proyecto, etc.",
+   "Es esta. El **art. 2.1.a** exige que la entrega se realice **sin contraprestación directa** de los beneficiarios.",
+   "No. La subvención fomenta actividades de **utilidad pública o interés social**, o promueve la consecución de un fin público (**art. 2.1.c**), no de utilidad privada."
+  ]
+ },
+ "pr-41-025": {
+  "bloque": "subvenciones",
+  "precepto": "Art. 34.2 de la Ley 38/2003",
+  "correcta": 1,
+  "justificaciones": [
+   "No. La aprobación del gasto es **previa** a la convocatoria o concesión (**art. 34.1**). No es lo que conlleva la resolución.",
+   "Es esta. El **art. 34.2** dice que la resolución de concesión conllevará el **compromiso del gasto** correspondiente.",
+   "No. El reconocimiento de la obligación llega después, cuando se justifica la subvención y se acredita el derecho al cobro.",
+   "No. La propuesta de pago es un paso posterior del procedimiento de pago."
+  ]
+ },
+ "pr-41-026": {
+  "bloque": "subvenciones",
+  "precepto": "Art. 25.5 de la Ley 38/2003",
+  "correcta": 1,
+  "justificaciones": [
+   "No. En subvenciones el silencio no es positivo. Cuando vence el plazo sin notificar la resolución, el interesado puede entender **desestimada** su solicitud (**art. 25.5**).",
+   "Es esta. El **art. 25.5** dice que el vencimiento del plazo máximo sin notificar la resolución legitima a los interesados para entender **desestimada por silencio administrativo** la solicitud de concesión.",
+   "No. La caducidad es una forma de terminar procedimientos paralizados o iniciados de oficio, no el efecto del silencio aquí.",
+   "No. No hay prescripción del derecho por el vencimiento del plazo de resolución."
+  ],
+  "ojo": "Subvenciones: silencio negativo. La regla general de la Ley 39/2015 en procedimientos a solicitud es el silencio positivo, pero esta ley lo cambia."
+ },
+ "pr-41-027": {
+  "bloque": "subvenciones",
+  "precepto": "Art. 37.1 de la Ley 38/2003",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Los intereses no corren desde que se concede, sino desde que se **paga** la subvención. Hasta que no hay dinero entregado, no hay nada que devolver.",
+   "No. Tampoco desde la concesión, y además el final no es el ingreso del deudor sino la fecha en que se acuerda el reintegro (salvo que ingrese antes).",
+   "Es esta. El **art. 37.1** dice que el interés de demora se exige desde el momento del **pago** de la subvención hasta la fecha en que se **acuerde la procedencia del reintegro** (o hasta que el deudor ingrese, si es antes).",
+   "No. El cómputo no termina cuando se inicia el procedimiento de reintegro, sino cuando se acuerda su procedencia."
+  ]
+ },
+ "pr-41-028": {
+  "bloque": "subvenciones",
+  "precepto": "Arts. 2.4 y 4 de la Ley 38/2003",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Los premios otorgados sin solicitud previa del beneficiario están **excluidos** de la LGS (art. 4).",
+   "No. Las prestaciones del sistema de la Seguridad Social, contributivas y no contributivas, están **excluidas** (art. 4).",
+   "Es esta. Una ayuda social concedida por un Ayuntamiento para atender a personas con diversidad funcional cumple los requisitos del **art. 2** (entrega sin contraprestación para un fin de interés social), así que es subvención.",
+   "No. Los beneficios fiscales y los beneficios en la cotización a la Seguridad Social **no** se consideran subvenciones (art. 2.4)."
+  ]
+ }
+}
