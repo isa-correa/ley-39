@@ -1,0 +1,188 @@
+{
+"lote": 43,
+"casos": {
+"caso-40": {
+"id": "caso-40",
+"titulo": "Ley 39 - Supuesto práctico (20 preguntas)",
+"texto": "El pasado 5 de junio de 2026, la mercantil Bioseísmica del Norte, S.L. presentó en el registro electrónico de la Junta de Castilla y León una solicitud de autorización dirigida al Ministerio para la Transición Ecológica y el Reto Demográfico. Dicha solicitud tuvo entrada en el Registro Electrónico General de la Administración General del Estado el 11 de junio de 2026. La solicitud tenía por objeto la ejecución de una campaña de prospección sísmica en un paraje colindante con un espacio Red Natura 2000, actividad calificada como \"susceptible de provocar daños al medio ambiente\". El viernes 19 de junio de 2026, el Subdirector General de Evaluación Ambiental, órgano instructor del procedimiento, acordó iniciar la tramitación del mismo, informando a la mercantil interesada de que el plazo máximo para resolver y notificar era de ocho meses y de que la competencia para resolver corresponde al Director General de Calidad y Evaluación Ambiental, órgano jerárquicamente dependiente del Secretario de Estado de Medio Ambiente. Asimismo, examinada la documentación, la Subdirección General de Evaluación Ambiental apreció que la solicitud adolecía de defectos cuya subsanación resultaba necesaria para la continuación del procedimiento, por lo que requirió a la interesada para su corrección, concediéndole al efecto un plazo de quince días hábiles. En el marco de la instrucción, y atendiendo a la posible afección a valores ambientales del entorno, el órgano instructor consideró pertinente recabar informe del Consejo Asesor de Medio Ambiente, órgano colegiado de consulta y asesoramiento en materia ambiental. Con carácter previo a dictar resolución, el Subdirector General de Evaluación Ambiental acordó la práctica de actuaciones complementarias imprescindibles para la adecuada resolución del procedimiento. En relación con este procedimiento, se formulan las siguientes preguntas:"
+}
+},
+"calendarios": {
+"cal2023": {
+"titulo": "Calendario 2023 (enero a junio)",
+"year": 2023,
+"meses": [
+1,
+2,
+3,
+4,
+5,
+6
+],
+"festivos": [
+"2023-01-06",
+"2023-03-20",
+"2023-04-06",
+"2023-04-07",
+"2023-05-01",
+"2023-05-02"
+],
+"nota": "Los domingos también van en rojo."
+},
+"dic2024": {
+"titulo": "Calendario diciembre 2024",
+"year": 2024,
+"meses": [
+12
+],
+"festivos": [
+"2024-12-06",
+"2024-12-08",
+"2024-12-25"
+],
+"nota": "Los domingos también van en rojo."
+}
+},
+"preguntas": [
+{
+"id": "pr-40-001",
+"origen": "practicas",
+"test": "Ley 39 - Supuesto práctico (20 preguntas)",
+"n": 1,
+"enunciado": "¿En qué plazo debió la Administración notificar a Bioseísmica del Norte, S.L. el plazo máximo para resolver y notificar, así como los efectos que podría producir el silencio administrativo en el procedimiento iniciado a su solicitud?",
+"opciones": [
+"Dentro de los diez días siguientes al 5 de junio de 2026.",
+"Dentro de los diez días siguientes al 11 de junio de 2026.",
+"Dentro de los diez días siguientes al 19 de junio de 2026.",
+"La Administración debe notificar al interesado el plazo máximo para resolver, pero no los efectos del silencio administrativo."
+],
+"caso": "caso-40"
+},
+{
+"id": "pr-40-002",
+"origen": "practicas",
+"test": "Ley 39 - Supuesto práctico (20 preguntas)",
+"n": 2,
+"enunciado": "En el procedimiento de autorización instado por Bioseísmica del Norte, S.L. ante el Ministerio para la Transición Ecológica y el Reto Demográfico, la norma reguladora fija un plazo máximo de ocho meses para resolver y notificar. ¿Es dicho plazo conforme a derecho?",
+"opciones": [
+"No, porque el plazo máximo nunca puede exceder de seis meses.",
+"No, porque el plazo máximo nunca puede exceder de tres meses.",
+"Sí, aun cuando la norma reguladora del procedimiento tenga rango reglamentario.",
+"Sí, siempre que la norma reguladora del procedimiento tenga rango de ley o así venga previsto en el Derecho de la Unión Europea."
+],
+"caso": "caso-40"
+},
+{
+"id": "pr-40-003",
+"origen": "practicas",
+"test": "Ley 39 - Supuesto práctico (20 preguntas)",
+"n": 3,
+"enunciado": "La mercantil Bioseísmica del Norte, S.L ha sido requerida para subsanar la solicitud de inicio del procedimiento. A tenor del artículo 68 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, ¿podía la Administración, de oficio, conceder a la interesada un plazo de subsanación de quince días hábiles?",
+"opciones": [
+"Sí, con carácter general, el plazo de subsanación es de quince días hábiles.",
+"No, el plazo de subsanación es de diez días hábiles y solo puede ampliarse a petición del interesado.",
+"No, dado que no se trata de un procedimiento selectivo ni de concurrencia competitiva.",
+"Sí, en caso de que le hubiese requerido documentos preceptivos cuya aportación presentara dificultades especiales."
+],
+"caso": "caso-40"
+},
+{
+"id": "pr-40-004",
+"origen": "practicas",
+"test": "Ley 39 - Supuesto práctico (20 preguntas)",
+"n": 4,
+"enunciado": "Según el artículo 68 de la Ley 39/2015, en el requerimiento de subsanación dirigido a Bioseísmica del Norte, S.L. debió indicarse que, si no subsana en plazo:",
+"opciones": [
+"Se le podrá declarar decaída en su derecho al trámite, previa resolución en la que se tenga por transcurrido el plazo.",
+"Se le tendrá por desistida de su petición, previa resolución que deberá dictarse en los términos previstos en el artículo 21.",
+"Se dictará resolución declarando la caducidad del procedimiento.",
+"Se archivará el procedimiento sin más trámite."
+],
+"caso": "caso-40"
+},
+{
+"id": "pr-40-005",
+"origen": "practicas",
+"test": "Ley 39 - Supuesto práctico (20 preguntas)",
+"n": 5,
+"enunciado": "Teniendo en cuenta que la Administración concedió a Bioseísmica del Norte, S.L. un plazo de quince días para subsanar y que entre la notificación del requerimiento y su efectivo cumplimiento por la interesada mediaron diez días, el transcurso del plazo máximo para resolver y notificar:",
+"opciones": [
+"Pudo suspenderse durante diez días.",
+"Pudo suspenderse durante el plazo de subsanación concedido, esto es, quince días.",
+"Debió suspenderse durante diez días.",
+"Debió suspenderse durante el plazo de subsanación concedido, esto es, quince días."
+],
+"caso": "caso-40"
+},
+{
+"id": "pr-40-006",
+"origen": "practicas",
+"test": "Ley 39 - Supuesto práctico (20 preguntas)",
+"n": 6,
+"enunciado": "Conforme al artículo 82 de la Ley 39/2015, en el procedimiento tramitado a solicitud de Bioseísmica del Norte, S.L., ¿cuándo tuvo lugar, en su caso, la audiencia a los interesados?",
+"opciones": [
+"Instruido el procedimiento, e inmediatamente antes de dictar la resolución.",
+"Instruido el procedimiento, e inmediatamente antes de redactar la propuesta de resolución.",
+"Durante la instrucción del procedimiento, e inmediatamente después de la práctica de las pruebas.",
+"Inmediatamente después de redactar la propuesta de resolución."
+],
+"caso": "caso-40"
+},
+{
+"id": "pr-40-007",
+"origen": "practicas",
+"test": "Ley 39 - Supuesto práctico (20 preguntas)",
+"n": 7,
+"enunciado": "Según el artículo 82 de la Ley 39/2015, en el trámite de audiencia, debió otorgarse a Bioseísmica del Norte, S.L., para alegar y presentar los documentos que estimara pertinentes, un plazo:",
+"opciones": [
+"No inferior a quince días.",
+"No superior a treinta días ni inferior a diez.",
+"No inferior a diez días ni superior a quince.",
+"No inferior a veinte días."
+],
+"caso": "caso-40"
+},
+{
+"id": "pr-40-008",
+"origen": "practicas",
+"test": "Ley 39 - Supuesto práctico (20 preguntas)",
+"n": 8,
+"enunciado": "Señale la respuesta incorrecta en relación con el informe que el órgano instructor recabó del Consejo Asesor de Medio Ambiente:",
+"opciones": [
+"Debió emitirse a través de medios electrónicos.",
+"Su aceptación servirá de motivación a la resolución cuando se incorpore al texto de la misma.",
+"Salvo disposición expresa en contrario, tiene carácter no vinculante.",
+"Salvo que una disposición permita o exija otro plazo mayor o menor, debió emitirse en el plazo de quince días."
+],
+"caso": "caso-40"
+},
+{
+"id": "pr-40-009",
+"origen": "practicas",
+"test": "Ley 39 - Supuesto práctico (20 preguntas)",
+"n": 9,
+"enunciado": "Conforme al artículo 87 de la Ley 39/2015, ¿correspondía al Subdirector General de Evaluación Ambiental acordar la realización de las actuaciones complementarias indispensables para resolver el procedimiento?",
+"opciones": [
+"No, la competencia para su adopción correspondía al Director General de Calidad y Evaluación Ambiental.",
+"No, la competencia para su adopción correspondía al Secretario de Estado de Medio Ambiente.",
+"Sí, aunque también era competente para su adopción el Director General de Calidad y Evaluación Ambiental.",
+"Sí, dada su condición de órgano instructor del procedimiento."
+],
+"caso": "caso-40"
+},
+{
+"id": "pr-40-010",
+"origen": "practicas",
+"test": "Ley 39 - Supuesto práctico (20 preguntas)",
+"n": 10,
+"enunciado": "Señale la respuesta correcta en relación con las actuaciones complementarias, de acuerdo con el artículo 87 de la Ley 39/2015:",
+"opciones": [
+"Deben practicarse en un plazo no superior a diez días.",
+"Tras la finalización de las mismas, los interesados dispondrán de un plazo de siete días para formular alegaciones.",
+"Durante la práctica de las mismas, el instructor del procedimiento podrá acordar la suspensión del plazo de resolución.",
+"El acuerdo de realización de actuaciones complementarias no requiere motivación."
+],
+"caso": "caso-40"
+}
+]
+}

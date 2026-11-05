@@ -1,7 +1,16 @@
 #!/usr/bin/env python3
-"""Uso: consulta.py <norma> <art> [<art>...]  normas: 39 40 50 cc ce ljca · consulta.py apuntes "texto" (busca en los apuntes)"""
+"""Uso: consulta.py <norma> <art> [<art>...]  normas: 39 40 lcsp (Ley 9/2017, apuntes) 50 cc ce ljca · consulta.py apuntes "texto" (busca en los apuntes)"""
 import re,sys,os
 B=os.path.dirname(os.path.abspath(__file__))
+if sys.argv[1]=='lcsp':
+    L=open(B+'/lcsp.txt',encoding='utf8').read().split('\n')
+    H=[i for i,l in enumerate(L) if i>600 and re.match(r'^\s*Arts?\.\s*\d+',l)]
+    for a in sys.argv[2:]:
+        k=[j for j,i in enumerate(H) if re.match(r'^\s*Arts?\.\s*(\d+)(?:\D|$)',L[i]) and re.match(r'^\s*Arts?\.\s*(\d+)',L[i]).group(1)==a or re.match(r'^\s*Arts?\.\s*(\d+)\D+?(\d+)',L[i]) and int(re.match(r'^\s*Arts?\.\s*(\d+)',L[i]).group(1))<=int(a)<=int(re.match(r'^\s*Arts?\.\s*\d+\D+?(\d+)',L[i]).group(1))]
+        if not k: print('Art',a,'no encontrado en LCSP'); continue
+        j=k[0]; fin=H[j+1] if j+1<len(H) else H[j]+80
+        print('\n'.join(L[H[j]:fin])[:7000]); print('=====')
+    sys.exit()
 F={'39':'boe39','40':'l40','50':'boe50','cc':'boecc','ce':'ce','ljca':'ljca'}
 if sys.argv[1]=='apuntes':
     L=open(B+'/apuntes.txt',encoding='utf8').read().split('\n')

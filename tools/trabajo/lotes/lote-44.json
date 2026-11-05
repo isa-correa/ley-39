@@ -1,0 +1,189 @@
+{
+"lote": 44,
+"casos": {
+"caso-40": {
+"id": "caso-40",
+"titulo": "Ley 39 - Supuesto práctico (20 preguntas)",
+"texto": "El pasado 5 de junio de 2026, la mercantil Bioseísmica del Norte, S.L. presentó en el registro electrónico de la Junta de Castilla y León una solicitud de autorización dirigida al Ministerio para la Transición Ecológica y el Reto Demográfico. Dicha solicitud tuvo entrada en el Registro Electrónico General de la Administración General del Estado el 11 de junio de 2026. La solicitud tenía por objeto la ejecución de una campaña de prospección sísmica en un paraje colindante con un espacio Red Natura 2000, actividad calificada como \"susceptible de provocar daños al medio ambiente\". El viernes 19 de junio de 2026, el Subdirector General de Evaluación Ambiental, órgano instructor del procedimiento, acordó iniciar la tramitación del mismo, informando a la mercantil interesada de que el plazo máximo para resolver y notificar era de ocho meses y de que la competencia para resolver corresponde al Director General de Calidad y Evaluación Ambiental, órgano jerárquicamente dependiente del Secretario de Estado de Medio Ambiente. Asimismo, examinada la documentación, la Subdirección General de Evaluación Ambiental apreció que la solicitud adolecía de defectos cuya subsanación resultaba necesaria para la continuación del procedimiento, por lo que requirió a la interesada para su corrección, concediéndole al efecto un plazo de quince días hábiles. En el marco de la instrucción, y atendiendo a la posible afección a valores ambientales del entorno, el órgano instructor consideró pertinente recabar informe del Consejo Asesor de Medio Ambiente, órgano colegiado de consulta y asesoramiento en materia ambiental. Con carácter previo a dictar resolución, el Subdirector General de Evaluación Ambiental acordó la práctica de actuaciones complementarias imprescindibles para la adecuada resolución del procedimiento. En relación con este procedimiento, se formulan las siguientes preguntas:"
+}
+},
+"calendarios": {
+"cal2023": {
+"titulo": "Calendario 2023 (enero a junio)",
+"year": 2023,
+"meses": [
+1,
+2,
+3,
+4,
+5,
+6
+],
+"festivos": [
+"2023-01-06",
+"2023-03-20",
+"2023-04-06",
+"2023-04-07",
+"2023-05-01",
+"2023-05-02"
+],
+"nota": "Los domingos también van en rojo."
+},
+"dic2024": {
+"titulo": "Calendario diciembre 2024",
+"year": 2024,
+"meses": [
+12
+],
+"festivos": [
+"2024-12-06",
+"2024-12-08",
+"2024-12-25"
+],
+"nota": "Los domingos también van en rojo."
+}
+},
+"preguntas": [
+{
+"id": "pr-40-011",
+"origen": "practicas",
+"test": "Ley 39 - Supuesto práctico (20 preguntas)",
+"n": 11,
+"enunciado": "De conformidad con la Ley 39/2015, suponiendo que no se hubiese suspendido el cómputo del plazo máximo para resolver y notificar, ¿qué día finaliza el plazo máximo en el que debe notificarse la resolución expresa?",
+"opciones": [
+"El 5 de febrero de 2027.",
+"El 19 de diciembre de 2026.",
+"El 11 de febrero de 2027.",
+"El 19 de febrero de 2027."
+],
+"caso": "caso-40"
+},
+{
+"id": "pr-40-012",
+"origen": "practicas",
+"test": "Ley 39 - Supuesto práctico (20 preguntas)",
+"n": 12,
+"enunciado": "En la fecha a la que se refiere la pregunta anterior, y a efecto de evitar que se produzca el silencio administrativo, será preciso, al menos, que la resolución que ponga fin al procedimiento administrativo:",
+"opciones": [
+"Haya sido puesta a disposición del interesado en la Dirección Electrónica Habilitada única.",
+"Haya sido notificada al interesado, mediante el acceso de este, o de su representante, al contenido de la resolución.",
+"Haya sido dictada, debiendo constar en el expediente, al menos, un intento de notificación en el domicilio del interesado.",
+"Haya sido dictada, disponiendo la Administración de un plazo de diez días hábiles para proceder a su notificación."
+],
+"caso": "caso-40",
+"sigueA": "pr-40-011"
+},
+{
+"id": "pr-40-013",
+"origen": "practicas",
+"test": "Ley 39 - Supuesto práctico (20 preguntas)",
+"n": 13,
+"enunciado": "Si no se dictara y notificara la resolución en plazo, Bioseísmica del Norte, S.L. podrá entender:",
+"opciones": [
+"Que se ha producido la caducidad del procedimiento.",
+"Que su solicitud ha sido estimada por silencio administrativo.",
+"Que su solicitud ha sido desestimada por silencio administrativo.",
+"Que la Administración ha acordado la ampliación del plazo máximo de resolución y notificación del procedimiento."
+],
+"caso": "caso-40"
+},
+{
+"id": "pr-40-014",
+"origen": "practicas",
+"test": "Ley 39 - Supuesto práctico (20 preguntas)",
+"n": 14,
+"enunciado": "Si finalmente el Director General de Calidad y Evaluación Ambiental dictase resolución desestimatoria, ¿qué recurso administrativo cabría interponer contra dicha resolución?",
+"opciones": [
+"Potestativo de reposición, en el plazo de un mes.",
+"Potestativo de reposición, en el plazo de tres meses.",
+"Alzada, en el plazo de un mes.",
+"Alzada, en el plazo de tres meses."
+],
+"caso": "caso-40"
+},
+{
+"id": "pr-40-015",
+"origen": "practicas",
+"test": "Ley 39 - Supuesto práctico (20 preguntas)",
+"n": 15,
+"enunciado": "¿Ante qué órgano cabrá interponer el recurso contra la resolución dictada por el Director General de Calidad y Evaluación Ambiental?",
+"opciones": [
+"Ante el Director General de Calidad y Evaluación Ambiental, únicamente.",
+"Ante el Secretario de Estado de Medio Ambiente, únicamente.",
+"Ante la Ministra para la Transición Ecológica y el Reto Demográfico o ante el Secretario de Estado de Medio Ambiente.",
+"Ante el Director General de Calidad y Evaluación Ambiental o ante el Secretario de Estado de Medio Ambiente."
+],
+"caso": "caso-40"
+},
+{
+"id": "pr-40-016",
+"origen": "practicas",
+"test": "Ley 39 - Supuesto práctico (20 preguntas)",
+"n": 16,
+"enunciado": "¿Cómo debería actuar el órgano competente para resolver el recurso si detectara que el recurrente lo ha calificado erróneamente?",
+"opciones": [
+"Debería suspender la tramitación del recurso, procediendo a su archivo.",
+"Debería suspender la tramitación del recurso, procediendo a su desestimación.",
+"Debería suspender la tramitación del recurso, concediendo al recurrente un plazo de subsanación de cinco días hábiles.",
+"Debería continuar con la tramitación del recurso, siempre que se pudiera deducir su verdadero carácter."
+],
+"caso": "caso-40"
+},
+{
+"id": "pr-40-017",
+"origen": "practicas",
+"test": "Ley 39 - Supuesto práctico (20 preguntas)",
+"n": 17,
+"enunciado": "Si para la resolución del recurso hubieran de tenerse en cuenta nuevos hechos no recogidos en el expediente originario, ¿qué plazo debería otorgarse a los interesados para que pudieran formular cuantas alegaciones estimaran procedentes?",
+"opciones": [
+"Un plazo no inferior a diez días ni superior a quince.",
+"Un plazo no inferior a diez días ni superior a veinte.",
+"Un plazo no inferior a veinte días.",
+"En fase de recurso no procede dar audiencia de los interesados."
+],
+"caso": "caso-40"
+},
+{
+"id": "pr-40-018",
+"origen": "practicas",
+"test": "Ley 39 - Supuesto práctico (20 preguntas)",
+"n": 18,
+"enunciado": "¿Qué órgano sería competente para resolver el recurso al que se refieren las preguntas anteriores?",
+"opciones": [
+"El mismo ante el que se hubiese interpuesto el recurso.",
+"La Ministra para la Transición Ecológica y el Reto Demográfico.",
+"El Secretario de Estado de Medio Ambiente.",
+"El Director General de Calidad y Evaluación Ambiental."
+],
+"caso": "caso-40"
+},
+{
+"id": "pr-40-019",
+"origen": "practicas",
+"test": "Ley 39 - Supuesto práctico (20 preguntas)",
+"n": 19,
+"enunciado": "¿En qué plazo debe resolverse el recurso al que se refieren las preguntas anteriores y qué efectos produciría su falta de resolución?",
+"opciones": [
+"Tres meses. Desestimatorios.",
+"Un mes. Desestimatorios.",
+"Un mes. Estimatorios.",
+"Tres meses. Estimatorios."
+],
+"caso": "caso-40"
+},
+{
+"id": "pr-40-020",
+"origen": "practicas",
+"test": "Ley 39 - Supuesto práctico (20 preguntas)",
+"n": 20,
+"enunciado": "Resuelto el recurso al que se refieren las preguntas anteriores, ¿cabría interponer algún otro recurso en vía administrativa?",
+"opciones": [
+"Sí, recurso potestativo de reposición.",
+"Sí, recurso de alzada.",
+"No, resuelto el recurso la resolución será firme a todos los efectos.",
+"No, salvo el recurso extraordinario de revisión, en los casos establecidos en el artículo 125.1 de la Ley 39/2015."
+],
+"caso": "caso-40"
+}
+]
+}

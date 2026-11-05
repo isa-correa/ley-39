@@ -1,0 +1,224 @@
+{
+"lote": 45,
+"casos": {},
+"calendarios": {
+"cal2023": {
+"titulo": "Calendario 2023 (enero a junio)",
+"year": 2023,
+"meses": [
+1,
+2,
+3,
+4,
+5,
+6
+],
+"festivos": [
+"2023-01-06",
+"2023-03-20",
+"2023-04-06",
+"2023-04-07",
+"2023-05-01",
+"2023-05-02"
+],
+"nota": "Los domingos también van en rojo."
+},
+"dic2024": {
+"titulo": "Calendario diciembre 2024",
+"year": 2024,
+"meses": [
+12
+],
+"festivos": [
+"2024-12-06",
+"2024-12-08",
+"2024-12-25"
+],
+"nota": "Los domingos también van en rojo."
+}
+},
+"preguntas": [
+{
+"id": "pr-41-001",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (70 preguntas)",
+"n": 1,
+"enunciado": "De acuerdo con lo dispuesto en el artículo 36 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (en adelante Ley 39/2015) en caso de que un órgano administrativo ejerza sus competencias de forma verbal, la constancia escrita del acto, cuando sea necesaria, se efectuará y firmará por:",
+"opciones": [
+"El titular del órgano inferior o funcionario que la reciba oralmente.",
+"El funcionario que designe el titular del órgano superior.",
+"El titular del órgano superior.",
+"Los órganos administrativos no podrán, en ningún caso, ejercer sus competencias de forma verbal."
+]
+},
+{
+"id": "pr-41-002",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (70 preguntas)",
+"n": 2,
+"enunciado": "De conformidad con el artículo 107 de la Ley 39/2015, la declaración de lesividad:",
+"opciones": [
+"Podrá adoptarse en cualquier momento.",
+"No podrá adoptarse una vez transcurrido un año desde que se dictó el acto administrativo.",
+"No podrá adoptarse una vez transcurridos cuatro años desde que se dictó el acto administrativo.",
+"Podrá adoptarse en el plazo máximo de seis meses desde que se dictó el acto administrativo."
+]
+},
+{
+"id": "pr-41-003",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (70 preguntas)",
+"n": 3,
+"enunciado": "De acuerdo con el artículo 11 de la ley 40/2015, la encomienda de gestión entre órganos administrativos:",
+"opciones": [
+"Es un mecanismo de cesión de la titularidad, por motivos de eficacia.",
+"Está prevista para la realización de actividades de carácter material o técnico.",
+"Solo podrá realizarse entre órganos de la misma administración.",
+"Podrá tener como objeto prestaciones propias de los contratos."
+]
+},
+{
+"id": "pr-41-004",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (70 preguntas)",
+"n": 4,
+"enunciado": "De acuerdo con la ley 40/2015, señale la respuesta correcta en relación con las Sociedades Mercantiles Estatales:",
+"opciones": [
+"Su creación deberá ser autorizada mediante acuerdo del Consejo de Ministros.",
+"En ningún caso la ley podrá atribuirles el ejercicio de potestades administrativas.",
+"Se regirán íntegramente por el derecho público, no siéndoles de aplicación el ordenamiento jurídico privado.",
+"Tendrán la consideración de organismos públicos vinculados o dependientes de la Administración General del Estado."
+]
+},
+{
+"id": "pr-41-005",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (70 preguntas)",
+"n": 5,
+"enunciado": "Conforme al artículo 49 de la Ley 40/2015, los convenios deberán tener una duración determinada, que no podrá ser:",
+"opciones": [
+"Inferior a 4 años, salvo que normativamente se prevea un plazo superior.",
+"Superior a 4 años, salvo que normativamente se prevea un plazo superior.",
+"Inferior a 5 años, salvo que normativamente se prevea un plazo superior.",
+"Superior a 5 años, salvo que normativamente se prevea un plazo superior."
+]
+},
+{
+"id": "pr-41-006",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (70 preguntas)",
+"n": 6,
+"enunciado": "Señale cuál de las siguientes afirmaciones relativas a la ampliación de plazos en el procedimiento administrativo, NO se ajusta a lo dispuesto en el artículo 32 de la Ley 39/2015:",
+"opciones": [
+"El acuerdo de ampliación deberá ser notificado a los interesados.",
+"Siempre que sea objeto de ampliación un plazo ya vencido deberá quedar constancia de los motivos que lo justifican.",
+"En procedimientos que exijan cumplimentar trámites en el extranjero, la ampliación se aplicará por el máximo permitido.",
+"Los acuerdos sobre ampliación de plazos o sobre su denegación no serán susceptibles de recurso."
+]
+},
+{
+"id": "pr-41-007",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (70 preguntas)",
+"n": 7,
+"enunciado": "El artículo 50 de la ley 39/2015 establece que los actos anulables que, sin embargo, contengan los elementos constitutivos de otro distinto producirán los efectos de este. ¿Cómo se denomina esta previsión normativa?",
+"opciones": [
+"Conservación de los actos y trámites.",
+"Convalidación.",
+"Conversión de los actos viciados.",
+"Transmisibilidad del acto administrativo."
+]
+},
+{
+"id": "pr-41-008",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (70 preguntas)",
+"n": 8,
+"enunciado": "Conforme al artículo 118 de la Ley 39/2015, cuando hayan de tenerse en cuenta nuevos hechos o documentos no recogidos en el expediente originario, se pondrán de manifiesto a los interesados para que formulen las alegaciones y presenten los documentos y los justificantes que estimen procedentes en un plazo:",
+"opciones": [
+"No inferior a quince días.",
+"No inferior a diez días ni superior a treinta.",
+"No inferior a diez días ni superior a quince.",
+"No inferior a quince días ni superior a treinta."
+]
+},
+{
+"id": "pr-41-009",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (70 preguntas)",
+"n": 9,
+"enunciado": "De acuerdo con el artículo 104 de la ley 39/2015, podrán ser ejecutados por compulsión directa sobre las personas, en los casos en que la ley expresamente lo autorice, y dentro siempre del respeto debido a su dignidad y derechos reconocidos en la Constitución, los actos administrativos que:",
+"opciones": [
+"Impongan una obligación personalísima de no hacer o soportar.",
+"Impongan la obligación de satisfacer una cantidad líquida.",
+"Impongan obligaciones cuya ejecución pueda el obligado encargar a otra persona.",
+"Impongan una obligación personalísima de hacer o no soportar."
+]
+},
+{
+"id": "pr-41-010",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (70 preguntas)",
+"n": 10,
+"enunciado": "Indique cuál de los siguientes actos es susceptible de recurso administrativo, de acuerdo con lo dispuesto en la Ley 39/2015:",
+"opciones": [
+"El acuerdo que resuelva sobre la ampliación de plazos.",
+"La declaración de lesividad.",
+"El acuerdo que declare la aplicación de la tramitación de urgencia al procedimiento.",
+"La resolución que declare la caducidad del procedimiento."
+]
+},
+{
+"id": "pr-41-011",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (70 preguntas)",
+"n": 11,
+"enunciado": "De conformidad con el artículo 111 de la Ley 39/2015, ¿qué órgano será competente para la revisión de oficio de actos dictados por órganos directivos de un Departamento Ministerial que no dependan de una Secretaría de Estado?",
+"opciones": [
+"El titular del Departamento.",
+"El Subsecretario del Departamento.",
+"El Secretario General Técnico del Departamento.",
+"El Consejo de Ministros."
+]
+},
+{
+"id": "pr-41-012",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (70 preguntas)",
+"n": 12,
+"enunciado": "Indique cuál de los siguientes NO es uno de los derechos de las personas en sus relaciones con las Administraciones Públicas que se recogen en el artículo 13 de la Ley 39/2015:",
+"opciones": [
+"Comunicarse con las Administraciones Públicas a través de un Punto de Acceso General electrónico de la Administración.",
+"Exigir las responsabilidades de las Administraciones Públicas y autoridades, cuando así corresponda legalmente.",
+"La obtención y utilización de los medios de identificación y firma electrónica contemplados en dicha Ley.",
+"Identificar al personal al servicio de las Administraciones Públicas bajo cuya responsabilidad se tramiten los procedimientos."
+]
+},
+{
+"id": "pr-41-013",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (70 preguntas)",
+"n": 13,
+"enunciado": "Señale cuál de los siguientes actos de las Administraciones Públicas son nulos de pleno derecho, de acuerdo con lo establecido en el artículo 47 de la Ley 39/2015:",
+"opciones": [
+"Los que incurran en cualquier infracción del ordenamiento jurídico.",
+"Los actos expresos o presuntos contrarios al ordenamiento jurídico por los que se adquieren facultades o derechos cuando se carezca de los requisitos esenciales para su adquisición.",
+"Los que incurran en desviación de poder.",
+"Los que carezcan de los requisitos formales indispensables para alcanzar su fin."
+]
+},
+{
+"id": "pr-41-014",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (70 preguntas)",
+"n": 14,
+"enunciado": "Según el artículo 14 de la Ley 39/2015, estarán obligados a relacionarse a través de medios electrónicos con las Administraciones Públicas:",
+"opciones": [
+"Los empleados de las Administraciones Públicas, para la realización de cualquier trámite de un procedimiento administrativo.",
+"Los trabajadores autónomos.",
+"Quienes actúen en representación de cualquier interesado.",
+"Los notarios, para los trámites que realicen en ejercicio de dicha actividad profesional."
+]
+}
+]
+}

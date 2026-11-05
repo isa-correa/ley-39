@@ -6,7 +6,7 @@ n=sys.argv[1].zfill(2)
 L=json.load(open(f'{S}/lotes/lote-{n}.json',encoding='utf8'))
 try: R=json.load(open(f'{S}/../respuestas/lote-{n}.json',encoding='utf8'))
 except Exception as e: sys.exit(f'JSON no válido: {e}')
-B={'fuentes','interesados','actividad','plazos','actos','nulidad','iniciacion','instruccion','finalizacion','revision','recursos','iniciativa'}
+B={'fuentes','interesados','actividad','plazos','actos','nulidad','iniciacion','instruccion','finalizacion','revision','recursos','iniciativa','organos','responsabilidad','sector','subvenciones','lcsp-general','lcsp-disposiciones','lcsp-preparacion','lcsp-adjudicacion','lcsp-ejecucion','lcsp-tipos','lcsp-otros','social'}
 err=[]
 ids={q['id']:q for q in L['preguntas']}
 for i in ids:

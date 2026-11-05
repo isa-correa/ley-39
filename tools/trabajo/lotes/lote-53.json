@@ -1,0 +1,258 @@
+{
+"lote": 53,
+"casos": {
+"caso-43": {
+"id": "caso-43",
+"titulo": "Ley 39 + Contratos - Supuesto práctico (30 preguntas)",
+"texto": "En el Ministerio de Juventud e Infancia se está tramitando un procedimiento administrativo iniciado a solicitud de don Bartolomé Flores, quien pretende obtener autorización para utilizar una sala del Departamento con el fin de celebrar unas jornadas sobre participación juvenil. La solicitud se presentó el lunes 14 de septiembre de 2026 en el registro del Ayuntamiento de Málaga y tuvo entrada en el registro electrónico de la Administración General del Estado el miércoles 16 de septiembre del mismo año. La normativa reguladora del procedimiento, que no fija plazo máximo para resolver, atribuye al Subdirector General de Gestión Económica la competencia para instruirlo y al Subsecretario de Juventud e Infancia la de resolverlo. Finalizado el trámite de audiencia y antes de redactarse la propuesta de resolución, el Subdirector General acuerda la realización de determinadas actuaciones complementarias que considera indispensables para resolver el procedimiento. Finalmente, el Subsecretario de Juventud e Infancia dicta resolución desestimando la solicitud del señor Flores. En materia de contratación pública, el Ministerio ha tramitado diversos expedientes. Uno de ellos se refiere a las obras de sustitución de diez ventanas del edificio principal, deterioradas con el transcurso del tiempo por su uso natural. El contrato, que se licitó con un presupuesto base de licitación de 84.700 euros y un valor estimado de 70.000 euros, establecía como criterios de adjudicación el precio y la ampliación del plazo de garantía, ambos cuantificables mediante la mera aplicación de fórmulas. Para su adjudicación, el órgano de contratación optó por la modalidad más ágil del procedimiento abierto aplicable en función del tipo de contrato y de su valor estimado. Finalmente, el contrato se adjudicó a Carpinterías del Sur, S.L., por un importe de 60.000 euros, IVA excluido. El plazo de ejecución se fijó en tres meses, iniciándose las obras el 4 de agosto de 2026 y previéndose su finalización para el 3 de noviembre. Durante su ejecución se constató la necesidad de sustituir otras tres ventanas deterioradas, no contempladas en el proyecto inicial, cuya sustitución se valoró en 18.000 euros, IVA excluido. El órgano de contratación estudió la posibilidad de incorporar estos trabajos mediante una modificación no prevista en el pliego de cláusulas administrativas particulares, al amparo del régimen de las modificaciones no sustanciales, si bien finalmente descartó su aprobación. Asimismo, se han adjudicado, a través del sistema estatal de contratación centralizada, dos contratos destinados al Ministerio: uno para el servicio de vigilancia y seguridad de sus dependencias administrativas situadas en el municipio de Madrid, con un valor estimado de 130.000 euros y criterios de adjudicación cuantificables mediante fórmulas, y otro de arrendamiento con opción de compra de un servidor informático. Ambos se tramitaron mediante licitaciones independientes, sin derivar de acuerdos marco ni de sistemas dinámicos de adquisición. En otro orden de cosas, el 24 de febrero de 2025, doña Amalia Cardona, funcionaria del Cuerpo General Administrativo del Estado destinada en la Subsecretaría de Cultura, sufrió una caída en el edificio de los servicios centrales del Ministerio de Juventud e Infancia, al que acudió para realizar una gestión particular, debido al mal estado de conservación de las escaleras. La caída le ocasionó una fractura de rótula por la que tuvo que ser atendida de urgencia. El alcance de las secuelas derivadas del accidente quedó definitivamente determinado por el servicio de salud el 15 de mayo de 2025. Posteriormente, el 16 de marzo de 2026, doña Amalia Cardona presentó de forma presencial su reclamación de responsabilidad patrimonial en la oficina de asistencia en materia de registros del Ministerio de Juventud e Infancia. Por último, el Instituto de la Juventud, organismo autónomo adscrito al Ministerio a través de la Secretaría de Estado de Juventud e Infancia, ha convocado, para el ejercicio 2026, ayudas destinadas a la realización de actividades financiadas por la Comisión Europea en el marco del programa «Erasmus+», capítulo de Juventud. Atendiendo a los datos obrantes en este supuesto, responda a las preguntas que se le formulan:"
+}
+},
+"calendarios": {
+"cal2023": {
+"titulo": "Calendario 2023 (enero a junio)",
+"year": 2023,
+"meses": [
+1,
+2,
+3,
+4,
+5,
+6
+],
+"festivos": [
+"2023-01-06",
+"2023-03-20",
+"2023-04-06",
+"2023-04-07",
+"2023-05-01",
+"2023-05-02"
+],
+"nota": "Los domingos también van en rojo."
+},
+"dic2024": {
+"titulo": "Calendario diciembre 2024",
+"year": 2024,
+"meses": [
+12
+],
+"festivos": [
+"2024-12-06",
+"2024-12-08",
+"2024-12-25"
+],
+"nota": "Los domingos también van en rojo."
+}
+},
+"preguntas": [
+{
+"id": "pr-43-016",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Supuesto práctico (30 preguntas)",
+"n": 16,
+"enunciado": "El órgano de contratación estudió modificar el contrato para sustituir otras tres ventanas no contempladas en el proyecto inicial. Conforme al artículo 205.2.c) de la LCSP, ¿en cuánto podría incrementarse, como máximo, el precio del contrato, IVA excluido, sin que la modificación deba considerarse sustancial?",
+"opciones": [
+"6.000 euros.",
+"9.000 euros.",
+"10.500 euros.",
+"12.000 euros."
+],
+"caso": "caso-43"
+},
+{
+"id": "pr-43-017",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Supuesto práctico (30 preguntas)",
+"n": 17,
+"enunciado": "Carpinterías del Sur, S.L. incurre, por causas a ella imputables, en una demora de diez días respecto al cumplimiento del plazo total, optando la Administración por la imposición de penalidades. Dado que el pliego no establece penalidades distintas de las previstas en la LCSP, ¿cuál sería el importe total de las penalidades que por dicha demora pueden imponerse al contratista?",
+"opciones": [
+"360 euros.",
+"420 euros.",
+"435,60 euros.",
+"3.600 euros."
+],
+"caso": "caso-43"
+},
+{
+"id": "pr-43-018",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Supuesto práctico (30 preguntas)",
+"n": 18,
+"enunciado": "De conformidad con el artículo 229 de la LCSP, ¿qué órgano es competente para adjudicar los dos contratos tramitados a través del sistema estatal de contratación centralizada?",
+"opciones": [
+"El Director General de Racionalización y Centralización de la Contratación.",
+"El Ministro de Hacienda.",
+"La Junta de Contratación Centralizada.",
+"La Ministra de Juventud e Infancia."
+],
+"caso": "caso-43"
+},
+{
+"id": "pr-43-019",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Supuesto práctico (30 preguntas)",
+"n": 19,
+"enunciado": "Teniendo en cuenta que los pliegos del contrato de servicios de vigilancia y seguridad de las dependencias administrativas no prevén prórrogas, modificaciones, opciones eventuales ni primas o pagos a los licitadores, ¿cuál sería su presupuesto base de licitación?",
+"opciones": [
+"102.700 euros.",
+"130.000 euros.",
+"143.000 euros.",
+"157.300 euros."
+],
+"caso": "caso-43"
+},
+{
+"id": "pr-43-020",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Supuesto práctico (30 preguntas)",
+"n": 20,
+"enunciado": "Señale la respuesta correcta en relación con el contrato de servicios de vigilancia y seguridad de las dependencias administrativas:",
+"opciones": [
+"Se trata de un contrato sujeto a regulación armonizada.",
+"El contrato puede tramitarse por el procedimiento abierto simplificado sumario del artículo 159.6 de la LCSP.",
+"El anuncio de licitación es susceptible de recurso especial en materia de contratación.",
+"El contrato deberá tramitarse por el procedimiento abierto simplificado del artículo 159 de la LCSP."
+],
+"caso": "caso-43"
+},
+{
+"id": "pr-43-021",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Supuesto práctico (30 preguntas)",
+"n": 21,
+"enunciado": "En relación con el contrato de arrendamiento con opción de compra, ¿era necesario obtener autorización del Consejo de Ministros, teniendo en cuenta que fue concertado por cinco anualidades?",
+"opciones": [
+"No, salvo que el valor estimado del contrato sea igual o superior a doce millones de euros.",
+"No, salvo que vaya a ejercitarse la opción de compra.",
+"No, puesto que el número de anualidades no es superior a cinco años.",
+"Sí, puesto que el número de anualidades es superior a cuatro años."
+],
+"caso": "caso-43"
+},
+{
+"id": "pr-43-022",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Supuesto práctico (30 preguntas)",
+"n": 22,
+"enunciado": "De conformidad con la LPACAP, ¿presentó en plazo doña Amalia Cardona su reclamación de responsabilidad patrimonial?",
+"opciones": [
+"No, porque había transcurrido más de un año desde la caída.",
+"Sí, porque no había transcurrido un año desde la determinación del alcance de las secuelas.",
+"No, porque habían transcurrido más de seis meses desde la determinación del alcance de las secuelas.",
+"Sí, porque disponía de dos años desde la caída para presentar la reclamación."
+],
+"caso": "caso-43"
+},
+{
+"id": "pr-43-023",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Supuesto práctico (30 preguntas)",
+"n": 23,
+"enunciado": "Conforme al artículo 14 de la LPACAP, ¿actuó correctamente doña Amalia Cardona al presentar su reclamación en soporte papel en la oficina de asistencia en materia de registros del Ministerio?",
+"opciones": [
+"Sí, porque podía optar por presentarla presencialmente o por medios electrónicos.",
+"Sí, porque las reclamaciones de responsabilidad patrimonial están excluidas de la presentación electrónica obligatoria.",
+"No, por su condición de funcionaria al servicio de la Administración General del Estado.",
+"No, porque se presume su capacidad para acceder a los medios electrónicos."
+],
+"caso": "caso-43"
+},
+{
+"id": "pr-43-024",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Supuesto práctico (30 preguntas)",
+"n": 24,
+"enunciado": "En el procedimiento de responsabilidad patrimonial iniciado a solicitud de doña Amalia Cardona, indique el carácter y el plazo máximo de emisión del informe del servicio cuyo funcionamiento pudo ocasionar la presunta lesión indemnizable:",
+"opciones": [
+"Facultativo y no vinculante, debiendo emitirse en un plazo máximo de quince días.",
+"Facultativo y no vinculante, debiendo emitirse en un plazo máximo de diez días.",
+"Preceptivo y no vinculante, debiendo emitirse en un plazo máximo de diez días.",
+"Preceptivo y vinculante, debiendo emitirse en un plazo máximo de diez días."
+],
+"caso": "caso-43"
+},
+{
+"id": "pr-43-025",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Supuesto práctico (30 preguntas)",
+"n": 25,
+"enunciado": "¿Qué órgano es competente para resolver el procedimiento de responsabilidad patrimonial iniciado a solicitud de doña Amalia Cardona y qué día finaliza el plazo máximo para dictar y notificar la resolución?",
+"opciones": [
+"El titular del Ministerio de Cultura; el 16 de junio de 2026.",
+"El titular del Ministerio de Juventud e Infancia; el 16 de junio de 2026.",
+"El titular del Ministerio de Cultura; el 16 de septiembre de 2026.",
+"El titular del Ministerio de Juventud e Infancia; el 16 de septiembre de 2026."
+],
+"caso": "caso-43"
+},
+{
+"id": "pr-43-026",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Supuesto práctico (30 preguntas)",
+"n": 26,
+"enunciado": "Conforme al artículo 34.2 de la Ley 40/2015, para calcular la indemnización que, en su caso, corresponda a doña Amalia Cardona por las lesiones corporales sufridas, podrá tomarse como referencia la valoración incluida en:",
+"opciones": [
+"Las tablas de indemnizaciones por razón del servicio del personal de las Administraciones públicas.",
+"Los baremos de la normativa vigente en materia de seguros obligatorios y de la Seguridad Social.",
+"Los baremos de valoración de daños corporales previstos en la normativa de prevención de riesgos laborales.",
+"Las tablas de indemnizaciones por daños personales aprobadas anualmente en la Ley de Presupuestos Generales del Estado."
+],
+"caso": "caso-43"
+},
+{
+"id": "pr-43-027",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Supuesto práctico (30 preguntas)",
+"n": 27,
+"enunciado": "Conforme al artículo 34.3 de la Ley 40/2015, ¿qué fecha se tomará como referencia para calcular la cuantía de la indemnización que, en su caso, corresponda a doña Amalia Cardona?",
+"opciones": [
+"El 24 de febrero de 2025, día en que la lesión efectivamente se produjo.",
+"El 15 de mayo de 2025, día de la determinación del alcance de las secuelas.",
+"El 16 de marzo de 2026, día en que se presentó la reclamación de responsabilidad patrimonial.",
+"La fecha de la resolución que ponga fin al procedimiento de responsabilidad patrimonial."
+],
+"caso": "caso-43"
+},
+{
+"id": "pr-43-028",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Supuesto práctico (30 preguntas)",
+"n": 28,
+"enunciado": "Finalmente, se dicta resolución desestimando la reclamación de responsabilidad patrimonial interpuesta por doña Amalia Cardona, en la que solicitaba una indemnización de 35.000 euros. Si opta por interponer directamente recurso contencioso-administrativo, ¿qué órgano judicial será competente para conocer del mismo?",
+"opciones": [
+"La Sección de lo Contencioso-Administrativo del Tribunal Central de Instancia.",
+"La Sala de lo Contencioso-Administrativo del Tribunal Superior de Justicia de Madrid.",
+"La Sala de lo Contencioso-Administrativo de la Audiencia Nacional.",
+"La interposición del recurso judicial exige agotar previamente la vía administrativa mediante un recurso de reposición."
+],
+"caso": "caso-43"
+},
+{
+"id": "pr-43-029",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Supuesto práctico (30 preguntas)",
+"n": 29,
+"enunciado": "Con motivo de la gestión de las ayudas convocadas, se plantea revisar diversos aspectos de los estatutos del Instituto de la Juventud. De conformidad con el artículo 93 de la Ley 40/2015, dichos estatutos se aprueban por:",
+"opciones": [
+"Real Decreto del Consejo de Ministros.",
+"Orden del titular del Ministerio de Hacienda y Administraciones Públicas.",
+"Orden del titular del Ministerio de Juventud e Infancia.",
+"Resolución de la Presidencia del Instituto de la Juventud."
+],
+"caso": "caso-43"
+},
+{
+"id": "pr-43-030",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Supuesto práctico (30 preguntas)",
+"n": 30,
+"enunciado": "En relación con las ayudas convocadas, se detecta que una resolución dictada por la Presidenta del Instituto de la Juventud, máximo órgano rector del organismo, se adoptó prescindiendo total y absolutamente del procedimiento legalmente establecido, por lo que se propone su revisión de oficio. Conforme al artículo 111 de la LPACAP, ¿qué órgano es competente para llevarla a cabo?",
+"opciones": [
+"No es posible ya que la revisión de oficio se aplica sólo a los actos administrativos dictados por órganos ministeriales.",
+"El Consejo de Ministros.",
+"La propia Presidenta del Instituto de la Juventud.",
+"El titular de la Secretaría de Estado de Juventud e Infancia."
+],
+"caso": "caso-43"
+}
+]
+}

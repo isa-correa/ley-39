@@ -1,0 +1,237 @@
+{
+"lote": 51,
+"casos": {},
+"calendarios": {
+"cal2023": {
+"titulo": "Calendario 2023 (enero a junio)",
+"year": 2023,
+"meses": [
+1,
+2,
+3,
+4,
+5,
+6
+],
+"festivos": [
+"2023-01-06",
+"2023-03-20",
+"2023-04-06",
+"2023-04-07",
+"2023-05-01",
+"2023-05-02"
+],
+"nota": "Los domingos también van en rojo."
+},
+"dic2024": {
+"titulo": "Calendario diciembre 2024",
+"year": 2024,
+"meses": [
+12
+],
+"festivos": [
+"2024-12-06",
+"2024-12-08",
+"2024-12-25"
+],
+"nota": "Los domingos también van en rojo."
+}
+},
+"preguntas": [
+{
+"id": "pr-42-016",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (30 preguntas)",
+"n": 16,
+"enunciado": "De acuerdo con la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, los órganos de las diferentes Administraciones Públicas podrán delegar el ejercicio de las competencias que tengan atribuidas en otros órganos de la misma Administración, aun cuando no sean jerárquicamente dependientes, o en los Organismos Públicos o en Entidades de Derecho público vinculados o dependientes de aquellas, cuando se trate de órganos no relacionados jerárquicamente. ¿Quién deberá aprobar la delegación? (ADM-LI-EXT 2026)",
+"opciones": [
+"Será necesaria la aprobación previa del superior común, si ambos pertenecen al mismo Ministerio, o del órgano superior de quien dependa el órgano delegante, si el delegado y el delegante pertenecen a diferentes Ministerios.",
+"Será necesaria la aprobación previa del superior común, si ambos pertenecen al mismo Ministerio, o del órgano superior de quien dependa el órgano delegado, si el delegante y el delegado pertenecen a diferentes Ministerios.",
+"Será necesaria la aprobación previa del Secretario de Estado, si ambos pertenecenen al mismo Ministerio, o el órgano superior de quien dependa el órgano delegado, si el delegante y el delegado pertenecen a diferentes Ministerios.",
+"Será necesaria la aprobación previa del Secretario de Estado, si ambos pertenecen al mismo Ministerio, o el órgano superior de quien depende el órgano delegante, si el delegado y el delegante pertenecen a diferentes Ministerios."
+]
+},
+{
+"id": "pr-42-017",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (30 preguntas)",
+"n": 17,
+"enunciado": "De acuerdo con el artículo 32 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, en el caso de un particular que deba ser indemnizado cuando el Tribunal Constitucional haya declarado, a instancia de parte interesada, la existencia de un funcionamiento anormal en la tramitación de un recurso de amparo, ¿quién tramitará el procedimiento para fijar el importe de las indemnizaciones? (ADM-LI-EXT 2026)",
+"opciones": [
+"Se tramitará por el Ministerio de Justicia, con audiencia al Consejo de Estado.",
+"Se tramitará por el Ministerio de Justicia, con audiencia al Tribunal de Cuentas.",
+"Se tramitará por el Ministerio de Hacienda y Administraciones Públicas , con audiencia al Consejo de Estado.",
+"Se tramitará por el Ministerio de Hacienda y Administraciones Públicas, con audiencia al Tribunal de Cuentas."
+]
+},
+{
+"id": "pr-42-018",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (30 preguntas)",
+"n": 18,
+"enunciado": "Conforme al artículo 64 de la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, ¿cuándo aprobará el Gobierno un Plan para la Igualdad entre mujeres y hombres en la Administración General del Estado? (ADM-LI-EXT 2026)",
+"opciones": [
+"Cuando sea necesario.",
+"Al inicio de cada año.",
+"Cada dos años.",
+"Al inicio de cada legislatura."
+]
+},
+{
+"id": "pr-42-019",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (30 preguntas)",
+"n": 19,
+"enunciado": "De acuerdo con el artículo 26 de la Ley 50/1997, de 27 de noviembre, del Gobierno, ¿cuándo podrá prescindirse del trámite de consulta pública en el procedimiento de elaboración de un reglamento? (ADM-LI-EXT 2026)",
+"opciones": [
+"Cuando lo justifiquen causas de necesidad y oportunidad.",
+"Cuando la propuesta normativa tenga un impacto significativo en la actividad económica.",
+"Cuando concurran razones de interés general que lo justifiquen.",
+"Cuando la propuesta regule aspectos parciales de una materia."
+]
+},
+{
+"id": "pr-42-020",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (30 preguntas)",
+"n": 20,
+"enunciado": "Conforme al artículo 35 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, ¿qué actos administrativos serán motivados, con sucinta referencia de hechos y fundamentos de derecho? (ADM-PI 2026)",
+"opciones": [
+"Los actos que continúen con el criterio seguido en actuaciones precedentes.",
+"Las peticiones de informes o dictámenes complementarios en el procedimiento administrativo.",
+"Los actos que afecten a derechos e intereses fundamentales.",
+"Los acuerdos de ampliación de plazos."
+]
+},
+{
+"id": "pr-42-021",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (30 preguntas)",
+"n": 21,
+"enunciado": "Señale la respuesta correcta en relación con el inicio de un procedimiento por denuncia regulada en el artículo 62 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas: (ADM-PI 2026)",
+"opciones": [
+"Las denuncias deberán expresar la identidad de la persona o personas que las presentan y el relato de los hechos que se ponen en conocimiento de la Administración.",
+"Cuando la denuncia invocara un perjuicio en el patrimonio de las Administraciones Públicas la no iniciación del procedimiento podrá no ser motivada y se notificará a los denunciantes la decisión de si se ha iniciado o no el procedimiento.",
+"Cuando el denunciante haya participado en la comisión de una infracción, el órgano competente para resolver el procedimiento podrá eximir al denunciante del pago de la multa que le correspondería cuando el denunciante facilite elementos de prueba que aporten un valor añadido significativo respecto de aquellos de los que se disponga.",
+"La presentación de una denuncia confiere, por sí sola, la condición de interesado en el procedimiento."
+]
+},
+{
+"id": "pr-42-022",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (30 preguntas)",
+"n": 22,
+"enunciado": "Señale la respuesta correcta en relación con las medidas provisionales en un procedimiento administrativo reguladas en el artículo 56 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas: (ADM-PI 2026)",
+"opciones": [
+"Iniciado el procedimiento, el órgano administrativo competente para resolver, podrá adoptar, de oficio o a instancia de parte y de forma motivada, las medidas provisionales que estime oportunas para asegurar la eficacia de la resolución que pudiera recaer, si existiesen elementos de juicio suficientes, de acuerdo con los principios de proporcionalidad, efectividad y menor onerosidad.",
+"Iniciado el procedimiento, el órgano administrativo competente para iniciar o instruir el procedimiento, podrá adoptar, de oficio y de forma motivada, las medidas provisionales que estime oportunas para asegurar la eficacia de la resolución que pudiera recaer, si existiesen elementos de juicio suficientes, de acuerdo con los principios de proporcionalidad, eficiencia y menor onerosidad.",
+"Antes de la iniciación del procedimiento, el órgano competente para resolver, de oficio o a instancia de parte, en los casos de emergencia, adoptará de forma motivada las medidas provisionales que resulten menos onerosas y proporcionadas.",
+"Antes de la iniciación del procedimiento, el órgano competente para resolver, podrá adoptar, a instancia de parte, cuado sea necesario para asegurar la protección de los derechos e intereses de los implicados, las medidas provisionales que resulten precisas."
+]
+},
+{
+"id": "pr-42-023",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (30 preguntas)",
+"n": 23,
+"enunciado": "De acuerdo con el artículo 118 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones públicas, ¿de qué plazo disponen los interesados en un procedimiento de recurso para formular alegaciones y presentar documentos, en el caso de que hayan de tenerse en cuenta nuevos hechos o documentos no recogidos en el expediente originario? (ADM-PI 2026)",
+"opciones": [
+"De un plazo no inferior a diez días ni superior a quince.",
+"De un plazo de quince días.",
+"De un plazo de diez días.",
+"De un plazo no inferior a cinco días ni superior a diez."
+]
+},
+{
+"id": "pr-42-024",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (30 preguntas)",
+"n": 24,
+"enunciado": "En el caso de interponer un recurso de alzada ante el órgano que dictó el acto, ¿en qué plazo deberá remitirlo al competente para resolver, conforme al artículo 121 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas? (ADM-PI 2026)",
+"opciones": [
+"En el plazo de cinco días.",
+"En el plazo de diez días.",
+"En el plazo de quince días.",
+"En el plazo de un mes."
+]
+},
+{
+"id": "pr-42-025",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (30 preguntas)",
+"n": 25,
+"enunciado": "De acuerdo con el artículo 44 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, serán susceptibles de recurso especial en materia de contratación: (ADM-PI 2026)",
+"opciones": [
+"Los pliegos de los contratos de obras cuyo valor estimado sea superior a un millón de euros.",
+"Los anuncios de licitación de los contratos de obras cuyo valor estimado sea superior a un millón de euros.",
+"Los anuncios de licitación de los contratos de suministro cuyo valor estimado sea superior a cincuenta mil euros.",
+"Los pliegos de los contratos de servicios cuyo valor estimado sea superior a cien mil euros."
+]
+},
+{
+"id": "pr-42-026",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (30 preguntas)",
+"n": 26,
+"enunciado": "Según el artículo 102 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, en el precio del contrato: (ADM-PI 2026)",
+"opciones": [
+"Se entenderá incluido el importe a abonar en concepto de IVA, que en todo caso se indicará como partida independiente.",
+"Se entenderá incluido el importe a abonar en concepto de IVA, que se podrá indicar como partida independiente.",
+"No se entenderá incluido el importe a abonar en concepto de IVA.",
+"Se entenderá incluido el importe a abonar en concepto de IVA, salvo en los contratos de concesión de obras."
+]
+},
+{
+"id": "pr-42-027",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (30 preguntas)",
+"n": 27,
+"enunciado": "Según el artículo 99 de la Ley de Contratos del Sector Público, señale la respuesta correcta sobre el objeto del contrato: (ADM-PI 2026)",
+"opciones": [
+"En ningún caso se podrá limitar el número de lotes para los que un mismo candidato o licitador puede presentar oferta.",
+"El objeto de los contratos del sector público deberá ser indeterminado.",
+"Podrá fraccionarse un contrato con la finalidad de disminuir la cuantía del mismo y eludir así los requisitos de publicidad.",
+"Podrá reservar alguno o algunos de los lotes para Centros Especiales de Empleo o para empresas de inserción."
+]
+},
+{
+"id": "pr-42-028",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (30 preguntas)",
+"n": 28,
+"enunciado": "De conformidad con los artículos 25 y 26 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, señale cuál de los siguientes contratos tendrá carácter administrativo: (ADM-PI 2026)",
+"opciones": [
+"Los celebrados por entidades del sector público que, siendo poder adjudicador, no reúnan la condición de Administración Pública.",
+"Los celebrados por entidades del sector público que no reúnan la condición de poder adjudicador.",
+"Los que celebren las Administraciones Públicas que tengan por objeto la creación e interpretación artística.",
+"Los que celebren las Administraciones Públicas cuyo objeto sea adquisición de energía primaria o energía transformada."
+]
+},
+{
+"id": "pr-42-029",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (30 preguntas)",
+"n": 29,
+"enunciado": "Siguiendo lo dispuesto en el artículo 1.5 del Código Civil, ¿en qué momento pasará a formar parte del ordenamiento jurídico interno un tratado internacional válidamente celebrado? (ADM-PI 2026)",
+"opciones": [
+"Una vez adoptado el tratado internacional.",
+"Una vez publicado en el Boletín Oficial del Estado.",
+"Una vez ratificado por el Congreso de los Diputados.",
+"Una vez publicado en el Boletín Oficial de las Cortes Generales."
+]
+},
+{
+"id": "pr-42-030",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (30 preguntas)",
+"n": 30,
+"enunciado": "¿Qué forma adoptarán las decisiones del Consejo de Ministros que NO deban adoptar la forma de Real Decreto, según el artículo 24 de la Ley 50/1997, de 27 de noviembre, del Gobierno? (ADM-PI 2026)",
+"opciones": [
+"Órdenes del Consejo de Ministros.",
+"Resoluciones del Consejo de Ministros.",
+"Reglamentos del Consejo de Ministros.",
+"Acuerdos del Consejo de Ministros."
+]
+}
+]
+}

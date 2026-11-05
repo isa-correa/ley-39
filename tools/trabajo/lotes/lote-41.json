@@ -1,0 +1,237 @@
+{
+"lote": 41,
+"casos": {},
+"calendarios": {
+"cal2023": {
+"titulo": "Calendario 2023 (enero a junio)",
+"year": 2023,
+"meses": [
+1,
+2,
+3,
+4,
+5,
+6
+],
+"festivos": [
+"2023-01-06",
+"2023-03-20",
+"2023-04-06",
+"2023-04-07",
+"2023-05-01",
+"2023-05-02"
+],
+"nota": "Los domingos también van en rojo."
+},
+"dic2024": {
+"titulo": "Calendario diciembre 2024",
+"year": 2024,
+"meses": [
+12
+],
+"festivos": [
+"2024-12-06",
+"2024-12-08",
+"2024-12-25"
+],
+"nota": "Los domingos también van en rojo."
+}
+},
+"preguntas": [
+{
+"id": "pr-39-001",
+"origen": "practicas",
+"test": "Ley 39 + Ley 40 - Examen (30 preguntas)",
+"n": 1,
+"enunciado": "Indique, en primer lugar, cuál de las siguientes afirmaciones en relación con la competencia de los órganos administrativos se ajusta a lo previsto en la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público:",
+"opciones": [
+"La competencia es irrenunciable y se ejercerá, en todo caso, por los órganos que la tengan atribuida como propia.",
+"La delegación de competencias supone alteración de la titularidad de la misma.",
+"La titularidad y el ejercicio de las competencias podrán ser descentralizadas en otros órganos jerárquicamente dependientes.",
+"La encomienda de gestión no supone cesión de la titularidad de la competencia ni de los elementos sustantivos de su ejercicio."
+]
+},
+{
+"id": "pr-39-002",
+"origen": "practicas",
+"test": "Ley 39 + Ley 40 - Examen (30 preguntas)",
+"n": 2,
+"enunciado": "Según la Ley 39/2015, constituye requisito necesario para la revisión de actos nulos por la Administración General del Estado:",
+"opciones": [
+"Que exista solicitud de cualquier ciudadano instando la declaración de nulidad.",
+"Que no hayan transcurrido cuatro años desde que se dictó el acto administrativo.",
+"Que concurra alguno de los supuestos de nulidad o anulabilidad previstos en los artículos 47 y 48 de dicha Ley.",
+"Dictamen previo favorable del Consejo de Estado."
+]
+},
+{
+"id": "pr-39-003",
+"origen": "practicas",
+"test": "Ley 39 + Ley 40 - Examen (30 preguntas)",
+"n": 3,
+"enunciado": "Iniciado el procedimiento administrativo, cuando existieran elementos de juicio suficientes para ello, la adopción de medidas provisionales podrá adoptarse de acuerdo con los principios de:",
+"opciones": [
+"Proporcionalidad, onerosidad y discrecionalidad.",
+"Efectividad, proporcionalidad y menor onerosidad.",
+"Proporcionalidad, eficiencia y onerosidad.",
+"Eficacia, proporcionalidad y efectividad."
+]
+},
+{
+"id": "pr-39-004",
+"origen": "practicas",
+"test": "Ley 39 + Ley 40 - Examen (30 preguntas)",
+"n": 4,
+"enunciado": "Según la Ley 29/1998, de 13 de julio, NO corresponderán al orden jurisdiccional contencioso-administrativo:",
+"opciones": [
+"Los recursos contra los actos de preparación y adjudicación de contratos sujetos a la Ley de Contratos del Sector Público.",
+"Los recursos contra los actos de las Corporaciones de Derecho público, adoptados en el ejercicio de funciones públicas.",
+"Los conflictos de jurisdicción entre los Juzgados y Tribunales y la Administración Pública.",
+"Los recursos contra actos que resuelvan procedimientos de responsabilidad patrimonial de las Administraciones públicas."
+]
+},
+{
+"id": "pr-39-005",
+"origen": "practicas",
+"test": "Ley 39 + Ley 40 - Examen (30 preguntas)",
+"n": 5,
+"enunciado": "¿Cuál de los siguientes actos NO es nulo de pleno derecho, según el artículo 47 de la Ley 39/2015?",
+"opciones": [
+"Los dictados por órgano manifiestamente incompetente por razón de la materia o del territorio.",
+"Los que tengan un contenido imposible.",
+"Los que lesionen cualquier derecho del interesado.",
+"Los que sean constitutivos de infracción penal o se dicten como consecuencia de esta."
+]
+},
+{
+"id": "pr-39-006",
+"origen": "practicas",
+"test": "Ley 39 + Ley 40 - Examen (30 preguntas)",
+"n": 6,
+"enunciado": "Según el artículo 21 de la Ley 39/2015, se exceptúan de la obligación de resolver:",
+"opciones": [
+"Los procedimientos relativos al ejercicio de derechos sometidos únicamente al deber de comunicación a la Administración.",
+"Los casos de prescripción, renuncia del derecho y los supuestos de terminación por pacto o convenio.",
+"Los casos de caducidad del procedimiento o desistimiento de la solicitud y los supuestos de terminación por pacto o convenio.",
+"Los supuestos de terminación por pacto o convenio y los casos de desaparición sobrevenida del objeto del procedimiento."
+]
+},
+{
+"id": "pr-39-007",
+"origen": "practicas",
+"test": "Ley 39 + Ley 40 - Examen (30 preguntas)",
+"n": 7,
+"enunciado": "Según el artículo 50 de la Ley 39/2015, de 1 de octubre, la conversión de actos viciados permite que:",
+"opciones": [
+"Se conserven aquellos actos y trámites cuyo contenido se hubiera mantenido igual de no haberse cometido la infracción.",
+"Los actos nulos o anulables que contengan los elementos constitutivos de otro distinto produzcan los efectos de este.",
+"Si el vicio consistiese en la falta de una autorización, sea conservado mediante su otorgamiento por el órgano competente.",
+"Se produzca la subsanación de un defecto de forma."
+]
+},
+{
+"id": "pr-39-008",
+"origen": "practicas",
+"test": "Ley 39 + Ley 40 - Examen (30 preguntas)",
+"n": 8,
+"enunciado": "Señale la premisa incorrecta. El plazo máximo para resolver un procedimiento y notificar la resolución se suspenderá:",
+"opciones": [
+"Cuando se promueva la recusación, desde que ésta se plantee hasta que sea resuelta por el superior jerárquico del recusado.",
+"Cuando para resolver el procedimiento sea indispensable obtener un previo pronunciamiento de un órgano jurisdiccional.",
+"Cuando el órgano competente para resolver decida realizar alguna actuación complementaria de las previstas en el artículo 87.",
+"Cuando una Administración Pública requiera a otra para que anule o revise un acto que entienda que es ilegal y que constituya la base para el que la primera haya de dictar en el ámbito de sus competencias."
+]
+},
+{
+"id": "pr-39-009",
+"origen": "practicas",
+"test": "Ley 39 + Ley 40 - Examen (30 preguntas)",
+"n": 9,
+"enunciado": "Conforme a lo establecido en el artículo 1 del Código Civil, son fuentes del ordenamiento jurídico español:",
+"opciones": [
+"La ley, la costumbre y la jurisprudencia.",
+"La ley, la costumbre, los principios generales del derecho y la jurisprudencia.",
+"La Constitución y la ley.",
+"La ley, la costumbre y los principios generales del derecho."
+]
+},
+{
+"id": "pr-39-010",
+"origen": "practicas",
+"test": "Ley 39 + Ley 40 - Examen (30 preguntas)",
+"n": 10,
+"enunciado": "De acuerdo con el artículo 48 de la Ley 39/2015, el defecto de forma en un acto administrativo:",
+"opciones": [
+"Determina siempre su nulidad.",
+"Determina su nulidad cuando el acto carezca de los requisitos formales indispensables para alcanzar su fin.",
+"Determina su anulabilidad cuando el acto dé lugar a la indefensión de los interesados.",
+"Determina siempre su anulabilidad."
+]
+},
+{
+"id": "pr-39-011",
+"origen": "practicas",
+"test": "Ley 39 + Ley 40 - Examen (30 preguntas)",
+"n": 11,
+"enunciado": "Según la Ley 39/2015, el acto por el que cualquier persona, en cumplimiento o no de una obligación legal, pone en conocimiento de un órgano administrativo la existencia de un determinado hecho que pudiera justificar el inicio de oficio de un procedimiento administrativo, se denomina:",
+"opciones": [
+"Petición razonada.",
+"Declaración expresa responsable.",
+"Comunicación.",
+"Denuncia."
+]
+},
+{
+"id": "pr-39-012",
+"origen": "practicas",
+"test": "Ley 39 + Ley 40 - Examen (30 preguntas)",
+"n": 12,
+"enunciado": "Según la Ley 39/2015, contra un acto firme en vía administrativa dictado como consecuencia de prevaricación declarada como tal en sentencia judicial firme cabe interponer recurso extraordinario de revisión:",
+"opciones": [
+"Ante el órgano administrativo que lo dictó en el plazo de 3 meses desde que la sentencia judicial quedó firme.",
+"Ante el superior jerárquico del órgano administrativo que lo dictó en el plazo de 4 años desde que la sentencia quedó firme.",
+"Ante el órgano administrativo que lo dictó en el plazo de 4 años desde que la sentencia judicial quedó firme.",
+"Ante el superior jerárquico del órgano administrativo que lo dictó en el plazo de 3 meses desde que la sentencia quedó firme."
+]
+},
+{
+"id": "pr-39-013",
+"origen": "practicas",
+"test": "Ley 39 + Ley 40 - Examen (30 preguntas)",
+"n": 13,
+"enunciado": "¿En qué momento pueden los interesados en un procedimiento administrativo alegar defectos de tramitación?",
+"opciones": [
+"En cualquier momento del procedimiento anterior al trámite de audiencia.",
+"En cualquier momento del procedimiento anterior a la propuesta de resolución.",
+"En cualquier momento del procedimiento anterior al trámite de información pública.",
+"En todo momento."
+]
+},
+{
+"id": "pr-39-014",
+"origen": "practicas",
+"test": "Ley 39 + Ley 40 - Examen (30 preguntas)",
+"n": 14,
+"enunciado": "Conforme a la Ley 40/2015, en la Administración General del Estado, cuando se deleguen competencias entre órganos no relacionados jerárquicamente, ¿a qué órgano corresponderá otorgar la aprobación previa?",
+"opciones": [
+"Al órgano superior de quien dependa el órgano delegante, tanto si pertenecen al mismo como a distintos Ministerios.",
+"Al órgano superior de quien dependa el órgano delegado, tanto si pertenecen al mismo como a distintos Ministerios.",
+"Al superior común, si pertenecen al mismo Ministerio, o al superior del órgano delegado, si pertenecen a distintos Ministerios.",
+"Al superior común, si pertenecen al mismo Ministerio, o al superior del órgano delegante, si pertenecen a distintos Ministerios."
+]
+},
+{
+"id": "pr-39-015",
+"origen": "practicas",
+"test": "Ley 39 + Ley 40 - Examen (30 preguntas)",
+"n": 15,
+"enunciado": "Según el artículo 24 de la Ley 50/1997, los reglamentos se ordenarán según la siguiente jerarquía:",
+"opciones": [
+"1º Las disposiciones que son aprobadas por Real Decreto del Presidente del Gobierno o acordadas en el Consejo de Ministros; 2º Las disposiciones aprobadas por Orden Ministerial.",
+"1º Las disposiciones aprobadas por Real Decreto del Presidente del Gobierno; 2º Las disposiciones acordadas por el Consejo de Ministros; 3º Las disposiciones aprobadas por Orden Ministerial.",
+"1º Las disposiciones aprobadas por el Consejo de Ministros; 2º Las disposiciones aprobadas por Real Decreto del Presidente del Gobierno; 3º Las disposiciones aprobadas por Orden Ministerial.",
+"Todas las normas reglamentarias tienen el mismo rango jerárquico."
+]
+}
+]
+}

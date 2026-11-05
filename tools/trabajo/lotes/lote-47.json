@@ -1,0 +1,224 @@
+{
+"lote": 47,
+"casos": {},
+"calendarios": {
+"cal2023": {
+"titulo": "Calendario 2023 (enero a junio)",
+"year": 2023,
+"meses": [
+1,
+2,
+3,
+4,
+5,
+6
+],
+"festivos": [
+"2023-01-06",
+"2023-03-20",
+"2023-04-06",
+"2023-04-07",
+"2023-05-01",
+"2023-05-02"
+],
+"nota": "Los domingos también van en rojo."
+},
+"dic2024": {
+"titulo": "Calendario diciembre 2024",
+"year": 2024,
+"meses": [
+12
+],
+"festivos": [
+"2024-12-06",
+"2024-12-08",
+"2024-12-25"
+],
+"nota": "Los domingos también van en rojo."
+}
+},
+"preguntas": [
+{
+"id": "pr-41-029",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (70 preguntas)",
+"n": 29,
+"enunciado": "De acuerdo con lo establecido en el artículo 114 de la Ley 39/2015, ponen fin a la vía administrativa:",
+"opciones": [
+"Las resoluciones de los recursos potestativos de reposición.",
+"Las resoluciones de los órganos administrativos que carezcan de superior jerárquico, en todo caso.",
+"Los acuerdos, pactos, convenios o contratos que tengan la consideración de iniciadores del procedimiento.",
+"La resolución de los procedimientos complementarios en materia sancionadora a los que se refiere el artículo 90.4."
+]
+},
+{
+"id": "pr-41-030",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (70 preguntas)",
+"n": 30,
+"enunciado": "A tenor del artículo 37 de la Ley 39/2015, ¿en qué casos pueden las resoluciones administrativas de carácter particular vulnerar lo establecido en una disposición de carácter general?",
+"opciones": [
+"En ningún caso.",
+"Cuando procedan de un órgano de igual o superior jerarquía al que dictó la disposición general.",
+"Cuando procedan de un órgano de superior jerarquía al que dictó la disposición general.",
+"Cuando así lo decida el órgano competente para resolver, previa audiencia al interesado."
+]
+},
+{
+"id": "pr-41-031",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (70 preguntas)",
+"n": 31,
+"enunciado": "De acuerdo con el artículo 70 de la Ley 39/2015, no formará parte del expediente administrativo:",
+"opciones": [
+"Un índice numerado de todos los documentos que contenga cuando se remita.",
+"Una copia electrónica certificada de la resolución adoptada.",
+"Los informes, preceptivos y facultativos, solicitados antes de la resolución administrativa que ponga fin al procedimiento.",
+"La información que tenga carácter auxiliar o de apoyo."
+]
+},
+{
+"id": "pr-41-032",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (70 preguntas)",
+"n": 32,
+"enunciado": "De acuerdo con lo establecido en el artículo 21 de la Ley 39/2015, el plazo máximo en el que la Administración debe notificar la resolución expresa de un procedimiento administrativo se contará:",
+"opciones": [
+"En los iniciados a solicitud del interesado, desde la fecha en que la solicitud haya tenido entrada en el registro electrónico de cualquier Administración Pública.",
+"Tanto en los iniciados de oficio como los iniciados a solicitud del interesado, desde la fecha del acuerdo de iniciación.",
+"En los iniciados de oficio, desde la fecha de notificación del acuerdo de iniciación del procedimiento.",
+"En los iniciados a solicitud del interesado, desde la fecha en que la solicitud haya tenido entrada en el registro electrónico de la Administración u Organismo competente para su tramitación."
+]
+},
+{
+"id": "pr-41-033",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (70 preguntas)",
+"n": 33,
+"enunciado": "Dispone el artículo 109.1 de la Ley 39/2015 que, siempre que no constituya dispensa o exención no permitida por las leyes, ni sea contraria al principio de igualdad, al interés público o al ordenamiento jurídico, las Administraciones Públicas podrán revocar:",
+"opciones": [
+"En cualquier momento, sus actos de gravamen o desfavorables.",
+"En cualquier momento, los actos favorables para los interesados.",
+"Mientras no haya transcurrido el plazo de prescripción, sus actos de gravamen o desfavorables.",
+"Mientras no haya transcurrido el plazo de prescripción, los actos favorables para los interesados."
+]
+},
+{
+"id": "pr-41-034",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (70 preguntas)",
+"n": 34,
+"enunciado": "Conforme al artículo 103 de la Ley 39/2015, ¿en cuál de los siguientes supuestos cabrá la imposición de multas coercitivas?",
+"opciones": [
+"Actos en que, procediendo la compulsión directa sobre la persona del obligado, la Administración no la estimara conveniente.",
+"Actos cuya ejecución no pueda el obligado encargar a otra persona.",
+"Actos personalísimos que no puedan ser objeto de una sanción administrativa.",
+"Cuando la Administración hubiera de ejecutar una obligación a su favor por una cantidad líquida."
+]
+},
+{
+"id": "pr-41-035",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (70 preguntas)",
+"n": 35,
+"enunciado": "Señale la respuesta correcta en relación con la declaración responsable y comunicación, según el artículo 69 de la Ley 39/2015:",
+"opciones": [
+"Permitirán el inicio de una actividad desde el día siguiente a su presentación.",
+"En determinados supuestos, la declaración responsable podrá presentarse dentro de un plazo posterior al inicio de la actividad.",
+"No podrá exigirse acumulativamente una declaración responsable y una comunicación para iniciar una misma actividad.",
+"Una vez formulada la comunicación o declaración responsable, la Administración deberá dictar y notificar resolución expresa."
+]
+},
+{
+"id": "pr-41-036",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (70 preguntas)",
+"n": 36,
+"enunciado": "De conformidad con el artículo 129 de la Ley 39/2015, en el ejercicio de la iniciativa legislativa y las potestades reglamentarias, las Administraciones Públicas actuarán de acuerdo a los principios de:",
+"opciones": [
+"Necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia.",
+"Neutralidad, eficacia, igualdad, legalidad, transparencia y eficiencia.",
+"Proporcionalidad, eficacia, igualdad, seguridad jurídica y eficiencia.",
+"Neutralidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia."
+]
+},
+{
+"id": "pr-41-037",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (70 preguntas)",
+"n": 37,
+"enunciado": "Conforme a lo dispuesto en el artículo 33 de la Ley 40/2015, cuando de la gestión dimanante de fórmulas conjuntas de actuación entre varias Administraciones Públicas se derive responsabilidad patrimonial concurrente, a falta de Estatutos o de reglas de la organización colegiada, la Administración competente para incoar, instruir y resolver el procedimiento será:",
+"opciones": [
+"La que cuente con mayor participación en la financiación del servicio, y la responsabilidad será mancomunada.",
+"La que cuente con mayor participación en la financiación del servicio, y la responsabilidad será solidaria.",
+"Se decidirá en función del interés público tutelado, y la responsabilidad será mancomunada.",
+"Se decidirá en función del interés público tutelado, y la responsabilidad será solidaria."
+]
+},
+{
+"id": "pr-41-038",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (70 preguntas)",
+"n": 38,
+"enunciado": "De acuerdo con la Ley 40/2015, en relación con los órganos colegiados, indique cuál de las siguientes afirmaciones es incorrecta:",
+"opciones": [
+"Corresponderá al Secretario velar por la legalidad formal y material de las actuaciones del órgano.",
+"El acta de cada sesión podrá aprobarse en la misma reunión o en la inmediata siguiente.",
+"El Secretario podrá ser miembro del órgano colegiado.",
+"No podrá ser objeto de deliberación o acuerdo un asunto que no figure incluido en el orden del día, salvo que asistan todos los miembros del órgano y sea declarada la urgencia del asunto por unanimidad."
+]
+},
+{
+"id": "pr-41-039",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (70 preguntas)",
+"n": 39,
+"enunciado": "La Ley 40/2015 dedica sus artículos 23 y 24 a la regulación del régimen de abstención y de recusación de las autoridades y demás personal al servicio de las Administraciones Públicas, estableciendo al respecto que:",
+"opciones": [
+"La actuación de aquellos en quienes concurran motivos de abstención implicará, en todo caso, la invalidez de tales actos.",
+"Es motivo de abstención el parentesco de consanguinidad o afinidad dentro del cuarto grado con cualquiera de los interesados.",
+"Si el recusado niega la causa de recusación, el superior resolverá en el día siguiente.",
+"Contra las resoluciones adoptadas en materia de recusación no cabrá recurso."
+]
+},
+{
+"id": "pr-41-040",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (70 preguntas)",
+"n": 40,
+"enunciado": "De conformidad con el artículo 46.1 de la Ley 29/1998, de 13 de julio, Reguladora de la Jurisdicción Contencioso-Administrativa, el plazo para interponer el recurso contencioso-administrativo contra un acto administrativo, si este no fuera expreso, será:",
+"opciones": [
+"De dos meses.",
+"De un mes.",
+"De seis meses.",
+"El recurso podrá interponerse en cualquier momento."
+]
+},
+{
+"id": "pr-41-041",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (70 preguntas)",
+"n": 41,
+"enunciado": "A tenor de la Ley 29/1998, reguladora de la Jurisdicción Contencioso-administrativa, si el recurso contencioso-administrativo se dirigiera contra una actuación en vía de hecho sin haberse realizado requerimiento previo, el plazo para su interposición será de:",
+"opciones": [
+"2 meses desde el día en que se inició la actuación administrativa en vía de hecho.",
+"20 días desde el día en que se inició la actuación administrativa en vía de hecho.",
+"10 días desde el día en que se inició la actuación administrativa en vía de hecho.",
+"30 días desde el día en que se inició la actuación administrativa en vía de hecho."
+]
+},
+{
+"id": "pr-41-042",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (70 preguntas)",
+"n": 42,
+"enunciado": "Conforme al artículo 125 de la Ley 39/2015, contra actos firmes en vía administrativa podrá interponerse recurso extraordinario de revisión:",
+"opciones": [
+"Ante el órgano superior jerárquico del que los dictó.",
+"Ante el órgano administrativo que los dictó.",
+"Ante la jurisdicción contencioso-administrativa.",
+"Ante el Consejo de Estado."
+]
+}
+]
+}

@@ -1,0 +1,224 @@
+{
+"lote": 49,
+"casos": {},
+"calendarios": {
+"cal2023": {
+"titulo": "Calendario 2023 (enero a junio)",
+"year": 2023,
+"meses": [
+1,
+2,
+3,
+4,
+5,
+6
+],
+"festivos": [
+"2023-01-06",
+"2023-03-20",
+"2023-04-06",
+"2023-04-07",
+"2023-05-01",
+"2023-05-02"
+],
+"nota": "Los domingos también van en rojo."
+},
+"dic2024": {
+"titulo": "Calendario diciembre 2024",
+"year": 2024,
+"meses": [
+12
+],
+"festivos": [
+"2024-12-06",
+"2024-12-08",
+"2024-12-25"
+],
+"nota": "Los domingos también van en rojo."
+}
+},
+"preguntas": [
+{
+"id": "pr-41-057",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (70 preguntas)",
+"n": 57,
+"enunciado": "Conforme al artículo 158 de la LCSP, en un procedimiento abierto, cuando el único criterio para seleccionar al adjudicatario del contrato sea el del menor coste del ciclo de vida, la adjudicación deberá recaer en el plazo máximo de:",
+"opciones": [
+"15 días a contar desde la apertura de las proposiciones.",
+"15 días a contar desde la publicación de la licitación en el perfil del contratante.",
+"2 meses a contar desde la apertura de las proposiciones.",
+"2 meses a contar desde la publicación de la licitación en el perfil del contratante."
+]
+},
+{
+"id": "pr-41-058",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (70 preguntas)",
+"n": 58,
+"enunciado": "Según el artículo 307 de la LCSP, la suspensión de un contrato de suministros por un plazo superior a ocho meses acordada por la Administración será causa de resolución del contrato, teniendo el contratista derecho a percibir, por todos los conceptos:",
+"opciones": [
+"El 6% del precio de adjudicación de los suministros dejados de realizar en concepto de beneficio industrial, IVA excluido.",
+"El 3% del precio de adjudicación de los suministros dejados de realizar en concepto de beneficio industrial, IVA excluido.",
+"El 3% del precio de adjudicación del contrato, IVA excluido.",
+"El 6% del precio de adjudicación del contrato, IVA excluido."
+]
+},
+{
+"id": "pr-41-059",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (70 preguntas)",
+"n": 59,
+"enunciado": "De conformidad con el artículo 2 del Real Decreto Legislativo 1/2013, la situación en la que la persona con discapacidad ejerce el poder de decisión sobre su propia existencia y participa de forma activa en la vida de su comunidad, conforme al derecho al libre desarrollo de la personalidad, se denomina:",
+"opciones": [
+"Accesibilidad universal.",
+"Normalización.",
+"Vida independiente.",
+"Inclusión social."
+]
+},
+{
+"id": "pr-41-060",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (70 preguntas)",
+"n": 60,
+"enunciado": "Según la ley 39/2006, de 14 de diciembre, de Promoción de la autonomía y atención a las personas en situación de dependencia, la situación de dependencia se clasifica en Grado I. Dependencia moderada:",
+"opciones": [
+"Cuando la persona tiene necesidades de apoyo extenso para su autonomía personal.",
+"Cuando la persona tiene necesidades de apoyo intermitente o limitado para su autonomía personal.",
+"Cuando la persona tiene necesidades de apoyo generalizado para su autonomía personal.",
+"Cuando la persona tiene necesidades de apoyo indispensable y continuado para su autonomía personal"
+]
+},
+{
+"id": "pr-41-061",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (70 preguntas)",
+"n": 61,
+"enunciado": "Señale la respuesta incorrecta. De conformidad con el artículo 326 de la Ley 9/2017, de Contratos del Sector Público, la mesa de contratación, como órgano de asistencia técnica especializada, ejercerá, entre otras, las siguientes funciones:",
+"opciones": [
+"La calificación de la documentación acreditativa del cumplimiento de los requisitos previos.",
+"La valoración de las proposiciones de los licitadores.",
+"La adjudicación del contrato a favor del licitador que haya presentado la mejor oferta, de conformidad con el PCAP.",
+"En su caso, la propuesta sobre la calificación de una oferta como anormalmente baja."
+]
+},
+{
+"id": "pr-41-062",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (70 preguntas)",
+"n": 62,
+"enunciado": "De acuerdo con el artículo 4 de la Ley de Contratos del Sector Público, las relaciones jurídicas, negocios y contratos excluidos de su ámbito de aplicación se regirán:",
+"opciones": [
+"Por sus normas especiales, aplicándose los principios de la LCSP para resolver las dudas y lagunas que pudieran presentarse.",
+"Exclusivamente por el derecho privado que le resulte de aplicación.",
+"Por sus normas especiales y, en defecto de estas, por la Ley de Contratos del Sector Público.",
+"Exclusivamente por las normas de derecho administrativo que le resulten de aplicación."
+]
+},
+{
+"id": "pr-41-063",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (70 preguntas)",
+"n": 63,
+"enunciado": "Según el artículo 36 de la Ley de Contratos, los contratos basados en un acuerdo marco y los contratos específicos en el marco de un sistema dinámico de adquisición, se perfeccionan:",
+"opciones": [
+"Con su adjudicación.",
+"Con su formalización.",
+"Con su publicación.",
+"Con su firma."
+]
+},
+{
+"id": "pr-41-064",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (70 preguntas)",
+"n": 64,
+"enunciado": "Conforme al artículo 29 de la LCSP, el plazo máximo de duración de una concesión de servicios que comprenda la explotación de un servicio cuyo objeto consista en la prestación de servicios sanitarios, cuando comprenda ejecución de obras, no podrá exceder, incluidas las prórrogas, de:",
+"opciones": [
+"25 años.",
+"10 años.",
+"40 años.",
+"15 años."
+]
+},
+{
+"id": "pr-41-065",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (70 preguntas)",
+"n": 65,
+"enunciado": "De conformidad con lo dispuesto en el artículo 21 de la LCSP, estarán sujetos a regulación armonizada los contratos de servicios cuyo valor estimado sea igual o superior a:",
+"opciones": [
+"140.000 euros, cuando sean adjudicados por el Ayuntamiento de Barcelona.",
+"216.000 euros, cuando sean adjudicados por Entidades Gestoras de la Seguridad Social.",
+"216.000 euros cuando sean adjudicados por la Comunidad Autónoma de Murcia.",
+"140.000 euros, cuando sean adjudicados por la Universidad de Málaga."
+]
+},
+{
+"id": "pr-41-066",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (70 preguntas)",
+"n": 66,
+"enunciado": "Según establece el artículo 168 de la LCSP, los órganos de contratación podrán adjudicar contratos utilizando el procedimiento negociado sin la previa publicación de un anuncio de licitación, entre otros, en el siguiente caso:",
+"opciones": [
+"Cuando se trate de contratos de servicios sociales personalísimos.",
+"Cuando no exista competencia por razones técnicas.",
+"Cuando la prestación objeto del contrato incluya un proyecto o soluciones innovadoras.",
+"Cuando el contrato tenga por objeto servicios intelectuales de especial complejidad."
+]
+},
+{
+"id": "pr-41-067",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (70 preguntas)",
+"n": 67,
+"enunciado": "Conforme al artículo 44 de la LCSP, podrá ser objeto de recurso especial en materia de contratación:",
+"opciones": [
+"Un contrato de obras con un valor estimado de 5.404.000 euros adjudicado por la tramitación de emergencia.",
+"Un contrato de concesión de servicios cuyo valor estimado supere los dos millones de euros.",
+"Un contrato de servicios con un valor estimado de 140.000 euros adjudicado por la tramitación de urgencia.",
+"Un contrato de suministro que tenga un valor estimado de cien mil euros."
+]
+},
+{
+"id": "pr-41-068",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (70 preguntas)",
+"n": 68,
+"enunciado": "De acuerdo con lo previsto en el artículo 72.6 de la LCSP, cuando la sentencia penal firme no haya establecido la duración de la prohibición de contratar, esa duración no podrá exceder, desde la fecha de la condena por sentencia firme, de:",
+"opciones": [
+"Tres años.",
+"Cuatro años.",
+"Un año.",
+"Cinco años."
+]
+},
+{
+"id": "pr-41-069",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (70 preguntas)",
+"n": 69,
+"enunciado": "Según establece el artículo 50 de la LCSP, el procedimiento de recurso especial en materia de contratación se iniciará mediante escrito que deberá presentarse en el plazo de:",
+"opciones": [
+"Diez días hábiles.",
+"Quince días hábiles.",
+"Diez días.",
+"Quince días."
+]
+},
+{
+"id": "pr-41-070",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (70 preguntas)",
+"n": 70,
+"enunciado": "Se consideran contratos de suministros, de acuerdo con la Ley de Contratos del Sector Público:",
+"opciones": [
+"Los contratos relativos a propiedades incorporales.",
+"Los que tenga por objeto programas de ordenador desarrollados a medida.",
+"Los que tengan por objeto la adquisición de energía primaria o energía transformada.",
+"Los que tengan por objeto la redacción del proyecto de obras."
+]
+}
+]
+}

@@ -1,0 +1,237 @@
+{
+"lote": 42,
+"casos": {},
+"calendarios": {
+"cal2023": {
+"titulo": "Calendario 2023 (enero a junio)",
+"year": 2023,
+"meses": [
+1,
+2,
+3,
+4,
+5,
+6
+],
+"festivos": [
+"2023-01-06",
+"2023-03-20",
+"2023-04-06",
+"2023-04-07",
+"2023-05-01",
+"2023-05-02"
+],
+"nota": "Los domingos también van en rojo."
+},
+"dic2024": {
+"titulo": "Calendario diciembre 2024",
+"year": 2024,
+"meses": [
+12
+],
+"festivos": [
+"2024-12-06",
+"2024-12-08",
+"2024-12-25"
+],
+"nota": "Los domingos también van en rojo."
+}
+},
+"preguntas": [
+{
+"id": "pr-39-016",
+"origen": "practicas",
+"test": "Ley 39 + Ley 40 - Examen (30 preguntas)",
+"n": 16,
+"enunciado": "Según establece el artículo 107 de la Ley 39/2015, la declaración de lesividad de actos anulables:",
+"opciones": [
+"No será susceptible de recurso, si bien podrá notificarse a los interesados a los meros efectos informativos.",
+"No podrá adoptarse una vez transcurrido un año desde que se dictó el acto administrativo.",
+"Debe dictarse en el plazo de tres meses desde la iniciación del procedimiento o se producirá la caducidad de este.",
+"Será susceptible de recurso de reposición ante el mismo órgano que la dictó."
+]
+},
+{
+"id": "pr-39-017",
+"origen": "practicas",
+"test": "Ley 39 + Ley 40 - Examen (30 preguntas)",
+"n": 17,
+"enunciado": "Señale cuál de las siguientes afirmaciones respecto a los órganos colegiados en la Administración General del Estado es correcta:",
+"opciones": [
+"Corresponde al presidente del órgano colegiado velar por la legalidad de las actuaciones del órgano colegiado.",
+"Sus miembros recibirán la convocatoria conteniendo el orden del día de las reuniones con una antelación mínima de 3 días.",
+"Corresponde al presidente del órgano colegiado visar las actas y certificaciones de los acuerdos del órgano.",
+"Las actas de las reuniones de los órganos colegiados deberán aprobarse a la finalización de cada sesión."
+]
+},
+{
+"id": "pr-39-018",
+"origen": "practicas",
+"test": "Ley 39 + Ley 40 - Examen (30 preguntas)",
+"n": 18,
+"enunciado": "Según el artículo 36 de la Ley 40/2015, el procedimiento para la exigencia de la responsabilidad patrimonial de las autoridades y personal al servicio de las Administraciones Públicas constará, entre otros, del siguiente trámite:",
+"opciones": [
+"La práctica de las pruebas admitidas, durante un plazo de siete días.",
+"La audiencia al interesado durante un plazo de diez días.",
+"Alegaciones durante un plazo cinco días.",
+"Formulación de la propuesta de resolución en un plazo de quince días a contar desde la finalización del trámite de audiencia."
+]
+},
+{
+"id": "pr-39-019",
+"origen": "practicas",
+"test": "Ley 39 + Ley 40 - Examen (30 preguntas)",
+"n": 19,
+"enunciado": "Si en virtud de un acto administrativo hubiera de satisfacerse una cantidad líquida de dinero, la Administración utilizará como medio de ejecución forzosa, respetando el principio de proporcionalidad:",
+"opciones": [
+"La multa coercitiva.",
+"El apremio sobre el patrimonio.",
+"La compulsión sobre las personas.",
+"La ejecución subsidiaria."
+]
+},
+{
+"id": "pr-39-020",
+"origen": "practicas",
+"test": "Ley 39 + Ley 40 - Examen (30 preguntas)",
+"n": 20,
+"enunciado": "La Ley 39/2015, al regular la resolución que ponga fin al procedimiento, dispone que cuando se trate de cuestiones conexas que no hayan sido planteadas por los interesados, el órgano competente:",
+"opciones": [
+"Podrá pronunciarse sobre las mismas, poniéndolo antes de manifiesto a aquellos por un plazo no superior a diez días.",
+"Podrá pronunciarse sobre las mismas, poniéndolo antes de manifiesto a aquellos por un plazo no superior a quince días.",
+"Podrá pronunciarse sobre las mismas, poniéndolo antes de manifiesto a aquellos por un plazo no inferior a veinte días",
+"No podrá pronunciarse sobre las mismas."
+]
+},
+{
+"id": "pr-39-021",
+"origen": "practicas",
+"test": "Ley 39 + Ley 40 - Examen (30 preguntas)",
+"n": 21,
+"enunciado": "De acuerdo con el artículo 96 de la Ley 39/2015, ¿cuál de los siguientes trámites forma parte de la tramitación simplificada de un procedimiento administrativo de naturaleza sancionadora?",
+"opciones": [
+"La subsanación de la solicitud presentada.",
+"La propuesta de resolución.",
+"El trámite de audiencia cuando la resolución vaya a ser favorable para el interesado.",
+"Alegaciones formuladas al inicio del procedimiento durante el plazo de cinco días."
+]
+},
+{
+"id": "pr-39-022",
+"origen": "practicas",
+"test": "Ley 39 + Ley 40 - Examen (30 preguntas)",
+"n": 22,
+"enunciado": "Señale la afirmación correcta en relación con los recursos administrativos, de acuerdo con lo dispuesto en la Ley 39/2015:",
+"opciones": [
+"Transcurrido el plazo para interponer un recurso, sin que este se haya interpuesto, el acto deviene firme en vía administrativa.",
+"Los actos administrativos podrán ser recurridos potestativamente en reposición antes de que pongan fin a la vía administrativa.",
+"Con carácter general, transcurrido el plazo para resolver, el recurso se entenderá estimado por silencio administrativo.",
+"El recurso de alzada solo podrá interponerse ante el órgano competente para su resolución."
+]
+},
+{
+"id": "pr-39-023",
+"origen": "practicas",
+"test": "Ley 39 + Ley 40 - Examen (30 preguntas)",
+"n": 23,
+"enunciado": "Según el artículo 35 de la Ley 39/2015, ¿cuál de los siguientes actos debe motivarse?",
+"opciones": [
+"Las propuestas de resolución en los procedimientos de responsabilidad patrimonial.",
+"Los que resuelvan procedimientos de revisión de oficio de disposiciones o actos administrativos.",
+"Los que se dicten cuando haya sido preceptiva la actuación de algún órgano consultivo.",
+"Los que incorporen pruebas propuestas por los interesados."
+]
+},
+{
+"id": "pr-39-024",
+"origen": "practicas",
+"test": "Ley 39 + Ley 40 - Examen (30 preguntas)",
+"n": 24,
+"enunciado": "Según el artículo 106.2 de la Ley 39/2015, la Administración General del Estado, en los supuestos previstos en el artículo 47.2, podrá declarar la nulidad de sus disposiciones administrativas:",
+"opciones": [
+"De oficio, previo dictamen favorable del Consejo de Estado.",
+"De oficio o a solicitud del interesado, previo dictamen favorable del Consejo de Estado.",
+"De oficio, sin que sea preceptivo el dictamen del Consejo de Estado.",
+"De oficio o a solicitud del interesado, sin que sea preceptivo el dictamen del Consejo de Estado."
+]
+},
+{
+"id": "pr-39-025",
+"origen": "practicas",
+"test": "Ley 39 + Ley 40 - Examen (30 preguntas)",
+"n": 25,
+"enunciado": "Según el artículo 30 de la Ley 40/2015, si las leyes que establezcan las infracciones y sanciones no fijan plazos de prescripción, ¿en qué plazo prescribirán las infracciones leves, contado desde el día en que la infracción se hubiera cometido?",
+"opciones": [
+"Al mes.",
+"A los tres meses.",
+"A los seis meses.",
+"Al año."
+]
+},
+{
+"id": "pr-39-026",
+"origen": "practicas",
+"test": "Ley 39 + Ley 40 - Examen (30 preguntas)",
+"n": 26,
+"enunciado": "Conforme al artículo 2 del Código Civil, si en las leyes no se dispone otra cosa, ¿cuándo entrarán estas en vigor?",
+"opciones": [
+"A los quince días de su completa publicación en el Boletín Oficial del Estado.",
+"A los veinte días de su completa publicación en el Boletín Oficial del Estado.",
+"A los treinta días de su completa publicación en el Boletín Oficial del Estado.",
+"Al día siguiente de su completa publicación en el Boletín Oficial del Estado."
+]
+},
+{
+"id": "pr-39-027",
+"origen": "practicas",
+"test": "Ley 39 + Ley 40 - Examen (30 preguntas)",
+"n": 27,
+"enunciado": "Conforme al artículo 32.8 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, ¿a quién le corresponde fijar el importe de las indemnizaciones que proceda abonar cuando el Tribunal Constitucional haya declarado, a instancia de parte interesada, la existencia de un funcionamiento anormal en la tramitación de los recursos de amparo o de las cuestiones de inconstitucionalidad?",
+"opciones": [
+"Al Ministerio de Justicia.",
+"Al Consejo de Ministros.",
+"Al Consejo de Estado.",
+"Al Tribunal Constitucional."
+]
+},
+{
+"id": "pr-39-028",
+"origen": "practicas",
+"test": "Ley 39 + Ley 40 - Examen (30 preguntas)",
+"n": 28,
+"enunciado": "¿Qué forma adoptarán las decisiones del Consejo de Ministros que NO deban adoptar la forma de Real Decreto, según el artículo 24 de la Ley 50/1997, de 27 de noviembre, del Gobierno?",
+"opciones": [
+"Órdenes del Consejo de Ministros.",
+"Resoluciones del Consejo de Ministros.",
+"Reglamentos del Consejo de Ministros.",
+"Acuerdos del Consejo de Ministros."
+]
+},
+{
+"id": "pr-39-029",
+"origen": "practicas",
+"test": "Ley 39 + Ley 40 - Examen (30 preguntas)",
+"n": 29,
+"enunciado": "Siguiendo lo dispuesto en el artículo 1.5 del Código Civil, ¿en qué momento pasará a formar parte del ordenamiento jurídico interno un tratado internacional válidamente celebrado?",
+"opciones": [
+"Una vez adoptado el tratado internacional.",
+"Una vez publicado en el Boletín Oficial del Estado.",
+"Una vez ratificado por el Congreso de los Diputados.",
+"Una vez publicado en el Boletín Oficial de las Cortes Generales."
+]
+},
+{
+"id": "pr-39-030",
+"origen": "practicas",
+"test": "Ley 39 + Ley 40 - Examen (30 preguntas)",
+"n": 30,
+"enunciado": "De conformidad con lo establecido en el artículo 46.1 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa, ¿cuál será el plazo para interponer recurso contencioso-administrativo contra un acto expreso?",
+"opciones": [
+"Seis meses.",
+"Un mes.",
+"Dos meses.",
+"Tres meses."
+]
+}
+]
+}

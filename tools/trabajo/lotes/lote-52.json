@@ -1,0 +1,258 @@
+{
+"lote": 52,
+"casos": {
+"caso-43": {
+"id": "caso-43",
+"titulo": "Ley 39 + Contratos - Supuesto práctico (30 preguntas)",
+"texto": "En el Ministerio de Juventud e Infancia se está tramitando un procedimiento administrativo iniciado a solicitud de don Bartolomé Flores, quien pretende obtener autorización para utilizar una sala del Departamento con el fin de celebrar unas jornadas sobre participación juvenil. La solicitud se presentó el lunes 14 de septiembre de 2026 en el registro del Ayuntamiento de Málaga y tuvo entrada en el registro electrónico de la Administración General del Estado el miércoles 16 de septiembre del mismo año. La normativa reguladora del procedimiento, que no fija plazo máximo para resolver, atribuye al Subdirector General de Gestión Económica la competencia para instruirlo y al Subsecretario de Juventud e Infancia la de resolverlo. Finalizado el trámite de audiencia y antes de redactarse la propuesta de resolución, el Subdirector General acuerda la realización de determinadas actuaciones complementarias que considera indispensables para resolver el procedimiento. Finalmente, el Subsecretario de Juventud e Infancia dicta resolución desestimando la solicitud del señor Flores. En materia de contratación pública, el Ministerio ha tramitado diversos expedientes. Uno de ellos se refiere a las obras de sustitución de diez ventanas del edificio principal, deterioradas con el transcurso del tiempo por su uso natural. El contrato, que se licitó con un presupuesto base de licitación de 84.700 euros y un valor estimado de 70.000 euros, establecía como criterios de adjudicación el precio y la ampliación del plazo de garantía, ambos cuantificables mediante la mera aplicación de fórmulas. Para su adjudicación, el órgano de contratación optó por la modalidad más ágil del procedimiento abierto aplicable en función del tipo de contrato y de su valor estimado. Finalmente, el contrato se adjudicó a Carpinterías del Sur, S.L., por un importe de 60.000 euros, IVA excluido. El plazo de ejecución se fijó en tres meses, iniciándose las obras el 4 de agosto de 2026 y previéndose su finalización para el 3 de noviembre. Durante su ejecución se constató la necesidad de sustituir otras tres ventanas deterioradas, no contempladas en el proyecto inicial, cuya sustitución se valoró en 18.000 euros, IVA excluido. El órgano de contratación estudió la posibilidad de incorporar estos trabajos mediante una modificación no prevista en el pliego de cláusulas administrativas particulares, al amparo del régimen de las modificaciones no sustanciales, si bien finalmente descartó su aprobación. Asimismo, se han adjudicado, a través del sistema estatal de contratación centralizada, dos contratos destinados al Ministerio: uno para el servicio de vigilancia y seguridad de sus dependencias administrativas situadas en el municipio de Madrid, con un valor estimado de 130.000 euros y criterios de adjudicación cuantificables mediante fórmulas, y otro de arrendamiento con opción de compra de un servidor informático. Ambos se tramitaron mediante licitaciones independientes, sin derivar de acuerdos marco ni de sistemas dinámicos de adquisición. En otro orden de cosas, el 24 de febrero de 2025, doña Amalia Cardona, funcionaria del Cuerpo General Administrativo del Estado destinada en la Subsecretaría de Cultura, sufrió una caída en el edificio de los servicios centrales del Ministerio de Juventud e Infancia, al que acudió para realizar una gestión particular, debido al mal estado de conservación de las escaleras. La caída le ocasionó una fractura de rótula por la que tuvo que ser atendida de urgencia. El alcance de las secuelas derivadas del accidente quedó definitivamente determinado por el servicio de salud el 15 de mayo de 2025. Posteriormente, el 16 de marzo de 2026, doña Amalia Cardona presentó de forma presencial su reclamación de responsabilidad patrimonial en la oficina de asistencia en materia de registros del Ministerio de Juventud e Infancia. Por último, el Instituto de la Juventud, organismo autónomo adscrito al Ministerio a través de la Secretaría de Estado de Juventud e Infancia, ha convocado, para el ejercicio 2026, ayudas destinadas a la realización de actividades financiadas por la Comisión Europea en el marco del programa «Erasmus+», capítulo de Juventud. Atendiendo a los datos obrantes en este supuesto, responda a las preguntas que se le formulan:"
+}
+},
+"calendarios": {
+"cal2023": {
+"titulo": "Calendario 2023 (enero a junio)",
+"year": 2023,
+"meses": [
+1,
+2,
+3,
+4,
+5,
+6
+],
+"festivos": [
+"2023-01-06",
+"2023-03-20",
+"2023-04-06",
+"2023-04-07",
+"2023-05-01",
+"2023-05-02"
+],
+"nota": "Los domingos también van en rojo."
+},
+"dic2024": {
+"titulo": "Calendario diciembre 2024",
+"year": 2024,
+"meses": [
+12
+],
+"festivos": [
+"2024-12-06",
+"2024-12-08",
+"2024-12-25"
+],
+"nota": "Los domingos también van en rojo."
+}
+},
+"preguntas": [
+{
+"id": "pr-43-001",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Supuesto práctico (30 preguntas)",
+"n": 1,
+"enunciado": "El señor Flores ha sido requerido para subsanar los defectos de su solicitud mediante la presentación de determinados documentos cuya aportación presenta dificultades especiales. A tenor del artículo 68 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (en adelante, LPACAP), ¿qué plazo deberá concedérsele a tal efecto?",
+"opciones": [
+"Cinco días, plazo que podrá ampliarse prudencialmente hasta cinco días más.",
+"Diez días, plazo que podrá ampliarse prudencialmente hasta cinco días más.",
+"Quince días, plazo que no podrá ampliarse.",
+"Diez días, plazo que no podrá ampliarse."
+],
+"caso": "caso-43"
+},
+{
+"id": "pr-43-002",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Supuesto práctico (30 preguntas)",
+"n": 2,
+"enunciado": "De conformidad con el artículo 68 de la LPACAP, en el requerimiento de subsanación dirigido al señor Flores deberá indicarse que, si no presenta los documentos preceptivos en el plazo concedido:",
+"opciones": [
+"Se le tendrá por desistido de su petición.",
+"Se le podrá declarar decaído en su derecho al trámite.",
+"Transcurridos tres meses, se producirá la caducidad del procedimiento.",
+"Se archivará el procedimiento sin más trámite."
+],
+"caso": "caso-43"
+},
+{
+"id": "pr-43-003",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Supuesto práctico (30 preguntas)",
+"n": 3,
+"enunciado": "El martes 3 de noviembre, el señor Flores recibe la notificación de apertura del trámite de audiencia, en la que se le concede el plazo mínimo previsto en el artículo 82 de la LPACAP para formular alegaciones y presentar los documentos que estime pertinentes. Considerando que no hay días festivos en lo que resta del mes de noviembre, ¿qué día finaliza el plazo para realizar dicho trámite?",
+"opciones": [
+"Viernes, 13 de noviembre.",
+"Lunes, 16 de noviembre.",
+"Martes, 17 de noviembre.",
+"Martes, 24 de noviembre."
+],
+"caso": "caso-43"
+},
+{
+"id": "pr-43-004",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Supuesto práctico (30 preguntas)",
+"n": 4,
+"enunciado": "Conforme al artículo 87 de la LPACAP, ¿actuó correctamente el Subdirector General de Gestión Económica al acordar la realización de actuaciones complementarias?",
+"opciones": [
+"Sí, puesto que lo acordó una vez finalizado el trámite de audiencia.",
+"Sí, puesto que lo acordó antes de redactarse la propuesta de resolución.",
+"Sí, puesto que podía acordar su práctica en cualquier momento anterior a que se dictara resolución.",
+"No, puesto que la competencia para adoptar el acuerdo correspondía al Subsecretario de Juventud e Infancia."
+],
+"caso": "caso-43"
+},
+{
+"id": "pr-43-005",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Supuesto práctico (30 preguntas)",
+"n": 5,
+"enunciado": "De conformidad con el artículo 87 de la LPACAP, señale la afirmación INCORRECTA respecto a las actuaciones complementarias:",
+"opciones": [
+"Deberán practicarse en un plazo no superior a quince días.",
+"El plazo para resolver el procedimiento quedará suspendido hasta su terminación.",
+"Antes de su realización, el interesado dispondrá de un plazo de siete días para formular alegaciones.",
+"El acuerdo en el que se decida su realización deberá estar motivado, con sucinta referencia de hechos y fundamentos de derecho."
+],
+"caso": "caso-43"
+},
+{
+"id": "pr-43-006",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Supuesto práctico (30 preguntas)",
+"n": 6,
+"enunciado": "De acuerdo con el artículo 21 de la LPACAP, ¿qué día finaliza el plazo máximo para resolver y notificar en el procedimiento iniciado a solicitud del señor Flores, suponiendo, a efectos de esta pregunta, que no concurre ninguna causa de suspensión del plazo?",
+"opciones": [
+"Lunes, 14 de diciembre de 2026.",
+"Miércoles, 16 de diciembre de 2026.",
+"Jueves, 17 de diciembre de 2026.",
+"Martes, 16 de marzo de 2027."
+],
+"caso": "caso-43"
+},
+{
+"id": "pr-43-007",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Supuesto práctico (30 preguntas)",
+"n": 7,
+"enunciado": "De conformidad con la LPACAP, señale la afirmación correcta respecto a la notificación de la resolución al señor Flores:",
+"opciones": [
+"Si fuera notificado por distintos cauces, prevalecerá la fecha de la notificación practicada por medios electrónicos.",
+"Si hubiera optado por la notificación electrónica, esta se entenderá practicada con su puesta a disposición en la sede electrónica.",
+"Si hubiera optado por la notificación electrónica, la falta del aviso de puesta a disposición impediría su validez.",
+"Aunque hubiera optado por recibir la notificación en papel, esta también deberá ponerse a su disposición en la sede electrónica."
+],
+"caso": "caso-43"
+},
+{
+"id": "pr-43-008",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Supuesto práctico (30 preguntas)",
+"n": 8,
+"enunciado": "El señor Flores desea recurrir la resolución que desestima su solicitud. ¿Qué recurso podrá interponer en vía administrativa?",
+"opciones": [
+"Recurso de alzada, que podrá interponer ante el Subsecretario de Juventud e Infancia o ante el titular del Departamento.",
+"Recurso de alzada, que podrá interponer ante el Subdirector General o ante el Subsecretario de Juventud e Infancia.",
+"Recurso de alzada, que deberá interponer ante el Ministro de Juventud e Infancia.",
+"Recurso potestativo de reposición, que podrá interponer ante el Subsecretario de Juventud e Infancia."
+],
+"caso": "caso-43"
+},
+{
+"id": "pr-43-009",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Supuesto práctico (30 preguntas)",
+"n": 9,
+"enunciado": "Si el señor Flores interpusiera el recurso ante un órgano de la Administración General del Estado incompetente para su resolución, ¿cómo debería actuar dicho órgano?",
+"opciones": [
+"Inadmitiéndolo y notificando esta circunstancia al señor Flores.",
+"Inadmitiéndolo, salvo que el competente para resolverlo perteneciera a su mismo Departamento Ministerial.",
+"Inadmitiéndolo, salvo que el competente para resolverlo fuese su superior jerárquico.",
+"Remitiéndolo directamente al órgano competente para resolverlo y notificando esta circunstancia al señor Flores."
+],
+"caso": "caso-43"
+},
+{
+"id": "pr-43-010",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Supuesto práctico (30 preguntas)",
+"n": 10,
+"enunciado": "¿De qué plazo máximo dispone el órgano competente para dictar y notificar la resolución del recurso interpuesto por el señor Flores?",
+"opciones": [
+"De tres meses para dictar la resolución y diez días adicionales para notificarla.",
+"De un mes para dictar la resolución y diez días adicionales para notificarla.",
+"De tres meses.",
+"De un mes."
+],
+"caso": "caso-43"
+},
+{
+"id": "pr-43-011",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Supuesto práctico (30 preguntas)",
+"n": 11,
+"enunciado": "De conformidad con el artículo 232 de la LCSP y atendiendo a su objeto y naturaleza, las obras contratadas para sustituir las ventanas del edificio principal del Ministerio se clasifican como obras de:",
+"opciones": [
+"Reforma.",
+"Conservación y mantenimiento.",
+"Reparación simple.",
+"Gran reparación."
+],
+"caso": "caso-43"
+},
+{
+"id": "pr-43-012",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Supuesto práctico (30 preguntas)",
+"n": 12,
+"enunciado": "En relación con el procedimiento utilizado para adjudicar el contrato de sustitución de ventanas, ¿qué plazo mínimo debió concederse a los licitadores para presentar sus proposiciones?",
+"opciones": [
+"Diez días hábiles.",
+"Quince días.",
+"Veinte días.",
+"Veintiséis días."
+],
+"caso": "caso-43"
+},
+{
+"id": "pr-43-013",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Supuesto práctico (30 preguntas)",
+"n": 13,
+"enunciado": "Atendiendo al procedimiento utilizado para adjudicar el contrato de sustitución de ventanas, ¿qué garantías resultaban exigibles a la empresa Carpinterías del Sur, S. L.?",
+"opciones": [
+"Garantía provisional de 2.100 euros y definitiva de 3.000 euros, sin poder aplicar la primera a la segunda.",
+"Garantía provisional de 2.100 euros y definitiva de 3.000 euros, pudiendo aplicar la primera a la segunda.",
+"Únicamente garantía definitiva de 3.500 euros, sin exigencia de garantía provisional.",
+"Ninguna, ni provisional ni definitiva."
+],
+"caso": "caso-43"
+},
+{
+"id": "pr-43-014",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Supuesto práctico (30 preguntas)",
+"n": 14,
+"enunciado": "En relación con el contrato de sustitución de ventanas del Ministerio, ¿cuál es el plazo máximo para su adjudicación, contado desde la apertura de las proposiciones?",
+"opciones": [
+"Quince días.",
+"Un mes.",
+"Dos meses.",
+"Tres meses."
+],
+"caso": "caso-43"
+},
+{
+"id": "pr-43-015",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Supuesto práctico (30 preguntas)",
+"n": 15,
+"enunciado": "Uno de los licitadores pretende impugnar la resolución de adjudicación por considerar incorrecta la puntuación asignada a su oferta. ¿Qué recurso administrativo podrá interponer y qué efectos tendrá su interposición?",
+"opciones": [
+"Recurso administrativo ordinario, quedando automáticamente en suspenso la tramitación del procedimiento.",
+"Recurso administrativo ordinario, cuya interposición no suspende por sí sola la ejecución del acto impugnado.",
+"Recurso especial en materia de contratación, quedando automáticamente en suspenso la tramitación del procedimiento.",
+"Recurso especial en materia de contratación, cuya interposición no suspende por sí sola la ejecución del acto impugnado."
+],
+"caso": "caso-43"
+}
+]
+}

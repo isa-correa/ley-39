@@ -1,0 +1,224 @@
+{
+"lote": 48,
+"casos": {},
+"calendarios": {
+"cal2023": {
+"titulo": "Calendario 2023 (enero a junio)",
+"year": 2023,
+"meses": [
+1,
+2,
+3,
+4,
+5,
+6
+],
+"festivos": [
+"2023-01-06",
+"2023-03-20",
+"2023-04-06",
+"2023-04-07",
+"2023-05-01",
+"2023-05-02"
+],
+"nota": "Los domingos también van en rojo."
+},
+"dic2024": {
+"titulo": "Calendario diciembre 2024",
+"year": 2024,
+"meses": [
+12
+],
+"festivos": [
+"2024-12-06",
+"2024-12-08",
+"2024-12-25"
+],
+"nota": "Los domingos también van en rojo."
+}
+},
+"preguntas": [
+{
+"id": "pr-41-043",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (70 preguntas)",
+"n": 43,
+"enunciado": "Conforme a la Constitución Española y a la Ley 50/1997, del Gobierno, el Real Decreto-Ley 36/2020, de 30 de diciembre, por el que se aprueban medidas urgentes para la modernización de la Administración Pública y la ejecución del Plan de Recuperación, Transformación y Resiliencia:",
+"opciones": [
+"Precisó para su aprobación de una previa Ley de Bases que otorgara al Gobierno esa delegación legislativa.",
+"Posee el mismo rango jerárquico que los Reales Decretos acordados en el Consejo de Ministros.",
+"Es una disposición reglamentaria provisional dictada por el Gobierno en caso de extraordinaria y urgente necesidad.",
+"Una vez aprobado hubo de ser sometido a debate y votación de totalidad al Congreso de los Diputados."
+]
+},
+{
+"id": "pr-41-044",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (70 preguntas)",
+"n": 44,
+"enunciado": "De acuerdo con lo establecido en el artículo 2 del Código Civil:",
+"opciones": [
+"Las leyes no tendrán efecto retroactivo, si no dispusieren lo contrario.",
+"Las leyes tendrán efecto retroactivo siempre que beneficien al interesado.",
+"Si en ellas no se dispone otra cosa, las leyes entrarán en vigor a los quince días de su completa publicación en el BOE.",
+"La derogación de una ley implica que recobren vigencia las que esta hubiere derogado."
+]
+},
+{
+"id": "pr-41-045",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (70 preguntas)",
+"n": 45,
+"enunciado": "El artículo 62 de la Ley 39/2015 se refiere al inicio del procedimiento administrativo por denuncia, estableciendo al respecto que:",
+"opciones": [
+"Su presentación confiere la condición de interesado en el procedimiento.",
+"En todo caso se notificará a los denunciantes la decisión de si se ha iniciado o no el procedimiento.",
+"Podrán ser anónimas pero, en tal caso, su presentación no confiere la condición de interesado en el procedimiento.",
+"Cuando invoque un perjuicio en el patrimonio de las Administraciones Públicas la no iniciación deberá ser motivada."
+]
+},
+{
+"id": "pr-41-046",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (70 preguntas)",
+"n": 46,
+"enunciado": "Conforme al artículo 9 de la Ley 40/2015, los órganos de las diferentes Administraciones Públicas podrán delegar el ejercicio de las competencias que tengan atribuidas en:",
+"opciones": [
+"Otros órganos de la misma Administración, siempre que sean jerárquicamente dependientes.",
+"Otros órganos de la misma Administración, aun cuando no sean jerárquicamente dependientes.",
+"Otros órganos de la misma o de distinta Administración, siempre que sean jerárquicamente dependientes.",
+"Otros órganos de la misma o de distinta Administración, aun cuando no sean jerárquicamente dependientes."
+]
+},
+{
+"id": "pr-41-047",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (70 preguntas)",
+"n": 47,
+"enunciado": "De acuerdo con el artículo 14 de la Ley 39/2015, salvo que estén obligadas a relacionarse a través de medíos electrónicos con las Administraciones Públicas, el medio elegido por las personas físicas para comunicarse con las Administraciones Públicas:",
+"opciones": [
+"Podrá ser modificado en cualquier momento.",
+"Podrá ser modificado en cualquier fase del procedimiento anterior al trámite de audiencia.",
+"Podrá ser modificado en cualquier fase del procedimiento anterior a la emisión de la propuesta de resolución.",
+"Deberá mantenerse hasta la resolución del procedimiento."
+]
+},
+{
+"id": "pr-41-048",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (70 preguntas)",
+"n": 48,
+"enunciado": "De conformidad con el artículo 15 de la Ley 40/2015, de 1 de octubre, el acuerdo de creación y las normas de funcionamiento de los órganos colegiados deberán ser publicados en el Boletín o Diario Oficial de la Administración Pública en que se integran:",
+"opciones": [
+"Cuando estén compuestos por representaciones de distintas Administraciones Públicas.",
+"Cuando se trate de órganos interdepartamentales.",
+"Cuando dicten resoluciones que tengan efectos jurídicos frente a terceros.",
+"Cuando se les atribuyan competencias para la emisión de informes facultativos."
+]
+},
+{
+"id": "pr-41-049",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (70 preguntas)",
+"n": 49,
+"enunciado": "Conforme a la Ley 39/2015, señale la respuesta correcta en relación con el silencio administrativo en los procedimientos iniciados a solicitud del interesado:",
+"opciones": [
+"En caso de silencio administrativo, la resolución expresa posterior al vencimiento del plazo se adoptará por la Administración sin vinculación alguna al sentido del silencio.",
+"La estimación por silencio tiene los solos efectos de permitir a los interesados interponer el recurso que resulte procedente.",
+"En los procedimientos de revisión de oficio, el silencio tendrá efecto desestimatorio.",
+"Los actos administrativos producidos por silencio surten efectos desde la expedición del certificado acreditativo del silencio."
+]
+},
+{
+"id": "pr-41-050",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (70 preguntas)",
+"n": 50,
+"enunciado": "Según la Ley 39/2015, NO tiene la condición de interesado en el procedimiento administrativo:",
+"opciones": [
+"Quienes lo promuevan como titulares de derechos o intereses legítimos individuales o colectivos.",
+"Aquellos cuyos intereses legítimos, individuales o colectivos, puedan resultar afectados por la resolución y se personen en el procedimiento una vez haya recaído resolución definitiva.",
+"Los que sin haberlo iniciado tengan derechos que puedan resultar afectados por la decisión que en el mismo se adopte.",
+"El derecho-habiente, cuando la condición de interesado derivase de alguna relación jurídica transmisible."
+]
+},
+{
+"id": "pr-41-051",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (70 preguntas)",
+"n": 51,
+"enunciado": "De acuerdo con la Ley 39/2015, si la Administración General del Estado quiere impugnar un acto administrativo favorable a los interesados que incurra en vicio de anulabilidad deberá:",
+"opciones": [
+"Proceder a la revisión de oficio de dicho acto, previo dictamen favorable del Consejo de Estado.",
+"Declarar su lesividad al interés público, previa audiencia de los interesados.",
+"Revocar administrativamente dicho acto.",
+"Declarar la anulabilidad de dicho acto administrativo."
+]
+},
+{
+"id": "pr-41-052",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (70 preguntas)",
+"n": 52,
+"enunciado": "Según la LCSP, en un procedimiento abierto, ¿cuál será el plazo de presentación de proposiciones en los contratos que no estén sujetos a regulación armonizada?",
+"opciones": [
+"No inferior a quince días, en los contratos de servicios.",
+"No inferior a veinte días, en los contratos de suministros.",
+"No inferior a treinta días, en los contratos de obras.",
+"No inferior a treinta y cinco días, en los contratos de concesión de obras."
+]
+},
+{
+"id": "pr-41-053",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (70 preguntas)",
+"n": 53,
+"enunciado": "Conforme a la LCSP, está sujeto a regulación armonizada un contrato de suministro adjudicado por la Consejería de Educación y Deporte de la Junta de Andalucía cuyo valor estimado sea igual o superior a:",
+"opciones": [
+"139.000 euros.",
+"140.000 euros.",
+"214.000 euros.",
+"216.000 euros."
+]
+},
+{
+"id": "pr-41-054",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (70 preguntas)",
+"n": 54,
+"enunciado": "Conforme al artículo 76 de la Ley 39/2015, los interesados podrán alegar defectos de tramitación y, en especial, los que supongan paralización, infracción de plazos preceptivos u omisión de trámites que puedan subsanarse antes de la resolución definitiva:",
+"opciones": [
+"En cualquier momento del procedimiento anterior al trámite de audiencia.",
+"En cualquier momento del procedimiento anterior a la propuesta de resolución.",
+"Con posterioridad al trámite de audiencia, pero antes de que se realice la propuesta de resolución.",
+"En todo momento."
+]
+},
+{
+"id": "pr-41-055",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (70 preguntas)",
+"n": 55,
+"enunciado": "Según el artículo 212 de la LCSP, los expedientes de resolución contractual deben ser instruidos y resueltos en el plazo máximo de:",
+"opciones": [
+"Cuatro meses.",
+"Seis meses.",
+"Ocho meses.",
+"Doce meses."
+]
+},
+{
+"id": "pr-41-056",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (70 preguntas)",
+"n": 56,
+"enunciado": "Conforme al artículo 235 de la LCSP, en los contratos de obras, antes de la aprobación del proyecto, los órganos de contratación deberán solicitar un informe de las correspondientes oficinas o unidades de supervisión:",
+"opciones": [
+"Cuando el valor estimado sea igual o superior a 350.000 euros, IVA excluido.",
+"Cuando el presupuesto base de licitación sea igual o superior a 350.000 euros, IVA excluido.",
+"Cuando el valor estimado sea igual o superior a 500.000 euros, IVA excluido.",
+"Cuando el presupuesto base de licitación sea igual o superior a 500.000 euros, IVA excluido."
+]
+}
+]
+}

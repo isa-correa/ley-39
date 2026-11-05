@@ -1,0 +1,237 @@
+{
+"lote": 50,
+"casos": {},
+"calendarios": {
+"cal2023": {
+"titulo": "Calendario 2023 (enero a junio)",
+"year": 2023,
+"meses": [
+1,
+2,
+3,
+4,
+5,
+6
+],
+"festivos": [
+"2023-01-06",
+"2023-03-20",
+"2023-04-06",
+"2023-04-07",
+"2023-05-01",
+"2023-05-02"
+],
+"nota": "Los domingos también van en rojo."
+},
+"dic2024": {
+"titulo": "Calendario diciembre 2024",
+"year": 2024,
+"meses": [
+12
+],
+"festivos": [
+"2024-12-06",
+"2024-12-08",
+"2024-12-25"
+],
+"nota": "Los domingos también van en rojo."
+}
+},
+"preguntas": [
+{
+"id": "pr-42-001",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (30 preguntas)",
+"n": 1,
+"enunciado": "De conformidad con la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas, en los procedimientos iniciados a solicitud de interesado, ¿qué consecuencia produce el vencimiento del plazo máximo sin haberse notificado resolución expresa? (AUX-LI 2026)",
+"opciones": [
+"Legitima al interesado para entenderla estimada por silencio administrativo, excepto en los supuestos en que una norma con rango de ley o una norma de Derecho de la Unión Europea o de Derecho internacional aplicable en España establezcan lo contrario.",
+"El silencio tendría efecto estimatorio si se trata de un procedimiento relativo al ejercicio del derecho de petición, a que se refiere el artículo 29 de la Constitución.",
+"Legitima al interesado para entenderla desestimada por silencio administrativo, excepto en los supuestos en que una norma con rango de ley o una norma de Derecho de la Unión Europea o Derecho internacional aplicable en España establezcan lo contrario.",
+"En los casos de estimación por silencio administrativo, la resolución expresa posterior al vencimiento del plazo se adoptará por la Administración sin vinculación alguna al sentido del silencio."
+]
+},
+{
+"id": "pr-42-002",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (30 preguntas)",
+"n": 2,
+"enunciado": "¿Para cuál de las siguientes actuaciones requerirán las Administraciones Públicas a los interesados la acreditación de la representación, en los términos del artículo 5 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas? (AUX-LI 2026)",
+"opciones": [
+"Interponer acciones.",
+"Formular denuncias.",
+"Presentar comunicaciones.",
+"Desistir de derechos."
+]
+},
+{
+"id": "pr-42-003",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (30 preguntas)",
+"n": 3,
+"enunciado": "Indique la respuesta correcta respecto de los efectos de los actos de las Administraciones Públicas sujetos al Derecho Administrativo a que alude el artículo 39 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas: (AUX-LI 2026)",
+"opciones": [
+"La eficacia del acto no quedará demorada cuando esté supeditada a su publicación.",
+"Excepcionalmente, podrá otorgarse eficacia retroactiva a los actos cuando se dicten en sustitución de actos nulos.",
+"Excepcionalmente, podrá otorgarse eficacia retroactiva a los actos cuando produzcan efectos desfavorables al interesado.",
+"La eficacia quedará demorada cuando así lo exija el contenido del acto."
+]
+},
+{
+"id": "pr-42-004",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (30 preguntas)",
+"n": 4,
+"enunciado": "Conforme al artículo 2 del Código Civil, si en ellas no se dispone otra cosa, las leyes entrarán en vigor: (ADM-LI 2026)",
+"opciones": [
+"A los quince días de su completa publicación en el Boletín Oficial del Estado.",
+"A los veinte días de su completa publicación en el Boletín Oficial del Estado.",
+"A los treinta días de su completa publicación en el Boletín Oficial del Estado.",
+"Al día siguente de su completa publicación en el Boletín Oficial del Estado."
+]
+},
+{
+"id": "pr-42-005",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (30 preguntas)",
+"n": 5,
+"enunciado": "Señale la respuesta correcta en relación con la práctica de las notificaciones electrónicas reguladas en el artículo 43 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas: (ADM-LI 2026)",
+"opciones": [
+"Las notificaciones por medios electrónicos se entenderán practicadas en el momento en que se produzca el acceso a su contenido.",
+"Cuando la notificación por medios electrónicos sea de carácter obligatorio o haya sido expresamente elegida por el interesado, se entenderá rechazada cuando hayan transcurrido cinco días naturales desde su puesta a disposición sin que se acceda a su contenido.",
+"Los interesados deberán acceder a las notificaciones desde el Punto de Acceso General electrónico de la Administración, que funcionará como un portal de acceso.",
+"Las notificaciones por medios electrónicos se practicarán mediante notificación en la carpeta ciudadana."
+]
+},
+{
+"id": "pr-42-006",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (30 preguntas)",
+"n": 6,
+"enunciado": "Conforme al artículo 48 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, son anulables los actos de la Administración: (ADM-LI 2026)",
+"opciones": [
+"Contrarios al ordenamiento jurídico por los que se adquieren facultades o derechos cuando se carezca de los requisitos esenciales para su adquisición.",
+"Los dictados por órgano manifiestamente incompetente por razón de la materia o del territorio.",
+"Que incurran en cualquier infracción del ordenamiento jurídico, incluso la desviación de poder.",
+"Los dictados prescindiendo total y absolutamente del procedimiento legalmente establecido."
+]
+},
+{
+"id": "pr-42-007",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (30 preguntas)",
+"n": 7,
+"enunciado": "Conforme al artículo 114 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, ponen fin a la vía administrativa: (ADM-LI 2026)",
+"opciones": [
+"Las resoluciones que acuerden la aplicación de medidas provisionales.",
+"Los actos emanados de los órganos directivos con nivel de Subdirector General, en relación con las competencias que tengan atribuidas en materia de personal.",
+"Las resoluciones de órganos administrativos, salvo que una disposición legal o reglamentaria disponga lo contrario.",
+"Los acuerdos, pactos, convenios o contratos que tengan la consideración de finalizadores del procedimiento."
+]
+},
+{
+"id": "pr-42-008",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (30 preguntas)",
+"n": 8,
+"enunciado": "Según el artículo 87 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas, antes de dictar resolución, el órgano competente para resolver podrá decidir, mediante acuerdo motivado, la realización de actuaciones complementarias indispensables para resolver el procedimiento. Dichas actuaciones complementarias deberán practicarse en un plazo: (ADM-LI 2026)",
+"opciones": [
+"De siete días.",
+"No inferior a diez días ni superior a quince días.",
+"De veinte días.",
+"No superior a quince días."
+]
+},
+{
+"id": "pr-42-009",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (30 preguntas)",
+"n": 9,
+"enunciado": "Según el artículo 102 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público en relación con la revisión de precios en los contratos celebrados con precios provisionales: (ADM-LI 2026)",
+"opciones": [
+"Podrá admitirse la revisión de precios siempre que el período de recuperación de la inversión sea inferior a cinco años.",
+"Podrá admitirse la revisión de precios siempre que el período de recuperación de la inversión sea igual o superior a cinco años.",
+"Podrá admitirse la revisión de precios cuando el contrato se hubiese ejecutado, al menos, en el 20 por ciento de su importe y hubiese transcurrido un año desde su formalización.",
+"No cabrá la revisión de precios."
+]
+},
+{
+"id": "pr-42-010",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (30 preguntas)",
+"n": 10,
+"enunciado": "Según el artículo 2.4 de la Ley 38/2003, General de Subvenciones, no tienen carácter de subvenciones: (ADM-LI 2026)",
+"opciones": [
+"Las otorgadas como consecuencia de la Política Agrícola Común.",
+"Las que financien proyectos relacionados con la ciencia y la tecnología.",
+"Los beneficios fiscales y beneficios en la cotización a la Seguridad Social.",
+"Las destinadas a fomentar actividades de interés social."
+]
+},
+{
+"id": "pr-42-011",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (30 preguntas)",
+"n": 11,
+"enunciado": "Conforme al artículo 32.8 de la Ley 40/2015, de Régimen Jurídico del Sector Público, ¿a quién le corresponde fijar el importe de las indemnizaciones que proceda abonar cuando el Tribunal Constitucional haya declarado, a instancia de parte interesada, la existencia de un funcionamiento anormal en la tramitación de los recursos de amparo o de las cuestiones de inconstitucionalidad? (ADM-LI 2026)",
+"opciones": [
+"Al Ministerio de Justicia.",
+"Al Consejo de Ministros.",
+"Al Consejo de Estado.",
+"Al Tribunal Constitucional."
+]
+},
+{
+"id": "pr-42-012",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (30 preguntas)",
+"n": 12,
+"enunciado": "Según el artículo 5 de la Ley 4/2023, de 28 de febrero, para la igualdad real y efectiva de las personas trans y para la garantía de los derechos de las personas LGTBI, los poderes públicos: (ADM-LI 2026)",
+"opciones": [
+"Fomentarán el reconocimiento institucional y la participación en los actos conmemorativos de la lucha por la igualdad real y efectiva de las personas LGTBI.",
+"Podrán adoptar las medidas necesarias para limitar la diversidad en materia de orientación sexual de las personas LGTBI.",
+"Podrán adoptar las medidas necesarias para poner en valor la identidad cultural y religiosa de las personas LGTBI.",
+"Podrán adoptar las medidas necesarias para poner en valor la identidad racial y cultural de las personas LGTBI."
+]
+},
+{
+"id": "pr-42-013",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (30 preguntas)",
+"n": 13,
+"enunciado": "Conforme al artículo 45 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, en todo caso, ¿cuándo procede la publicación de un acto administrativo (ADM-LI-EXT 2026)",
+"opciones": [
+"Cuando el acto tenga por destinatario a una pluralidad determinada de personas.",
+"Cuando se trate de actos integrantes de un procedimiento selectivo.",
+"Cuando existan varios interesados en un procedimiento y no se opongan a ello.",
+"Cuando el interesado lo hubiere indicado expresamente en su solicitud."
+]
+},
+{
+"id": "pr-42-014",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (30 preguntas)",
+"n": 14,
+"enunciado": "Según el artículo 106 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, si en un contrato se procede a la solicitud de la garantía provisional, por razones de interés público: (ADM-LI-EXT 2026)",
+"opciones": [
+"No podrá ser superior a un 3 por 100 del presupuesto base de licitación del contrato.",
+"No podrá ser superior a un 3 por 100 del valor estimado del contrato.",
+"No podrá ser superior a un 2 por 100 del presupuesto base de licitación del contrato.",
+"No podrá ser superior a un 2 por 100 del valor estimado del contrato."
+]
+},
+{
+"id": "pr-42-015",
+"origen": "practicas",
+"test": "Ley 39 + Contratos - Examen teórico (30 preguntas)",
+"n": 15,
+"enunciado": "Según los artículos 16 y 17 de la Ley de Contratos del Sector Público, son contratos de servicios los que tienen por objeto: (ADM-LI 2026)",
+"opciones": [
+"La adquisición de equipos y sistemas de telecomunicaciones.",
+"La adquisición de programas de ordenador desarrollados a medida.",
+"La adquisición de energía primaria.",
+"La adquisición de energía transformada."
+]
+}
+]
+}
