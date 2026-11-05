@@ -1,0 +1,634 @@
+{
+"lote": 36,
+"casos": {
+"caso-20": {
+"id": "caso-20",
+"titulo": "Supuesto Práctico 3",
+"texto": "La Dirección General de Política Energética, dependiente jerárquicamente de la Ministra para la Transición Ecológica y el Reto Demográfico, tiene atribuida la competencia para tramitar procedimientos de autorización de líneas de baja tensión, siendo la Ministra el órgano competente para resolverlos.\nLa normativa reguladora aplicable no establece el plazo máximo para resolver y notificar en procedimientos de esta naturaleza, ni regula los efectos del silencio administrativo, si bien especifica que la actividad cuya autorización se solicita no se considera susceptible de dañar el medio ambiente.\nLa Secretaría General Técnica del Ministerio ha iniciado la tramitación de un proyecto normativo destinado a regular estos procedimientos y a establecer un plazo máximo para resolver y notificar de doce meses, así como el carácter desestimatorio del silencio administrativo. Dicho proyecto normativo aún no ha sido aprobado.\nActualmente se encuentran en tramitación diversos procedimientos de autorización de líneas de baja tensión. A continuación se detallan dos de ellos.\n1.- Con fecha 26 de septiembre de 2025, don José Carlos Fuente, actuando en nombre y representación de Innova, S.L., presentó en la oficina de asistencia en materia de registros del Ayuntamiento de Alicante un escrito dirigido al Ministerio para la Transición Ecológica y el Reto Demográfico, solicitando autorización para la instalación de una línea de baja tensión en un edificio privado de viviendas, actuación que no implicará, en ningún caso, ocupación del dominio público.\nLa solicitud tuvo entrada en el Registro Electrónico de la Administración General del Estado el día 30 de septiembre de 2025.\n2.- EON Distribución, S.L. presentó, hace cuatro meses, una solicitud de autorización en el Registro Electrónico de la Administración General del Estado, sin que hasta la fecha haya sido dictada y notificada resolución expresa por la Ministra. El proyecto de línea eléctrica promovido por EON Distribución, S.L. implica la ocupación de 434 metros de dominio público de la vía pecuaria Vereda de Cádiz, por lo que el órgano competente ha acordado la apertura de un período de información pública conforme a lo previsto en el artículo 83 de la Ley 39/2015.\nEn relación con el supuesto planteado se formulan las siguientes preguntas:"
+},
+"caso-22": {
+"id": "caso-22",
+"titulo": "Ejercicio nº 16 - Caducidad",
+"texto": "BioVet Diagnósticos, S. L. es una empresa dedicada al desarrollo de productos para la detección de enfermedades animales. Tras varios años de investigación, pretende comercializar BoviTest, un nuevo kit destinado a detectar la brucelosis bovina.\nEl 2 de marzo de 2026 presenta la correspondiente solicitud de autorización a través del Registro Electrónico General de la Administración General del Estado, siendo recibida por el Ministerio de Agricultura, Pesca y Alimentación el 5 de marzo.\nEl procedimiento se rige por el Real Decreto 867/2020, de 29 de septiembre, resultándole asimismo de aplicación la Ley 39/2015, de 1 de octubre. El plazo máximo establecido para resolver y notificar este tipo de procedimientos es de seis meses. Transcurrido dicho plazo sin haberse notificado resolución expresa, el silencio administrativo tendrá efectos desestimatorios.\nEn relación con el supuesto planteado, conteste a las siguientes cuestiones:"
+}
+},
+"calendarios": {},
+"preguntas": [
+{
+"id": "pr-20-001",
+"origen": "practicas",
+"test": "Supuesto Práctico 3",
+"n": 1,
+"enunciado": "Según la Ley 39/2015, ¿cuál de las siguientes normas jurídicas podría establecer un plazo de doce meses para resolver y notificar los procedimientos de esta naturaleza?",
+"opciones": [
+"Ninguna, dado que el plazo máximo en que debe notificarse la resolución expresa no podrá exceder de seis meses en ningún caso.",
+"Una norma de carácter legal o reglamentario.",
+"Una norma con rango de ley.",
+"Una norma de Derecho internacional aplicable en España."
+],
+"caso": "caso-20"
+},
+{
+"id": "pr-20-002",
+"origen": "practicas",
+"test": "Supuesto Práctico 3",
+"n": 2,
+"enunciado": "El Director General de Política Energética plantea la posibilidad de acumular los procedimientos de autorización de instalación de líneas de baja tensión que se tramitan en el Departamento ministerial a solicitud de Innova, S.L. y de EON Distribución, S.L. Según el artículo 57 de la Ley 39/2015, ¿resultaría posible dicha acumulación?",
+"opciones": [
+"Sí, correspondiendo su acumulación al Director General de Política Energética, órgano competente para tramitar.",
+"Sí, correspondiendo su acumulación a la Ministra para la Transición Ecológica, órgano competente para resolver.",
+"Sí, siempre que se acredite en el expediente que ambos procedimientos guardan identidad sustancial o íntima conexión.",
+"No, puesto que la competencia para tramitar y resolver el procedimiento se atribuye a distintos órganos administrativos."
+],
+"caso": "caso-20"
+},
+{
+"id": "pr-20-003",
+"origen": "practicas",
+"test": "Supuesto Práctico 3",
+"n": 3,
+"enunciado": "En el procedimiento administrativo relativo a Innova, S.L., ¿qué efectos produciría el vencimiento del plazo máximo legal sin que se hubiera dictado y notificado resolución expresa?",
+"opciones": [
+"El silencio administrativo, que en este caso tendría efectos estimatorios.",
+"La prescripción del derecho.",
+"El silencio administrativo, que en este caso tendría efectos desestimatorios.",
+"La caducidad del procedimiento."
+],
+"caso": "caso-20"
+},
+{
+"id": "pr-20-004",
+"origen": "practicas",
+"test": "Supuesto Práctico 3",
+"n": 4,
+"enunciado": "Según la Ley 39/2015, ¿estaba obligado D. José Carlos Fuente a relacionarse con la Administración a través de medios electrónicos?",
+"opciones": [
+"No, salvo que estuviese ejerciendo una actividad profesional que requiera colegiación obligatoria.",
+"Sí, al actuar en representación de un interesado que está obligado a relacionarse electrónicamente con la Administración.",
+"No, porque al tratarse de una persona física podía elegir si se relacionaba con la Administración por medios electrónicos o no.",
+"Sí, puesto que todo interesado está obligado a relacionarse a través de medios electrónicos con las Administraciones"
+],
+"caso": "caso-20"
+},
+{
+"id": "pr-20-005",
+"origen": "practicas",
+"test": "Supuesto Práctico 3",
+"n": 5,
+"enunciado": "¿Cómo debió actuar la Dirección General de Política Energética una vez recibida la solicitud presentada por D. José Carlos Fuente?",
+"opciones": [
+"Debió inadmitirla a trámite.",
+"Debió comenzar la instrucción del procedimiento.",
+"Debió requerirle para que la subsanase a través de su presentación electrónica.",
+"Debió remitirla sin dilación a la Ministra para la Transición Ecológica."
+],
+"caso": "caso-20"
+},
+{
+"id": "pr-20-006",
+"origen": "practicas",
+"test": "Supuesto Práctico 3",
+"n": 6,
+"enunciado": "Aconsejado por su asesor jurídico, el señor Fuente volvió a presentar electrónicamente la solicitud, esta vez en el Registro Electrónico de la Administración General del Estado el día 2 de octubre de 2025. En tal caso, ¿en qué fecha se produciría el vencimiento del plazo máximo para resolver y notificar?",
+"opciones": [
+"El 2 de enero de 2026.",
+"El 26 de diciembre de 2025.",
+"El 30 de diciembre de 2025.",
+"El 2 de octubre de 2026."
+],
+"caso": "caso-20"
+},
+{
+"id": "pr-20-007",
+"origen": "practicas",
+"test": "Supuesto Práctico 3",
+"n": 7,
+"enunciado": "Durante la instrucción del procedimiento, la Dirección General de Política Energética incorpora al expediente un informe técnico con determinadas observaciones sobre el trazado interior de la línea y da traslado del mismo al señor Fuente para que, si lo estima oportuno, formule alegaciones complementarias en defensa de sus intereses. Según el artículo 73 de la Ley 39/2015, si no se fija otro plazo distinto, ¿de qué plazo dispondrá el señor Fuente para cumplimentar el trámite y qué consecuencia podría derivarse en caso de no hacerlo?",
+"opciones": [
+"Dispondrá de veinte días; si no actúa en plazo, se declararía la caducidad del procedimiento.",
+"Dispondrá de quince días; si no actúa en plazo, procedería el archivo del procedimiento.",
+"Dispondrá de diez días; si no actúa en plazo, podrá declarársele decaído en su derecho a formular dichas alegaciones.",
+"Dispondrá de diez días; si no actúa en plazo, se le tendría por desistido de su solicitud."
+],
+"caso": "caso-20"
+},
+{
+"id": "pr-20-008",
+"origen": "practicas",
+"test": "Supuesto Práctico 3",
+"n": 8,
+"enunciado": "Instruido el procedimiento relativo a Innova, S.L., y antes de redactar la propuesta de resolución, la Dirección General acuerda abrir el trámite de audiencia al señor Fuente para que formule las alegaciones y presente los documentos y justificaciones que estime pertinentes. De acuerdo con la Ley 39/2015, ¿cuál es el plazo máximo que se le podrá conceder para realizar dicho trámite?",
+"opciones": [
+"Diez días.",
+"Quince días.",
+"Veinte días.",
+"Treinta días."
+],
+"caso": "caso-20"
+},
+{
+"id": "pr-20-009",
+"origen": "practicas",
+"test": "Supuesto Práctico 3",
+"n": 9,
+"enunciado": "Antes del vencimiento del plazo máximo aplicable para resolver y notificar, se puso a disposición del señor Fuente, a través de la Dirección Electrónica Habilitada única, una resolución estimatoria dictada por el Director General de Política Energética. ¿Incurre dicha resolución en causa de nulidad o anulabilidad?",
+"opciones": [
+"Sí, en causa de nulidad al ser dictada por órgano manifiestamente incompetente.",
+"No, la resolución tan solo incurre en una irregularidad no invalidante.",
+"Sí, en causa de anulabilidad, derivada de incompetencia no determinante de nulidad.",
+"No, la resolución dictada será válida siempre que se encuentre debidamente motivada."
+],
+"caso": "caso-20"
+},
+{
+"id": "pr-20-010",
+"origen": "practicas",
+"test": "Supuesto Práctico 3",
+"n": 10,
+"enunciado": "Según la Ley 39/2015, ¿podría convalidarse la resolución dictada por el Director General de Política Energética?",
+"opciones": [
+"Sí, por la Ministra para la Transición Ecológica y el Reto Demográfico.",
+"En ningún caso, al incurrir la resolución en causa de nulidad.",
+"En ningún caso, al incurrir la resolución en causa de anulabilidad.",
+"No, al tratarse de una resolución válida y ajustada a derecho."
+],
+"caso": "caso-20"
+},
+{
+"id": "pr-20-011",
+"origen": "practicas",
+"test": "Supuesto Práctico 3",
+"n": 11,
+"enunciado": "Si la solicitud presentada por EON Distribución S.L. no estuviese acompañada de la documentación preceptiva, ¿qué actuación debería llevar a cabo por la Administración?",
+"opciones": [
+"Requerir al interesado para que subsane su solicitud, indicándole que, de no hacerlo, se le tendrá por decaído en su derecho al trámite.",
+"Requerir al interesado para que subsane su solicitud, indicándole que, de no hacerlo, se le tendrá por desistido de su solicitud.",
+"Recabar del solicitante la modificación o mejora voluntarias de su solicitud.",
+"Deberá dictarse y notificarse al interesado resolución de archivo del procedimiento."
+],
+"caso": "caso-20"
+},
+{
+"id": "pr-20-012",
+"origen": "practicas",
+"test": "Supuesto Práctico 3",
+"n": 12,
+"enunciado": "De acuerdo con el artículo 68 de la Ley 39/2015, ¿qué plazo deberá concederse al interesado para subsanar su solicitud mediante la aportación de la documentación preceptiva, cuya aportación presenta dificultades especiales?",
+"opciones": [
+"Diez días, no ampliables.",
+"Quince días.",
+"Diez días, ampliables prudencialmente hasta diez días más.",
+"Diez días, ampliables prudencialmente hasta cinco días más."
+],
+"caso": "caso-20"
+},
+{
+"id": "pr-20-013",
+"origen": "practicas",
+"test": "Supuesto Práctico 3",
+"n": 13,
+"enunciado": "En el procedimiento tramitado a solicitud de EON Distribución, S.L. se solicita como prueba la emisión de un informe por el Presidente de la Confederación Hidrográfica del Júcar. De acuerdo con el artículo 77 de la Ley 39/2015, ¿qué carácter tendrá dicho informe?",
+"opciones": [
+"Preceptivo y vinculante.",
+"Facultativo y no vinculante.",
+"Vinculante.",
+"Preceptivo."
+],
+"caso": "caso-20"
+},
+{
+"id": "pr-20-014",
+"origen": "practicas",
+"test": "Supuesto Práctico 3",
+"n": 14,
+"enunciado": "Solicitado el informe al que se refiere la pregunta anterior, ¿podría suspenderse el transcurso del plazo máximo para resolver y notificar el procedimiento?",
+"opciones": [
+"Sí, sin que pueda exceder de dos meses. En caso de no recibirse el informe en el plazo indicado, proseguirá el procedimiento.",
+"Al tratarse de un informe preceptivo, el plazo máximo legal para resolver quedará suspendido.",
+"Sí, sin que pueda exceder de tres meses. En caso de no recibirse el informe en el plazo indicado, proseguirá el procedimiento.",
+"No, al tratarse de un informe facultativo."
+],
+"caso": "caso-20",
+"sigueA": "pr-20-013"
+},
+{
+"id": "pr-20-015",
+"origen": "practicas",
+"test": "Supuesto Práctico 3",
+"n": 15,
+"enunciado": "En relación con el procedimiento iniciado a solicitud de EON Distribución, S.L, ¿a quién corresponde acordar la apertura del periodo de información pública?",
+"opciones": [
+"Al instructor del procedimiento.",
+"Al Director General de Política Energética.",
+"Al Secretario General Técnico del Departamento.",
+"A la Ministra para la Transición Ecológica y el Reto Demográfico."
+],
+"caso": "caso-20"
+},
+{
+"id": "pr-20-016",
+"origen": "practicas",
+"test": "Supuesto Práctico 3",
+"n": 16,
+"enunciado": "Señale la respuesta correcta en relación con el trámite de información pública abierto en el procedimiento tramitado a solicitud de EON Distribución, S.L.:",
+"opciones": [
+"Quienes comparezcan en el trámite de información pública adquirirán la condición de interesados en el procedimiento.",
+"El expediente estará disponible para su examen únicamente en la sede electrónica correspondiente.",
+"El plazo para formular alegaciones en ningún caso podrá ser superior a veinte días.",
+"La incomparecencia de EON Distribución, S.L., en este trámite no le impediría recurrir la resolución que ponga fin al procedimiento."
+],
+"caso": "caso-20"
+},
+{
+"id": "pr-20-017",
+"origen": "practicas",
+"test": "Supuesto Práctico 3",
+"n": 17,
+"enunciado": "¿Debe entenderse producido el silencio administrativo en el procedimiento iniciado a solicitud de EON Distribución, S.L.?",
+"opciones": [
+"Sí, lo que le legitima para entender estimada su solicitud.",
+"Sí, el cual tendrá efecto desestimatorio.",
+"Sí, lo que determina la caducidad del procedimiento.",
+"No, al no haber transcurrido seis meses desde la presentación electrónica de la solicitud."
+],
+"caso": "caso-20"
+},
+{
+"id": "pr-20-018",
+"origen": "practicas",
+"test": "Supuesto Práctico 3",
+"n": 18,
+"enunciado": "De acuerdo con el artículo 24 de la Ley 39/2015, en relación con el procedimiento seguido por EON Distribución, S.L, una vez producido el silencio administrativo, la resolución expresa posterior:",
+"opciones": [
+"Se adoptará por la Administración sin vinculación alguna al sentido del silencio.",
+"Solo podrá dictarse en caso de ser estimatoria.",
+"Solo podrá dictarse en caso de ser desestimatoria.",
+"No será obligatoria, al tener el silencio la consideración de acto finalizador del procedimiento."
+],
+"caso": "caso-20"
+},
+{
+"id": "pr-20-019",
+"origen": "practicas",
+"test": "Supuesto Práctico 3",
+"n": 19,
+"enunciado": "Expirado el plazo máximo para resolver el procedimiento, ¿qué órgano, y en qué plazo, debe expedir el certificado acreditativo del silencio producido?",
+"opciones": [
+"El órgano competente para resolver el procedimiento, en el plazo de diez días.",
+"El órgano competente para resolver el procedimiento, en el plazo de quince días.",
+"El órgano competente para resolver el procedimiento, en el plazo de veinte días.",
+"El órgano competente para tramitar el procedimiento, en el plazo de quince días."
+],
+"caso": "caso-20"
+},
+{
+"id": "pr-20-020",
+"origen": "practicas",
+"test": "Supuesto Práctico 3",
+"n": 20,
+"enunciado": "Interpuesto recurso contencioso-administrativo contra el acto presunto, el expediente administrativo debe ser remitido al órgano judicial competente para su resolución. Indique cuál de los siguientes documentos no forma parte del expediente:",
+"opciones": [
+"Los informes y dictámenes incorporados al procedimiento.",
+"El documento que acredite la representación de quien actúa en nombre de la mercantil EON Distribución, S.L.",
+"Un documento que recoge la opinión jurídica del Subdirector General de Energía Eléctrica.",
+"Un índice numerado de todos los documentos que contiene el expediente."
+],
+"caso": "caso-20"
+},
+{
+"id": "pr-21-001",
+"origen": "practicas",
+"test": "Ejercicio 15 - Plazos administrativos",
+"n": 1,
+"enunciado": "Cuando el órgano competente pretenda pronunciarse sobre cuestiones conexas que no hubieran sido planteadas por los interesados, ¿durante qué plazo máximo deberá ponerlas previamente de manifiesto a estos para que formulen alegaciones y aporten, en su caso, los medios de prueba?",
+"opciones": [
+"Cinco días.",
+"Diez días.",
+"Quince días.",
+"Veinte días."
+]
+},
+{
+"id": "pr-21-002",
+"origen": "practicas",
+"test": "Ejercicio 15 - Plazos administrativos",
+"n": 2,
+"enunciado": "Cuando el órgano competente para resolver un procedimiento sancionador considere que la infracción o la sanción revisten mayor gravedad que la apreciada en la propuesta de resolución, ¿de qué plazo dispondrá el inculpado para formular las alegaciones que estime convenientes?",
+"opciones": [
+"Diez días.",
+"Quince días.",
+"Veinte días",
+"Siete días."
+]
+},
+{
+"id": "pr-21-003",
+"origen": "practicas",
+"test": "Ejercicio 15 - Plazos administrativos",
+"n": 3,
+"enunciado": "En un procedimiento de responsabilidad patrimonial, ¿qué plazo debe transcurrir desde su iniciación sin que haya recaído y se haya notificado resolución expresa ni, en su caso, se haya formalizado el acuerdo, para que pueda entenderse que la resolución es contraria a la indemnización del particular?",
+"opciones": [
+"Dos meses.",
+"Tres meses.",
+"Seis meses.",
+"Un año."
+]
+},
+{
+"id": "pr-21-004",
+"origen": "practicas",
+"test": "Ejercicio 15 - Plazos administrativos",
+"n": 4,
+"enunciado": "Cuando el interesado que inició un procedimiento desista de su solicitud o renuncie a su derecho y se hayan personado en él terceros interesados, ¿de qué plazo dispondrán estos, desde que sean notificados del desistimiento o la renuncia, para instar la continuación del procedimiento?",
+"opciones": [
+"Cinco días.",
+"Diez días.",
+"Quince días.",
+"No inferior a diez días ni superior a quince."
+]
+},
+{
+"id": "pr-21-005",
+"origen": "practicas",
+"test": "Ejercicio 15 - Plazos administrativos",
+"n": 5,
+"enunciado": "En un procedimiento iniciado a solicitud del interesado que haya quedado paralizado por causa imputable a este, una vez notificada la advertencia de caducidad, ¿qué plazo deberá transcurrir sin que realice las actividades necesarias para reanudar la tramitación para que proceda declarar la caducidad y archivar las actuaciones?",
+"opciones": [
+"Treinta días.",
+"Un mes.",
+"Dos meses.",
+"Tres meses."
+]
+},
+{
+"id": "pr-21-006",
+"origen": "practicas",
+"test": "Ejercicio 15 - Plazos administrativos",
+"n": 6,
+"enunciado": "Cuando un interesado solicite la tramitación simplificada de un procedimiento, ¿transcurrido qué plazo desde la presentación de la solicitud se entenderá desestimada?",
+"opciones": [
+"Cinco días.",
+"Siete días.",
+"Diez días.",
+"Quince días."
+]
+},
+{
+"id": "pr-21-007",
+"origen": "practicas",
+"test": "Ejercicio 15 - Plazos administrativos",
+"n": 7,
+"enunciado": "En la tramitación simplificada del procedimiento administrativo común, ¿durante qué plazo podrán formularse alegaciones al inicio del procedimiento?",
+"opciones": [
+"Tres días.",
+"Cinco días.",
+"Siete días.",
+"Diez días."
+]
+},
+{
+"id": "pr-21-008",
+"origen": "practicas",
+"test": "Ejercicio 15 - Plazos administrativos",
+"n": 8,
+"enunciado": "Salvo que reste menos para su tramitación ordinaria, los procedimientos administrativos tramitados de manera simplificada deberán ser resueltos en el plazo de:",
+"opciones": [
+"Tres meses.",
+"Dos meses.",
+"Un mes.",
+"Treinta días."
+]
+},
+{
+"id": "pr-21-009",
+"origen": "practicas",
+"test": "Ejercicio 15 - Plazos administrativos",
+"n": 9,
+"enunciado": "En un procedimiento tramitado de manera simplificada, cuando sea preceptivo el dictamen del Consejo de Estado u órgano consultivo equivalente y así lo solicite el órgano competente, dicho dictamen podrá ser emitido en el plazo de:",
+"opciones": [
+"Quince días.",
+"Treinta días.",
+"Un mes.",
+"Dos meses."
+]
+},
+{
+"id": "pr-21-010",
+"origen": "practicas",
+"test": "Ejercicio 15 - Plazos administrativos",
+"n": 10,
+"enunciado": "Sin perjuicio de los límites establecidos para el ejercicio de las facultades de revisión, ¿cuándo podrán las Administraciones Públicas declarar de oficio la nulidad de los actos administrativos que hayan puesto fin a la vía administrativa o no hayan sido recurridos en plazo?",
+"opciones": [
+"En cualquier momento.",
+"En el plazo de un año.",
+"En el plazo de cuatro años.",
+"En el plazo de cinco años."
+]
+},
+{
+"id": "pr-21-011",
+"origen": "practicas",
+"test": "Ejercicio 15 - Plazos administrativos",
+"n": 11,
+"enunciado": "¿Dentro de qué plazo, contado desde que se dictó el acto, podrá adoptarse la declaración de lesividad de un acto favorable anulable?",
+"opciones": [
+"En cualquier momento.",
+"Un año.",
+"Cuatro años.",
+"Cinco años."
+]
+},
+{
+"id": "pr-21-012",
+"origen": "practicas",
+"test": "Ejercicio 15 - Plazos administrativos",
+"n": 12,
+"enunciado": "Cuando el procedimiento de revisión de oficio de un acto nulo se hubiera iniciado de oficio, ¿transcurrido qué plazo desde su inicio sin dictarse resolución se producirá su caducidad?",
+"opciones": [
+"Un mes.",
+"Tres meses.",
+"Seis meses.",
+"Doce meses."
+]
+},
+{
+"id": "pr-21-013",
+"origen": "practicas",
+"test": "Ejercicio 15 - Plazos administrativos",
+"n": 13,
+"enunciado": "¿Transcurrido qué plazo desde la iniciación del procedimiento sin que se hubiera declarado la lesividad se producirá su caducidad?",
+"opciones": [
+"Un mes.",
+"Tres meses.",
+"Seis meses.",
+"Doce meses."
+]
+},
+{
+"id": "pr-21-014",
+"origen": "practicas",
+"test": "Ejercicio 15 - Plazos administrativos",
+"n": 14,
+"enunciado": "¿Cuándo podrán las Administraciones Públicas revocar sus actos de gravamen o desfavorables, siempre que la revocación no constituya una dispensa o exención no permitida por las leyes ni sea contraria al principio de igualdad, al interés público o al ordenamiento jurídico?",
+"opciones": [
+"En cualquier momento.",
+"Mientras no haya transcurrido el plazo de prescripción.",
+"Dentro del año siguiente a la fecha en que se dictó el acto.",
+"Dentro de los cuatro años siguientes a la fecha en que se dictó el acto."
+]
+},
+{
+"id": "pr-21-015",
+"origen": "practicas",
+"test": "Ejercicio 15 - Plazos administrativos",
+"n": 15,
+"enunciado": "¿Cuándo podrán las Administraciones Públicas rectificar, de oficio o a instancia de los interesados, los errores materiales, de hecho o aritméticos existentes en sus actos?",
+"opciones": [
+"En cualquier momento.",
+"Mientras no haya transcurrido el plazo de prescripción.",
+"Dentro del año siguiente a la fecha en que se dictó el acto.",
+"Dentro de los cuatro años siguientes a la fecha en que se dictó el acto."
+]
+},
+{
+"id": "pr-22-001",
+"origen": "practicas",
+"test": "Ejercicio nº 16 - Caducidad",
+"n": 1,
+"enunciado": "¿Cuál será el último día del plazo máximo para resolver el procedimiento y notificar la resolución?",
+"opciones": [
+"El miércoles 2 de septiembre de 2026.",
+"El jueves 3 de septiembre de 2026.",
+"El sábado 5 de septiembre de 2026.",
+"El lunes 7 de septiembre de 2026."
+],
+"caso": "caso-22"
+},
+{
+"id": "pr-22-002",
+"origen": "practicas",
+"test": "Ejercicio nº 16 - Caducidad",
+"n": 2,
+"enunciado": "¿Es conforme con la Ley 39/2015 que el silencio administrativo tenga efectos desestimatorios en este procedimiento?",
+"opciones": [
+"No, porque en los procedimientos iniciados a solicitud del interesado el silencio tiene siempre efectos estimatorios.",
+"Sí, porque la Ley 39/2015 atribuye efectos desestimatorios al silencio cuando la actividad puede entrañar riesgos para la salud.",
+"Sí, siempre que el Real Decreto 867/2020 atribuya al silencio dichos efectos.",
+"Sí, siempre que dichos efectos estén establecidos por una norma con rango de ley."
+],
+"caso": "caso-22"
+},
+{
+"id": "pr-22-003",
+"origen": "practicas",
+"test": "Ejercicio nº 16 - Caducidad",
+"n": 3,
+"enunciado": "Al examinar la solicitud, el Ministerio comprueba que BioVet Diagnósticos, S. L. no ha aportado los modelos de etiquetado de los distintos formatos en los que pretende comercializar BoviTest, documentación exigida por la normativa aplicable, por lo que le requiere para que subsane la solicitud. ¿De qué plazo dispone la empresa para atender el requerimiento?",
+"opciones": [
+"Diez días naturales.",
+"Diez días hábiles.",
+"Quince días naturales.",
+"Quince días hábiles."
+],
+"caso": "caso-22"
+},
+{
+"id": "pr-22-004",
+"origen": "practicas",
+"test": "Ejercicio nº 16 - Caducidad",
+"n": 4,
+"enunciado": "Si BioVet Diagnósticos, S.L. no atendiera el requerimiento de subsanación dentro del plazo concedido, ¿qué consecuencia se produciría?",
+"opciones": [
+"Se producirá la caducidad del procedimiento.",
+"Se declarará a la empresa decaída en su derecho al trámite de subsanación.",
+"Se tendrá a la empresa por desistida de su solicitud, previa resolución dictada al efecto.",
+"La Administración deberá resolver expresamente desestimando la solicitud por no haber aportado la documentación requerida."
+],
+"caso": "caso-22"
+},
+{
+"id": "pr-22-005",
+"origen": "practicas",
+"test": "Ejercicio nº 16 - Caducidad",
+"n": 5,
+"enunciado": "Subsanada la solicitud y durante la instrucción del procedimiento, BioVet Diagnósticos, S. L. presenta un escrito en el que afirma que BoviTest fue validado por un laboratorio nacional de referencia de Suiza y solicita que no sea sometido a un nuevo testado en España. Como el documento aportado no permite comprobar que la validación se refiere exactamente a BoviTest, el Ministerio requiere a la empresa para que complete la documentación acreditativa. Dado que la normativa reguladora no establece un plazo específico, ¿de qué plazo dispone BioVet para cumplimentar este trámite?",
+"opciones": [
+"Cinco días hábiles.",
+"Diez días hábiles.",
+"Quince días hábiles.",
+"Diez días naturales."
+],
+"caso": "caso-22"
+},
+{
+"id": "pr-22-006",
+"origen": "practicas",
+"test": "Ejercicio nº 16 - Caducidad",
+"n": 6,
+"enunciado": "Si BioVet Diagnósticos, S. L. no completa la documentación acreditativa dentro del plazo concedido, ¿qué consecuencia podrá derivarse del incumplimiento?",
+"opciones": [
+"Se tendrá a la empresa por desistida de su solicitud.",
+"Se producirá la caducidad del procedimiento.",
+"Se podrá declarar a la empresa decaída en su derecho al trámite correspondiente.",
+"Se advertirá a la empresa de que, transcurridos dos meses, se producirá la caducidad del procedimiento."
+],
+"caso": "caso-22"
+},
+{
+"id": "pr-22-007",
+"origen": "practicas",
+"test": "Ejercicio nº 16 - Caducidad",
+"n": 7,
+"enunciado": "BioVet Diagnósticos, S. L. no aporta dentro del plazo concedido el certificado del laboratorio francés que permitiría acreditar la validación previa de BoviTest. En consecuencia, el Ministerio le requiere para que entregue muestras del kit, necesarias para que el laboratorio nacional realice las pruebas correspondientes y emita el informe preceptivo para resolver sobre la autorización. No estableciendo la normativa aplicable un plazo específico, ¿de qué plazo dispone la empresa para entregarlas?",
+"opciones": [
+"Cinco días hábiles.",
+"Diez días hábiles.",
+"Quince días hábiles.",
+"Un mes."
+],
+"caso": "caso-22"
+},
+{
+"id": "pr-22-008",
+"origen": "practicas",
+"test": "Ejercicio nº 16 - Caducidad",
+"n": 8,
+"enunciado": "Transcurrido el plazo concedido, BioVet Diagnósticos, S. L. no entrega las muestras requeridas. Dado que sin ellas no pueden realizarse las pruebas ni emitirse el informe preceptivo, el procedimiento queda paralizado por causa imputable a la empresa. ¿Cómo deberá proceder la Administración?",
+"opciones": [
+"Tendrá a la empresa por desistida de su solicitud.",
+"La declarará decaída en su derecho al trámite y continuará el procedimiento.",
+"Declarará inmediatamente la caducidad del procedimiento.",
+"Le advertirá de que, transcurridos tres meses sin aportar las muestras, se producirá la caducidad del procedimiento."
+],
+"caso": "caso-22"
+},
+{
+"id": "pr-22-009",
+"origen": "practicas",
+"test": "Ejercicio nº 16 - Caducidad",
+"n": 9,
+"enunciado": "Finalmente, al no haberse entregado las muestras requeridas, la Administración declara la caducidad del procedimiento y ordena el archivo de las actuaciones. ¿Podrá BioVet Diagnósticos, S. L. interponer algún recurso administrativo contra esta resolución?",
+"opciones": [
+"No, contra la resolución que declara la caducidad no cabe recurso en vía administrativa.",
+"No, aunque podrá solicitar su revisión de oficio si considera que es nula de pleno derecho.",
+"No, aunque podrá solicitar que la Administración revoque la resolución por tratarse de un acto desfavorable.",
+"Sí, podrá interponer los recursos administrativos que resulten procedentes."
+],
+"caso": "caso-22"
+},
+{
+"id": "pr-22-010",
+"origen": "practicas",
+"test": "Ejercicio nº 16 - Caducidad",
+"n": 10,
+"enunciado": "Una vez declarada la caducidad, BioVet Diagnósticos, S. L. vuelve a solicitar la autorización para comercializar BoviTest. ¿Podrá iniciarse un nuevo procedimiento con el mismo objeto?",
+"opciones": [
+"Sí, sin que pueda incorporarse al mismo ninguna actuación del procedimiento caducado.",
+"Sí, pudiendo incorporarse al mismo los actos y trámites cuyo contenido no habría variado de no haberse producido la caducidad.",
+"No, salvo que la Administración considere que la cuestión afecta al interés general.",
+"No, porque la caducidad produce por sí sola la prescripción de las acciones del particular."
+],
+"caso": "caso-22"
+}
+]
+}

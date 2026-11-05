@@ -1,0 +1,462 @@
+{
+"lote": 6,
+"casos": {},
+"calendarios": {},
+"preguntas": [
+{
+"id": "au-13-001",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (13) - Ley 39/2015 (arts. 66 a 69)",
+"n": 1,
+"enunciado": "Según el artículo 66 de la Ley 39/2015, de 1 de octubre, las solicitudes que se formulen NO deberán contener, en todo caso:",
+"opciones": [
+"La dirección de correo electrónico donde realizar el aviso de la puesta a disposición de la notificación.",
+"El nombre y apellidos del interesado.",
+"Los hechos, razones y petición en que se concrete, con toda claridad, la solicitud.",
+"El órgano, centro o unidad administrativa a la que se dirige y su correspondiente código de identificación."
+]
+},
+{
+"id": "au-13-002",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (13) - Ley 39/2015 (arts. 66 a 69)",
+"n": 2,
+"enunciado": "Señale la respuesta incorrecta respecto al código de identificación del órgano al que se dirige la solicitud, según lo dispuesto en el artículo 66 de la Ley 39/2015:",
+"opciones": [
+"No será necesario incluirlo en la solicitud cuando esta vaya dirigida a órganos de la Administración General del Estado.",
+"Deberá incluirse en la solicitud de iniciación del procedimiento.",
+"Las oficinas de asistencia en materia de registros estarán obligadas a facilitarlo a los interesados que lo desconozcan.",
+"Las Administraciones Públicas deberán mantener y actualizar en su sede electrónica un listado con los códigos vigentes."
+]
+},
+{
+"id": "au-13-003",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (13) - Ley 39/2015 (arts. 66 a 69)",
+"n": 3,
+"enunciado": "En caso de daños de carácter físico o psíquico, el plazo de solicitud de inicio de un procedimiento de responsabilidad patrimonial empezará a computarse:",
+"opciones": [
+"Desde la curación o la determinación del alcance de las secuelas.",
+"Desde la realización del diagnóstico inicial de los daños producidos.",
+"Cuando se manifieste el efecto lesivo del acto que motive la indemnización.",
+"Producido el hecho o el acto que motive la indemnización."
+]
+},
+{
+"id": "au-13-004",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (13) - Ley 39/2015 (arts. 66 a 69)",
+"n": 4,
+"enunciado": "Cuando la aportación de los documentos requeridos presente dificultades especiales, y siempre que no se trate de procesos selectivos o de concurrencia competitiva, el plazo de subsanación en la iniciación de un procedimiento administrativo podrá ser ampliado, según establece el artículo 68.2 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas:",
+"opciones": [
+"Hasta 5 días.",
+"Hasta 30 días.",
+"Hasta 10 días.",
+"Hasta 15 días."
+]
+},
+{
+"id": "au-13-005",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (13) - Ley 39/2015 (arts. 66 a 69)",
+"n": 5,
+"enunciado": "Según el artículo 68 de la Ley 39/2015, cuando los sujetos obligados a presentar electrónicamente una solicitud de opten por su presentación a través de medios no electrónicos, las Administraciones Públicas:",
+"opciones": [
+"La admitirán, pero recordarán al interesado su deber de presentar futuras solicitudes a través de medios electrónicos.",
+"La inadmitirán, sin más trámite.",
+"La inadmitirán, previa resolución que deberá ser dictada en los términos previstos en el artículo 21.",
+"Requerirán al interesado para que la subsane a través de su presentación electrónica."
+]
+},
+{
+"id": "au-13-006",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (13) - Ley 39/2015 (arts. 66 a 69)",
+"n": 6,
+"enunciado": "Según el artículo 68 de la Ley 39/2015, cuando la aportación de los documentos requeridos presente dificultades especiales, ¿cabe ampliar el plazo de subsanación de la solicitud?",
+"opciones": [
+"Sí, en todo caso.",
+"Sí, siempre que no se trate de procedimientos selectivos o de concurrencia competitiva.",
+"No, en ningún caso.",
+"No, salvo que se trate de procedimientos selectivos o de concurrencia competitiva."
+]
+},
+{
+"id": "au-13-007",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (13) - Ley 39/2015 (arts. 66 a 69)",
+"n": 7,
+"enunciado": "De acuerdo con el artículo 67 de la Ley 39/2015, en los procedimientos de responsabilidad patrimonial de las Administraciones Públicas, producido el hecho que motive la indemnización o se manifieste su efecto lesivo, el derecho a reclamar prescribirá:",
+"opciones": [
+"Al mes.",
+"A los tres meses.",
+"Al año.",
+"A los seis meses."
+]
+},
+{
+"id": "au-13-008",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (13) - Ley 39/2015 (arts. 66 a 69)",
+"n": 8,
+"enunciado": "De acuerdo con el artículo 68.4 de la Ley 39/2015, si alguno de los sujetos a los que hace referencia el artículo 14.2 y 14.3 de dicha ley presenta su solicitud presencialmente, se considerará como fecha de presentación:",
+"opciones": [
+"Aquella en la que haya sido realizada la subsanación a través de su presentación electrónica.",
+"Aquella en la que haya sido realizada la subsanación a través de su presentación por medios no electrónicos.",
+"Aquella en la que realizó presentación inicial, siempre que la subsane en un plazo no superior a 10 días.",
+"Aquella en la que realizó presentación inicial, siempre que la subsane en un plazo no superior a 5 días."
+]
+},
+{
+"id": "au-13-009",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (13) - Ley 39/2015 (arts. 66 a 69)",
+"n": 9,
+"enunciado": "En relación con las declaraciones responsables, ¿permite la Ley 39/2015 la presentación posterior de la misma respecto del inicio de una actividad?",
+"opciones": [
+"Sí, cuando así lo acuerde, de forma excepcional, el órgano competente para resolver.",
+"Sí, cuando así lo acuerde, de forma excepcional, el órgano competente para instruir el procedimiento.",
+"Sí, cuando así se prevea en la normativa de aplicación.",
+"No, en ningún caso."
+]
+},
+{
+"id": "au-13-010",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (13) - Ley 39/2015 (arts. 66 a 69)",
+"n": 10,
+"enunciado": "Señale la respuesta correcta en relación con las comunicaciones a que se refiere el artículo 69 de la Ley 39/2015:",
+"opciones": [
+"Impedirá el ejercicio de las facultades de comprobación, control e inspección de las Administraciones Públicas.",
+"Permitirá el reconocimiento o ejercicio de un derecho desde el día siguiente al de su presentación.",
+"Cuando la legislación correspondiente así lo prevea, podrá presentarse dentro de un plazo posterior al inicio de la actividad.",
+"Excepcionalmente, podrá exigirse la presentación conjunta de una comunicación y una declaración responsable."
+]
+},
+{
+"id": "au-13-011",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (13) - Ley 39/2015 (arts. 66 a 69)",
+"n": 11,
+"enunciado": "Establece el artículo 66 de la Ley 39/2015 que cuando las pretensiones correspondientes a una pluralidad de personas tengan un contenido y fundamento idéntico o sustancialmente similar:",
+"opciones": [
+"Deberán utilizarse modelos específicos de presentación de solicitudes.",
+"Deberán utilizarse modelos y sistemas de presentación masiva.",
+"Deberán ser formuladas en una única solicitud.",
+"Podrán ser formuladas en una única solicitud."
+]
+},
+{
+"id": "au-13-012",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (13) - Ley 39/2015 (arts. 66 a 69)",
+"n": 12,
+"enunciado": "Señale la respuesta correcta en relación con los modelos y sistemas de presentación masiva y los modelos específicos de presentación de solicitudes:",
+"opciones": [
+"Ambos serán de uso obligatorio.",
+"Ambos serán de uso voluntario.",
+"Los modelos de presentación masiva serán de uso obligatorio y los modelos específicos de uso voluntario.",
+"Los modelos de presentación masiva serán de uso voluntario y los modelos específicos de uso obligatorio."
+]
+},
+{
+"id": "au-14-001",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (14) - Ley 39/2015 (arts. 70 a 74)",
+"n": 1,
+"enunciado": "El principio según el cual se acordarán en un solo acto todos los trámites que por su naturaleza admitan un impulso simultáneo y no sea obligado su cumplimiento sucesivo es el principio de:",
+"opciones": [
+"Simplificación administrativa.",
+"Oficialidad.",
+"Coordinación.",
+"Celeridad."
+]
+},
+{
+"id": "au-14-002",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (14) - Ley 39/2015 (arts. 70 a 74)",
+"n": 2,
+"enunciado": "Señale la respuesta correcta respecto a las cuestiones incidentales que se susciten en el procedimiento:",
+"opciones": [
+"Suspenderán la tramitación del mismo en todo caso.",
+"No suspenderán la tramitación del mismo, salvo que impliquen la nulidad de actuaciones.",
+"No suspenderán la tramitación del mismo en ningún caso.",
+"No suspenderán la tramitación del mismo, salvo la recusación."
+]
+},
+{
+"id": "au-14-003",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (14) - Ley 39/2015 (arts. 70 a 74)",
+"n": 3,
+"enunciado": "En cuanto al expediente administrativo, NO es correcto afirmar, de acuerdo con el artículo 70 de la Ley 39/2015, que:",
+"opciones": [
+"No formarán parte del expediente administrativo los informes, preceptivos y facultativos, solicitados antes de la resolución administrativa que ponga fin al procedimiento.",
+"Se entiende por expediente administrativo el conjunto ordenado de documentos y actuaciones que sirven de antecedentes y fundamento a la resolución administrativa, así como las diligencias encaminadas a ejecutarla.",
+"Cuando en virtud de una norma sea preciso remitir el expediente electrónico, se hará de acuerdo con lo previsto en el Esquema Nacional de Interoperabilidad.",
+"No formará parte del mismo la información que tenga carácter auxiliar o de apoyo."
+]
+},
+{
+"id": "au-14-004",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (14) - Ley 39/2015 (arts. 70 a 74)",
+"n": 4,
+"enunciado": "Según el artículo 73 de la Ley 39/2015, salvo en el caso de que en la norma correspondiente se fije otro distinto, ¿en qué plazo deberán ser cumplimentados los trámites por los interesados en un procedimiento administrativo?",
+"opciones": [
+"En el plazo de cinco días a partir del siguiente al de la notificación del correspondiente acto.",
+"En el plazo de diez días a partir del siguiente al de la notificación del correspondiente acto.",
+"En el plazo de cinco días a partir de aquel en que se realice la notificación.",
+"En el plazo de diez días a partir de aquel en que se realice la notificación."
+]
+},
+{
+"id": "au-14-005",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (14) - Ley 39/2015 (arts. 70 a 74)",
+"n": 5,
+"enunciado": "De acuerdo con la Ley 39/2015, ¿cuál de los siguientes elementos NO forma de los expedientes administrativos?",
+"opciones": [
+"Los informes facultativos solicitados antes de la resolución que ponga fin al procedimiento.",
+"La información que tenga carácter auxiliar o de apoyo.",
+"Un índice numerado de todos los documentos que contenga cuando se remita.",
+"Una copia electrónica certificada de la resolución adoptada."
+]
+},
+{
+"id": "au-14-006",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (14) - Ley 39/2015 (arts. 70 a 74)",
+"n": 6,
+"enunciado": "Según la Ley 39/2015, en el despacho de los expedientes se guardará el orden riguroso de incoación en asuntos de homogénea naturaleza:",
+"opciones": [
+"Sin perjuicio de las decisiones adoptadas por el instructor para agilizar las cuestiones que considere esenciales.",
+"En todo caso.",
+"Salvo que por el titular de la unidad administrativa se dé orden motivada en contrario, de la que quede constancia.",
+"Salvo que por el órgano competente para resolver se dé orden motivada en contrario, de la que quede constancia."
+]
+},
+{
+"id": "au-14-007",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (14) - Ley 39/2015 (arts. 70 a 74)",
+"n": 7,
+"enunciado": "¿En qué consiste la concentración de trámites a que se refiere el artículo 72 de la Ley 39/2015?",
+"opciones": [
+"En acordar en un solo acto todos los trámites que, por su naturaleza, sean de obligado cumplimiento sucesivo.",
+"En acordar en un solo acto todos los trámites que, por su naturaleza, admitan un impulso simultáneo.",
+"Al impulso del procedimiento de oficio en todos sus trámites.",
+"A la acumulación de todos los trámites en tres actos: iniciación, instrucción y finalización."
+]
+},
+{
+"id": "au-14-008",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (14) - Ley 39/2015 (arts. 70 a 74)",
+"n": 8,
+"enunciado": "Según la Ley 39/2015, cuando la Administración considere que alguno de los actos de los interesados no reúne los requisitos necesarios, lo pondrá en conocimiento de su autor, concediéndole, para cumplimentarlos, un plazo de:",
+"opciones": [
+"15 días.",
+"10 días.",
+"10 días naturales.",
+"15 días hábiles."
+]
+},
+{
+"id": "au-14-009",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (14) - Ley 39/2015 (arts. 70 a 74)",
+"n": 9,
+"enunciado": "De acuerdo con el artículo 74, indique cuál de las siguientes cuestiones incidentales suscitadas en el procedimiento, suspenden la tramitación del mismo:",
+"opciones": [
+"La abstención y la recusación.",
+"La acumulación de procedimientos.",
+"La nulidad de actuaciones.",
+"La recusación."
+]
+},
+{
+"id": "au-14-010",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (14) - Ley 39/2015 (arts. 70 a 74)",
+"n": 10,
+"enunciado": "Conforme al artículo 70 de la Ley 39/2015, el conjunto ordenado de documentos y actuaciones que sirven de antecedente y fundamento a la resolución administrativa, así como las diligencias encaminadas a ejecutarla se denomina:",
+"opciones": [
+"Legajo.",
+"Expediente electrónico.",
+"Expediente administrativo.",
+"Procedimiento administrativo."
+]
+},
+{
+"id": "au-15-003",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (15) - Ley 39/2015 (arts. 75 a 83)",
+"n": 3,
+"enunciado": "De acuerdo con lo dispuesto en el artículo 80 de la Ley 39/2015, de no emitirse un informe en el plazo señalado para ello:",
+"opciones": [
+"Se podrán proseguir las actuaciones salvo cuando se trate de un informe preceptivo.",
+"Se podrán proseguir las actuaciones salvo cuando se trate de un informe preceptivo o facultativo.",
+"Se podrán proseguir las actuaciones, salvo que el informe debiera ser emitido por una Administración Pública distinta.",
+"Se podrán proseguir las actuaciones, en cualquier caso."
+]
+},
+{
+"id": "au-15-004",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (15) - Ley 39/2015 (arts. 75 a 83)",
+"n": 4,
+"enunciado": "De acuerdo con el artículo 77 de la Ley 39/2015, cuando en un procedimiento administrativo la prueba consista en la emisión de un informe de un órgano administrativo Organismo Público o Entidad de derecho público, se entenderá que este tiene carácter:",
+"opciones": [
+"Facultativo y no vinculante.",
+"Vinculante.",
+"Preceptivo.",
+"Preceptivo y vinculante."
+]
+},
+{
+"id": "au-15-005",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (15) - Ley 39/2015 (arts. 75 a 83)",
+"n": 5,
+"enunciado": "Según el artículo 76 de la Ley 39/2015, de 1 de octubre, ¿en qué momento podrán los interesados alegar defectos de tramitación en el procedimiento administrativo?",
+"opciones": [
+"En todo momento.",
+"En cualquier momento del procedimiento anterior al trámite de audiencia.",
+"En cualquier momento del procedimiento antes de la práctica de las pruebas.",
+"En ningún momento."
+]
+},
+{
+"id": "au-15-006",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (15) - Ley 39/2015 (arts. 75 a 83)",
+"n": 6,
+"enunciado": "¿En qué plazo comunicará la Administración a los interesados el inicio de las actuaciones necesarias para la realización de las pruebas que hayan sido admitidas?",
+"opciones": [
+"Con antelación mínima de cinco días.",
+"Con antelación mínima de veinticuatro horas.",
+"Con antelación suficiente.",
+"Con antelación mínima de diez días."
+]
+},
+{
+"id": "au-15-007",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (15) - Ley 39/2015 (arts. 75 a 83)",
+"n": 7,
+"enunciado": "Los informes en un procedimiento administrativo serán, salvo disposición expresa en contrario:",
+"opciones": [
+"Facultativos y vinculantes.",
+"Facultativos y no vinculantes.",
+"Preceptivos y vinculantes.",
+"Preceptivos y no vinculantes."
+]
+},
+{
+"id": "au-15-008",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (15) - Ley 39/2015 (arts. 75 a 83)",
+"n": 8,
+"enunciado": "En el caso de reclamaciones de responsabilidad patrimonial del Estado por el funcionamiento anormal de la Administración de Justicia, será preceptivo:",
+"opciones": [
+"El informe del Consejo General del Poder Judicial, que será evacuado en el plazo máximo de dos meses.",
+"El informe del Ministro de Justicia, que será evacuado en el plazo máximo de dos meses.",
+"El informe del Ministro de Justicia, que será evacuado en el plazo máximo de tres meses.",
+"El informe del Consejo General del Poder Judicial, que será evacuado en el plazo máximo de tres meses."
+]
+},
+{
+"id": "au-15-009",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (15) - Ley 39/2015 (arts. 75 a 83)",
+"n": 9,
+"enunciado": "Señale la respuesta incorrecta. Conforme al artículo 75 de la Ley 39/2015, las aplicaciones y sistemas de información utilizados para la instrucción de los procedimientos deberán garantizar:",
+"opciones": [
+"La identificación de los órganos responsables.",
+"El control de los tiempos y plazos.",
+"La motivación de los actos administrativos.",
+"La tramitación ordenada de los expedientes."
+]
+},
+{
+"id": "au-15-010",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (15) - Ley 39/2015 (arts. 75 a 83)",
+"n": 10,
+"enunciado": "De acuerdo con la Ley 39/2015, los hechos relevantes para la decisión de un procedimiento podrán acreditarse:",
+"opciones": [
+"Por cualquier medio de prueba admisible en Derecho, a excepción de la prueba testifical.",
+"Exclusivamente a través de documentos.",
+"Mediante prueba documental o testifical, exclusivamente.",
+"Por cualquier medio de prueba admisible en Derecho."
+]
+},
+{
+"id": "au-15-011",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (15) - Ley 39/2015 (arts. 75 a 83)",
+"n": 11,
+"enunciado": "Según la Ley 39/2015, cuando lo considere necesario, el instructor, a petición de los interesados, podrá decidir la apertura de un periodo extraordinario de prueba por un plazo:",
+"opciones": [
+"No superior a 30 días, ni inferior a 10.",
+"No inferior a 15 días, ni superior a 30.",
+"No superior a 15 días.",
+"No superior a 10 días."
+]
+},
+{
+"id": "au-15-012",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (15) - Ley 39/2015 (arts. 75 a 83)",
+"n": 12,
+"enunciado": "Según la Ley 39/2015, de 1 de octubre ¿cuál de los siguientes elementos NO es preciso para que un documento formalizado por un funcionario haga prueba de lo que en él se recoge?",
+"opciones": [
+"Que se observen los requisitos legales correspondientes.",
+"Que el funcionario tenga la condición de autoridad.",
+"Que en él se recojan los hechos constatados por aquellos.",
+"Que el documento sea motivado, con sucinta referencia de hechos y fundamentos de derecho."
+]
+},
+{
+"id": "au-15-013",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (15) - Ley 39/2015 (arts. 75 a 83)",
+"n": 13,
+"enunciado": "Según la Ley 39/2015, la valoración de las pruebas practicadas deberá incluirse en la propuesta de resolución:",
+"opciones": [
+"Exclusivamente cuando constituya fundamento único de la decisión que se adopte en el procedimiento.",
+"Cuando pueda constituir el fundamento básico de la decisión que se adopte en el procedimiento.",
+"En todo caso.",
+"Siempre que la resolución sea de carácter desestimatorio."
+]
+},
+{
+"id": "au-15-014",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (15) - Ley 39/2015 (arts. 75 a 83)",
+"n": 14,
+"enunciado": "De acuerdo con la Ley 39/2015, los hechos declarados probados por resoluciones judiciales penales firmes:",
+"opciones": [
+"No vincularán a las Administraciones Públicas respecto de los procedimientos que substancien.",
+"Vincularán a las Administraciones Públicas respecto de los procedimientos sancionadores que substancien.",
+"Vincularán a las Administraciones Públicas en los procedimientos que substancien, a excepción de los sancionadores.",
+"Podrán vincular a las Administraciones Públicas respecto de los procedimientos sancionadores que substancien."
+]
+},
+{
+"id": "au-15-015",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (15) - Ley 39/2015 (arts. 75 a 83)",
+"n": 15,
+"enunciado": "Señale la respuesta incorrecta en relación con la emisión de informes a que se refiere el artículo 80 de la Ley 39/2015:",
+"opciones": [
+"Serán emitidos a través de medios electrónicos.",
+"El informe emitido fuera de plazo no podrá ser tenido en cuenta al adoptar la correspondiente resolución.",
+"Con carácter general, serán emitidos en el plazo de diez días.",
+"Salvo disposición expresa en contrario, los informes serán facultativos y no vinculantes."
+]
+}
+]
+}

@@ -1,0 +1,566 @@
+{
+"lote": 12,
+"casos": {},
+"calendarios": {},
+"preguntas": [
+{
+"id": "of-02-001",
+"origen": "oficiales",
+"test": "Temas 2-3 (2) - Ley 39/2015 (arts.13 a 33)",
+"n": 1,
+"enunciado": "Señale la afirmación correcta respecto del plazo máximo en el que debe notificarse la resolución expresa, en un procedimiento iniciado de oficio, el cual se contará, de conformidad con lo que establece el artículo 21 de la Ley 39/2015:",
+"opciones": [
+"Desde la fecha del acuerdo de iniciación.",
+"Desde la fecha de la notificación del acuerdo de inicio al interesado.",
+"Desde la fecha de la primera actuación de la Administración con el interesado.",
+"Desde la fecha de la denuncia administrativa."
+]
+},
+{
+"id": "of-02-002",
+"origen": "oficiales",
+"test": "Temas 2-3 (2) - Ley 39/2015 (arts.13 a 33)",
+"n": 2,
+"enunciado": "De acuerdo con la Ley 39/2015, cuando las normas reguladoras de los procedimientos administrativos NO fijen el plazo máximo para resolver, este será de:",
+"opciones": [
+"Tres meses.",
+"Dos meses.",
+"Seis meses.",
+"Un mes."
+]
+},
+{
+"id": "of-02-003",
+"origen": "oficiales",
+"test": "Temas 2-3 (2) - Ley 39/2015 (arts.13 a 33)",
+"n": 3,
+"enunciado": "Conforme establece la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, cuando los plazos se señalen por días:",
+"opciones": [
+"Se entiende que son hábiles, excluyendo del cómputo los domingos y festivos, pero no los sábados.",
+"Se entiende que son hábiles, excluyendo del cómputo los sábados, domingos y festivos.",
+"Se entiende que son naturales, excluyendo del cómputo los domingos y festivos, pero no los sábados.",
+"Se entiende que son naturales, excluyendo del cómputo los sábados, domingos y festivos."
+]
+},
+{
+"id": "of-02-004",
+"origen": "oficiales",
+"test": "Temas 2-3 (2) - Ley 39/2015 (arts.13 a 33)",
+"n": 4,
+"enunciado": "De acuerdo con la Ley 39/2015, la comparecencia de las personas ante las oficinas públicas ya sea presencialmente o por medios electrónicos, solo será obligatoria cuando:",
+"opciones": [
+"Así lo determinen las autoridades y personal al servicio de la AGE bajo cuya responsabilidad se tramiten los procedimientos.",
+"En todo caso.",
+"Así esté previsto en una norma con rango de reglamento.",
+"Así esté previsto en una norma con rango de ley."
+]
+},
+{
+"id": "of-02-005",
+"origen": "oficiales",
+"test": "Temas 2-3 (2) - Ley 39/2015 (arts.13 a 33)",
+"n": 5,
+"enunciado": "Según la Ley 39/2015, en relación con el silencio administrativo en procedimientos iniciados a solicitud del interesado, señale la respuesta correcta:",
+"opciones": [
+"La desestimación por silencio administrativo tiene a todos los efectos la consideración de acto administrativo finalizador del procedimiento.",
+"En los casos de estimación por silencio administrativo, la resolución expresa posterior a la producción del acto solo podrá dictarse de ser confirmatoria del mismo.",
+"El silencio tendrá efecto estimatorio en los procedimientos relativos al ejercicio del derecho de petición, a que se refiere el artículo 29 de la Constitución.",
+"Los actos administrativos producidos por silencio administrativo producen efectos desde que se expida el certificado acreditativo del mismo."
+]
+},
+{
+"id": "of-02-006",
+"origen": "oficiales",
+"test": "Temas 2-3 (2) - Ley 39/2015 (arts.13 a 33)",
+"n": 6,
+"enunciado": "De acuerdo con el artículo 21 de la Ley 39/2015, de 1 de octubre, ¿cuál es el plazo máximo en el que debe notificarse la resolución expresa en un procedimiento?",
+"opciones": [
+"1 mes.",
+"2 meses.",
+"15 días.",
+"El que fije la norma reguladora del correspondiente procedimiento."
+]
+},
+{
+"id": "of-02-007",
+"origen": "oficiales",
+"test": "Temas 2-3 (2) - Ley 39/2015 (arts.13 a 33)",
+"n": 7,
+"enunciado": "Según la Ley 39/2015, de 1 de octubre, en los procedimientos iniciados de oficio en que la Administración ejercite potestades sancionadoras, el vencimiento del plazo máximo establecido sin que se haya dictado y notificado resolución expresa produce:",
+"opciones": [
+"La estimación de las pretensiones por silencio administrativo.",
+"La caducidad del procedimiento.",
+"La desestimación de las pretensiones por silencio administrativo.",
+"La prescripción de la actuación."
+]
+},
+{
+"id": "of-02-008",
+"origen": "oficiales",
+"test": "Temas 2-3 (2) - Ley 39/2015 (arts.13 a 33)",
+"n": 8,
+"enunciado": "De acuerdo con la Ley 39/2015, el plazo máximo en el que debe notificarse la resolución expresa NO podrá exceder de:",
+"opciones": [
+"2 meses salvo que una norma con rango de Ley establezca uno mayor o así venga previsto en el Derecho de la Unión Europea.",
+"3 meses salvo que una norma con rango de Ley establezca uno mayor o así venga previsto en el Derecho de la Unión Europea.",
+"5 meses salvo que una norma con rango de Ley establezca uno mayor o así venga previsto en el Derecho de la Unión Europea.",
+"6 meses salvo que una norma con rango de Ley establezca uno mayor o así venga previsto en el Derecho de la Unión Europea."
+]
+},
+{
+"id": "of-02-009",
+"origen": "oficiales",
+"test": "Temas 2-3 (2) - Ley 39/2015 (arts.13 a 33)",
+"n": 9,
+"enunciado": "A tenor de lo indicado en el artículo 21 de la Ley 39/2015, cuando las normas reguladoras de los procedimientos no fijen el plazo máximo para su resolución, este será de:",
+"opciones": [
+"6 meses desde la fecha en que la solicitud haya tenido entrada en cualquier registro electrónico en los procedimientos iniciados a solicitud del interesado.",
+"3 meses desde la fecha del acuerdo de iniciación en los procedimientos iniciados de oficio.",
+"6 meses desde la fecha del acuerdo de iniciación en los procedimientos iniciados de oficio.",
+"3 meses desde la fecha en que la solicitud haya tenido entrada en cualquier registro electrónico en los procedimientos iniciados a solicitud del interesado."
+]
+},
+{
+"id": "of-02-010",
+"origen": "oficiales",
+"test": "Temas 2-3 (2) - Ley 39/2015 (arts.13 a 33)",
+"n": 10,
+"enunciado": "En relación con la ampliación de plazos, y de acuerdo con la Ley 39/2015, señale la respuesta correcta:",
+"opciones": [
+"La Administración podrá conceder, de oficio o a petición de los interesados, una ampliación de los plazos establecidos que no exceda de un mes.",
+"El acuerdo que deniegue una ampliación del plazo será susceptible de ser recurrido en alzada.",
+"La ampliación de los plazos por el tiempo máximo permitido se aplicará en todo caso a los procedimientos tramitados por las misiones diplomáticas y oficinas consulares.",
+"En casos excepcionales y previa justificación, podrá ser objeto de ampliación un plazo ya vencido."
+]
+},
+{
+"id": "of-02-011",
+"origen": "oficiales",
+"test": "Temas 2-3 (2) - Ley 39/2015 (arts.13 a 33)",
+"n": 11,
+"enunciado": "Señale la afirmación correcta respecto del cómputo del plazo señalado por horas, de conformidad con la Ley 39/2015:",
+"opciones": [
+"Los plazos expresados por horas no podrán tener una duración superior a 48 horas.",
+"Los plazos expresados por horas no podrán tener una duración superior a 24 horas.",
+"La Ley 39/2015 no contempla un cómputo de plazo en horas, siendo el cómputo de los plazos solo posible por días, meses o años.",
+"Los plazos expresados por horas no podrán tener una duración superior a 24 horas, salvo que por Ley o por Derecho de la Unión Europea se disponga otro superior."
+]
+},
+{
+"id": "of-02-012",
+"origen": "oficiales",
+"test": "Temas 2-3 (2) - Ley 39/2015 (arts.13 a 33)",
+"n": 12,
+"enunciado": "Según el artículo 24.1 de la Ley 39/2015, el silencio administrativo en los procedimientos de responsabilidad patrimonial iniciados a solicitud de interesado:",
+"opciones": [
+"Producirá la caducidad del procedimiento.",
+"Tendrá efecto estimatorio.",
+"Tendrá efecto estimatorio si la cantidad reclamada no excede de 50.000 euros.",
+"Tendrá efecto desestimatorio."
+]
+},
+{
+"id": "of-02-013",
+"origen": "oficiales",
+"test": "Temas 2-3 (2) - Ley 39/2015 (arts.13 a 33)",
+"n": 13,
+"enunciado": "Según el artículo 19 de la Ley 39/2015, la comparecencia de las personas ante las oficinas públicas ya sea presencialmente o por medios electrónicos:",
+"opciones": [
+"Solo será obligatoria cuando así esté previsto en una norma con rango reglamentario.",
+"Solo será obligatoria cuando asilo acuerde de oficio el órgano que tramite el procedimiento.",
+"Solo será obligatoria cuando así esté previsto en una norma con rango de ley.",
+"No será obligatoria en ningún caso."
+]
+},
+{
+"id": "of-02-014",
+"origen": "oficiales",
+"test": "Temas 2-3 (2) - Ley 39/2015 (arts.13 a 33)",
+"n": 14,
+"enunciado": "En relación con la obligación de resolver prevista en el artículo 21 de la Ley 39/2015, señale la respuesta correcta:",
+"opciones": [
+"Cuando las normas reguladoras del procedimiento no fijen un plazo máximo, este será de 6 meses.",
+"En los procedimientos iniciados a solicitud del interesado, el plazo computará desde la fecha del acuerdo de iniciación.",
+"En procedimientos sujetos al Derecho de la Unión Europea el plazo de resolución podrá exceder de 6 meses.",
+"El plazo máximo en que debe notificarse la resolución será el fijado en la norma de cada procedimiento sin que pueda exceder de 3 meses."
+]
+},
+{
+"id": "of-02-015",
+"origen": "oficiales",
+"test": "Temas 2-3 (2) - Ley 39/2015 (arts.13 a 33)",
+"n": 15,
+"enunciado": "Según el artículo 23 de la Ley 39/2015, contra el acuerdo que resuelva sobre la ampliación de plazos para resolver y notificar:",
+"opciones": [
+"Podrá interponerse recurso de alzada.",
+"Podrá interponerse recurso de reposición.",
+"Podrá interponerse recurso extraordinario de revisión.",
+"No cabrá recurso alguno."
+]
+},
+{
+"id": "of-02-016",
+"origen": "oficiales",
+"test": "Temas 2-3 (2) - Ley 39/2015 (arts.13 a 33)",
+"n": 16,
+"enunciado": "De acuerdo con lo establecido en el artículo 14 de la Ley 39/2015, del Procedimiento Administrativo de las Administraciones Públicas, ¿quién está obligado a relacionarse a través de medios electrónicos con las Administraciones Públicas?",
+"opciones": [
+"Quienes representen a un interesado que no esté obligado a relacionarse electrónicamente con la Administración.",
+"Las personas físicas.",
+"Los empleados de las Administraciones Públicas para los trámites y actuaciones que realicen con las Administraciones para la gestión de sus asuntos personales.",
+"Quienes ejerzan una actividad profesional para la que se requiera colegiación obligatoria, para los trámites y actuaciones que realicen con las Administraciones Públicas en ejercicio de dicha actividad profesional."
+]
+},
+{
+"id": "of-02-017",
+"origen": "oficiales",
+"test": "Temas 2-3 (2) - Ley 39/2015 (arts.13 a 33)",
+"n": 17,
+"enunciado": "Conforme al artículo 33 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas, ¿se puede presentar algún recurso contra el acuerdo que declare la aplicación de la tramitación de urgencia en un procedimiento?",
+"opciones": [
+"Recurso de alzada.",
+"Recurso potestativo de reposición.",
+"Recurso extraordinario de revisión.",
+"No cabrá recurso alguno, sin perjuicio del procedente contra la resolución que ponga fin al procedimiento."
+]
+},
+{
+"id": "of-02-018",
+"origen": "oficiales",
+"test": "Temas 2-3 (2) - Ley 39/2015 (arts.13 a 33)",
+"n": 18,
+"enunciado": "Según el artículo 30 de la Ley 39/2015, ¿cuál es el cómputo máximo de un plazo en horas?",
+"opciones": [
+"No hay límite.",
+"Veinticuatro horas.",
+"Cuarenta y ocho horas.",
+"Setenta y dos horas."
+]
+},
+{
+"id": "of-02-019",
+"origen": "oficiales",
+"test": "Temas 2-3 (2) - Ley 39/2015 (arts.13 a 33)",
+"n": 19,
+"enunciado": "La Ley 39/2015, establece que, salvo que una norma con rango de Ley establezca uno mayor o así venga previsto en el Derecho de la Unión Europea, el plazo máximo en el que debe notificarse la resolución expresa de un procedimiento:",
+"opciones": [
+"Será de tres meses.",
+"No podrá exceder de seis meses.",
+"Será de seis meses.",
+"Será de seis meses, ampliables una sola vez por tres meses más."
+]
+},
+{
+"id": "of-02-020",
+"origen": "oficiales",
+"test": "Temas 2-3 (2) - Ley 39/2015 (arts.13 a 33)",
+"n": 20,
+"enunciado": "Con base en lo dispuesto en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la comparecencia de las personas ante las oficinas públicas, ya sea presencialmente o por medios electrónicos, será obligatoria:",
+"opciones": [
+"Siempre.",
+"Nunca.",
+"Cuando el interesado no actúe por medio de un representante.",
+"Cuando esté previsto en una norma con rango de ley."
+]
+},
+{
+"id": "of-02-021",
+"origen": "oficiales",
+"test": "Temas 2-3 (2) - Ley 39/2015 (arts.13 a 33)",
+"n": 21,
+"enunciado": "De acuerdo con la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, el plazo máximo en que debe notificarse la resolución de un procedimiento, cuando las normas reguladoras del mismo no fijen plazo máximo, será de:",
+"opciones": [
+"Seis meses.",
+"Un mes.",
+"Tres meses.",
+"Dos meses."
+]
+},
+{
+"id": "of-02-022",
+"origen": "oficiales",
+"test": "Temas 2-3 (2) - Ley 39/2015 (arts.13 a 33)",
+"n": 22,
+"enunciado": "Según el artículo 19 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, cuando una persona deba comparecer obligatoriamente ante una oficina pública:",
+"opciones": [
+"Se le debe citar previamente fijando el lugar, hora, los medios disponibles y objeto de la comparecencia, así como los efectos de no atenderla.",
+"El personal funcionario deberá ponerse de acuerdo con la persona para preguntarle cuando le viene mejor y acordar cita.",
+"Siempre debe acudir con su abogado/a.",
+"Solo se puede citar para que comparezca en asuntos de la Agencia Tributaria."
+]
+},
+{
+"id": "of-02-023",
+"origen": "oficiales",
+"test": "Temas 2-3 (2) - Ley 39/2015 (arts.13 a 33)",
+"n": 23,
+"enunciado": "Según el artículo 30 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, siempre que por Ley o en el Derecho de la Unión Europea no se exprese otro cómputo, cuando los plazos se señalen por días se entiende que estos son:",
+"opciones": [
+"Naturales, excluyendo del cómputo los sábados, domingos y los declarados festivos.",
+"Hábiles, excluyendo del cómputo los sábados, domingos y los declarados festivos.",
+"Hábiles, incluyendo en el cómputo los sábados.",
+"Naturales, excluyendo del cómputo los sábados."
+]
+},
+{
+"id": "of-03-001",
+"origen": "oficiales",
+"test": "Temas 2-3 (3) - Ley 39/2015 (arts. 34 a 46)",
+"n": 1,
+"enunciado": "De conformidad con el artículo 39 de la Ley 39/2015, los actos de las Administraciones Públicas sujetos al derecho administrativo se presumirán válidos y producirán efectos:",
+"opciones": [
+"Desde la fecha en que se dicten, salvo que en ellos se disponga otra cosa.",
+"En todo caso desde la fecha en que se notifiquen.",
+"Desde el día siguiente a la fecha en que se dicten, salvo que en ellos se disponga otra cosa.",
+"Retroactivamente, cuando se trate de actos que produzcan efectos desfavorables al interesado."
+]
+},
+{
+"id": "of-03-002",
+"origen": "oficiales",
+"test": "Temas 2-3 (3) - Ley 39/2015 (arts. 34 a 46)",
+"n": 2,
+"enunciado": "Respecto de la forma de los actos administrativos, señale la respuesta correcta de acuerdo con el artículo 36 de la Ley 39/2015:",
+"opciones": [
+"Cuando los órganos administrativos ejerzan su competencia de forma verbal, la constancia escrita del acto, cuando sea necesaria, se efectuará y firmará por el titular del órgano superior.",
+"Los actos administrativos como nombramientos, concesiones o licencias no podrán refundirse en un único acto.",
+"Los actos administrativos se producirán por escrito a través de medios electrónicos, a menos que su naturaleza exija otra forma más adecuada de expresión y constancia.",
+"Los actos administrativos se producirán por escrito, no pudiéndose ejercerse las competencias de forma verbal."
+]
+},
+{
+"id": "of-03-003",
+"origen": "oficiales",
+"test": "Temas 2-3 (3) - Ley 39/2015 (arts. 34 a 46)",
+"n": 3,
+"enunciado": "Según el artículo 43.3 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Publicas, ¿cuándo se entenderá cumplida la obligación de la notificación electrónica de una resolución o un acto?",
+"opciones": [
+"Con la puesta a disposición de la notificación en la sede electrónica de cualquier Administración.",
+"Con su puesta a disposición en la sede electrónica de la Administración u Organismo actuante o en la dirección electrónica habilitada única.",
+"Cuando se practique la notificación presencial en el domicilio del interesado.",
+"Con la puesta a disposición de la notificación en la oficina de Correos correspondiente."
+]
+},
+{
+"id": "of-03-004",
+"origen": "oficiales",
+"test": "Temas 2-3 (3) - Ley 39/2015 (arts. 34 a 46)",
+"n": 4,
+"enunciado": "De acuerdo con la Ley 39/2015, de 1 de octubre, toda notificación deberá ser cursada dentro del plazo de:",
+"opciones": [
+"Diez días naturales a partir de la fecha en que el acto haya sido dictado.",
+"Quince días hábiles a partir de la fecha en que el acto haya sido dictado.",
+"Quince días naturales a partir de la fecha en que el acto haya sido dictado.",
+"Diez días hábiles a partir de la fecha en que el acto haya sido dictado."
+]
+},
+{
+"id": "of-03-005",
+"origen": "oficiales",
+"test": "Temas 2-3 (3) - Ley 39/2015 (arts. 34 a 46)",
+"n": 5,
+"enunciado": "De acuerdo con el artículo 35 de la Ley 39/2015, los actos que se separen del criterio seguido en actuaciones precedentes:",
+"opciones": [
+"No deberán ser motivados.",
+"Serán motivados, con sucinta referencia de hechos y fundamentos de derecho.",
+"Serán motivados bastando una referencia a los fundamentos de derecho.",
+"Su motivación será potestativa."
+]
+},
+{
+"id": "of-03-006",
+"origen": "oficiales",
+"test": "Temas 2-3 (3) - Ley 39/2015 (arts. 34 a 46)",
+"n": 6,
+"enunciado": "De acuerdo con la Ley 39/2015, las resoluciones administrativas que vulneren lo establecido en una disposición reglamentaria:",
+"opciones": [
+"Serán anulables.",
+"Serán nulas.",
+"Serán validas y producirán efectos desde la fecha en que se dicten.",
+"Producirán efectos desde la fecha en que se subsanen."
+]
+},
+{
+"id": "of-03-007",
+"origen": "oficiales",
+"test": "Temas 2-3 (3) - Ley 39/2015 (arts. 34 a 46)",
+"n": 7,
+"enunciado": "Indique qué acto administrativo debe ser objeto de motivación según el artículo 35 de la Ley 39/2015:",
+"opciones": [
+"La propuesta de resolución en un procedimiento sancionador.",
+"El requerimiento de subsanación de una solicitud presentada por el interesado.",
+"El acto de trámite que no se separe del criterio seguido en actuaciones precedentes.",
+"El acto por el que se acuerda la admisión de pruebas propuestas por el interesado."
+]
+},
+{
+"id": "of-03-008",
+"origen": "oficiales",
+"test": "Temas 2-3 (3) - Ley 39/2015 (arts. 34 a 46)",
+"n": 8,
+"enunciado": "Según el principio de inderogabilidad singular de los reglamentos recogido en el artículo 37 de la Ley 39/2015, de 1 de octubre, ¿pueden las resoluciones administrativas de carácter particular vulnerar lo establecido en una disposición de carácter general?",
+"opciones": [
+"No, en ningún caso.",
+"Sí, siempre que procedan de un órgano de igual o superior jerarquía al que dictó la disposición general.",
+"Solo cuando procedan de un órgano de superior jerarquía al que dictó la disposición general.",
+"Solo cuando procedan de un órgano de igual jerarquía que el que dictó la disposición general."
+]
+},
+{
+"id": "of-03-009",
+"origen": "oficiales",
+"test": "Temas 2-3 (3) - Ley 39/2015 (arts. 34 a 46)",
+"n": 9,
+"enunciado": "Según el artículo 42 de la Ley 39/2015, señale la respuesta correcta en relación con la práctica de las notificaciones en papel:",
+"opciones": [
+"Todas las notificaciones que se practiquen en papel deberán ser puestas a disposición del interesado en la sede electrónica de la Administración u Organismo actuante para que pueda acceder al contenido de las mismas de forma voluntaria.",
+"Si nadie se hiciera cargo de la notificación, se hará constar esta circunstancia en el expediente, junto con el día y la hora en que se intentó la notificación, intento que se repetirá por una sola vez y en una hora distinta dentro de las 48 horas siguientes.",
+"Si la notificación resulta infructuosa, se entenderá que la misma ha sido rechazada, especificándose las circunstancias del intento de notificación y el medio, dando por efectuado el trámite y siguiéndose el procedimiento.",
+"Cuando la notificación se practique en el domicilio del interesado, de no hallarse presente este, podrá hacerse cargo de la misma cualquier persona mayor de 13 años que se encuentre en el domicilio y haga constar su identidad."
+]
+},
+{
+"id": "of-03-010",
+"origen": "oficiales",
+"test": "Temas 2-3 (3) - Ley 39/2015 (arts. 34 a 46)",
+"n": 10,
+"enunciado": "El artículo 41 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas establece que las notificaciones NO se podrán efectuar en ningún caso mediante medios electrónicos cuando:",
+"opciones": [
+"Se realice con ocasión de la comparecencia espontánea del interesado o su representante en las oficinas de asistencia en materia de registro y solicite la comunicación o notificación personal en ese momento.",
+"Contengan medios de pago a favor de los obligados.",
+"Para asegurar la eficacia de la actuación administrativa resulte necesario practicar la notificación por entrega directa de un empleado público de la Administración notificante.",
+"Se envíe un aviso al dispositivo electrónico y/o a la dirección de correo electrónico que el interesado haya comunicado."
+]
+},
+{
+"id": "of-03-011",
+"origen": "oficiales",
+"test": "Temas 2-3 (3) - Ley 39/2015 (arts. 34 a 46)",
+"n": 11,
+"enunciado": "Conforme al artículo 37 de la Ley 39/2015, de 1 de octubre, la inderogabilidad singular significa que:",
+"opciones": [
+"Son anulables las resoluciones administrativas que vulneren lo establecido en una resolución de un órgano superior.",
+"Son nulas las resoluciones administrativas que contradigan otras resoluciones anteriores del mismo órgano.",
+"Las resoluciones administrativas de carácter particular no podrán vulnerar lo establecido en una disposición de carácter general.",
+"Son anulables las resoluciones administrativas que vulneren lo establecido en una disposición reglamentaria."
+]
+},
+{
+"id": "of-03-012",
+"origen": "oficiales",
+"test": "Temas 2-3 (3) - Ley 39/2015 (arts. 34 a 46)",
+"n": 12,
+"enunciado": "Conforme al artículo 45 de la Ley 39/2015, de 1 de octubre, los actos administrativos serán objeto de publicación:",
+"opciones": [
+"Cuando vayan destinados a una pluralidad indeterminada de personas.",
+"Cuando resulten de un procedimiento de responsabilidad patrimonial.",
+"Cuando sean desfavorables a los interesados.",
+"Cuando afecten a derechos e intereses legítimos de los interesados."
+]
+},
+{
+"id": "of-03-013",
+"origen": "oficiales",
+"test": "Temas 2-3 (3) - Ley 39/2015 (arts. 34 a 46)",
+"n": 13,
+"enunciado": "Señale la respuesta correcta sobre la notificación a través de medios electrónicos, de conformidad con la Ley 39/2015:",
+"opciones": [
+"La comparecencia en la sede electrónica puede consistir en el acceso del representante del interesado, debidamente identificado, al contenido de la notificación.",
+"Las notificaciones por medios electrónicos se entenderán practicadas en el momento en que se produzca el envío de su contenido por parte del órgano competente.",
+"Se entiende cumplida la obligación de notificar dentro del plazo máximo de duración de los procedimientos con la puesta a disposición de la notificación en el tablón de anuncios de la página web de la Administración actuante.",
+"Cuando la notificación por medios electrónicos sea de carácter obligatorio, se entenderá rechazada cuando hayan transcurrido diez días hábiles desde la puesta a disposición de la notificación sin que se acceda a su contenido."
+]
+},
+{
+"id": "of-03-014",
+"origen": "oficiales",
+"test": "Temas 2-3 (3) - Ley 39/2015 (arts. 34 a 46)",
+"n": 14,
+"enunciado": "Según el artículo 39 de la Ley 39/2015, excepcionalmente, podrá otorgarse eficacia retroactiva a los actos administrativos:",
+"opciones": [
+"Cuando produzcan efectos favorables al interesado, en todo caso.",
+"Cuando produzcan efectos desfavorables para el interesado.",
+"Cuando se dicten en supuestos de nulidad absoluta.",
+"Cuando se dicten en sustitución de actos anulados."
+]
+},
+{
+"id": "of-03-015",
+"origen": "oficiales",
+"test": "Temas 2-3 (3) - Ley 39/2015 (arts. 34 a 46)",
+"n": 15,
+"enunciado": "De acuerdo con el artículo 41 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común, las Administraciones Públicas podrán practicar las notificaciones por medios no electrónicos:",
+"opciones": [
+"Cuando se notifiquen actos que puedan afectar a la protección de datos personales.",
+"Cuando no haya sido posible la notificación electrónica.",
+"Cuando para asegurar la eficacia de la actuación administrativa resulte necesario practicar la notificación por entrega directa de un empleado público de la Administración notificante.",
+"A las personas jurídicas que lo soliciten."
+]
+},
+{
+"id": "of-03-016",
+"origen": "oficiales",
+"test": "Temas 2-3 (3) - Ley 39/2015 (arts. 34 a 46)",
+"n": 16,
+"enunciado": "De acuerdo con Ley 39/2015, ¿cuál de los siguientes supuestos NO podrá ser, en ningún caso, objeto de notificación electrónica?",
+"opciones": [
+"Cuando la notificación se realice con ocasión de la comparecencia espontánea del interesado o su representante en las oficinas de asistencia en materia de registro y solicite la comunicación o notificación personal en ese momento.",
+"Cuando para asegurar la eficacia de la actuación administrativa resulte necesario practicar la notificación por entrega directa de un empleado público de la Administración notificante.",
+"Aquellas en las que el acto a notificar vaya acompañado de elementos que no sean susceptibles de conversión en formato electrónico.",
+"La Ley no recoge ninguna limitación a la notificación por medios electrónicos de cualquier tipo de acto administrativo por parte de la Administración."
+]
+},
+{
+"id": "of-03-017",
+"origen": "oficiales",
+"test": "Temas 2-3 (3) - Ley 39/2015 (arts. 34 a 46)",
+"n": 17,
+"enunciado": "De conformidad con la Ley 39/2015, ¿cómo actuará una Administración Pública cuando tenga que dictar, en el ámbito de sus competencias, un acto que tenga por base otro dictado por una Administración distinta y aquella entienda que es ilegal?",
+"opciones": [
+"Solicitará dictamen al Consejo de Estado, quedando suspendido el procedimiento para dictar resolución, de acuerdo con lo dispuesto en el artículo 81 relativo a la responsabilidad patrimonial.",
+"La Administración deberá interponer recurso extraordinario de revisión ante el órgano administrativo que lo dictó, que también será el competente para su resolución.",
+"Podrá requerir a esta previamente para que anule o revise el acto según lo dispuesto en el artículo 44 de la Ley reguladora de la Jurisdicción Contencioso-Administrativa, y de rechazar el requerimiento podrá interponer recurso contencioso-administrativo.",
+"Solicitará dictamen al Consejo de Estado, y de no emitirse este en el plazo de 2 meses se podrá continuar con el procedimiento, dictando resolución prescindiendo del criterio del acto considerado ilegal."
+]
+},
+{
+"id": "of-03-018",
+"origen": "oficiales",
+"test": "Temas 2-3 (3) - Ley 39/2015 (arts. 34 a 46)",
+"n": 18,
+"enunciado": "¿Cuándo se entenderá rechazada una notificación realizada por medios electrónicos?",
+"opciones": [
+"Cuando hayan transcurrido 5 días hábiles desde su puesta a disposición sin que se acceda a su contenido.",
+"Cuando hayan transcurrido 10 días naturales desde su puesta a disposición sin que se acceda a su contenido.",
+"Cuando hayan transcurrido 10 días hábiles desde su puesta a disposición sin que se acceda a su contenido.",
+"Cuando hayan transcurrido 5 días naturales desde su puesta a disposición sin que se acceda a su contenido."
+]
+},
+{
+"id": "of-03-019",
+"origen": "oficiales",
+"test": "Temas 2-3 (3) - Ley 39/2015 (arts. 34 a 46)",
+"n": 19,
+"enunciado": "Cuando el interesado o su representante rechace la notificación de una actuación administrativa:",
+"opciones": [
+"La notificación se hará por medio de un anuncio publicado en el Boletín Oficial del Estado.",
+"La notificación se hará por medio de la publicación de un anuncio en el boletín oficial de la Comunidad Autónoma.",
+"Se hará constar en el expediente, dando por efectuado el trámite y siguiéndose el procedimiento.",
+"Se hará un segundo intento de la notificación por una sola vez y en una hora distinta dentro de los tres días siguientes."
+]
+},
+{
+"id": "of-03-020",
+"origen": "oficiales",
+"test": "Temas 2-3 (3) - Ley 39/2015 (arts. 34 a 46)",
+"n": 20,
+"enunciado": "De acuerdo con lo establecido en el artículo 35 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, ¿cuál de los siguientes actos ha de ser motivado?",
+"opciones": [
+"Los actos que acepten pruebas propuestas por los interesados.",
+"La aceptación del desistimiento de una solicitud de responsabilidad patrimonial.",
+"El acuerdo de realización de actuaciones complementarias.",
+"La propuesta de resolución de un procedimiento de responsabilidad patrimonial."
+]
+}
+]
+}

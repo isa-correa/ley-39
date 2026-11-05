@@ -1,0 +1,478 @@
+{
+ "pr-23-001": {
+  "bloque": "finalizacion",
+  "precepto": "Art. 92 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El **art. 92** dice que, en la Administración General del Estado, la responsabilidad patrimonial la resuelve “el Ministro respectivo”. Las reclamaciones se han presentado ante el Ministerio de Transportes por la caída de un pórtico en una autovía, así que resuelve su titular.",
+   "No. El art. 92 no nombra a los Secretarios de Estado: la competencia es del Ministro.",
+   "No. La Secretaría General Técnica no aparece en el art. 92. Quien resuelve es el Ministro.",
+   "No. El Consejo de Ministros solo resuelve en los casos del art. 32.3 de la Ley 40/2015 (daños causados por actos legislativos) o cuando una ley lo diga. Aquí el daño viene del mal estado de un pórtico, no de una ley."
+  ],
+  "ojo": "Regla para recordar: Ministro por defecto, y Consejo de Ministros solo si el daño viene de una ley o una ley lo manda."
+ },
+ "pr-23-002": {
+  "bloque": "iniciacion",
+  "precepto": "Art. 67.1 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Es correcto para la empresa, pero no para Nuria. Sus daños son físicos y su año no empieza con el accidente, sino con la curación (art. 67.1).",
+   "No. El plazo es de un año, no de seis meses. Seis meses es lo que tiene la Administración para resolver (art. 91.3), y además Nuria tiene otra fecha de inicio.",
+   "No. Las fechas de inicio están bien, pero te han puesto seis meses en lugar de un año. Reclamar prescribe al año (art. 67.1).",
+   "Es esta. El **art. 67.1** da un año para reclamar. La empresa cuenta desde el hecho (18 de febrero de 2026) y llega al 18 de febrero de 2027. Nuria tiene daños físicos, así que cuenta desde la curación, el alta del 30 de abril de 2026, y llega al 30 de abril de 2027."
+  ],
+  "ojo": "Daños a cosas: desde el hecho. Daños físicos o psíquicos: desde la curación o desde que se fija el alcance de las secuelas."
+ },
+ "pr-23-003": {
+  "bloque": "finalizacion",
+  "precepto": "Arts. 91.3 y 24.1 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Fallan las dos cosas: el plazo es de seis meses (art. 91.3) y el silencio es negativo en responsabilidad patrimonial (art. 24.1).",
+   "No. El sentido del silencio está bien, pero el plazo no. Tres meses es el plazo general cuando la norma no fija otro (art. 21.3), y aquí el art. 91.3 fija seis.",
+   "No. El plazo está bien, pero el silencio no es estimatorio. El art. 24.1 lo hace desestimatorio en responsabilidad patrimonial.",
+   "Es esta. El **art. 91.3** dice que, pasados seis meses desde que se inició el procedimiento sin resolución notificada, puede entenderse que la resolución es contraria a indemnizar. Es decir, silencio negativo, igual que dice el **art. 24.1**."
+  ],
+  "ojo": "No confundas: un año para reclamar (art. 67.1) y seis meses para resolver (art. 91.3)."
+ },
+ "pr-23-004": {
+  "bloque": "finalizacion",
+  "precepto": "Art. 94.3 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Ese límite es de la renuncia, no del desistimiento. El art. 94.1 dice que todo interesado puede desistir, y solo pone la condición de que no esté prohibido al hablar de renunciar a derechos.",
+   "No. El art. 94 no pone ningún límite ligado al trámite de audiencia. Se puede desistir mientras el procedimiento siga vivo.",
+   "No. La Administración no decide si le parece bien: lo acepta “de plano”, es decir, sin más (art. 94.4). Solo terceros interesados o el interés general pueden hacer que el procedimiento siga.",
+   "Es esta. El **art. 94.3** permite desistir por cualquier medio que deje constancia, siempre que lleve las firmas que correspondan. No hace falta un formato concreto. Basta con que quede claro y firmado."
+  ],
+  "ojo": "La frase “cuando no esté prohibido” va con la renuncia. Es una trampa típica aplicarla al desistimiento."
+ },
+ "pr-23-005": {
+  "bloque": "finalizacion",
+  "precepto": "Arts. 94.1 y 67.1 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Quien desiste abandona su solicitud, no su derecho (**art. 94.1**). Ruta del Olivar conserva el derecho a reclamar y puede volver a hacerlo si no ha prescrito (**art. 67.1**). Contando desde el accidente, el año llega al 18 de febrero de 2027, así que el 5 de octubre de 2026 aún está a tiempo.",
+   "No. La ley no obliga a mantener la misma cuantía. En la nueva solicitud se evalúan los daños de nuevo (art. 67.2).",
+   "No. Eso sería renunciar, no desistir. El desistimiento afecta solo a la solicitud y deja intacto el derecho.",
+   "No. No hace falta anular nada. La resolución que declara concluso el procedimiento solo cierra ese expediente, y la empresa puede abrir otro."
+  ],
+  "ojo": "Desistir es “dejo esta petición”. Renunciar es “dejo mi derecho”. Después de desistir puedes volver. Después de renunciar, no."
+ },
+ "pr-23-006": {
+  "bloque": "finalizacion",
+  "precepto": "Art. 94.2 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Olvida que el escrito lo firmaron dos personas. El desistimiento de una no termina el procedimiento para la otra (art. 94.2).",
+   "No. Nuria no tiene que pedir que siga nada. Los diez días son para terceros interesados personados (art. 94.4), y ella es solicitante: su propia petición sigue en pie.",
+   "Es esta. La empresa y Nuria presentaron un único escrito, y el **art. 94.2** dice que entonces el desistimiento solo afecta a quien lo formula. La reclamación de Nuria por sus lesiones sigue su curso, así que el procedimiento no se cierra.",
+   "No. El interés general es otro motivo para continuar (art. 94.5), pero aquí no hace falta. El procedimiento sigue porque Nuria no ha desistido."
+  ],
+  "ojo": "Fíjate en la diferencia: cosolicitante (art. 94.2) no es lo mismo que tercero personado (art. 94.4)."
+ },
+ "pr-23-007": {
+  "bloque": "finalizacion",
+  "precepto": "Art. 94.4 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. La conformidad del tercero no es un requisito. Lo que puede hacer el tercero es pedir que siga el procedimiento (art. 94.4). Si no lo pide, se cierra.",
+   "No. Personarse no basta. Rescate Vial tiene que instar la continuación, es decir, pedirla, en los diez días siguientes a la notificación de la renuncia.",
+   "Es esta. El **art. 94.4** dice que la Administración acepta la renuncia y declara concluso el procedimiento, salvo que terceros personados pidan seguir en diez días desde que se les notifique. Rescate Vial se personó en el expediente del RO-32, así que tiene esa opción.",
+   "No. La palabra “necesariamente” lo estropea. Con terceros personados, la terminación no es automática: depende de que no pidan continuar (art. 94.4)."
+  ],
+  "ojo": "Compara con la pregunta anterior: Nuria firmó la solicitud y no tiene que pedir nada. Rescate Vial es un tercero personado y sí debe pedirlo."
+ },
+ "pr-23-008": {
+  "bloque": "finalizacion",
+  "precepto": "Arts. 84.1 y 94.1 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Esto vale para quien desiste, no para quien renuncia. Aquí el problema no es la prescripción: la empresa ya ha abandonado el derecho.",
+   "No. La cuantía no tiene nada que ver. Por mucho que mantenga la cifra, ya no tiene derecho a reclamar por esos daños.",
+   "Es esta. La renuncia recae sobre el derecho mismo: el **art. 84.1** habla de “renuncia al derecho en que se funde la solicitud”, y el **art. 94.1** de renunciar a sus derechos. Si Ruta del Olivar ha renunciado a ser indemnizada por el RO-32, no puede volver a reclamar por esos mismos daños.",
+   "No. Eso describe mejor al desistimiento, que solo cierra ese procedimiento. La renuncia va más allá, porque hace desaparecer el derecho."
+  ],
+  "ojo": "La ley no lo dice con una frase expresa: se deduce de que lo que se abandona es el derecho. Compáralo con la pregunta del RO-4, donde sí se podía volver."
+ },
+ "pr-24-001": {
+  "bloque": "finalizacion",
+  "precepto": "Arts. 96.3 y 30.2 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Es contar cinco días naturales. Los días son hábiles salvo que se diga otra cosa (art. 30.2), así que el sábado 3 y el domingo 4 no cuentan.",
+   "Es esta. El **art. 96.3** da cinco días desde la presentación, y son hábiles (**art. 30.2**). Desde el viernes 2 de octubre se cuentan el lunes 5, martes 6, miércoles 7, jueves 8 y viernes 9. Ese viernes 9 es el último día.",
+   "No. Para llegar al martes 13 tendrías que contar seis días hábiles, saltando el fin de semana y la fiesta nacional del lunes 12. Son cinco y acaban antes del puente.",
+   "No. El lunes 19 sale de contar diez días hábiles. Diez es el plazo de subsanar (art. 68.1), no el de pronunciarse sobre la tramitación simplificada, que es de cinco."
+  ]
+ },
+ "pr-24-002": {
+  "bloque": "finalizacion",
+  "precepto": "Art. 96.3 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Es al revés. Aquí la ley hace negativo el silencio: pasados los cinco días “se entenderá desestimada” (art. 96.3).",
+   "Es esta. El **art. 96.3** dice que el órgano puede desestimar la solicitud en cinco días “sin que exista posibilidad de recurso”, y que, pasado ese plazo, se entiende desestimada. Luz de Sierra se habría quedado en tramitación ordinaria, sin poder recurrir esa decisión.",
+   "No. El sentido del silencio está bien, pero el art. 96.3 descarta el recurso. La empresa no podría recurrir en vía administrativa.",
+   "No. Tampoco cabe ir directamente al contencioso por esto. El art. 96.3 no abre esa vía: solo dice que no hay posibilidad de recurso."
+  ],
+  "ojo": "El art. 24.2 dice que la desestimación por silencio permite recurrir, y por eso esta opción engaña. Aquí manda la regla especial del art. 96.3."
+ },
+ "pr-24-003": {
+  "bloque": "finalizacion",
+  "precepto": "Art. 96.1 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El art. 96.1 habla de razones de interés público, no del interés particular de quien quiere ir más rápido.",
+   "No. Que se acerque el final del plazo no es una de las dos razones del art. 96.1. Además, en este caso solo quedaba un mes para que venciera.",
+   "Es esta. El **art. 96.1** permite la tramitación simplificada cuando lo aconsejen razones de interés público o “la falta de complejidad del procedimiento”. Encaja con este rodaje: dos mañanas, equipo reducido, decorado desmontable, sin drones ni embarcaciones.",
+   "No. La ley sí pone causas concretas: las dos del art. 96.1. El órgano no decide libremente, y si no concurre ninguna puede desestimar (art. 96.3)."
+  ]
+ },
+ "pr-24-004": {
+  "bloque": "finalizacion",
+  "precepto": "Arts. 96.6 y 21.3.b) de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El **art. 96.6** da 30 días “salvo que reste menos para su tramitación ordinaria”. El plazo ordinario es de tres meses desde la entrada de la solicitud (**art. 21.3.b**): del 3 de agosto al 3 de noviembre de 2026, martes y hábil. Como quedaba menos que esos 30 días, manda el 3 de noviembre.",
+   "No. El domingo 8 de noviembre sale de contar 30 días naturales desde el 9 de octubre. Pero los días son hábiles, y además aquí manda el plazo ordinario, que termina antes.",
+   "No. Es el mismo error de contar 30 días naturales, pasando luego del domingo al lunes (art. 30.5). Y olvida que el plazo ordinario acaba antes, el 3 de noviembre.",
+   "No. Es el resultado aproximado de contar 30 días hábiles desde el 10 de octubre. Ese sería el plazo si restara más, pero el plazo ordinario termina antes y por eso se aplica el 3 de noviembre."
+  ],
+  "ojo": "La trampa está en “salvo que reste menos”. Calcula siempre los dos plazos y quédate con el que acaba antes."
+ },
+ "pr-24-005": {
+  "bloque": "finalizacion",
+  "precepto": "Arts. 96.6.b), 66.1.e) y 68.1 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Cinco días son las alegaciones del inicio en la tramitación simplificada (art. 96.6.c). Para subsanar, la tramitación simplificada no acorta el plazo: son diez días.",
+   "No. El plazo de siete días no aparece en ninguno de estos artículos. Subsanar son diez días (art. 68.1).",
+   "Es esta. La firma, o acreditar de otro modo la autenticidad de la voluntad, es un requisito de la solicitud (**art. 66.1.e**). Si falta, se requiere para subsanar en diez días (**art. 68.1**), y la subsanación es uno de los trámites de la tramitación simplificada (**art. 96.6.b**).",
+   "No. La subsanación sí está prevista: es la letra b) del art. 96.6. Por eso no hay que pasar a la tramitación ordinaria (art. 96.7)."
+  ]
+ },
+ "pr-24-006": {
+  "bloque": "finalizacion",
+  "precepto": "Art. 96.6.d) y 96.7 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. La prueba (art. 77) no está en la lista del art. 96.6. Si hiciera falta, habría que pasar a la tramitación ordinaria (art. 96.7).",
+   "No. La información pública (art. 83) tampoco está en esa lista, así que exigiría seguir por la vía ordinaria (art. 96.7).",
+   "Es esta. El **art. 96.6.d)** incluye la audiencia “únicamente cuando la resolución vaya a ser desfavorable para el interesado”. Si la Confederación va a denegar a Luz de Sierra, hace la audiencia sin salir de la tramitación simplificada.",
+   "No. Las actuaciones complementarias (art. 87) no aparecen en el art. 96.6. Si fueran necesarias, se seguiría por la vía ordinaria (art. 96.7)."
+  ],
+  "ojo": "La lista del art. 96.6 es cerrada: cualquier trámite que no esté ahí obliga a la tramitación ordinaria."
+ },
+ "pr-24-007": {
+  "bloque": "finalizacion",
+  "precepto": "Art. 96.6.g) de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. El dictamen es uno de los trámites de la tramitación simplificada, así que no obliga a salir de ella. Solo se pasa a la ordinaria si el dictamen es contrario al fondo de la propuesta.",
+   "No. No es automático: el dictamen “podrá” emitirse en quince días si así lo solicita el órgano competente (art. 96.6.g).",
+   "No. Ese plazo de un mes no aparece en el art. 96.6.g). La única reducción que prevé es a quince días, y hay que pedirla.",
+   "Es esta. El **art. 96.6.g)** dice que, desde que se solicita el dictamen hasta que se emite, se produce la “suspensión automática” del plazo para resolver. El reloj se para sin que nadie tenga que acordarlo."
+  ],
+  "ojo": "Aquí sí es automática la suspensión. Lo que no es automático es el plazo de quince días."
+ },
+ "pr-24-008": {
+  "bloque": "finalizacion",
+  "precepto": "Art. 96.6.g) de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. El art. 96.6.g) dice “con independencia de que se atienda o no este criterio”. El órgano puede seguirlo o no, así que no está obligado a resolver de acuerdo con él.",
+   "Es esta. El **art. 96.6.g)** manda que, si el dictamen es contrario al fondo de la propuesta, el órgano acuerde continuar con la tramitación ordinaria y lo notifique. Lo hecho hasta entonces queda convalidado (sirve), salvo el propio dictamen.",
+   "No. No se cierra ni se empieza otro procedimiento. Es el mismo, que continúa por la vía ordinaria y conserva lo hecho.",
+   "No. Sí se formula propuesta. El art. 96.6.g) dice que, en el expediente que se envía al Consejo de Estado, “se incluirá una propuesta de resolución”."
+  ]
+ },
+ "pr-25-001": {
+  "bloque": "revision",
+  "precepto": "Art. 107.1 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. El art. 106 es para actos nulos (art. 47.1). Aquí el vicio es de anulabilidad.",
+   "Es esta. El **art. 107.1** es la vía para los actos favorables que sean anulables. La Administración no puede quitarlos sola: los declara lesivos para el interés público y los impugna ante el juez.",
+   "No. La revocación sirve para actos de gravamen o desfavorables (art. 109.1), no para actos favorables.",
+   "No. La rectificación solo corrige errores materiales, de hecho o aritméticos (art. 109.2). Un vicio de anulabilidad no es una errata."
+  ]
+ },
+ "pr-25-002": {
+  "bloque": "revision",
+  "precepto": "Art. 106.1 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Si el acto está en uno de los casos de nulidad del art. 47.1, la vía es el **art. 106.1**. La Administración lo declara nulo ella misma, en cualquier momento y con dictamen favorable del Consejo de Estado o del órgano consultivo equivalente.",
+   "No. La lesividad es para actos favorables anulables (art. 107), no para nulos.",
+   "No. La revocación es para actos de gravamen o desfavorables (art. 109.1), y este es favorable.",
+   "No. La rectificación corrige erratas evidentes (art. 109.2), no vicios de nulidad."
+  ],
+  "ojo": "En la revisión del art. 106 da igual que el acto sea favorable: lo que cuenta es que sea nulo."
+ },
+ "pr-25-003": {
+  "bloque": "revision",
+  "precepto": "Art. 109.1 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El art. 106 exige un vicio de nulidad. Aquí el enunciado solo habla de dejar sin efecto actos desfavorables.",
+   "No. La lesividad es solo para actos favorables y anulables (art. 107.1). Este es desfavorable.",
+   "Es esta. El **art. 109.1** permite revocar los actos de gravamen o desfavorables mientras no haya prescrito el plazo, siempre que no sea una dispensa no permitida ni vaya contra la igualdad, el interés público o el ordenamiento.",
+   "No. La rectificación no deja sin efecto el acto: solo corrige errores materiales, de hecho o aritméticos (art. 109.2)."
+  ]
+ },
+ "pr-25-004": {
+  "bloque": "revision",
+  "precepto": "Art. 109.2 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Un error material no es un caso de nulidad del art. 47.1, y por eso no se usa el art. 106.",
+   "No. La lesividad es para actos favorables anulables (art. 107). Un error de este tipo se corrige sin ir al juez.",
+   "No. Que el acto sea desfavorable hace pensar en la revocación, pero aquí no se quiere dejarlo sin efecto, sino corregir un error. Para eso está el art. 109.2.",
+   "Es esta. El **art. 109.2** permite rectificar en cualquier momento, de oficio o a instancia de los interesados, los errores materiales, de hecho o aritméticos. No distingue si el acto es favorable o desfavorable."
+  ]
+ },
+ "pr-25-005": {
+  "bloque": "revision",
+  "precepto": "Art. 109.2 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Un error material no es causa de nulidad del art. 47.1. Por eso no hace falta el art. 106.",
+   "No. Que el acto sea favorable hace pensar en la lesividad, pero esta es para vicios de anulabilidad (art. 107), no para erratas.",
+   "No. La revocación se limita a actos de gravamen o desfavorables (art. 109.1), y este es favorable.",
+   "Es esta. El **art. 109.2** habla de errores existentes “en sus actos”, sin distinguir. Da igual que el error favorezca o perjudique al interesado: se rectifica igual, en cualquier momento."
+  ],
+  "ojo": "En errores, lo favorable o desfavorable no cambia la vía. Compárala con la pregunta anterior: misma respuesta."
+ },
+ "pr-26-001": {
+  "bloque": "revision",
+  "precepto": "Arts. 47.1.f) y 106.1 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. D.ª Florencia ha adquirido un derecho por silencio sin tener los requisitos esenciales. Eso es nulidad: el **art. 47.1.f)** incluye los actos “expresos o presuntos” en esa situación. Y los actos nulos se revisan por el **art. 106**.",
+   "No. La lesividad es para actos favorables anulables (art. 107). Este acto es favorable, pero nulo, no anulable.",
+   "No. La revocación es para actos desfavorables (art. 109.1), y la autorización beneficia a D.ª Florencia.",
+   "No. No hay ninguna errata que corregir. Falta un requisito esencial, y eso no se arregla con el art. 109.2."
+  ],
+  "ojo": "Un acto presunto (por silencio) también puede ser nulo. Pista: “carecer de requisitos esenciales” lleva al art. 47.1.f)."
+ },
+ "pr-26-002": {
+  "bloque": "revision",
+  "precepto": "Arts. 48.2 y 109.1 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El defecto de forma que causa indefensión es anulabilidad (art. 48.2), no uno de los casos de nulidad del art. 47.1.",
+   "No. El vicio es de anulabilidad, pero la lesividad solo vale para actos favorables (art. 107.1). Una sanción perjudica a Fernandito.",
+   "Es esta. La sanción es un acto desfavorable para Fernandito, y el defecto de forma con indefensión la hace anulable (art. 48.2). Para dejar sin efecto un acto de gravamen, la vía es revocarlo (**art. 109.1**).",
+   "No. Un defecto de forma que causa indefensión no es un error material, de hecho o aritmético (art. 109.2)."
+  ],
+  "ojo": "Método rápido: primero, ¿es nulo? Si no lo es, mira si es favorable (lesividad) o desfavorable (revocación)."
+ },
+ "pr-26-003": {
+  "bloque": "revision",
+  "precepto": "Art. 109.2 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Un error aritmético no aparece entre las causas de nulidad del art. 47.1.",
+   "No. Aunque el acto favorece a D. Valentín, no hay que ir al juez por una cuenta mal hecha. La lesividad es para otros vicios (art. 107).",
+   "No. La revocación es para actos desfavorables (art. 109.1). Además, aquí no se trata de quitar el acto, sino de corregir la cifra.",
+   "Es esta. El propio enunciado dice que hay un error aritmético: 75.000 euros en lugar de los 7.500 solicitados y justificados. El **art. 109.2** permite rectificarlo en cualquier momento, aunque el error favorezca a D. Valentín."
+  ]
+ },
+ "pr-26-004": {
+  "bloque": "revision",
+  "precepto": "Arts. 48.1 y 107.1 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Valorar un mérito que las bases no contemplan es una infracción del ordenamiento, pero no está entre los casos de nulidad del art. 47.1. Es anulabilidad (art. 48.1).",
+   "Es esta. La subvención favorece a don Bonifacio y tiene una infracción del ordenamiento que la hace anulable (art. 48.1). Para un acto favorable y anulable, la vía es declararlo lesivo e impugnarlo ante el juez (**art. 107.1**).",
+   "No. La revocación es para actos desfavorables (art. 109.1), y la subvención es favorable.",
+   "No. Un error de valoración jurídica no es una errata evidente. La rectificación del art. 109.2 no sirve para volver a juzgar el fondo."
+  ]
+ },
+ "pr-26-005": {
+  "bloque": "revision",
+  "precepto": "Arts. 47.1.d) y 106.1 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. La ayuda de don Casimiro se concedió como consecuencia de un delito de falsedad documental. El **art. 47.1.d)** declara nulos los actos dictados como consecuencia de una infracción penal, y los actos nulos se revisan por el **art. 106**.",
+   "No. Es favorable, pero nulo, no anulable. La lesividad (art. 107) no se aplica.",
+   "No. La revocación es para actos desfavorables (art. 109.1), y la ayuda beneficia a don Casimiro.",
+   "No. Un delito no es un error material. El art. 109.2 no puede usarse para esto."
+  ]
+ },
+ "pr-27-001": {
+  "bloque": "revision",
+  "precepto": "Arts. 48.1 y 107.1 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. La desviación de poder (usar una potestad para un fin distinto del previsto) no está en el art. 47.1. El art. 48.1 la cita expresamente como anulabilidad.",
+   "Es esta. La autorización favorece a doña Abelina y la desviación de poder la hace anulable: el **art. 48.1** dice “incluso la desviación de poder”. Para un acto favorable y anulable, la vía es la lesividad (**art. 107.1**).",
+   "No. La revocación es para actos desfavorables (art. 109.1), y esta autorización beneficia a doña Abelina.",
+   "No. La desviación de poder no es un error material, de hecho o aritmético (art. 109.2)."
+  ],
+  "ojo": "Suena muy grave, pero la desviación de poder es anulabilidad, no nulidad."
+ },
+ "pr-27-002": {
+  "bloque": "revision",
+  "precepto": "Art. 109.2 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Conceder una cifra equivocada no es uno de los casos de nulidad del art. 47.1.",
+   "No. El acto favorece a D. Gregorio, pero aquí no hay que discutir ninguna valoración ante el juez. Es una cifra equivocada que se ve al comparar con lo reclamado.",
+   "No. La revocación es para actos desfavorables (art. 109.1), y este favorece a D. Gregorio.",
+   "Es esta. D. Gregorio reclamó y justificó 250 euros, y la resolución dice 250.000. El fallo se ve con solo comparar las cifras, así que es un error material o aritmético que se corrige en cualquier momento por el **art. 109.2**."
+  ],
+  "ojo": "Un error se rectifica por el art. 109.2 solo si es evidente y no exige interpretar normas. Aquí basta comparar dos cifras del expediente: 250 euros pedidos, 250.000 concedidos."
+ },
+ "pr-27-003": {
+  "bloque": "revision",
+  "precepto": "Arts. 47.1.b), 48.1 y 109.1 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. La incompetencia solo causa nulidad si es manifiesta y por razón de la materia o del territorio (art. 47.1.b). La jerárquica no es nulidad, sino anulabilidad.",
+   "No. El vicio es de anulabilidad, pero la lesividad exige un acto favorable (art. 107.1). Una sanción no lo es.",
+   "Es esta. La incompetencia por razón de la jerarquía queda fuera del **art. 47.1.b)**, así que el acto es anulable (art. 48.1). Como la sanción es desfavorable para D.ª Ana, la vía es revocarla (**art. 109.1**).",
+   "No. Que la haya dictado un órgano sin competencia no es un error material, de hecho o aritmético (art. 109.2)."
+  ],
+  "ojo": "Nulidad: incompetencia manifiesta por materia o territorio. Por jerarquía: anulabilidad."
+ },
+ "pr-27-004": {
+  "bloque": "revision",
+  "precepto": "Arts. 47.1.e) y 106.1 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Dictar una resolución prescindiendo “total y absolutamente” del procedimiento es nulidad (**art. 47.1.e**). Por eso la vía es el **art. 106**, aunque la beca favorezca a Manolito.",
+   "No. Aunque el acto es favorable, es nulo y no anulable. La lesividad (art. 107) no se aplica.",
+   "No. La revocación es para actos desfavorables (art. 109.1), y la beca es favorable.",
+   "No. Saltarse todo el procedimiento no es una errata que pueda rectificarse (art. 109.2)."
+  ]
+ },
+ "pr-27-005": {
+  "bloque": "revision",
+  "precepto": "Arts. 48.1 y 109.1 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Exigir un requisito que la norma no pide es una infracción del ordenamiento, pero no encaja en ningún caso del art. 47.1. Es anulabilidad (art. 48.1).",
+   "No. La lesividad solo vale para actos favorables (art. 107.1), y una denegación no lo es.",
+   "Es esta. La resolución deniega la inscripción a doña Hermenegilda y don Saturnino, así que es un acto desfavorable. Para dejarlo sin efecto, la vía es la revocación (**art. 109.1**), que permite a la Administración corregir su decisión sin ir al juez.",
+   "No. No es una errata, sino una exigencia equivocada de un requisito: una mala aplicación de la norma que no corrige el art. 109.2."
+  ]
+ },
+ "pr-28-001": {
+  "bloque": "revision",
+  "precepto": "Arts. 47.1.d) y 106.1 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Una sentencia penal firme dice que la autorización a Autocares Sierra Norte se concedió como consecuencia directa de una falsedad. Es nulidad: el **art. 47.1.d)** recoge los actos dictados como consecuencia de una infracción penal. Y la vía para los actos nulos es la revisión del **art. 106.1**.",
+   "No. La lesividad es para actos anulables (art. 107), y este es nulo.",
+   "No. La revocación es para actos desfavorables (art. 109.1), y esta autorización favorece a la empresa.",
+   "No. Un certificado falsificado no es un error material ni aritmético (art. 109.2)."
+  ]
+ },
+ "pr-28-002": {
+  "bloque": "revision",
+  "precepto": "Art. 106.1 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Eso es la lesividad. La revisión de actos nulos también puede iniciarse a solicitud de interesado (art. 106.1).",
+   "No. Pueden pedirla los interesados, pero no solo ellos. La Administración también puede actuar por iniciativa propia (art. 106.1).",
+   "Es esta. El **art. 106.1** dice que la Administración actúa “por iniciativa propia o a solicitud de interesado”. La nulidad de la autorización de Autocares Sierra Norte se pudo poner en marcha de cualquiera de las dos formas.",
+   "No. El Consejo de Estado no inicia nada: emite un dictamen, que aquí debe ser favorable para poder declarar la nulidad (art. 106.1)."
+  ]
+ },
+ "pr-28-003": {
+  "bloque": "revision",
+  "precepto": "Art. 106.1 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Con el **art. 106.1**, la propia Administración declara la nulidad de la autorización. No hace falta ir después al juez: su declaración basta para dejar sin efecto el acto.",
+   "No. Mezcla dos vías. Impugnar ante los tribunales después de la declaración es propio de la lesividad (art. 107.1), no de los actos nulos.",
+   "No. La autorización es nula, no anulable. Además, la anulabilidad la declara el juez, no la Administración como paso previo.",
+   "No. Esa es la finalidad de la lesividad (art. 107.1), que se reserva para actos anulables favorables."
+  ],
+  "ojo": "Nulo: la Administración lo anula sola. Anulable y favorable: lo declara lesivo y lo anula el juez."
+ },
+ "pr-28-004": {
+  "bloque": "revision",
+  "precepto": "Art. 106.1 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. La nulidad no tiene un plazo de un año. El art. 106.1 dice “en cualquier momento”.",
+   "No. Es contar cuatro años. Esa es la lógica de la lesividad, que no puede adoptarse pasados cuatro años desde que se dictó el acto (art. 107.2). No vale para actos nulos.",
+   "No. El art. 106.1 no pone límite de cinco años ni de ningún otro número.",
+   "Es esta. El **art. 106.1** permite declarar la nulidad “en cualquier momento”. El único freno general es el art. 110: no se puede revisar si, por el tiempo pasado u otras circunstancias, resulta contrario a la equidad, la buena fe, el derecho de los particulares o las leyes."
+  ]
+ },
+ "pr-28-005": {
+  "bloque": "revision",
+  "precepto": "Art. 106.5 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El efecto está bien, pero el plazo no. Tres meses es el plazo supletorio (art. 21.3), y el art. 106.5 fija seis.",
+   "No. El plazo es correcto, pero la caducidad se produce cuando el procedimiento se inició de oficio. Aquí lo pide otra empresa.",
+   "Es esta. El **art. 106.5** dice que, pasados seis meses, si el procedimiento se inició a solicitud de interesado, la solicitud se puede entender desestimada por silencio. La empresa competidora podría entonces recurrir esa desestimación.",
+   "No. Los interesados pueden pedir la revisión de actos nulos (art. 106.1). Solo la lesividad queda fuera de esa posibilidad."
+  ],
+  "ojo": "Misma vía, distinto efecto: de oficio, caducidad; a solicitud de interesado, silencio negativo."
+ },
+ "pr-28-006": {
+  "bloque": "revision",
+  "precepto": "Arts. 48.1 y 107.1 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Atribuir puntos por una circunstancia que las bases no contemplan es una infracción del ordenamiento, pero no entra en ningún caso del art. 47.1. Es anulabilidad (art. 48.1).",
+   "Es esta. La subvención favorece a Movilidad Verde y la infracción la hace anulable (art. 48.1). Para un acto favorable y anulable, el **art. 107.1** obliga a declararlo lesivo para el interés público e impugnarlo ante los tribunales.",
+   "No. La revocación es para actos desfavorables (art. 109.1), y una subvención de 300.000 euros es favorable.",
+   "No. Dar quince puntos por un criterio no previsto es un error de valoración, no una errata evidente. No se corrige por el art. 109.2."
+  ],
+  "ojo": "Aunque sin esos puntos la empresa no habría obtenido la subvención, el caso no habla de falta de requisitos esenciales (art. 47.1.f), sino de un mérito mal valorado."
+ },
+ "pr-28-007": {
+  "bloque": "revision",
+  "precepto": "Art. 107.1 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El **art. 107.1** presenta la lesividad como una facultad de la Administración: ella decide impugnar sus propios actos favorables. A diferencia del art. 106.1, no menciona la solicitud de interesado. Por eso solo se inicia de oficio.",
+   "No. Es justo al contrario. Los interesados no pueden iniciar la lesividad: la iniciativa es solo de la Administración.",
+   "No. Esa es la fórmula de la revisión de actos nulos (art. 106.1). En la lesividad, el art. 107 no prevé la solicitud de interesado.",
+   "No. El Consejo de Estado no inicia procedimientos, y en la lesividad el art. 107 ni siquiera exige su dictamen."
+  ],
+  "ojo": "El art. 107 no dice literalmente “únicamente de oficio”: se deduce comparándolo con el art. 106.1."
+ },
+ "pr-28-008": {
+  "bloque": "revision",
+  "precepto": "Art. 107.1 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. La subvención no es nula, sino anulable. La Administración no puede anularla por sí misma.",
+   "No. Mezcla dos vías: no es nula, y lo que se exige antes de impugnar no es declarar la nulidad, sino la lesividad.",
+   "No. La Administración no declara la anulabilidad. Eso lo decide el juez, una vez que se impugna el acto.",
+   "Es esta. El **art. 107.1** dice que la Administración puede impugnar ante lo contencioso-administrativo los actos favorables anulables, “previa su declaración de lesividad para el interés público”. La declaración no anula la subvención: abre la puerta al juez, que es quien decide."
+  ]
+ },
+ "pr-28-009": {
+  "bloque": "revision",
+  "precepto": "Art. 107.2 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Un año es demasiado poco. El art. 107.2 da cuatro años.",
+   "Es esta. El **art. 107.2** dice que la lesividad no puede adoptarse pasados cuatro años desde que se dictó el acto. La subvención se concedió el 20 de septiembre de 2023, así que el límite es el 20 de septiembre de 2027.",
+   "No. Eso serían cinco años. El art. 107.2 dice cuatro.",
+   "No. “En cualquier momento” es de la nulidad (art. 106.1). La lesividad tiene un límite de cuatro años."
+  ],
+  "ojo": "Los cuatro años cuentan desde que se dictó el acto, no desde que se notificó ni desde que se descubrió el vicio."
+ },
+ "pr-28-010": {
+  "bloque": "revision",
+  "precepto": "Art. 107.3 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Fallan el plazo y el efecto. Son seis meses (art. 107.3), y el silencio negativo es para procedimientos iniciados a solicitud de interesado.",
+   "No. El efecto es el correcto, pero el plazo no: son seis meses, no tres (art. 107.3).",
+   "No. El plazo es correcto, pero el efecto no. Al iniciarse de oficio, no hay solicitud que desestimar: se produce la caducidad (art. 107.3).",
+   "Es esta. El **art. 107.3** dice que, pasados seis meses desde que se inició el procedimiento sin declarar la lesividad, se produce la caducidad. Es decir, el procedimiento de Movilidad Verde se archivaría por agotar el tiempo."
+  ],
+  "ojo": "La caducidad cierra el procedimiento, pero no prohíbe por sí misma empezar otro si aún no han pasado los cuatro años del art. 107.2."
+ }
+}

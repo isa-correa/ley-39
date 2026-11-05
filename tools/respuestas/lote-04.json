@@ -1,0 +1,380 @@
+{
+"au-08-001": {
+ "bloque": "actos",
+ "precepto": "Art. 40.4 de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. El **art. 40.4** fija el mínimo para que la Administración cumpla a tiempo con su obligación de notificar: el texto íntegro de la resolución y el intento de notificación debidamente acreditado. Es decir, basta con demostrar que intentó notificar la resolución completa dentro del plazo máximo, aunque el interesado no la haya recibido.",
+  "No. El fallo solo (la parte final, lo que se decide) no basta: hace falta el **texto íntegro** de la resolución y, además, el intento acreditado.",
+  "No. Decir si pone fin o no a la vía administrativa es un requisito de la notificación completa (art. 40.2), no del mínimo del art. 40.4. Lo que falta aquí es el intento de notificación acreditado.",
+  "No. Indicar los recursos también es un requisito de la notificación completa (art. 40.2). Para el mínimo del art. 40.4, lo que acompaña al texto íntegro es el intento de notificación acreditado."
+ ],
+ "ojo": "No confundas el art. 40.2 (lo que debe llevar toda notificación) con el art. 40.4 (lo mínimo para considerar cumplido el plazo máximo)."
+},
+"au-08-002": {
+ "bloque": "actos",
+ "precepto": "Art. 41.1 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. Es justo al revés: la preferencia la tienen los medios electrónicos, no los no electrónicos (art. 41.1).",
+  "Es esta. El **art. 41.1** dice que las notificaciones se practican “preferentemente por medios electrónicos”. Y son electrónicas siempre cuando el interesado está obligado a recibirlas así.",
+  "No. “En todo caso” es demasiado. Solo es obligatorio cuando el interesado está obligado a recibirlas por esa vía. Para los demás, lo electrónico es solo lo preferente.",
+  "No. La ley no impone el papel en todo caso. Al contrario, da preferencia a lo electrónico. Lo que nunca puede ser electrónico son los casos concretos del art. 41.2."
+ ],
+ "ojo": "La trampa está en “en todo caso”. La regla general es “preferentemente”, y “en todo caso” se reserva para quien está obligado."
+},
+"au-08-003": {
+ "bloque": "actos",
+ "precepto": "Art. 41.1 de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "No. Este supuesto es verdadero (art. 41.1.b), pero no es el único: la opción d recoge también el de la comparecencia espontánea, así que es la respuesta completa.",
+  "No. Este supuesto también es verdadero (art. 41.1.a), pero se queda a medias: hay otro, el de la entrega directa por un empleado público. Por eso la buena es la d.",
+  "No. Ser persona física no es motivo para notificar en papel a quien está obligado a recibir electrónicamente. Una persona física puede estar obligada (art. 14.2 y 14.3), y entonces sigue la regla general.",
+  "Es esta. El **art. 41.1** da dos excepciones: a) cuando el interesado o su representante aparece por iniciativa propia en la oficina de registro y pide allí la notificación, y b) cuando hace falta que la entregue directamente un empleado público para asegurar la eficacia de la actuación. Son justo las opciones a y b."
+ ]
+},
+"au-08-004": {
+ "bloque": "actos",
+ "precepto": "Art. 41.1 de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Esta es la falsa, y por eso es la que hay que marcar. El dispositivo o el correo que da el interesado sirve solo para enviarle **avisos**, no para practicar notificaciones (**art. 41.1**), y no forma parte de la lista de lo que debe constar. Esa lista es: envío o puesta a disposición, recepción o acceso, fechas y horas, contenido íntegro e identidad de remitente y destinatario.",
+  "Es verdadera, así que no se marca. El art. 41.1 exige dejar constancia del envío o de la puesta a disposición.",
+  "Es verdadera, así que no se marca. El art. 41.1 exige constancia de la identidad fidedigna (fiable) del remitente y del destinatario.",
+  "Es verdadera, así que no se marca. El art. 41.1 exige constancia de las fechas y horas."
+ ],
+ "ojo": "Pide la incorrecta. Dispositivo y correo electrónico son para el aviso (art. 41.6), no para validar la notificación."
+},
+"au-08-005": {
+ "bloque": "actos",
+ "precepto": "Art. 41.1 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. No hace falta una ley. El art. 41.1 lo permite “reglamentariamente”, o sea, mediante un reglamento.",
+  "No. Ni la ley ni la norma europea son la vía que indica el art. 41.1, y el “únicamente” lo empeora. La vía prevista es el reglamento.",
+  "Es esta. El **art. 41.1** dice que “reglamentariamente” las Administraciones pueden imponer la notificación electrónica a ciertos colectivos de personas físicas que, por capacidad económica, técnica, dedicación profesional u otros motivos, tengan acceso a esos medios. El art. 14.3 dice lo mismo para relacionarse electrónicamente.",
+  "No. Es otra forma de decir “ley” y tampoco vale: basta una norma de rango inferior, el reglamento (art. 41.1)."
+ ]
+},
+"au-08-006": {
+ "bloque": "actos",
+ "precepto": "Art. 41.2.b) de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. Si el procedimiento se inició a solicitud del interesado, se notifica por el medio que él haya señalado, que puede ser electrónico (art. 41.3).",
+  "Es esta. El **art. 41.2.b)** prohíbe la vía electrónica en las notificaciones con medios de pago a favor de los obligados, como los cheques. Tiene lógica: un cheque en papel no se puede enviar por internet.",
+  "No. Te han quitado el “no”. Lo prohibido es que el acto vaya con elementos que **no** sean susceptibles de conversión a formato electrónico (art. 41.2.a). Si se pueden convertir, no hay problema.",
+  "No. Quien no está obligado puede elegir que le notifiquen electrónicamente (art. 41.1), así que no está excluido “en ningún caso”."
+ ],
+ "ojo": "Los dos casos en los que nunca se notifica electrónicamente son: elementos no convertibles a formato electrónico y medios de pago."
+},
+"au-08-007": {
+ "bloque": "actos",
+ "precepto": "Art. 41.5 de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "No. El anuncio en el BOE es para la notificación infructuosa (art. 44): interesados desconocidos, lugar ignorado o intento fallido. El rechazo no está en esa lista.",
+  "No. Repetir el intento en hora distinta es lo que se hace cuando nadie se hace cargo de la notificación en papel (art. 42.2), no cuando se rechaza.",
+  "No. También es la regla del art. 42.2 para el caso de ausencia. Si el interesado rechaza la notificación, no hay segundo intento.",
+  "Es esta. El **art. 41.5** dice que el rechazo se hace constar en el expediente, con las circunstancias del intento y el medio, se da por efectuado el trámite y el procedimiento sigue. Rechazar la notificación no paraliza nada."
+ ],
+ "ojo": "Rechazo: trámite hecho y se sigue. Ausencia: segundo intento y, si falla, BOE."
+},
+"au-08-008": {
+ "bloque": "actos",
+ "precepto": "Art. 41.6 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. El Punto de Acceso General es un portal desde el que el interesado puede acceder a sus notificaciones (art. 43.4), no el destinatario del aviso.",
+  "Es esta. El **art. 41.6** dice que el aviso se manda al dispositivo electrónico y/o al correo electrónico que haya comunicado el interesado. Es como un móvil que te avisa: “tienes una notificación esperándote”.",
+  "No. La sede electrónica es donde está puesta a disposición la notificación, y de eso informa el aviso. Pero el aviso no se envía a la sede.",
+  "No. Igual que la sede, la dirección electrónica habilitada única es uno de los lugares donde se deja la notificación. El aviso va al dispositivo o correo del interesado."
+ ]
+},
+"au-08-009": {
+ "bloque": "actos",
+ "precepto": "Art. 42.2 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. Te han cambiado la edad: son 14 años, no 16 (art. 42.2).",
+  "No. No hace falta ser mayor de edad: basta con tener más de 14 años (art. 42.2).",
+  "Es esta. El **art. 42.2** permite que se haga cargo cualquier persona mayor de catorce años que esté en el domicilio y haga constar su identidad.",
+  "No. Te han cambiado la edad: son 14 años, no 15 (art. 42.2)."
+ ]
+},
+"au-08-010": {
+ "bloque": "actos",
+ "precepto": "Art. 41.6 de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. El **art. 41.6** lo dice claro: la falta de aviso “no impedirá que la notificación sea considerada plenamente válida”. El aviso es una ayuda para el interesado, no un requisito de la notificación.",
+  "No. La falta de aviso no la hace nula: la notificación sigue siendo plenamente válida (art. 41.6).",
+  "No. No se considera irregular. La ley dice “plenamente válida” (art. 41.6). Una notificación es defectuosa si le falta alguno de los requisitos del art. 40.2, y el aviso no es uno de ellos.",
+  "No. La notificación produce sus efectos con normalidad, aunque no se haya enviado el aviso (art. 41.6)."
+ ]
+},
+"au-08-011": {
+ "bloque": "actos",
+ "precepto": "Art. 42.2 de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. El **art. 42.2** dice que, si nadie se hace cargo, se deja constancia en el expediente (día y hora) y el intento se repite una sola vez, en hora distinta, dentro de los tres días siguientes. Si también falla, se pasa al anuncio del art. 44.",
+  "No. Dar por efectuado el trámite y seguir es lo que se hace cuando el interesado **rechaza** la notificación (art. 41.5). Aquí no ha habido rechazo, sino ausencia.",
+  "No. La ausencia no acaba con el procedimiento. La ley ordena repetir el intento y, si no se consigue, publicar un anuncio en el BOE (arts. 42.2 y 44).",
+  "No. Hay un único intento adicional (“por una sola vez”), no dos (art. 42.2)."
+ ]
+},
+"au-08-012": {
+ "bloque": "actos",
+ "precepto": "Art. 42.2 de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "No. Lo de “después de las quince horas” está bien, pero el margen no es de una hora: son **tres** (art. 42.2).",
+  "No. Fallan dos cosas: el segundo intento debe ser después de las quince horas, no antes, y el margen es de tres horas, no de una.",
+  "No. El margen de tres horas está bien, pero si el primero fue por la mañana, el segundo debe ser **después** de las quince horas (art. 42.2).",
+  "Es esta. El **art. 42.2** obliga a cambiar de franja: si el primer intento fue antes de las quince horas, el segundo va después, y con al menos tres horas de diferencia. Por ejemplo, si el primero fue a las 14:00, el segundo no puede ser antes de las 17:00, aunque las 15:30 ya sean “después de las quince”."
+ ],
+ "ojo": "Se exigen las dos cosas a la vez: cambiar de franja horaria y dejar tres horas de margen."
+},
+"au-08-013": {
+ "bloque": "actos",
+ "precepto": "Art. 44 de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "No. El “Diario Oficial que corresponda” es la regla de la **publicación** de actos (art. 45.3). La notificación infructuosa va siempre al BOE.",
+  "No. No depende de qué Administración actúe: el anuncio obligatorio va siempre al BOE. El boletín autonómico es solo un anuncio previo y voluntario (art. 44, párrafo segundo).",
+  "No. El tablón del Ayuntamiento del último domicilio también es un anuncio previo y facultativo (voluntario), que no sustituye al del BOE (art. 44).",
+  "Es esta. El **art. 44** dice que, si no se ha podido practicar la notificación, se hace por medio de un anuncio en el “Boletín Oficial del Estado”. Vale para cualquier Administración."
+ ],
+ "ojo": "Notificación infructuosa: BOE. Publicación de actos: el diario oficial que corresponda. Son dos reglas distintas."
+},
+"au-08-014": {
+ "bloque": "actos",
+ "precepto": "Art. 43.2 de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. El **art. 43.2** dice que se entienden practicadas “en el momento en que se produzca el acceso a su contenido”. Es decir, cuando el interesado la abre, no cuando se la dejan disponible.",
+  "No. Los diez días no son hábiles sino naturales. Y lo que ocurre al pasar sin acceso es que la notificación se entiende **rechazada**, no practicada (art. 43.2).",
+  "No. Ese momento no aparece en la ley. La notificación electrónica se entiende practicada con el acceso al contenido (art. 43.2).",
+  "No. La puesta a disposición solo sirve para entender cumplida la obligación del art. 40.4, es decir, notificar dentro del plazo máximo (art. 43.3). Practicada no está hasta que se accede al contenido."
+ ],
+ "ojo": "Puesta a disposición: la Administración cumple su plazo (art. 43.3). Acceso: la notificación queda practicada (art. 43.2)."
+},
+"au-08-015": {
+ "bloque": "actos",
+ "precepto": "Art. 45.1 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. No se publican todos. Se publican en los casos que marca el art. 45.1. El “en todo caso” de la ley se refiere solo a dos supuestos concretos: destinatarios indeterminados y procedimientos selectivos o de concurrencia competitiva.",
+  "No. La petición de los interesados no aparece como causa de publicación en el art. 45.1. Las causas son que lo digan las normas del procedimiento o que lo aconsejen razones de interés público.",
+  "Es esta. El **art. 45.1** dice que se publican cuando lo establezcan las normas reguladoras de cada procedimiento o cuando lo aconsejen razones de interés público apreciadas por el órgano competente.",
+  "No. Sobra el “solo”. La pluralidad indeterminada de personas es uno de los casos (art. 45.1.a), pero hay más, como los procedimientos selectivos o de concurrencia competitiva (art. 45.1.b)."
+ ]
+},
+"au-08-016": {
+ "bloque": "actos",
+ "precepto": "Art. 42.1 de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. El **art. 42.1** dice que todas las notificaciones en papel “deberán” ponerse también a disposición en la sede electrónica, para que el interesado pueda acceder a ellas “de forma voluntaria”. Es decir, para la Administración es obligatorio y para el interesado, opcional.",
+  "No. Te han cambiado “deberán” por “podrán”. Para la Administración no es una opción, es una obligación (art. 42.1).",
+  "No. La primera parte está bien, pero el interesado no está obligado a acceder: el acceso es “de forma voluntaria” (art. 42.1).",
+  "No. Es lo contrario de lo que dice el art. 42.1: no solo pueden, sino que deben ponerse a disposición en la sede."
+ ]
+},
+"au-08-017": {
+ "bloque": "actos",
+ "precepto": "Art. 44 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. El tablón de edictos del Ayuntamiento es solo un anuncio previo y facultativo (voluntario). No sustituye al del BOE (art. 44).",
+  "Es esta. El **art. 44** dice que, si los interesados son desconocidos o se ignora el lugar de notificación, se notifica mediante un anuncio en el “Boletín Oficial del Estado”.",
+  "No. El boletín de la Comunidad Autónoma o de la Provincia es también un anuncio previo y voluntario. El obligatorio es el del BOE (art. 44).",
+  "No. El diario oficial según la Administración de la que procede el acto es la regla de la publicación (art. 45.3), no la de la notificación infructuosa."
+ ]
+},
+"au-08-018": {
+ "bloque": "actos",
+ "precepto": "Art. 45.3 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. Sobran “siempre” y “conjuntamente”. No hay doble publicación: se usa el diario oficial que corresponda según la Administración de la que proceda el acto (art. 45.3).",
+  "Es esta. El **art. 45.3** dice que la publicación se hace en “el diario oficial que corresponda”, según cuál sea la Administración de la que proceda el acto. Por ejemplo, un acto de una Comunidad Autónoma irá en su boletín autonómico.",
+  "No. Depende precisamente del órgano del que proceda el acto (art. 45.3). La regla de “siempre en el BOE” es la de la notificación infructuosa (art. 44).",
+  "No. Tampoco es el tablón de anuncios. De hecho, cuando una norma manda publicar en tablón, se entiende cumplido publicando en el diario oficial (art. 45.4)."
+ ]
+},
+"au-08-019": {
+ "bloque": "actos",
+ "precepto": "Art. 43.2 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. “Naturales” está bien, pero te han cambiado el número: son diez días, no quince (art. 43.2).",
+  "No. Le falta “naturales”. Si un plazo dice solo “días”, se entiende que son hábiles (art. 30.2), y aquí la ley habla de días naturales.",
+  "Es esta. El **art. 43.2** dice que se entiende rechazada cuando pasan “diez días naturales” desde la puesta a disposición sin que se acceda al contenido. Naturales significa que cuentan también sábados, domingos y festivos.",
+  "No. Son días naturales, no hábiles, y se cuentan desde la puesta a disposición (art. 43.2)."
+ ],
+ "ojo": "El enunciado dice “se podrá entender”, pero la ley es más tajante: “se entenderá rechazada”. No cambia la respuesta."
+},
+"au-08-020": {
+ "bloque": "actos",
+ "precepto": "Arts. 41.5 y 44 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "Es verdadera, así que no se marca. Ignorar el lugar de notificación es uno de los casos del art. 44.",
+  "Esta es la falsa, y por eso es la que hay que marcar. El rechazo no lleva al BOE: según el **art. 41.5**, se hace constar en el expediente, se da por efectuado el trámite y el procedimiento sigue.",
+  "Es verdadera, así que no se marca. Que los interesados sean desconocidos es otro de los casos del art. 44.",
+  "Es verdadera, así que no se marca. Haber intentado la notificación sin poder practicarla es el tercer caso del art. 44."
+ ],
+ "ojo": "Pide la incorrecta. Los tres casos del BOE son: desconocidos, lugar ignorado e intento fallido. Rechazar no es ninguno de ellos."
+},
+"au-09-003": {
+ "bloque": "nulidad",
+ "precepto": "Art. 48.1 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "Es nulo de pleno derecho, así que no se marca. El contenido imposible está en el art. 47.1.c).",
+  "Esta es la falsa, y por eso es la que hay que marcar. La desviación de poder (usar una potestad para un fin distinto del previsto por la ley) no aparece en la lista de nulidad del art. 47.1. El **art. 48.1** la cita expresamente como causa de **anulabilidad**.",
+  "Es nulo de pleno derecho, así que no se marca. Es el art. 47.1.d).",
+  "Es nulo de pleno derecho, así que no se marca. La incompetencia manifiesta por el territorio está en el art. 47.1.b)."
+ ],
+ "ojo": "La desviación de poder suena muy grave y por eso se confunde, pero siempre es anulabilidad."
+},
+"au-09-004": {
+ "bloque": "nulidad",
+ "precepto": "Art. 48.2 de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "No. El defecto de forma no produce nulidad. Su consecuencia es la anulabilidad, y solo en ciertos casos (art. 48.2).",
+  "No. La condición de la indefensión está bien, pero te han cambiado “anulabilidad” por “nulidad” (art. 48.2).",
+  "No. “En todo caso” es falso: el art. 48.2 dice que “sólo” determina anulabilidad en dos situaciones concretas.",
+  "Es esta. El **art. 48.2** dice que el defecto de forma solo hace anulable el acto cuando le faltan los requisitos formales indispensables para alcanzar su fin o cuando da lugar a indefensión (el interesado no ha podido defenderse). La opción recoge esta segunda situación."
+ ],
+ "ojo": "La ley tiene dos casos y aquí solo mencionan uno. La opción sigue siendo correcta, porque lo que dice es cierto."
+},
+"au-09-005": {
+ "bloque": "nulidad",
+ "precepto": "Arts. 47.1.b) y 48.1 de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "No. Prescindir total y absolutamente de las reglas esenciales de los órganos colegiados es causa de nulidad (art. 47.1.e), no de anulabilidad.",
+  "No. Adquirir un derecho sin tener sus requisitos esenciales es causa de nulidad (art. 47.1.f).",
+  "No. Ser constitutivo de infracción penal es causa de nulidad (art. 47.1.d).",
+  "Es esta. La nulidad por incompetencia del **art. 47.1.b)** solo abarca la manifiesta por materia o territorio. La incompetencia por jerarquía no está en esa lista, así que es una infracción más del **art. 48.1** y el acto es anulable. Por eso el art. 52.3 permite que la subsane el superior jerárquico competente."
+ ],
+ "ojo": "Incompetencia por materia o territorio (manifiesta): nulo. Incompetencia por jerarquía: anulable."
+},
+"au-09-006": {
+ "bloque": "nulidad",
+ "precepto": "Art. 48.1 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. Es causa de nulidad de pleno derecho (art. 47.1.d), no de anulabilidad.",
+  "Es esta. El **art. 48.1** dice que son anulables los actos con cualquier infracción del ordenamiento jurídico, “incluso la desviación de poder”. Es decir, la cita expresamente.",
+  "No. Lesionar derechos y libertades susceptibles de amparo constitucional es causa de nulidad (art. 47.1.a).",
+  "No. El contenido imposible es causa de nulidad (art. 47.1.c)."
+ ]
+},
+"au-09-007": {
+ "bloque": "nulidad",
+ "precepto": "Art. 48.3 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. Actuar fuera de plazo no produce nulidad. Como mucho, y solo a veces, produce anulabilidad (art. 48.3).",
+  "Es esta. El **art. 48.3** dice que actuar fuera de tiempo “sólo” implica anulabilidad cuando lo imponga la naturaleza del término o plazo. Por ejemplo, cuando el plazo es esencial y la actuación ya no tiene sentido pasado ese momento.",
+  "No. La condición está bien copiada, pero te han cambiado “anulabilidad” por “nulidad” (art. 48.3).",
+  "No. Le falta la condición. Lo tardío no es anulable siempre, sino solo cuando lo imponga la naturaleza del término o plazo (art. 48.3)."
+ ]
+},
+"au-09-008": {
+ "bloque": "nulidad",
+ "precepto": "Art. 47.1.c) de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. El **art. 47.1.c)** incluye entre los nulos de pleno derecho los que “tengan un contenido imposible”. Por ejemplo, ordenar que se derribe un edificio que ya no existe.",
+  "No. La anulabilidad es para las demás infracciones (art. 48.1). El contenido imposible tiene causa propia de nulidad.",
+  "No. La prescripción es la pérdida de un derecho por el paso del tiempo, y no tiene que ver con el contenido del acto. La consecuencia aquí es la nulidad (art. 47.1.c).",
+  "No. La caducidad es el fin de un procedimiento por el paso del tiempo o por inactividad, y no por lo que diga el acto. La consecuencia aquí es la nulidad (art. 47.1.c)."
+ ]
+},
+"au-09-009": {
+ "bloque": "nulidad",
+ "precepto": "Art. 47.1.b) de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "No. Te han cambiado “total y absolutamente” por “total o parcialmente”. Omitir solo una parte del procedimiento no entra en el art. 47.1.e).",
+  "No. Te han cambiado “infracción penal” por “infracción administrativa”. El art. 47.1.d) solo habla de la penal.",
+  "No. La desviación de poder es causa de anulabilidad, no de nulidad (art. 48.1).",
+  "Es esta. Es el **art. 47.1.b)**, palabra por palabra. Fíjate en los dos requisitos: la incompetencia tiene que ser manifiesta (clara y evidente) y por razón de materia o territorio."
+ ]
+},
+"au-09-010": {
+ "bloque": "nulidad",
+ "precepto": "Art. 48.1 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. El contenido imposible es causa de nulidad (art. 47.1.c).",
+  "No. La infracción penal es causa de nulidad (art. 47.1.d).",
+  "Es esta. Es lo que dice el **art. 48.1**: son anulables los actos que incurran en cualquier infracción del ordenamiento jurídico, incluso la desviación de poder. Funciona como cajón de sastre: lo que no esté en la lista de nulidad del art. 47.1 suele ser anulable.",
+  "No. Prescindir total y absolutamente del procedimiento es causa de nulidad (art. 47.1.e)."
+ ]
+},
+"au-09-011": {
+ "bloque": "nulidad",
+ "precepto": "Arts. 47.1.b) y 48.1 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "Es nulo de pleno derecho, así que no se marca. Es el art. 47.1.e).",
+  "Esta es la falsa, y por eso es la que hay que marcar. El **art. 47.1.b)** solo incluye la incompetencia manifiesta por materia o territorio. La incompetencia por jerarquía no está, así que el acto es anulable (**art. 48.1**).",
+  "Es nulo de pleno derecho, así que no se marca. Es el art. 47.1.a).",
+  "Es nulo de pleno derecho, así que no se marca. Es el art. 47.1.b)."
+ ],
+ "ojo": "Pide el que NO es nulo. Busca la palabra “jerarquía”: es la que convierte la incompetencia en anulabilidad."
+},
+"au-09-012": {
+ "bloque": "nulidad",
+ "precepto": "Art. 48.2 de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "Es nulo de pleno derecho, así que no se marca. Es el art. 47.1.d).",
+  "Es nulo de pleno derecho, así que no se marca. Es el art. 47.1.b).",
+  "Es nulo de pleno derecho, así que no se marca. Es el art. 47.1.e).",
+  "Esta es la falsa, y por eso es la que hay que marcar. Es el texto del **art. 48.2**, sobre el defecto de forma: un acto sin los requisitos formales indispensables para alcanzar su fin, o que cause indefensión, es **anulable**, no nulo."
+ ]
+},
+"au-09-013": {
+ "bloque": "nulidad",
+ "precepto": "Art. 47.2 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "Es nula de pleno derecho, así que no se marca. La retroactividad de disposiciones sancionadoras no favorables o restrictivas de derechos individuales está en el art. 47.2.",
+  "Esta es la falsa, y por eso es la que hay que marcar. El **art. 47.2** declara nulas las disposiciones que regulen materias **reservadas** a la Ley. Te han añadido un “no”: regular materias no reservadas a la ley no es, por sí solo, causa de nulidad.",
+  "Es nula de pleno derecho, así que no se marca. Vulnerar disposiciones administrativas de rango superior está en el art. 47.2.",
+  "Es nula de pleno derecho, así que no se marca. Vulnerar la Constitución o las leyes está en el art. 47.2."
+ ],
+ "ojo": "Una sola palabra, “no”, cambia el sentido. Este artículo trata de disposiciones (reglamentos), no de actos: es el apartado 2, no el 1."
+},
+"au-09-014": {
+ "bloque": "nulidad",
+ "precepto": "Art. 48.2 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. Prescindir total y absolutamente del procedimiento es causa de nulidad (art. 47.1.e).",
+  "Es esta. El **art. 48.2** dice que el defecto de forma determina la anulabilidad cuando da lugar a indefensión de los interesados, es decir, cuando no han podido defenderse como debían.",
+  "No. El contenido imposible es causa de nulidad (art. 47.1.c).",
+  "No. Sobra “todo”. Actuar fuera de plazo solo hace anulable el acto cuando lo imponga la naturaleza del término o plazo (art. 48.3)."
+ ]
+},
+"au-09-015": {
+ "bloque": "nulidad",
+ "precepto": "Art. 48.2 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. La situación descrita es real, pero te han cambiado la consecuencia: faltar los requisitos formales indispensables da lugar a anulabilidad, no a nulidad de pleno derecho (art. 48.2).",
+  "No. “En ningún caso” es falso: el art. 48.2 sí prevé la anulabilidad en dos situaciones.",
+  "Es esta. El **art. 48.2** dice que el defecto de forma determina la anulabilidad cuando el acto da lugar a indefensión de los interesados. La otra situación es que falten los requisitos formales indispensables para alcanzar su fin.",
+  "No. “En todo caso” es falso: el art. 48.2 dice “sólo” en esas dos situaciones. Un defecto de forma sin más consecuencias no anula el acto."
+ ]
+}
+}

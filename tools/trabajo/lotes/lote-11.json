@@ -1,0 +1,332 @@
+{
+"lote": 11,
+"casos": {},
+"calendarios": {},
+"preguntas": [
+{
+"id": "au-26-001",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (26) - Ley 39/2015 (arts. 126 a 133)",
+"n": 1,
+"enunciado": "De acuerdo con el artículo 131 de la Ley 39/2015, la publicación del «Boletín Oficial del Estado» en la sede electrónica del Organismo competente tendrá carácter:",
+"opciones": [
+"Adicional y complementario.",
+"Provisional.",
+"Extraordinario.",
+"Oficial y auténtico."
+]
+},
+{
+"id": "au-26-002",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (26) - Ley 39/2015 (arts. 126 a 133)",
+"n": 2,
+"enunciado": "¿Cuál de las siguientes NO es una norma jurídica que deba publicarse en el diario oficial correspondiente?",
+"opciones": [
+"Los reglamentos.",
+"Las disposiciones administrativas.",
+"Las instrucciones u órdenes de servicio.",
+"Las normas con rango de ley."
+]
+},
+{
+"id": "au-26-003",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (26) - Ley 39/2015 (arts. 126 a 133)",
+"n": 3,
+"enunciado": "¿En aplicación de qué principio deben posibilitar las Administraciones Públicas el acceso sencillo, universal y actualizado a la normativa en vigor y los documentos propios de su proceso de elaboración?",
+"opciones": [
+"Libre acceso.",
+"Transparencia.",
+"Participación.",
+"Eficacia."
+]
+},
+{
+"id": "au-26-004",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (26) - Ley 39/2015 (arts. 126 a 133)",
+"n": 4,
+"enunciado": "¿En aplicación de qué principio las Administraciones Públicas posibilitarán que los potenciales destinatarios de las normas tengan una participación activa en la elaboración de las mismas?",
+"opciones": [
+"Participación.",
+"Libre acceso.",
+"Transparencia.",
+"Eficacia."
+]
+},
+{
+"id": "au-26-005",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (26) - Ley 39/2015 (arts. 126 a 133)",
+"n": 5,
+"enunciado": "¿En aplicación de qué principio la iniciativa normativa debe evitar cargas administrativas innecesarias o accesorias y racionalizar, en su aplicación, la gestión de los recursos públicos?",
+"opciones": [
+"Eficacia.",
+"Participación.",
+"Eficiencia.",
+"Transparencia."
+]
+},
+{
+"id": "au-26-006",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (26) - Ley 39/2015 (arts. 126 a 133)",
+"n": 6,
+"enunciado": "¿Con qué periodicidad deberán las Administraciones Públicas hacer público el Plan Normativo?",
+"opciones": [
+"Cada tres años, de manera preceptiva.",
+"Mensualmente para adaptarla a normas superiores en vigor.",
+"Anualmente.",
+"Semestralmente."
+]
+},
+{
+"id": "au-26-007",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (26) - Ley 39/2015 (arts. 126 a 133)",
+"n": 7,
+"enunciado": "Con carácter previo a la elaboración del proyecto o anteproyecto de ley o de reglamento, se sustanciará una consulta pública, en la que NO se recabará la opinión de los sujetos y de las organizaciones más representativas potencialmente afectados por la futura norma acerca de:",
+"opciones": [
+"Los objetivos de la norma.",
+"La necesidad y oportunidad de su aprobación.",
+"El impacto normativo en materia de género.",
+"Los problemas que se pretenden solucionar con la iniciativa."
+]
+},
+{
+"id": "au-26-008",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (26) - Ley 39/2015 (arts. 126 a 133)",
+"n": 8,
+"enunciado": "Según el artículo 132 de la Ley 39/2015, el Plan Anual Normativo contendrá las iniciativas legales o reglamentarias que vayan a:",
+"opciones": [
+"Ser elevadas para su aprobación en el año siguiente.",
+"Aprobarse durante el año siguiente.",
+"Ser elevadas para su aprobación en los próximos 5 años.",
+"Ser elevadas para su aprobación en los próximos 3 años."
+]
+},
+{
+"id": "au-26-009",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (26) - Ley 39/2015 (arts. 126 a 133)",
+"n": 9,
+"enunciado": "Según el artículo 133 de la Ley 39/2015, con carácter previo a la elaboración del proyecto o anteproyecto de ley o de reglamento, se sustanciará una consulta pública, a través del:",
+"opciones": [
+"Boletín Oficial del Estado.",
+"Portal web de la Administración competente.",
+"Diario oficial de la Administración competente.",
+"Portal de transparencia de la Administración General del Estado."
+]
+},
+{
+"id": "au-26-010",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (26) - Ley 39/2015 (arts. 126 a 133)",
+"n": 10,
+"enunciado": "Según la Ley 39/2015, en aplicación del principio de eficiencia, la iniciativa normativa:",
+"opciones": [
+"Debe evitar cargas administrativas innecesarias o accesorias.",
+"Se ejercerá de manera coherente con el resto del ordenamiento jurídico, nacional y de la Unión Europea.",
+"Deberá contener la regulación imprescindible para atender la necesidad a cubrir con la norma.",
+"Debe basarse en una identificación clara de los fines perseguidos y ser el instrumento más adecuado para su consecución."
+]
+},
+{
+"id": "au-26-011",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (26) - Ley 39/2015 (arts. 126 a 133)",
+"n": 11,
+"enunciado": "Según el artículo 128 de la Ley 39/2015, los reglamentos y las disposiciones administrativas:",
+"opciones": [
+"Realizarán funciones de desarrollo o colaboración con respecto a la Ley.",
+"Podrán regular materias que se atribuya a la competencia de las Asambleas Legislativas de las Comunidades Autónomas.",
+"Podrán tipificar infracciones administrativas.",
+"Podrán establecer tributos."
+]
+},
+{
+"id": "au-26-012",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (26) - Ley 39/2015 (arts. 126 a 133)",
+"n": 12,
+"enunciado": "¿A quién corresponde el ejercicio de la potestad reglamentaria?",
+"opciones": [
+"Al Gobierno de la Nación, a los órganos de Gobierno de las Comunidades Autónomas y a los órganos de gobierno locales.",
+"Al Consejo de Ministros o a los Consejos de gobierno de las Comunidades Autónomas exclusivamente.",
+"A las Cortes Generales, de forma exclusiva.",
+"Exclusivamente al Gobierno de la nación."
+]
+},
+{
+"id": "au-26-013",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (26) - Ley 39/2015 (arts. 126 a 133)",
+"n": 13,
+"enunciado": "Los reglamentos ejercen una función de desarrollo o colaboración con respecto a la Ley, determinándose que:",
+"opciones": [
+"Podrán establecer tributos.",
+"No podrán establecer exacciones parafiscales.",
+"Podrán establecer penas o sanciones.",
+"Podrán tipificar delitos, faltas o infracciones administrativas."
+]
+},
+{
+"id": "au-26-014",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (26) - Ley 39/2015 (arts. 126 a 133)",
+"n": 14,
+"enunciado": "¿En aplicación de qué principio las Administraciones Públicas definirán claramente los objetivos de las iniciativas normativas y su justificación en el preámbulo o exposición de motivos?",
+"opciones": [
+"En aplicación del principio de eficacia.",
+"En aplicación del principio de participación.",
+"En aplicación del principio de transparencia.",
+"En aplicación del principio de libre acceso."
+]
+},
+{
+"id": "au-26-015",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (26) - Ley 39/2015 (arts. 126 a 133)",
+"n": 15,
+"enunciado": "Cuando la iniciativa normativa afecte a gastos o ingresos públicos presentes o futuros procede realizar una cuantificación y valoración de sus repercusiones y efectos. ¿A qué principios debe supeditarse?",
+"opciones": [
+"A los de sostenibilidad presupuestaria y equilibrio financiero.",
+"A los de estabilidad presupuestaria y prudencia contable.",
+"A los de prudencia contable y sostenibilidad financiera.",
+"A los de estabilidad presupuestaria y sostenibilidad financiera."
+]
+},
+{
+"id": "au-27-001",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (27) - Ley 39/2015 (arts. 126 a 133)",
+"n": 1,
+"enunciado": "Los reglamentos y disposiciones administrativas, sin perjuicio de su función de desarrollo o colaboración con respecto a la ley:",
+"opciones": [
+"Podrán establecer tributos.",
+"Podrán tipificar delitos o faltas.",
+"No podrán tipificar infracciones administrativas.",
+"Podrán establecer penas o sanciones."
+]
+},
+{
+"id": "au-27-002",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (27) - Ley 39/2015 (arts. 126 a 133)",
+"n": 2,
+"enunciado": "De conformidad con el artículo 129 de la Ley 39/2015, en el ejercicio de la iniciativa legislativa y la potestad reglamentaria, las Administraciones Públicas actuarán de acuerdo con los principios de:",
+"opciones": [
+"Legalidad, eficacia, proporcionalidad, seguridad jurídica, publicidad y transparencia.",
+"Legalidad, eficacia, proporcionalidad, contradicción, transparencia, y eficiencia.",
+"Legalidad, eficacia, celeridad, contradicción, transparencia, e igualdad.",
+"Necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia, y eficiencia."
+]
+},
+{
+"id": "au-27-003",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (27) - Ley 39/2015 (arts. 126 a 133)",
+"n": 3,
+"enunciado": "Señale en virtud de qué principio de buena regulación, recogido en el artículo 129 de la Ley 39/2015, de 1 de octubre, la iniciativa propuesta deberá contener la regulación imprescindible para atender la necesidad a cubrir con la norma:",
+"opciones": [
+"Necesidad y eficacia.",
+"Proporcionalidad.",
+"Seguridad jurídica.",
+"Transparencia."
+]
+},
+{
+"id": "au-27-004",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (27) - Ley 39/2015 (arts. 126 a 133)",
+"n": 4,
+"enunciado": "De acuerdo con el artículo 26 de la Ley 50/1997, de 27 de noviembre, del Gobierno, ¿cuál de los siguientes aspectos NO es objeto de consulta pública previa en el procedimiento de elaboración de normas con rango de Ley y reglamentos?",
+"opciones": [
+"Las posibles soluciones alternativas regulatorias y no regulatorias.",
+"Los problemas que se pretenden solucionar con la nueva norma.",
+"La necesidad y oportunidad de su aprobación.",
+"El texto articulado de la norma."
+]
+},
+{
+"id": "au-27-005",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (27) - Ley 39/2015 (arts. 126 a 133)",
+"n": 5,
+"enunciado": "El trámite de consulta pública en el procedimiento de elaboración de normas con rango de ley y reglamentos:",
+"opciones": [
+"Será obligatorio cuando se regulen aspectos parciales de una materia.",
+"Se sustanciará a través del portal web del departamento competente.",
+"Será obligatorio en cualquier caso.",
+"En ningún caso será inferior a quince días hábiles."
+]
+},
+{
+"id": "au-27-006",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (27) - Ley 39/2015 (arts. 126 a 133)",
+"n": 6,
+"enunciado": "La Memoria del Análisis de Impacto Normativo que debe elaborar con carácter preceptivo el centro directivo competente NO deberá contener el siguientes apartado:",
+"opciones": [
+"Un resumen de las principales aportaciones recibidas en el trámite de audiencia e información pública.",
+"Análisis sobre la adecuación de la norma propuesta al orden de distribución de competencias.",
+"Oportunidad de la propuesta y alternativas de regulación estudiadas.",
+"Impacto económico y presupuestario."
+]
+},
+{
+"id": "au-27-007",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (27) - Ley 39/2015 (arts. 126 a 133)",
+"n": 7,
+"enunciado": "El Plan Anual Normativo, con el objeto de asegurar la congruencia de todas las iniciativas que se tramiten, se coordina por:",
+"opciones": [
+"El Ministerio para la Transformación Digital y de la Función Pública.",
+"El Consejo de Ministros.",
+"El Ministerio de la Presidencia.",
+"El Gobierno."
+]
+},
+{
+"id": "au-27-008",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (27) - Ley 39/2015 (arts. 126 a 133)",
+"n": 8,
+"enunciado": "¿Quién elevará el Plan Normativo Anual al Consejo de Ministros para su aprobación antes del 30 de abril?",
+"opciones": [
+"El Ministro de la Presidencia",
+"El Ministro de Economía.",
+"El Ministro de Hacienda.",
+"El Presidente del Gobierno."
+]
+},
+{
+"id": "au-27-009",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (27) - Ley 39/2015 (arts. 126 a 133)",
+"n": 9,
+"enunciado": "¿Quién aprueba y con qué frecuencia un Plan Normativo que contenga las iniciativas legislativas o reglamentarias que vayan a ser elevadas para su aprobación en el año siguiente?",
+"opciones": [
+"El Presidente del Gobierno, anualmente.",
+"Las Cortes Generales, anualmente.",
+"El Gobierno, semestralmente.",
+"El Gobierno, anualmente."
+]
+},
+{
+"id": "au-27-010",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (27) - Ley 39/2015 (arts. 126 a 133)",
+"n": 10,
+"enunciado": "Indique la respuesta correcta en relación con el trámite de audiencia e información pública celebrado durante el procedimiento de elaboración de normas con rango de Ley y reglamentos:",
+"opciones": [
+"El plazo mínimo de esta audiencia e información públicas será de 20 días naturales.",
+"Podrá omitirse cuando se aplique la tramitación urgente de iniciativas normativas.",
+"El plazo mínimo de esta audiencia e información públicas será de 15 días hábiles.",
+"Podrá omitirse cuando la propuesta normativa no tenga un impacto significativo en la actividad económica."
+]
+}
+]
+}

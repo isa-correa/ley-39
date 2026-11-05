@@ -1,0 +1,377 @@
+{
+ "pr-07-001": {
+  "bloque": "actividad",
+  "precepto": "Art. 14.2.a) y d) de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Es verdad que las personas físicas pueden elegir (art. 14.1), pero la solicitud es de Ecoeventos S.L., una sociedad. D. Andrés actúa como representante, no en nombre propio, así que esa libertad no le sirve aquí.",
+   "Es esta. La interesada es Ecoeventos S.L., una persona jurídica, y las personas jurídicas están obligadas a relacionarse por medios electrónicos (**art. 14.2.a**). Además, quien representa a un interesado obligado también queda obligado (**art. 14.2.d**). Por eso D. Andrés tiene que presentarla por vía electrónica.",
+   "No. La colegiación (art. 14.2.c) es otro motivo distinto de obligación, y aquí no hace falta. D. Andrés ya está obligado por representar a una persona jurídica, sea cual sea su profesión.",
+   "No. Acreditar el acceso y la disponibilidad de medios es lo que pide el art. 14.3, para que un reglamento obligue a ciertos colectivos de personas físicas. Para una persona jurídica o su representante la obligación viene directa de la ley, sin acreditar nada."
+  ],
+  "ojo": "Fíjate en a quién representa, no en quién va a la oficina: D. Andrés es una persona física, pero representa a una obligada, y eso lo obliga a él."
+ },
+ "pr-07-002": {
+  "bloque": "actividad",
+  "precepto": "Art. 21.3 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Un mes no es el plazo supletorio. Cuando la norma no dice nada, son tres meses (art. 21.3).",
+   "No. Dos meses no aparece en esta regla. Sin plazo en la norma reguladora, el plazo es de tres meses (art. 21.3).",
+   "Es esta. El **art. 21.3** dice que, cuando las normas reguladoras no fijan el plazo máximo, “éste será de tres meses”. Es el plazo que se aplica por defecto.",
+   "No. Seis meses es otra cosa: el tope que no puede superar la norma reguladora cuando sí fija un plazo, salvo ley o Derecho de la UE (art. 21.2)."
+  ],
+  "ojo": "Tres meses si la norma calla. Seis meses como techo si la norma habla."
+ },
+ "pr-07-003": {
+  "bloque": "interesados",
+  "precepto": "Art. 5.3 y 5.4 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Para formular solicitudes en nombre de otro hay que acreditar la representación (**art. 5.3**), y se puede hacer con “cualquier medio válido en Derecho” que deje constancia fidedigna (**art. 5.4**). D. Andrés presenta una solicitud en nombre de la sociedad, así que debe acreditarla.",
+   "No. Sobra el “necesariamente”. El apoderamiento apud acta (el que se hace compareciendo ante la Administración) es una forma válida entre otras, no la única (art. 5.4).",
+   "No. La lista del art. 5.3 es más larga: formular solicitudes, presentar declaraciones responsables o comunicaciones, interponer recursos, desistir y renunciar. Formular una solicitud está incluido.",
+   "No. La presunción es cierta para los actos de mero trámite (art. 5.3), pero formular una solicitud no es un mero trámite: está en la lista de lo que hay que acreditar."
+  ]
+ },
+ "pr-07-004": {
+  "bloque": "interesados",
+  "precepto": "Art. 5.6 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Es justo al revés: la falta de acreditación “no impedirá” que se tenga por realizado el acto, si se subsana en plazo. D. Andrés no tiene que volver a presentar la solicitud.",
+   "No. El requerimiento no es algo que la Administración haga “si lo estima oportuno”: el órgano “deberá conceder” un plazo para subsanar. Y el acto solo vale si luego se aporta la representación o se subsana.",
+   "Es esta. El **art. 5.6** da **diez días**, o un plazo mayor si las circunstancias lo piden, para aportar la representación o subsanar el defecto. Mientras tanto, el acto se tiene por realizado siempre que se subsane dentro de ese plazo.",
+   "No. Te han cambiado el plazo: son diez días, no cinco (art. 5.6)."
+  ]
+ },
+ "pr-07-005": {
+  "bloque": "actividad",
+  "precepto": "Art. 24.1 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Esa es la regla general del silencio, pero aquí juega una excepción que ya está en el propio art. 24.1: no hace falta otra ley que diga lo contrario.",
+   "No. Falla “o reglamentario”: un reglamento no puede cambiar el sentido del silencio. El art. 24.1 pide norma con rango de ley, de Derecho de la UE o de Derecho internacional aplicable en España.",
+   "No. Sería la regla general, pero no se aplica si estimar la solicitud transfiere facultades sobre el dominio público. Por silencio no se puede ganar el uso de un bien público.",
+   "Es esta. El **art. 24.1, párrafo segundo**, fija silencio desestimatorio cuando estimar la solicitud transfiera al solicitante facultades relativas al **dominio público**. Instalar un escenario junto al cauce del Turia supone usar un espacio ligado a ese dominio público, así que, si no le contestan, Ecoeventos debe entenderla desestimada. Es como poner un quiosco en el paseo marítimo: si no te contestan, no te quedas ese trozo de playa."
+  ],
+  "ojo": "La regla general (estimado salvo ley) es verdad, pero el caso entra en una de las excepciones escritas en el mismo art. 24.1: lo que toca el dominio público nunca se gana por silencio."
+ },
+ "pr-07-006": {
+  "bloque": "actividad",
+  "precepto": "Art. 14.1 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Representar a una persona física no obliga a nada. Solo obliga representar a un interesado que esté obligado (art. 14.2.d), y Marta, una niña de 13 años, no lo está.",
+   "No. La ley no impone la vía electrónica por ser una reclamación de responsabilidad patrimonial. El art. 14.2 se fija en quién actúa, no en el tipo de procedimiento.",
+   "Es esta. Dª Ana es una persona física que representa a otra persona física no obligada. Por eso rige el **art. 14.1**: puede elegir en todo momento si usa medios electrónicos o no, y cambiar de opinión después.",
+   "No. Nada la obliga a usar papel. Elegir significa que puede usar cualquiera de las dos vías, incluida la electrónica, aunque represente a una menor."
+  ]
+ },
+ "pr-07-007": {
+  "bloque": "interesados",
+  "precepto": "Art. 3.b) de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Ser la perjudicada no le da capacidad por sí sola. Lo que cuenta es que el ordenamiento jurídico le permita actuar sin asistencia (art. 3.b).",
+   "Es esta. El **art. 3.b)** da capacidad de obrar a los menores para defender aquellos derechos e intereses cuya actuación “esté permitida por el ordenamiento jurídico” sin la asistencia de quien ejerza la patria potestad, tutela o curatela. Marta solo podría reclamar sola si una norma se lo permite para este asunto.",
+   "No. No estar incapacitada no basta. La excepción de los menores incapacitados limita la regla, pero antes hace falta que el ordenamiento le permita actuar sola.",
+   "No. Falla el “en ningún caso”: el art. 3.b) reconoce capacidad a los menores en esos supuestos."
+  ]
+ },
+ "pr-07-008": {
+  "bloque": "actividad",
+  "precepto": "Art. 22.1.d) de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El informe del servicio causante del daño es preceptivo (art. 81.1), y al pedir informes preceptivos el plazo para resolver se puede suspender (**art. 22.1.d**). Esa suspensión “no podrá exceder en ningún caso de tres meses”: si el informe no llega en ese tiempo, el procedimiento sigue.",
+   "No. Te han cambiado el plazo: son tres meses. Los dos meses del art. 81.3 son para otro caso, el informe del Consejo General del Poder Judicial cuando se reclama por el funcionamiento anormal de la Justicia.",
+   "No. Falla “automáticamente”. Este caso está en el art. 22.1, donde el plazo “se podrá suspender”, y la petición del informe debe comunicarse a los interesados.",
+   "No. Es al revés: el art. 22.1.d) se refiere a los informes preceptivos, no a los facultativos."
+  ],
+  "ojo": "No confundas los 10 días que tiene el servicio para emitir el informe (art. 81.1) con el máximo de 3 meses de suspensión (art. 22.1.d)."
+ },
+ "pr-07-009": {
+  "bloque": "actividad",
+  "precepto": "Art. 21.1 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. En estos casos sí hay que resolver: la resolución consiste en declarar la circunstancia que se ha dado, con los hechos y las normas aplicables (art. 21.1, párrafo segundo).",
+   "Es esta. El **art. 21.1, párrafo tercero**, exceptúa de la obligación de resolver la terminación del procedimiento **por pacto o convenio**, porque el acuerdo ya pone fin al asunto. Si la Administración y la familia de Marta firman un acuerdo sobre la indemnización, no hace falta resolución.",
+   "No. La desaparición sobrevenida del objeto también exige resolución, que se limita a declarar esa circunstancia (art. 21.1, párrafo segundo).",
+   "No. Sobra “sin excepción”: el propio art. 21.1 exceptúa el pacto o convenio y los procedimientos sometidos solo a declaración responsable o comunicación."
+  ],
+  "ojo": "Una excepción de verdad es no tener que resolver. Prescripción, renuncia, caducidad, desistimiento y desaparición del objeto no lo son: ahí se resuelve, aunque sea solo para declararlo."
+ },
+ "pr-07-010": {
+  "bloque": "actividad",
+  "precepto": "Art. 24.3.b) de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Eso solo vale para el silencio estimatorio (art. 24.3.a). En responsabilidad patrimonial el silencio es desestimatorio (art. 24.1), así que no se aplica.",
+   "Es esta. En responsabilidad patrimonial el silencio es **desestimatorio** (art. 24.1, también art. 91.3). Por eso, según el **art. 24.3.b)**, la resolución posterior se adopta “sin vinculación alguna al sentido del silencio”. La Administración aún podría conceder la indemnización después de vencido el plazo.",
+   "No. Precisamente porque no está vinculada, la resolución tardía también puede ser estimatoria y dar la indemnización.",
+   "No. Vencer el plazo no quita la obligación de resolver: el art. 24.3 mantiene la obligación del art. 21.1. La desestimación por silencio solo sirve para que el interesado pueda recurrir (art. 24.2)."
+  ],
+  "ojo": "Silencio positivo: después solo se puede confirmar. Silencio negativo: después la Administración puede decidir lo que proceda."
+ },
+ "pr-07-011": {
+  "bloque": "actividad",
+  "precepto": "Art. 14.1 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. D. José Ramón actúa como persona física y a título particular, para investigar para su novela. No está en ningún caso del art. 14.2, así que rige el **art. 14.1**: puede elegir si usa medios electrónicos o no.",
+   "No. Los empleados públicos solo están obligados para los trámites que hagan “por razón de su condición de empleado público” (art. 14.2.e). Pedir documentos para su obra literaria no tiene que ver con ser ordenanza.",
+   "No. Ser escritor no obliga a nada: no es una actividad con colegiación obligatoria (art. 14.2.c).",
+   "No. Las personas físicas no “deben” usar medios no electrónicos: pueden elegir entre una vía y otra (art. 14.1)."
+  ],
+  "ojo": "Te ponen el dato de ordenanza de la Complutense para despistarte. Ser empleado público solo obliga cuando el trámite tiene que ver con ese empleo."
+ },
+ "pr-07-012": {
+  "bloque": "actividad",
+  "precepto": "Art. 15.1 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Ser de la Administración General del Estado no lo impide. Regla: castellano, pero quien se dirige a órganos del Estado con sede en una Comunidad Autónoma puede usar también la lengua cooficial allí (art. 15.1).",
+   "No. Da igual dónde nació o dónde vive. El art. 15.1 mira la sede del órgano al que se dirige el escrito, no el origen ni la residencia de quien escribe.",
+   "No. La oficina de Madrid solo es el sitio donde presenta el escrito. Lo que cuenta es la sede del órgano destinatario, que está en Barcelona.",
+   "Es esta. El Archivo de la Corona de Aragón depende del Ministerio de Cultura y tiene sede en Barcelona, en Cataluña, donde el catalán es cooficial. Según el **art. 15.1**, quien se dirige a un órgano del Estado con sede en esa Comunidad puede usar su lengua cooficial, aunque sea andaluz y viva en Guadalajara."
+  ],
+  "ojo": "Pregunta clave: ¿dónde tiene la sede el órgano al que escribo? Ni dónde vivo ni dónde entrego el papel."
+ },
+ "pr-07-013": {
+  "bloque": "actividad",
+  "precepto": "Art. 21.2 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Tres meses es el plazo cuando la norma no fija ninguno (art. 21.3), no el tope de la norma que sí lo fija.",
+   "Es esta. El plazo lo fija la norma reguladora, pero “no podrá exceder de seis meses” salvo que una norma con **rango de ley** establezca uno mayor o lo prevea el Derecho de la UE (**art. 21.2**). Un Real Decreto es un reglamento, no tiene rango de ley, así que no puede pasar de seis meses.",
+   "No. Doce meses solo sería posible con una norma con rango de ley o por Derecho de la UE, y aquí el plazo está en un Real Decreto.",
+   "No. Sería así si la norma no dijera nada (art. 21.3). Pero aquí el enunciado dice que el Real Decreto sí fija el plazo: ese es el que vale, con el tope de seis meses."
+  ],
+  "ojo": "El dato importante es “Real Decreto”: es reglamento, no ley, y por eso no puede saltarse los seis meses."
+ },
+ "pr-07-014": {
+  "bloque": "actividad",
+  "precepto": "Art. 21.3.b) de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El procedimiento lo inicia el Sr. Sánchez con su solicitud, y en esos casos el plazo se cuenta desde la fecha en que la solicitud entra en el registro electrónico de la Administración u Organismo competente para tramitarla (**art. 21.3.b**). No cuenta el día en que la entrega en la oficina de Madrid, sino la entrada en el registro del competente.",
+   "No. La fecha del acuerdo de iniciación es para los procedimientos iniciados de oficio (art. 21.3.a), y este se ha iniciado a solicitud del interesado.",
+   "No. La notificación del acuerdo de iniciación no marca el inicio del plazo. Ni siquiera en los de oficio: allí vale la fecha del acuerdo (art. 21.3.a).",
+   "No. Es otra versión de la anterior, con el añadido del “día siguiente”. El art. 21.3 habla de la fecha de entrada en el registro, sin acuerdo de iniciación ni notificación."
+  ]
+ },
+ "pr-07-015": {
+  "bloque": "actividad",
+  "precepto": "Art. 24.1 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. En los procedimientos iniciados a solicitud, la regla general del **art. 24.1** es que vencer el plazo sin notificar resolución permite entender **estimada** la solicitud. Pedir una reproducción digital de documentos no es derecho de petición ni encaja en las demás excepciones de ese artículo.",
+   "No. El silencio negativo es para las excepciones del art. 24.1: derecho de petición, dominio público o servicio público, actividades que puedan dañar el medio ambiente, responsabilidad patrimonial, recursos y revisión de oficio. La solicitud del Sr. Sánchez no está ahí.",
+   "No. La caducidad por vencer el plazo es para procedimientos de oficio de efectos desfavorables, como los sancionadores (art. 25.1.b). Este lo inició él con su solicitud.",
+   "No. La prescripción es perder un derecho o una acción por dejar pasar el tiempo. No es un efecto del silencio y el art. 24 no la contempla."
+  ],
+  "ojo": "La pregunta pide aplicar el art. 24, y el caso no entra en ninguna de sus excepciones. Por eso se queda en la regla general."
+ },
+ "pr-07-016": {
+  "bloque": "actividad",
+  "precepto": "Art. 14.1 y 14.2.c) de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Ninguno está obligado: el Sr. Martí es autónomo pero persona física, y la Sra. Fuerte no actúa como médica sino como vecina.",
+   "No. Ser autónomo no obliga. El art. 14.2 no incluye a los autónomos, y la programación informática no aparece como actividad con colegiación obligatoria en el caso.",
+   "No. La Sra. Fuerte es médica colegiada, pero la obligación solo alcanza a los trámites hechos “en ejercicio de dicha actividad profesional” (art. 14.2.c). Se persona por su vivienda, no por su trabajo.",
+   "Es esta. Ambos son personas físicas que actúan por asuntos no incluidos en el art. 14.2. El Sr. Martí es autónomo, sin colegiación obligatoria en el caso. La Sra. Fuerte está colegiada, pero actúa por su vivienda (**art. 14.2.c**). Por eso los dos pueden elegir (**art. 14.1**)."
+  ],
+  "ojo": "Dos despistes en uno: “autónomo” no es lo mismo que “colegiado” y estar colegiada no obliga a usar medios electrónicos para tus asuntos particulares."
+ },
+ "pr-07-017": {
+  "bloque": "actividad",
+  "precepto": "Art. 15.1 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El resultado es no, pero la razón está mal. Falla “todos”: el art. 15.1 permite usar la lengua cooficial ante órganos del Estado con sede en una Comunidad con esa lengua.",
+   "No. Usar medios electrónicos no da derecho a escribir en catalán. El art. 15.1 no depende del canal de presentación, sino de la sede del órgano.",
+   "Es esta. Según el **art. 15.1**, se puede usar la lengua cooficial al dirigirse a órganos del Estado con sede en la Comunidad donde esa lengua es cooficial. La Secretaría de Estado de Industria está en Madrid, donde el catalán no es cooficial.",
+   "No. Vivir en Tarragona no cuenta. Lo que importa es la sede del órgano al que escribe, y está en Madrid."
+  ],
+  "ojo": "Compárala con el Sr. Sánchez: andaluz que puede usar catalán porque escribe a Barcelona. El Sr. Martí vive en Cataluña y no puede, porque escribe a Madrid."
+ },
+ "pr-07-018": {
+  "bloque": "actividad",
+  "precepto": "Art. 22.1.a) de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Falla el tiempo verbal: “se suspenderá” es para los casos obligatorios del art. 22.2. La subsanación está en el art. 22.1, donde es “se podrá suspender”.",
+   "No. Esta es la ampliación excepcional del art. 23.1, cuando se han agotado los medios disponibles. No tiene que ver con pedir que se subsane.",
+   "Es esta. El **art. 22.1.a)** dice que el plazo “se podrá suspender” cuando deba requerirse a un interesado para subsanar deficiencias. Dura desde la notificación del requerimiento hasta que lo cumple o, si no lo cumple, lo que dure el plazo concedido.",
+   "No. Ampliar hasta la mitad es la regla del art. 32.1, y se refiere a los plazos de los trámites. No es lo que pasa por requerir la subsanación al Sr. Martí."
+  ],
+  "ojo": "Suspender es parar el reloj. Ampliar es dar más tiempo. El requerimiento de subsanación puede parar el reloj, no alargar el plazo."
+ },
+ "pr-07-019": {
+  "bloque": "plazos",
+  "precepto": "Art. 30.2 y 30.3 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Si le notifican el jueves 8 de enero, el décimo día hábil es el jueves 22 de enero, no el viernes 23.",
+   "Es esta. Los plazos por días son hábiles, sin sábados ni domingos (**art. 30.2**), y empiezan el día siguiente a la notificación (**art. 30.3**). Notificado el viernes 9 de enero, se cuenta del lunes 12 al viernes 16 (5 días) y del lunes 19 al viernes 23 (10 días). Así, el 23 de enero es justo el último día.",
+   "No. Si le notifican el lunes 12 de enero, los diez días hábiles van del 13 al lunes 26 de enero. El 23 aún no sería el último.",
+   "No. Es la trampa de restar diez días naturales al 23. Son hábiles: desde el martes 13 de enero, el plazo acabaría el martes 27."
+  ],
+  "ojo": "Para ir hacia atrás, comprueba cada opción contando hacia adelante. Diez días hábiles sin festivos en medio suelen ser dos semanas exactas: de viernes a viernes."
+ },
+ "pr-07-020": {
+  "bloque": "interesados",
+  "precepto": "Art. 4.1.c) de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Falla “solo”. Promover el procedimiento es uno de los tres casos de interesado (art. 4.1.a), pero el art. 4.1 incluye también a quienes no lo iniciaron.",
+   "No. Aunque no tuviera derechos afectados (art. 4.1.b), el enunciado dice que tiene intereses legítimos, y eso también puede dar la condición de interesada (art. 4.1.c).",
+   "Es esta. La Sra. Fuerte tiene **intereses legítimos** que pueden verse afectados. Para ese caso, el **art. 4.1.c)** exige dos cosas: que se persone y que lo haga “en tanto no haya recaído resolución definitiva”. Por eso será interesada si se persona antes de ese momento.",
+   "No. Te han cambiado el límite: es hasta que recaiga resolución definitiva, no hasta que la resolución adquiera firmeza (art. 4.1.c)."
+  ],
+  "ojo": "Con derechos afectados eres interesado sin hacer nada (art. 4.1.b). Con intereses legítimos, tienes que personarte a tiempo (art. 4.1.c)."
+ },
+ "pr-08-001": {
+  "bloque": "plazos",
+  "precepto": "Arts. 30.4, 30.5 y 122.1 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Es la fecha que sale al contar de fecha a fecha, pero en 2023 el 10 de junio es sábado, inhábil. Hay que pasar al primer día hábil siguiente (art. 30.5).",
+   "No. El 11 de junio es domingo, inhábil, y además en los meses no se suma un día. El plazo se va al lunes siguiente.",
+   "Es esta. Como D. Evaristo recibe la notificación el 10 de mayo, el mes va de fecha a fecha y acabaría el 10 de junio (**art. 30.4**). Ese día es sábado, así que pasa al primer día hábil siguiente, el lunes 12 de junio (**art. 30.5**).",
+   "No. Es la confusión de restar un día. En los plazos por meses, se acaba el mismo número de día que el de la notificación."
+  ],
+  "ojo": "Después de contar de fecha a fecha, mira siempre qué día de la semana es."
+ },
+ "pr-08-002": {
+  "bloque": "plazos",
+  "precepto": "Arts. 30.2, 30.3 y 68.1 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Te sobra un día: el décimo día hábil es el 19 de abril. El 20 sería el undécimo.",
+   "Es esta. Los plazos por días se cuentan en hábiles desde el día siguiente (**art. 30.2 y 30.3**). Desde el 3 de abril: 4 y 5 (2 días), el 6 y 7 son festivos, del 10 al 14 (7 días) y 17, 18 y 19 (10 días). Dª Filomena termina el miércoles 19 de abril.",
+   "No. Es sumar 10 días naturales al 3 de abril. El plazo es en días hábiles (art. 30.2).",
+   "No. Es lo que sale quitando sábados y domingos pero olvidando que el 6 y el 7 de abril son festivos en el calendario."
+  ]
+ },
+ "pr-08-003": {
+  "bloque": "plazos",
+  "precepto": "Arts. 5.6, 30.2 y 30.3 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Es sumar 10 días naturales al 17 de marzo. Se cuentan en hábiles (art. 30.2) y hay fin de semana y festivo por medio.",
+   "No. Es lo que sale olvidando que el lunes 20 de marzo es festivo en el calendario: ese día no cuenta y falta uno más.",
+   "No. El 1 de abril es sábado, inhábil, así que no puede ser el último día de un plazo (art. 30.5). El plazo llega hasta el lunes 3.",
+   "Es esta. D. Bartolomé recibe el requerimiento el viernes 17 de marzo. El lunes 20 es festivo, así que se cuenta del 21 al 24 (4 días), del 27 al 31 (9 días) y el lunes 3 de abril (10 días) (**art. 30.2 y 30.3**)."
+  ]
+ },
+ "pr-08-004": {
+  "bloque": "plazos",
+  "precepto": "Art. 30.2 y 30.3 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Es lo que sale olvidando los festivos del 6 y 7 de abril. Son dos días hábiles menos, y el plazo debe llegar hasta el 12.",
+   "No. Es lo que sale olvidando el festivo del lunes 20 de marzo. Falta un día hábil más.",
+   "Es esta. Publicada el viernes 10 de marzo, se cuenta desde el lunes 13 (**art. 30.3**), sin sábados, domingos ni festivos (**art. 30.2**). Del 13 al 17 (5), del 21 al 24 (9), porque el 20 es festivo, del 27 al 31 (14), del 3 al 5 de abril (17), el 6 y el 7 son festivos, y 10, 11 y 12 (20). Termina el miércoles 12 de abril.",
+   "No. Te sobra un día: el vigésimo día hábil es el 12 de abril, y el 13 ya está fuera de plazo."
+  ],
+  "ojo": "En este cómputo hay tres festivos por el medio. Si te sale antes del 12, repasa cuál te has saltado."
+ },
+ "pr-08-005": {
+  "bloque": "plazos",
+  "precepto": "Arts. 96.3 y 30.2 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Es sumar 5 días naturales al 1 de marzo. Los días son hábiles (art. 30.2), y el 4 y el 5 de marzo son fin de semana.",
+   "No. Es contar como primer día el mismo día de la presentación. Se empieza a contar el día siguiente, el 2 de marzo.",
+   "No. El 8 de marzo es el quinto y último día del plazo, así que aún no ha terminado de pasar. La desestimación llega al día siguiente.",
+   "Es esta. El **art. 96.3** dice que se entiende desestimada una vez “transcurrido” el plazo de cinco días. Desde el 1 de marzo: 2 y 3, luego 6, 7 y 8 (**art. 30.2**). El plazo acaba el miércoles 8, de modo que Dª Águeda puede entenderla desestimada a partir del jueves 9 de marzo."
+  ],
+  "ojo": "Lee bien la pregunta: no pide el último día del plazo, sino “a partir de qué día” ya se entiende desestimada, que es el siguiente."
+ },
+ "pr-08-006": {
+  "bloque": "plazos",
+  "precepto": "Arts. 90.2, 30.2 y 30.3 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El **art. 90.2** da quince días para alegar, y son hábiles desde el día siguiente (**art. 30.2 y 30.3**). Notificado D. Fabián el viernes 27 de enero: 30 y 31 (2), del 1 al 3 de febrero (5), del 6 al 10 (10) y del 13 al 17 (15). Termina el viernes 17 de febrero.",
+   "No. Te sobra un día: el lunes 20 de febrero sería el decimosexto día hábil. El 17 es hábil y no hay que pasar al siguiente.",
+   "No. Es contar como primer día el 27 de enero, el de la notificación. Se empieza el día siguiente hábil, el 30 de enero (art. 30.3).",
+   "No. Se queda dos días hábiles corto: el 15 de febrero es el decimotercer día del plazo."
+  ]
+ },
+ "pr-08-007": {
+  "bloque": "plazos",
+  "precepto": "Arts. 21.3.b), 30.4 y 24.4 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. El 23 de marzo es el último día del plazo, y la Administración aún puede notificar durante todo ese día. El silencio se produce cuando ya ha vencido.",
+   "Es esta. En un procedimiento a solicitud, el plazo se cuenta desde la entrada en el registro, el 23 de enero (**art. 21.3.b**), no desde el acuerdo del 25. Dos meses de fecha a fecha llevan al jueves 23 de marzo (**art. 30.4**). Vencido ese día sin resolución, los efectos del silencio se producen a partir del viernes 24 de marzo (**art. 24.4**).",
+   "No. Es contar desde el acuerdo de iniciación del 25 de enero, cosa que solo vale en los procedimientos de oficio (art. 21.3.a). Además, el 25 de marzo es sábado.",
+   "No. Sale de contar desde el 25 de enero y pasar del sábado 25 de marzo al lunes 27. Pero el punto de partida es el 23 de enero."
+  ],
+  "ojo": "La trampa es el acuerdo del 25 de enero. Si el procedimiento lo inicia una solicitud, manda la entrada en el registro competente."
+ },
+ "pr-08-008": {
+  "bloque": "plazos",
+  "precepto": "Arts. 21.3.a) y 30.4 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Como la norma no fija plazo, son tres meses (**art. 21.3**). Al ser de oficio, se cuentan desde la fecha del acuerdo de iniciación, el 3 de febrero (**art. 21.3.a**), no desde que se notifica a Dª Marta. De fecha a fecha llegan al miércoles 3 de mayo (**art. 30.4**), que es hábil.",
+   "No. Es contar desde la notificación del 13 de febrero. En los procedimientos de oficio se cuenta desde la fecha del acuerdo.",
+   "No. Sale de contar desde la notificación y pasar del sábado 13 de mayo al lunes 15. Parte de una fecha equivocada.",
+   "No. Mezcla dos errores: usa seis meses, que es el tope del art. 21.2 y no el plazo supletorio, y cuenta desde la notificación."
+  ],
+  "ojo": "Los festivos del 1 y 2 de mayo no influyen: en un plazo por meses solo importa si el último día es inhábil. Si se pasa el plazo sin notificar, el procedimiento sancionador caduca (art. 25.1.b)."
+ },
+ "pr-08-009": {
+  "bloque": "plazos",
+  "precepto": "Arts. 43.2, 30.4 y 122.1 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Cuenta desde la fecha de la resolución, el 5 de abril. Lo que abre el plazo es la notificación, no el día en que se firmó.",
+   "No. Cuenta desde la puesta a disposición, el 8 de abril. La notificación electrónica se entiende practicada al acceder a su contenido (art. 43.2), y eso pasó el 10.",
+   "Es esta. Según el **art. 43.2**, la notificación electrónica se practica cuando se accede a su contenido: D. Torcuato accede el 10 de abril, dentro de los diez días naturales. El mes va de fecha a fecha (**art. 30.4**) y acaba el miércoles 10 de mayo, que es hábil.",
+   "No. Es el error de sumar un día por empezar a contar al día siguiente. Por meses, se acaba en el mismo número: el 10."
+  ],
+  "ojo": "Hay tres fechas: la de la resolución, la de la puesta a disposición y la de acceso. Solo la de acceso abre el plazo."
+ },
+ "pr-08-010": {
+  "bloque": "actos",
+  "precepto": "Art. 43.2 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. El 13 de abril es el décimo día natural, y todavía puede acceder durante ese día. Los diez días tienen que haber “transcurrido”, así que el rechazo opera desde el día siguiente.",
+   "Es esta. Dª Lucía es abogada colegiada y actúa en ejercicio de su profesión, así que está obligada a la vía electrónica (art. 14.2.c). Según el **art. 43.2**, la notificación se entiende rechazada al transcurrir **diez días naturales** desde la puesta a disposición. Contando desde el 3 de abril, el décimo día es el 13, y a partir del 14 de abril se entiende rechazada.",
+   "No. El 19 de abril sale de contar días hábiles. Este es uno de los pocos plazos que la ley fija expresamente en días naturales, y en esos días cuentan festivos y fines de semana.",
+   "No. Es el día siguiente al 19, que sale de contar en hábiles. El art. 43.2 dice naturales."
+  ],
+  "ojo": "Dos preguntas distintas: el último día para acceder es el 13 de abril (décimo día natural); “a partir de qué día” está rechazada es el 14. Son naturales, así que no se saltan el 6 y 7 de abril ni los fines de semana."
+ },
+ "pr-08-011": {
+  "bloque": "plazos",
+  "precepto": "Art. 30.1 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Te han quitado la media hora. Se cuenta de hora en hora y de minuto en minuto desde las 9:30, no desde la hora en punto (art. 30.1).",
+   "Es esta. Los plazos por horas se cuentan “de hora en hora y de minuto en minuto” desde la publicación (**art. 30.1**). Publicado el listado el miércoles 10 de mayo a las 9:30, sumando doce horas se llega a las 21:30 del mismo día, que es hábil.",
+   "No. Es redondear hacia arriba. Las horas se cuentan al minuto, sin redondeos: 9:30 más 12 horas son las 21:30.",
+   "No. No se para el reloj por la noche ni se limita al horario de oficina: son hábiles todas las horas de un día hábil (art. 30.1)."
+  ]
+ },
+ "pr-08-012": {
+  "bloque": "plazos",
+  "precepto": "Art. 30.1 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Es sumar 12 horas sin mirar el calendario. El 6 de abril es festivo y sus horas no cuentan: solo son hábiles las de un día hábil (art. 30.1).",
+   "No. El 8 de abril es sábado, inhábil. Se ha saltado los festivos del 6 y 7, pero no el fin de semana.",
+   "Es esta. Son hábiles todas las horas de un día hábil (**art. 30.1**). El miércoles 5 de abril quedan 6 horas, de las 18:00 a las 24:00. El 6 y 7 son festivos, y el 8 y 9 son fin de semana, así que no cuentan. Las otras 6 horas corren desde las 0:00 del lunes 10: el plazo acaba a las 6:00 del 10 de abril.",
+   "No. Empieza de cero el lunes y olvida las 6 horas ya gastadas el 5 de abril. Es un plazo único: se para, no vuelve a empezar."
+  ],
+  "ojo": "El reloj solo corre en días hábiles, pero corre las 24 horas, también de madrugada."
+ }
+}

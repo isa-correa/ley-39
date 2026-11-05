@@ -1,0 +1,465 @@
+{
+"pr-13-001": {
+ "bloque": "fuentes",
+ "precepto": "Art. 1.3 del Código Civil",
+ "correcta": 2,
+ "justificaciones": [
+  "No. Te han cambiado el plazo: las leyes entran en vigor a los **veinte días** de su completa publicación en el BOE, si ellas no dicen otra cosa (art. 2.1 CC). No al día siguiente.",
+  "No. Es justo al revés: las leyes **no** tienen efecto retroactivo si no dicen lo contrario (art. 2.3 CC). La regla general es que no miran hacia atrás.",
+  "Es esta. Es el **art. 1.3 del Código Civil**: la costumbre va detrás de la ley y solo se aplica si no hay ley, si no va contra la moral o el orden público y si se prueba. Recuerda los tres requisitos juntos.",
+  "No. Lo que cuenta no es la ratificación, sino la **publicación íntegra en el BOE**: hasta entonces el tratado no forma parte del Derecho interno ni se aplica directamente (art. 1.5 CC y art. 96.1 CE)."
+ ],
+ "ojo": "La regla de la “vacatio legis” (el tiempo entre publicar y entrar en vigor) son 20 días. El “día siguiente” es lo que muchas leyes disponen por su cuenta, pero no es la regla general."
+},
+"pr-13-002": {
+ "bloque": "fuentes",
+ "precepto": "Art. 86 de la Constitución",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. El decreto-ley es una disposición con **rango de ley** (**art. 86.1 CE**), y todas las normas con rango de ley están en el mismo escalón: ley orgánica, ley ordinaria, decreto-ley. La ley orgánica no es superior: se distingue por la materia que regula, no por su rango.",
+  "No. Te han cambiado quién lo dicta: los decretos-leyes los dicta **el Gobierno**, no las Cortes Generales (art. 86.1 CE).",
+  "No. Se someten a debate y votación de totalidad **en el Congreso de los Diputados**, no en las Cortes Generales, en los 30 días siguientes a su promulgación (art. 86.2 CE). El Senado no interviene en la convalidación.",
+  "No. Es al revés: los decretos-leyes **no pueden** afectar al ordenamiento de las instituciones básicas del Estado, por muy urgente que sea el caso (art. 86.1 CE)."
+ ],
+ "ojo": "Parece raro que sea correcta la opción A, pero es una pregunta clásica: ley orgánica y decreto-ley tienen el mismo rango. Lo que no puede hacer el decreto-ley es entrar en las materias vedadas por el art. 86.1 CE."
+},
+"pr-13-003": {
+ "bloque": "fuentes",
+ "precepto": "Art. 1.3 del Código Civil",
+ "correcta": 3,
+ "justificaciones": [
+  "No. Es lo contrario: los jueces tienen el **deber inexcusable de resolver** en todo caso los asuntos de que conozcan (art. 1.7 CC). No pueden escudarse en que la ley no alcanza.",
+  "No. Sobra la jurisprudencia. Las fuentes son solo tres: ley, costumbre y principios generales del derecho (art. 1.1 CC). La jurisprudencia no es fuente: **complementa** el ordenamiento (art. 1.6 CC).",
+  "No. Te han puesto a la jurisprudencia la frase de la costumbre. “En defecto de ley aplicable” es del art. 1.3. La jurisprudencia del Tribunal Supremo no “rige”: complementa el ordenamiento (art. 1.6 CC).",
+  "Es esta. Es casi literal el párrafo segundo del **art. 1.3 CC**. Un uso jurídico que hace algo más que aclarar lo que quisieron decir las partes vale como costumbre."
+ ],
+ "ojo": "Ojo con la opción B: es la trampa más repetida de este artículo. Ley, costumbre y principios: tres fuentes, sin jurisprudencia."
+},
+"pr-13-004": {
+ "bloque": "fuentes",
+ "precepto": "Art. 24.2 de la Ley 50/1997",
+ "correcta": 1,
+ "justificaciones": [
+  "No. Separa en dos escalones lo que la ley pone en uno solo. El Real Decreto del Presidente y el acordado en Consejo de Ministros están **al mismo nivel** (art. 24.2).",
+  "Es esta. El **art. 24.2 de la Ley 50/1997** solo tiene dos escalones: primero, el Real Decreto (del Presidente o acordado en Consejo de Ministros); segundo, la Orden Ministerial.",
+  "No. Se inventa un orden entre ambos y deja fuera la Orden Ministerial. Consejo de Ministros y Presidente comparten escalón, y por debajo está la Orden (art. 24.2).",
+  "No. Sí hay jerarquía entre reglamentos: la Orden Ministerial está por debajo del Real Decreto (art. 24.2)."
+ ],
+ "ojo": "Recuerda: dos escalones, no tres. Y el Real Decreto va primero sea del Presidente o del Consejo de Ministros."
+},
+"pr-13-005": {
+ "bloque": "fuentes",
+ "precepto": "Art. 83 de la Constitución",
+ "correcta": 2,
+ "justificaciones": [
+  "No. Es una de las dos cosas prohibidas: las leyes de bases **no pueden** facultar para dictar normas con carácter retroactivo (art. 83.b CE).",
+  "No. Esa frase es de otra figura: las “disposiciones legislativas provisionales” son los **decretos-leyes** (art. 86.1 CE). Las leyes de bases sirven para que el Gobierno elabore textos articulados (art. 82.2 CE).",
+  "Es esta. El **art. 83.a) CE** prohíbe que una ley de bases autorice su propia modificación. Tiene sentido: el Gobierno recibe el encargo de desarrollar las bases, no de cambiarlas.",
+  "No. Es lo contrario: las leyes de bases **deben** delimitar con precisión el objeto y alcance de la delegación (art. 82.4 CE)."
+ ],
+ "ojo": "El art. 83 CE es corto: solo dos prohibiciones, modificar la propia ley de bases y permitir normas retroactivas."
+},
+"pr-13-006": {
+ "bloque": "interesados",
+ "precepto": "Art. 3.c) de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. El **art. 3.c)** da capacidad de obrar a los grupos de afectados, a las uniones y entidades sin personalidad jurídica y a los patrimonios independientes, pero solo “cuando la Ley así lo declare expresamente”. Sin esa ley, no la tienen.",
+  "No. Los menores tienen capacidad de obrar para los derechos e intereses que el ordenamiento les deja ejercer sin la asistencia de quien tenga la patria potestad o tutela (art. 3.b). No hace falta una declaración expresa de ley para cada caso.",
+  "No. Los menores incapacitados son la excepción del art. 3.b): quedan fuera cuando la incapacitación afecte a esos derechos. No es un caso de declaración expresa por ley.",
+  "No. Te han quitado el “sin”. Las personas jurídicas tienen capacidad de obrar con arreglo a las normas civiles (art. 3.a). Las que necesitan declaración expresa son las entidades **sin** personalidad jurídica."
+ ],
+ "ojo": "La palabra cambiada está en la opción D: “con personalidad” en lugar de “sin personalidad”."
+},
+"pr-13-007": {
+ "bloque": "interesados",
+ "precepto": "Art. 4.1.c) de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "Sí es interesado, así que no se marca. Quien promueve el procedimiento como titular de derechos entra en el art. 4.1.a).",
+  "Sí es interesado, así que no se marca. Es el art. 4.1.b): quien tiene **derechos** que pueden verse afectados es interesado aunque no haya iniciado el procedimiento y aunque no se persone.",
+  "Esta es la que hay que marcar, porque le falta un requisito. Quien solo tiene **intereses legítimos** afectados es interesado únicamente si además **se persona** en el procedimiento antes de la resolución definitiva (**art. 4.1.c**). Tal como está escrita, sin personarse, no lo es.",
+  "Sí es interesado, así que no se marca. Es el art. 4.1.a): quienes lo promueven como titulares de intereses legítimos, individuales o colectivos."
+ ],
+ "ojo": "La diferencia clave: con derechos afectados eres interesado sin hacer nada; con intereses legítimos afectados, tienes que personarte."
+},
+"pr-13-008": {
+ "bloque": "interesados",
+ "precepto": "Arts. 3.b) y 5.3 de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "Es verdadera, así que no se marca. El art. 5.3 exige acreditar la representación para presentar declaraciones responsables o comunicaciones, igual que para solicitudes, recursos, desistir o renunciar.",
+  "Es verdadera, así que no se marca. Es la regla general del art. 5.4: vale cualquier medio válido en Derecho que deje constancia fidedigna, es decir, fiable.",
+  "Es verdadera, así que no se marca. Formular alegaciones no está en la lista del art. 5.3, de modo que se trata como acto de mero trámite, y para esos actos la representación se presume.",
+  "Esta es la falsa, y por eso es la que hay que marcar. Falla “en todo caso”: los menores pueden actuar por sí mismos en los derechos e intereses que el ordenamiento les permite ejercer sin asistencia (**art. 3.b**). Por ejemplo, un menor que ya puede trabajar y gestiona lo relativo a ese trabajo."
+ ],
+ "ojo": "Para memorizar el art. 5.3: solicitudes, declaraciones responsables, comunicaciones, recursos, desistir y renunciar exigen acreditar. El resto de trámites, se presume."
+},
+"pr-13-009": {
+ "bloque": "actividad",
+ "precepto": "Art. 13.c) de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Esta es la que no está, y por eso es la que hay que marcar. El **art. 13.c)** reconoce el derecho a usar las lenguas oficiales “en el territorio de su Comunidad Autónoma”. Te han cambiado eso por “en todo el territorio nacional”: un gallego no tiene ese derecho ante una oficina de Sevilla.",
+  "Sí está en el artículo, así que no se marca. Es el art. 13.a): comunicarse con las Administraciones a través de un Punto de Acceso General electrónico.",
+  "Sí está en el artículo, así que no se marca. Es el art. 13.b): ser asistidos en el uso de medios electrónicos.",
+  "Sí está en el artículo, así que no se marca. Es el art. 13.g): obtener y usar los medios de identificación y firma electrónica de la Ley."
+ ]
+},
+"pr-13-010": {
+ "bloque": "actividad",
+ "precepto": "Art. 21.2 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "Es verdadera, así que no se marca. Es el art. 21.3: si la norma del procedimiento no fija plazo máximo, son tres meses.",
+  "Esta es la falsa, y por eso es la que hay que marcar. El tope de seis meses solo se puede superar si lo dice una **norma con rango de ley** o el Derecho de la Unión Europea (**art. 21.2**). Un reglamento no basta.",
+  "Es verdadera, así que no se marca. Es el art. 21.3.a): en los iniciados de oficio se cuenta desde la fecha del acuerdo de iniciación.",
+  "Es verdadera, así que no se marca. Es el párrafo tercero del art. 21.1: el pacto o convenio queda fuera de la obligación de resolver, y también los derechos sometidos solo a declaración responsable o comunicación."
+ ],
+ "ojo": "Han cambiado “norma con rango de ley” por “reglamentariamente”. Es el típico cambio de una palabra."
+},
+"pr-13-011": {
+ "bloque": "actividad",
+ "precepto": "Art. 22.2.c) de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. Está en el art. 22.1.g), que es la lista del “se **podrá** suspender”. El enunciado pregunta por el art. 22.2, los casos en que se suspende obligatoriamente.",
+  "No. Es el art. 22.1.d), también de la lista del “se podrá suspender”, aunque el tope de tres meses sea correcto.",
+  "Es esta. El **art. 22.2.c)** dice que el plazo “se suspenderá” cuando los interesados promuevan la recusación, desde que se plantea hasta que la resuelve el superior jerárquico del recusado.",
+  "No. Es el art. 22.1.c), otro caso de suspensión potestativa (la Administración puede decidirla, pero no está obligada)."
+ ],
+ "ojo": "Las cuatro opciones son casos reales de suspensión. La clave es distinguir el 22.1 (“podrá”) del 22.2 (“se suspenderá”): requerimiento a otra Administración, actuaciones complementarias y recusación."
+},
+"pr-13-012": {
+ "bloque": "actividad",
+ "precepto": "Art. 24.3.b) de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. Es casi literal el **art. 24.3.b)**: tras un silencio desestimatorio, la Administración sigue obligada a resolver y puede hacerlo en cualquier sentido. Por ejemplo, tras el silencio negativo aún puede decirte que sí.",
+  "No. Eso es del silencio **estimatorio**: ahí la resolución posterior solo puede confirmar lo ganado (art. 24.3.a). Han cruzado los dos supuestos.",
+  "No. El silencio negativo no ata a la Administración. Solo sirve para que el interesado pueda recurrir (art. 24.2), y la resolución posterior puede ser estimatoria.",
+  "No. No hay ninguna nulidad: la Administración sigue obligada a resolver expresamente (arts. 21.1 y 24.3)."
+ ],
+ "ojo": "Silencio positivo: ya has ganado, solo cabe confirmar. Silencio negativo: la Administración mantiene las manos libres."
+},
+"pr-13-013": {
+ "bloque": "plazos",
+ "precepto": "Art. 30.2 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. Por defecto son hábiles. Los naturales solo se aplican si lo declara una ley o el Derecho de la UE, y entonces sí se hace constar en las notificaciones (art. 30.2, párrafo segundo).",
+  "No. Faltan los sábados. Se excluyen sábados, domingos y festivos (art. 30.2), así que el “exclusivamente” lo estropea.",
+  "Es esta. Es el **art. 30.2**: los plazos por días son hábiles y se excluyen los sábados, los domingos y los declarados festivos.",
+  "No. No son naturales sino hábiles, y además se excluyen también sábados y domingos, no solo festivos."
+ ]
+},
+"pr-13-014": {
+ "bloque": "plazos",
+ "precepto": "Art. 30.4 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. No hay ningún salto al mes siguiente. El plazo acaba de fecha a fecha, dentro del mes de vencimiento (art. 30.4). Si ese día es inhábil, se pasa al primer hábil siguiente (art. 30.5), que es otra cosa.",
+  "Es esta. Es el **art. 30.4**: el plazo acaba el mismo día en que se produjo la notificación, publicación o silencio, pero en el mes de vencimiento. Si te notifican el 10 de marzo y tienes un mes, acaba el 10 de abril.",
+  "No. El art. 30.4 solo habla del último día del mes cuando no hay día equivalente (por ejemplo, un 31 con vencimiento en febrero). Y no dice “hábil”.",
+  "No. El cómputo **empieza** el día siguiente a la notificación, pero **termina** el mismo número de día, no el siguiente (art. 30.4)."
+ ],
+ "ojo": "Se empieza a contar al día siguiente, pero se acaba de fecha a fecha: es la confusión de la opción D."
+},
+"pr-13-015": {
+ "bloque": "plazos",
+ "precepto": "Art. 32.3 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. Te han puesto “excepcionalmente” donde la ley dice “en ningún caso”: un plazo vencido no se puede ampliar (art. 32.3).",
+  "No. Ante un ciberincidente la Administración “podrá acordar” una ampliación general (art. 32.5), no se aplica sola. El “en todo caso” por el tiempo máximo es para misiones diplomáticas, oficinas consulares y trámites en el extranjero (art. 32.2).",
+  "Es esta. El **art. 32.3** exige que tanto la petición como la decisión lleguen antes de que venza el plazo. Si el plazo acaba el viernes, la Administración tiene que decidir antes de que acabe.",
+  "No. Esos acuerdos **no** son recurribles por sí solos. Solo cabe recurrir después la resolución que ponga fin al procedimiento (art. 32.3)."
+ ]
+},
+"pr-13-016": {
+ "bloque": "plazos",
+ "precepto": "Art. 33.2 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. No cabe recurso alguno contra este acuerdo, ni en cinco días ni en ningún otro plazo (art. 33.2).",
+  "No. Los plazos se reducen a la mitad, **salvo** los de presentación de solicitudes y recursos (art. 33.1). Esta opción dice lo contrario de la excepción.",
+  "Es esta. Es el **art. 33.2**: contra el acuerdo de urgencia no cabe recurso. Si no estás de acuerdo, lo alegas al recurrir la resolución final.",
+  "No. La primera parte es buena (de oficio o a petición del interesado), pero el plazo para recurrir **no** se reduce: es una de las dos excepciones del art. 33.1."
+ ],
+ "ojo": "Lo que no se acorta con la urgencia: los plazos de solicitudes y de recursos. Todo lo demás, a la mitad."
+},
+"pr-13-017": {
+ "bloque": "actos",
+ "precepto": "Art. 35.1.a) de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. Se motivan los que **se separen** del criterio anterior, no los que lo confirman (art. 35.1.c). Solo hay que dar explicaciones cuando se cambia de criterio.",
+  "Es esta. Es literal el **art. 35.1.a)**. Si un acto te recorta derechos o intereses, tienes derecho a saber por qué, y por eso debe llevar una breve referencia a los hechos y al derecho aplicable.",
+  "No. Te han cambiado el tipo de procedimiento: se motiva el desistimiento de la Administración en procedimientos iniciados **de oficio** (art. 35.1.g), no a solicitud del interesado.",
+  "No. Las propuestas de resolución que se motivan son las de procedimientos **sancionadores**. En responsabilidad patrimonial se motiva el acto que resuelve, no la propuesta (art. 35.1.h)."
+ ]
+},
+"pr-13-018": {
+ "bloque": "actos",
+ "precepto": "Art. 36.2 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. El titular del órgano es quien da la orden verbal, pero no quien la pone por escrito. Solo debe autorizar una relación de las resoluciones verbales que haya dictado (art. 36.2).",
+  "Es esta. Lo dice el **art. 36.2**: escribe y firma quien la recibe oralmente, sea el titular del órgano inferior o un funcionario, indicando de qué autoridad procede. Tiene lógica: quien la oyó es quien da fe de ella.",
+  "No. El art. 36.2 habla del órgano **inferior**, no del superior.",
+  "No. No hay ninguna designación. Lo firma directamente quien recibe la orden de forma oral (art. 36.2)."
+ ]
+},
+"pr-13-019": {
+ "bloque": "actos",
+ "precepto": "Art. 37.2 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. Son nulas, pero sobra lo de la convalidación: solo se pueden convalidar los actos **anulables** (art. 52.1), nunca los nulos.",
+  "Es esta. El **art. 37.2** lo dice sin matices: son nulas las resoluciones que vulneren una disposición reglamentaria. Es la inderogabilidad singular: una resolución concreta no puede saltarse un reglamento, aunque la dicte el mismo órgano que lo aprobó o uno superior.",
+  "No. Aquí no se aplica la regla general de la anulabilidad del art. 48. Para este caso el art. 37.2 dice expresamente “nulas”.",
+  "No. Falla dos veces: son nulas, no anulables (art. 37.2), y la convalidación no cabe en los actos nulos (art. 52.1)."
+ ]
+},
+"pr-13-020": {
+ "bloque": "actos",
+ "precepto": "Art. 39.2 de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "No. Se presumen válidos, sí, pero producen efectos **desde que se dictan**, no desde que se notifican, salvo que dispongan otra cosa (art. 39.1).",
+  "No. Es al revés: puede haber eficacia retroactiva cuando produzcan efectos **favorables** al interesado (art. 39.3).",
+  "No. Es justo uno de los casos en los que sí cabe la retroactividad: los actos dictados en sustitución de actos anulados (art. 39.3).",
+  "Es esta. Es el **art. 39.2**: la eficacia se retrasa cuando lo exija el contenido del acto o cuando dependa de su notificación, publicación o aprobación superior. Es la excepción a la regla de que el acto surte efecto desde que se dicta."
+ ],
+ "ojo": "Regla: efectos desde que se dicta. Excepción por retraso, art. 39.2. Excepción por retroactividad, art. 39.3."
+},
+"pr-13-021": {
+ "bloque": "actos",
+ "precepto": "Art. 40.2 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. Te han cambiado el plazo: son **diez** días, no quince (art. 40.2).",
+  "No. Sobra “naturales”. La ley dice “diez días” sin más, y cuando no se precisa son hábiles (art. 30.2).",
+  "Es esta. Es el **art. 40.2**: la notificación se cursa dentro de los diez días desde la fecha en que se dictó el acto. Son hábiles, porque la ley no dice otra cosa (art. 30.2).",
+  "No. Falla dos veces: no son quince días, sino diez, y no son naturales (arts. 40.2 y 30.2)."
+ ]
+},
+"pr-13-022": {
+ "bloque": "actos",
+ "precepto": "Art. 40.4 de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. El **art. 40.4** se conforma con el texto íntegro de la resolución y el intento de notificación acreditado, solo para entender cumplido el plazo máximo del procedimiento. El resto de requisitos del art. 40.2 no hacen falta para este efecto.",
+  "No. Indicar si pone fin a la vía administrativa es un requisito de la notificación completa (art. 40.2), pero no del mínimo del art. 40.4.",
+  "No. La expresión de los recursos es otro requisito del art. 40.2 que no forma parte de ese mínimo del art. 40.4.",
+  "No. Recursos y plazo son del art. 40.2. Para cumplir el plazo máximo basta el texto íntegro (art. 40.4)."
+ ],
+ "ojo": "Si la pregunta dice “como mínimo” o “cuando menos”, piensa en el art. 40.4: solo el texto íntegro."
+},
+"pr-13-023": {
+ "bloque": "actos",
+ "precepto": "Art. 41.2.a) de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "No. Estos interesados sí pueden recibir notificaciones electrónicas si lo deciden y lo comunican a la Administración (art. 41.1). No están en la lista de prohibidas.",
+  "No. Te han cambiado la idea: lo excluido son las que contengan **medios de pago a favor de los obligados**, como cheques (art. 41.2.b). Algo que tienes que pagar sí se puede notificar electrónicamente.",
+  "No. Este caso no está en el art. 41.2, que solo tiene dos supuestos. Las medidas provisionales previas son del art. 56.2 y nada impide notificarlas por medios electrónicos.",
+  "Es esta. Es el **art. 41.2.a)**: si el acto va con algo que no se puede pasar a formato electrónico (un objeto físico, por ejemplo), no se puede notificar por esa vía. El otro caso prohibido son los medios de pago, como un cheque."
+ ],
+ "ojo": "Solo dos prohibiciones: elementos no convertibles y medios de pago a favor del interesado (un cheque que recibes, no una deuda que debes)."
+},
+"pr-13-024": {
+ "bloque": "actos",
+ "precepto": "Art. 41.7 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. Aunque las notificaciones electrónicas sean las preferentes (art. 41.1), no tienen prioridad para fijar la fecha. Solo cuenta cuál llegó primero (art. 41.7).",
+  "No. El papel tampoco tiene prioridad. Manda el orden en el tiempo, no el cauce (art. 41.7).",
+  "Es esta. Lo dice el **art. 41.7**: vale la que se produjo en primer lugar. Si abres la electrónica el lunes y te llega el papel el jueves, tu plazo empieza a contar desde el lunes.",
+  "No. Es lo contrario: vale la primera, no la última (art. 41.7). Si valiera la última, podrías alargar tu plazo a costa de la Administración."
+ ]
+},
+"pr-13-025": {
+ "bloque": "actos",
+ "precepto": "Arts. 42.2 y 44 de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "No. Te han cambiado la hora: si el primero fue antes de las quince horas, el segundo debe ser **después de las quince**, no de las diecisiete (art. 42.2).",
+  "No. Te han cambiado el margen: son al menos **tres horas** de diferencia, no dos (art. 42.2).",
+  "No. Sobra “naturales”. La ley dice “dentro de los tres días siguientes” sin más, y los plazos por días son hábiles si no se dice otra cosa (arts. 42.2 y 30.2).",
+  "Es esta. Si el segundo intento también falla, el **art. 42.2** remite al **art. 44**: la notificación se hace mediante un anuncio publicado en el BOE."
+ ],
+ "ojo": "Las cifras clave: segundo intento dentro de 3 días, al otro lado de las 15 horas, con 3 horas de margen."
+},
+"pr-13-026": {
+ "bloque": "actos",
+ "precepto": "Art. 43.1 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. Te han cambiado el sitio: la comparecencia es en la **sede electrónica**, no en el registro electrónico (art. 43.1).",
+  "Es esta. El **art. 43.1** admite dos vías: comparecencia en la sede electrónica y dirección electrónica habilitada única (o ambas, según disponga cada Administración).",
+  "No. El dispositivo que comunica el interesado solo sirve para enviarle **avisos**, no para practicar la notificación (art. 41.1, último párrafo).",
+  "No. Con el correo electrónico pasa igual: recibes el aviso de que tienes una notificación, pero la notificación no se practica ahí (art. 41.1, último párrafo, y art. 41.6)."
+ ],
+ "ojo": "Un email o un SMS te avisa de la notificación, pero no es la notificación."
+},
+"pr-13-027": {
+ "bloque": "actos",
+ "precepto": "Arts. 41.5 y 44 de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Esta es la que hay que marcar, porque en este caso no se publica anuncio. Si el interesado rechaza la notificación, se hace constar en el expediente, se da por efectuado el trámite y el procedimiento sigue (**art. 41.5**). Rechazar no es lo mismo que no poder notificar.",
+  "Sí procede el anuncio, así que no se marca. Es un caso del art. 44: se ignora el lugar de la notificación.",
+  "Sí procede el anuncio, así que no se marca. Es otro caso del art. 44: se intentó y no se pudo practicar.",
+  "Sí procede el anuncio, así que no se marca. Es el primer caso del art. 44: los interesados son desconocidos."
+ ]
+},
+"pr-13-028": {
+ "bloque": "actos",
+ "precepto": "Art. 45.1 de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "No. Se publica en el **diario oficial que corresponda** según la Administración de la que proceda el acto (art. 45.3). Un acto autonómico iría al boletín de esa Comunidad.",
+  "No. Es al revés: precisamente cuando el destinatario es una pluralidad indeterminada de personas, la publicación es **obligatoria** (art. 45.1.a).",
+  "No. En los casos del art. 45.1, párrafo segundo, la publicación surte los efectos de la notificación.",
+  "Es esta. El **art. 45.1** prevé la publicación cuando lo digan las normas de cada procedimiento o cuando lo aconsejen razones de interés público apreciadas por el órgano competente."
+ ]
+},
+"pr-13-029": {
+ "bloque": "nulidad",
+ "precepto": "Art. 47.1.c) de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "No. Le falta lo importante. Solo es nulo si el órgano es **manifiestamente** incompetente por razón de la materia o del territorio (art. 47.1.b). La incompetencia jerárquica o no manifiesta da anulabilidad.",
+  "No. Te han cambiado “penal” por “administrativa”: es nulo el constitutivo de infracción **penal** o dictado como consecuencia de ella (art. 47.1.d).",
+  "No. Se queda demasiado amplio. Solo los derechos y libertades **susceptibles de amparo constitucional** (art. 47.1.a).",
+  "Es esta. Es el **art. 47.1.c)**: un acto con contenido imposible es nulo. Por ejemplo, ordenar demoler un edificio que ya no existe. Ojo: imposible, no simplemente difícil."
+ ]
+},
+"pr-13-030": {
+ "bloque": "nulidad",
+ "precepto": "Art. 48.2 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. Te han cambiado “incluso” por “a excepción de”: la desviación de poder (usar una potestad para un fin distinto del que tiene) **sí** es causa de anulabilidad (art. 48.1).",
+  "Es esta. Es el **art. 48.2**: el defecto de forma solo anula cuando al acto le faltan los requisitos formales indispensables para alcanzar su fin. También cuando causa indefensión a los interesados.",
+  "No. Falla “en todo caso”: actuar fuera de tiempo solo da anulabilidad cuando así lo imponga la naturaleza del término o plazo (art. 48.3).",
+  "No. Ese vicio es de **nulidad** de pleno derecho, no de anulabilidad (art. 47.1.e)."
+ ]
+},
+"pr-13-031": {
+ "bloque": "nulidad",
+ "precepto": "Art. 49.1 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. Falla “en todo caso”: no arrastra a los actos sucesivos que sean independientes del primero (art. 49.1).",
+  "No. La conversión vale para los dos tipos: actos **nulos o anulables** que contengan los elementos de otro acto distinto (art. 50).",
+  "Es esta. Es el **art. 49.1**: si un acto cae, no se lleva por delante los actos posteriores que no dependan de él. Es una forma de salvar lo que se pueda del procedimiento.",
+  "No. Solo se pueden convalidar los actos **anulables**, nunca los nulos (art. 52.1)."
+ ],
+ "ojo": "Conversión: nulos y anulables. Convalidación: solo anulables."
+},
+"pr-13-032": {
+ "bloque": "nulidad",
+ "precepto": "Art. 52.2 de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. El **art. 52.2** dice que la convalidación produce efecto “desde su fecha”, es decir, desde que se convalida. La excepción es la retroactividad del art. 39.3, por eso el enunciado dice “como regla general”.",
+  "No. La convalidación la hace la propia Administración, subsanando los vicios (art. 52.1). No hace falta ninguna sentencia.",
+  "No. Eso sería darle efectos retroactivos, que solo cabe de forma excepcional según el art. 39.3. La regla es desde la fecha de la convalidación (art. 52.2).",
+  "No. Tampoco se retrocede al inicio del procedimiento. El efecto se produce desde la fecha de la convalidación (art. 52.2)."
+ ]
+},
+"pr-13-033": {
+ "bloque": "iniciacion",
+ "precepto": "Art. 53.1.g) de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. Te han quitado el “no”: el derecho es a **no presentar** documentos originales, salvo que excepcionalmente la normativa diga lo contrario (art. 53.1.c).",
+  "Es esta. Es el **art. 53.1.g)**: puedes ir acompañado de un asesor, como un abogado o un gestor, cuando lo creas conveniente para defender tus intereses.",
+  "No. Falla el momento: se pueden aportar en cualquier fase **anterior al trámite de audiencia**, y se tienen en cuenta al redactar la **propuesta de resolución** (art. 53.1.e).",
+  "No. Este derecho existe, pero es de todas las personas en sus relaciones con la Administración (art. 13.b), no específico de los interesados en un procedimiento."
+ ],
+ "ojo": "No mezcles el art. 13 (derechos de todas las personas) con el art. 53 (derechos de los interesados en un procedimiento)."
+},
+"pr-13-034": {
+ "bloque": "iniciacion",
+ "precepto": "Art. 54 de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. El **art. 54** solo prevé esas dos formas: de oficio (lo inicia la Administración) o a solicitud del interesado.",
+  "No. Esas son las cuatro modalidades de iniciación **de oficio** (art. 58), no las formas generales de iniciar. Falta además la solicitud del interesado.",
+  "No. Sobra la declaración responsable: es un documento para reconocer o ejercer un derecho o iniciar una actividad (art. 69), no una forma de iniciar procedimientos del art. 54.",
+  "No. La solicitud es del **interesado**. Quien no lo es puede poner los hechos en conocimiento de la Administración por denuncia, y eso no le da por sí solo esa condición (art. 62.1 y 62.5)."
+ ]
+},
+"pr-13-035": {
+ "bloque": "iniciacion",
+ "precepto": "Art. 55.1 de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "No. Las actuaciones previas no buscan identificar al órgano competente. En los sancionadores buscan concretar los hechos y a los posibles **responsables** (art. 55.2).",
+  "No. Esa finalidad es de las **medidas provisionales** una vez iniciado el procedimiento (art. 56.1).",
+  "No. También es de las medidas provisionales, en este caso las previas al inicio (art. 56.2).",
+  "Es esta. Es el **art. 55.1**: antes de iniciar, el órgano puede abrir un período para conocer las circunstancias del caso y decidir si conviene o no iniciar. Es mirar antes de saltar."
+ ]
+},
+"pr-13-036": {
+ "bloque": "iniciacion",
+ "precepto": "Art. 56.5 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. Sí pueden adoptarse antes de iniciar, en casos de urgencia inaplazable y para proteger provisionalmente los intereses implicados (art. 56.2).",
+  "No. Te han cambiado el órgano: una vez iniciado, las adopta el competente para **resolver**, no para instruir (art. 56.1).",
+  "Es esta. El **art. 56.5** dice que en todo caso se extinguen cuando surte efectos la resolución que pone fin al procedimiento. Son provisionales: acaban cuando llega la decisión definitiva.",
+  "No. Está cruzada con la B: antes de iniciar, las adopta el órgano competente para **iniciar o instruir**, no para resolver (art. 56.2)."
+ ],
+ "ojo": "Iniciado el procedimiento: órgano que resuelve. Antes de iniciarlo: órgano que inicia o instruye. Las dos opciones lo tienen al revés."
+},
+"pr-13-037": {
+ "bloque": "iniciacion",
+ "precepto": "Art. 62.3 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. No hay obligación de iniciar. La ley admite que no se inicie, pero exige motivarlo (art. 62.3).",
+  "Es esta. Es casi literal el **art. 62.3**: dos obligaciones en estos casos, motivar por qué no se inicia y decirle al denunciante si se ha iniciado o no.",
+  "No. Lo que se notifica es la decisión de si se ha iniciado o no, tanto si la respuesta es sí como si es no. El art. 62.3 no habla de notificar el acuerdo de iniciación.",
+  "No. Es lo contrario: aquí la no iniciación **sí** debe motivarse. Mezcla esto con otra regla cierta, que la denuncia no da por sí sola la condición de interesado (art. 62.5)."
+ ]
+},
+"pr-13-038": {
+ "bloque": "iniciacion",
+ "precepto": "Art. 63.1 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "Es verdadera, así que no se marca. Es literal el art. 63.2: sin procedimiento no hay sanción.",
+  "Es verdadera, así que no se marca. Es el art. 63.1: los sancionadores siempre se inician de oficio, aunque haya una denuncia detrás.",
+  "Esta es la falsa, y por eso es la que hay que marcar. El **art. 63.1** separa al que **instruye** del que **sanciona**, no al que inicia del que resuelve. El órgano que inicia sí puede ser el mismo que resuelve.",
+  "Es verdadera, así que no se marca. Es la parte final del art. 63.1: la fase instructora y la sancionadora van en órganos distintos."
+ ],
+ "ojo": "La separación es entre instruir y sancionar. La trampa consiste en cambiar “instructor” por “el que lo inició”."
+},
+"pr-13-039": {
+ "bloque": "iniciacion",
+ "precepto": "Art. 64.2.b) de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "Sí forma parte del contenido mínimo, así que no se marca. Es el art. 64.2.a).",
+  "Esta es la que no forma parte, y por eso es la que hay que marcar. El acuerdo recoge “los hechos que motivan la incoación” (**art. 64.2.b**). Al empezar todavía no hay hechos probados: se fijan más tarde, en la propuesta de resolución (art. 89.3).",
+  "Sí forma parte del contenido mínimo, así que no se marca. Es el art. 64.2.c).",
+  "Sí forma parte del contenido mínimo, así que no se marca. Es el art. 64.2.d)."
+ ],
+ "ojo": "Tiene lógica: si al iniciar ya se dieran los hechos por probados, se rompería la presunción de no existencia de responsabilidad (art. 53.2.b)."
+},
+"pr-13-040": {
+ "bloque": "iniciacion",
+ "precepto": "Art. 65.2 de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. Lo dice el **art. 65.2**: el procedimiento se instruye aunque los presuntos lesionados no se personen. Como lo inició la Administración por su cuenta, sigue adelante sin depender de ellos.",
+  "No. No hay ninguna suspensión. Precisamente el art. 65.2 dice que el procedimiento sigue su curso.",
+  "No. No se da un segundo plazo. Se les concede uno de diez días para alegar, aportar y proponer prueba, y si no se personan el procedimiento continúa (art. 65.2).",
+  "No. No hay advertencia de caducidad ni plazo de tres meses en este artículo. El procedimiento se instruye igualmente (art. 65.2)."
+ ]
+}
+}

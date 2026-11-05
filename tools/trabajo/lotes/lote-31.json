@@ -1,0 +1,127 @@
+{
+"lote": 31,
+"casos": {},
+"calendarios": {},
+"preguntas": [
+{
+"id": "pr-12-001",
+"origen": "practicas",
+"test": "Ejercicio nº 10 - Derechos ciudadanos/interesados.",
+"n": 1,
+"enunciado": "Indique si el siguiente derecho corresponde a quienes tienen capacidad de obrar ante las Administraciones Públicas (artículo 13), únicamente a los interesados en un procedimiento administrativo (artículo 53) o si no está reconocido en la Ley 39/2015:\nDerecho a exigir las responsabilidades de las Administraciones Públicas y autoridades, cuando así corresponda legalmente:",
+"opciones": [
+"Corresponde a quienes tienen capacidad de obrar ante las Administraciones Públicas.",
+"Corresponde únicamente a los interesados en un procedimiento administrativo.",
+"No está reconocido en la Ley 39/2015."
+]
+},
+{
+"id": "pr-12-002",
+"origen": "practicas",
+"test": "Ejercicio nº 10 - Derechos ciudadanos/interesados.",
+"n": 2,
+"enunciado": "Indique si el siguiente derecho corresponde a quienes tienen capacidad de obrar ante las Administraciones Públicas (artículo 13), únicamente a los interesados en un procedimiento administrativo (artículo 53) o si no está reconocido en la Ley 39/2015:\nDerecho a actuar asistidos de asesor cuando lo consideren conveniente en defensa de sus intereses:",
+"opciones": [
+"Corresponde a quienes tienen capacidad de obrar ante las Administraciones Públicas.",
+"Corresponde únicamente a los interesados en un procedimiento administrativo.",
+"Este derecho no se contempla en la Ley 39/2015."
+]
+},
+{
+"id": "pr-12-003",
+"origen": "practicas",
+"test": "Ejercicio nº 10 - Derechos ciudadanos/interesados.",
+"n": 3,
+"enunciado": "Indique si el siguiente derecho corresponde a quienes tienen capacidad de obrar ante las Administraciones Públicas (artículo 13), únicamente a los interesados en un procedimiento administrativo (artículo 53) o si no está reconocido en la Ley 39/2015:\nDerecho a identificar a las autoridades y al personal al servicio de las Administraciones Públicas bajo cuya responsabilidad se tramiten los procedimientos:",
+"opciones": [
+"Corresponde a quienes tienen capacidad de obrar ante las Administraciones Públicas.",
+"Corresponde únicamente a los interesados en un procedimiento administrativo.",
+"No está reconocido en la Ley 39/2015."
+]
+},
+{
+"id": "pr-12-004",
+"origen": "practicas",
+"test": "Ejercicio nº 10 - Derechos ciudadanos/interesados.",
+"n": 4,
+"enunciado": "Indique si el siguiente derecho corresponde a quienes tienen capacidad de obrar ante las Administraciones Públicas (artículo 13), únicamente a los interesados en un procedimiento administrativo (artículo 53) o si no está reconocido en la Ley 39/2015:\nDerecho a aportar documentos en cualquier fase del procedimiento anterior a la resolución definitiva:",
+"opciones": [
+"Corresponde a quienes tienen capacidad de obrar ante las Administraciones Públicas.",
+"Corresponde únicamente a los interesados en un procedimiento administrativo.",
+"No está reconocido en la Ley 39/2015."
+]
+},
+{
+"id": "pr-12-005",
+"origen": "practicas",
+"test": "Ejercicio nº 10 - Derechos ciudadanos/interesados.",
+"n": 5,
+"enunciado": "Indique si el siguiente derecho corresponde a quienes tienen capacidad de obrar ante las Administraciones Públicas (artículo 13), únicamente a los interesados en un procedimiento administrativo (artículo 53) o si no está reconocido en la Ley 39/2015:\nDerecho a cumplir las obligaciones de pago a través de los medios electrónicos previstos en el artículo 98.2:",
+"opciones": [
+"Corresponde a quienes tienen capacidad de obrar ante las Administraciones Públicas.",
+"Corresponde únicamente a los interesados en un procedimiento administrativo.",
+"No está reconocido en la Ley 39/2015."
+]
+},
+{
+"id": "pr-12-006",
+"origen": "practicas",
+"test": "Ejercicio nº 10 - Derechos ciudadanos/interesados.",
+"n": 6,
+"enunciado": "Indique si el siguiente derecho corresponde a quienes tienen capacidad de obrar ante las Administraciones Públicas (artículo 13), únicamente a los interesados en un procedimiento administrativo (artículo 53) o si no está reconocido en la Ley 39/2015:\nDerecho a ser asistidos en el uso de medios electrónicos en sus relaciones con las Administraciones Públicas:",
+"opciones": [
+"Corresponde a quienes tienen capacidad de obrar ante las Administraciones Públicas.",
+"Corresponde únicamente a los interesados en un procedimiento administrativo.",
+"No está reconocido en la Ley 39/2015."
+]
+},
+{
+"id": "pr-12-007",
+"origen": "practicas",
+"test": "Ejercicio nº 10 - Derechos ciudadanos/interesados.",
+"n": 7,
+"enunciado": "Indique si el siguiente derecho corresponde a quienes tienen capacidad de obrar ante las Administraciones Públicas (artículo 13), únicamente a los interesados en un procedimiento administrativo (artículo 53) o si no está reconocido en la Ley 39/2015:\nDerecho a comunicarse con las Administraciones Públicas a través de un Punto de Acceso General electrónico de la Administración:",
+"opciones": [
+"Corresponde a quienes tienen capacidad de obrar ante las Administraciones Públicas.",
+"Corresponde únicamente a los interesados en un procedimiento administrativo.",
+"No está reconocido en la Ley 39/2015."
+]
+},
+{
+"id": "pr-12-008",
+"origen": "practicas",
+"test": "Ejercicio nº 10 - Derechos ciudadanos/interesados.",
+"n": 8,
+"enunciado": "Indique si el siguiente derecho corresponde a quienes tienen capacidad de obrar ante las Administraciones Públicas (artículo 13), únicamente a los interesados en un procedimiento administrativo (artículo 53) o si no está reconocido en la Ley 39/2015:\nDerecho a acceder a toda información pública que obre en los archivos y registros de las Administraciones Públicas, sin limitación alguna:",
+"opciones": [
+"Corresponde a quienes tienen capacidad de obrar ante las Administraciones Públicas.",
+"Corresponde únicamente a los interesados en un procedimiento administrativo.",
+"No está reconocido en la Ley 39/2015."
+]
+},
+{
+"id": "pr-12-009",
+"origen": "practicas",
+"test": "Ejercicio nº 10 - Derechos ciudadanos/interesados.",
+"n": 9,
+"enunciado": "Indique si el siguiente derecho corresponde a quienes tienen capacidad de obrar ante las Administraciones Públicas (artículo 13), únicamente a los interesados en un procedimiento administrativo (artículo 53) o si no está reconocido en la Ley 39/2015:\nDerecho a no presentar documentos originales salvo que, de forma excepcional, la normativa reguladora aplicable establezca lo contrario:",
+"opciones": [
+"Corresponde a cualquier persona con capacidad de obrar que se relacione con las Administraciones Públicas.",
+"Corresponde únicamente a quienes tienen la condición de interesado en el procedimiento administrativo.",
+"No está reconocido en la Ley 39/2015."
+]
+},
+{
+"id": "pr-12-010",
+"origen": "practicas",
+"test": "Ejercicio nº 10 - Derechos ciudadanos/interesados.",
+"n": 10,
+"enunciado": "Indique si el siguiente derecho corresponde a quienes tienen capacidad de obrar ante las Administraciones Públicas (artículo 13), únicamente a los interesados en un procedimiento administrativo (artículo 53) o si no está reconocido en la Ley 39/2015:\nDerecho a obtener información y orientación acerca de los requisitos jurídicos o técnicos que las disposiciones vigentes impongan a los proyectos, actuaciones o solicitudes que se propongan realizar:",
+"opciones": [
+"Corresponde a quienes tienen capacidad de obrar ante las Administraciones Públicas.",
+"Corresponde únicamente a los interesados en un procedimiento administrativo.",
+"No está reconocido en la Ley 39/2015."
+]
+}
+]
+}

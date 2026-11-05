@@ -1,0 +1,379 @@
+{
+"pr-09-001": {
+ "bloque": "actos",
+ "precepto": "Art. 35.1.e) de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. El **art. 35.1.e)** exige motivar los acuerdos de realización de actuaciones complementarias. El art. 87 lo repite: se deciden “mediante acuerdo motivado”.",
+  "No. Está expresamente en la lista del art. 35.1.e), junto con la tramitación de urgencia y la ampliación de plazos."
+ ],
+ "ojo": "Para recordar la letra e): urgencia, ampliación de plazos y actuaciones complementarias van juntas."
+},
+"pr-09-002": {
+ "bloque": "actos",
+ "precepto": "Art. 35.1.h) de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. El art. 35.1.h) solo incluye la propuesta de resolución en los procedimientos **sancionadores**. En responsabilidad patrimonial (cuando la Administración responde por un daño que ha causado) lo que se motiva es el acto que resuelve, no la propuesta.",
+  "Es esta. El **art. 35.1.h)** nombra dos cosas: las propuestas de resolución de los sancionadores y los actos que resuelven sancionadores o de responsabilidad patrimonial. La propuesta de un procedimiento de responsabilidad patrimonial no aparece, así que no entra en la lista."
+ ],
+ "ojo": "Trampa clásica de la letra h). Sancionador: propuesta y resolución. Responsabilidad patrimonial: solo la resolución."
+},
+"pr-09-003": {
+ "bloque": "actos",
+ "precepto": "Art. 35.1.e) de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. El **art. 35.1.e)** exige motivar los acuerdos de aplicación de la tramitación de urgencia. Tiene sentido: la urgencia reduce los plazos a la mitad (art. 33.1), así que hay que explicar por qué se aplica.",
+  "No. Aparece expresamente en el art. 35.1.e). Puede que te confunda el art. 33.2, que dice que contra ese acuerdo no cabe recurso: no poder recurrirlo no quita que haya que motivarlo."
+ ],
+ "ojo": "Una cosa es que no quepa recurso contra el acuerdo de urgencia (art. 33.2) y otra que no se motive. Se motiva."
+},
+"pr-09-004": {
+ "bloque": "actos",
+ "precepto": "Art. 35.1.c) de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. El **art. 35.1.c)** obliga a motivar los actos que se separan del criterio seguido en actuaciones precedentes. Si la Administración cambia de criterio respecto a lo que venía haciendo, tiene que explicar por qué.",
+  "No. Está expresamente en la lista del art. 35.1.c). Lo que no hay que motivar por esta letra es el acto que sigue el criterio anterior, no el que se aparta de él."
+ ]
+},
+"pr-09-005": {
+ "bloque": "actos",
+ "precepto": "Art. 35.1.i) de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. La lista del art. 35.1 habla de potestades **discrecionales** en la letra i), no de regladas. Te han cambiado esa palabra.",
+  "Es esta. El **art. 35.1.i)** exige motivar los actos dictados en ejercicio de potestades **discrecionales**, es decir, cuando la ley deja a la Administración elegir entre varias soluciones. En las regladas la ley ya marca qué hay que hacer, y por eso no están en la lista."
+ ],
+ "ojo": "Por ser reglado no hay obligación de motivar. Otra cosa es que ese acto encaje en otra letra, por ejemplo si limita derechos (art. 35.1.a), y entonces sí habría que motivarlo."
+},
+"pr-09-006": {
+ "bloque": "actos",
+ "precepto": "Arts. 35.1 y 24 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. Un acto por silencio nace precisamente porque la Administración no ha contestado a tiempo. No hay escrito ni decisión expresa donde poner los motivos, y el art. 35.1 no lo incluye.",
+  "Es esta. El silencio se produce cuando vence el plazo sin que se haya notificado resolución (**art. 24.1**). Sus efectos vienen de la ley y de ese vencimiento, no de una decisión redactada, y por eso no tiene motivación ni aparece en la lista del **art. 35.1**. Se acredita con cualquier medio de prueba, por ejemplo el certificado de silencio (art. 24.4)."
+ ]
+},
+"pr-09-007": {
+ "bloque": "actos",
+ "precepto": "Art. 35.1.d) de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. El **art. 35.1.d)** incluye la adopción de medidas provisionales del art. 56. Y el art. 56 lo confirma: se adoptan “de forma motivada”. Son decisiones que afectan al interesado antes de resolver (cerrar un local, por ejemplo), y hay que justificarlas.",
+  "No. Está expresamente en el art. 35.1.d), junto con los acuerdos de suspensión de actos."
+ ]
+},
+"pr-09-008": {
+ "bloque": "actos",
+ "precepto": "Arts. 35.1 y 82 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. El art. 35.1 no menciona la apertura de la audiencia. Tampoco el art. 82, que la regula, habla de acuerdo motivado.",
+  "Es esta. Abrir el trámite de audiencia no aparece en la lista del **art. 35.1**. Es un paso normal del procedimiento (**art. 82**): antes de redactar la propuesta se enseña el expediente a los interesados. No limita derechos, al contrario, les da la oportunidad de alegar."
+ ]
+},
+"pr-09-009": {
+ "bloque": "actos",
+ "precepto": "Art. 35.1.h) de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. El **art. 35.1.h)** incluye expresamente las propuestas de resolución en los procedimientos sancionadores. El art. 89.3 añade que en ella se fijan “de forma motivada” los hechos probados y su calificación jurídica.",
+  "No. Precisamente la propuesta que sí se motiva es la del sancionador (art. 35.1.h). La que no aparece en la lista es la de responsabilidad patrimonial."
+ ]
+},
+"pr-09-010": {
+ "bloque": "actos",
+ "precepto": "Arts. 35.1 y 77.2 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. El art. 35.1 no menciona la apertura del período de prueba. Lo que sí se motiva es otra cosa: rechazar pruebas propuestas por los interesados (art. 35.1.f).",
+  "Es esta. Abrir el período ordinario de prueba (de 10 a 30 días) lo acuerda el instructor según el **art. 77.2**, y no está en la lista del **art. 35.1**. La letra f) solo obliga a motivar el rechazo de pruebas, porque ese sí perjudica al interesado."
+ ]
+},
+"pr-09-011": {
+ "bloque": "actos",
+ "precepto": "Art. 35.1.b) de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. El **art. 35.1.b)** incluye los actos que resuelven procedimientos de arbitraje, junto con los de revisión de oficio y los recursos administrativos, y también los que los inadmiten.",
+  "No. Está expresamente en el art. 35.1.b), donde se habla de “procedimientos de arbitraje”."
+ ]
+},
+"pr-09-012": {
+ "bloque": "actos",
+ "precepto": "Art. 35.1.g) de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. Lo dice el **art. 35.1.g)**. Y el art. 84.2 insiste: la resolución que termina el procedimiento por esa imposibilidad “deberá ser motivada en todo caso”. Por ejemplo, si desaparece la cosa sobre la que se tramitaba.",
+  "No. Está en el art. 35.1.g) y además lo repite el art. 84.2, con “en todo caso”."
+ ]
+},
+"pr-09-013": {
+ "bloque": "actos",
+ "precepto": "Art. 35.1.f) de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. Te han cambiado “rechacen” por “admitan”. El art. 35.1.f) solo exige motivar el rechazo de las pruebas.",
+  "Es esta. El **art. 35.1.f)** habla de los actos que **rechacen** pruebas, no de los que las admiten. Si te admiten la prueba no sales perjudicado y no hace falta explicar nada. Si te la rechazan, sí (art. 77.3: solo se puede por ser manifiestamente improcedente o innecesaria, y con resolución motivada)."
+ ],
+ "ojo": "Una sola palabra cambia la respuesta: rechazar se motiva, admitir no."
+},
+"pr-09-014": {
+ "bloque": "actos",
+ "precepto": "Art. 35.1.g) de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. El **art. 35.1.g)** incluye el desistimiento por la Administración en procedimientos iniciados de oficio. El art. 93 lo confirma: podrá desistir “motivadamente”, y solo en los casos que prevean las leyes.",
+  "No. Está en el art. 35.1.g) y además lo repite el art. 93, que usa la palabra “motivadamente”."
+ ]
+},
+"pr-09-015": {
+ "bloque": "actos",
+ "precepto": "Art. 35.1.c) de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. El art. 35.1.c) habla de los actos que se **separan** del dictamen, no de los que lo siguen.",
+  "Es esta. El **art. 35.1.c)** solo obliga a motivar cuando el acto se separa del dictamen de un órgano consultivo. Si lo sigue, no entra en esta letra. Además, si la resolución incorpora el dictamen a su texto, esa aceptación ya le sirve de motivación (art. 88.6)."
+ ],
+ "ojo": "Igual que con el criterio de actuaciones anteriores: seguirlo no se motiva por esta letra, apartarse sí."
+},
+"pr-10-001": {
+ "bloque": "actos",
+ "precepto": "Arts. 43.3 y 40.4 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. El 1 de junio solo se dicta la resolución. El plazo máximo obliga a resolver y también a notificar (art. 21), así que dictarla no basta.",
+  "Es esta. Según el **art. 43.3**, la obligación de notificar en plazo se entiende cumplida con la **puesta a disposición** en la sede o en la dirección electrónica habilitada única (la DEHú). Como se puso a disposición de la sociedad el 2 de junio, esa es la fecha. La Administración no depende de cuándo entre la interesada.",
+  "No. El 7 de junio es el día en que doña Clara accede, y esa es la fecha de la notificación practicada (art. 43.2). Para cumplir el plazo basta con la puesta a disposición.",
+  "No. El 8 de junio no ocurre nada en este procedimiento. Esa fecha pertenece al expediente de don Javier."
+ ],
+ "ojo": "Dos fechas distintas en la electrónica: cumplir el plazo es la puesta a disposición (art. 43.3), y notificación practicada es el acceso (art. 43.2)."
+},
+"pr-10-002": {
+ "bloque": "actos",
+ "precepto": "Art. 43.2 de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. Una S.L. es persona jurídica y está obligada a la vía electrónica (art. 14.2.a), así que se aplica el **art. 43.2**: rechazada a los **diez días naturales** desde la puesta a disposición. Contando desde el 2 de junio, el día 1 es el 3 y el día 10 es el viernes 12 de junio. Ese es el último día para acceder.",
+  "No. El 12 es viernes y por eso no hay nada que pasar al lunes 15. Además, son días naturales, en los que sábados y domingos cuentan como cualquier otro día.",
+  "No. El 16 de junio sale si cuentas diez días **hábiles** (3, 4, 5, 8, 9, 10, 11, 12, 15 y 16). El art. 43.2 dice “naturales”.",
+  "No. Eso solo sería cierto si la vía electrónica no fuera obligatoria ni elegida. La sociedad está obligada por el art. 14.2.a), así que la falta de acceso sí determina el rechazo."
+ ],
+ "ojo": "Es una excepción a la regla general de días hábiles: aquí se cuentan días naturales."
+},
+"pr-10-003": {
+ "bloque": "actos",
+ "precepto": "Art. 43.2 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. El 1 de junio es la fecha en que se dicta la resolución. Dictar no es notificar.",
+  "No. El 2 de junio es la puesta a disposición. Esa fecha sirve para cumplir el plazo de notificar (art. 43.3), pero la notificación todavía no está practicada.",
+  "Es esta. El **art. 43.2** dice que la notificación electrónica se entiende practicada “en el momento en que se produzca el acceso a su contenido”. Doña Clara accede el 7 de junio. Da igual que sea domingo: lo que cuenta es el momento del acceso.",
+  "No. El 8 de junio saldría si pasaras el domingo 7 al lunes siguiente, pero esa regla es para el último día de un plazo (art. 30.5). Aquí no se está contando un plazo, sino fijando cuándo se accedió."
+ ]
+},
+"pr-10-004": {
+ "bloque": "actos",
+ "precepto": "Art. 40.4 de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. Según el **art. 40.4**, para cumplir el plazo basta el texto íntegro de la resolución y el **intento de notificación** debidamente acreditado. Don Javier eligió papel, y el primer intento se hace el viernes 5 de junio a las 11:30. Aunque no estuviera en casa, ese intento ya cumple la obligación.",
+  "No. El 8 de junio es la puesta a disposición en la DEHú, que serviría por el art. 43.3 en una notificación electrónica. Aquí ya hay antes un intento en papel acreditado, el del día 5, y la obligación quedó cumplida entonces.",
+  "No. El 9 de junio es cuando don Javier accede: esa es la fecha en que queda notificado (art. 41.7), no la que se usa para cumplir el plazo.",
+  "No. El 10 de junio es el segundo intento, el que entrega el papel. No hace falta esperar a que la notificación llegue: basta el primer intento acreditado (art. 40.4)."
+ ],
+ "ojo": "Compara con la pregunta 1: en papel cuenta el intento acreditado (art. 40.4), en electrónica la puesta a disposición (art. 43.3)."
+},
+"pr-10-005": {
+ "bloque": "actos",
+ "precepto": "Arts. 42.2 y 30.2 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. El 8 de junio sale contando días naturales (6, 7 y 8). Pero el plazo se da en días sin decir “naturales”, y entonces son hábiles (art. 30.2). El lunes 8 es solo el primero de los tres.",
+  "No. El 9 de junio sale si cuentas el propio viernes 5 como primer día. Se empieza a contar el día siguiente, y el martes 9 es el segundo día, no el último.",
+  "Es esta. El **art. 42.2** da “los tres días siguientes” para repetir el intento, y sin más indicación son hábiles (**art. 30.2**). Tras el viernes 5, el sábado 6 y el domingo 7 no cuentan: día 1 el lunes 8, día 2 el martes 9, día 3 el miércoles 10. El intento de las 17:15 cumple además la hora: después de las 15:00 y con más de tres horas de diferencia con las 11:30.",
+  "No. El viernes 12 sería el quinto día hábil. El art. 42.2 da tres días, no cinco."
+ ]
+},
+"pr-10-006": {
+ "bloque": "actos",
+ "precepto": "Arts. 41.7 y 43.2 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. El 5 de junio solo hay un intento fallido. Vale para cumplir el plazo (art. 40.4), pero don Javier todavía no ha recibido nada.",
+  "No. El 8 de junio se pone a disposición en la DEHú, y eso no notifica. La notificación electrónica se practica cuando se accede al contenido (art. 43.2).",
+  "Es esta. Don Javier queda notificado por dos cauces: la DEHú el 9 de junio y el papel el 10. El **art. 41.7** dice que, en ese caso, la fecha es la del que se produjo **en primer lugar**. Accede al contenido íntegro el martes 9, y esa es la fecha, aunque hubiera pedido papel (el art. 42.1 le permite entrar voluntariamente).",
+  "No. El 10 de junio es la entrega en papel, pero es posterior. Con varios cauces manda el primero (art. 41.7), así que el segundo no alarga nada."
+ ],
+ "ojo": "Importa para los recursos: el plazo para recurrir empezaría a contar desde el 9, no desde la entrega en papel del 10."
+},
+"pr-10-007": {
+ "bloque": "actos",
+ "precepto": "Art. 43.2 de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "No. El 18 de junio es el día 10 natural desde la puesta a disposición del 8. Ese recuento solo se aplica si la vía electrónica es obligatoria o elegida, y aquí no es ninguna de las dos.",
+  "No. Sería el día siguiente a los diez días naturales, pero don Javier no está en el supuesto del art. 43.2: es persona física y pidió papel.",
+  "No. El 23 de junio sale contando diez días hábiles y pasando al día siguiente. Tampoco vale: además de no aplicarse la regla a don Javier, esa regla habla de días naturales.",
+  "Es esta. El **art. 43.2** solo da por rechazada la notificación si la vía electrónica es **obligatoria o expresamente elegida**. Don Javier es persona física (art. 14.1) y eligió papel. La puesta a disposición en la DEHú es un acceso voluntario que acompaña al papel (art. 42.1), así que no entrar no tiene consecuencias."
+ ],
+ "ojo": "Compáralo con la sociedad del mismo caso: a ella sí se le aplica el rechazo a los diez días naturales, porque está obligada."
+},
+"pr-11-001": {
+ "bloque": "nulidad",
+ "precepto": "Art. 47.1.c) de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. El **art. 47.1.c)** declara nulos los actos que tengan un contenido imposible. Por ejemplo, ordenar derribar un edificio que ya no existe.",
+  "No. La anulabilidad es para las infracciones que no están en el art. 47 (art. 48.1). El contenido imposible sí está, en la letra c).",
+  "No. Sí incurre en un vicio, y además en el más grave: nulidad de pleno derecho por el art. 47.1.c)."
+ ]
+},
+"pr-11-002": {
+ "bloque": "nulidad",
+ "precepto": "Arts. 47.1.b) y 48.1 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. Te han cambiado el criterio. El art. 47.1.b) solo hace nula la incompetencia manifiesta por razón de la **materia o del territorio**, no de la jerarquía.",
+  "Es esta. La incompetencia jerárquica no está en el **art. 47.1.b)**, ni siquiera siendo manifiesta. Entonces entra en la regla general del **art. 48.1**: cualquier otra infracción del ordenamiento hace el acto anulable.",
+  "No. Dictarlo sin competencia es una infracción, así que algún vicio tiene: anulabilidad por el art. 48.1."
+ ],
+ "ojo": "Para recordarlo: materia y territorio, nulo. Jerarquía, anulable."
+},
+"pr-11-003": {
+ "bloque": "nulidad",
+ "precepto": "Art. 48.2 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. Un defecto de forma no está entre las causas de nulidad del art. 47, y este ni siquiera llega a anulabilidad.",
+  "No. El art. 48.2 solo lo hace anulable si el acto carece de los requisitos formales indispensables o causa indefensión. Aquí el enunciado dice justo lo contrario en las dos cosas.",
+  "Es esta. Según el **art. 48.2**, el defecto de forma “sólo” determina la anulabilidad en dos casos: si falta lo indispensable para alcanzar su fin o si causa indefensión (dejar al interesado sin poder defenderse). Aquí no pasa ninguna de las dos, así que el defecto no invalida el acto. Es lo que se llama una irregularidad no invalidante."
+ ]
+},
+"pr-11-004": {
+ "bloque": "nulidad",
+ "precepto": "Art. 48.1 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. La desviación de poder no está en la lista del art. 47. Parece muy grave, pero la ley la deja en anulabilidad.",
+  "Es esta. El **art. 48.1** lo dice expresamente: son anulables los actos con cualquier infracción del ordenamiento, “incluso la desviación de poder”. Desviación de poder es usar una potestad para un fin distinto del que marca la ley.",
+  "No. Sí es un vicio: el art. 48.1 la nombra de forma expresa como causa de anulabilidad."
+ ]
+},
+"pr-11-005": {
+ "bloque": "nulidad",
+ "precepto": "Art. 47.1.d) de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. El **art. 47.1.d)** declara nulos los actos constitutivos de infracción penal o dictados como consecuencia de ella. La prevaricación es un delito (dictar a sabiendas una resolución injusta), y este acto es en sí mismo ese delito.",
+  "No. La anulabilidad es solo para lo que no está en el art. 47. La infracción penal sí está, en la letra d).",
+  "No. Es uno de los vicios más graves que hay: nulidad de pleno derecho por el art. 47.1.d)."
+ ]
+},
+"pr-11-006": {
+ "bloque": "nulidad",
+ "precepto": "Art. 47.1.e) de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. Es casi literal el **art. 47.1.e)**: son nulos los actos dictados prescindiendo total y absolutamente del procedimiento o de las reglas esenciales para formar la voluntad de los órganos colegiados. Por ejemplo, un acuerdo de un órgano colegiado adoptado sin quórum.",
+  "No. Sería anulable una irregularidad que no llegue a esto. Aquí se prescinde “total y absolutamente” de reglas esenciales, y eso está en el art. 47.1.e).",
+  "No. Sí hay vicio: es una causa expresa de nulidad de pleno derecho (art. 47.1.e)."
+ ]
+},
+"pr-11-007": {
+ "bloque": "nulidad",
+ "precepto": "Art. 47.1.f) de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. Te han dado la vuelta a la frase. El art. 47.1.f) hace nulos esos actos cuando **se carezca** de los requisitos esenciales y sean contrarios al ordenamiento. Aquí el interesado sí los **reúne**.",
+  "No. El enunciado no describe ninguna infracción del ordenamiento, que es lo que exige el art. 48.1 para que haya anulabilidad.",
+  "Es esta. El **art. 47.1.f)** castiga adquirir facultades o derechos sin tener los requisitos esenciales. Si el interesado los reúne, ocurre lo normal: alguien que cumple obtiene lo que le corresponde, y tal como lo describe el enunciado no hay ningún vicio."
+ ],
+ "ojo": "Lee despacio: “reúne” en lugar de “carece”. Esa palabra cambia la respuesta."
+},
+"pr-11-008": {
+ "bloque": "nulidad",
+ "precepto": "Art. 48.1 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. El propio enunciado dice que la infracción es distinta de las del art. 47, y la nulidad de los actos se limita a esa lista.",
+  "Es esta. Es la regla general del **art. 48.1**: cualquier infracción del ordenamiento hace el acto anulable. La nulidad es la excepción, solo para los casos del art. 47; todo lo demás cae aquí.",
+  "No. Si hay una infracción del ordenamiento, hay vicio. Los casos en que la ley salva el acto son concretos: los de los apartados 2 y 3 del art. 48."
+ ]
+},
+"pr-11-009": {
+ "bloque": "nulidad",
+ "precepto": "Art. 48.3 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. Actuar fuera de plazo no está en la lista del art. 47. Ni en el peor caso llega a nulidad.",
+  "Es esta. El **art. 48.3** dice que actuar fuera de tiempo “sólo” implica anulabilidad cuando así lo imponga la naturaleza del término o plazo. El enunciado usa justo esa condición. Es decir, cuando el plazo era tan esencial que después ya no tiene sentido actuar.",
+  "No. Esta sería la respuesta si faltara la condición. Lo normal es que el retraso no invalide, pero aquí el enunciado dice que la naturaleza del plazo lo impone, y entonces hay anulabilidad."
+ ]
+},
+"pr-11-010": {
+ "bloque": "nulidad",
+ "precepto": "Art. 47.1.b) de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. El **art. 47.1.b)** declara nulos los actos dictados por órgano manifiestamente incompetente por razón de la materia **o del territorio**. Por ejemplo, un ayuntamiento que da una licencia para una finca de otro municipio.",
+  "No. La anulabilidad sería para la incompetencia por jerarquía. La de territorio, si es manifiesta, es nulidad (art. 47.1.b).",
+  "No. Sí hay vicio, y es de los más graves: nulidad de pleno derecho por el art. 47.1.b)."
+ ]
+},
+"pr-11-011": {
+ "bloque": "nulidad",
+ "precepto": "Art. 47.2 de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. El **art. 47.2** declara nulas las disposiciones que establezcan la retroactividad de disposiciones sancionadoras no favorables o restrictivas de derechos individuales. Es la misma idea del art. 9.3 de la Constitución: no te pueden sancionar con una norma aprobada después de lo que hiciste.",
+  "No. Se trata de una disposición, es decir, una norma general, y este caso está expresamente en el art. 47.2. El art. 48 habla de actos.",
+  "No. Sí hay vicio: vulnera además una garantía de la Constitución (art. 9.3) y es nulidad expresa del art. 47.2."
+ ]
+},
+"pr-11-012": {
+ "bloque": "actos",
+ "precepto": "Art. 37.2 de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. El **art. 37.2** lo dice sin rodeos: “son nulas las resoluciones administrativas que vulneren lo establecido en una disposición reglamentaria”. Es la inderogabilidad singular: la Administración no puede saltarse su propio reglamento en un caso concreto, ni aunque decida un órgano superior al que lo aprobó (art. 37.1).",
+  "No. Es la respuesta que sale si solo miras los arts. 47 y 48, porque este caso no está en la lista del art. 47. Pero el art. 37.2 prevé expresamente la nulidad para él.",
+  "No. Vulnerar un reglamento es una infracción clara, y el art. 37.2 le asigna la consecuencia más grave: nulidad."
+ ],
+ "ojo": "Trampa: la causa no está en el art. 47, sino en el art. 37.2. Conviene sumarla mentalmente a la lista de nulidades."
+},
+"pr-11-013": {
+ "bloque": "nulidad",
+ "precepto": "Art. 47.2 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. Te han cambiado “rango superior” por “igual rango”. El art. 47.2 solo hace nula la disposición que vulnera una de rango **superior** (y también lo dice el art. 1.2 del Código Civil).",
+  "No. El art. 48.1 regula la anulabilidad de los actos, no de las disposiciones, y contradecir una norma del mismo rango no es en sí una infracción.",
+  "Es esta. El **art. 47.2** exige que la otra disposición sea de **rango superior**. Entre normas del mismo rango no hay invalidez: la posterior deroga a la anterior en lo que sea incompatible (art. 2.2 del Código Civil). Se trata de normas sucesivas, no de un vicio."
+ ],
+ "ojo": "Es la misma trampa que en el art. 1.2 del Código Civil: lo que invalida es contradecir un rango superior."
+},
+"pr-11-014": {
+ "bloque": "nulidad",
+ "precepto": "Art. 47.1.a) de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. Es el **art. 47.1.a)**: son nulos los actos que lesionen los derechos y libertades susceptibles de amparo constitucional, es decir, los que se pueden defender ante el Tribunal Constitucional (por ejemplo, la libertad de expresión).",
+  "No. La lesión de derechos susceptibles de amparo está en la lista de nulidad, letra a). La anulabilidad queda para lo que no está en el art. 47.",
+  "No. Sí hay vicio, y es la primera causa de nulidad que cita la ley (art. 47.1.a)."
+ ]
+},
+"pr-11-015": {
+ "bloque": "nulidad",
+ "precepto": "Art. 47.2 de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. El **art. 47.2** declara nulas las disposiciones administrativas que regulen materias reservadas a la Ley. Si la Constitución dice que algo tiene que regularse por ley, un reglamento no puede hacerlo.",
+  "No. Es una disposición, y las disposiciones que incurren en estos casos son nulas de pleno derecho (art. 47.2). El art. 48 se refiere a los actos.",
+  "No. Sí hay vicio: es una de las causas de nulidad expresas del art. 47.2."
+ ]
+}
+}

@@ -1,0 +1,351 @@
+{
+"vo-05-001": {
+ "bloque": "finalizacion",
+ "precepto": "Art. 88.3 y 88.4 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. La prohibición de agravar la situación inicial es para los procedimientos iniciados **a solicitud del interesado**, no para los de oficio (art. 88.2). Te han cambiado el tipo de procedimiento.",
+  "Es esta. Junta dos apartados del artículo: la resolución “se dictará electrónicamente” (**art. 88.4**) y contendrá la decisión, motivada en los casos del art. 35 (**art. 88.3**). No toda resolución se motiva: solo las de esa lista.",
+  "No. La palabra “únicamente” lo estropea. Debe decidir todas las cuestiones planteadas por los interesados “y aquellas otras derivadas del mismo” (art. 88.1).",
+  "No. No es obligatorio: el órgano “podrá” pronunciarse sobre las cuestiones conexas, y antes debe avisar a los interesados con un plazo no superior a quince días para que aleguen (art. 88.1)."
+ ],
+ "ojo": "Conexas: la Administración “podrá”, no “deberá”. Y no agravar la situación es regla de los procedimientos a solicitud del interesado."
+},
+"vo-05-002": {
+ "bloque": "finalizacion",
+ "precepto": "Art. 88.6 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. La ley sí lo permite, con una condición: que el informe o dictamen se incorpore al texto de la resolución (art. 88.6).",
+  "No. No basta con aceptarlos sin más: “en todo caso” es falso, porque hay que incorporarlos al texto de la resolución (art. 88.6).",
+  "Es esta. El **art. 88.6** dice que aceptar un informe o dictamen sirve de motivación “cuando se incorporen al texto” de la resolución. Así el interesado puede leer las razones en la propia resolución, sin tener que buscarlas en otro documento.",
+  "No. La regla es general para las resoluciones y no se limita a los procedimientos sancionadores. Esa restricción no aparece en el art. 88.6."
+ ]
+},
+"vo-05-003": {
+ "bloque": "finalizacion",
+ "precepto": "Art. 88.5 de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "No. Es justo al revés: en los procedimientos a solicitud del interesado, la resolución no puede agravar su situación inicial “en ningún caso” (art. 88.2). Si hace falta, la Administración puede abrir de oficio un procedimiento nuevo.",
+  "No. Sobra el “nunca”. La ley admite que instruir y resolver recaigan en el mismo órgano. Solo cuando son órganos distintos, el instructor tiene que elevar una propuesta de resolución (art. 88.7).",
+  "No. Es lo contrario: en los procedimientos sancionadores, la propuesta “deberá ser notificada” a los interesados (arts. 88.7 y 89.2).",
+  "Es esta. La Administración no puede dejar de resolver porque la ley sea oscura o insuficiente, pero sí puede inadmitir las solicitudes de reconocimiento de derechos no previstos en el ordenamiento o manifiestamente sin fundamento (**art. 88.5**). Inadmitir significa rechazar la solicitud sin entrar en el fondo."
+ ]
+},
+"vo-05-004": {
+ "bloque": "finalizacion",
+ "precepto": "Art. 89.1.e) de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. Es el **art. 89.1.e)**: si se concluye, en cualquier momento, que la infracción ha prescrito, el instructor archiva sin propuesta de resolución. Prescrita significa que ha pasado el tiempo y ya no se puede sancionar, así que no tiene sentido seguir.",
+  "No. El reconocimiento de responsabilidad no lleva a archivar: permite resolver el procedimiento imponiendo la sanción que proceda (art. 85.1).",
+  "No. Un acuerdo con la Administración es otra forma de terminar el procedimiento, la terminación convencional (art. 86), y no está entre los supuestos de archivo del art. 89.1.",
+  "No. Que la infracción sea leve no permite archivar. Lo que permite es usar la tramitación simplificada (art. 96.5), y el procedimiento sigue."
+ ],
+ "ojo": "Los cinco casos de archivo sin propuesta son: los hechos no existen, no se acreditan o no son infracción de forma manifiesta, no hay responsable identificado o está exento, o la infracción ha prescrito."
+},
+"vo-05-005": {
+ "bloque": "finalizacion",
+ "precepto": "Art. 90.2 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. Te han cambiado el plazo: son quince días, no diez (art. 90.2).",
+  "No. No hace falta archivar ni empezar de nuevo. El mismo procedimiento sigue y basta con darle al inculpado un trámite de alegaciones (art. 90.2).",
+  "Es esta. Si quien resuelve ve la infracción o la sanción más graves que en la propuesta, debe avisar al inculpado para que alegue “en el plazo de quince días” (**art. 90.2**). Así nadie recibe una sanción más dura sin haber podido defenderse.",
+  "No. El procedimiento no vuelve atrás. Lo que manda el art. 90.2 es notificar al inculpado para que alegue y seguir adelante."
+ ]
+},
+"vo-05-006": {
+ "bloque": "finalizacion",
+ "precepto": "Art. 90.4 de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "Es verdadera, así que no se marca. El art. 90.4 dice que la resolución de este procedimiento complementario “será inmediatamente ejecutiva”.",
+  "Es verdadera, así que no se marca. La última frase del art. 90.4 dice que esta resolución pone fin a la vía administrativa.",
+  "Es verdadera, así que no se marca. El art. 90.4 dice expresamente que es “susceptible de terminación convencional”, es decir, que puede acabar por acuerdo.",
+  "Esta es la falsa, y por eso es la que hay que marcar. El **art. 90.4** dice lo contrario: ni el acuerdo ni aceptar la resolución “implicarán el reconocimiento voluntario de su responsabilidad”. El infractor puede aceptar pagar los daños sin admitir por eso que fue responsable."
+ ],
+ "ojo": "Pide la incorrecta, y te han quitado el “ni” de la ley para que parezca una consecuencia lógica."
+},
+"vo-05-007": {
+ "bloque": "finalizacion",
+ "precepto": "Art. 91.3 de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. El **art. 91.3** fija seis meses desde que se inició el procedimiento. Si no hay resolución notificada ni acuerdo, puede entenderse que la resolución es contraria a la indemnización, o sea, desestimatoria. El art. 24.1 también da silencio desestimatorio en responsabilidad patrimonial.",
+  "No. Fallan dos cosas: el plazo es de seis meses y no de tres, y la consecuencia es la desestimación, no la caducidad (art. 91.3).",
+  "No. El plazo sí es de seis meses, pero el silencio es negativo, no positivo (arts. 24.1 y 91.3). Así se evita que alguien consiga una indemnización solo porque la Administración no contestó.",
+  "No. Los tres meses del art. 21.3 solo se aplican si la norma no fija plazo, y aquí sí lo fija: seis meses (art. 91.3)."
+ ],
+ "ojo": "La ley dice “podrá entenderse” contraria a la indemnización: es la opción que más se acerca, aunque la redacción de la respuesta sea “se entenderá”."
+},
+"vo-05-008": {
+ "bloque": "finalizacion",
+ "precepto": "Art. 92 de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. En la Administración General del Estado resuelve el Ministro respectivo (**art. 92**). Resuelve el Consejo de Ministros en los casos del art. 32.3 de la Ley 40/2015 (daños por actos legislativos) o cuando una ley así lo disponga.",
+  "No. El art. 92 no da esta competencia a ningún Subsecretario: habla del Ministro respectivo o del Consejo de Ministros.",
+  "No. La competencia no se fija por la jerarquía del órgano que causó el daño. El art. 92 la atribuye directamente al Ministro o al Consejo de Ministros.",
+  "No. El órgano que causó el daño no resuelve sobre su propia responsabilidad. El art. 92 se la da al Ministro respectivo o al Consejo de Ministros."
+ ]
+},
+"vo-05-009": {
+ "bloque": "finalizacion",
+ "precepto": "Art. 90.2 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. Sobra el “necesariamente”. Hay casos en que el instructor archiva sin formular propuesta de resolución, por ejemplo si la infracción ha prescrito (art. 89.1).",
+  "No. Te han cambiado el plazo: son seis meses, no tres (art. 91.3).",
+  "Es esta. El **art. 90.2** dice que en la resolución no se pueden aceptar hechos distintos de los determinados en el procedimiento, “con independencia de su diferente valoración jurídica”. Los hechos no se pueden cambiar, pero sí su calificación legal.",
+  "No. La resolución decide las cuestiones planteadas y también las derivadas del procedimiento. Además, puede pronunciarse sobre las conexas si antes lo comunica a los interesados (art. 88.1)."
+ ]
+},
+"vo-05-010": {
+ "bloque": "finalizacion",
+ "precepto": "Art. 95.3 de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. El **art. 95.3** permite aprovechar los actos y trámites que no habrían cambiado, pero en el nuevo procedimiento siempre hay que repetir tres: alegaciones, proposición de prueba y audiencia al interesado. Se aprovecha el trabajo hecho sin quitarle al interesado su derecho a defenderse.",
+  "No. No hay que repetirlo todo: la ley permite incorporar los actos y trámites cuyo contenido se habría mantenido igual (art. 95.3).",
+  "No. Precisamente alegaciones y proposición de prueba son de los trámites que hay que volver a hacer, junto con la audiencia (art. 95.3).",
+  "No. Te han cambiado el tercer trámite: es audiencia al interesado, no petición de informes (art. 95.3)."
+ ],
+ "ojo": "Para recordarlo: alegaciones, prueba y audiencia son los tres trámites de defensa del interesado."
+},
+"vo-05-011": {
+ "bloque": "finalizacion",
+ "precepto": "Art. 95.1 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. Te han cambiado el plazo: la advertencia es de tres meses, no de dos (art. 95.1).",
+  "Es esta. Es la última frase del **art. 95.1**: contra la resolución que declare la caducidad “procederán los recursos pertinentes”. La caducidad es el cierre del procedimiento por inactividad, y el interesado puede discutir esa decisión.",
+  "No. Es lo contrario: la caducidad “no producirá por sí sola” la prescripción de las acciones (art. 95.3). Si el derecho sigue vivo, se puede empezar otra vez.",
+  "No. Es lo contrario: los procedimientos caducados “no interrumpirán” el plazo de prescripción (art. 95.3). El reloj sigue corriendo como si ese procedimiento no hubiera existido."
+ ]
+},
+"vo-05-012": {
+ "bloque": "finalizacion",
+ "precepto": "Art. 94.1 de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "No. La Administración no renuncia: “desiste”, y debe hacerlo motivadamente, en los supuestos y con los requisitos de las leyes (art. 93).",
+  "No. La motivación es correcta, pero la palabra no: la Administración “podrá desistir”, no renunciar. Además, necesita que lo prevean las leyes (art. 93).",
+  "No. Te han cruzado las palabras: se desiste de la solicitud y se renuncia a los derechos, no al revés (art. 94.1).",
+  "Es esta. Es casi literal el **art. 94.1**. Desistir es retirar tu solicitud, pero conservas el derecho y podrías pedirlo más adelante. Renunciar es abandonar el derecho, y solo se puede si el ordenamiento no lo prohíbe."
+ ],
+ "ojo": "De la solicitud se desiste; al derecho se renuncia. La Administración, en los procedimientos de oficio, solo desiste."
+},
+"vo-05-013": {
+ "bloque": "finalizacion",
+ "precepto": "Art. 96.5 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. No formular alegaciones no es requisito para la tramitación simplificada. El art. 96.5 se fija en si hay elementos suficientes para calificar la infracción como leve.",
+  "No. El pago voluntario no abre una tramitación simplificada: si se dan sus requisitos, termina el procedimiento (art. 85.2).",
+  "Es esta. El **art. 96.5** permite la tramitación simplificada cuando el órgano competente para iniciar considera que hay “elementos de juicio suficientes para calificar la infracción como leve”. Y aquí el interesado no puede oponerse.",
+  "No. Reconocer la responsabilidad permite resolver imponiendo la sanción que proceda (art. 85.1), pero no es el supuesto de la tramitación simplificada."
+ ],
+ "ojo": "Pago voluntario y reconocimiento de responsabilidad son del art. 85, formas de terminar el procedimiento. La simplificada sancionadora depende de que la infracción sea leve."
+},
+"vo-05-014": {
+ "bloque": "finalizacion",
+ "precepto": "Art. 96.3 de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "No. Te han cambiado el plazo: son treinta días, no veinte (art. 96.6).",
+  "No. Es lo contrario: en cualquier momento anterior a la resolución, el órgano competente puede acordar seguir por la tramitación ordinaria (art. 96.1).",
+  "No. Te han cambiado el plazo: las alegaciones al inicio son de cinco días, no de siete (art. 96.6.c).",
+  "Es esta. Si el órgano desestima la solicitud de tramitación simplificada, no cabe recurso: el **art. 96.3** lo dice “sin que exista posibilidad de recurso”. El procedimiento sigue por la vía ordinaria, así que el interesado no pierde su derecho a que se resuelva."
+ ]
+},
+"vo-05-015": {
+ "bloque": "finalizacion",
+ "precepto": "Art. 96.6 de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "No. La ley habla de treinta días, no de un mes. No es lo mismo, porque los plazos por días y por meses se cuentan de forma distinta (art. 30). Además, falta la salvedad “salvo que reste menos”.",
+  "No. Sobra el “en todo caso”. Si queda menos para la tramitación ordinaria, se aplica ese plazo más corto (art. 96.6).",
+  "No. Fallan dos cosas: el plazo cuenta desde el día siguiente a la notificación, no desde el mismo día, y sobra el “en todo caso” (art. 96.6).",
+  "Es esta. Reúne todos los elementos del **art. 96.6**: la salvedad “salvo que reste menos para su tramitación ordinaria”, el plazo de treinta días y el inicio del cómputo el día siguiente a la notificación del acuerdo de tramitación simplificada."
+ ],
+ "ojo": "La salvedad tiene su lógica: la vía rápida nunca debe acabar durando más que la ordinaria."
+},
+"vo-05-016": {
+ "bloque": "finalizacion",
+ "precepto": "Art. 98.1 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. Presentar un recurso no impide por sí solo la ejecución. La excepción es que “se produzca la suspensión” de la ejecución del acto (art. 98.1.a).",
+  "No. Lo que puede impedir la ejecutividad es una “disposición” que establezca lo contrario, no un informe (art. 98.1.c).",
+  "Es esta. Es el **art. 98.1.b)**: una resolución sancionadora no es ejecutiva mientras quepa contra ella algún recurso en vía administrativa, incluido el de reposición. Una sanción no se ejecuta hasta que se han agotado esos recursos.",
+  "No. El art. 98.1.d) habla de “aprobación o autorización superior”, sin mencionar ningún órgano colegiado. Te han cambiado el final."
+ ],
+ "ojo": "Las cuatro excepciones: suspensión, sanción recurrible en vía administrativa, disposición en contra y aprobación o autorización superior."
+},
+"vo-05-017": {
+ "bloque": "finalizacion",
+ "precepto": "Art. 100.1.c) de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. Es un nombre inventado para confundirte con la “ejecución subsidiaria”, que sí es un medio (art. 100.1.b). Subsidiaria es la ejecución, no la sanción.",
+  "No. Se parece a “compulsión sobre las personas” (art. 100.1.d), pero no tiene nada que ver. Compulsar es comprobar que una copia coincide con el original, y la ley actual habla de copias auténticas (art. 27).",
+  "Es esta. El **art. 100.1** enumera cuatro medios: apremio sobre el patrimonio, ejecución subsidiaria, multa coercitiva y compulsión sobre las personas. La multa coercitiva se impone para presionar y que el obligado cumpla, y se puede repetir (art. 103).",
+  "No. La desviación de poder no sirve para ejecutar nada: es un vicio que hace anulable un acto (art. 48.1)."
+ ]
+},
+"vo-05-018": {
+ "bloque": "finalizacion",
+ "precepto": "Arts. 100.1.a) y 101.1 de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "No. La multa coercitiva sirve para actos como los personalísimos, presionando con multas repetidas hasta que se cumplan (art. 103). Para cobrar una cantidad de dinero está el apremio.",
+  "No. La ejecución subsidiaria es para actos no personalísimos que otra persona puede realizar a costa del obligado, como derribar un muro (art. 102). No para cobrar dinero directamente.",
+  "No. La compulsión se reserva para obligaciones personalísimas de no hacer o soportar, y solo si la ley lo autoriza (art. 104).",
+  "Es esta. Es el **art. 101.1**: si hay que pagar una “cantidad líquida”, es decir, una cifra ya determinada, se sigue el procedimiento de apremio. Consiste en cobrar con los bienes del deudor, por ejemplo embargándolos."
+ ],
+ "ojo": "Dinero: apremio. Algo que otro puede hacer: subsidiaria. Algo que solo puedes hacer tú: multa coercitiva o compulsión."
+},
+"vo-05-019": {
+ "bloque": "revision",
+ "precepto": "Art. 106.1 de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "No. La revisión del art. 106.1 es para actos **nulos** del art. 47.1. La anulabilidad está en el art. 48, y el art. 47.2 trata de disposiciones nulas, no de anulabilidad.",
+  "No. Es lo contrario: hace falta “previo dictamen favorable” del Consejo de Estado u órgano consultivo equivalente, si lo hubiere (art. 106.1).",
+  "No. La nulidad se puede declarar “en cualquier momento” (art. 106.1). El límite de cuatro años es de la declaración de lesividad (art. 107.2).",
+  "Es esta. El **art. 106.1** dice que la revisión puede empezar “por iniciativa propia o a solicitud de interesado”. Aunque se llame revisión “de oficio”, el ciudadano también puede pedirla."
+ ],
+ "ojo": "Solo en el caso de actos cabe pedirla el interesado. La nulidad de disposiciones (art. 106.2) la inicia la Administración de oficio."
+},
+"vo-05-020": {
+ "bloque": "revision",
+ "precepto": "Art. 106.5 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. La prescripción afecta a derechos, acciones o infracciones por el paso del tiempo. El art. 106.5 dice que el procedimiento caduca, no que prescriba.",
+  "No. El silencio desestimatorio es para cuando el procedimiento se inició a solicitud de interesado. Aquí se inició de oficio (art. 106.5).",
+  "Es esta. El **art. 106.5** dice que, si se inició de oficio, pasar seis meses sin resolución “producirá la caducidad”. El procedimiento se cierra por no haber terminado a tiempo.",
+  "No. El art. 106.5 no prevé ninguna suspensión por el paso de los seis meses. Lo que ocurre es la caducidad."
+ ],
+ "ojo": "De oficio, caducidad. A solicitud, desestimación por silencio. Es la misma distinción de los arts. 24 y 25."
+},
+"vo-05-021": {
+ "bloque": "revision",
+ "precepto": "Art. 106.3 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. Es cierto que se puede inadmitir sin dictamen, pero lo de “impugnar la solicitud” es inventado. Lo que pide el art. 106.3 es acordar la inadmisión de forma motivada.",
+  "No. El dictamen es necesario para declarar la nulidad (art. 106.1), pero no para inadmitir. El art. 106.3 dice “sin necesidad de recabar” el dictamen.",
+  "Es esta. El **art. 106.3** permite inadmitir, motivadamente y sin dictamen, si la solicitud no se basa en una causa del art. 47.1. También si carece manifiestamente de fundamento o si ya se desestimaron en cuanto al fondo otras sustancialmente iguales. Por eso dice “entre otros casos”.",
+  "No. Sobra el “únicamente”. Ese es uno de los supuestos del art. 106.3, pero hay otros: no basarse en una causa del art. 47.1 o carecer manifiestamente de fundamento."
+ ],
+ "ojo": "Fíjate en la diferencia entre “entre otros casos” y “únicamente”: es lo que separa la opción buena de la mala."
+},
+"vo-05-022": {
+ "bloque": "revision",
+ "precepto": "Art. 107.2 de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "No. Te han cambiado el plazo: son cuatro años, no dos (art. 107.2).",
+  "No. Sí hay plazo máximo: cuatro años (art. 107.2). Lo de “en cualquier momento” corresponde a la revisión de actos nulos (art. 106.1).",
+  "No. Te han cambiado el plazo: son cuatro años, no uno (art. 107.2).",
+  "Es esta. La declaración de lesividad no se puede adoptar “una vez transcurridos cuatro años desde que se dictó el acto” (**art. 107.2**). Declarar lesivo un acto es decir que perjudica al interés público, para poder impugnarlo ante los tribunales."
+ ],
+ "ojo": "No confundas: cuatro años para poder declarar la lesividad y seis meses para terminar ese procedimiento (art. 107.3)."
+},
+"vo-05-023": {
+ "bloque": "revision",
+ "precepto": "Art. 107.1 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. La Administración no puede anular por sí misma un acto favorable que solo es anulable: tiene que ir a los tribunales, tras declararlo lesivo (art. 107.1).",
+  "No. Falta un paso. No puede ir directamente: antes tiene que declararlo lesivo para el interés público (art. 107.1).",
+  "Es esta. El **art. 107.1** exige dos pasos: primero declarar el acto lesivo para el interés público, y luego impugnarlo ante el orden contencioso-administrativo. Quien anula es el juez, no la Administración.",
+  "No. La revocación es para actos de gravamen o desfavorables (art. 109.1). Este acto es favorable."
+ ]
+},
+"vo-05-024": {
+ "bloque": "revision",
+ "precepto": "Art. 107.3 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. Es al revés: la declaración de lesividad “no será susceptible de recurso”, y notificarla es solo informativo y opcional: “podrá notificarse” (art. 107.2).",
+  "Es esta. Lo dice el **art. 107.3**: si pasan seis meses desde que empezó el procedimiento sin declarar la lesividad, se produce la caducidad. El procedimiento se cierra por haber tardado demasiado.",
+  "No. Es lo contrario: la declaración “exigirá la previa audiencia” de cuantos aparezcan como interesados (art. 107.2).",
+  "No. Es lo contrario: no se puede adoptar una vez pasados cuatro años desde que se dictó el acto (art. 107.2)."
+ ]
+},
+"vo-05-025": {
+ "bloque": "revision",
+ "precepto": "Art. 109.1 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. Es al revés: la revocación es precisamente para los actos de gravamen o desfavorables (art. 109.1).",
+  "No. Te han cambiado la palabra: el límite es el plazo de prescripción, no el de caducidad (art. 109.1).",
+  "Es esta. El **art. 109.1** permite revocar “mientras no haya transcurrido el plazo de prescripción”. Revocar es que la Administración deje sin efecto un acto suyo desfavorable, siempre que no sea una exención no permitida ni vaya contra la igualdad, el interés público o el ordenamiento.",
+  "No. La revocación es para actos desfavorables. Para actos favorables anulables, la vía es la declaración de lesividad (art. 107)."
+ ],
+ "ojo": "Revocar: quitar lo que perjudica al ciudadano. Para quitar lo que le favorece hay que ir por la lesividad y el juez."
+},
+"vo-05-026": {
+ "bloque": "revision",
+ "precepto": "Art. 109.1 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. No necesita ir a los tribunales para quitar un acto desfavorable: puede revocarlo ella misma (art. 109.1). La impugnación contencioso-administrativa es para los actos favorables anulables (art. 107.1).",
+  "Es esta. Es el **art. 109.1**: la Administración puede revocar sus actos de gravamen o desfavorables mientras no haya pasado el plazo de prescripción. Tiene más libertad porque revocar no perjudica al ciudadano afectado.",
+  "No. “En cualquier momento” es para rectificar errores (art. 109.2). La revocación tiene el límite del plazo de prescripción (art. 109.1).",
+  "No. La lesividad es para actos favorables anulables (art. 107.1), y aquí el acto es de gravamen o desfavorable."
+ ]
+},
+"vo-05-027": {
+ "bloque": "revision",
+ "precepto": "Art. 109.2 de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. Es casi literal el **art. 109.2**: se pueden rectificar en cualquier momento los errores “materiales, de hecho o aritméticos”. Son errores que se ven a simple vista, como una suma mal hecha o un nombre mal escrito.",
+  "No. Rectificar es para errores, no para anular actos. Para los actos favorables anulables, la vía es la lesividad (art. 107).",
+  "No. Te han cambiado “aritméticos” por “de derecho”. Un error de derecho exige interpretar la ley, y no se arregla con una simple rectificación (art. 109.2).",
+  "No. Rectificar es para errores. Dejar sin efecto los actos de gravamen o desfavorables es revocarlos, y tiene el límite de la prescripción (art. 109.1)."
+ ],
+ "ojo": "La palabra cambiada es la clave: errores “aritméticos”, nunca “de derecho”."
+},
+"vo-05-028": {
+ "bloque": "revision",
+ "precepto": "Art. 111.a) de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. El **art. 111.a)** da al Consejo de Ministros la revisión de sus propios actos y disposiciones y de los dictados por los Ministros. La regla general es que revise el órgano superior, y por encima de los Ministros está el Consejo.",
+  "No. Los Secretarios de Estado están por debajo de los Ministros. Solo revisan lo dictado por los órganos directivos que dependen de ellos (art. 111.b.2.º).",
+  "No. El art. 111 no da esta competencia al Presidente del Gobierno, sino al Consejo de Ministros (art. 111.a).",
+  "No. Los Ministros no revisan sus propios actos: lo hace el Consejo de Ministros. Ellos revisan los de los Secretarios de Estado y los de los órganos directivos no dependientes de una Secretaría de Estado (art. 111.b.1.º)."
+ ],
+ "ojo": "Solo el Consejo de Ministros revisa sus “propios” actos, porque no tiene a nadie por encima."
+},
+"vo-05-029": {
+ "bloque": "revision",
+ "precepto": "Art. 111.b).1.º de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. Los máximos órganos rectores revisan lo dictado por los órganos que dependen de ellos, no sus propios actos. Los suyos los revisa el órgano al que esté adscrito el organismo (art. 111.c).",
+  "Es esta. Es el **art. 111.b).1.º**: los Ministros revisan los actos y disposiciones de los Secretarios de Estado y los de los órganos directivos de su Departamento no dependientes de una Secretaría de Estado.",
+  "No. Los Secretarios de Estado no revisan sus propios actos, sino los de los órganos directivos que dependen de ellos (art. 111.b.2.º). Los suyos los revisa el Ministro.",
+  "No. La segunda parte es cierta, pero la primera no: los actos propios de los Ministros los revisa el Consejo de Ministros (art. 111.a)."
+ ],
+ "ojo": "Las opciones con “propios actos” son la trampa: en este artículo solo el Consejo de Ministros revisa los suyos."
+},
+"vo-05-030": {
+ "bloque": "revision",
+ "precepto": "Art. 111.b).1.º de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. Un Secretario de Estado no revisa los actos de su mismo nivel ni los suyos: solo los de los órganos directivos que dependen de él (art. 111.b.2.º).",
+  "Es esta. Lo dice el **art. 111.b).1.º**: los Ministros revisan los actos y disposiciones de los Secretarios de Estado. Revisa el órgano que está justo por encima.",
+  "No. La revisión de oficio la hace la propia Administración, no los tribunales. Por eso se llama “de oficio” (art. 111).",
+  "No. El Consejo de Ministros revisa sus propios actos y disposiciones y los de los Ministros (art. 111.a). Los de los Secretarios de Estado corresponden a los Ministros."
+ ],
+ "ojo": "Escalera: órganos directivos, Secretario de Estado, Ministro y Consejo de Ministros. Cada uno revisa al que tiene justo debajo."
+}
+}

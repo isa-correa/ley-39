@@ -1,0 +1,337 @@
+{
+"vo-02-001": {
+ "bloque": "actividad",
+ "precepto": "Art. 14.2 de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. El **art. 14.2.e)** obliga a los empleados públicos solo en los trámites que hacen “por razón de su condición de empleado público”. Una multa de tráfico no tiene nada que ver con su trabajo: ahí actúa como cualquier ciudadano y, como persona física, elige el medio (**art. 14.1**).",
+  "No. Este funcionario sí está obligado: actúa precisamente por su condición de empleado público, que es el caso del art. 14.2.e).",
+  "No. El notario sí está obligado: el art. 14.2.c) cita expresamente a notarios y registradores dentro de las profesiones de colegiación obligatoria.",
+  "No. Una sociedad limitada es una persona jurídica, y todas las personas jurídicas están obligadas (art. 14.2.a)."
+ ],
+ "ojo": "Ser funcionario no te obliga en todo: lo que cuenta es el motivo del trámite. Por tus asuntos personales, eliges; por tu puesto, electrónico."
+},
+"vo-02-002": {
+ "bloque": "actividad",
+ "precepto": "Art. 14.1 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. El art. 14.1 no pone ningún tope como el trámite de audiencia (el momento en que te enseñan el expediente para que alegues). Te han añadido un límite que no existe.",
+  "No. Es justo al revés: el cambio lo decide la propia persona, ella sola, sin que nadie tenga que autorizarlo.",
+  "Es esta. El **art. 14.1** dice que el medio elegido “podrá ser modificado por aquella en cualquier momento”. Puedes empezar en papel, seguir por internet y volver al papel si quieres, siempre que no estés obligado a lo electrónico.",
+  "No. Quien cambia el medio es la persona, no la Administración, y la ley no habla aquí de audiencia previa."
+ ]
+},
+"vo-02-003": {
+ "bloque": "actividad",
+ "precepto": "Art. 14.2.c) de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. Es casi literal el **art. 14.2.c)**: profesionales con colegiación obligatoria, pero solo en los trámites de esa actividad profesional. Por ejemplo, una abogada que presenta un escrito de un cliente.",
+  "No. Los empleados públicos están obligados por razón de su condición de empleado público (art. 14.2.e), no para sus asuntos personales. Ahí te han cambiado el motivo.",
+  "No. Las personas físicas, como regla general, pueden elegir (art. 14.1). Solo están obligadas las que entran en un grupo concreto.",
+  "No. Te han añadido un “no”. El art. 14.2.d) obliga a quien representa a un interesado que **sí** esté obligado a lo electrónico."
+ ]
+},
+"vo-02-004": {
+ "bloque": "actividad",
+ "precepto": "Art. 15.1 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. “En todo caso” es lo que falla. El castellano es la lengua base, pero ante órganos estatales situados en una Comunidad con lengua cooficial puedes usar también esa lengua.",
+  "No. La primera parte está bien, la segunda no: si eliges la lengua cooficial, el procedimiento se tramita en esa lengua. Solo pasa al castellano si varios interesados no se ponen de acuerdo.",
+  "Es esta. Una Delegación del Gobierno es un órgano de la Administración General del Estado con sede en una Comunidad Autónoma. El **art. 15.1** permite dirigirse a ella en castellano o en la lengua cooficial de ese territorio. Por ejemplo, en catalán ante la Delegación del Gobierno en Cataluña.",
+  "No. La lengua cooficial es una opción, no una obligación, y la ley no te pide que acompañes una traducción. Traducir, cuando toca, le corresponde a la Administración (art. 15.3)."
+ ],
+ "ojo": "Si hay varios interesados y discrepan sobre la lengua, se tramita en castellano, pero cada uno recibe sus documentos en la lengua que eligió."
+},
+"vo-02-005": {
+ "bloque": "actividad",
+ "precepto": "Art. 18.2 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. Te han cambiado “interesados” por “todo ciudadano”. El deber solo lo tienen los interesados en ese procedimiento, no cualquiera que conozca el dato.",
+  "No. El deber es dar los datos a la Administración, no avisar directamente a los otros interesados. Comunicarles el procedimiento le toca a ella.",
+  "Es esta. Es el **art. 18.2**: los interesados que conozcan datos para identificar a otros interesados que no han comparecido “tienen el deber” de dárselos a la Administración que lleva el asunto. Comparecer aquí significa haberse presentado en el procedimiento.",
+  "No. Te han cambiado “tienen el deber” por “podrán”. No es algo voluntario, es una obligación. Además, se refiere solo a los interesados que no hayan comparecido."
+ ],
+ "ojo": "Tres palabras clave que suelen cambiar: interesados (no ciudadanos), no comparecidos, y deber (no facultad)."
+},
+"vo-02-006": {
+ "bloque": "actividad",
+ "precepto": "Art. 19.1 de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. El **art. 19.1** solo hace obligatoria la comparecencia si lo prevé “una norma con rango de ley”. Como es una carga para el ciudadano, no basta con un reglamento ni con la decisión de un funcionario.",
+  "No. “Nunca” es demasiado: sí puede ser obligatoria, siempre que lo diga una norma con rango de ley.",
+  "No. Te han bajado el rango: un reglamento no basta, hace falta rango de ley.",
+  "No. No depende de lo que decidan las autoridades o el personal, sino de lo que diga una norma con rango de ley."
+ ],
+ "ojo": "Sirve tanto para ir en persona como por medios electrónicos: el rango de ley se exige en los dos casos."
+},
+"vo-02-007": {
+ "bloque": "actividad",
+ "precepto": "Art. 21.1 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. En la prescripción y en la renuncia también hay que resolver: la resolución se limita a declarar esa circunstancia (art. 21.1, párrafo segundo). Las excepciones reales son otras: pacto o convenio, y declaración responsable o comunicación.",
+  "No. El “solo” lo estropea: también hay que resolver en los iniciados de oficio.",
+  "Es esta. El **art. 21.1** obliga a dictar resolución expresa y notificarla “en todos los procedimientos cualquiera que sea su forma de iniciación”. Da igual que lo empiece el ciudadano o la propia Administración.",
+  "No. El “solo” lo estropea: también hay que resolver en los iniciados a solicitud del interesado."
+ ]
+},
+"vo-02-008": {
+ "bloque": "actividad",
+ "precepto": "Art. 21.1 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. Sí hay que resolver y notificar. Lo que cambia es el contenido de la resolución, que es más sencillo.",
+  "Es esta. El párrafo segundo del **art. 21.1** dice que en estos casos la resolución consiste en declarar la circunstancia que se ha dado, indicando los hechos y las normas aplicables. Por ejemplo: “se declara el desistimiento de la solicitud presentada”, sin entrar en el fondo del asunto.",
+  "No. La obligación del art. 21.1 incluye las dos cosas: dictar la resolución y también notificarla.",
+  "No. El certificado sirve para acreditar el silencio administrativo (art. 24.4), que es cuando la Administración no contesta. Aquí sí tiene que contestar."
+ ]
+},
+"vo-02-009": {
+ "bloque": "actividad",
+ "precepto": "Art. 21.1 de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. El párrafo tercero del **art. 21.1** exceptúa la terminación por pacto o convenio (es decir, un acuerdo entre la Administración y el interesado) y los procedimientos sometidos solo a declaración responsable o comunicación. Si ya hay un acuerdo que acaba el procedimiento, no hace falta resolución.",
+  "No. En la renuncia sí hay que resolver, declarando esa circunstancia (art. 21.1, párrafo segundo).",
+  "No. En la caducidad sí hay que resolver, declarándola e indicando los hechos y las normas (art. 21.1, párrafo segundo).",
+  "No. En el desistimiento sí hay que resolver, declarándolo e indicando los hechos y las normas (art. 21.1, párrafo segundo)."
+ ],
+ "ojo": "No confundas: renuncia, caducidad, desistimiento, prescripción y desaparición del objeto llevan resolución simplificada. Pacto y declaración responsable no llevan."
+},
+"vo-02-010": {
+ "bloque": "actividad",
+ "precepto": "Art. 21.2 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. Dos meses no aparece en este artículo. Los plazos que da el art. 21 son el tope general de seis meses y los tres meses si la norma no fija ninguno.",
+  "Es esta. El **art. 21.2** dice que el plazo máximo es “el fijado por la norma reguladora del correspondiente procedimiento”. Primero se mira lo que diga esa norma, y ella no puede pasar de seis meses salvo una ley o el Derecho de la Unión Europea.",
+  "No. Quince días no es el plazo para resolver. Ese plazo aparece, por ejemplo, para expedir el certificado de silencio (art. 24.4).",
+  "No. Un mes no es el plazo general del art. 21. Te lo pueden colar porque es el plazo de los recursos de alzada y reposición contra actos expresos."
+ ],
+ "ojo": "Orden de preguntas: ¿qué dice la norma del procedimiento? Si no dice nada, tres meses. Y lo que diga, con tope de seis salvo ley o Derecho de la Unión Europea."
+},
+"vo-02-011": {
+ "bloque": "actividad",
+ "precepto": "Art. 21.3 de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. Si la norma no fija plazo, son **tres meses (art. 21.3)**. En los procedimientos de oficio se cuentan desde la fecha del acuerdo de iniciación, como dice la letra a).",
+  "No. Te han cambiado tres meses por seis. Seis meses es el tope de lo que puede fijar la norma reguladora (art. 21.2), no el plazo cuando no dice nada.",
+  "No. Los tres meses están bien, pero el registro no. Se cuenta desde la entrada en el registro electrónico de la Administración u Organismo **competente** para tramitar, no en “cualquier” registro electrónico (art. 21.3.b).",
+  "No. Tiene dos fallos: son tres meses, no seis, y el registro debe ser el de la Administración u Organismo competente, no “cualquiera”."
+ ],
+ "ojo": "La trampa está en “cualquier registro”. Si presentas en un registro de otra Administración, el plazo para resolver no empieza hasta que entra en el del órgano competente."
+},
+"vo-02-012": {
+ "bloque": "actividad",
+ "precepto": "Art. 21.2 de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "No. “Será de” lo presenta como un plazo fijo. Seis meses es un tope: la norma reguladora puede poner menos, y ese es el plazo que se aplica.",
+  "No. La ampliación de tres meses no sale de ninguna parte. La ampliación del plazo para resolver es excepcional y va por el art. 23, sin superar el plazo del propio procedimiento.",
+  "No. Tres meses es el plazo cuando la norma reguladora no fija ninguno (art. 21.3), pero la frase del enunciado se refiere al tope, y ese es de seis meses.",
+  "Es esta. El **art. 21.2** dice que el plazo es el que fije la norma reguladora, y que “no podrá exceder de seis meses” salvo que una norma con rango de ley establezca uno mayor o lo prevea el Derecho de la Unión Europea. Es un límite, no un plazo fijo."
+ ],
+ "ojo": "Hay una palabra que decide la pregunta: “será de seis” y “no podrá exceder de seis” no significan lo mismo."
+},
+"vo-02-013": {
+ "bloque": "actividad",
+ "precepto": "Art. 22 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. Esta suspensión sí es obligatoria. Está en el art. 22.2.b): actuaciones complementarias del art. 87.",
+  "No. Esta suspensión sí es obligatoria. Está en el art. 22.2.c): recusación, es decir, cuando el interesado pide apartar a un funcionario o autoridad del asunto.",
+  "Es esta. Es el **art. 22.1.g)**, y el apartado 1 dice “se podrá suspender”: la suspensión es potestativa, o sea, la Administración puede decidirla o no. Por eso esta no es obligatoria.",
+  "No. Esta suspensión sí es obligatoria. Está en el art. 22.2.a): requerimiento de una Administración a otra para que anule o revise un acto (art. 39.5)."
+ ],
+ "ojo": "Apartado 1: “se podrá suspender”, siete casos. Apartado 2: “se suspenderá”, tres casos que conviene saberse de memoria: requerimiento entre Administraciones, actuaciones complementarias y recusación."
+},
+"vo-02-014": {
+ "bloque": "actividad",
+ "precepto": "Art. 22.2.c) de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. Te han cambiado “preceptivo” (obligatorio pedirlo) por “facultativo” (voluntario). El art. 22.1.b) habla de un pronunciamiento previo y preceptivo.",
+  "No. Solo se puede suspender por informes **preceptivos** (art. 22.1.d), no por informes facultativos.",
+  "Es esta. El **art. 22.2.c)** dice que el plazo se suspende cuando los interesados promueven la recusación, desde que se plantea hasta que la resuelve el superior jerárquico del recusado. Recusar es pedir que se aparte del asunto a quien tiene motivo para no intervenir.",
+  "No. Haber agotado los medios no suspende el plazo. Es lo que permite pedir una ampliación del plazo (art. 23.1), que es otra cosa."
+ ]
+},
+"vo-02-015": {
+ "bloque": "actividad",
+ "precepto": "Art. 23.2 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. La alzada no cabe aquí: el art. 23.2 dice que contra ese acuerdo no hay recurso alguno.",
+  "No. Tampoco cabe el extraordinario de revisión: el art. 23.2 excluye todo recurso.",
+  "Es esta. El **art. 23.2** dice que contra el acuerdo que resuelva sobre la ampliación de plazos, que debe notificarse a los interesados, “no cabrá recurso alguno”. Da igual que conceda o niegue la ampliación.",
+  "No. Tampoco cabe la reposición: el art. 23.2 excluye todo recurso."
+ ]
+},
+"vo-02-016": {
+ "bloque": "actividad",
+ "precepto": "Art. 24.1 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. La caducidad es para ciertos procedimientos iniciados de oficio (art. 25.1.b). Este se ha iniciado a solicitud del interesado.",
+  "Es esta. El párrafo segundo del **art. 24.1** incluye la responsabilidad patrimonial entre los casos de silencio desestimatorio. Responsabilidad patrimonial es pedir a la Administración una indemnización por un daño que ha causado. Si no contesta, entiendes que te dice que no.",
+  "No. La cifra de 50.000 euros no aparece en el art. 24. El silencio es desestimatorio sea cual sea la cantidad reclamada.",
+  "No. Es la regla general del silencio, pero la responsabilidad patrimonial es una de las excepciones: aquí el silencio es desestimatorio."
+ ],
+ "ojo": "El art. 91.3 lo confirma: pasados seis meses sin resolución, puede entenderse que es contraria a la indemnización."
+},
+"vo-02-017": {
+ "bloque": "actividad",
+ "precepto": "Art. 24.1 de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "No. No es “siempre” desestimatorio. La regla general es estimatoria, y una ley puede disponer lo contrario solo si lo justifica como dice el art. 24.1.",
+  "No. Tampoco “siempre” estimatorio. El propio artículo admite que una ley disponga el silencio desestimatorio, si se funda en razones imperiosas de interés general.",
+  "No. Te han cambiado el motivo: el art. 24.1 no dice “orden público”, sino “razones imperiosas de interés general”.",
+  "Es esta. El **art. 24.1** dice que la ley que disponga el carácter desestimatorio en estos procedimientos “deberá fundarse en la concurrencia de razones imperiosas de interés general”. Es decir, para que el silencio sea un “no” cuando se trata de abrir o ejercer una actividad, hace falta un motivo de peso."
+ ]
+},
+"vo-02-018": {
+ "bloque": "actividad",
+ "precepto": "Arts. 24.1 y 122.2 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. El tipo de acto recurrido no decide el sentido del silencio. El art. 24.1 no hace esa distinción para actos de reconocimiento de derechos.",
+  "Es esta. Con carácter general, en los procedimientos de impugnación el silencio es desestimatorio (**art. 24.1, párrafo tercero**). El **art. 122.2** lo dice para la alzada: pasados tres meses sin resolución, “se podrá entender desestimado”.",
+  "No. El art. 24.1 tampoco distingue si el acto recurrido es una sanción. El silencio en la alzada sigue siendo desestimatorio.",
+  "No. Eso es la excepción, no la regla: solo se entiende estimada la alzada interpuesta contra una desestimación por silencio, si tampoco se resuelve a tiempo y no se trata de una materia excluida (art. 24.1, párrafo tercero)."
+ ],
+ "ojo": "Doble silencio: si la Administración no contesta a tu solicitud, recurres en alzada, y tampoco contesta al recurso, se entiende estimado. Por eso la pregunta dice “con carácter general”."
+},
+"vo-02-019": {
+ "bloque": "actividad",
+ "precepto": "Art. 24.3.a) de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "No. Producen efectos desde que vence el plazo máximo para resolver (art. 24.4). El certificado solo sirve para acreditar el silencio, no lo hace nacer.",
+  "No. Te han cambiado la palabra: eso se dice de la **estimación**. La desestimación solo permite interponer el recurso que proceda (art. 24.2).",
+  "No. Es al revés: en el derecho de petición del art. 29 de la Constitución el silencio es desestimatorio (art. 24.1, párrafo segundo).",
+  "Es esta. Es el **art. 24.3.a)**: si el silencio ha sido un “sí”, la resolución expresa posterior solo puede dictarse para confirmarlo. La Administración no puede decir “no” después, porque el acto ya existe."
+ ]
+},
+"vo-02-020": {
+ "bloque": "actividad",
+ "precepto": "Art. 24.2 de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "No. No es un acto de trámite (un paso intermedio), sino todo lo contrario: pone fin al procedimiento.",
+  "No. Eso es lo que dice el art. 24.2 de la **desestimación** por silencio, no de la estimación. Te han cruzado las dos.",
+  "No. Sí puede producirse: de hecho, la regla general del art. 24.1 es que el silencio sea estimatorio.",
+  "Es esta. El **art. 24.2** dice que la estimación por silencio tiene “a todos los efectos” la consideración de acto administrativo finalizador del procedimiento. Es decir, vale como si la Administración hubiera dicho que sí por escrito."
+ ],
+ "ojo": "Para recordarlo: el silencio positivo es un acto de verdad. El negativo es solo una forma de abrirte la puerta del recurso."
+},
+"vo-02-021": {
+ "bloque": "actividad",
+ "precepto": "Art. 24.3.b) de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "No. No se habla de “contestación” ni de iniciar el contencioso, y no hace falta ser congruente con el silencio: la Administración decide libremente.",
+  "No. Es lo contrario: te han cambiado “sin vinculación alguna” por “vinculado”.",
+  "No. Esto no aparece en el art. 24.3.b). La ley no habla de comunicar nada a un órgano inferior, sino de la resolución expresa y su contenido.",
+  "Es esta. Es el **art. 24.3.b)** literal: la resolución expresa posterior se adopta “sin vinculación alguna al sentido del silencio”. Si el silencio fue un “no”, la Administración aún puede decirte que sí más tarde."
+ ],
+ "ojo": "Estimación: después solo puede confirmar. Desestimación: después puede decidir lo que proceda."
+},
+"vo-02-022": {
+ "bloque": "actividad",
+ "precepto": "Art. 25.1.b) de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "No. Desestimar por silencio es el efecto de los procedimientos de oficio de los que pudieran derivarse derechos (art. 25.1.a). Aquí la Administración sanciona, nadie pide nada.",
+  "No. Prescribir es perder un derecho o una acción por el paso del tiempo, y es otra institución. El vencimiento del plazo para resolver produce la caducidad del procedimiento.",
+  "No. No hay pretensiones que estimar: en un procedimiento sancionador la Administración actúa contra el interesado. Por eso el art. 25 no prevé aquí silencio estimatorio.",
+  "Es esta. El **art. 25.1.b)** dice que en los procedimientos de oficio donde se ejercen potestades sancionadoras o de intervención, con efectos desfavorables, “se producirá la caducidad”. Es decir, el procedimiento decae y se archiva. Si la Administración tarda demasiado en sancionar, ese procedimiento se termina."
+ ]
+},
+"vo-02-023": {
+ "bloque": "actividad",
+ "precepto": "Art. 25.1.a) de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. Es el **art. 25.1.a)**: en los procedimientos iniciados de oficio de los que pueden nacer derechos, los interesados que hayan comparecido “podrán entender desestimadas sus pretensiones”. Como lo inició la Administración, si no contesta no se te concede nada.",
+  "No. Te han cambiado “desestimadas” por “estimadas”. Lo estimatorio es la regla general de los procedimientos a solicitud del interesado (art. 24.1), no los de oficio.",
+  "No. El artículo no habla de que prescriba el derecho. El efecto es el silencio desestimatorio.",
+  "No. La caducidad es para los procedimientos de oficio con efectos desfavorables o de gravamen, como los sancionadores (art. 25.1.b). Este es favorable."
+ ],
+ "ojo": "Art. 25: si podía favorecerte, silencio desestimatorio; si podía perjudicarte, caducidad."
+},
+"vo-02-024": {
+ "bloque": "plazos",
+ "precepto": "Art. 30.2 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. Tiene dos fallos: los días no son naturales sino hábiles, y los sábados también se excluyen.",
+  "Es esta. El **art. 30.2** dice que, salvo que una ley o el Derecho de la Unión Europea digan otra cosa, los días son hábiles, excluyendo “los sábados, los domingos y los declarados festivos”. Días naturales son todos los del calendario; solo se usan si una ley o el Derecho de la Unión Europea lo declaran.",
+  "No. Hábiles está bien, pero el sábado también se excluye. Era inhábil solo el domingo con la ley anterior, y por eso la confusión.",
+  "No. Si se quitan sábados, domingos y festivos, los días son hábiles, no naturales. La palabra “naturales” es lo que falla."
+ ]
+},
+"vo-02-025": {
+ "bloque": "plazos",
+ "precepto": "Art. 30.1 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. Setenta y dos horas supera el tope. Si necesitas más de 24 horas, el plazo se expresa en días.",
+  "Es esta. El **art. 30.1** dice que los plazos por horas “no podrán tener una duración superior a veinticuatro horas, en cuyo caso se expresarán en días”.",
+  "No. Cuarenta y ocho horas también supera el tope de 24. Tendría que expresarse como dos días.",
+  "No. Sí hay límite: el art. 30.1 lo fija en veinticuatro horas."
+ ]
+},
+"vo-02-026": {
+ "bloque": "plazos",
+ "precepto": "Art. 30.4 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. Es el error de sumar un día. El cómputo empieza el día siguiente, pero termina el mismo día de la notificación en el mes o año de vencimiento.",
+  "No. Te han cambiado “siguiente” por “anterior”. Si el último día es inhábil, el plazo se prorroga al primer día hábil **siguiente** (art. 30.5).",
+  "Es esta. El **art. 30.4** dice que “el plazo concluirá el mismo día” en que se produjo la notificación, publicación o silencio, en el mes o año de vencimiento. Si te notifican un 10 de enero un plazo de un mes, acaba el 10 de febrero.",
+  "No. Si no existe día equivalente, el plazo expira el **último día del mes** de vencimiento, no el primero del mes siguiente. Si te notifican un 31 de enero un plazo de un mes, acaba el último día de febrero."
+ ]
+},
+"vo-02-027": {
+ "bloque": "plazos",
+ "precepto": "Art. 32.2 de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. El **art. 32.2** dice que la ampliación por el tiempo máximo se aplica “en todo caso” a los procedimientos tramitados por misiones diplomáticas y oficinas consulares (embajadas y consulados). También a los que exigen un trámite en el extranjero o tienen interesados residentes fuera de España.",
+  "No. El art. 32.3 es tajante: “en ningún caso” se puede ampliar un plazo ya vencido, por mucho que se justifique.",
+  "No. Los acuerdos sobre ampliación o su denegación no se pueden recurrir (art. 32.3). Lo que puedes recurrir, en su caso, es la resolución que pone fin al procedimiento.",
+  "No. Te han cambiado el tope: la ampliación no puede exceder de la **mitad** del plazo (art. 32.1), no de un mes."
+ ]
+},
+"vo-02-028": {
+ "bloque": "plazos",
+ "precepto": "Art. 32.5 de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. Es el **art. 32.5**, añadido en 2022: si un ciberincidente (un ataque o fallo grave de seguridad informática) afecta gravemente a los servicios y sistemas de tramitación, la Administración puede acordar la ampliación general de plazos.",
+  "No. El tope es la **mitad** del plazo inicial, no el doble (art. 32.1).",
+  "No. “En ningún caso” puede ampliarse un plazo ya vencido (art. 32.3). La petición y la decisión han de ser antes de que venza.",
+  "No. Puede acordarse de oficio o a petición de los interesados (art. 32.1), así que el “solo” es falso."
+ ],
+ "ojo": "No lo confundas con la incidencia técnica del art. 32.4: esa amplía plazos no vencidos mientras dure el problema y hay que publicarla en la sede electrónica."
+},
+"vo-02-029": {
+ "bloque": "plazos",
+ "precepto": "Art. 33.2 de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. El **art. 33.2** dice que contra el acuerdo que declara la tramitación de urgencia no cabe recurso alguno, “sin perjuicio del procedente contra la resolución que ponga fin al procedimiento”. Es decir, no puedes recurrir la urgencia, pero sí la decisión final si te perjudica.",
+  "No. La alzada no cabe contra este acuerdo: el art. 33.2 excluye todo recurso.",
+  "No. El extraordinario de revisión tampoco cabe: el art. 33.2 excluye todo recurso contra este acuerdo.",
+  "No. La reposición tampoco cabe: el art. 33.2 excluye todo recurso contra este acuerdo."
+ ],
+ "ojo": "Se parece a la ampliación de plazos del art. 32.3: tampoco se recurre el acuerdo, solo la resolución final."
+}
+}

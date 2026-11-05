@@ -1,0 +1,452 @@
+{
+"au-10-001": {
+  "bloque": "nulidad",
+  "precepto": "Art. 52.1 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+    "No. Subsanar es justo el modo de convalidar, pero solo sirve para los actos **anulables** (art. 52.1). Un acto nulo no se puede arreglar así.",
+    "Es esta. El **art. 52.1** dice que la Administración podrá convalidar “los actos anulables”, y no menciona los nulos. El vicio de un acto nulo es tan grave que no tiene arreglo: se puede convalidar lo anulable, nunca lo nulo.",
+    "No. Es lo contrario de lo que dice la ley. La convalidación existe solo para los anulables, no para los nulos, y mucho menos “en todo caso”.",
+    "No. La ley no prevé ninguna excepción que permita convalidar un acto nulo. El art. 52 habla solo de actos anulables, sin salvedades."
+  ],
+  "ojo": "No confundas convalidar con convertir: un acto nulo no se convalida, pero sí puede producir los efectos de otro distinto si contiene sus elementos (conversión, art. 50)."
+},
+"au-10-002": {
+  "bloque": "nulidad",
+  "precepto": "Art. 47.1.f) de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+    "No. Solo se convalidan los anulables (art. 52.1). Este caso es de nulidad, así que no cabe convalidación.",
+    "Es esta. Es el **art. 47.1.f)**: son nulos los actos, expresos o presuntos, contrarios al ordenamiento por los que se adquieren facultades o derechos sin tener los requisitos esenciales para ello. Por ejemplo, conseguir una licencia de transporte sin cumplir un requisito imprescindible para tenerla.",
+    "No. La anulabilidad (art. 48) es la regla para el resto de infracciones, pero este supuesto está expresamente en la lista de nulidad del art. 47.1.",
+    "No. Motivar un acto no lo salva. Si faltan los requisitos esenciales, el acto es nulo de pleno derecho, no válido."
+  ]
+},
+"au-10-003": {
+  "bloque": "nulidad",
+  "precepto": "Art. 49.2 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. Es casi literal el **art. 49.2**: si solo una parte del acto tiene el vicio, las partes independientes se salvan. La excepción es que esa parte sea tan importante que, sin ella, el acto no se habría dictado.",
+    "No. La ley dice lo contrario: el vicio de una parte no arrastra todo el acto, salvo la excepción de la parte tan importante que sin ella no se habría dictado.",
+    "No. Sobra “en ningún caso”. El art. 49.2 sí prevé una excepción: que la parte viciada sea de tal importancia que sin ella el acto no se hubiera dictado.",
+    "No. El art. 49.2 no regula lo que pasa con las partes no independientes: su regla es que no se afecta a las independientes, con la excepción de la parte esencial. Esta opción no recoge ni la regla ni la excepción."
+  ],
+  "ojo": "El art. 49 tiene dos apartados: el 1 habla de los actos sucesivos del procedimiento y el 2 de las partes de un mismo acto."
+},
+"au-10-004": {
+  "bloque": "nulidad",
+  "precepto": "Art. 47.1.b) de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+    "No. Solo se convalida la incompetencia que no determina nulidad (art. 52.3). La manifiesta por razón de la materia es causa de nulidad, así que no se puede convalidar.",
+    "No. Serían anulables otros casos de incompetencia, como la jerárquica. La manifiesta por razón de la materia está en la lista de nulidad del art. 47.1.b).",
+    "Es esta. El **art. 47.1.b)** declara nulos de pleno derecho los actos dictados por órgano manifiestamente incompetente por razón de la materia o del territorio. Por ejemplo, el Ministerio de Cultura concediendo una licencia de armas.",
+    "No. Es la regla del art. 52.3, pero vale solo para la incompetencia no determinante de nulidad, típicamente la jerárquica. Aquí hay nulidad, y lo nulo no se convalida."
+  ],
+  "ojo": "Truco para recordarlo: incompetencia manifiesta por materia o territorio, nulo. Incompetencia jerárquica, anulable y convalidable por el superior."
+},
+"au-10-005": {
+  "bloque": "nulidad",
+  "precepto": "Art. 49.1 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. El **art. 49** se titula “Límites a la extensión de la nulidad o anulabilidad de los actos”, y su apartado 1 dice justo eso: el vicio de un acto no alcanza a los actos posteriores del procedimiento que sean independientes de él.",
+    "No. “Conservación del acto presunto” no es ninguna figura del art. 49. Lo que existe es la conservación de actos y trámites (art. 51): se mantienen los que habrían tenido el mismo contenido sin la infracción.",
+    "No. La convalidación (art. 52) consiste en arreglar un acto anulable subsanando su vicio. Aquí no se arregla nada: solo se dice hasta dónde llega el vicio.",
+    "No. La conversión (art. 50) es que un acto viciado que contiene los elementos de otro distinto produce los efectos de este otro. No tiene que ver con los actos sucesivos."
+  ],
+  "ojo": "Las cuatro figuras van seguidas y se confunden: límites (art. 49), conversión (art. 50), conservación (art. 51) y convalidación (art. 52)."
+},
+"au-10-006": {
+  "bloque": "nulidad",
+  "precepto": "Arts. 47.1.e) y 52 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+    "No. Este sí se puede convalidar: la falta de autorización se arregla otorgándola el órgano competente (art. 52.4).",
+    "Es esta. Prescindir total y absolutamente del procedimiento es causa de nulidad de pleno derecho (**art. 47.1.e**). Y el **art. 52.1** solo permite convalidar los anulables, así que este acto no tiene arreglo.",
+    "No. Es la regla general de la convalidación: los anulables se convalidan subsanando sus vicios (art. 52.1).",
+    "No. Este también se puede convalidar: la incompetencia no determinante de nulidad la arregla el órgano competente cuando es superior jerárquico del que dictó el acto (art. 52.3)."
+  ],
+  "ojo": "Pide los que no se pueden convalidar. Busca en las opciones la causa de nulidad del art. 47."
+},
+"au-10-007": {
+  "bloque": "nulidad",
+  "precepto": "Art. 52.4 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+    "No. Te han cambiado una palabra: el art. 52.3 habla de incompetencia **no** determinante de nulidad. Si determina nulidad, no se puede convalidar.",
+    "No. Solo se convalidan los actos anulables (art. 52.1). Los nulos de pleno derecho no.",
+    "Es esta. El **art. 52.4** dice que si el vicio es la falta de una autorización, el acto se convalida cuando el órgano competente la otorga.",
+    "No. Es al revés: la convalidación produce efecto “desde su fecha”, es decir, desde que se convalida, no desde que se dictó el acto. La excepción es la retroactividad del art. 39.3 (art. 52.2)."
+  ]
+},
+"au-10-008": {
+  "bloque": "nulidad",
+  "precepto": "Arts. 47.1 y 48.2 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+    "No. Este sí es nulo: el contenido imposible está en el art. 47.1.c).",
+    "No. Este sí es nulo: lo dice el art. 47.1.b).",
+    "Es esta. El defecto de forma que produce indefensión es causa de **anulabilidad**, no de nulidad (**art. 48.2**). Por eso no está en la lista del art. 47.1.",
+    "No. Este sí es nulo: es el art. 47.1.e), que habla de prescindir “total y absolutamente” del procedimiento."
+  ],
+  "ojo": "Pregunta negativa: busca la que no es nula. El defecto de forma con indefensión suena grave, pero solo da lugar a anulabilidad."
+},
+"au-10-009": {
+  "bloque": "nulidad",
+  "precepto": "Art. 47.1.b) de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+    "No. Te han cambiado la palabra clave: la nulidad exige prescindir “total y absolutamente” del procedimiento (art. 47.1.e), no parcialmente.",
+    "No. El verbo está cambiado: son nulos los que **lesionen** esos derechos y libertades (art. 47.1.a), no los que los reconozcan.",
+    "Es esta. Coincide con el **art. 47.1.b)**: órgano manifiestamente incompetente por razón de la materia o del territorio. Aquí solo citan el territorio, pero sigue siendo correcto.",
+    "No. Ser contrario al ordenamiento, sin más, lleva a la anulabilidad: cualquier infracción del ordenamiento hace el acto anulable (art. 48.1)."
+  ]
+},
+"au-10-010": {
+  "bloque": "nulidad",
+  "precepto": "Art. 49.1 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+    "No. Sobra “en todo caso”. Los actos sucesivos que son independientes del primero no quedan afectados (art. 49.1).",
+    "Es esta. Es el texto del **art. 49.1**: el vicio de un acto no se contagia a los actos posteriores del procedimiento que sean independientes de él.",
+    "No. Se pasa de rotunda: el art. 49.1 solo protege a los actos sucesivos independientes, no a todos.",
+    "No. Te han cambiado “independientes” por “dependientes”. Los que dependen del acto viciado sí pueden verse afectados: el art. 49.1 solo salva a los independientes."
+  ]
+},
+"au-10-011": {
+  "bloque": "nulidad",
+  "precepto": "Art. 52.1 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+    "Es verdadera, así que no se marca. Es el art. 52.4: la falta de autorización se arregla otorgándola el órgano competente.",
+    "Es verdadera, así que no se marca. Es el art. 52.3: el superior jerárquico competente puede convalidar si la incompetencia no determina nulidad.",
+    "Es verdadera, así que no se marca. Es el art. 52.1, tal cual.",
+    "Esta es la falsa, y por eso es la que hay que marcar. El **art. 52.1** solo permite convalidar los actos **anulables**. Le han añadido “nulos”, y eso es lo que falla."
+  ],
+  "ojo": "Compara la tercera y la cuarta opción: la única diferencia es la palabra “nulos”."
+},
+"au-10-012": {
+  "bloque": "nulidad",
+  "precepto": "Art. 47.1.a) de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+    "No. Esa frase recuerda a la anulabilidad, y además mal: son anulables los actos con cualquier infracción del ordenamiento, “incluso” la desviación de poder (art. 48.1), no “salvo”.",
+    "No. La falta de una autorización es un vicio que se puede convalidar otorgándola (art. 52.4). Es decir, el acto es anulable, no nulo.",
+    "No. El defecto de forma que causa indefensión lleva a la anulabilidad (art. 48.2), no a la nulidad.",
+    "Es esta. Es el **art. 47.1.a)**: son nulos los actos que lesionen los derechos y libertades susceptibles de amparo constitucional, que son los que se pueden defender ante el Tribunal Constitucional."
+  ]
+},
+"au-10-013": {
+  "bloque": "nulidad",
+  "precepto": "Art. 52.2 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+    "No. Es lo contrario: el órgano que declara la nulidad dispondrá siempre la **conservación** de los actos y trámites que habrían tenido el mismo contenido sin la infracción (art. 51).",
+    "No. La convalidación surte efecto desde su propia fecha, no desde la del acto convalidado (art. 52.2).",
+    "No. Solo se convalidan los anulables (art. 52.1). Los nulos de pleno derecho no se pueden subsanar.",
+    "Es esta. Lo dice el **art. 52.2**: la convalidación produce efecto desde su fecha. La excepción es la retroactividad del art. 39.3, que permite excepcionalmente efectos hacia atrás, por ejemplo si favorecen al interesado y no perjudican a otros."
+  ]
+},
+"au-10-014": {
+  "bloque": "nulidad",
+  "precepto": "Art. 47.1.d) de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+    "No. Sobra “o reglamento”. El art. 47.1.g) solo admite otras causas de nulidad si las establece una disposición con **rango de Ley**.",
+    "No. La nulidad exige prescindir “total y absolutamente” del procedimiento (art. 47.1.e). Saltarse un solo trámite, aunque sea la audiencia, no es eso: si causa indefensión, encaja en la anulabilidad (art. 48.2).",
+    "Es esta. Es el **art. 47.1.d)**: son nulos los actos que sean delito o se dicten como consecuencia de un delito. Por ejemplo, una licencia concedida a cambio de un soborno.",
+    "No. Solo es nula la incompetencia manifiesta por materia o territorio (art. 47.1.b). La jerárquica lleva a la anulabilidad, y el superior competente la puede convalidar (art. 52.3)."
+  ]
+},
+"au-10-015": {
+  "bloque": "nulidad",
+  "precepto": "Art. 47.1.c) de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. El **art. 47.1.c)** incluye el contenido imposible entre las causas de nulidad de pleno derecho. Por ejemplo, ordenar demoler un edificio que ya no existe.",
+    "No. La calificación es buena, pero el artículo no: el 48 regula la anulabilidad. La nulidad está en el 47.",
+    "No. Falla la calificación, porque son nulos, y también el motivo, porque el contenido imposible no aparece en el art. 48.",
+    "No. El artículo es el bueno, pero la calificación no: el art. 47 regula la nulidad, no la anulabilidad."
+  ],
+  "ojo": "Para recordarlo: art. 47, nulidad, y art. 48, anulabilidad. Las opciones cruzan los dos datos."
+},
+"au-11-001": {
+  "bloque": "iniciacion",
+  "precepto": "Arts. 53.1.g) y 13 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+    "No. Es un derecho de todas las personas en su relación con la Administración (art. 13.b), no solo de los interesados en un procedimiento.",
+    "Es esta. Actuar asistido de asesor es el **art. 53.1.g)**, un derecho propio de quien es interesado en un procedimiento administrativo. Las otras tres opciones están en el art. 13, que vale para todas las personas.",
+    "No. Es un derecho de todas las personas (art. 13.f), no exclusivo de los interesados.",
+    "No. Es un derecho de todas las personas (art. 13.e), tengan o no un procedimiento abierto."
+  ],
+  "ojo": "Art. 13: derechos de cualquier persona ante la Administración. Art. 53: derechos de los interesados en un procedimiento concreto."
+},
+"au-11-002": {
+  "bloque": "iniciacion",
+  "precepto": "Art. 53.1.a) de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+    "No. Sobra “sin excepciones”. El art. 53.1.c) deja que la normativa exija, de manera excepcional, un documento original.",
+    "No. El derecho del art. 53.1 es a actuar asistido de asesor (letra g), pero no dice que ese asesoramiento sea gratuito. La asistencia jurídica gratuita no está en esta lista.",
+    "No. Te han cambiado el límite: las alegaciones caben en cualquier fase anterior **al trámite de audiencia** (art. 53.1.e), no anterior a la resolución.",
+    "Es esta. El **art. 53.1.a)** reconoce el derecho a acceder a los documentos de los procedimientos en los que eres interesado y a obtener copia de ellos."
+  ]
+},
+"au-11-003": {
+  "bloque": "iniciacion",
+  "precepto": "Art. 54 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+    "No. Sobra “por denuncia”. La denuncia no es una tercera clase de inicio, sino una de las vías del inicio de oficio (art. 58).",
+    "No. Falta la solicitud del interesado y sobra la denuncia, que forma parte del inicio de oficio (art. 58).",
+    "Es esta. El **art. 54** recoge solo dos clases: de oficio o a solicitud del interesado. Orden superior, petición razonada y denuncia son vías dentro del inicio de oficio.",
+    "No. Sobra “únicamente”. El art. 54 también permite iniciarlos a solicitud del interesado."
+  ]
+},
+"au-11-004": {
+  "bloque": "iniciacion",
+  "precepto": "Art. 55.1 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. Lo dice el **art. 55.1**: antes de iniciar, el órgano competente puede abrir un período de información o actuaciones previas para conocer el caso y decidir si conviene iniciar el procedimiento.",
+    "No. Las actuaciones complementarias existen, pero se hacen al final, justo antes de dictar resolución (art. 87), no antes del inicio.",
+    "No. La información pública se abre con el procedimiento ya en marcha, cuando su naturaleza lo requiera, para que cualquiera pueda examinar el expediente (art. 83).",
+    "No. La audiencia se da una vez instruido el procedimiento, justo antes de redactar la propuesta de resolución (art. 82.1)."
+  ],
+  "ojo": "Previas, antes de iniciar. Complementarias, antes de resolver."
+},
+"au-11-005": {
+  "bloque": "iniciacion",
+  "precepto": "Art. 56.3 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+    "Es verdadera, así que no se marca. Está en el art. 56.3.b).",
+    "Es verdadera, así que no se marca. Está en el art. 56.3.e).",
+    "Es verdadera, así que no se marca. Está en el art. 56.3.h).",
+    "Esta es la falsa, y por eso es la que hay que marcar. El **art. 56.3.f)** habla de ingresos obtenidos mediante una actividad que se considere **ilícita**, no lícita. No tendría sentido intervenir los ingresos de una actividad legal."
+  ],
+  "ojo": "Una sola letra lo cambia todo: te han puesto “lícita” donde dice “ilícita”."
+},
+"au-11-006": {
+  "bloque": "iniciacion",
+  "precepto": "Art. 56.2 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+    "No. Fallan las dos cosas: el plazo es de quince días, no de treinta, y el acuerdo sí se puede recurrir.",
+    "No. Lo del recurso está bien, pero el plazo es de quince días, no de treinta (art. 56.2).",
+    "No. El plazo está bien, pero el acuerdo “podrá ser objeto del recurso que proceda” (art. 56.2).",
+    "Es esta. El **art. 56.2** fija dentro de los quince días siguientes a la adopción de la medida, y añade que el acuerdo podrá ser objeto del recurso que proceda. Si no se inicia en ese plazo, las medidas quedan sin efecto."
+  ],
+  "ojo": "No lo confundas con la acumulación, donde el acuerdo no admite recurso (art. 57)."
+},
+"au-11-007": {
+  "bloque": "iniciacion",
+  "precepto": "Art. 56.1 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. El **art. 56.1** cita esos tres principios: proporcionalidad, efectividad y menor onerosidad (es decir, que la medida cause la menor carga posible).",
+    "No. Provisionalidad, eficacia y eficiencia no son los principios que cita el art. 56.1. Suenan bien, pero el trío es proporcionalidad, efectividad y menor onerosidad.",
+    "No. Transparencia y publicidad son principios generales, pero el art. 56.1 no los cita para las medidas provisionales.",
+    "No. Contradicción e igualdad de los interesados son garantías del procedimiento, pero tampoco son lo que pide el art. 56.1."
+  ]
+},
+"au-11-008": {
+  "bloque": "iniciacion",
+  "precepto": "Art. 56.2 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. **Antes de iniciar** el procedimiento, las adopta el órgano competente para iniciar o instruir, en casos de urgencia inaplazable (**art. 56.2**).",
+    "No. El órgano competente para resolver es quien las adopta una vez **iniciado** el procedimiento (art. 56.1). La pregunta se refiere al momento anterior.",
+    "No. El art. 56.2 no atribuye esta facultad al superior jerárquico, sino al propio órgano competente para iniciar o instruir.",
+    "No. Falla por doble motivo: no habla del superior jerárquico y, además, el órgano para resolver actúa ya iniciado el procedimiento (art. 56.1)."
+  ],
+  "ojo": "Antes de iniciar: quien inicia o instruye. Ya iniciado: quien resuelve."
+},
+"au-11-009": {
+  "bloque": "iniciacion",
+  "precepto": "Art. 57 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+    "Es verdadera, así que no se marca. El art. 57 atribuye la decisión al órgano que inicie o tramite el procedimiento.",
+    "Esta es la falsa, y por eso es la que hay que marcar. El **art. 57** exige lo contrario: que sea el **mismo órgano** quien deba tramitar y resolver. Tiene lógica: no se pueden juntar expedientes de órganos distintos.",
+    "Es verdadera, así que no se marca. El art. 57 dice “de oficio o a instancia de parte”.",
+    "Es verdadera, así que no se marca. Lo dice literalmente el párrafo segundo del art. 57."
+  ]
+},
+"au-11-010": {
+  "bloque": "iniciacion",
+  "precepto": "Art. 56.2 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+    "Es verdadera, así que no se marca. Es el art. 56.5: pueden alzarse (levantarse) o modificarse por circunstancias sobrevenidas.",
+    "Es verdadera, así que no se marca. Es el art. 56.4.",
+    "Esta es la falsa, y por eso es la que hay que marcar. El **art. 56.2** sí permite adoptarlas antes de iniciar el procedimiento, en casos de urgencia inaplazable y para proteger provisionalmente los intereses implicados.",
+    "Es verdadera, así que no se marca. Lo dice el párrafo segundo del art. 56.5."
+  ]
+},
+"au-11-011": {
+  "bloque": "iniciacion",
+  "precepto": "Art. 56.1 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+    "No. El art. 56.1 no atribuye esta facultad al superior jerárquico, sino al propio órgano competente para resolver.",
+    "Es esta. **Iniciado** el procedimiento, las adopta el órgano competente para resolver (**art. 56.1**), de oficio o a instancia de parte y de forma motivada.",
+    "No. El órgano competente para iniciar o instruir actúa **antes** de iniciar el procedimiento (art. 56.2). Aquí ya está iniciado.",
+    "No. El superior jerárquico no aparece en el art. 56, ni antes ni después de iniciar."
+  ],
+  "ojo": "Es la pareja de la regla del art. 56.2: ya iniciado, resuelve quien resolverá."
+},
+"au-11-012": {
+  "bloque": "iniciacion",
+  "precepto": "Art. 55 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+    "Es verdadera, así que no se marca. Lo dice el párrafo segundo del art. 55.2. La ley añade que, en su defecto, las hará la persona u órgano que determine el órgano competente.",
+    "Esta es la falsa, y por eso es la que hay que marcar. El **art. 55.1** dice que el órgano “podrá” abrirlas, y el 55.2 solo explica a qué se orientan en un procedimiento sancionador. No son obligatorias.",
+    "Es verdadera, así que no se marca. Es el fin que señala el art. 55.1.",
+    "Es verdadera, así que no se marca. El art. 55.1 empieza “con anterioridad al inicio del procedimiento”, y el “en su caso” encaja porque son potestativas."
+  ],
+  "ojo": "Son típicas de los sancionadores, pero ni son exclusivas de ellos ni son obligatorias."
+},
+"au-12-001": {
+  "bloque": "iniciacion",
+  "precepto": "Art. 58 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+    "Es verdadera, así que no se marca. La orden superior es una de las vías del art. 58 (la define el art. 60).",
+    "Esta es la falsa, y por eso es la que hay que marcar. La solicitud del interesado no es una vía del inicio de oficio, sino la otra clase de inicio (**art. 54**). El **art. 58** solo cita propia iniciativa, orden superior, petición razonada y denuncia.",
+    "Es verdadera, así que no se marca. Es una de las vías del art. 58 (la define el art. 61).",
+    "Es verdadera, así que no se marca. Es una de las vías del art. 58 (la define el art. 59)."
+  ]
+},
+"au-12-002": {
+  "bloque": "iniciacion",
+  "precepto": "Art. 61.2 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+    "No. Sobra “solo”. El art. 61 también la regula en responsabilidad patrimonial (apartado 4).",
+    "Es esta. Lo dice el **art. 61.2**: si el órgano competente decide no iniciar, tiene que comunicar los motivos al órgano que hizo la petición.",
+    "No. Eso es la orden superior (art. 60.1). La petición razonada viene de cualquier órgano que no tiene competencia para iniciar (art. 61.1), no de un superior.",
+    "No. Es lo contrario: la petición “no vincula” al órgano competente (art. 61.2), que puede decidir no iniciar."
+  ],
+  "ojo": "La orden superior viene de arriba y la petición razonada, de cualquier otro órgano sin competencia para iniciar."
+},
+"au-12-003": {
+  "bloque": "iniciacion",
+  "precepto": "Art. 62.2 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+    "No. Te han cambiado de quién es el patrimonio: el art. 62.3 habla del perjuicio en el patrimonio de las **Administraciones Públicas**, no del denunciante.",
+    "Es esta. El **art. 62.2** exige que la denuncia exprese la identidad de quien la presenta y el relato de los hechos.",
+    "No. Sobra “en ningún caso”. El art. 62.5 dice que la denuncia no da la condición de interesado “por sí sola”. Si además tiene derechos o intereses afectados, puede serlo (art. 4).",
+    "No. Es lo contrario: la denuncia “no confiere, por sí sola,” esa condición (art. 62.5)."
+  ],
+  "ojo": "Denunciar no te convierte en interesado, pero tampoco te impide serlo si cumples el art. 4."
+},
+"au-12-004": {
+  "bloque": "iniciacion",
+  "precepto": "Art. 65.2 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+    "No. El plazo es de diez días, no de cinco (art. 65.2).",
+    "No. Veinte días es el mínimo de la información pública (art. 83.2), no este plazo. Aquí son diez.",
+    "No. El art. 65.2 da diez días, no quince.",
+    "Es esta. El **art. 65.2** concede diez días a los presuntos lesionados para que aporten alegaciones, documentos o información y propongan pruebas."
+  ]
+},
+"au-12-005": {
+  "bloque": "iniciacion",
+  "precepto": "Art. 63.1 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. El **art. 63.1** dice que se iniciarán “siempre de oficio” por acuerdo del órgano competente. Nunca a solicitud del interesado.",
+    "No. El art. 63.2 es rotundo: “en ningún caso” se puede imponer una sanción sin tramitar el procedimiento. No hay excepciones.",
+    "No. La denuncia no es una alternativa al inicio de oficio, sino una de sus vías (art. 58). Por eso se inician siempre de oficio, y el órgano puede abrirlo tras recibir una denuncia.",
+    "No. Es lo contrario: la fase instructora y la sancionadora se encomiendan a órganos **distintos** (art. 63.1), para que quien investiga no sea quien sanciona."
+  ],
+  "ojo": "Aunque haya denuncia, el procedimiento sigue siendo de oficio: lo inicia el órgano con su acuerdo, no el denunciante."
+},
+"au-12-006": {
+  "bloque": "iniciacion",
+  "precepto": "Art. 64.2.a) de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+    "No. En el inicio hablamos de los hechos “que motivan la incoación” (art. 64.2.b). Los hechos probados aparecen más tarde, en la propuesta de resolución (art. 89.3), tras la instrucción.",
+    "Es esta. Es el **art. 64.2.a)**: el acuerdo debe identificar a la persona o personas presuntamente responsables.",
+    "No. Al inicio solo se indican las sanciones “que pudieran corresponder”, sin perjuicio de lo que resulte de la instrucción (art. 64.2.b). Aún no hay sanción definitiva.",
+    "No. El art. 64.2.d) pide el órgano competente para **resolver el procedimiento**, no el que resolverá un futuro recurso."
+  ]
+},
+"au-12-007": {
+  "bloque": "iniciacion",
+  "precepto": "Art. 65.1 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+    "No. El art. 65 no exige ninguna autorización del lesionado. Basta con que no haya prescrito su derecho, y si no se persona el procedimiento sigue igual (art. 65.2).",
+    "No. La palabra cambiada es “caducado”. El art. 65.1 dice “prescrito”, y remite al plazo de prescripción del art. 67.",
+    "No. Tampoco hace falta autorización tácita. La única condición del art. 65.1 es que el derecho no haya prescrito.",
+    "Es esta. El **art. 65.1** exige que no haya prescrito el derecho a reclamar del interesado, regulado en el art. 67. Ese plazo es, por regla general, de un año desde el hecho o desde que se manifiesta el daño."
+  ],
+  "ojo": "Atención a la pareja prescribir y caducar: aquí la ley usa “prescrito”."
+},
+"au-12-008": {
+  "bloque": "iniciacion",
+  "precepto": "Art. 64.3 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+    "No. El Pliego de cargos no es la regla, sino la excepción. Lo normal es incluir la calificación en el acuerdo de iniciación (art. 64.2.b).",
+    "No. Sobra “en todo caso”. El art. 64.3 permite hacerlo en una fase posterior si faltan elementos al dictar el acuerdo.",
+    "No. Está al revés. Hacerlo en el acuerdo de iniciación es lo normal, no lo excepcional.",
+    "Es esta. El **art. 64.3** dice que, “excepcionalmente”, si no hay elementos suficientes al dictar el acuerdo, la calificación puede hacerse después en un Pliego de cargos, que se notifica a los interesados."
+  ]
+},
+"au-12-009": {
+  "bloque": "iniciacion",
+  "precepto": "Art. 62.3 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. Lo dice el **art. 62.3**: si la denuncia invoca un perjuicio en el patrimonio de las Administraciones Públicas, no iniciar debe motivarse y se notifica al denunciante si se ha iniciado o no.",
+    "No. El art. 62.3 no vincula este deber a que el denunciante lo pida. El dato que importa es que se invoque un perjuicio al patrimonio público.",
+    "No. Expresar la identidad es un requisito de toda denuncia (art. 62.2), no el caso que obliga a motivar y notificar.",
+    "No. El patrimonio que cuenta es el de las Administraciones Públicas, no el del denunciante (art. 62.3)."
+  ]
+},
+"au-12-010": {
+  "bloque": "iniciacion",
+  "precepto": "Art. 62.4 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+    "No. Para eximir hace falta, entre otras cosas, reparar el perjuicio causado (art. 62.4, párrafo primero). Este denunciante no lo repara, así que no hay exención.",
+    "No. Tiene dos errores: exención no cabe, porque no repara el perjuicio, y “podrá” no es el verbo de la ley, que dice “deberá”.",
+    "No. No hay exención, pero la reducción sí es posible. El párrafo segundo del art. 62.4 la prevé justo para este caso.",
+    "Es esta. Como no repara el perjuicio, falla una condición de la exención. Pero aporta pruebas de valor añadido significativo, y entonces el órgano “deberá reducir” la multa o la sanción (**art. 62.4, párrafo segundo**). Además, tiene que cesar en la infracción y no haber destruido pruebas."
+  ],
+  "ojo": "Primero en aportar pruebas decisivas y repara el daño: deberá eximir. No cumple alguna condición pero aporta valor añadido: deberá reducir. Las dos veces es “deberá”."
+},
+"au-12-011": {
+  "bloque": "iniciacion",
+  "precepto": "Art. 65.2 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+    "No. El art. 65.2 no prevé el archivo por no personarse: el procedimiento sigue adelante.",
+    "No. El art. 65.2 no prevé la suspensión en este caso: el procedimiento continúa.",
+    "Es esta. El **art. 65.2** dice que el procedimiento “se instruirá” aunque los presuntos lesionados no se personen. Tiene lógica: lo inició la Administración por su cuenta y no depende de que ellos aparezcan.",
+    "No. El art. 65.2 no prevé aquí la caducidad. Que los particulares no aparezcan no frena un procedimiento iniciado de oficio."
+  ]
+},
+"au-12-012": {
+  "bloque": "iniciacion",
+  "precepto": "Art. 63.3 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. Lo dice el **art. 63.3**: si el infractor sigue con la misma conducta de forma continuada, no se abren nuevos procedimientos hasta que haya una primera resolución sancionadora “con carácter ejecutivo”. Después sí se puede abrir otro.",
+    "No. La ley habla de resolución **sancionadora**, no absolutoria. Te han cambiado el sentido de la resolución.",
+    "No. Basta con que la resolución tenga carácter ejecutivo. El art. 63.3 no exige que ya se haya ejecutado.",
+    "No. El art. 63.3 no pone como condición que se haya recurrido, sino que tenga carácter ejecutivo."
+  ],
+  "ojo": "La palabra clave es “ejecutivo” (que ya se puede aplicar), no “ejecutado” (que ya se ha aplicado)."
+}
+}

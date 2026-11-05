@@ -1,0 +1,592 @@
+{
+"lote": 15,
+"casos": {},
+"calendarios": {},
+"preguntas": [
+{
+"id": "of-10-003",
+"origen": "oficiales",
+"test": "Temas 2-3 (10) - Ley 39/2015 (arts. 106 a 111)",
+"n": 3,
+"enunciado": "El Ayuntamiento de León ha cometido un error aritmético en un acto administrativo. Señale la respuesta correcta conforme al artículo 109 de la Ley 39/2015:",
+"opciones": [
+"Para realizar la rectificación es necesario recabar el dictamen favorable del Consejo de Estado.",
+"El plazo máximo para rectificar es de 3 meses desde que se dictó el acto.",
+"Para realizar la rectificación es necesario recabar el consentimiento del interesado afectado por el acto.",
+"La rectificación puede ser a instancia de los interesados o del propio Ayuntamiento."
+]
+},
+{
+"id": "of-10-004",
+"origen": "oficiales",
+"test": "Temas 2-3 (10) - Ley 39/2015 (arts. 106 a 111)",
+"n": 4,
+"enunciado": "Según el artículo 107 de la Ley 39/2015, ¿cuál es el órgano competente, en un Ayuntamiento, para declarar la lesividad de un acto anulable?",
+"opciones": [
+"El Alcalde- Presidente o, en su defecto, el órgano colegiado superior de la entidad.",
+"El órgano competente por razón de la materia.",
+"El Pleno Corporativo o, en su defecto, el órgano colegiado superior de la entidad.",
+"El orden jurisdiccional contencioso-administrativo."
+]
+},
+{
+"id": "of-10-005",
+"origen": "oficiales",
+"test": "Temas 2-3 (10) - Ley 39/2015 (arts. 106 a 111)",
+"n": 5,
+"enunciado": "De acuerdo con el artículo 109 de la Ley 39/2015, de 1 de octubre, la revocación:",
+"opciones": [
+"Se puede acordar mientras no haya transcurrido el plazo de caducidad.",
+"Puede tener por objeto actos de carácter favorable.",
+"No pueden ser objeto de revocación los actos de gravamen.",
+"Se puede acordar mientras no haya transcurrido el plazo de prescripción."
+]
+},
+{
+"id": "of-10-006",
+"origen": "oficiales",
+"test": "Temas 2-3 (10) - Ley 39/2015 (arts. 106 a 111)",
+"n": 6,
+"enunciado": "Según el artículo 111 de la Ley 39/2015, en el ámbito estatal, serán competentes para la revisión de oficio de las disposiciones y los actos administrativos nulos y anulables:",
+"opciones": [
+"Los Secretarios de Estado, respecto de sus propios actos y disposiciones.",
+"Los Ministros, respecto de los actos y disposiciones de los Secretarios de Estado.",
+"Los máximos órganos rectores de los Organismos públicos, respecto de sus propios actos y disposiciones.",
+"Los Ministros, respecto de sus propios actos y disposiciones y de los dictados por los Secretarios de Estado."
+]
+},
+{
+"id": "of-10-007",
+"origen": "oficiales",
+"test": "Temas 2-3 (10) - Ley 39/2015 (arts. 106 a 111)",
+"n": 7,
+"enunciado": "De acuerdo con la Ley 39/2015, de 1 de octubre, si la Administración Pública quiere impugnar un acto administrativo favorable a los interesados que sea anulable deberá:",
+"opciones": [
+"Declarar la anulabilidad de dicho acto administrativo.",
+"Declarar la nulidad de dicho acto.",
+"Revocar administrativamente dicho acto.",
+"Declarar su lesividad al interés público e impugnarlo ante la jurisdicción contencioso-administrativa."
+]
+},
+{
+"id": "of-10-008",
+"origen": "oficiales",
+"test": "Temas 2-3 (10) - Ley 39/2015 (arts. 106 a 111)",
+"n": 8,
+"enunciado": "De acuerdo con el artículo 109.1 de la Ley 39/2015, de 1 de octubre, si la Administración Pública quiere dejar sin efecto un acto administrativo desfavorable o de gravamen, deberá:",
+"opciones": [
+"Declarar su lesividad al interés público e impugnarlo ante la jurisdicción contencioso-administrativa.",
+"Declarar la anulabilidad de dicho acto administrativo.",
+"Revocar dicho acto, siempre que ello no constituya dispensa o exención no permitida por las leyes.",
+"Declarar la nulidad de dicho acto."
+]
+},
+{
+"id": "of-10-009",
+"origen": "oficiales",
+"test": "Temas 2-3 (10) - Ley 39/2015 (arts. 106 a 111)",
+"n": 9,
+"enunciado": "De acuerdo con la Ley 39/2015, ¿quién revisa de oficio las disposiciones y los actos administrativos nulos y anulables de los Ministros?",
+"opciones": [
+"Los Ministros, respecto de sus propios actos y disposiciones.",
+"Los Secretarios de Estado.",
+"El Presidente del Gobierno.",
+"El Consejo de Ministros."
+]
+},
+{
+"id": "of-10-010",
+"origen": "oficiales",
+"test": "Temas 2-3 (10) - Ley 39/2015 (arts. 106 a 111)",
+"n": 10,
+"enunciado": "De conformidad con el artículo 106 de la Ley 39/2015, las Administraciones Públicas declararán de oficio la nulidad de los actos administrativos:",
+"opciones": [
+"Antes de haber transcurrido el plazo de cuatro años desde que se dictó el acto administrativo.",
+"En los supuestos de anulabilidad previstos en el artículo 47.2 de la Ley.",
+"Por iniciativa propia o a solicitud del interesado.",
+"Sin necesidad de dictamen favorable del Consejo de Estado u órgano consultivo equivalente."
+]
+},
+{
+"id": "of-10-011",
+"origen": "oficiales",
+"test": "Temas 2-3 (10) - Ley 39/2015 (arts. 106 a 111)",
+"n": 11,
+"enunciado": "De acuerdo con la Ley 39/2015, serán competentes para la revisión de oficio de las disposiciones y de actos nulos y anulables de los Secretarios de Estado:",
+"opciones": [
+"Los Ministros.",
+"Los Tribunales Superiores de Justicia.",
+"Las Comisiones Delegadas del Gobierno.",
+"El Consejo de Ministros."
+]
+},
+{
+"id": "of-10-012",
+"origen": "oficiales",
+"test": "Temas 2-3 (10) - Ley 39/2015 (arts. 106 a 111)",
+"n": 12,
+"enunciado": "Según la Ley 39/2015, ¿es posible que el órgano competente para la revisión de oficio de un acto o disposición nulos de la AGE inadmita a trámite las solicitudes formuladas por los interesados sin necesidad de recabar Dictamen del Consejo de Estado?",
+"opciones": [
+"Sí, pero si no acude al Consejo de Estado debe impugnar la solicitud en vía contencioso-administrativa.",
+"Sí, pero debe hacerlo en el plazo de 6 meses o se producirá la caducidad del procedimiento y, en ese caso, deberá acudir bien al Consejo de Estado o bien a la Jurisdicción contencioso-administrativa para impugnar la solicitud del interesado.",
+"No. El Dictamen del Consejo de Estado es requisito imprescindible para la revisión de oficio de actos o disposiciones nulos, de acuerdo con el artículo 106 de la Ley 39/2015.",
+"Sí, cuando las solicitudes de revisión no se basen en alguna causa de nulidad de pleno derecho o carezcan de fundamento, así como en el supuesto de que se hubieran desestimado en cuanto al fondo otras solicitudes sustancialmente iguales."
+]
+},
+{
+"id": "of-10-013",
+"origen": "oficiales",
+"test": "Temas 2-3 (10) - Ley 39/2015 (arts. 106 a 111)",
+"n": 13,
+"enunciado": "Conforme a lo establecido en el artículo 109 de la Ley 39/2015, ¿puede la Administración revocar sus propios actos?",
+"opciones": [
+"Sí, sus actos de gravamen o desfavorables mientras no haya transcurrido el plazo de prescripción.",
+"Solo cuando sean nulos de pleno derecho por lesionar derechos y libertades susceptibles de amparo constitucional.",
+"Sí, siempre que se trate de errores materiales, de hecho o aritméticos y que éstos no hayan prescrito.",
+"No, la Administración nunca puede ir contra sus propios actos."
+]
+},
+{
+"id": "of-10-014",
+"origen": "oficiales",
+"test": "Temas 2-3 (10) - Ley 39/2015 (arts. 106 a 111)",
+"n": 14,
+"enunciado": "De conformidad con el artículo 106.5 de la Ley 39/2015, si un procedimiento de revisión de oficio se hubiera iniciado a solicitud de interesado, transcurrido el plazo máximo sin dictarse resolución:",
+"opciones": [
+"Se producirá la caducidad del procedimiento.",
+"Se podrá entender la solicitud estimada por silencio administrativo.",
+"Se producirá la invalidez del procedimiento.",
+"Se podrá entender la solicitud desestimada por silencio administrativo."
+]
+},
+{
+"id": "of-10-015",
+"origen": "oficiales",
+"test": "Temas 2-3 (10) - Ley 39/2015 (arts. 106 a 111)",
+"n": 15,
+"enunciado": "En base a lo que dicta la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, con respecto al procedimiento de revisión de oficio, indique la respuesta correcta:",
+"opciones": [
+"Cuando el procedimiento se hubiera iniciado de oficio, el transcurso del plazo de dos meses desde su inicio sin dictarse resolución producirá la caducidad del mismo. Si el procedimiento se hubiera iniciado a solicitud de interesado, se podrá entender la misma desestimada por silencio administrativo.",
+"Cuando el procedimiento se hubiera iniciado a instancia de interesado, el transcurso del plazo de un mes desde su inicio sin dictarse resolución producirá la caducidad del mismo. Si el procedimiento se hubiera iniciado de oficio, se podrá entender la misma desestimada por silencio administrativo.",
+"Cuando el procedimiento se hubiera iniciado a instancia de interesado, el transcurso del plazo de tres meses desde su inicio sin dictarse resolución producirá la caducidad del mismo. Si el procedimiento se hubiera iniciado de oficio, se podrá entender la misma desestimada por silencio administrativo.",
+"Cuando el procedimiento se hubiera iniciado de oficio, el transcurso del plazo de seis meses desde su inicio sin dictarse resolución producirá la caducidad del mismo. Si el procedimiento se hubiera iniciado a solicitud de interesado, se podrá entender la misma desestimada por silencio administrativo."
+]
+},
+{
+"id": "of-11-001",
+"origen": "oficiales",
+"test": "Temas 2-3 (11) - Ley 39/2015 (arts. 106 a 111)",
+"n": 1,
+"enunciado": "Según el artículo 106 de la Ley 39/2015, de 1 de octubre, en un procedimiento de revisión de disposiciones y actos nulos iniciado de oficio, de no dictarse resolución en el transcurso de seis meses desde su inicio se producirá:",
+"opciones": [
+"La suspensión de las actuaciones.",
+"La caducidad del procedimiento.",
+"La desestimación por silencio administrativo de las pretensiones.",
+"La prescripción del procedimiento."
+]
+},
+{
+"id": "of-11-002",
+"origen": "oficiales",
+"test": "Temas 2-3 (11) - Ley 39/2015 (arts. 106 a 111)",
+"n": 2,
+"enunciado": "Según el artículo 107 de la Ley 39/2015, la declaración de lesividad de actos anulables NO podrá adoptarse transcurridos:",
+"opciones": [
+"Dos años desde que se dictó el acto administrativo.",
+"Cuatro años desde que se dictó el acto administrativo.",
+"Un año desde que se dictó el acto administrativo.",
+"Tres años desde que se dictó el acto administrativo."
+]
+},
+{
+"id": "of-11-003",
+"origen": "oficiales",
+"test": "Temas 2-3 (11) - Ley 39/2015 (arts. 106 a 111)",
+"n": 3,
+"enunciado": "Conforme al artículo 107 de la Ley 39/2015, de 1 de octubre, la declaración de lesividad de los actos favorables para los interesados que sean anulables:",
+"opciones": [
+"Será susceptible de recurso de alzada.",
+"Será susceptible de recurso potestativo de reposición.",
+"Será susceptible de recurso contencioso-administrativo.",
+"No será susceptible de recurso, si bien podrá notificarse a los interesados a los meros efectos informativos."
+]
+},
+{
+"id": "of-11-004",
+"origen": "oficiales",
+"test": "Temas 2-3 (11) - Ley 39/2015 (arts. 106 a 111)",
+"n": 4,
+"enunciado": "Señale la respuesta correcta en relación con la declaración de lesividad de actos anulables:",
+"opciones": [
+"No exigirá la previa audiencia de cuantos aparezcan como interesados en el mismo.",
+"Será susceptible de recurso, debiendo notificarse a los interesados.",
+"Transcurrido 6 meses desde la iniciación del procedimiento sin haberse declarado la lesividad, se producirá la caducidad.",
+"Podrá adoptarse una vez transcurridos cuatro años desde que se dictó el acto administrativo."
+]
+},
+{
+"id": "of-11-005",
+"origen": "oficiales",
+"test": "Temas 2-3 (11) - Ley 39/2015 (arts. 106 a 111)",
+"n": 5,
+"enunciado": "Según la Ley 39/2015, ¿qué actuación previa tienen que realizar las Administraciones Públicas para poder impugnar ante el orden jurisdiccional contencioso-administrativo los actos favorables para los interesados que sean anulables?",
+"opciones": [
+"Declaración de no procedencia de interposición de recurso potestativo de revisión.",
+"Interponer recurso extraordinario de revisión.",
+"Declaración expresa de anulabilidad.",
+"Declaración de lesividad para el interés público."
+]
+},
+{
+"id": "of-11-006",
+"origen": "oficiales",
+"test": "Temas 2-3 (11) - Ley 39/2015 (arts. 106 a 111)",
+"n": 6,
+"enunciado": "Según la Ley 39/2015, las Administraciones Públicas podrán rectificar en cualquier momento, de oficio o a instancia de los interesados:",
+"opciones": [
+"Los errores materiales, de hecho o de derecho existentes en sus actos.",
+"Los actos favorables para los interesados que sean anulables.",
+"Los errores materiales, de hecho o aritméticos existentes en sus actos.",
+"Los actos de gravamen o desfavorables para los interesados que sean anulables."
+]
+},
+{
+"id": "of-11-007",
+"origen": "oficiales",
+"test": "Temas 2-3 (11) - Ley 39/2015 (arts. 106 a 111)",
+"n": 7,
+"enunciado": "En relación con el artículo 107 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, previa su declaración de lesividad para el interés público, las Administraciones Públicas podrán impugnar ante el orden jurisdiccional contencioso-administrativo:",
+"opciones": [
+"Los actos favorables para los interesados que sean anulables.",
+"Los actos desfavorables para los interesados que sean nulos de pleno derecho.",
+"Los actos favorables y desfavorables para los interesados que sean anulables.",
+"Los actos favorables para los interesados, ya sean nulos de pleno derecho o anulables."
+]
+},
+{
+"id": "of-11-008",
+"origen": "oficiales",
+"test": "Temas 2-3 (11) - Ley 39/2015 (arts. 106 a 111)",
+"n": 8,
+"enunciado": "Indique la respuesta correcta sobre el sentido del silencio administrativo, de conformidad con el artículo 106 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas, para la revisión de disposiciones y actos nulos:",
+"opciones": [
+"Si el procedimiento se hubiera iniciado a solicitud de interesado, se podrá entender la misma desestimada por silencio administrativo.",
+"Si el procedimiento se hubiera iniciado a solicitud de interesado, se podrá entender la misma estimada por silencio administrativo.",
+"Cuando el procedimiento se hubiera iniciado de oficio, el transcurso del plazo de tres meses desde su inicio sin dictarse resolución producirá la caducidad del mismo.",
+"Cuando el procedimiento se hubiera iniciado de oficio, el transcurso del plazo de seis meses desde su inicio sin dictarse resolución se podrá entender desestimada por silencio administrativo."
+]
+},
+{
+"id": "of-11-009",
+"origen": "oficiales",
+"test": "Temas 2-3 (11) - Ley 39/2015 (arts. 106 a 111)",
+"n": 9,
+"enunciado": "De conformidad con lo dispuesto en el artículo 107 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas, las Administraciones Públicas podrán impugnar ante el orden jurisdiccional contencioso-administrativo:",
+"opciones": [
+"Los actos desfavorables para los interesados que sean anulables, previa su declaración de lesividad para el interés general.",
+"Los actos desfavorables para los interesados que sean nulos, previa su declaración de lesividad para el interés público.",
+"Los actos favorables para los interesados que sean nulos, previa su declaración de lesividad para el interés general.",
+"Los actos favorables para los interesados, que sean anulables, previa su declaración de lesividad para el interés público."
+]
+},
+{
+"id": "of-11-010",
+"origen": "oficiales",
+"test": "Temas 2-3 (11) - Ley 39/2015 (arts. 106 a 111)",
+"n": 10,
+"enunciado": "De acuerdo con el artículo 109 de la Ley 39/2015, las Administraciones Públicas podrán rectificar los errores materiales, de hecho o aritméticos existentes en sus actos:",
+"opciones": [
+"En cualquier momento, de oficio o a instancia de los interesados.",
+"En cualquier momento, solo de oficio.",
+"Mientras no haya transcurrido el plazo de prescripción, de oficio o a instancia de los interesados.",
+"Mientras no haya transcurrido el plazo de prescripción, solo de oficio."
+]
+},
+{
+"id": "of-12-004",
+"origen": "oficiales",
+"test": "Temas 2-3 (12) - Ley 39/2015 (arts. 112 a 120)",
+"n": 4,
+"enunciado": "De conformidad con la Ley 39/2015, son susceptibles de recurso:",
+"opciones": [
+"El acuerdo que declare la aplicación de la tramitación de urgencia al procedimiento.",
+"Las resoluciones que declaren la caducidad en los procedimientos iniciados a solicitud del interesado.",
+"Los acuerdos sobre ampliación de plazos o sobre su denegación.",
+"El acuerdo que resuelva sobre la ampliación del plazo máximo de resolución y notificación."
+]
+},
+{
+"id": "of-12-005",
+"origen": "oficiales",
+"test": "Temas 2-3 (12) - Ley 39/2015 (arts. 112 a 120)",
+"n": 5,
+"enunciado": "Según la Ley 39/2015, se podrá sustituir el recurso de alzada en supuestos o ámbitos sectoriales determinados, y cuando la especificidad de la materia así lo justifique, por otros procedimientos de impugnación, reclamación, conciliación, mediación y arbitraje por medio de:",
+"opciones": [
+"Ley.",
+"Instrucción.",
+"Disposición administrativa de carácter general.",
+"Orden Ministerial."
+]
+},
+{
+"id": "of-12-006",
+"origen": "oficiales",
+"test": "Temas 2-3 (12) - Ley 39/2015 (arts. 112 a 120)",
+"n": 6,
+"enunciado": "Siguiendo lo dispuesto en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, contra las disposiciones administrativas de carácter general:",
+"opciones": [
+"No cabrá recurso en vía administrativa.",
+"Solo cabe interponer el recurso extraordinario de revisión.",
+"Cabe interponer recurso de alzada.",
+"Cabe interponer recurso de reposición."
+]
+},
+{
+"id": "of-12-007",
+"origen": "oficiales",
+"test": "Temas 2-3 (12) - Ley 39/2015 (arts. 112 a 120)",
+"n": 7,
+"enunciado": "De acuerdo con el artículo 114 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, ponen fin a la vía administrativa:",
+"opciones": [
+"Las resoluciones de los recursos de alzada.",
+"Las resoluciones de los recursos de reposición.",
+"Los acuerdos, pactos, convenios o contratos que no tengan la consideración de finalizadores del procedimiento.",
+"Las resoluciones de órganos administrativos, salvo que una Ley establezca lo contrario."
+]
+},
+{
+"id": "of-12-008",
+"origen": "oficiales",
+"test": "Temas 2-3 (12) - Ley 39/2015 (arts. 112 a 120)",
+"n": 8,
+"enunciado": "¿Qué consecuencia establece el artículo 115.2 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, cuando un recurrente no califica su recurso o erra en dicha calificación?",
+"opciones": [
+"La Administración inadmite a trámite el recurso, por incumplimiento de los requisitos para su interposición.",
+"La Administración declara la caducidad del procedimiento.",
+"La Administración declara el archivo de las actuaciones.",
+"La Administración tramita el recurso, siempre que deduzca su verdadero carácter."
+]
+},
+{
+"id": "of-12-009",
+"origen": "oficiales",
+"test": "Temas 2-3 (12) - Ley 39/2015 (arts. 112 a 120)",
+"n": 9,
+"enunciado": "¿Cuál de las siguientes causas de inadmisión de un recurso administrativo es INCORRECTA, según el artículo 116 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas?",
+"opciones": [
+"La carencia manifiesta de fundamento.",
+"La falta de legitimación del recurrente.",
+"El transcurso del plazo de interposición.",
+"La existencia de otro recurso con identidad sustancial o íntima conexión."
+]
+},
+{
+"id": "of-12-010",
+"origen": "oficiales",
+"test": "Temas 2-3 (12) - Ley 39/2015 (arts. 112 a 120)",
+"n": 10,
+"enunciado": "De acuerdo con la Ley 39/2015, las resoluciones de los recursos de alzada:",
+"opciones": [
+"No ponen fin a la vía administrativa.",
+"Pueden ser recurridas en reposición.",
+"Ponen fin a la vía administrativa.",
+"No pueden ser objeto de ningún otro recurso administrativo."
+]
+},
+{
+"id": "of-13-001",
+"origen": "oficiales",
+"test": "Temas 2-3 (13) - Ley 39/2015 (arts. 121 a 126)",
+"n": 1,
+"enunciado": "Según lo establecido en el artículo 123 de la Ley 39/2015, señale la respuesta correcta:",
+"opciones": [
+"Los actos administrativos que pongan fin a la vía administrativa podrán ser recurridos potestativamente en reposición ante el mismo órgano que los hubiera dictado o ser impugnados directamente ante el orden jurisdiccional contencioso-administrativo.",
+"Los actos administrativos que no pongan fin a la vía administrativa podrán ser recurridos en alzada ante el órgano superior jerárquico del que los dictó o ser impugnados directamente ante el orden jurisdiccional contencioso-administrativo.",
+"Los actos administrativos que pongan fin a la vía administrativa podrán ser recurridos en alzada ante el órgano superior jerárquico del que los dictó o potestativamente en reposición ante el mismo órgano que los hubiera dictado.",
+"Los actos administrativos que no pongan fin a la vía administrativa podrán ser recurridos en alzada o en reposición ante el órgano superior jerárquico del que los dictó."
+]
+},
+{
+"id": "of-13-002",
+"origen": "oficiales",
+"test": "Temas 2-3 (13) - Ley 39/2015 (arts. 121 a 126)",
+"n": 2,
+"enunciado": "Según la Ley 39/2015, el recurso extraordinario de revisión que se fundamente en que al dictar el acto se hubiera incurrido en un error de hecho que resulte de los propios documentos incorporados al expediente, se interpondrá dentro del plazo de:",
+"opciones": [
+"Cuatro años siguientes a la fecha de la notificación de la resolución impugnada.",
+"Dos años siguientes a la fecha de la notificación de la resolución impugnada.",
+"Tres meses siguientes a la fecha de la notificación de la resolución impugnada.",
+"Un año siguiente a la fecha de la notificación de la resolución impugnada."
+]
+},
+{
+"id": "of-13-003",
+"origen": "oficiales",
+"test": "Temas 2-3 (13) - Ley 39/2015 (arts. 121 a 126)",
+"n": 3,
+"enunciado": "De acuerdo con el artículo 122 de la Ley 39/2015, el plazo máximo para dictar y notificar la resolución de un recurso de alzada:",
+"opciones": [
+"Sera de tres meses.",
+"Sera de quince días.",
+"Sera de dos meses.",
+"Sera de un mes."
+]
+},
+{
+"id": "of-13-004",
+"origen": "oficiales",
+"test": "Temas 2-3 (13) - Ley 39/2015 (arts. 121 a 126)",
+"n": 4,
+"enunciado": "En relación con el recurso de alzada regulado en la Ley 39/2015, señale la respuesta correcta:",
+"opciones": [
+"Si el acto no fuera expreso cabrá interponer recurso de alzada en cualquier momento a partir del día siguiente a aquel en que, de acuerdo con su normativa específica, se produzcan los efectos del silencio administrativo.",
+"El plazo máximo para dictar y notificar la resolución será de un mes.",
+"Contra la resolución de un recurso de alzada cabe recurso de reposición con carácter potestativo.",
+"El órgano competente para su resolución sólo podrá suspender el acto impugnado en el supuesto de que una disposición expresamente lo permita o cuando el recurso se fundamente en alguna de las causas de nulidad de pleno derecho."
+]
+},
+{
+"id": "of-13-005",
+"origen": "oficiales",
+"test": "Temas 2-3 (13) - Ley 39/2015 (arts. 121 a 126)",
+"n": 5,
+"enunciado": "De acuerdo con la Ley 39/2015, el plazo para la interposición del recurso de alzada será de:",
+"opciones": [
+"2 meses, si el acto fuera expreso.",
+"4 meses, si el acto fuera expreso.",
+"1 mes, si el acto fuera expreso.",
+"3 meses, si el acto fuera expreso."
+]
+},
+{
+"id": "of-13-006",
+"origen": "oficiales",
+"test": "Temas 2-3 (13) - Ley 39/2015 (arts. 121 a 126)",
+"n": 6,
+"enunciado": "En relación con el recurso extraordinario de revisión, la Ley 39/2015 indica que:",
+"opciones": [
+"El órgano al que corresponde conocer del recurso extraordinario de revisión debe pronunciarse sobre la procedencia del recurso, y en su caso, sobre el fondo de la cuestión resuelta por el acto recurrido.",
+"Se puede acordar motivadamente la inadmisión a trámite cuando se hubiesen desestimado en cuanto al fondo otros recursos sustancialmente iguales, previo dictamen del Consejo de Estado.",
+"Transcurrido el plazo de 3 meses desde la interposición del recurso extraordinario de revisión sin haberse dictado y notificado la resolución, se entenderá estimado.",
+"Contra los actos firmes en vía administrativa podrá interponerse el recurso extraordinario de revisión ante el órgano superior jerárquico al que lo dictó, que también será el competente para su resolución."
+]
+},
+{
+"id": "of-13-007",
+"origen": "oficiales",
+"test": "Temas 2-3 (13) - Ley 39/2015 (arts. 121 a 126)",
+"n": 7,
+"enunciado": "La Ley 39/2015, en relación con el recurso de reposición, indica que:",
+"opciones": [
+"Se puede interponer simultáneamente el recurso de reposición y el recurso contencioso-administrativo.",
+"Contra la resolución de un recurso de reposición no podrá interponerse de nuevo dicho recurso.",
+"Se interpone ante el órgano superior jerárquico de aquel que hubiera dictado el acto que se recurre.",
+"El plazo máximo para dictar y notificar la resolución del recurso será de dos meses."
+]
+},
+{
+"id": "of-13-008",
+"origen": "oficiales",
+"test": "Temas 2-3 (13) - Ley 39/2015 (arts. 121 a 126)",
+"n": 8,
+"enunciado": "De conformidad con la Ley 39/2015, de 1 de octubre, ¿cuál de las siguientes afirmaciones sobre el recurso de alzada es correcta?",
+"opciones": [
+"Contra la resolución del recurso de alzada no cabra ningún recurso administrativo, salvo el recurso extraordinario de revisión en los casos previstos en la Ley 39/2015.",
+"Transcurrido el plazo máximo para dictar y notificar la resolución sin que se haya producido, se podrá entender estimado el recurso, en todos los casos.",
+"Transcurrido el plazo máximo para dictar y notificar la resolución sin que se haya producido, se podrá entender desestimado el recurso en todos los casos.",
+"El plazo máximo para dictar y notificar resolución será de un mes."
+]
+},
+{
+"id": "of-13-009",
+"origen": "oficiales",
+"test": "Temas 2-3 (13) - Ley 39/2015 (arts. 121 a 126)",
+"n": 9,
+"enunciado": "Señale la respuesta correcta sobre el recurso extraordinario de revisión de acuerdo con la Ley 39/2015:",
+"opciones": [
+"Se interpone ante el órgano administrativo que dictó el acto, que es el mismo competente para su resolución.",
+"Se interpone en el plazo de 1 mes a contar desde el conocimiento de la circunstancia que lo motiva.",
+"Se interpone contra actos administrativos que no ponen fin a la vía administrativa.",
+"Se entiende desestimado si transcurren 6 meses sin resolución."
+]
+},
+{
+"id": "of-13-010",
+"origen": "oficiales",
+"test": "Temas 2-3 (13) - Ley 39/2015 (arts. 121 a 126)",
+"n": 10,
+"enunciado": "Según el artículo 125 de la Ley 39/2015, contra los actos firmes en vía administrativa podrá interponerse recurso extraordinario de revisión:",
+"opciones": [
+"Ante el Consejo de Estado.",
+"Ante el órgano administrativo que los dictó.",
+"Ante el órgano superior jerárquico del que los dictó.",
+"Ante la jurisdicción contencioso-administrativa."
+]
+},
+{
+"id": "of-13-011",
+"origen": "oficiales",
+"test": "Temas 2-3 (13) - Ley 39/2015 (arts. 121 a 126)",
+"n": 11,
+"enunciado": "Según la Ley 39/2015, cuando aparezcan documentos de valor esencial para la resolución del asunto que, aunque sean posteriores, evidencien el error de la resolución recurrida, el plazo para interponer el recurso extraordinario de revisión será de:",
+"opciones": [
+"Tres meses desde la notificación de la resolución impugnada.",
+"Cuatro años desde el conocimiento de los documentos.",
+"Cuatro años desde la notificación de la resolución impugnada.",
+"Tres meses desde el conocimiento de los documentos."
+]
+},
+{
+"id": "of-13-012",
+"origen": "oficiales",
+"test": "Temas 2-3 (13) - Ley 39/2015 (arts. 121 a 126)",
+"n": 12,
+"enunciado": "De acuerdo con la Ley 39/2015, las resoluciones de los recursos de alzada:",
+"opciones": [
+"Pueden ser recurridas en reposición.",
+"No ponen fin a la vía administrativa.",
+"No pueden ser objeto de ningún otro recurso administrativo.",
+"Ponen fin a la vía administrativa."
+]
+},
+{
+"id": "of-13-013",
+"origen": "oficiales",
+"test": "Temas 2-3 (13) - Ley 39/2015 (arts. 121 a 126)",
+"n": 13,
+"enunciado": "Según el artículo 125 de la Ley 39/2015, de 1 de octubre, ¿qué órgano administrativo es competente para la resolución de un recurso extraordinario de revisión contra un acto firme en vía administrativa?",
+"opciones": [
+"El superior jerárquico del órgano que lo dictó.",
+"El órgano administrativo que lo dictó.",
+"El superior jerárquico del órgano que debe resolver.",
+"El superior jerárquico del órgano jurisdiccional competente."
+]
+},
+{
+"id": "of-13-014",
+"origen": "oficiales",
+"test": "Temas 2-3 (13) - Ley 39/2015 (arts. 121 a 126)",
+"n": 14,
+"enunciado": "De acuerdo con la Ley 39/2015, ¿cuál es el plazo máximo para dictar y notificar la resolución de un recurso de alzada?",
+"opciones": [
+"Un mes.",
+"Dos meses.",
+"Seis meses.",
+"Tres meses."
+]
+},
+{
+"id": "of-13-015",
+"origen": "oficiales",
+"test": "Temas 2-3 (13) - Ley 39/2015 (arts. 121 a 126)",
+"n": 15,
+"enunciado": "En función de lo dispuesto en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, podrá interponerse el recurso extraordinario de revisión ante el órgano administrativo que lo dictó, que también será el competente para su resolución, cuando concurra alguna de las circunstancias siguientes:",
+"opciones": [
+"Que la resolución administrativa haya sido emitida con omisión del procedimiento legalmente establecido.",
+"Que aparezcan documentos de valor esencial para la resolución del asunto que, aunque sean posteriores, evidencien el error de la resolución recurrida.",
+"Que en la resolución hayan influido parcialmente documentos o testimonios declarados falsos por auto judicial, anterior a aquella resolución.",
+"Que al dictarlo se hubiera incurrido en error de hecho o de derecho, que resulte de los propios documentos incorporados al expediente únicamente con posterioridad a la incoación del expediente."
+]
+}
+]
+}

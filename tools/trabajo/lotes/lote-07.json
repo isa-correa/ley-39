@@ -1,0 +1,527 @@
+{
+"lote": 7,
+"casos": {},
+"calendarios": {},
+"preguntas": [
+{
+"id": "au-16-001",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (16) - Ley 39/2015 (arts. 75 a 83)",
+"n": 1,
+"enunciado": "En relación con los procedimientos de responsabilidad patrimonial, será preceptivo solicitar Dictamen del Consejo de Estado o, en su caso, del órgano consultivo de la Comunidad Autónoma cuando las indemnizaciones reclamadas sean de cuantía igual o superior a:",
+"opciones": [
+"40.000 euros.",
+"50.000 euros.",
+"30.000 euros.",
+"15.000 euros."
+]
+},
+{
+"id": "au-16-002",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (16) - Ley 39/2015 (arts. 75 a 83)",
+"n": 2,
+"enunciado": "Conforme a lo dispuesto en el artículo 81 de la Ley 39/2015, en los procedimientos de responsabilidad patrimonial, ¿en qué plazo deberá emitirse informe por el servicio cuyo funcionamiento haya ocasionado la presunta lesión indemnizable?",
+"opciones": [
+"En un plazo no superior a diez días.",
+"En un plazo no inferior a quince días.",
+"En un plazo no superior a quince días.",
+"En un plazo no inferior a diez días."
+]
+},
+{
+"id": "au-16-003",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (16) - Ley 39/2015 (arts. 75 a 83)",
+"n": 3,
+"enunciado": "Según el artículo 81 de la Ley 39/2015, en los procedimientos de responsabilidad patrimonial, cuando resulte preceptivo, ¿en qué plazo deberá emitir Dictamen el Consejo de Estado?",
+"opciones": [
+"10 días.",
+"2 meses.",
+"3 meses.",
+"El Dictamen del Consejo de Estado no será preceptivo en ningún caso."
+]
+},
+{
+"id": "au-16-004",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (16) - Ley 39/2015 (arts. 75 a 83)",
+"n": 4,
+"enunciado": "Según el artículo 81 de la Ley 39/2015, en los procedimientos de responsabilidad patrimonial, cuando resulte preceptivo, ¿en qué plazo deberá emitir informe el Consejo General del Poder Judicial?",
+"opciones": [
+"En el plazo máximo de 3 meses.",
+"En el plazo máximo de 15 días.",
+"En el plazo máximo de 2 meses.",
+"El informe del Consejo General del Poder Judicial no será preceptivo en ningún caso."
+]
+},
+{
+"id": "au-16-005",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (16) - Ley 39/2015 (arts. 75 a 83)",
+"n": 5,
+"enunciado": "En los procedimientos de responsabilidad patrimonial, solicitado informe del Consejo General del Poder Judicial, el plazo para resolver y notificar:",
+"opciones": [
+"Quedará suspendido por un plazo máximo de tres meses.",
+"Podrá quedar suspendido por un plazo máximo de tres meses.",
+"Quedará suspendido por un plazo máximo de dos meses.",
+"Podrá quedar suspendido por un plazo máximo de dos meses."
+]
+},
+{
+"id": "au-16-006",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (16) - Ley 39/2015 (arts. 75 a 83)",
+"n": 6,
+"enunciado": "De acuerdo con el artículo 82 de la Ley 39/2015, ¿en qué momento del procedimiento tendrá lugar el trámite de audiencia a los interesados?",
+"opciones": [
+"Instruidos los procedimientos, e inmediatamente antes de redactar la propuesta de resolución.",
+"Dentro del periodo de práctica de pruebas.",
+"Redactada la propuesta de resolución e inmediatamente antes de elevarla al órgano competente para resolver.",
+"Una vez elevada la propuesta de resolución al órgano competente para resolver e inmediatamente antes de dictarse resolución."
+]
+},
+{
+"id": "au-16-007",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (16) - Ley 39/2015 (arts. 75 a 83)",
+"n": 7,
+"enunciado": "Cuando la solicitud del Dictamen del Consejo de Estado formara parte del procedimiento, la audiencia a los interesados será:",
+"opciones": [
+"Anterior o posterior a su solicitud, en función de la naturaleza del procedimiento que se tramite.",
+"Posterior a su solicitud.",
+"Anterior a su solicitud.",
+"Simultáneamente a su solicitud."
+]
+},
+{
+"id": "au-16-008",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (16) - Ley 39/2015 (arts. 75 a 83)",
+"n": 8,
+"enunciado": "¿En qué fase del procedimiento administrativo tiene lugar el trámite de audiencia a los interesados?",
+"opciones": [
+"En la fase de ordenación del procedimiento.",
+"En la fase de iniciación del procedimiento.",
+"En la fase de finalización del procedimiento.",
+"En la fase de instrucción del procedimiento."
+]
+},
+{
+"id": "au-16-009",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (16) - Ley 39/2015 (arts. 75 a 83)",
+"n": 9,
+"enunciado": "¿En qué fase del procedimiento administrativo tiene lugar, en su caso, el periodo de información pública?",
+"opciones": [
+"En la fase de iniciación del procedimiento.",
+"En la fase de ordenación del procedimiento.",
+"En la fase de finalización del procedimiento.",
+"En la fase de instrucción del procedimiento."
+]
+},
+{
+"id": "au-16-010",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (16) - Ley 39/2015 (arts. 75 a 83)",
+"n": 10,
+"enunciado": "Señale la respuesta correcta en relación con el trámite de audiencia a que se refiere el artículo 82 de la Ley 39/2015:",
+"opciones": [
+"No podrá tenerse por realizado hasta la finalización del plazo acordado para su práctica.",
+"Se practicará en un plazo no inferior a diez días ni superior a quince.",
+"No podrá prescindirse de él en ningún caso.",
+"Será posterior a la solicitud del Dictamen del Consejo de Estado."
+]
+},
+{
+"id": "au-16-011",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (16) - Ley 39/2015 (arts. 75 a 83)",
+"n": 11,
+"enunciado": "De acuerdo con el artículo 83 de la Ley 39/2015, ¿qué órgano podrá podrá acordar un período de información pública?",
+"opciones": [
+"El órgano al que corresponda la ordenación del procedimiento.",
+"El órgano al que corresponda la iniciación del procedimiento.",
+"El órgano al que corresponda la resolución del procedimiento.",
+"El órgano al que corresponda la instrucción del procedimiento."
+]
+},
+{
+"id": "au-16-012",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (16) - Ley 39/2015 (arts. 75 a 83)",
+"n": 12,
+"enunciado": "¿Cuál es el objeto de la apertura del periodo de información pública?",
+"opciones": [
+"Que los interesados puedan examinar el expediente completo.",
+"Que los interesados puedan examinar el expediente, o la parte del mismo que se acuerde.",
+"Que cualquier persona física o jurídica pueda examinar el expediente, o la parte del mismo que se acuerde.",
+"Que cualquier persona física o jurídica pueda examinar el expediente completo."
+]
+},
+{
+"id": "au-16-013",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (16) - Ley 39/2015 (arts. 75 a 83)",
+"n": 13,
+"enunciado": "Señale la respuesta correcta en relación con el periodo de información pública a que se refiere el artículo 83 de la Ley 39/2015:",
+"opciones": [
+"Podrá publicarse o no en el Diario Oficial que corresponda según su naturaleza y las personas a las que estuvieran destinados.",
+"El plazo para formular alegaciones en ningún caso podrá ser inferior a veinte días.",
+"La comparecencia otorga, por sí misma, la condición de interesado.",
+"La incomparecencia en este trámite impedirá a los interesados interponer recursos contra la resolución definitiva."
+]
+},
+{
+"id": "au-16-014",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (16) - Ley 39/2015 (arts. 75 a 83)",
+"n": 14,
+"enunciado": "De acuerdo con el artículo 82 de la Ley 39/2015, el trámite de audiencia tendrá una duración:",
+"opciones": [
+"No inferior a 15 días.",
+"No inferior a 10 días ni superior a 30.",
+"No inferior a 10 días ni superior a 15.",
+"No inferior a 20 días."
+]
+},
+{
+"id": "au-16-015",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (16) - Ley 39/2015 (arts. 75 a 83)",
+"n": 15,
+"enunciado": "De acuerdo con el artículo 83 de la Ley 39/2015, el plazo para formular alegaciones en el periodo de información pública será:",
+"opciones": [
+"No superior a 20 días.",
+"No inferior a 10 días, ni superior a 15.",
+"No inferior a 20 días.",
+"No inferior a 15 días."
+]
+},
+{
+"id": "au-17-001",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (17) - Ley 39/2015 (arts. 84 a 87)",
+"n": 1,
+"enunciado": "¿Cuál de las siguientes NO es una forma de finalización del procedimiento recogida en el artículo 84 de la Ley 39/2015?",
+"opciones": [
+"La imposibilidad material de continuar el procedimiento por causas sobrevenidas.",
+"La resolución.",
+"La declaración de caducidad.",
+"La prescripción."
+]
+},
+{
+"id": "au-17-002",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (17) - Ley 39/2015 (arts. 84 a 87)",
+"n": 2,
+"enunciado": "Según el artículo 85 de la Ley 39/2015, si iniciado un procedimiento sancionador el infractor reconoce su responsabilidad:",
+"opciones": [
+"Finalizará el procedimiento, salvo en lo relativo a a la determinación de la indemnización por los daños y perjuicios causados.",
+"Finalizará el procedimiento, salvo en lo relativo a la reposición de la situación alterada.",
+"Se podrá resolver el procedimiento con la imposición de la sanción que proceda.",
+"Se podrá resolver el procedimiento sin imposición de sanción."
+]
+},
+{
+"id": "au-17-003",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (17) - Ley 39/2015 (arts. 84 a 87)",
+"n": 3,
+"enunciado": "¿Cuál de las siguientes NO es una forma de finalización del procedimiento administrativo enunciada en la Ley 39/2015?",
+"opciones": [
+"La imposibilidad material de continuarlo por causas sobrevenidas.",
+"La declaración de caducidad.",
+"La resolución.",
+"La renuncia al procedimiento."
+]
+},
+{
+"id": "au-17-004",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (17) - Ley 39/2015 (arts. 84 a 87)",
+"n": 4,
+"enunciado": "Indique cuál de las siguientes afirmaciones, en relación con las actuaciones complementarias, no es conforme a lo dispuesto en el artículo 87 de la Ley 39/2015, de 1 de octubre:",
+"opciones": [
+"Una vez acordadas, el plazo para resolver el procedimiento quedará suspendido hasta la terminación de las mismas.",
+"Las actuaciones complementarias serán acordadas por el órgano competente para resolver.",
+"Los interesados tendrán un plazo de 15 días para formular alegaciones.",
+"Deberán practicarse en un plazo no superior a quince días."
+]
+},
+{
+"id": "au-17-005",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (17) - Ley 39/2015 (arts. 84 a 87)",
+"n": 5,
+"enunciado": "De acuerdo con el artículo 87 de la Ley 39/2015, de 1 de octubre, el acuerdo de realización de actuaciones complementarias se notificará a los interesados, quienes podrán formular alegaciones por un plazo de:",
+"opciones": [
+"Quince días.",
+"Diez días.",
+"No inferior a 10 días, ni superior a 15.",
+"Siete días."
+]
+},
+{
+"id": "au-17-006",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (17) - Ley 39/2015 (arts. 84 a 87)",
+"n": 6,
+"enunciado": "De acuerdo con el artículo 87 de la Ley 39/2015, antes de dictar resolución, podrá decidir mediante, acuerdo motivado, la realización de las actuaciones complementarias indispensables para resolver el procedimiento:",
+"opciones": [
+"El órgano competente para iniciar el procedimiento.",
+"El órgano competente para tramitar el procedimiento.",
+"El órgano competente para resolver el procedimiento.",
+"El órgano competente para iniciar o instruir el procedimiento."
+]
+},
+{
+"id": "au-17-007",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (17) - Ley 39/2015 (arts. 84 a 87)",
+"n": 7,
+"enunciado": "Según el artículo 87 de la Ley 39/2015, las actuaciones complementarias deberán practicarse en un plazo:",
+"opciones": [
+"No superior a diez días.",
+"No superior a quince días.",
+"No inferior a veinte días.",
+"No inferior a diez días ni superior a quince."
+]
+},
+{
+"id": "au-17-008",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (17) - Ley 39/2015 (arts. 84 a 87)",
+"n": 8,
+"enunciado": "Señale la respuesta incorrecta en relación con las actuaciones complementarias indispensables para resolver el procedimiento a que se refiere el artículo 87 de la Ley 39/2015:",
+"opciones": [
+"El plazo para resolver el procedimiento quedará suspendido hasta la terminación de las actuaciones complementarias.",
+"Su realización se acordará, en su caso, por el órgano competente para resolver el procedimiento.",
+"No se considerarán actuaciones complementarias los informes que preceden inmediatamente a la resolución final del procedimiento.",
+"Con carácter previo a su realización, se concederá a los interesados un plazo de siete días para formular las alegaciones que estimen pertinentes."
+]
+},
+{
+"id": "au-17-009",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (17) - Ley 39/2015 (arts. 84 a 87)",
+"n": 9,
+"enunciado": "De acuerdo con el artículo 85 de la Ley 39/2015, cuando la sanción tenga únicamente carácter pecuniario, o bien quepa imponer una sanción pecuniaria y otra de carácter no pecuniario pero se ha justificado la improcedencia de la segunda, el pago voluntario por el presunto responsable, en cualquier momento anterior a la resolución, implicará:",
+"opciones": [
+"La terminación del procedimiento, sin que la Administración pueda reclamar cualquier otra cantidad.",
+"El reconocimiento de la responsabilidad del infractor.",
+"El desistimiento o renuncia de cualquier acción o recurso en vía administrativa o judicial contra la sanción.",
+"La terminación del procedimiento, salvo en lo relativo a la reposición de la situación alterada o a la determinación de la indemnización por los daños y perjuicios causados por la comisión de la infracción."
+]
+},
+{
+"id": "au-17-010",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (17) - Ley 39/2015 (arts. 84 a 87)",
+"n": 10,
+"enunciado": "En relación con la terminación de los procedimiento sancionadores y de acuerdo con lo dispuesto en el artículo 85 de la Ley 39/2015, en determinados supuestos, el órgano competente para resolver el procedimiento aplicará reducciones de, al menos, el 20 % sobre el importe de la sanción propuesta. Señale la respuesta correcta en relación con tales reducciones:",
+"opciones": [
+"La efectividad de las reducciones estará condicionada a la renuncia de cualquier recurso en vía judicial contra la sanción.",
+"El porcentaje de reducción previsto en el artículo 85 de la Ley 39/2015 solo podrá incrementarse por una norma de rango legal.",
+"Las reducciones aplicables no serán acumulables entre sí.",
+"Solo podrán aplicarse cuando la sanción propuesta tenga únicamente carácter pecuniario."
+]
+},
+{
+"id": "au-18-001",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (18) - Ley 39/2015 (arts. 88 a 92)",
+"n": 1,
+"enunciado": "Transcurridos seis meses desde que se inició el procedimiento de responsabilidad patrimonial sin que haya recaído y se notifique resolución expresa o, en su caso, se haya formalizado el acuerdo, podrá entenderse que la resolución es:",
+"opciones": [
+"Estimatoria o desestimatoria, según los casos.",
+"Declarativa de la caducidad.",
+"Contraria a la indemnización del particular.",
+"Favorable al particular."
+]
+},
+{
+"id": "au-18-002",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (18) - Ley 39/2015 (arts. 88 a 92)",
+"n": 2,
+"enunciado": "Señale la respuesta incorrecta en relación con los procedimientos administrativos iniciados a solicitud del interesado, de acuerdo con lo previsto en el artículo 88 de la Ley 39/2015:",
+"opciones": [
+"La resolución será congruente con las peticiones formuladas por el interesado.",
+"Las resoluciones contendrán la decisión, que será motivada en todo caso.",
+"La Administración tendrá la potestad de incoar de oficio un nuevo procedimiento, si procede.",
+"La resolución no podrá agravar la situación inicial de los interesados."
+]
+},
+{
+"id": "au-18-003",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (18) - Ley 39/2015 (arts. 88 a 92)",
+"n": 3,
+"enunciado": "De acuerdo con la Ley 39/2015, de 1 de octubre, en los procedimientos tramitados a solicitud del interesado, la resolución:",
+"opciones": [
+"Podrá agravar la situación inicial del interesado.",
+"Será siempre motivada.",
+"Podrá pronunciarse sobre cuestiones conexas, no planteadas por los interesados.",
+"Deberán expresar únicamente los recursos administrativos que procedan contra ella."
+]
+},
+{
+"id": "au-18-004",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (18) - Ley 39/2015 (arts. 88 a 92)",
+"n": 4,
+"enunciado": "Según el artículo 88 de la Ley 39/2015, cuando la resolución que ponga fin al procedimiento se pronuncie sobre cuestiones conexas no planteadas por los interesados, estás deberán ponerse antes de manifiesto a aquéllos por un plazo:",
+"opciones": [
+"No inferior a diez días.",
+"No superior a quince días.",
+"No inferior a quince días.",
+"No superior a diez días."
+]
+},
+{
+"id": "au-18-005",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (18) - Ley 39/2015 (arts. 88 a 92)",
+"n": 5,
+"enunciado": "¿Qué finalidad tiene la incorporación de informes al texto de la resolución según el artículo 88 de la Ley 39/2015?",
+"opciones": [
+"Eximir a la Administración del deber de indicar los recursos que caben frente a la resolución.",
+"Servir de motivación a la resolución.",
+"Su incorporación al texto de la resolución es preceptiva. No persigue ninguna finalidad.",
+"Su incorporación al texto de la resolución es potestativa, pero no produce efecto alguno."
+]
+},
+{
+"id": "au-18-006",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (18) - Ley 39/2015 (arts. 88 a 92)",
+"n": 6,
+"enunciado": "Indique cuál de las siguientes afirmaciones es conforme con lo previsto en el artículo 88 de la Ley 39/2015:",
+"opciones": [
+"La competencia para instruir y resolver un procedimiento no podrá recaer en un mismo órgano.",
+"La competencia para instruir y resolver un procedimiento deberá recaer en un mismo órgano.",
+"En los procedimientos de carácter sancionador, la propuesta de resolución deberá ser notificada a los interesados.",
+"En todos los procedimientos administrativos deberá elevarse una propuesta de resolución al órgano competente para resolver."
+]
+},
+{
+"id": "au-18-007",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (18) - Ley 39/2015 (arts. 88 a 92)",
+"n": 7,
+"enunciado": "De acuerdo con el artículo 89 de la Ley 39/2015, ¿cuál de las siguientes constituye causa para que el instructor resuelva el archivo de las actuaciones en los procedimientos de carácter sancionador?",
+"opciones": [
+"Que no se haya podido identificar a la persona o personas responsables.",
+"La existencia de los hechos que pudieran constituir la infracción.",
+"Que los hechos probados constituyan, de modo manifiesto, infracción administrativa.",
+"Que los hechos resulten acreditados."
+]
+},
+{
+"id": "au-18-008",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (18) - Ley 39/2015 (arts. 88 a 92)",
+"n": 8,
+"enunciado": "En relación con los procedimientos en materia de responsabilidad patrimonial, ¿cuál es el plazo para entender que la resolución es contraria a la indemnización del particular?",
+"opciones": [
+"Dos meses.",
+"Tres meses.",
+"Un año.",
+"Seis meses."
+]
+},
+{
+"id": "au-18-009",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (18) - Ley 39/2015 (arts. 88 a 92)",
+"n": 9,
+"enunciado": "En el ámbito de la Administración General del Estado, los procedimientos de responsabilidad patrimonial se resolverán:",
+"opciones": [
+"En todo caso, por el Ministro respectivo.",
+"Por el Ministro respectivo o por el Consejo de Ministros.",
+"Por el Ministro o Secretario de Estado respectivo.",
+"En todo caso, por el Consejo de Ministros."
+]
+},
+{
+"id": "au-18-010",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (18) - Ley 39/2015 (arts. 88 a 92)",
+"n": 10,
+"enunciado": "De acuerdo con la Ley 39/2015, el órgano instructor resolverá la finalización de un procedimiento de carácter sancionador, con archivo de las actuaciones, sin que sea necesaria la formulación de la propuesta de resolución:",
+"opciones": [
+"Cuando la persona o personas interesadas hayan celebrado un acuerdo con la Administración.",
+"Cuando el infractor reconozca su responsabilidad.",
+"Cuando se concluyera, en cualquier momento, que ha prescrito la infracción.",
+"Cuando los hechos pudiesen constituir una infracción de carácter leve."
+]
+},
+{
+"id": "au-18-011",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (18) - Ley 39/2015 (arts. 88 a 92)",
+"n": 11,
+"enunciado": "Indique la afirmación correcta en relación con la resolución que pone fin al procedimiento administrativo:",
+"opciones": [
+"Decidirá todas las cuestiones planteadas por los interesados y aquellas otras derivadas del procedimiento.",
+"No podrá decidir cuestiones derivadas del procedimiento.",
+"El órgano competente para resolver no podrá pronunciarse sobre cuestiones conexas planteadas por los interesados.",
+"Solo puede decidir las cuestiones planteadas por los interesados que hayan iniciado el procedimiento."
+]
+},
+{
+"id": "au-18-012",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (18) - Ley 39/2015 (arts. 88 a 92)",
+"n": 12,
+"enunciado": "Conforme a la Ley 39/2015, en los procedimientos de carácter sancionador, la resolución administrativa que ponga fin al procedimiento no será ejecutiva hasta:",
+"opciones": [
+"El día siguiente en que dicha resolución haya sido dictada.",
+"Que no quepa contra la resolución ningún recurso ordinario en vía administrativa.",
+"El día siguiente a la notificación de la resolución.",
+"Que sea firme en vía judicial."
+]
+},
+{
+"id": "au-18-013",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (18) - Ley 39/2015 (arts. 88 a 92)",
+"n": 13,
+"enunciado": "Señale la respuesta INCORRECTA, de conformidad con lo dispuesto en el artículo 88 de la Ley 39/2015:",
+"opciones": [
+"Las resoluciones contendrán la decisión, que será motivada en los casos a que se refiere el artículo 35.",
+"La Administración no podrá abstenerse de resolver so pretexto de insuficiencia de preceptos legales aplicables al caso.",
+"Podrá acordarse la inadmisión de las solicitudes de reconocimiento de derechos no previstos en el ordenamiento jurídico.",
+"La resolución del procedimiento se dictará electrónicamente, salvo que el interesado se relacione por medios no electrónicos."
+]
+},
+{
+"id": "au-18-014",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (18) - Ley 39/2015 (arts. 88 a 92)",
+"n": 14,
+"enunciado": "Según dispone el artículo 90 de la Ley 39/2015, la resolución en los procedimientos de carácter sancionador:",
+"opciones": [
+"No podrá agravar la situación incial del inculpado.",
+"Será inmediatamente ejecutiva.",
+"No podrá realizar una valoración jurídica de los hechos diferente a la contenida en la propuesta de resolución.",
+"No podrá aceptar hechos distintos de los determinados en el curso del procedimiento."
+]
+},
+{
+"id": "au-18-015",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (18) - Ley 39/2015 (arts. 88 a 92)",
+"n": 15,
+"enunciado": "Señale la respuesta correcta en relación con los procedimientos complementarios en materia sancionadora a los que se refiere el artículo 90.4 de la Ley 39/2015:",
+"opciones": [
+"La resolución que se dicte será inmediatamente ejecutiva.",
+"Fijará de forma definitiva la cuantía de la sanción que corresponda abonar al inculpado.",
+"La resolución del procedimiento no pondrá fin a la vía administrativa.",
+"Este procedimiento no será susceptible de terminación convencional."
+]
+}
+]
+}

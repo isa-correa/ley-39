@@ -1,0 +1,465 @@
+{
+"of-04-001": {
+ "bloque": "actos",
+ "precepto": "Art. 43.2 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. El número es bueno, pero los días no son hábiles: son naturales. Es decir, aquí también cuentan sábados, domingos y festivos.",
+  "Es esta. El **art. 43.2** dice que, si la notificación electrónica es obligatoria o la eligió el interesado, se entiende rechazada a los **diez días naturales** desde que se pone a su disposición sin que entre a verla. Cuentan todos los días del calendario.",
+  "No. Te cambian el número: son diez días naturales, no siete.",
+  "No. Fallan las dos cosas: son diez días, no siete, y son naturales, no hábiles."
+ ],
+ "ojo": "Es una excepción que conviene memorizar: lo normal en la Ley 39/2015 es contar por días hábiles, pero aquí son **naturales**."
+},
+"of-04-002": {
+ "bloque": "actos",
+ "precepto": "Art. 39.1 de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "No. La aprobación del superior no es la regla general. Solo retrasa los efectos cuando el acto depende de ella, y eso es un supuesto de eficacia demorada (art. 39.2).",
+  "No. El art. 39.1 no habla de publicación ni de descontar días inhábiles. Los efectos empiezan en la fecha en que se dicta el acto.",
+  "No. Te cambian “dicten” por “publiquen”. Que el acto dependa de su publicación es un caso de eficacia demorada (art. 39.2), no la regla general.",
+  "Es esta. Según el **art. 39.1**, los actos administrativos se presumen válidos y producen efectos **desde la fecha en que se dicten**, salvo que ellos mismos digan otra cosa."
+ ]
+},
+"of-04-003": {
+ "bloque": "actos",
+ "precepto": "Art. 39.3 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. Lo que permite la retroactividad no es que el procedimiento lo haya iniciado el interesado. El art. 39.3 solo recoge dos casos: actos que sustituyen a otros anulados y actos favorables.",
+  "Es esta. El **art. 39.3** permite excepcionalmente la eficacia retroactiva (que el acto produzca efectos hacia atrás) cuando el acto se dicta **en sustitución de actos anulados**. El otro caso es el de los actos favorables al interesado.",
+  "No. El art. 39.3 habla de sustituir actos **anulados**, no de actos “reformados o revocados”, y tampoco pide que sean desfavorables. Además, ese “sólo” deja fuera a los actos favorables.",
+  "No. Le han dado la vuelta a la condición: los supuestos de hecho necesarios **sí** tenían que existir ya en la fecha a la que se retrotrae el acto. Además, el “sólo” sobra, porque también caben los actos que sustituyen a otros anulados."
+ ],
+ "ojo": "Fíjate en los “sólo”: la opción buena no lo lleva porque hay dos supuestos de retroactividad, y las que lo llevan excluyen uno de ellos."
+},
+"of-04-004": {
+ "bloque": "actos",
+ "precepto": "Art. 42.2 de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. El **art. 42.2** dice que el intento se repite **por una sola vez** y en una hora distinta dentro de los **tres días siguientes**. Para recordarlo: en total son dos intentos, y si el segundo falla se pasa al anuncio en el BOE (art. 44).",
+  "No. El plazo de tres días es correcto, pero el intento se repite una sola vez, no “hasta dos veces”.",
+  "No. Fallan las dos cosas: se repite una sola vez, y el plazo es de tres días, no de dos.",
+  "No. Lo de una sola vez es correcto, pero el plazo es de tres días, no de cuatro."
+ ]
+},
+"of-04-005": {
+ "bloque": "actos",
+ "precepto": "Art. 36 de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. El **art. 36.1** admite otra forma cuando la naturaleza del acto la exija, y el **art. 36.2** habla expresamente de los órganos que ejercen su competencia “de forma verbal”. Por ejemplo, un agente que da una orden en plena emergencia.",
+  "No. Sobra “en todo caso”. El art. 36.2 pide la constancia escrita del acto verbal solo “cuando sea necesaria”.",
+  "No. Sobra “exclusivamente”. El escrito electrónico es la regla general, pero el art. 36.1 admite otra forma si la naturaleza del acto la exige.",
+  "No. La Ley sí lo contempla en el art. 36.2, y la seguridad jurídica no se usa ahí como motivo para prohibirlo."
+ ]
+},
+"of-04-006": {
+ "bloque": "actos",
+ "precepto": "Art. 35.1.c) de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. La Ley no exige que cambie la normativa para separarse del dictamen. Basta con motivarlo (art. 35.1.c).",
+  "No. El art. 35.1.c) no distingue entre actos favorables y de gravamen, ni habla de indemnización. Lo único que exige es motivar.",
+  "Es esta. Según el **art. 35.1.c)**, los actos que se separen del dictamen de órganos consultivos tienen que ser **motivados**, es decir, explicar sus razones “con sucinta referencia de hechos y fundamentos de derecho”. Se pueden apartar del dictamen, pero tienen que decir por qué.",
+  "No. El “sólo” lo estropea. La motivación sí se exige, pero la Ley no limita esta posibilidad a los actos de gravamen (los que perjudican al interesado)."
+ ]
+},
+"of-04-007": {
+ "bloque": "actos",
+ "precepto": "Art. 35.1.i) de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. Te cambian “discrecionales” por “regladas”. Una potestad reglada es aquella en la que la ley fija lo que hay que hacer, y el art. 35.1.i) no las incluye en su lista.",
+  "Es esta. El **art. 35.1.i)** obliga a motivar los actos dictados en ejercicio de **potestades discrecionales**, en las que la Administración puede elegir entre varias soluciones válidas. Como puede elegir, tiene que explicar por qué elige esa.",
+  "No. Te cambian la edad: basta con ser mayor de **catorce años**, no mayor de edad (art. 42.2). Sí es correcto que debe hacer constar su identidad.",
+  "No. Es justo al revés. El art. 37.1 dice que “no podrán vulnerar” una disposición general, aunque procedan de un órgano de igual o superior jerarquía. Es la llamada inderogabilidad singular."
+ ]
+},
+"of-04-008": {
+ "bloque": "actos",
+ "precepto": "Art. 43.2 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. Son diez, pero naturales, no hábiles.",
+  "No. Fallan el número y el tipo de día: son diez días naturales.",
+  "Es esta. El **art. 43.2** fija **diez días naturales** desde la puesta a disposición sin que se acceda al contenido. Pasado ese plazo, la notificación se entiende rechazada.",
+  "No. El tipo de día es correcto, pero el número no: son diez, no quince."
+ ]
+},
+"of-04-009": {
+ "bloque": "actos",
+ "precepto": "Art. 41.5 de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. El **art. 41.5** dice que el rechazo se hace constar en el expediente, con las circunstancias del intento y el medio, “dando por efectuado el trámite” y siguiendo el procedimiento. Dicho fácil: si rechazas la notificación, cuenta como hecha y el expediente continúa.",
+  "No. El anuncio en el BOE es para la notificación infructuosa: interesado desconocido, lugar ignorado o intento fallido (art. 44). Rechazar no es lo mismo.",
+  "No. El segundo intento en hora distinta es para cuando nadie se hace cargo en el domicilio (art. 42.2), no para quien rechaza la notificación.",
+  "No. El tablón de edictos del Ayuntamiento es un anuncio previo y voluntario en la notificación infructuosa (art. 44). No se aplica al rechazo."
+ ],
+ "ojo": "No confundas rechazar (el interesado está y no quiere recibirla, art. 41.5) con estar ausente (art. 42.2)."
+},
+"of-04-010": {
+ "bloque": "actos",
+ "precepto": "Art. 41.3 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. El domicilio solo se usa si el interesado lo ha indicado como medio. El art. 41.3 no lo fija como regla.",
+  "No. Aquí el interesado no está obligado a recibir notificaciones electrónicas, así que no se le puede imponer este medio. La notificación solo es electrónica a la fuerza si existe esa obligación (art. 41.3).",
+  "Es esta. El **art. 41.3** dice que, si el procedimiento lo ha iniciado el interesado, se notifica “por el medio señalado al efecto por aquel”. Tiene sentido: ha sido él quien lo ha pedido en su solicitud y dice cómo quiere recibir la respuesta.",
+  "No. El Punto de Acceso General es un portal desde el que se puede acceder a las notificaciones (art. 43.4), no el medio que manda el art. 41.3."
+ ]
+},
+"of-04-011": {
+ "bloque": "actos",
+ "precepto": "Art. 35.1 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "Es verdadera, así que no se marca. Este acto sí hay que motivarlo: está tal cual en el art. 35.1.e).",
+  "Esta es la falsa, y por eso es la que hay que marcar. El **art. 35.1.c)** obliga a motivar los actos que **se separen** del criterio seguido en actuaciones precedentes, no los que lo confirman. Si haces lo mismo de siempre, no hace falta justificar el cambio porque no hay cambio.",
+  "Es verdadera, así que no se marca. Este acto sí hay que motivarlo: está tal cual en el art. 35.1.h).",
+  "Es verdadera, así que no se marca. Este acto sí hay que motivarlo: está en el art. 35.1.f): si te rechazan una prueba, tienen que decirte por qué."
+ ],
+ "ojo": "La trampa es cambiar “se separen” por “confirmen”. Se motiva apartarse del criterio anterior, no seguirlo."
+},
+"of-04-012": {
+ "bloque": "actos",
+ "precepto": "Art. 44 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. El boletín de la Provincia solo es un anuncio previo y voluntario (“con carácter facultativo”). El obligatorio es el del BOE.",
+  "Es esta. El **art. 44** manda publicar el anuncio en el **Boletín Oficial del Estado**, sea cual sea la Administración que notifica. Este es el anuncio obligatorio; los demás son opcionales.",
+  "No. El tablón de edictos del Ayuntamiento también es solo un anuncio previo y voluntario (art. 44, párrafo segundo).",
+  "No. El boletín de la Comunidad Autónoma es igualmente opcional y previo. No sustituye al BOE."
+ ]
+},
+"of-04-013": {
+ "bloque": "actos",
+ "precepto": "Art. 45.3 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. Lo que decide el diario oficial no es el domicilio del interesado, sino la Administración de la que procede el acto.",
+  "Es esta. El **art. 45.3** dice que la publicación se hace en el diario oficial que corresponda “según cual sea la Administración” de la que proceda el acto. Por ejemplo, un acto autonómico irá al boletín de esa Comunidad Autónoma.",
+  "No. El tablón del último domicilio aparece en el art. 44 como anuncio voluntario en la notificación infructuosa. No es el lugar de publicación del art. 45.3.",
+  "No. El BOE es el lugar obligatorio del art. 44, para la notificación infructuosa. En la publicación del art. 45 depende de la Administración autora del acto."
+ ],
+ "ojo": "No mezcles los dos artículos: notificación infructuosa, BOE (art. 44); publicación, el diario de la Administración que dicta el acto (art. 45.3)."
+},
+"of-04-014": {
+ "bloque": "actos",
+ "precepto": "Art. 42.2 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. Fallan dos cosas: la edad es mayor de catorce años, no de dieciséis, y sí hay que hacer constar la identidad.",
+  "Es esta. El **art. 42.2** permite que se haga cargo cualquier persona **mayor de catorce años** que esté en el domicilio y **haga constar su identidad**. Hacen falta los dos requisitos.",
+  "No. Fallan dos cosas: basta con tener más de catorce años, no de dieciocho, y la identidad sí debe constar.",
+  "No. La identidad está bien, pero la edad no: es mayor de catorce años, no de doce."
+ ]
+},
+"of-04-015": {
+ "bloque": "actos",
+ "precepto": "Art. 41.1 de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "No. Te cambian el plazo: son diez días naturales, no tres (art. 43.2).",
+  "No. Es al revés: las que contengan medios de pago, como cheques, “en ningún caso” se notifican por medios electrónicos (art. 41.2.b). Un cheque físico no se puede enviar por internet.",
+  "No. “En todo caso” es demasiado. Lo electrónico es preferente, pero hay excepciones (arts. 41.1 y 41.2).",
+  "Es esta. Es la redacción literal del **art. 41.1**: se practican **preferentemente** por medios electrónicos y, en todo caso, cuando el interesado esté obligado a recibirlas por esa vía."
+ ]
+},
+"of-04-016": {
+ "bloque": "actos",
+ "precepto": "Art. 36.1 de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. Es lo que dice el **art. 36.1**: la regla es el escrito por medios electrónicos, pero se admite otra forma cuando la naturaleza del acto exija otra más adecuada.",
+  "No. Sobra “en todo caso”, porque el art. 36.1 admite excepciones y el art. 36.2 contempla incluso actos verbales.",
+  "No. Sí importa que el supuesto de hecho existiera. El art. 39.3 exige que los hechos necesarios existieran ya en la fecha a la que se retrotrae el acto, y que no se lesionen derechos de otros.",
+  "No. Te cambian “se separen” por “confirmen”. Se motivan los actos que se apartan del criterio anterior, no los que lo siguen (art. 35.1.c)."
+ ]
+},
+"of-04-017": {
+ "bloque": "actos",
+ "precepto": "Art. 39.2 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. Te añaden “el día siguiente”. Los efectos se producen desde la fecha en que se dictan, no desde el día después (art. 39.1).",
+  "Es esta. Es el **art. 39.2**: la eficacia se retrasa (“queda demorada”) cuando lo exige el contenido del acto o cuando depende de su notificación, publicación o aprobación superior. Por ejemplo, un acto que necesita el visto bueno del superior no surte efecto hasta tenerlo.",
+  "No. Es justo lo contrario. El art. 39.3 permite la retroactividad precisamente cuando los actos sustituyen a otros anulados.",
+  "No. Te cambian el tipo de día: son diez días naturales, no hábiles (art. 43.2)."
+ ]
+},
+"of-04-018": {
+ "bloque": "actos",
+ "precepto": "Art. 42.1 de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "No. Te cambian el margen: tienen que pasar al menos **tres** horas entre los intentos, no cinco. Además, el art. 42.2 habla de un solo segundo intento, no de “el resto”.",
+  "No. El intento se repite “por una sola vez”, no tres veces (art. 42.2).",
+  "No. Te cambian la edad: es mayor de catorce años, no de trece (art. 42.2).",
+  "Es esta. El **art. 42.1** dice que todas las notificaciones en papel se ponen también a disposición del interesado en la sede electrónica, para que pueda verlas allí de forma voluntaria si quiere."
+ ]
+},
+"of-04-019": {
+ "bloque": "actos",
+ "precepto": "Art. 41.7 de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "No. Es justo lo contrario: cuenta la primera, no la última.",
+  "No. El medio utilizado no tiene preferencia. Solo importa cuál llegó antes.",
+  "No. Tampoco se da preferencia a la electrónica por serlo. Si la de papel llegó antes, cuenta la de papel.",
+  "Es esta. El **art. 41.7** dice que, si te notifican por distintos cauces, la fecha que vale es la de la notificación producida **en primer lugar**. Por ejemplo, si recibes el papel el día 5 y entras en la sede el día 8, vale el día 5."
+ ]
+},
+"of-04-020": {
+ "bloque": "actos",
+ "precepto": "Art. 41.1 de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. Es la redacción literal del **art. 41.1**: lo electrónico es el medio preferente y es obligatorio cuando el interesado está obligado a recibirlas por esa vía.",
+  "No. Rechazar no paraliza nada. El art. 41.5 dice que se da por efectuado el trámite y se sigue el procedimiento.",
+  "No. Te cambian el plazo: son diez días naturales, no quince hábiles (art. 43.2).",
+  "No. El dispositivo sirve para recibir **avisos**, “pero no para la práctica de notificaciones” (art. 41.1, último párrafo). El aviso en el móvil solo te dice que tienes una notificación esperando."
+ ]
+},
+"of-05-005": {
+ "bloque": "nulidad",
+ "precepto": "Art. 52.4 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. Esto no es convalidación sino conversión, y está en el art. 50, no en el 52. Además, el art. 50 habla de actos “nulos o anulables”, no solo de anulables.",
+  "Es esta. Lo dice el **art. 52.4**: si lo que falta es una autorización, el acto se convalida (se arregla el defecto) cuando el órgano competente la otorga.",
+  "No. Sobra “en todo caso”. El art. 52.2 dice que produce efecto desde su fecha, “salvo” la retroactividad prevista en el art. 39.3.",
+  "No. Solo se pueden convalidar los actos **anulables** (art. 52.1). Los nulos no tienen arreglo por esta vía."
+ ]
+},
+"of-05-006": {
+ "bloque": "nulidad",
+ "precepto": "Art. 48.2 de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "No. La “inexistencia” no aparece en la Ley como consecuencia de un defecto de forma. El art. 48.2 habla de anulabilidad.",
+  "No. Sería una irregularidad sin consecuencias si el defecto no causara indefensión ni impidiera al acto alcanzar su fin. Pero aquí sí causa indefensión.",
+  "No. El defecto de forma con indefensión no está en la lista de causas de nulidad del art. 47.1. Se confunde con prescindir total y absolutamente del procedimiento (art. 47.1.e), que es mucho más grave.",
+  "Es esta. El **art. 48.2** dice que el defecto de forma determina la **anulabilidad** cuando al acto le faltan requisitos formales indispensables para alcanzar su fin o cuando causa indefensión. La indefensión significa que el interesado no ha podido defenderse."
+ ],
+ "ojo": "Defecto de forma con indefensión: anulable. Saltarse total y absolutamente el procedimiento: nulo."
+},
+"of-05-007": {
+ "bloque": "nulidad",
+ "precepto": "Art. 48.3 de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "No. “En ningún caso” es excesivo: sí la implica cuando lo impone la naturaleza del término o plazo.",
+  "No. “Siempre” es excesivo: fuera de plazo no significa automáticamente anulable.",
+  "No. Es la consecuencia equivocada y “en todo caso” sobra. El art. 48.3 habla de anulabilidad, y solo en un supuesto concreto.",
+  "Es esta. El **art. 48.3** dice que actuar fuera de plazo “sólo” implica anulabilidad cuando así lo imponga la **naturaleza del término o plazo**. Por ejemplo, cuando la actuación solo tenía sentido dentro de una fecha concreta."
+ ]
+},
+"of-05-008": {
+ "bloque": "nulidad",
+ "precepto": "Art. 47.1.c) de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. El **art. 47.1.c)** declara nulos de pleno derecho los actos con **contenido imposible**. Por ejemplo, ordenar algo que no se puede cumplir de ninguna manera.",
+  "No. Fíjate bien: dice “manifiestamente competente”, y la causa de nulidad es ser “manifiestamente **in**competente” (art. 47.1.b).",
+  "No. Te cambian “no favorables” por “favorables”. Lo que causa nulidad es la retroactividad de las sancionadoras **no favorables** o restrictivas de derechos (art. 47.2).",
+  "No. Te cambian “superior” por “inferior”. La nulidad se produce al vulnerar disposiciones de rango **superior** (art. 47.2)."
+ ],
+ "ojo": "Lee despacio: un prefijo “in” que falta o un “no” que falta bastan para que la opción sea falsa."
+},
+"of-05-009": {
+ "bloque": "nulidad",
+ "precepto": "Art. 48.2 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. Es lo contrario: la nulidad o anulabilidad “no implicará” la de los actos sucesivos que sean independientes del primero (art. 49.1).",
+  "No. Esos actos no son anulables, sino **nulos** de pleno derecho (art. 47.1.f).",
+  "Es esta. Lo dice el **art. 48.2**: el defecto de forma “sólo” determina la anulabilidad cuando al acto le faltan requisitos formales indispensables para alcanzar su fin o cuando causa indefensión.",
+  "No. Te cambian la categoría: cualquier infracción del ordenamiento, incluida la desviación de poder, hace al acto **anulable**, no nulo (art. 48.1)."
+ ],
+ "ojo": "La regla general es la anulabilidad (art. 48.1). La nulidad queda para la lista cerrada del art. 47."
+},
+"of-05-010": {
+ "bloque": "nulidad",
+ "precepto": "Art. 52.1 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. Te cambian “retroactividad” por “irretroactividad”. Lo nulo es establecer la **retroactividad** de las sancionadoras no favorables (art. 47.2). Que no tengan efecto hacia atrás es precisamente lo correcto.",
+  "Es esta. Es el **art. 52.1**: la Administración puede convalidar los actos **anulables**, arreglando los vicios (defectos) que tengan.",
+  "No. El matiz está en “que podrá ser”. El art. 52.3 dice “cuando sea superior jerárquico”: es una condición para convalidar, no una simple posibilidad.",
+  "No. Falta el “no”: la nulidad o anulabilidad **no** se extiende a los actos sucesivos independientes del primero (art. 49.1)."
+ ],
+ "ojo": "La pregunta habla en general de “validez”, pero cada opción cambia una sola palabra de los arts. 47, 49 y 52."
+},
+"of-06-001": {
+ "bloque": "iniciacion",
+ "precepto": "Art. 57 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. El art. 57 dice que no procede ningún recurso, y eso incluye el extraordinario de revisión.",
+  "Es esta. El **art. 57** termina con una frase clara: “Contra el acuerdo de acumulación no procederá recurso alguno”. Acumular es unir procedimientos muy relacionados para tramitarlos juntos.",
+  "No. Tampoco cabe alzada: el art. 57 excluye cualquier recurso.",
+  "No. Tampoco cabe reposición, por la misma razón: “no procederá recurso alguno”."
+ ]
+},
+"of-06-002": {
+ "bloque": "iniciacion",
+ "precepto": "Art. 54 de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "No. El procedimiento no siempre lo inicia el ciudadano: también puede iniciarlo la Administración de oficio (art. 54).",
+  "No. “En todo caso” deja fuera la otra vía: la solicitud del interesado (art. 54).",
+  "No. La denuncia no es una tercera forma de iniciación. Es una de las maneras de llegar a la iniciación **de oficio** (art. 58).",
+  "Es esta. El **art. 54** recoge solo dos clases de iniciación: **de oficio** (por decisión de la Administración) o **a solicitud del interesado**."
+ ],
+ "ojo": "Propia iniciativa, orden superior, petición razonada y denuncia son todas iniciación de oficio (art. 58)."
+},
+"of-06-003": {
+ "bloque": "iniciacion",
+ "precepto": "Arts. 62.2 y 62.5 de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. Las denuncias deben expresar la identidad de quien las presenta (**art. 62.2**), y presentar una no te convierte “por sí sola” en interesado (**art. 62.5**). Dicho de otro modo: avisas a la Administración, pero eso no te da por sí mismo los derechos de quien es parte del procedimiento.",
+  "No. Te cambian la segunda mitad: la denuncia **no** confiere por sí sola la condición de interesado (art. 62.5).",
+  "No. Las denuncias no son anónimas: deben expresar la identidad (art. 62.2). La segunda parte de la opción sí es correcta.",
+  "No. Sí cabe. La denuncia está regulada en los arts. 58 y 62 como forma de que se inicie un procedimiento de oficio."
+ ]
+},
+"of-06-004": {
+ "bloque": "iniciacion",
+ "precepto": "Art. 63.1 de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. El **art. 63.1** exige separar la fase instructora (la que investiga) de la sancionadora (la que decide), y encomendarlas a **órganos distintos**. Así quien investiga no es quien castiga.",
+  "No. El procedimiento sancionador se inicia “siempre de oficio”, nunca a instancia de parte (art. 63.1).",
+  "No. El pliego de cargos no lo presenta el inculpado: lo elabora la Administración para calificar los hechos (art. 64.3). Las reducciones de la multa van por otro camino: reconocer la responsabilidad o pagar voluntariamente, con al menos un 20 % (art. 85).",
+  "No. El art. 63.2 lo prohíbe: “En ningún caso” se puede imponer una sanción sin haber tramitado el procedimiento."
+ ]
+},
+"of-06-005": {
+ "bloque": "iniciacion",
+ "precepto": "Art. 57 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. La acumulación exige que sea **el mismo órgano** quien tramite y resuelva. No vale que tramite uno y resuelva su superior.",
+  "Es esta. El **art. 57** dice que el órgano puede disponer la acumulación “de oficio o a instancia de parte”: por decisión propia o porque lo pide el interesado.",
+  "No. No caben procedimientos ante distintos órganos: tiene que ser el mismo órgano quien tramite y resuelva. Además, lo que une los procedimientos es su identidad sustancial o íntima conexión, no que el interesado sea el mismo.",
+  "No. Contra el acuerdo de acumulación “no procederá recurso alguno”, tampoco el de reposición."
+ ]
+},
+"of-06-006": {
+ "bloque": "iniciacion",
+ "precepto": "Art. 56.4 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "Es verdadera, así que no se marca. Esta medida sí puede acordarse: está en la lista del art. 56.3.g).",
+  "Es verdadera, así que no se marca. Esta medida sí puede acordarse: está en el art. 56.3.e).",
+  "Esta es la falsa, y por eso es la que hay que marcar. El **art. 56.4** prohíbe las medidas provisionales que puedan causar **perjuicio de difícil o imposible reparación** a los interesados, o que violen derechos amparados por las leyes. Una medida provisional no puede dejar un daño que luego no se pueda deshacer.",
+  "Es verdadera, así que no se marca. Esta medida sí puede acordarse: está en el art. 56.3.h)."
+ ]
+},
+"of-06-007": {
+ "bloque": "iniciacion",
+ "precepto": "Art. 62.3 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. La petición razonada “no vincula” al órgano competente (art. 61.2), es decir, no le obliga a iniciar. El art. 61.3 solo añade qué debe contener la petición en los sancionadores.",
+  "Es esta. Según el **art. 62.3**, si la denuncia invoca un perjuicio en el patrimonio de las Administraciones, no iniciar el procedimiento **debe ser motivado**. Además, se notifica a los denunciantes si se ha iniciado o no.",
+  "No. Contra el acuerdo de acumulación no cabe recurso alguno (art. 57).",
+  "No. Sobra “a solicitud de parte interesada”. Los sancionadores se inician “siempre de oficio” (art. 63.1)."
+ ]
+},
+"of-06-008": {
+ "bloque": "iniciacion",
+ "precepto": "Art. 63.1 de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "No. Fallan las dos partes: se inician siempre de oficio, no a instancia de parte, y la separación de fases no admite ese “salvo acuerdo motivado”.",
+  "No. El inicio es correcto, pero la segunda parte no. El art. 63.1 no permite esa excepción: las fases se encomiendan a órganos distintos.",
+  "No. La separación de fases está bien, pero el inicio no: es “siempre de oficio”, no a instancia de parte.",
+  "Es esta. Es literal del **art. 63.1**: se inician **siempre de oficio** por acuerdo del órgano competente, con separación entre la fase instructora y la sancionadora, encomendadas a **órganos distintos**."
+ ]
+},
+"of-06-009": {
+ "bloque": "iniciacion",
+ "precepto": "Art. 65.1 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. Es al revés: el derecho del interesado **no** tiene que haber prescrito (art. 65.1).",
+  "No. No es en cualquier momento. El límite es que no haya prescrito el derecho a reclamar, y por regla general eso ocurre al año (art. 67.1).",
+  "Es esta. El **art. 65.1** exige que **no haya prescrito** el derecho a la reclamación del interesado. La prescripción es la pérdida de un derecho por dejar pasar el tiempo.",
+  "No. Sí puede iniciarse de oficio: el propio art. 65 regula precisamente esa posibilidad."
+ ]
+},
+"of-06-010": {
+ "bloque": "iniciacion",
+ "precepto": "Art. 56.4 de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "No. Lo normal es adoptarlas una vez iniciado el procedimiento (art. 56.1). Antes del inicio solo caben en casos de urgencia inaplazable, y las adopta el órgano competente para iniciar o instruir, no el de resolver (art. 56.2).",
+  "No. Te cambian el plazo: el acuerdo de iniciación debe efectuarse dentro de los **quince días** siguientes a su adopción, no cinco (art. 56.2).",
+  "No. Te cambian “temporal” por “definitiva”. El art. 56.3.a) habla de suspensión **temporal** de actividades, porque una medida provisional por definición no es definitiva.",
+  "Es esta. Lo dice el **art. 56.4**: no se pueden adoptar medidas provisionales que puedan causar un perjuicio de difícil o imposible reparación a los interesados. Tampoco las que violen derechos amparados por las leyes."
+ ]
+},
+"of-06-011": {
+ "bloque": "iniciacion",
+ "precepto": "Art. 65.2 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. Te cambian el plazo: son diez días, no cinco.",
+  "Es esta. El **art. 65.2** concede a los presuntamente lesionados un plazo de **diez días** para aportar alegaciones, documentos o información y proponer pruebas. Si no se personan, el procedimiento sigue igualmente.",
+  "No. Te cambian el plazo: son diez días, no quince.",
+  "No. Te cambian el plazo: son diez días, no veinte."
+ ]
+},
+"of-06-012": {
+ "bloque": "iniciacion",
+ "precepto": "Art. 62.3 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. Es lo contrario: la denuncia debe expresar la identidad de quien la presenta (art. 62.2).",
+  "No. La denuncia pone hechos en conocimiento de la Administración, que puede decidir si inicia o no. El propio art. 62.3 prevé que no se inicie.",
+  "Es esta. El **art. 62.3** exige motivar la decisión de no iniciar el procedimiento cuando la denuncia invoca un perjuicio en el patrimonio de las Administraciones Públicas.",
+  "No. Sobra la afirmación tajante: la denuncia “no confiere, por sí sola” la condición de interesado (art. 62.5)."
+ ]
+},
+"of-06-013": {
+ "bloque": "iniciacion",
+ "precepto": "Art. 53.1.a) de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "Es verdadera, así que no se marca. Sí es un derecho del interesado: está en el art. 53.1.g).",
+  "Esta es la falsa, y por eso es la que hay que marcar. El **art. 53.1.a)** reconoce el derecho a acceder a los documentos y a obtener **copia** de ellos, no a obtener los documentos en sí. Falta esa palabra: los originales siguen en el expediente.",
+  "Es verdadera, así que no se marca. Sí es un derecho del interesado: está en el art. 53.1.c).",
+  "Es verdadera, así que no se marca. Sí es un derecho del interesado: está en el art. 53.1.f)."
+ ],
+ "ojo": "La trampa es muy fina: han quitado una sola palabra, “copia”. Las otras tres opciones están en la lista del art. 53.1."
+},
+"of-06-014": {
+ "bloque": "iniciacion",
+ "precepto": "Art. 53.1, letras a) y b), de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. Conocer el estado de la tramitación está en el **art. 53.1.a)** e identificar a las autoridades y al personal responsables, en el **art. 53.1.b)**. Los dos son derechos propios de quien es interesado en un procedimiento.",
+  "No. El segundo derecho sí está en el art. 53.1.d), pero acceder a la información pública, archivos y registros es un derecho general de todas las personas (art. 13.d), no específico del interesado.",
+  "No. La primera parte es correcta (art. 53.1.a), pero ser tratado con respeto y deferencia es un derecho general de todas las personas (art. 13.e).",
+  "No. Los dos son derechos generales de las personas, no específicos del interesado: arts. 13.d) y 13.h)."
+ ],
+ "ojo": "Art. 13: derechos de cualquier persona ante la Administración. Art. 53: derechos de quien además es interesado en un procedimiento."
+},
+"of-06-015": {
+ "bloque": "iniciacion",
+ "precepto": "Art. 65.1 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. No es en cualquier momento. El límite es que el derecho a reclamar del interesado no haya prescrito (art. 65.1).",
+  "Es esta. El **art. 65.1** exige que **no haya prescrito** el derecho a la reclamación del interesado. Por regla general, ese derecho prescribe al año (art. 67.1).",
+  "No. Sí puede iniciarse de oficio: el art. 65 regula precisamente este caso.",
+  "No. Es al revés: tiene que hacerse antes de que prescriba, no después."
+ ]
+}
+}

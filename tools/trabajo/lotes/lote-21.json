@@ -1,0 +1,397 @@
+{
+"lote": 21,
+"casos": {},
+"calendarios": {},
+"preguntas": [
+{
+"id": "vo-05-001",
+"origen": "votaciones",
+"test": "Clase 5 - Bloque III",
+"n": 1,
+"enunciado": "La resolución del procedimiento administrativo, de conformidad con el artículo 88 de la Ley 39/2015:",
+"opciones": [
+"En procedimientos iniciados de oficio, no podrá agravar la situación inicial de los interesados.",
+"Se dictará electrónicamente y contendrá la decisión, que será motivada en los casos a que se refiere el artículo 35.",
+"Decidirá únicamente las cuestiones planteadas por los interesados.",
+"Cuando aparezcan cuestiones conexas, no planteadas por los interesados, preceptivamente, deberá pronunciarse sobre ellas."
+]
+},
+{
+"id": "vo-05-002",
+"origen": "votaciones",
+"test": "Clase 5 - Bloque III",
+"n": 2,
+"enunciado": "De acuerdo con el artículo 88 de la Ley 39/2015, la aceptación de informes o dictámenes servirá de motivación a la resolución:",
+"opciones": [
+"En ningún caso.",
+"En todo caso.",
+"Cuando se incorporen al texto de la misma.",
+"Exclusivamente en procedimientos de naturaleza sancionadora."
+]
+},
+{
+"id": "vo-05-003",
+"origen": "votaciones",
+"test": "Clase 5 - Bloque III",
+"n": 3,
+"enunciado": "Señale la respuesta correcta, de conformidad con lo establecido en el artículo 88 de la Ley 39/2015:",
+"opciones": [
+"En los procedimientos tramitados a solicitud del interesado, la resolución que se dicte podrá agravar su situación inicial.",
+"La competencia para instruir y resolver un procedimiento nunca podrá recaer en un mismo órgano.",
+"En los procedimientos de carácter sancionador, la propuesta de resolución no podrá ser notificada a los interesados.",
+"La Administración podrá inadmitir las solicitudes de reconocimiento de derechos no previstos en el ordenamiento jurídico."
+]
+},
+{
+"id": "vo-05-004",
+"origen": "votaciones",
+"test": "Clase 5 - Bloque III",
+"n": 4,
+"enunciado": "De acuerdo con la Ley 39/2015, el órgano instructor resolverá la finalización de un procedimiento de carácter sancionador, con archivo de las actuaciones, sin que sea necesaria la formulación de la propuesta de resolución:",
+"opciones": [
+"Cuando se concluyera, en cualquier momento, que ha prescrito la infracción.",
+"Cuando el infractor reconozca su responsabilidad.",
+"Cuando la persona interesada haya celebrado un acuerdo con la Administración.",
+"Cuando los hechos pudiesen constituir una infracción de carácter leve."
+]
+},
+{
+"id": "vo-05-005",
+"origen": "votaciones",
+"test": "Clase 5 - Bloque III",
+"n": 5,
+"enunciado": "De acuerdo con el artículo 90 de la Ley 39/2015, cuando el órgano competente para resolver considere que la infracción o la sanción revisten mayor gravedad que la determinada en la propuesta de resolución:",
+"opciones": [
+"Se notificará al inculpado para que aporte cuantas alegaciones estime convenientes en el plazo de diez días.",
+"Se deberá acordar el archivo de actuaciones y el inicio de un nuevo procedimiento.",
+"Se notificará al inculpado para que aporte cuantas alegaciones estime convenientes en el plazo de quince días.",
+"Se retrotraerá el procedimiento al momento anterior a la redacción de la propuesta de resolución."
+]
+},
+{
+"id": "vo-05-006",
+"origen": "votaciones",
+"test": "Clase 5 - Bloque III",
+"n": 6,
+"enunciado": "Señale la respuesta incorrecta respecto al procedimiento complementario en materia sancionadora referido en el artículo 90.4 de la Ley 39/2015:",
+"opciones": [
+"La resolución que se dicte será inmediatamente ejecutiva.",
+"La resolución del procedimiento pondrá fin a la vía administrativa.",
+"Será susceptible de terminación convencional.",
+"La aceptación por el infractor de la resolución que pudiera recaer implica el reconocimiento voluntario de su responsabilidad."
+]
+},
+{
+"id": "vo-05-007",
+"origen": "votaciones",
+"test": "Clase 5 - Bloque III",
+"n": 7,
+"enunciado": "Según la Ley 39/2015, en materia de responsabilidad patrimonial, el plazo máximo de que dispone la Administración para resolver la reclamación y notificar la resolución expresa es de:",
+"opciones": [
+"Seis meses y si la Administración no resolviese en plazo, se entenderá desestimada la reclamación.",
+"Tres meses y si la Administración no resuelve en plazo, se producirá la caducidad del procedimiento.",
+"Seis meses y si la Administración no resolviese en plazo, se entenderá estimada la reclamación.",
+"Tres meses, puesto que la norma reguladora del procedimiento no fija un plazo máximo."
+]
+},
+{
+"id": "vo-05-008",
+"origen": "votaciones",
+"test": "Clase 5 - Bloque III",
+"n": 8,
+"enunciado": "En el ámbito de la Administración General del Estado, los procedimientos de responsabilidad patrimonial se resolverán por:",
+"opciones": [
+"El Ministro respectivo o por el Consejo de Ministros.",
+"El Subsecretario de Presidencia.",
+"El superior jerárquico del órgano que incurrió en la acción u omisión a la que se imputa la producción del daño.",
+"El órgano que incurrió en la acción u omisión a la que se imputa la producción del daño."
+]
+},
+{
+"id": "vo-05-009",
+"origen": "votaciones",
+"test": "Clase 5 - Bloque III",
+"n": 9,
+"enunciado": "Señale la respuesta correcta respecto a la resolución del procedimiento, según la Ley 39/2015:",
+"opciones": [
+"En el caso de procedimientos sancionadores, el órgano instructor formulará necesariamente una propuesta de resolución.",
+"En procedimientos de responsabilidad patrimonial, transcurridos tres meses se entenderá que la resolución es desestimatoria.",
+"En procedimientos sancionadores, la resolución no podrá aceptar hechos distintos de los determinados en el procedimiento.",
+"La resolución que ponga fin al procedimiento solo podrá decidir las cuestiones inicialmente planteadas por los interesados."
+]
+},
+{
+"id": "vo-05-010",
+"origen": "votaciones",
+"test": "Clase 5 - Bloque III",
+"n": 10,
+"enunciado": "Conforme con el artículo 95 de la Ley 39/2015, cuando sea posible iniciar un nuevo procedimiento, ¿podrán incorporarse a este los actos y trámites del anterior cuyo contenido se hubiera mantenido igual?",
+"opciones": [
+"Sí, debiendo en todo caso cumplimentarse los trámites de alegaciones, proposición de prueba y audiencia al interesado.",
+"No, deberán cumplimentarse nuevamente todos los trámites del procedimiento.",
+"Sí, incluidos los trámites de alegaciones y proposición de prueba.",
+"Sí, debiendo en todo caso cumplimentarse los trámites de alegaciones, proposición de prueba y petición de informes."
+]
+},
+{
+"id": "vo-05-011",
+"origen": "votaciones",
+"test": "Clase 5 - Bloque III",
+"n": 11,
+"enunciado": "Respecto a la caducidad en procedimientos iniciados a solicitud del interesado, el artículo 95 de la Ley 39/2015 establece que:",
+"opciones": [
+"Cuando se produzca su paralización por causa imputable al mismo, la Administración le advertirá que transcurridos 2 meses se producirá la caducidad.",
+"Contra la resolución que declare la caducidad procederán los recursos pertinentes.",
+"La caducidad produce por sí sola la prescripción de las acciones del particular.",
+"Los procedimientos caducados interrumpirán el plazo de prescripción."
+]
+},
+{
+"id": "vo-05-012",
+"origen": "votaciones",
+"test": "Clase 5 - Bloque III",
+"n": 12,
+"enunciado": "En relación con el desistimiento y la renuncia, indique la afirmación correcta según la Ley 39/2015:",
+"opciones": [
+"En procedimientos iniciados de oficio, la Administración podrá renunciar en los supuestos previstos en las Leyes.",
+"En los procedimientos iniciados de oficio, la Administración podrá renunciar, motivadamente, del procedimiento.",
+"Los interesados podrán renunciar a su solicitud o, cuando no esté prohibido por el ordenamiento jurídico, desistir de derechos.",
+"Los interesados podrán desistir de su solicitud o, cuando no esté prohibido por el ordenamiento jurídico, renunciar a derechos."
+]
+},
+{
+"id": "vo-05-013",
+"origen": "votaciones",
+"test": "Clase 5 - Bloque III",
+"n": 13,
+"enunciado": "Según el artículo 96 de la Ley 39/2015, los procedimientos sancionadores podrán tramitarse de forma simplificada cuando:",
+"opciones": [
+"No se hayan formulado alegaciones por parte del presunto infractor en el trámite de audiencia.",
+"Se haya producido el pago voluntario por el presunto responsable en cualquier momento anterior a la resolución.",
+"El órgano competente para iniciarlo considere que existen elementos de juicio suficientes para calificar la infracción como leve.",
+"Exista reconocimiento de la responsabilidad por parte del presunto infractor."
+]
+},
+{
+"id": "vo-05-014",
+"origen": "votaciones",
+"test": "Clase 5 - Bloque III",
+"n": 14,
+"enunciado": "Según el artículo 96 de la Ley 39/2015, en procedimientos administrativos tramitados de manera simplificada:",
+"opciones": [
+"La resolución deberá dictarse en el plazo de veinte días, salvo que reste menos para su tramitación ordinaria.",
+"El órgano competente para su tramitación no podrá acordar continuar con arreglo a la tramitación ordinaria.",
+"Las alegaciones serán formuladas al inicio del procedimiento en un plazo de siete días.",
+"No procederá recurso contra la desestimación de la solicitud de tramitación simplificada formulada por los interesados."
+]
+},
+{
+"id": "vo-05-015",
+"origen": "votaciones",
+"test": "Clase 5 - Bloque III",
+"n": 15,
+"enunciado": "Según el artículo 96.6 de la Ley 39/2015, los procedimientos tramitados de manera simplificada deberán ser resueltos:",
+"opciones": [
+"En el plazo de un mes, a contar desde el siguiente al que se notifique al interesado el acuerdo de tramitación simplificada.",
+"En 30 días, a contar desde el siguiente al que se notifique al interesado el acuerdo de tramitación simplificada, en todo caso.",
+"En 30 días, a contar desde el mismo día en que se notifique al interesado el acuerdo de tramitación simplificada, en todo caso.",
+"Salvo que reste menos para su tramitación ordinaria, en 30 días a contar desde el siguiente al que se notifique al interesado el acuerdo de tramitación simplificada."
+]
+},
+{
+"id": "vo-05-016",
+"origen": "votaciones",
+"test": "Clase 5 - Bloque III",
+"n": 16,
+"enunciado": "El artículo 98.1 de la Ley 39/2015 indica que los actos de las Administraciones Públicas sujetos al Derecho Administrativo serán inmediatamente ejecutivos, salvo que:",
+"opciones": [
+"Se produzca un recurso contra la ejecución del acto.",
+"Un informe preceptivo establezca lo contrario.",
+"Se trate de una resolución de un procedimiento sancionador contra la que quepa algún recurso en vía administrativa.",
+"Se necesite autorización del órgano administrativo colegiado competente."
+]
+},
+{
+"id": "vo-05-017",
+"origen": "votaciones",
+"test": "Clase 5 - Bloque III",
+"n": 17,
+"enunciado": "Es un medio de ejecución forzosa de los actos administrativos:",
+"opciones": [
+"La sanción subsidiaria.",
+"La compulsa de documentos administrativos.",
+"La multa coercitiva.",
+"La desviación de poder."
+]
+},
+{
+"id": "vo-05-018",
+"origen": "votaciones",
+"test": "Clase 5 - Bloque III",
+"n": 18,
+"enunciado": "Si en virtud de un acto administrativo hubiera de satisfacerse una cantidad líquida de dinero, la Administración Pública utilizará, respetando el principio de proporcionalidad, como medio de ejecución forzosa:",
+"opciones": [
+"La multa coercitiva.",
+"La ejecución subsidiaria.",
+"La compulsión sobre las personas.",
+"El apremio sobre el patrimonio."
+]
+},
+{
+"id": "vo-05-019",
+"origen": "votaciones",
+"test": "Clase 5 - Bloque III",
+"n": 19,
+"enunciado": "Según el artículo 106 de la Ley 39/2015, las Administraciones Públicas declararán de oficio la nulidad de los actos administrativos:",
+"opciones": [
+"En los supuestos de anulabilidad previstos en el artículo 47.2 de la Ley.",
+"Sin necesidad de dictamen favorable del Consejo de Estado u órgano consultivo equivalente.",
+"Siempre que no haya transcurrido un plazo de cuatro años desde que se dictó el acto administrativo.",
+"Por iniciativa propia o a solicitud del interesado."
+]
+},
+{
+"id": "vo-05-020",
+"origen": "votaciones",
+"test": "Clase 5 - Bloque III",
+"n": 20,
+"enunciado": "Según el artículo 106 de la Ley 39/2015, en un procedimiento de revisión de disposiciones y actos nulos iniciado de oficio, de no dictarse resolución en el transcurso de seis meses desde su inicio se producirá:",
+"opciones": [
+"La prescripción del procedimiento.",
+"La desestimación por silencio administrativo de las pretensiones.",
+"La caducidad del procedimiento.",
+"La suspensión de las actuaciones."
+]
+},
+{
+"id": "vo-05-021",
+"origen": "votaciones",
+"test": "Clase 5 - Bloque III",
+"n": 21,
+"enunciado": "Según la Ley 39/2015, ¿es posible que el órgano competente para la revisión de oficio de un acto nulo inadmita a trámite una solicitud formulada por un interesado sin recabar Dictamen del Consejo de Estado?",
+"opciones": [
+"Sí, pero si no acude al Consejo de Estado debe impugnar la solicitud en vía contencioso-administrativa.",
+"No. El Dictamen del Consejo de Estado es requisito imprescindible, de acuerdo con el artículo 106 de la Ley 39/2015.",
+"Sí, entre otros casos, cuando las solicitudes no se basen en alguna causa de nulidad de pleno derecho del artículo 47.1.",
+"Únicamente en el supuesto de que se hubieran desestimado en cuanto al fondo otras solicitudes sustancialmente iguales."
+]
+},
+{
+"id": "vo-05-022",
+"origen": "votaciones",
+"test": "Clase 5 - Bloque III",
+"n": 22,
+"enunciado": "Según el artículo 107 de la Ley 39/2015, la declaración de lesividad no podrá adoptarse transcurridos:",
+"opciones": [
+"Dos años desde que se dictó el acto administrativo.",
+"No existe un plazo máximo para adoptar dicha declaración.",
+"Un año desde que se dictó el acto administrativo.",
+"Cuatro años desde que se dictó el acto administrativo."
+]
+},
+{
+"id": "vo-05-023",
+"origen": "votaciones",
+"test": "Clase 5 - Bloque III",
+"n": 23,
+"enunciado": "De acuerdo con la Ley 39/2015, de 1 de octubre, si la Administración Pública quiere impugnar un acto administrativo favorable a los interesados que sea anulable deberá:",
+"opciones": [
+"Declarar la anulabilidad de dicho acto administrativo.",
+"Impugnarlo directamente ante la jurisdicción contencioso-administrativa.",
+"Declarar su lesividad al interés público e impugnarlo ante la jurisdicción contencioso-administrativa.",
+"Revocar administrativamente dicho acto."
+]
+},
+{
+"id": "vo-05-024",
+"origen": "votaciones",
+"test": "Clase 5 - Bloque III",
+"n": 24,
+"enunciado": "De conformidad con la Ley 39/2015, señale la respuesta correcta en relación con la declaración de lesividad de actos anulables:",
+"opciones": [
+"Será susceptible de recurso, debiendo notificarse a los interesados.",
+"Transcurridos seis meses desde la iniciación del procedimiento, se producirá la caducidad del mismo.",
+"No exigirá la previa audiencia de cuantos aparezcan como interesados en el procedimiento administrativo.",
+"Podrá adoptarse una vez transcurridos cuatro años desde que se dictó el acto administrativo."
+]
+},
+{
+"id": "vo-05-025",
+"origen": "votaciones",
+"test": "Clase 5 - Bloque III",
+"n": 25,
+"enunciado": "De acuerdo con el artículo 109 de la Ley 39/2015, de 1 de octubre, la revocación:",
+"opciones": [
+"No podrá tener por objeto actos de gravamen.",
+"Se puede acordar mientras no haya transcurrido el plazo de caducidad.",
+"Se puede acordar mientras no haya transcurrido el plazo de prescripción.",
+"Puede tener por objeto actos de carácter favorable."
+]
+},
+{
+"id": "vo-05-026",
+"origen": "votaciones",
+"test": "Clase 5 - Bloque III",
+"n": 26,
+"enunciado": "De acuerdo con la Ley 39/2015, si la Administración Pública quiere dejar sin efecto sus actos de gravamen o desfavorables:",
+"opciones": [
+"Deberá impugnarlos directamente ante la jurisdicción contencioso-administrativa.",
+"Podrá revocarlos mientras no haya transcurrido el plazo de prescripción.",
+"Podrá revocarlos en cualquier momento.",
+"Deberá declararlo lesivo para el interés público e impugnarlo ante la jurisdicción contencioso-administrativa."
+]
+},
+{
+"id": "vo-05-027",
+"origen": "votaciones",
+"test": "Clase 5 - Bloque III",
+"n": 27,
+"enunciado": "Según la Ley 39/2015, las Administraciones podrán rectificar en cualquier momento, de oficio o a instancia de los interesados:",
+"opciones": [
+"Los errores materiales, de hecho o aritméticos existentes en sus actos.",
+"Sus actos favorables que sean anulables.",
+"Los errores materiales, de hecho o de derecho existentes en sus actos.",
+"Sus actos de gravamen o desfavorables que sean anulables."
+]
+},
+{
+"id": "vo-05-028",
+"origen": "votaciones",
+"test": "Clase 5 - Bloque III",
+"n": 28,
+"enunciado": "Según la Ley 39/2015, ¿quién revisa de oficio las disposiciones y los actos administrativos de los Ministros?",
+"opciones": [
+"El Consejo de Ministros.",
+"Los Secretarios de Estado.",
+"El Presidente del Gobierno.",
+"Los Ministros, respecto de sus propios actos y disposiciones."
+]
+},
+{
+"id": "vo-05-029",
+"origen": "votaciones",
+"test": "Clase 5 - Bloque III",
+"n": 29,
+"enunciado": "Según el artículo 111 de la Ley 39/2015, en el ámbito estatal, serán competentes para la revisión de oficio de las disposiciones y los actos administrativos nulos y anulables:",
+"opciones": [
+"Los máximos órganos rectores de los Organismos públicos, respecto de sus propios actos y disposiciones.",
+"Los Ministros, respecto de los actos dictados por órganos directivos de su Departamento no dependientes de una Secretaría de Estado.",
+"Los Secretarios de Estado, respecto de sus propios actos y disposiciones.",
+"Los Ministros, respecto de sus propios actos y disposiciones y de los actos dictados por los Secretarios de Estado."
+]
+},
+{
+"id": "vo-05-030",
+"origen": "votaciones",
+"test": "Clase 5 - Bloque III",
+"n": 30,
+"enunciado": "Según la Ley 39/2015, son competentes para revisar de oficio disposiciones y actos nulos y anulables de los Secretarios de Estado:",
+"opciones": [
+"Los Secretarios de Estado.",
+"Los Ministros.",
+"Los Tribunales Superiores de Justicia.",
+"El Consejo de Ministros."
+]
+}
+]
+}

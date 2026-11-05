@@ -1,0 +1,466 @@
+{
+"vo-07-001": {
+ "bloque": "fuentes",
+ "precepto": "Art. 1.3 del Código Civil",
+ "correcta": 2,
+ "justificaciones": [
+  "Es verdadera, así que no se marca. Es el art. 1.2 CC: una norma no puede contradecir a otra de rango superior.",
+  "Es verdadera, así que no se marca. Es el art. 1.3 CC: la costumbre va detrás de la ley, no puede ir contra la moral ni el orden público, y hay que probarla.",
+  "Esta es la falsa, y por eso es la que hay que marcar. El **art. 1.3 CC** dice justo lo contrario: tienen consideración de costumbre los usos jurídicos que “no sean” meramente interpretativos. Los que solo sirven para interpretar lo que alguien quiso decir no son costumbre.",
+  "Es verdadera, así que no se marca. Es el art. 1.4 CC: los principios se aplican si no hay ley ni costumbre, y además informan todo el ordenamiento."
+ ],
+ "ojo": "Solo sobra una palabra: han quitado el “no” de “que no sean meramente interpretativos”. Lee despacio estas frases casi calcadas."
+},
+"vo-07-002": {
+ "bloque": "fuentes",
+ "precepto": "Art. 1.6 del Código Civil",
+ "correcta": 1,
+ "justificaciones": [
+  "No. La jurisprudencia no es fuente del ordenamiento: las fuentes son ley, costumbre y principios generales (art. 1.1 CC). La jurisprudencia solo las “complementa”.",
+  "Es esta. Lo dice casi literal el **art. 1.6 CC**: complementa el ordenamiento con la doctrina que, de modo reiterado, establece el Tribunal Supremo al interpretar y aplicar la ley, la costumbre y los principios generales. Recuerda tres claves: reiterada, Tribunal Supremo, interpretar y aplicar.",
+  "No. Te han cambiado el Tribunal Supremo por “cualquier órgano jurisdiccional colegiado”. Solo cuenta la doctrina del Tribunal Supremo.",
+  "No. Te han cambiado “interpretar y aplicar” por “modificar”. Los jueces no cambian la ley: la interpretan y la aplican."
+ ]
+},
+"vo-07-003": {
+ "bloque": "fuentes",
+ "precepto": "Art. 2.1 del Código Civil",
+ "correcta": 3,
+ "justificaciones": [
+  "No. La regla general no es el mismo día de la publicación, sino a los veinte días (art. 2.1 CC). Una ley puede fijar el mismo día, pero tiene que decirlo ella.",
+  "No. El día siguiente a la publicación es una fórmula muy habitual en las leyes, pero no es la regla del Código Civil. La regla son veinte días si la ley no dice otra cosa.",
+  "No. Los veinte días se cuentan desde la completa publicación en el BOE, no desde la firma.",
+  "Es esta. El **art. 2.1 CC** dice que las leyes entran en vigor a los veinte días de su completa publicación en el BOE, si en ellas no se dispone otra cosa. Ese tiempo de espera entre publicación y entrada en vigor se llama “vacatio legis”."
+ ]
+},
+"vo-07-004": {
+ "bloque": "fuentes",
+ "precepto": "Art. 24.2 de la Ley 50/1997",
+ "correcta": 1,
+ "justificaciones": [
+  "No. El Real Decreto-ley no es un reglamento: es una norma con rango de ley (art. 86 CE y art. 24.1.a de la Ley 50/1997). La pregunta va de jerarquía entre normas reglamentarias, así que no encaja aquí.",
+  "Es esta. El **art. 24.2 de la Ley 50/1997** ordena los reglamentos en dos escalones: arriba, los aprobados por Real Decreto del Presidente o acordado en Consejo de Ministros; debajo, los aprobados por Orden Ministerial.",
+  "No. Los dos Reales Decretos están en el mismo escalón: el art. 24.2 los pone juntos en el primer nivel, sin que uno esté por encima del otro.",
+  "No. Sí hay jerarquía entre reglamentos: el art. 24.2 fija dos niveles. El Real Decreto va por encima de la Orden Ministerial."
+ ],
+ "ojo": "La primera opción es cierta si la lees suelta, porque un decreto-ley está por encima de una orden. Pero falla por el tema: no es una norma reglamentaria."
+},
+"vo-07-005": {
+ "bloque": "fuentes",
+ "precepto": "Art. 23 de la Ley 50/1997",
+ "correcta": 2,
+ "justificaciones": [
+  "No. Esa es la regla general del art. 2.1 CC. Para normas que imponen nuevas obligaciones a quien ejerce una actividad económica o profesional, hay una regla especial con fechas fijas (art. 23 de la Ley 50/1997).",
+  "No. El 2 de enero es una de las dos fechas, pero el art. 23 pide la siguiente a la aprobación. Tras el 3 de enero de 2025, la primera que llega es el 1 de julio de 2025, no el 2 de enero de 2026.",
+  "Es esta. El **art. 23 de la Ley 50/1997** fija el comienzo de la vigencia el 2 de enero o el 1 de julio siguientes a la aprobación. Como el reglamento se aprueba el 3 de enero de 2025, ya ha pasado el 2 de enero de ese año, y la siguiente fecha es el 1 de julio de 2025.",
+  "No. Te han cruzado las fechas. Son el 2 de enero y el 1 de julio, no el 1 de enero y el 2 de julio."
+ ],
+ "ojo": "Truco para recordarlo: 2 de enero y 1 de julio. Esta regla no se aplica a los reales decretos-leyes, ni cuando lo aconseje la transposición de directivas u otras razones justificadas."
+},
+"vo-07-006": {
+ "bloque": "actos",
+ "precepto": "Art. 37.1 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. Un reglamento sí puede derogar a otro, en todo o en parte. La inderogabilidad singular no va de reglamento contra reglamento, sino de una resolución para un caso concreto contra un reglamento.",
+  "Es esta. Lo dice el **art. 37.1 de la Ley 39/2015**: una resolución para un caso concreto no puede saltarse una disposición general, “aunque” la dicte un órgano de igual o superior jerarquía. Por ejemplo, un ministro no puede hacer una excepción a medida para una sola persona a un reglamento de su propio ministerio.",
+  "No. Te han cambiado “aunque” por “salvo que”, y eso le da la vuelta a la regla. Ni siquiera un órgano igual o superior puede saltarse la disposición general en un caso concreto.",
+  "No. El principio no se refiere a la relación entre dos reglamentos, sino a las resoluciones de carácter particular frente a las disposiciones generales."
+ ],
+ "ojo": "“Aunque” frente a “salvo que”: una sola expresión cambia todo el sentido."
+},
+"vo-07-007": {
+ "bloque": "fuentes",
+ "precepto": "Art. 83.a) de la Constitución",
+ "correcta": 3,
+ "justificaciones": [
+  "No. Aunque la modificación no fuera retroactiva, seguiría prohibida. Lo de la retroactividad es otra prohibición distinta (art. 83.b CE).",
+  "No. Refundir varios textos legales en uno se hace por ley ordinaria, no por ley de bases (art. 82.2 CE). Y que la ley de bases tenga otro objeto no le permite autorizar su propia modificación.",
+  "No. Esa excepción no existe. Además, la refundición no se delega con ley de bases, sino con ley ordinaria (art. 82.2 CE).",
+  "Es esta. El **art. 83.a) CE** dice que las leyes de bases no podrán “en ningún caso” autorizar la modificación de la propia ley de bases. No hay excepciones."
+ ],
+ "ojo": "El art. 83 CE tiene dos prohibiciones: autorizar la modificación de la propia ley de bases y facultar para dictar normas con carácter retroactivo."
+},
+"vo-07-008": {
+ "bloque": "fuentes",
+ "precepto": "Art. 86.2 de la Constitución",
+ "correcta": 1,
+ "justificaciones": [
+  "No. Te han cambiado el plazo. No son quince días, sino treinta.",
+  "Es esta. El **art. 86.2 CE** da treinta días desde la promulgación para someter el decreto-ley a debate y votación de totalidad en el Congreso. Dentro de ese plazo, el Congreso tiene que decidir si lo convalida o lo deroga.",
+  "No. Te han cambiado el plazo. Son treinta días; los veinte días te pueden sonar de la entrada en vigor de las leyes (art. 2.1 CC).",
+  "No. Te han cambiado el plazo. No son diez días, sino treinta."
+ ]
+},
+"vo-07-009": {
+ "bloque": "fuentes",
+ "precepto": "Art. 82.3 de la Constitución",
+ "correcta": 3,
+ "justificaciones": [
+  "No. Todo es correcto menos el plazo: el art. 86.2 CE da treinta días, no veinte.",
+  "No. Te han cruzado las dos figuras. La extraordinaria y urgente necesidad es propia del Decreto-ley (art. 86.1 CE). El Decreto Legislativo nace de una delegación de las Cortes (art. 82.1 CE).",
+  "No. El Decreto-ley no es un reglamento: tiene rango de ley. El art. 86.1 CE lo llama “disposiciones legislativas provisionales”.",
+  "Es esta. El **art. 82.3 CE** dice que la delegación se agota por el uso que de ella haga el Gobierno mediante la publicación de la norma. Dicho de otro modo: el Gobierno recibe el permiso de las Cortes, lo usa una vez publicando la norma y ya no puede volver a usarlo."
+ ],
+ "ojo": "Para no confundirlos: Decreto Legislativo, delegación de las Cortes. Decreto-ley, urgencia, y luego convalidación en el Congreso."
+},
+"vo-07-010": {
+ "bloque": "interesados",
+ "precepto": "Art. 1.2 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. Por reglamento solo se pueden fijar especialidades concretas: órganos competentes, plazos propios, formas de iniciación y terminación, publicación e informes. Trámites nuevos o distintos, no.",
+  "No. “De manera motivada” es una de las condiciones que exige el artículo, no el instrumento. La pregunta busca con qué tipo de norma se hace, y es la ley.",
+  "Es esta. El **art. 1.2 de la Ley 39/2015** empieza diciendo “Solo mediante ley”. Se pueden añadir trámites adicionales o distintos si resulta eficaz, proporcionado y necesario, y de manera motivada, pero tiene que hacerlo una ley.",
+  "No. El art. 1.2 dice “ley”. El Decreto Legislativo tiene rango de ley, pero es otra figura: una norma del Gobierno por delegación de las Cortes (art. 85 CE)."
+ ],
+ "ojo": "Recuerda la frontera del art. 1.2: trámites nuevos, solo por ley. Especialidades como plazos u órganos, también por reglamento."
+},
+"vo-07-011": {
+ "bloque": "interesados",
+ "precepto": "Art. 2.1 de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. El **art. 2.1 de la Ley 39/2015** enumera cuatro: Administración General del Estado, Administraciones de las Comunidades Autónomas, entidades de la Administración Local y sector público institucional.",
+  "No. Se deja fuera el sector público institucional, que es la cuarta pieza del art. 2.1.",
+  "No. Se deja fuera a las entidades de la Administración Local y al sector público institucional.",
+  "No. La primera opción reproduce el art. 2.1 entero, así que no todas son incorrectas."
+ ],
+ "ojo": "Otra cosa es el concepto de “Administraciones Públicas” (art. 2.3), que no incluye a todo el sector público institucional."
+},
+"vo-07-012": {
+ "bloque": "interesados",
+ "precepto": "Art. 2.2.c) de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. La ley habla solo de las universidades públicas, no de las privadas. Y a las públicas no se les aplica “en todo caso”, sino de forma supletoria.",
+  "Es esta. El **art. 2.2.c)** incluye a las universidades públicas en el sector público institucional. Primero se rigen por su normativa específica, y la Ley 39/2015 se aplica “supletoriamente”, es decir, para rellenar lo que su normativa no regule.",
+  "No. La aplicación no depende de lo que digan sus Estatutos: la propia ley ya establece que se les aplica de forma supletoria.",
+  "No. El artículo no habla de “las universidades” en general ni hace ninguna excepción con el Título V."
+ ]
+},
+"vo-07-013": {
+ "bloque": "interesados",
+ "precepto": "Art. 3.b) de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. Es casi literal el **art. 3.b)**: los menores tienen capacidad de obrar solo para aquellos derechos e intereses que el ordenamiento les deja ejercer sin la asistencia de quien ejerza la patria potestad, tutela o curatela. “Capacidad de obrar” significa poder actuar por ti mismo ante la Administración.",
+  "No. No basta con no estar incapacitado: la capacidad se limita a los derechos que pueden ejercer sin asistencia. Lo de los incapacitados es solo la excepción dentro de esa regla.",
+  "No. “En ningún caso” se pasa de estricto: el art. 3.b) sí les reconoce capacidad para esos derechos concretos.",
+  "No. “En todo caso” se pasa de amplio: la capacidad se limita a los derechos que pueden ejercer sin asistencia."
+ ]
+},
+"vo-07-014": {
+ "bloque": "interesados",
+ "precepto": "Art. 3.c) de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. El **art. 3.c)** reconoce capacidad de obrar a los grupos de afectados (y a las uniones y entidades sin personalidad jurídica y los patrimonios independientes) “cuando la Ley así lo declare expresamente”.",
+  "No. Te han añadido “o un reglamento”. El art. 3.c) solo admite que lo declare una ley.",
+  "No. El art. 3 no pone como condición estar inscrito en el registro de apoderamientos. Ese registro sirve para acreditar la representación (art. 6), no la capacidad, y se la dan las normas civiles (art. 3.a).",
+  "No. El art. 3 no habla de mayores de dieciséis años inscritos en ningún registro. El registro de apoderamientos sirve para acreditar la representación (art. 6)."
+ ]
+},
+"vo-07-015": {
+ "bloque": "interesados",
+ "precepto": "Art. 4 de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "No. Es verdad (art. 4.1.b), pero se queda corta, porque también lo son las otras dos.",
+  "No. Es verdad (art. 4.1.a), pero se queda corta, porque también lo son las otras dos.",
+  "No. Es verdad (art. 4.2), pero se queda corta, porque también lo son las otras dos.",
+  "Es esta. Las tres opciones anteriores están en el **art. 4 de la Ley 39/2015**: quien promueve el procedimiento (4.1.a), quien no lo ha iniciado pero tiene derechos que pueden resultar afectados (4.1.b) y las asociaciones representativas de intereses colectivos (4.2). Como todas son ciertas, se marca esta."
+ ],
+ "ojo": "En el art. 4.1.c), quienes solo tienen intereses legítimos afectados deben además personarse en el procedimiento antes de que haya resolución definitiva. Quienes tienen derechos afectados, no."
+},
+"vo-07-016": {
+ "bloque": "interesados",
+ "precepto": "Art. 5.6 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. Sí pueden, siempre que lo prevean sus Estatutos (art. 5.2).",
+  "Es esta. El **art. 5.6** dice que si falta la acreditación de la representación o no es suficiente, el acto se tiene por realizado siempre que se corrija dentro del plazo de diez días que debe conceder el órgano (o más, si el caso lo requiere). Es decir, no se pierde el trámite por no llevar el poder ese día.",
+  "No. Sí se admite: el art. 5.4 da por acreditada la representación mediante apoderamiento apud acta por comparecencia personal o electrónica. “Apud acta” significa que das el poder directamente ante la Administración.",
+  "No. Es al revés: para los actos y gestiones de mero trámite la representación se presume (art. 5.3), no hace falta acreditarla."
+ ]
+},
+"vo-07-017": {
+ "bloque": "interesados",
+ "precepto": "Art. 5.3 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. Interponer recursos sí exige acreditar la representación (art. 5.3).",
+  "No. Desistir de acciones sí exige acreditarla (art. 5.3), porque tiene consecuencias importantes para el representado.",
+  "Es esta. El **art. 5.3** dice que para los actos y gestiones de mero trámite “se presumirá” la representación. Por ejemplo, entregar un papel en nombre de otro. Lo que puede perjudicar o comprometer al representado sí hay que acreditarlo.",
+  "No. Formular solicitudes sí exige acreditar la representación (art. 5.3)."
+ ],
+ "ojo": "Lista del art. 5.3 donde sí se acredita: solicitudes, declaraciones responsables o comunicaciones, recursos, desistir de acciones y renunciar a derechos."
+},
+"vo-07-018": {
+ "bloque": "interesados",
+ "precepto": "Art. 7 de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. El **art. 7** marca un orden: primero, con el representante o interesado que hayan señalado expresamente; si no han señalado a nadie, con el que figure en primer término.",
+  "No. Te han mezclado las dos reglas. Figurar en primer término no es lo primero, solo se usa si no han señalado a nadie.",
+  "No. No vale cualquiera: el art. 7 fija un orden concreto.",
+  "No. Te han dado la vuelta al orden. Primero el señalado expresamente, y en su defecto el que figure en primer término."
+ ]
+},
+"vo-07-019": {
+ "bloque": "interesados",
+ "precepto": "Art. 8 de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. El **art. 8** dice que, si se advierte que hay personas identificadas en el expediente con derechos o intereses legítimos y directos que pueden resultar afectados, “se comunicará a dichas personas” la tramitación. Se trata de avisarles para que puedan actuar.",
+  "No. El requerimiento de diez días es para subsanar una solicitud con defectos (art. 68.1). Aquí no falla la solicitud: hay personas afectadas a las que avisar.",
+  "No. No se publica nada: como están identificadas en el expediente, se les comunica directamente (art. 8).",
+  "No. Eso se parece a la información pública (art. 83), que tiene otro fin y un plazo no inferior a veinte días. Para este caso, el art. 8 solo pide comunicarlo a esas personas."
+ ]
+},
+"vo-08-001": {
+ "bloque": "actividad",
+ "precepto": "Art. 13 de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "Es verdadera, así que no se marca. Está en el art. 13.e): trato con respeto y deferencia.",
+  "Es verdadera, así que no se marca. Está en el art. 13.a): comunicarse a través de un Punto de Acceso General electrónico.",
+  "Es verdadera, así que no se marca. Está en el art. 13.c): usar las lenguas oficiales en el territorio de tu Comunidad Autónoma.",
+  "Esta es la falsa, y por eso es la que hay que marcar. El **art. 13** no reconoce un derecho a que la Administración te dé medios electrónicos. Lo que reconoce es que te asistan en su uso (13.b) y la obtención y utilización de los medios de identificación y firma electrónica (13.g)."
+ ],
+ "ojo": "El derecho es a que te ayuden a usar los medios y a tener identificación y firma electrónica, no a que te proporcionen un ordenador o una conexión."
+},
+"vo-08-002": {
+ "bloque": "actividad",
+ "precepto": "Art. 14.3 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. Las personas jurídicas están obligadas “en todo caso” (art. 14.2.a). Te han añadido un “salvo que reglamentariamente se disponga otra cosa” que no existe.",
+  "No. Las entidades sin personalidad jurídica también están obligadas (art. 14.2.b), no pueden elegir. Elegir es lo que pueden hacer, en general, las personas físicas (art. 14.1).",
+  "Es esta. Lo dice el **art. 14.3**: por reglamento, las Administraciones pueden imponer la relación electrónica. Eso sí, para determinados procedimientos y ciertos colectivos de personas físicas que tienen acceso acreditado a los medios necesarios.",
+  "No. Las personas físicas pueden elegir (art. 14.1). Solo están obligadas si un reglamento lo establece para su colectivo y procedimiento (art. 14.3); no basta con que su capacidad económica o técnica lo permita."
+ ],
+ "ojo": "La opción buena está resumida, porque omite “para determinados procedimientos y ciertos colectivos”. Aun así, es la única que no contradice la ley."
+},
+"vo-08-003": {
+ "bloque": "actividad",
+ "precepto": "Art. 15.1 de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. El **art. 15.1** resuelve así la discrepancia: el procedimiento se tramita en castellano, y los documentos o testimonios que pidan los interesados se expiden en la lengua elegida por cada uno.",
+  "No. No se tramita en las dos lenguas, sino solo en castellano. Y los documentos se expiden en la lengua elegida por los interesados, no en castellano.",
+  "No. No se decide por mayoría: si hay discrepancia, se tramita en castellano, sea cual sea el número de interesados que prefiera cada lengua.",
+  "No. Te han dado la vuelta al artículo. El procedimiento va en castellano y los documentos en la lengua elegida."
+ ],
+ "ojo": "Para recordarlo: procedimiento en castellano, papeles en tu lengua."
+},
+"vo-08-004": {
+ "bloque": "actividad",
+ "precepto": "Art. 18.2 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. Te han quitado el “no”. El deber se refiere a los interesados que “no” hayan comparecido, porque a los que sí han comparecido ya los conoce la Administración.",
+  "Es esta. El **art. 18.2** dice que, si conoces datos que permiten identificar a otros interesados que no han comparecido, tienes el deber de dárselos a la Administración que lleva el procedimiento.",
+  "No. El destinatario está cambiado: los datos se dan a la Administración actuante, no a la otra persona interesada.",
+  "No. El art. 18.2 no habla de presentar documentación conjuntamente. Y se refiere a los interesados que no han comparecido."
+ ]
+},
+"vo-08-005": {
+ "bloque": "actividad",
+ "precepto": "Art. 19.1 de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. El **art. 19.1** dice que la comparecencia solo será obligatoria cuando esté prevista en una norma con rango de ley. Sirve tanto para ir en persona como por medios electrónicos.",
+  "No. Te han cambiado el rango. Un reglamento no basta: hace falta una norma con rango de ley.",
+  "No. No depende de que lo pida la unidad administrativa: o una norma con rango de ley la hace obligatoria, o no lo es.",
+  "No. No es una decisión discrecional de ningún órgano. La obligación tiene que venir de una norma con rango de ley."
+ ]
+},
+"vo-08-006": {
+ "bloque": "actividad",
+ "precepto": "Art. 20.1 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. Son responsables “directos”, no indirectos, y el artículo no lo limita a los trámites electrónicos.",
+  "No. Es justo al revés: el art. 20.1 dice que sí son responsables directos de la tramitación.",
+  "Es esta. El **art. 20.1** les obliga a adoptar las medidas oportunas para remover los obstáculos que impidan, dificulten o retrasen el ejercicio pleno de los derechos de los interesados. Es decir: si hay un atasco en su trámite, les toca quitarlo.",
+  "No. Le han dado la vuelta: sí deben adoptar esas medidas. Además han cambiado “dificulten” por “faciliten” y “pleno” por “parcial”."
+ ]
+},
+"vo-08-007": {
+ "bloque": "actividad",
+ "precepto": "Art. 21.2 de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "No. Tres meses solo se aplica cuando la norma del procedimiento no fija un plazo (art. 21.3).",
+  "No. Seis meses es el tope que no puede superar la norma reguladora, salvo ley o Derecho de la UE (art. 21.2). No es el plazo en sí.",
+  "No. Doce meses no aparece como plazo en el art. 21.",
+  "Es esta. El **art. 21.2** dice que el plazo máximo es el que fije la norma reguladora de cada procedimiento. Los seis y tres meses son el tope y el plazo de reserva, pero primero se mira esa norma."
+ ],
+ "ojo": "Tres números que se confunden: el que fija la norma (regla), seis meses (tope) y tres meses (si la norma no dice nada)."
+},
+"vo-08-008": {
+ "bloque": "actividad",
+ "precepto": "Art. 21.2 de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. El **art. 21.2** dice que el plazo no podrá exceder de seis meses, salvo que una norma con rango de ley establezca uno mayor o así venga previsto en el Derecho de la Unión Europea.",
+  "No. Te han cambiado el tope. Son seis meses, no dos.",
+  "No. Tres meses es el plazo cuando la norma no fija ninguno (art. 21.3), y además sí se puede superar el tope en los casos que dice la ley.",
+  "No. Te han cambiado seis meses por tres. Tres es el plazo de reserva del art. 21.3, no el tope."
+ ]
+},
+"vo-08-009": {
+ "bloque": "actividad",
+ "precepto": "Art. 21.1 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. En la renuncia sí hay que dictar resolución, que se limita a declarar esa circunstancia con los hechos y las normas aplicables (art. 21.1, segundo párrafo).",
+  "No. Con silencio positivo sigue la obligación de resolver, aunque la resolución posterior solo puede confirmar lo ganado por silencio (art. 24.3.a).",
+  "Es esta. El **art. 21.1**, tercer párrafo, exceptúa de la obligación de resolver los casos de terminación por pacto o convenio. También los derechos sometidos solo a declaración responsable o comunicación. En el pacto no hace falta resolver, porque el propio acuerdo cierra el procedimiento.",
+  "No. Si desiste, también hay resolución: la que declara esa circunstancia (art. 21.1, segundo párrafo)."
+ ],
+ "ojo": "Solo dos excepciones: pacto o convenio, y declaración responsable o comunicación. En prescripción, renuncia, caducidad, desistimiento y desaparición del objeto sí se resuelve."
+},
+"vo-08-010": {
+ "bloque": "actividad",
+ "precepto": "Art. 21.3.a) de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. En los iniciados de oficio se cuenta desde la fecha del acuerdo de iniciación, no desde que se notifica al interesado.",
+  "No. Te han añadido “el día siguiente”. El art. 21.3.a) dice “desde la fecha del acuerdo de iniciación”.",
+  "Es esta. Es el **art. 21.3.a)**: en los procedimientos iniciados de oficio, el plazo cuenta desde la fecha del acuerdo de iniciación.",
+  "No. También sobra “el día siguiente”. A solicitud del interesado se cuenta desde la fecha de entrada en el registro electrónico (art. 21.3.b)."
+ ],
+ "ojo": "La trampa es “el día siguiente”: en este plazo para resolver se cuenta “desde la fecha”, a diferencia de la regla del art. 30 para los plazos de días y meses."
+},
+"vo-08-011": {
+ "bloque": "actividad",
+ "precepto": "Art. 22.2.c) de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. El art. 22.2.c) no fija un máximo de quince días: dura desde que se plantea la recusación hasta que se resuelve.",
+  "Es esta. El **art. 22.2.c)** dice que el plazo se suspende desde que se plantea la recusación hasta que la resuelve el superior jerárquico del recusado. Recusar es pedir que se aparte del asunto a una autoridad o empleado público, por ejemplo, por amistad o enemistad con una de las partes.",
+  "No. La suspensión es automática (“se suspenderá”), no la decide el superior jerárquico. Ese superior solo resuelve la recusación.",
+  "No. Sí se suspende, y además de forma obligatoria, según el art. 22.2.c)."
+ ]
+},
+"vo-08-012": {
+ "bloque": "actividad",
+ "precepto": "Art. 22.1.b) de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "No. Falla “salvo determinados casos”. El art. 22.1.d) dice que la suspensión por informes preceptivos no podrá exceder “en ningún caso” de tres meses.",
+  "No. Te han cambiado “propuestos por los interesados” por “de oficio”. Solo los propuestos por los interesados permiten la suspensión (art. 22.1.e).",
+  "No. Las actuaciones complementarias no son un caso de “se podrá suspender”, sino de “se suspenderá”, es decir, la suspensión es obligatoria (art. 22.2.b).",
+  "Es esta. Está en el **art. 22.1.b)**, entre los casos en que el plazo “se podrá suspender”: cuando deba obtenerse un pronunciamiento previo y preceptivo de un órgano de la Unión Europea."
+ ],
+ "ojo": "Diferencia clave: en el art. 22.1 el plazo “se podrá” suspender, en el art. 22.2 “se suspenderá”. Actuaciones complementarias y recusación van en el segundo grupo."
+},
+"vo-08-013": {
+ "bloque": "actividad",
+ "precepto": "Art. 23.2 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. El art. 23.2 no permite recurso alguno. El extraordinario de revisión es para actos firmes y solo por las causas del art. 125.1 (art. 113).",
+  "No. Ese recurso ni siquiera existe: es una mezcla. El potestativo se llama de reposición (art. 123), y el de revisión es extraordinario (art. 113).",
+  "Es esta. El **art. 23.2** dice que contra el acuerdo que resuelve sobre la ampliación de plazos, que debe notificarse a los interesados, “no cabrá recurso alguno”.",
+  "No. El art. 23.2 no permite recurrirlo. La alzada es para actos que no ponen fin a la vía administrativa (art. 121), pero aquí la ley excluye cualquier recurso."
+ ]
+},
+"vo-08-014": {
+ "bloque": "actividad",
+ "precepto": "Art. 24.1 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. Falla “siempre”: el art. 24.1 admite excepciones.",
+  "No. Es al revés: la regla general es estimatoria, y lo desestimatorio es la excepción.",
+  "Es esta. Lo dice el **art. 24.1**: al vencer el plazo sin resolución notificada, el interesado puede entender estimada su solicitud (silencio positivo), salvo que una norma con rango de ley, de Derecho de la UE o de Derecho internacional aplicable en España diga lo contrario.",
+  "No. Falla “siempre” y la lista es incompleta. Los casos de silencio negativo son más y, además, una ley puede añadir otros. Los sancionadores, además, son de oficio y llevan a la caducidad (art. 25.1.b)."
+ ],
+ "ojo": "Silencio positivo solo como regla general: nunca lo aceptes con la palabra “siempre”."
+},
+"vo-08-015": {
+ "bloque": "actividad",
+ "precepto": "Art. 24.3.b) de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "No. Es al revés: puede ser estimatoria, porque el silencio negativo no la ata. Lo que debe ser solo confirmatorio es la resolución tras un silencio positivo (art. 24.3.a).",
+  "No. La ley no la declara nula de pleno derecho. Al contrario, el art. 21 obliga a resolver y el art. 24.3.b) permite que se dicte tarde.",
+  "No. El art. 24.3.b) no la hace anulable: la permite y dice que se adopta sin vinculación al sentido del silencio.",
+  "Es esta. El **art. 24.3.b)** dice que tras un silencio desestimatorio, la resolución expresa posterior se adopta “sin vinculación alguna al sentido del silencio”. La Administración aún puede darte la razón, porque el silencio negativo solo sirve para poder recurrir (art. 24.2)."
+ ],
+ "ojo": "Silencio positivo: la resolución tardía solo puede ser confirmatoria. Silencio negativo: la resolución tardía puede decir cualquier cosa."
+},
+"vo-08-016": {
+ "bloque": "actividad",
+ "precepto": "Art. 24.1 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. Falla “siempre”: el art. 24.1 tiene excepciones.",
+  "No. El Real Decreto es un reglamento, y para que el silencio sea desestimatorio hace falta una norma con rango de ley, de Derecho de la UE o de Derecho internacional aplicable en España (art. 24.1).",
+  "Es esta. El **art. 24.1**, segundo párrafo, da efecto desestimatorio a los procedimientos cuya estimación transfiera al solicitante o a terceros facultades relativas al dominio público o al servicio público. Tiene sentido: nadie puede ganar por silencio un derecho sobre un bien que es de todos.",
+  "No. Es al revés: en el ejercicio del derecho de petición (art. 29 CE) el silencio es desestimatorio."
+ ],
+ "ojo": "Fíjate en el rango: “Real Decreto” no es lo mismo que “Real Decreto-ley”. El primero es un reglamento, y no puede convertir el silencio en negativo."
+},
+"vo-08-017": {
+ "bloque": "actividad",
+ "precepto": "Art. 25.1.b) de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. En un procedimiento sancionador no hay silencio, sino caducidad (art. 25.1.b). El silencio positivo es la regla general de los procedimientos iniciados a solicitud del interesado (art. 24.1).",
+  "No. El silencio negativo se da en los procedimientos de oficio que pueden reconocer derechos favorables (art. 25.1.a). Este, en cambio, es sancionador.",
+  "Es esta. El **art. 25.1.b)** dice que en los procedimientos de oficio en que la Administración ejerce potestades sancionadoras (o de intervención con efectos desfavorables o de gravamen) se produce la caducidad. Se archiva el expediente, porque la Administración no ha resuelto a tiempo.",
+  "No. La opción anterior, la caducidad, es correcta según el art. 25.1.b), así que no puede ser “ninguna”."
+ ],
+ "ojo": "De oficio y favorable: silencio negativo. De oficio y desfavorable: caducidad."
+},
+"vo-08-018": {
+ "bloque": "plazos",
+ "precepto": "Art. 30.2 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. Los festivos no computan: el art. 30.2 los excluye junto con sábados y domingos.",
+  "Es esta. El **art. 30.2** dice que los plazos en días se entienden hábiles, y excluye sábados, domingos y los declarados festivos. Es la regla general, siempre que una ley o el Derecho de la UE no digan otro cómputo.",
+  "No. El art. 30.2 habla de “los declarados festivos” sin distinguir, así que los autonómicos y locales también se excluyen. Además, olvida sábados y domingos.",
+  "No. Eso son los días naturales, que solo se aplican si una ley o el Derecho de la UE lo declara así (art. 30.2, segundo párrafo)."
+ ]
+},
+"vo-08-019": {
+ "bloque": "plazos",
+ "precepto": "Art. 30.4 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. Es la confusión típica de sumar un día. El cómputo empieza al día siguiente, pero termina el mismo día en el mes de vencimiento.",
+  "Es esta. El **art. 30.4** dice que el plazo concluye el mismo día en que se produjo la notificación, publicación o silencio en el mes o año de vencimiento. Se cuenta de fecha a fecha: si te notifican el 10 de marzo con un plazo de un mes, acaba el 10 de abril.",
+  "No. Un mes no equivale a treinta días. Se cuenta de fecha a fecha, sea cual sea la duración real del mes.",
+  "No. Es una regla inventada: los plazos en meses acaban en la misma fecha del mes de vencimiento, no en un día de la semana."
+ ],
+ "ojo": "Si no hay día equivalente en el mes de vencimiento (por ejemplo, un 31 en febrero), acaba el último día de ese mes. Y si cae en inhábil, pasa al siguiente hábil (art. 30.5)."
+},
+"vo-08-020": {
+ "bloque": "plazos",
+ "precepto": "Art. 32.3 de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "Es verdadera, así que no se marca. Lo dice el art. 32.1: de oficio o a petición de los interesados.",
+  "Es verdadera, así que no se marca. Es casi literal el art. 32.3: petición y decisión deben producirse antes de que venza el plazo, porque un plazo vencido no se puede ampliar.",
+  "Es verdadera, así que no se marca. El art. 32.1 dice que la ampliación no puede exceder de la mitad del plazo.",
+  "Esta es la falsa, y por eso es la que hay que marcar. El **art. 32.3** dice que los acuerdos sobre ampliación de plazos o sobre su denegación “no serán susceptibles de recurso”. Lo que podrás recurrir es la resolución que ponga fin al procedimiento. No hay ningún recurso de diez días."
+ ],
+ "ojo": "Ni la concesión ni la denegación de la ampliación se pueden recurrir por sí solas."
+},
+"vo-08-021": {
+ "bloque": "plazos",
+ "precepto": "Art. 33.1 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. Falla “todos”: los plazos de presentar solicitudes y recursos no se reducen.",
+  "Es esta. El **art. 33.1** dice que la tramitación de urgencia reduce a la mitad los plazos del procedimiento ordinario, salvo los de presentación de solicitudes y recursos. Así el ciudadano conserva todo su plazo para pedir y para recurrir.",
+  "No. Sí se alteran: la urgencia consiste precisamente en reducir los plazos a la mitad.",
+  "No. Te han cambiado las excepciones. Son solicitudes y recursos, no audiencia y actuaciones complementarias."
+ ],
+ "ojo": "Contra el acuerdo que declara la urgencia tampoco cabe recurso, aunque sí contra la resolución final (art. 33.2)."
+}
+}

@@ -1,0 +1,436 @@
+{
+"lote": 4,
+"casos": {},
+"calendarios": {},
+"preguntas": [
+{
+"id": "au-08-001",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (8) - Ley 39/2015 (arts. 37 a 46)",
+"n": 1,
+"enunciado": "Según el artículo 40 de la Ley 39/2015, a los solos efectos de entender cumplida la obligación de notificar dentro del plazo máximo de duración de los procedimientos, será suficiente la notificación que contenga, cuando menos:",
+"opciones": [
+"El texto íntegro de la resolución, así como el intento de notificación debidamente acreditado.",
+"El fallo de la resolución.",
+"El texto íntegro de la resolución, con indicación de si pone fin o no a la vía administrativa.",
+"El texto íntegro de la resolución, así como indicación de los recursos que procedan contra la misma."
+]
+},
+{
+"id": "au-08-002",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (8) - Ley 39/2015 (arts. 37 a 46)",
+"n": 2,
+"enunciado": "De acuerdo con el artículo 41 de la Ley 39/2015, las notificaciones se practicarán:",
+"opciones": [
+"Preferentemente por medios no electrónicos.",
+"Preferentemente por medios electrónicos.",
+"En todo caso por medios electrónicos.",
+"En todo caso por medios no electrónicos."
+]
+},
+{
+"id": "au-08-003",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (8) - Ley 39/2015 (arts. 37 a 46)",
+"n": 3,
+"enunciado": "Aun cuando el interesado resulte obligado a recibir las notificaciones por medios electrónicos, las Administraciones podrán practicar las notificaciones por medios no electrónicos:",
+"opciones": [
+"Cuando para asegurar la eficacia de la actuación administrativa resulte necesario practicar la notificación por entrega directa de un empleado público de la Administración notificante.",
+"Cuando la notificación se realice con ocasión de la comparecencia espontánea del interesado o su representante en las oficinas de asistencia en materia de registro y solicite la comunicación o notificación personal en ese momento.",
+"Cuando el obligado a relacionarse electrónicamente sea una persona física.",
+"Las respuestas a y b son correctas."
+]
+},
+{
+"id": "au-08-004",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (8) - Ley 39/2015 (arts. 37 a 46)",
+"n": 4,
+"enunciado": "Señale la respuesta incorrecta. Según el artículo 41 de la Ley 39/2015, con independencia del medio utilizado, las notificaciones serán válidas siempre que permitan tener constancia de:",
+"opciones": [
+"El dispositivo electrónico y/o dirección de correo electrónico facilitado por el interesado.",
+"Su envío o puesta a disposición.",
+"La identidad fidedigna del remitente y destinatario de la misma.",
+"Sus fechas y horas."
+]
+},
+{
+"id": "au-08-005",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (8) - Ley 39/2015 (arts. 37 a 46)",
+"n": 5,
+"enunciado": "¿Cómo podrán establecer las Administraciones la obligación de practicar electrónicamente las notificaciones para determinados colectivos de personas físicas que, por razón de su capacidad económica, técnica, dedicación profesional u otros motivos quede acreditado que tienen acceso y disponibilidad de los medios electrónicos necesarios?",
+"opciones": [
+"En todo caso, a través de Ley.",
+"Unicamente mediante Ley o norma de la Unión Europea.",
+"Reglamentariamente.",
+"En todo caso, a través de norma con rango de Ley."
+]
+},
+{
+"id": "au-08-006",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (8) - Ley 39/2015 (arts. 37 a 46)",
+"n": 6,
+"enunciado": "Según el artículo 41 de la Ley 39/2015, ¿en cuál de los siguientes supuestos la notificación no se efectuará, en ningún caso, por medios electrónicos?",
+"opciones": [
+"En procedimientos iniciados a solicitud de interesado.",
+"Cuando se contengan medios de pago a favor de los obligados, tales como cheques.",
+"Cuando el acto a notificar vaya acompañado de elementos susceptibles de conversión en formato electrónico.",
+"Cuando el interesado no esté obligado a relacionarse por medios electrónicos."
+]
+},
+{
+"id": "au-08-007",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (8) - Ley 39/2015 (arts. 37 a 46)",
+"n": 7,
+"enunciado": "¿Cómo procede obrar cuando el interesado o su representante rechacen la notificación de una actuación administrativa?",
+"opciones": [
+"Se procederá a su publicación en el BOE.",
+"Se intentará de nuevo por una segunda vez, en hora distinta.",
+"Se intentará una segunda notificación dentro de los tres días siguientes.",
+"Se hará constar en el expediente, dando por efectuado el trámite y siguiéndose el procedimiento."
+]
+},
+{
+"id": "au-08-008",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (8) - Ley 39/2015 (arts. 37 a 46)",
+"n": 8,
+"enunciado": "Según lo dispuesto en el artículo 41.6 de la Ley 39/2015, con independencia de que la notificación se realice en papel o por medios electrónicos, las Administraciones Públicas enviarán un aviso a:",
+"opciones": [
+"El Punto de Acceso General Electrónico de la Administración actuante.",
+"El dispositivo electrónico y/o a la dirección de correo electrónico del interesado que éste haya comunicado.",
+"La sede electrónica.",
+"La Dirección Electrónica Habilitada única o su sede electrónica."
+]
+},
+{
+"id": "au-08-009",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (8) - Ley 39/2015 (arts. 37 a 46)",
+"n": 9,
+"enunciado": "De acuerdo con el artículo 42 de la Ley 39/2015, cuando la notificación se practique en papel en el domicilio del interesado, de no hallarse presente este en el momento de entregarse la notificación, podrá hacerse cargo de la misma, cualquier persona que se encuentre en el domicilio y haga constar su identidad, que sea:",
+"opciones": [
+"Mayor de 16 años.",
+"Mayor de 18 años.",
+"Mayor de 14 años.",
+"Mayor de 15 años."
+]
+},
+{
+"id": "au-08-010",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (8) - Ley 39/2015 (arts. 37 a 46)",
+"n": 10,
+"enunciado": "Indique la respuesta correcta respecto a la falta de práctica del aviso de notificación al dispositivo electrónico y/o a la dirección de correo electrónico del interesado que este haya comunicado, informándole de la puesta a disposición de una notificación en la sede electrónica de la Administración u Organismo correspondiente o en la dirección electrónica habilitada única:",
+"opciones": [
+"La notificación será considerada plenamente válida.",
+"La notificación será considerada nula.",
+"La notificación será considerada irregular.",
+"La notificación no surtirá efectos."
+]
+},
+{
+"id": "au-08-011",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (8) - Ley 39/2015 (arts. 37 a 46)",
+"n": 11,
+"enunciado": "¿Cómo procede obrar si, en ausencia del interesado, nadie se hiciera cargo de la notificación?",
+"opciones": [
+"Se repetirá el intento por una sola vez y en una hora distinta dentro de los 3 días siguientes.",
+"Se hará constar en el expediente, dándose por efectuado el trámite y continuándose el procedimiento.",
+"Se dará por finalizado el procedimiento.",
+"Se realizarán hasta dos intentos adicionales, en el plazo de los tres días hábiles siguientes al primer intento de notificación."
+]
+},
+{
+"id": "au-08-012",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (8) - Ley 39/2015 (arts. 37 a 46)",
+"n": 12,
+"enunciado": "Cuando la notificación se practique en el domicilio del interesado, ¿cómo debe actuarse, en ausencia del interesado, si el intento fuera antes de las 15 horas?",
+"opciones": [
+"Se realizará un segundo intento después de las quince horas, dejando en todo caso, al menos, un margen de diferencia de una hora entre ambos intentos de notificación.",
+"Se realizará un segundo intento antes de las quince horas, dejando en todo caso, al menos, un margen de diferencia de una hora entre ambos intentos de notificación.",
+"Se realizará un segundo intento antes de las quince horas, dejando en todo caso, al menos, un margen de diferencia de tres horas entre ambos intentos de notificación.",
+"Se realizará un segundo intento después de las quince horas, dejando en todo caso, al menos, un margen de diferencia de tres horas entre ambos intentos de notificación."
+]
+},
+{
+"id": "au-08-013",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (8) - Ley 39/2015 (arts. 37 a 46)",
+"n": 13,
+"enunciado": "Según el artículo 44 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, cómo debe obrarse cuando no haya sido posible practicar la notificación a un interesado:",
+"opciones": [
+"La notificación se hará por medio de un anuncio publicado en el Diario Oficial que corresponda.",
+"La notificación se hará por medio de un anuncio publicado en el Boletín oficial del Estado o de la Comunidad Autónoma, según cuál sea la Administración actuante.",
+"La notificación se hará por medio de edictos en el tablón del Ayuntamiento del último domicilio del interesado.",
+"La notificación se hará por medio de un anuncio publicado en el Boletín Oficial del Estado."
+]
+},
+{
+"id": "au-08-014",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (8) - Ley 39/2015 (arts. 37 a 46)",
+"n": 14,
+"enunciado": "Las notificaciones por medios electrónicos se entenderán practicadas:",
+"opciones": [
+"En el momento en que se produzca el acceso a su contenido.",
+"A los diez días hábiles de la puesta a disposición del interesado.",
+"Desde el día siguiente a aquel en que se ponga a disposición del interesado.",
+"En el momento en que se produzca su puesta a disposición en la sede electrónica de la Administración u Organismo actuante."
+]
+},
+{
+"id": "au-08-015",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (8) - Ley 39/2015 (arts. 37 a 46)",
+"n": 15,
+"enunciado": "Señale la respuesta correcta, en relación con la publicación de los actos administrativos:",
+"opciones": [
+"Serán objeto de publicación en todo caso.",
+"Serán objeto de publicación cuando así lo soliciten los interesados en el procedimiento.",
+"Serán objeto de publicación cuando así lo establezcan las normas reguladoras de cada procedimiento.",
+"Solo serán objeto de publicación los que afecten a una pluralidad indeterminada de personas."
+]
+},
+{
+"id": "au-08-016",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (8) - Ley 39/2015 (arts. 37 a 46)",
+"n": 16,
+"enunciado": "De acuerdo con lo establecido en el artículo 42.1 de la Ley 39/2015, todas las notificaciones que se practiquen en papel:",
+"opciones": [
+"Deberán ser puestas a disposición del interesado en la sede electrónica de la Administración u Organismo actuante para que pueda acceder al contenido de las mismas de forma voluntaria.",
+"Podrán ser puestas a disposición del interesado en la sede electrónica de la Administración u Organismo actuante.",
+"Deberán ser puestas a disposición del interesado en la sede electrónica de la Administración u Organismo actuante, debiendo este acceder al contenido de las mismas.",
+"No podrán ser puestas a disposición del interesado en la sede electrónica de la Administración u Organismo actuante."
+]
+},
+{
+"id": "au-08-017",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (8) - Ley 39/2015 (arts. 37 a 46)",
+"n": 17,
+"enunciado": "Si los interesados en un procedimiento administrativo son desconocidos o se ignora el lugar de notificación, ¿cómo deberá hacerse la notificación?",
+"opciones": [
+"Por medio de un anuncio publicado en el tablón de edictos del Ayuntamiento del último domicilio del interesado.",
+"Por medio de un anuncio publicado en el Boletín Oficial del Estado.",
+"Por medio de un anuncio publicado en el Boletín Oficial de la Comunidad Autónoma o de la Provincia.",
+"Por medio de un anuncio publicado en el Diario oficial de la Administración productora del acto."
+]
+},
+{
+"id": "au-08-018",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (8) - Ley 39/2015 (arts. 37 a 46)",
+"n": 18,
+"enunciado": "Los actos administrativos serán objeto de publicación cuando así lo establezcan las normas reguladoras de cada procedimiento o cuando lo aconsejen razones de interés público apreciadas por el órgano competente. Esta publicación de los actos se realizará:",
+"opciones": [
+"Siempre en el Boletín Oficial de la Comunidad Autónoma y en el Boletín Oficial del Estado, conjuntamente.",
+"En el Diario Oficial que corresponda.",
+"Siempre en el Boletín Oficial del Estado, independientemente del órgano del que procedan.",
+"Solo en el Tablón de anuncios del Ministerio que corresponda."
+]
+},
+{
+"id": "au-08-019",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (8) - Ley 39/2015 (arts. 37 a 46)",
+"n": 19,
+"enunciado": "Según el artículo 43 de la Ley 39/2015, cuando la notificación por medios electrónicos sea de carácter obligatorio, o haya sido expresamente elegida por el interesado, esta se podrá entender rechazada cuando hayan transcurrido:",
+"opciones": [
+"Quince días naturales desde su puesta a disposición sin que se acceda a su contenido.",
+"Diez días desde la puesta a disposición sin que se acceda a su contenido.",
+"Diez días naturales desde su puesta a disposición sin que se acceda a su contenido.",
+"Diez días hábiles sin que el interesado acceda a su contenido."
+]
+},
+{
+"id": "au-08-020",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (8) - Ley 39/2015 (arts. 37 a 46)",
+"n": 20,
+"enunciado": "Señale la respuesta incorrecta. Según la Ley 39/2015, la notificación de una actuación administrativa se hará por medio de un anuncio publicado en el «Boletín Oficial del Estado», cuando:",
+"opciones": [
+"Se ignore el lugar de la notificación.",
+"El interesado o su representante rechace la notificación.",
+"Los interesados en un procedimiento sean desconocidos.",
+"Se hubiese intentado la notificación, pero no se haya podido practicar."
+]
+},
+{
+"id": "au-09-003",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (9) - Ley 39/2015 (arts. 47 a 52)",
+"n": 3,
+"enunciado": "Conforme a la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, ¿cuál de estos actos no es nulo de pleno derecho?",
+"opciones": [
+"Los actos que tengan un contenido imposible.",
+"Los actos que incurran en desviación de poder.",
+"Los actos que sean constitutivos de infracción penal o se dicten como consecuencia de esta.",
+"Los actos dictados por órgano manifiestamente incompetente por razón del territorio."
+]
+},
+{
+"id": "au-09-004",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (9) - Ley 39/2015 (arts. 47 a 52)",
+"n": 4,
+"enunciado": "Señale la afirmación correcta. De acuerdo con la Ley 39/2015, el defecto de forma de un acto administrativo produce:",
+"opciones": [
+"La nulidad del acto.",
+"La nulidad del acto cuando dé lugar a indefensión de los interesados.",
+"La anulabilidad, en todo caso.",
+"La anulabilidad del acto cuando dé lugar a indefensión de los interesados."
+]
+},
+{
+"id": "au-09-005",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (9) - Ley 39/2015 (arts. 47 a 52)",
+"n": 5,
+"enunciado": "Indique cuál de los siguientes actos es anulable, conforme a lo dispuesto en el artículo 48 de la Ley 39/2015:",
+"opciones": [
+"Un acto dictado prescindiendo total y absolutamente de las normas que contienen las reglas esenciales para la formación de la voluntad de los órganos colegiados.",
+"Un acto contrario al ordenamiento jurídico por el que se adquiere un derecho cuando se carece de los requisitos esenciales para su adquisición.",
+"Un acto constitutivo de infracción penal.",
+"Un acto dictado por un órgano jerárquicamente incompetente."
+]
+},
+{
+"id": "au-09-006",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (9) - Ley 39/2015 (arts. 47 a 52)",
+"n": 6,
+"enunciado": "¿Cuál de los siguientes actos de las Administraciones Públicas son anulables?",
+"opciones": [
+"Los que sean constitutivos de infracción penal o se dicten como consecuencia de esta.",
+"Los que incurran en desviación de poder.",
+"Los que lesionen los derechos y libertades susceptibles de amparo constitucional.",
+"Los que tengan un contenido imposible."
+]
+},
+{
+"id": "au-09-007",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (9) - Ley 39/2015 (arts. 47 a 52)",
+"n": 7,
+"enunciado": "La realización de actuaciones administrativas fuera del tiempo establecido para ellas:",
+"opciones": [
+"Implicará la nulidad del acto.",
+"Solo implicará la anulabilidad del acto cuando así lo imponga la naturaleza del término o plazo.",
+"Solo implicará la nulidad del acto cuando así lo imponga la naturaleza del término o plazo.",
+"Implicará la anulabilidad del acto."
+]
+},
+{
+"id": "au-09-008",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (9) - Ley 39/2015 (arts. 47 a 52)",
+"n": 8,
+"enunciado": "Aquellos actos de las Administraciones Públicas que tengan un contenido imposible:",
+"opciones": [
+"Serán nulos de pleno derecho.",
+"Serán anulables.",
+"Producirán la prescripción del derecho.",
+"Producirán la caducidad del procedimiento."
+]
+},
+{
+"id": "au-09-009",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (9) - Ley 39/2015 (arts. 47 a 52)",
+"n": 9,
+"enunciado": "De conformidad con lo previsto en el artículo 47.1 de la Ley 39/2015, son nulos de pleno derecho:",
+"opciones": [
+"Los dictados prescindiendo total o parcialmente del procedimiento legalmente establecido.",
+"Los que sean constitutivos de infracción administrativa o se dicten como consecuencia de esta.",
+"Los que incurran en desviación de poder.",
+"Los dictados por órgano manifiestamente incompetente por razón de la materia o del territorio."
+]
+},
+{
+"id": "au-09-010",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (9) - Ley 39/2015 (arts. 47 a 52)",
+"n": 10,
+"enunciado": "De acuerdo con el artículo 48.1 de la Ley 39/2015, son anulables:",
+"opciones": [
+"Los actos que tengan un contenido imposible.",
+"Los actos que sean constitutivos de infracción penal o se dicten como consecuencia de esta.",
+"Los actos de la Administración que incurran en cualquier infracción del ordenamiento jurídico.",
+"Los actos dictados prescindiendo total y absolutamente del procedimiento legalmente establecido."
+]
+},
+{
+"id": "au-09-011",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (9) - Ley 39/2015 (arts. 47 a 52)",
+"n": 11,
+"enunciado": "Indique cuál de los siguientes actos de las Administraciones Públicas NO es nulo de pleno derecho:",
+"opciones": [
+"Los dictados prescindiendo total y absolutamente de las reglas esenciales para la formación de la voluntad de los órganos colegiados.",
+"Los dictados por órgano incompetente por razón de la jerarquía.",
+"Los que lesionen los derechos y libertades susceptibles de amparo constitucional.",
+"Los dictados por órgano manifiestamente incompetente por razón de la materia o del territorio."
+]
+},
+{
+"id": "au-09-012",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (9) - Ley 39/2015 (arts. 47 a 52)",
+"n": 12,
+"enunciado": "Indique cuál de las siguientes actos administrativos NO es nulo de pleno derecho, de acuerdo con la Ley 39/2015:",
+"opciones": [
+"El que se dicte como consecuencia de infracción penal.",
+"El dictado por órgano manifiestamente incompetente por razón de la materia.",
+"El dictado prescindiendo total y absolutamente de las normas que contienen las reglas esenciales para la formación de la voluntad de los órganos colegiados.",
+"El que carezca de los requisitos formales indispensables para alcanzar su fin o dé lugar a la indefensión de los interesados."
+]
+},
+{
+"id": "au-09-013",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (9) - Ley 39/2015 (arts. 47 a 52)",
+"n": 13,
+"enunciado": "¿Cuál de las siguientes disposiciones administrativas NO son nulas de pleno derecho, según la Ley 39/2015?",
+"opciones": [
+"Las que establezcan la retroactividad de disposiciones sancionadoras no favorables o restrictivas de derechos individuales.",
+"Las que regulen materias no reservadas a la Ley.",
+"Las que vulneren otras disposiciones administrativas de rango superior.",
+"Las que vulneren la Constitución o las leyes."
+]
+},
+{
+"id": "au-09-014",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (9) - Ley 39/2015 (arts. 47 a 52)",
+"n": 14,
+"enunciado": "Indique cuál de los siguientes actos administrativos es anulable:",
+"opciones": [
+"Los que sean dictados careciendo total y absolutamente del procedimiento legalmente establecido.",
+"Los que incurran en defecto de forma que dé lugar a la indefensión de los interesados",
+"Los que tengan contenido imposible.",
+"Todo acto que sea dictado fuera del plazo establecido."
+]
+},
+{
+"id": "au-09-015",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (9) - Ley 39/2015 (arts. 47 a 52)",
+"n": 15,
+"enunciado": "Señale la respuesta correcta en relación con el defecto de forma, de acuerdo con el artículo 48 de la Ley 39/2015:",
+"opciones": [
+"Determinará la nulidad de pleno derecho cuando el acto carezca de los requisitos formales indispensables para alcanzar su fin.",
+"En ningún caso, determinará la anulabilidad del acto.",
+"Determinará la anulabilidad cuando el acto dé lugar a la indefensión de los interesados.",
+"En todo caso, determinará la anulabilidad del acto."
+]
+}
+]
+}

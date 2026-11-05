@@ -1,0 +1,293 @@
+{
+"pr-38-001": {
+ "bloque": "iniciacion",
+ "precepto": "Arts. 66.1.e) y 68.1 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. Quince días no es el plazo de subsanar. Te lo mezclan con el resultado de sumar los diez días y los cinco de una posible ampliación, pero el plazo base son diez.",
+  "Es esta. La firma es un requisito de toda solicitud (art. 66.1.e). Si falta, el **art. 68.1** manda requerir al interesado para que subsane en **diez días**. Por tanto, el señor Vivas tiene diez días para firmar o acreditar su voluntad.",
+  "No. El plazo de partida es de diez días, no de quince. Lo de ampliar “hasta cinco días” existe (art. 68.2), pero se suma a esos diez.",
+  "No. Falla “deberá”: la ampliación es algo que “podrá” hacerse (art. 68.2), no una obligación. Además solo se prevé cuando aportar los documentos presenta dificultades especiales, y firmar no es el caso."
+ ],
+ "ojo": "Diez días es el plazo clave. La ampliación es hasta cinco días, es potestativa (“podrá”) y no cabe en procedimientos selectivos o de concurrencia competitiva."
+},
+"pr-38-002": {
+ "bloque": "actividad",
+ "precepto": "Art. 22.1.a) de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. “Deba” convierte en obligatoria una suspensión que es opcional. Los casos en los que la suspensión es obligada están en el art. 22.2, y requerir una subsanación no está entre ellos.",
+  "No. No hay automatismo: el requerimiento de subsanar está en el apartado de los casos en los que el plazo “se podrá” suspender, no en el de “se suspenderá”.",
+  "Es esta. El **art. 22.1.a)** dice que el plazo “se podrá suspender” cuando haya que requerir a un interesado para que subsane deficiencias. Dura desde que se le notifica el requerimiento hasta que lo cumple o, si no lo cumple, lo que dure el plazo concedido.",
+  "No. El plazo no tiene por qué seguir corriendo: el art. 22.1.a) permite a la Administración suspenderlo."
+ ],
+ "ojo": "Truco para recordarlo: art. 22.1 “podrá” suspenderse, art. 22.2 “se suspenderá”. La subsanación va en el 22.1."
+},
+"pr-38-003": {
+ "bloque": "iniciacion",
+ "precepto": "Art. 68.1 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. Esa advertencia de tres meses es la de la caducidad, para cuando el procedimiento se paraliza por culpa del interesado (art. 95.1). Si no subsana una solicitud, la consecuencia es otra: el desistimiento.",
+  "Es esta. El **art. 68.1** avisa de que, si no subsana, se le tendrá “por desistido de su petición”, previa resolución dictada en los términos del art. 21. Es decir: la Administración no se limita a olvidarse del tema, tiene que dictar una resolución que lo declare.",
+  "No. Decaer en el derecho al trámite es lo que le pasa a quien no cumple un trámite durante el procedimiento (art. 73.3). Aquí falta un requisito de la propia solicitud, y sin ella el procedimiento no continúa.",
+  "No. Falla “sin más trámite”. No se puede archivar sin más: hace falta una resolución previa, como exige el art. 68.1 al remitirse al art. 21."
+ ]
+},
+"pr-38-004": {
+ "bloque": "actividad",
+ "precepto": "Art. 21.2 de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "No. Falla “en ningún caso”. El límite de seis meses tiene excepciones: una norma con rango de ley o el Derecho de la Unión Europea pueden fijar un plazo mayor (art. 21.2).",
+  "No. Un Real Decreto Legislativo no es un reglamento. Aunque lo dicte el Gobierno, es legislación delegada y tiene rango de ley (arts. 82 y 85 de la Constitución).",
+  "No. El art. 21.2 no exige una ley aprobada por las Cortes Generales, sino “una norma con rango de Ley”. Y eso incluye también a los decretos legislativos.",
+  "Es esta. El **art. 21.2** permite superar los seis meses si lo establece una norma con **rango de ley**, y el Real Decreto Legislativo 1/2001 lo tiene: es una norma que dicta el Gobierno por delegación de las Cortes. Por eso podría fijar nueve meses."
+ ],
+ "ojo": "Rango de ley no es lo mismo que ley de las Cortes: también lo tienen los decretos legislativos y los decretos leyes."
+},
+"pr-38-005": {
+ "bloque": "actividad",
+ "precepto": "Art. 21.3 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. Un mes es, por ejemplo, el plazo para resolver el recurso de reposición (art. 124.2), pero no el plazo supletorio de un procedimiento.",
+  "No. La ley no recoge dos meses como plazo supletorio: cuando la norma no dice nada, son tres.",
+  "Es esta. El **art. 21.3** es claro: cuando las normas del procedimiento no fijan plazo máximo, este “será de tres meses”. Es el plazo de reserva, el que se aplica si nadie ha dicho otro.",
+  "No. Seis meses es el tope que puede fijar la norma reguladora sin rango de ley (art. 21.2), no el plazo que se aplica cuando no fija ninguno."
+ ],
+ "ojo": "No confundas los dos números: seis meses es el máximo que pueden fijar las normas, tres meses es lo que se aplica si callan."
+},
+"pr-38-006": {
+ "bloque": "actividad",
+ "precepto": "Art. 21.3.b) de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. El **art. 21.3.b)** cuenta el plazo desde que la solicitud entra en el registro electrónico del organismo **competente para tramitarla**. La solicitud del señor Vivas llegó al registro de la Confederación el 8 de abril, y la señora Toro presentó la suya allí ese mismo día. Por eso, 8 de abril en los dos.",
+  "No. El 1 de abril es cuando el señor Vivas la presentó en el registro del Ayuntamiento de Zaragoza. Ese no es el registro del organismo competente, así que esa fecha no pone en marcha el plazo.",
+  "No. El 22 de abril es solo la fecha en que se les envió la comunicación del art. 21.4. Esa comunicación informa del plazo, pero no marca su inicio.",
+  "No. El art. 21.3.b) no cuenta desde la subsanación, sino desde la entrada en el registro competente. Subsanar puede, como mucho, dar lugar a una suspensión del plazo (art. 22.1.a)."
+ ],
+ "ojo": "Para el ciudadano vale la fecha en que presenta en cualquier registro. Para contar el plazo de la Administración, vale la de entrada en el registro del organismo competente."
+},
+"pr-38-007": {
+ "bloque": "actividad",
+ "precepto": "Art. 14.1 y 14.3 de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "No. Las personas físicas no están obligadas con carácter general: el art. 14.1 les deja elegir si se comunican por medios electrónicos o no.",
+  "No. Falla “en ningún caso”. Hay personas físicas obligadas, como los profesionales con colegiación obligatoria (art. 14.2.c) o ciertos colectivos fijados por reglamento (art. 14.3).",
+  "No. Falla “solo”. Además de las personas jurídicas, el art. 14.2 obliga a entidades sin personalidad jurídica, a ciertos profesionales colegiados, a representantes de obligados y a empleados públicos.",
+  "Es esta. Don Luis y doña Claudia son personas físicas, y por regla general pueden elegir el canal (**art. 14.1**). La excepción es que un reglamento imponga la vía electrónica a su colectivo, porque por su capacidad económica o técnica tengan acceso a esos medios (**art. 14.3**)."
+ ]
+},
+"pr-38-008": {
+ "bloque": "iniciacion",
+ "precepto": "Art. 57 de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. El **art. 57** permite acumular, de oficio o a instancia de parte, procedimientos con identidad sustancial o íntima conexión si el mismo órgano debe tramitarlos y resolverlos. Eso ocurre aquí con el Presidente de la Confederación. Y la ley añade que contra el acuerdo “no procederá recurso alguno”.",
+  "No. El art. 57 no da a los interesados un derecho de veto. Su oposición no impide la acumulación, y la decisión no se puede ni recurrir.",
+  "No. Da igual cómo empezara: el art. 57 se aplica “cualquiera que haya sido la forma de su iniciación”.",
+  "No. Es justo al revés. Que sea el mismo órgano el que tramita y resuelve es un requisito para poder acumular, no un obstáculo."
+ ]
+},
+"pr-38-009": {
+ "bloque": "plazos",
+ "precepto": "Arts. 21.3.b) y 30.4 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. Es contar seis meses desde el 22 de abril, que es la fecha de la comunicación del art. 21.4. Pero el plazo no empieza entonces, sino con la entrada en el registro.",
+  "Es esta. La solicitud de doña Claudia entró en el registro de la Confederación el 8 de abril de 2025 (**art. 21.3.b**). El plazo es de seis meses y los meses van **de fecha a fecha** (**art. 30.4**), así que acaba el 8 de octubre de 2025. Ese día es miércoles, hábil, y no hay que prorrogar.",
+  "No. Doble error: cuenta tres meses en lugar de los seis que fija la Ley de Aguas, y además desde el 22 de abril, que no es la fecha de inicio.",
+  "No. La fecha de inicio es buena, pero cuenta tres meses. Los tres meses son el plazo supletorio (art. 21.3), y aquí la norma especial fija seis."
+ ]
+},
+"pr-38-010": {
+ "bloque": "actos",
+ "precepto": "Art. 43.3 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. El acceso al contenido es cuando la notificación se entiende “practicada” (art. 43.2). La pregunta es otra: cuándo cumple la Administración con su obligación de notificar.",
+  "Es esta. El **art. 43.3** dice que la obligación se entiende cumplida con la **puesta a disposición** de la notificación en la sede electrónica o en la dirección electrónica habilitada única. Es decir: para no pasarse del plazo, a la Administración le basta con dejarla disponible, aunque el interesado aún no la haya abierto.",
+  "No. Los diez días naturales sin acceder son cuando la notificación se entiende “rechazada” (art. 43.2). Eso no marca el cumplimiento de la obligación de notificar.",
+  "No. Dos fallos: esos diez días son naturales, no hábiles, y lo que producen es el rechazo de la notificación (art. 43.2)."
+ ],
+ "ojo": "Tres momentos distintos: puesta a disposición (la Administración cumple), acceso (notificación practicada), diez días naturales sin acceder (notificación rechazada)."
+},
+"pr-38-011": {
+ "bloque": "actividad",
+ "precepto": "Art. 24.1 de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "No. El 14 de noviembre el plazo ya había pasado: seis meses desde el 8 de abril terminan el 8 de octubre de 2025. El problema no es de fechas, sino del sentido del silencio.",
+  "No. La regla general es el silencio estimatorio, pero tiene excepciones. Una pasarela sobre el cauce de un río afecta al dominio público, y ahí el silencio es desestimatorio (art. 24.1, segundo párrafo).",
+  "No. El certificado solo sirve para acreditar el silencio (art. 24.4), no cambia su sentido. Aunque don Luis lo tuviera, seguiría sin tener autorización.",
+  "Es esta. La regla general del **art. 24.1** tiene excepción: el silencio es **desestimatorio** en los procedimientos cuya estimación transfiera facultades relativas al dominio público. El cauce del río lo es, así que don Luis no puede entender concedida la autorización y no debió empezar las obras."
+ ],
+ "ojo": "El silencio no puede darte un trozo de dominio público: si no te contestan, no puedes construir sobre el río."
+},
+"pr-38-012": {
+ "bloque": "actividad",
+ "precepto": "Art. 24.2 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. Esa es la consideración del silencio **estimatorio**, no del desestimatorio que se ha producido aquí (art. 24.2, primera frase).",
+  "No. Mezcla las dos reglas: lo de “acto finalizador” es del silencio estimatorio y lo de permitir los recursos es del desestimatorio. Aquí no hay acto finalizador.",
+  "Es esta. Como el silencio es desestimatorio, el **art. 24.2** le da “los solos efectos” de permitir al interesado interponer el recurso administrativo o contencioso que proceda. No es una resolución de verdad: es una puerta abierta para poder recurrir.",
+  "No. El silencio desestimatorio no crea un acto firme. Tanto es así que la ley permite recurrirlo y que la Administración aún resuelva después sin vinculación (art. 24.3.b)."
+ ]
+},
+"pr-38-013": {
+ "bloque": "actividad",
+ "precepto": "Art. 24.4 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. Falla “siempre de oficio”. El certificado se expide de oficio, pero además el interesado “podrá pedirlo en cualquier momento” (art. 24.4).",
+  "No. El art. 24.4 habla de los actos producidos por silencio sin distinguir su sentido. Que sea desestimatorio no es motivo para denegar el certificado.",
+  "Es esta. El **art. 24.4** dice que lo expide el **órgano competente para resolver** en quince días. Si lo pide el interesado, esos quince días cuentan desde el siguiente a la entrada de la petición en el registro. Aquí lo expediría el Presidente de la Confederación.",
+  "No. Falla el órgano: lo expide el competente para resolver, no el competente para tramitar."
+ ],
+ "ojo": "La palabra cambiada es “tramitar” por “resolver”."
+},
+"pr-38-014": {
+ "bloque": "actividad",
+ "precepto": "Art. 24.3.b) de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. La Administración sigue obligada a resolver aunque haya silencio (art. 21.1). Aquí el silencio es desestimatorio, y en ese caso el **art. 24.3.b)** dice que la resolución tardía se dicta “sin vinculación alguna al sentido del silencio”. Es decir: el Presidente podría incluso conceder la autorización.",
+  "No. Esa regla existe, pero es para el silencio estimatorio (art. 24.3.a). En estos procedimientos el silencio es desestimatorio, porque afectan al dominio público.",
+  "No. Cambian la regla: en el silencio negativo la resolución no está limitada a confirmar, sino que puede decidir con libertad (art. 24.3.b).",
+  "No. La obligación de resolver no desaparece porque pase el plazo (art. 21.1). Y una actuación fuera de plazo solo es anulable si así lo impone la naturaleza del plazo (art. 48.3)."
+ ],
+ "ojo": "Silencio positivo: la resolución tardía solo puede confirmarlo. Silencio negativo: la Administración tiene las manos libres."
+},
+"pr-38-015": {
+ "bloque": "iniciacion",
+ "precepto": "Arts. 66.2 y 7 de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "No. El art. 66.2 no se limita a la responsabilidad patrimonial: vale para cualquier procedimiento, salvo que sus normas dispongan otra cosa.",
+  "No. Falla “en todo caso”. El que figura en primer término es solo la opción de reserva: primero está quien hayan señalado expresamente (art. 7).",
+  "No. Es al revés. La solicitud única está permitida por regla general, y lo excepcional es que la norma del procedimiento la prohíba (art. 66.2). Aquí esa norma no dispone nada.",
+  "Es esta. Sus pretensiones son idénticas en contenido y fundamento, y el **art. 66.2** permite formularlas en una única solicitud si la norma específica no dice otra cosa. Las actuaciones se harían con quien designen y, si no designan a nadie, con quien figure en primer término (**art. 7**)."
+ ]
+},
+"pr-38-016": {
+ "bloque": "finalizacion",
+ "precepto": "Art. 94.2 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. El interés general está en el art. 94.5, y sirve para que la Administración limite los efectos del desistimiento y siga adelante. Pero aquí la solicitud la firman dos, y eso ya lo resuelve el art. 94.2.",
+  "No. Esos diez días son para terceros interesados personados que quieren que el procedimiento continúe (art. 94.4). Doña Claudia no es un tercero: es cosolicitante, así que no necesita instar nada.",
+  "Es esta. Cuando el escrito de iniciación lo firman dos o más, el **art. 94.2** dice que el desistimiento “sólo afectará a aquellos que la hubiesen formulado”. Don Luis se va y el procedimiento sigue con doña Claudia.",
+  "No. Aceptar de plano y declarar concluso (art. 94.4) no cabe aquí tal cual: no se cierra el procedimiento, porque doña Claudia no ha desistido."
+ ]
+},
+"pr-38-017": {
+ "bloque": "instruccion",
+ "precepto": "Art. 83.2 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. Entre diez y quince días es el plazo del trámite de audiencia (art. 82.2), no el de información pública.",
+  "No. La información pública tiene un mínimo, no un máximo. “No superior a quince días” es lo que dice el art. 88.1 para las cuestiones conexas.",
+  "Es esta. El **art. 83.2** dice que el plazo para alegar en la información pública “en ningún caso podrá ser inferior a veinte días”. Tiene sentido: cualquier persona puede participar y necesita tiempo para enterarse y examinar el expediente.",
+  "No. Veinte días no es el tope, sino el mínimo. La ley no fija ni un mínimo de diez ni un máximo de veinte."
+ ],
+ "ojo": "Audiencia: de 10 a 15 días. Información pública: 20 días como mínimo."
+},
+"pr-38-018": {
+ "bloque": "finalizacion",
+ "precepto": "Art. 88.2 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. Falla “deberá”. Incluso para las cuestiones conexas no planteadas, el art. 88.1 dice “podrá pronunciarse”, y antes tiene que oír a los interesados.",
+  "No. El procedimiento lo inició don Luis pidiendo una autorización. La resolución debe ser congruente con lo pedido y no puede agravar su situación inicial (art. 88.2).",
+  "Es esta. Como el procedimiento empezó a solicitud de don Luis, el **art. 88.2** exige que la resolución sea congruente con lo que pidió, sin agravar su situación. Pero deja a salvo la potestad de “incoar de oficio un nuevo procedimiento”. Es decir: la ilegalidad se ventila en un expediente aparte.",
+  "No. El art. 88.2 permite abrir otro procedimiento, pero no dice que haya que suspender este. Y este supuesto tampoco está entre las causas de suspensión del art. 22."
+ ]
+},
+"pr-38-019": {
+ "bloque": "finalizacion",
+ "precepto": "Arts. 100 y 103.1.c) de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. El apremio sobre el patrimonio es para cobrar una cantidad líquida, es decir, una cantidad concreta de dinero (art. 101). Aquí lo que se ordena es demoler, no pagar.",
+  "Es esta. Demoler es un acto que el obligado puede encargar a otra persona, y ese es uno de los supuestos de la multa coercitiva (**art. 103.1.c**). La ley añade la condición: “cuando así lo autoricen las Leyes”. Es una multa que se repite hasta que don Luis cumpla, previo apercibimiento (art. 99).",
+  "No. La compulsión sobre las personas es para obligaciones personalísimas de no hacer o soportar (art. 104.1). Demoler una pasarela no es personalísimo: puede hacerlo otro.",
+  "No. Falla “solo”. Es verdad que cabe la ejecución subsidiaria (art. 102), pero para esos mismos actos también cabe la multa coercitiva (art. 103.1.c)."
+ ],
+ "ojo": "Lo que puede hacer otro admite dos vías: ejecución subsidiaria y multa coercitiva. La palabra “solo” es la trampa."
+},
+"pr-38-020": {
+ "bloque": "iniciacion",
+ "precepto": "Art. 53.1.c) de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Esta es la falsa, y por eso es la que hay que marcar. El **art. 53.1.c)** reconoce el derecho a no presentar documentos **originales**. Aquí se han comido esa palabra, y la frase cambia por completo: los interesados sí tienen que presentar los documentos que exija el procedimiento, aunque por regla general no el original.",
+  "Es verdadera, así que no se marca. Es el art. 53.1.a): conocer en cualquier momento cómo va el procedimiento.",
+  "Es verdadera, así que no se marca. Es el art. 53.1.d): no hay que presentar datos y documentos que ya hayan elaborado las Administraciones.",
+  "Es verdadera, así que no se marca. Es el art. 53.1.b): saber quién es la autoridad o el personal responsable de la tramitación."
+ ],
+ "ojo": "Una sola palabra omitida, “originales”, hace falsa la opción. Lee bien: pide la que NO es un derecho."
+},
+"pr-38-021": {
+ "bloque": "recursos",
+ "precepto": "Arts. 114.2.d) y 123.1 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. La alzada es para actos que no ponen fin a la vía administrativa (art. 121.1). El Presidente es el máximo órgano de dirección del organismo, y sus actos sí ponen fin a esa vía (art. 114.2.d).",
+  "Es esta. En los organismos públicos estatales ponen fin a la vía administrativa los actos de sus **máximos órganos de dirección** (**art. 114.2.d**), según establezcan sus estatutos y salvo que una ley diga otra cosa. El caso nos dice que el Presidente lo es. Y contra esos actos cabe la reposición potestativa (**art. 123.1**).",
+  "No. El recurso extraordinario de revisión es contra actos firmes y solo por las causas tasadas del art. 125.1. Aquí no hay acto firme ni ninguna de esas causas.",
+  "No. La apelación no es un recurso administrativo: es un recurso judicial contra sentencias de los juzgados de lo contencioso (art. 81 de la Ley 29/1998)."
+ ],
+ "ojo": "La pista está en el caso: “máximo órgano de dirección”. Si pone fin a la vía administrativa, olvídate de la alzada."
+},
+"pr-38-022": {
+ "bloque": "recursos",
+ "precepto": "Art. 115.2 de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "No. No calificar el recurso no está entre las causas de inadmisión del art. 116. La ley lo trata como un defecto que no impide tramitarlo.",
+  "No. No hay requerimiento: la ley no exige que doña Claudia subsane nada mientras se pueda deducir qué recurso es (art. 115.2).",
+  "No. Falla “en ningún caso”. La ley pone una condición: “siempre que se deduzca su verdadero carácter”.",
+  "Es esta. El **art. 115.2** dice que el error o la ausencia de calificación no impide la tramitación “siempre que se deduzca su verdadero carácter”. Doña Claudia no tiene que saber cómo se llama su recurso: la Administración lo identifica por lo que pide."
+ ]
+},
+"pr-38-023": {
+ "bloque": "recursos",
+ "precepto": "Art. 124.1 de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "No. Es aplicar el plazo de un mes desde el 8 de octubre, pero ese mes es para actos expresos (art. 124.1, primer párrafo). Aquí hay silencio, no acto expreso.",
+  "No. El plazo de un mes no se aplica a un acto presunto, y además el 22 de octubre no significa nada en este procedimiento: el silencio se produjo el 8 de octubre.",
+  "No. Acierta en que está en plazo, pero no porque acabe el 23 de noviembre. Contra el silencio no hay fecha límite de un mes.",
+  "Es esta. El acto presunto se produjo al vencer el plazo, el 8 de octubre de 2025. Si el acto no es expreso, el **art. 124.1, segundo párrafo**, permite el recurso de reposición “en cualquier momento” a partir del día siguiente. Así que su recurso del 8 de enero de 2026 está en plazo."
+ ],
+ "ojo": "Acto expreso: un mes. Acto presunto: en cualquier momento. Y es el mismo criterio en la alzada (art. 122.1)."
+},
+"pr-38-024": {
+ "bloque": "recursos",
+ "precepto": "Art. 123.1 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. La Confederación está adscrita al Ministerio, pero el recurso de reposición no sube al Ministerio: lo resuelve el mismo órgano que dictó el acto (art. 123.1).",
+  "No. El Secretario General Técnico no tiene ningún papel aquí. La reposición se queda en el órgano autor del acto.",
+  "Es esta. El recurso de doña Claudia es de reposición, y el **art. 123.1** dice que se interpone ante “el mismo órgano” que hubiera dictado el acto. Ese órgano es el Presidente de la Confederación, competente para resolver el procedimiento.",
+  "No. Resolver el superior jerárquico es propio de la alzada (art. 121.1). Y el Presidente, como máximo órgano de dirección, agota la vía administrativa."
+ ],
+ "ojo": "Reposición: lo resuelve el mismo órgano. Alzada: lo resuelve el superior."
+},
+"pr-38-025": {
+ "bloque": "recursos",
+ "precepto": "Arts. 124.2, 30.4, 30.5 y 24.1 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. El sentido del silencio es correcto, pero la fecha no. El 8 de febrero de 2026 es domingo, y si el último día es inhábil el plazo pasa al siguiente hábil (art. 30.5).",
+  "Es esta. La reposición se resuelve en **un mes** (**art. 124.2**). Doña Claudia presentó el 8 de enero de 2026, así que de fecha a fecha acaba el 8 de febrero, domingo, y pasa al **lunes 9 de febrero** (**art. 30.4 y 30.5**). El silencio es desestimatorio, porque es un procedimiento de impugnación de actos (**art. 24.1, tercer párrafo**).",
+  "No. Cuenta dos meses, y ningún plazo de los recursos es de dos meses en vía administrativa: la reposición es de un mes. Y el silencio tampoco sería estimatorio.",
+  "No. Dos fallos: el plazo es de un mes y no de dos, y el silencio no es estimatorio. La excepción del doble silencio solo es para el recurso de alzada, y además no se aplica en materias como el dominio público (art. 24.1, tercer párrafo)."
+ ],
+ "ojo": "El doble silencio positivo solo existe en la alzada contra una desestimación presunta y fuera de las materias del segundo párrafo del art. 24.1. Aquí falla por partida doble: es reposición y es dominio público."
+}
+}

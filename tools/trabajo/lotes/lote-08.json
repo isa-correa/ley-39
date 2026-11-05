@@ -1,0 +1,527 @@
+{
+"lote": 8,
+"casos": {},
+"calendarios": {},
+"preguntas": [
+{
+"id": "au-19-001",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (19) - Ley 39/2015 (arts. 93 a 96)",
+"n": 1,
+"enunciado": "Según el artículo 93 de la Ley 39/2015, la Administración podrá desistir, motivadamente, en los supuestos y con los requisitos previstos en las Leyes:",
+"opciones": [
+"Exclusivamente, en procedimientos en materia sancionadora.",
+"En cualquier procedimiento administrativo, cualquiera que fuese su forma de iniciación.",
+"En los procedimientos iniciados de oficio.",
+"En los procedimientos iniciados por solicitud del interesado."
+]
+},
+{
+"id": "au-19-002",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (19) - Ley 39/2015 (arts. 93 a 96)",
+"n": 2,
+"enunciado": "Según el artículo 94 de la Ley 39/2015, todo interesado podrá:",
+"opciones": [
+"Renunciar a su solicitud o, cuando ello no esté prohibido por el ordenamiento jurídico, renunciar a sus derechos.",
+"Desistir de su solicitud o, cuando ello no esté prohibido por el ordenamiento jurídico, renunciar a sus derechos.",
+"Renunciar a su solicitud o, cuando ello no esté prohibido por el ordenamiento jurídico, desistir de sus derechos.",
+"Desistir de su solicitud o, cuando ello no esté prohibido por el ordenamiento jurídico, desistir de sus derechos"
+]
+},
+{
+"id": "au-19-003",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (19) - Ley 39/2015 (arts. 93 a 96)",
+"n": 3,
+"enunciado": "Según el artículo 94 de la Ley 39/2015, si el escrito de iniciación se hubiera formulado por dos o más interesados, el desistimiento o la renuncia de uno de ellos:",
+"opciones": [
+"No impedirá la continuación del procedimiento siempre que el resto de solicitantes instasen su continuación.",
+"Sólo afectará a aquel que la hubiese formulado.",
+"Dará lugar a que la Administración declare concluso el procedimiento.",
+"No impedirá la continuación del procedimiento siempre que alguno de los restantes solicitantes instase su continuación."
+]
+},
+{
+"id": "au-19-004",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (19) - Ley 39/2015 (arts. 93 a 96)",
+"n": 4,
+"enunciado": "Según el tenor literal del artículo 94 de la Ley 39/2015, ¿cómo podrán realizarse la renuncia y el desistimiento?",
+"opciones": [
+"El desistimiento deberá realizarse por escrito y la renuncia por cualquier medio del que quede constancia.",
+"Tanto el desistimiento como la renuncia podrán hacerse por cualquier medio que permita su constancia.",
+"Tanto el desistimiento como la renuncia deberán hacerse por escrito.",
+"La renuncia deberá realizarse por escrito y el desistimiento por cualquier medio del que quede constancia."
+]
+},
+{
+"id": "au-19-005",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (19) - Ley 39/2015 (arts. 93 a 96)",
+"n": 5,
+"enunciado": "Si el escrito de iniciación se hubiera formulado por un solo interesado, pero se hubiesen personado en el procedimiento terceros interesados, ¿cómo deberá actuar la Administración ante el el desistimiento o la renuncia del solicitante?",
+"opciones": [
+"No aceptará el desistimiento o la renuncia, y continuará el procedimiento.",
+"Aceptará de plano el desistimiento o la renuncia, y declarará concluso el procedimiento.",
+"Notificará el desistimiento o renuncia a los terceros interesados, quienes podrán instar su continuación.",
+"Limitará los efectos del desistimiento o la renuncia al solicitante y seguirá el procedimiento."
+]
+},
+{
+"id": "au-19-006",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (19) - Ley 39/2015 (arts. 93 a 96)",
+"n": 6,
+"enunciado": "En su artículo 95 la Ley 39/2015 se refiere a los requisitos y efectos de la caducidad, ¿interrumpe esta el plazo de prescripción de las acciones del particular o de la Administración?",
+"opciones": [
+"Solo interrumple el plazo de prescripción de las acciones del particular.",
+"Sí.",
+"No.",
+"Solo interrumple el plazo de prescripción de las acciones de la Administración."
+]
+},
+{
+"id": "au-19-007",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (19) - Ley 39/2015 (arts. 93 a 96)",
+"n": 7,
+"enunciado": "Según el artículo 95 de la Ley 39/2015, en los procedimientos iniciados a solicitud del interesado, cuando se produzca su paralización por causa imputable al mismo, la Administración le advertirá que se producirá la caducidad del procedimiento:",
+"opciones": [
+"Transcurridos tres meses.",
+"Transcurridos treinta días.",
+"Transcurridos dos meses.",
+"Transcurridos diez días."
+]
+},
+{
+"id": "au-19-008",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (19) - Ley 39/2015 (arts. 93 a 96)",
+"n": 8,
+"enunciado": "Según el artículo 95 de la Ley 39/2015, contra la resolución que declare la caducidad:",
+"opciones": [
+"Procederán los recursos pertinentes.",
+"Cabrá recurso de queja.",
+"No cabrá recurso alguno.",
+"Cabrá recurso extraordinario."
+]
+},
+{
+"id": "au-19-009",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (19) - Ley 39/2015 (arts. 93 a 96)",
+"n": 9,
+"enunciado": "Según el artículo 95 de la Ley 39/2015, la inactividad del interesado en la cumplimentación de trámites no indispensables para dictar resolución:",
+"opciones": [
+"Producirá la caducidad del procedimiento.",
+"Podrá producir la caducidad del procedimiento.",
+"No tendrá otro efecto que la pérdida de su derecho al referido trámite.",
+"Provocará que se tenga al interesado por desistido de su solicitud."
+]
+},
+{
+"id": "au-19-010",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (19) - Ley 39/2015 (arts. 93 a 96)",
+"n": 10,
+"enunciado": "De acuerdo con el artículo 95 de la Ley 39/2015, producida la caducidad de un procedimiento, en los casos en los que sea posible la iniciación de uno nuevo por no haberse producido la prescripción de las acciones, podrán incorporarse a éste:",
+"opciones": [
+"Los actos y trámites cuyo contenido se hubiera mantenido igual de no haberse producido la caducidad.",
+"Exclusivamente los trámites de alegaciones.",
+"Exclusivamente los trámites de alegaciones y proposición de prueba.",
+"Exclusivamente los trámites de alegaciones, proposición de prueba y audiencia al interesado."
+]
+},
+{
+"id": "au-19-011",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (19) - Ley 39/2015 (arts. 93 a 96)",
+"n": 11,
+"enunciado": "Cuando razones de interés público o la falta de complejidad del procedimiento así lo aconsejen, las Administraciones Públicas podrán acordar la tramitación simplificada del procedimiento:",
+"opciones": [
+"A solicitud del interesado, excluviamente.",
+"De oficio, exclusivamente.",
+"Únicamente cuando se trate de procedimientos sancionadores o de responsabilidad patrimonial.",
+"De oficio o a solicitud del interesado."
+]
+},
+{
+"id": "au-19-012",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (19) - Ley 39/2015 (arts. 93 a 96)",
+"n": 12,
+"enunciado": "Señale la respuesta correcta. Según el artículo 96 de la Ley 39/2015, cuando la Administración acuerde de oficio la tramitación simplificada del procedimiento deberá notificarlo a los interesados, con los siguientes efectos:",
+"opciones": [
+"La Administración deberá seguir la tramitación ordinaria si alguno de ellos manifestara su oposición expresa.",
+"La Administración solo deberá seguir la tramitación ordinaria si todos ellos manifestaran su oposición expresa.",
+"Los interesados no podrán oponerse a la tramitación simplificada.",
+"La Administración solo deberá seguir la tramitación ordinaria si la mayoría de ellos manifestaran su oposición expresa."
+]
+},
+{
+"id": "au-19-013",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (19) - Ley 39/2015 (arts. 93 a 96)",
+"n": 13,
+"enunciado": "Indique cuál de las siguientes es una característica de la caducidad del procedimiento administrativo, según la Ley 39/2015:",
+"opciones": [
+"Que puede acordarse por la inactividad del interesado en la cumplimentación de trámites no indispensables para resolver.",
+"Que deberá aplicarse aun cuando la cuestión suscitada afectase al interés general.",
+"Que producirá por sí sola la prescripción de las acciones del particular o de la Administración.",
+"Que contra la resolución que declare la caducidad procederán los recursos pertinentes."
+]
+},
+{
+"id": "au-19-014",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (19) - Ley 39/2015 (arts. 93 a 96)",
+"n": 14,
+"enunciado": "Si en un determinado procedimiento administrativo, la Administración acordara de oficio la tramitación simplificada y alguno de los interesados manifestara su oposición expresa:",
+"opciones": [
+"La Administración deberá seguir la tramitación simplificada.",
+"La Administración deberá seguir la tramitación ordinaria, salvo en el caso de procedimientos de responsabilidad patrimonial.",
+"La Administración deberá seguir la tramitación ordinaria, en todo caso.",
+"La Administración deberá seguir la tramitación ordinaria, salvo en el caso de procedimientos de naturaleza sancionadora."
+]
+},
+{
+"id": "au-19-015",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (19) - Ley 39/2015 (arts. 93 a 96)",
+"n": 15,
+"enunciado": "¿Qué sucede si en un determinado procedimiento administrativo, en el que concurre un interesado, este solicitara la tramitación simplificada y no se dieran las razones de interés público o de falta de complejidad señaladas en la Ley 39/2015?",
+"opciones": [
+"Que podrá desestimarse dicha petición, en el plazo de 5 días desde su presentación, sin que exista posibilidad de recurso.",
+"Que se podrá desestimar dicha petición, en el plazo de 10 días desde su presentación, sin que exista posibilidad de recurso.",
+"Que deberá aceptarse la misma, salvo en los procedimientos de naturaleza sancionadora.",
+"Que deberá rechazarse la misma, salvo que dicho procedimiento fuera de responsabilidad patrimonial."
+]
+},
+{
+"id": "au-19-016",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (19) - Ley 39/2015 (arts. 93 a 96)",
+"n": 16,
+"enunciado": "¿Cuál es el plazo general de resolución de los procedimientos administrativos tramitados de manera simplificada?",
+"opciones": [
+"3 meses.",
+"1 mes.",
+"20 días.",
+"30 días."
+]
+},
+{
+"id": "au-19-017",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (19) - Ley 39/2015 (arts. 93 a 96)",
+"n": 17,
+"enunciado": "Según el artículo 96 de la Ley 39/2015, ¿cuál de los siguientes trámites no podrá realizarse durante la tramitación simplificada de un procedimiento administrativo?",
+"opciones": [
+"Trámite de audiencia, únicamente cuando la resolución vaya a ser desfavorable para el interesado.",
+"Informe del servicio jurídico, cuando éste sea preceptivo.",
+"Alegaciones formuladas al inicio del procedimiento durante el plazo de cinco días.",
+"Práctica de las pruebas admitidas por el instructor del procedimiento."
+]
+},
+{
+"id": "au-19-018",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (19) - Ley 39/2015 (arts. 93 a 96)",
+"n": 18,
+"enunciado": "En la tramitación simplificada de un procedimiento, cuando el órgano competente, a la vista del dictamen del Consejo de Estado, acuerde la continuación del mismo con arreglo a la tramitación ordinaria, ¿podrán entenderse convalidadas las actuaciones que se hubieran realizado durante la tramitación simplificada del procedimiento?",
+"opciones": [
+"Sí, a excepción del Dictamen del Consejo de Estado.",
+"No, a excepción del trámite de audiencia.",
+"No, a excepción del Dictamen del Consejo de Estado.",
+"Sí, sin excepción."
+]
+},
+{
+"id": "au-19-019",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (19) - Ley 39/2015 (arts. 93 a 96)",
+"n": 19,
+"enunciado": "Según el artículo 96 de la Ley 39/2015, en los procedimientos que se tramiten de forma simplificada, el trámite de audiencia:",
+"opciones": [
+"No podrá realizarse, debiendo seguirse la tramitación ordinaria cuando la resolución vaya a ser favorable para el interesado.",
+"Únicamente podrá realizarse cuando la resolución vaya a ser desfavorable para el interesado.",
+"Únicamente podrá realizarse cuando la resolución vaya a ser favorable para el interesado.",
+"Podrá realizarse siempre que vayan a ser tenido en cuenta hechos o pruebas no aducidas por el interesado."
+]
+},
+{
+"id": "au-19-020",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (19) - Ley 39/2015 (arts. 93 a 96)",
+"n": 20,
+"enunciado": "Señale la respuesta correcta respecto a la caducidad en los procedimientos iniciados a solicitud del interesado:",
+"opciones": [
+"Los procedimientos caducados interrumpirán el plazo de prescripción.",
+"No podrá acordarse por la simple inactividad del interesado en la cumplimentación de trámites que no sean indispensables.",
+"La caducidad producirá por sí sola la prescripción de las acciones del particular.",
+"Contra la resolución que declare la caducidad no procederá recurso administrativo."
+]
+},
+{
+"id": "au-20-001",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (20) - Ley 39/2015 (arts. 97 a 105)",
+"n": 1,
+"enunciado": "Señale la respuesta correcta en relación con la compulsión sobre las personas como medio de ejecución forzosa:",
+"opciones": [
+"Solo podrá emplearse cuando lo autorice expresamente una norma de rango legal o reglamentario.",
+"Será requisito indispensable para su uso la obtención previa del consentimiento del afectado.",
+"Habrá lugar a la compulsión sobre las personas cuando deban ejecutarse actos personalísimos de hacer.",
+"Solo cabrá respecto a obligaciones personalísimas de no hacer o soportar."
+]
+},
+{
+"id": "au-20-002",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (20) - Ley 39/2015 (arts. 97 a 105)",
+"n": 2,
+"enunciado": "¿Cuál de los siguientes NO es un medio de ejecución forzosa contemplado en la Ley 39/2015?",
+"opciones": [
+"La compulsión sobre las personas.",
+"La multa pecuniaria.",
+"La ejecución subsidiaria.",
+"El apremio sobre el patrimonio."
+]
+},
+{
+"id": "au-20-003",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (20) - Ley 39/2015 (arts. 97 a 105)",
+"n": 3,
+"enunciado": "Las Administraciones Públicas podrán, para la ejecución de determinados actos, seguir el procedimiento previsto en las normas reguladoras del procedimiento de apremio, en caso de:",
+"opciones": [
+"Actos administrativos en cuya virtud hubiera de satisfacerse cantidad líquida.",
+"Actos cuya ejecución pueda el obligado encargar a otra persona.",
+"Actos en que procediendo la compulsión, la Administración no lo estimara conveniente.",
+"Actos personalísimos en que no proceda la compulsión directa sobre la persona del obligado."
+]
+},
+{
+"id": "au-20-004",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (20) - Ley 39/2015 (arts. 97 a 105)",
+"n": 4,
+"enunciado": "Cuando se trate de actos que por no ser personalísimos puedan ser realizados por sujeto distinto del obligado habrá lugar a:",
+"opciones": [
+"Compulsión sobre las personas.",
+"Ejecución subsidiaria.",
+"Apremio sobre el patrimonio.",
+"Multa coactiva."
+]
+},
+{
+"id": "au-20-005",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (20) - Ley 39/2015 (arts. 97 a 105)",
+"n": 5,
+"enunciado": "La ejecución forzosa por las Administraciones Públicas se efectuará, respetando siempre el principio de:",
+"opciones": [
+"Celeridad.",
+"Proporcionalidad.",
+"Simplificación.",
+"Eficacia."
+]
+},
+{
+"id": "au-20-006",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (20) - Ley 39/2015 (arts. 97 a 105)",
+"n": 6,
+"enunciado": "Según el artículo 104 de la Ley 39/2015, los actos que impongan una obligación personalísima de no hacer o soportar:",
+"opciones": [
+"No podrán ser ejecutados por compulsión directa sobre las personas.",
+"Podrán ser ejecutados por compulsión directa sobre las personas en los casos en que la ley lo autorice.",
+"Obligarán a resarcir los daños y perjuicios, a cuya liquidación y cobro se procederá por vía administrativa.",
+"Deberán ejecutarse, en todo caso, mediante compulsión sobre las personas."
+]
+},
+{
+"id": "au-20-007",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (20) - Ley 39/2015 (arts. 97 a 105)",
+"n": 7,
+"enunciado": "Según la Ley 39/2015, habrá lugar a la ejecución subsidiaria cuando:",
+"opciones": [
+"Se trate de actos en que hubiera de satisfacerse cantidad líquida.",
+"Se trate de actos en que, procediendo la compulsión, la Administración la estimara conveniente.",
+"Tratándose de obligaciones personalísimas de hacer, no se realizase la prestación.",
+"Se trate de actos que por no ser personalísimos puedan ser realizados por sujeto distinto del obligado."
+]
+},
+{
+"id": "au-20-008",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (20) - Ley 39/2015 (arts. 97 a 105)",
+"n": 8,
+"enunciado": "De acuerdo con la Ley 39/2015, ¿cuál de los siguientes constituye un medio que pueden utilizar las Administraciones Públicas para la ejecución forzosa de sus actos sujetos a derecho administrativo?",
+"opciones": [
+"La ejecución directa.",
+"El apremio sobre las personas.",
+"La multa coercitiva.",
+"La multa pecuniaria."
+]
+},
+{
+"id": "au-20-009",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (20) - Ley 39/2015 (arts. 97 a 105)",
+"n": 9,
+"enunciado": "De conformidad con el artículo 100 de la Ley 39/2015, si fueran varios los medios de ejecución forzosa admisibles, se elegirá:",
+"opciones": [
+"El propuesto por el interesado.",
+"El apremio sobre el patrimonio.",
+"El menos oneroso para el interesado.",
+"El menos restrictivo de la libertad individual."
+]
+},
+{
+"id": "au-20-010",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (20) - Ley 39/2015 (arts. 97 a 105)",
+"n": 10,
+"enunciado": "En lo que atañe a la ejecución subsidiaria, recogida en la Ley 39/2015, señale la opción incorrecta:",
+"opciones": [
+"Las Administraciones Públicas realizarán el acto, por sí o a través de las personas que determinen, a costa del obligado.",
+"El importe de los gastos no podrá liquidarse de forma provisional.",
+"El importe de gastos se exigirá al obligado.",
+"Habrá lugar a la ejecución subsidiaria cuando se trate de actos que no sean personalísimos."
+]
+},
+{
+"id": "au-20-011",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (20) - Ley 39/2015 (arts. 97 a 105)",
+"n": 11,
+"enunciado": "Según la Ley 39/2015, ¿pueden las Administraciones Públicas entrar en el domicilio del afectado al objeto de proceder a la ejecución forzosa?",
+"opciones": [
+"Únicamente si obtiene el consentimiento del interesado.",
+"No, salvo que se tratara de obligaciones personalísimas de no hacer o soportar.",
+"Sí, debiendo obtener el consentimiento del mismo o, en su defecto, la oportuna autorización judicial.",
+"Sí, en virtud de resolución administrativa motivada."
+]
+},
+{
+"id": "au-20-012",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (20) - Ley 39/2015 (arts. 97 a 105)",
+"n": 12,
+"enunciado": "Señale la respuesta incorrecta. De acuerdo con el artículo 98 de la Ley 39/2015, los actos de las Administraciones Públicas sujetos al Derecho Administrativo serán inmediatamente ejecutivos, salvo que:",
+"opciones": [
+"Se trate de una resolución sancionadora contra la que quepa recurso en vía administrativa, salvo el potestativo de reposición.",
+"Una disposición establezca lo contrario.",
+"Se necesite aprobación o autorización superior.",
+"Se produzca la suspensión de la ejecución del acto."
+]
+},
+{
+"id": "au-20-013",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (20) - Ley 39/2015 (arts. 97 a 105)",
+"n": 13,
+"enunciado": "La Administración Pública podrá imponer multas coercitivas como medio de ejecución forzosa. ¿Pueden reiterarse las mismas?",
+"opciones": [
+"Sí, por lapsos de tiempo no inferiores a 1 mes.",
+"No, salvo excepciones.",
+"Sí, por lapsos de tiempo que sean suficientes para cumplir lo ordenado.",
+"Sí, por lapsos de tiempo no inferiores a 15 días."
+]
+},
+{
+"id": "au-20-014",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (20) - Ley 39/2015 (arts. 97 a 105)",
+"n": 14,
+"enunciado": "Según el artículo 103 de la Ley 39/2015, la multa coercitiva:",
+"opciones": [
+"Es independiente de las sanciones que puedan imponerse, pero incompatible con ellas.",
+"Es incompatible con otras sanciones que puedan imponerse.",
+"Es alternativa a otras sanciones que pudieran imponerse.",
+"Es independiente de las sanciones que puedan imponerse y compatible con ellas."
+]
+},
+{
+"id": "au-20-015",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (20) - Ley 39/2015 (arts. 97 a 105)",
+"n": 15,
+"enunciado": "De acuerdo con el artículo 103 de la Ley del Procedimiento Administrativo Común de las Administraciones Públicas, referido a la multa coercitiva, señale la afirmación correcta:",
+"opciones": [
+"Se puede utilizar cuando así lo autoricen las leyes y los reglamentos en la forma y la cuantía que determinen.",
+"Nunca se puede utilizar cuando proceda la compulsión sobre las personas.",
+"La multa coercitiva es dependiente de las sanciones que puedan imponerse con tal carácter e incompatible con ellas.",
+"Se puede utilizar para actos cuya ejecución pueda el obligado encargar a otra persona."
+]
+},
+{
+"id": "au-20-016",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (20) - Ley 39/2015 (arts. 97 a 105)",
+"n": 16,
+"enunciado": "Cuando de una resolución administrativa nace una obligación de pago derivada de una sanción pecuniaria que haya de abonarse a la Hacienda pública, NO constituye medio electrónico de pago de utilización preferente:",
+"opciones": [
+"Tarjeta de crédito y débito.",
+"Transferencia bancaria.",
+"Domiciliación bancaria.",
+"Cheque bancario."
+]
+},
+{
+"id": "au-20-017",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (20) - Ley 39/2015 (arts. 97 a 105)",
+"n": 17,
+"enunciado": "Conforme a la Ley 39/2015, el órgano que ordene un acto de ejecución material de resoluciones estará obligado a:",
+"opciones": [
+"Solicitar dictamen del Consejo de Estado.",
+"Notificar al particular interesado la resolución que autorice la actuación administrativa.",
+"Solicitar, con carácter previo, la autorización del órgano que dictó la resolución objeto de ejecución.",
+"Solicitar ratificación judicial."
+]
+},
+{
+"id": "au-20-018",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (20) - Ley 39/2015 (arts. 97 a 105)",
+"n": 18,
+"enunciado": "Según el artículo 100 de la Ley 39/2015, son medios de ejecución forzosa:",
+"opciones": [
+"Apremio sobre el patrimonio, ejecución subsidiaria, multa coactiva y compulsión sobre las personas.",
+"Apremio sobre el patrimonio, ejecución subsidiaria, multa coercitiva y compulsión sobre las personas.",
+"Apremio sobre el patrimonio, ejecución subsidiaria, multa coercitiva y privación de libertad.",
+"Apremio sobre el patrimonio, ejecución subsidiaria, multa coercitiva y responsabilidad patrimonial."
+]
+},
+{
+"id": "au-20-019",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (20) - Ley 39/2015 (arts. 97 a 105)",
+"n": 19,
+"enunciado": "Según el artículo 105 de la Ley 39/2015, las acciones posesorias contra actuaciones de órganos administrativos realizadas en materia de su competencia y de acuerdo con el procedimiento legalmente establecido:",
+"opciones": [
+"Deberán ser resueltas en el plazo improrrogable de 10 días.",
+"No se admitirán a trámite.",
+"Deberán ser resueltas en el plazo improrrogable de 3 días.",
+"Deberán ser resueltas en el plazo improrrogable de 5 días."
+]
+},
+{
+"id": "au-20-020",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (20) - Ley 39/2015 (arts. 97 a 105)",
+"n": 20,
+"enunciado": "Indique en cuál de los siguientes supuestos no cabría recurrir a la multa coercitiva como medio de ejecución forzosa:",
+"opciones": [
+"Actos en que, procediendo la compulsión, la Administración no la estimara conveniente.",
+"Actos cuya ejecución pueda el obligado encargar a otra persona.",
+"Actos personalísimos en que no proceda la compulsión directa sobre la persona del obligado.",
+"Acto administrativos en cuya virtud hubiera de satisfacerse cantidad líquida."
+]
+}
+]
+}

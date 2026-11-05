@@ -1,0 +1,505 @@
+{
+"pr-34-001": {
+ "bloque": "recursos",
+ "precepto": "Art. 114.1.e) de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. El **art. 114.1.e)** dice que la resolución de los procedimientos de responsabilidad patrimonial pone fin a la vía administrativa, sea cual sea su origen. Y contra lo que pone fin a la vía cabe reposición, que es voluntaria (art. 123.1).",
+  "No. La alzada es solo para lo que **no** pone fin a la vía administrativa (art. 121.1), y esta resolución sí la pone.",
+  "No. Sí cabe recurso administrativo: aunque esta resolución agota la vía, el interesado puede pedir reposición antes de ir al juzgado (art. 123.1)."
+ ],
+ "ojo": "Da igual que el procedimiento se iniciara de oficio o a solicitud: la responsabilidad patrimonial siempre pone fin a la vía."
+},
+"pr-34-002": {
+ "bloque": "recursos",
+ "precepto": "Art. 114.2.c) de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. Una sanción a un funcionario es materia de personal. Según el **art. 114.2.c)**, en personal ponen fin a la vía los órganos directivos con nivel de Director general o superior, y el Subsecretario lo es. Por eso cabe reposición (art. 123.1).",
+  "No. La alzada cabría si el acto no pusiera fin a la vía (art. 121.1). Aquí sí la pone, porque es materia de personal y la dicta un órgano de nivel superior a Director general.",
+  "No. Agotar la vía no significa que no haya recurso: queda la reposición, voluntaria, antes del contencioso (art. 123.1)."
+ ],
+ "ojo": "Un Subsecretario, en general, se recurre en alzada ante el Ministro. La excepción es la materia de personal."
+},
+"pr-34-003": {
+ "bloque": "actividad",
+ "precepto": "Art. 23.2 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. Te lo prohíbe el art. 23.2: el acuerdo de ampliación del plazo para resolver no admite “recurso alguno”, tampoco reposición.",
+  "No. Un Director general suele recurrirse en alzada, pero aquí una norma especial lo impide: el art. 23.2 excluye cualquier recurso.",
+  "Es esta. El **art. 23.2** dice que contra el acuerdo que resuelve sobre la ampliación de plazos “no cabrá recurso alguno”. Eso sí, ese acuerdo debe notificarse a los interesados."
+ ]
+},
+"pr-34-004": {
+ "bloque": "recursos",
+ "precepto": "Art. 124.3 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. El **art. 124.3** lo descarta: contra la resolución de una reposición no puedes volver a interponer reposición.",
+  "No. Una Ministra no tiene superior a quien recurrir en alzada, y sus actos ponen fin a la vía (art. 114.2.a y b).",
+  "Es esta. Contra la resolución de una reposición no puede interponerse otra (**art. 124.3**) y la alzada tampoco encaja, porque lo dictado por una Ministra pone fin a la vía. Lo que queda es ir al juzgado contencioso-administrativo."
+ ],
+ "ojo": "El recurso extraordinario de revisión sigue siendo posible si se da alguna causa del art. 125.1, pero aquí el enunciado no plantea ninguna."
+},
+"pr-34-005": {
+ "bloque": "recursos",
+ "precepto": "Arts. 114.2 y 121.1 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. La reposición es para lo que pone fin a la vía (art. 123.1). Un Director general solo la pone fin, en el ámbito estatal, en materia de personal (art. 114.2.c), y colocar carteles junto a una carretera no lo es.",
+  "Es esta. El Director general tiene superior jerárquico y esta materia no es de personal, así que no pone fin a la vía. Por eso se recurre en alzada ante su superior (**art. 121.1**).",
+  "No. Es una resolución que deniega lo pedido, y contra las resoluciones siempre cabe recurso salvo que una norma lo excluya (art. 112.1). Aquí ninguna lo excluye."
+ ]
+},
+"pr-34-006": {
+ "bloque": "recursos",
+ "precepto": "Arts. 90.4 y 114.1.f) de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. El procedimiento complementario sirve para fijar la indemnización cuando la sanción no la concretó. Su resolución pone fin a la vía administrativa (**arts. 90.4 y 114.1.f**), así que cabe reposición aunque la dicte un Director general.",
+  "No. Es la trampa: como es un Director general, parece alzada. Pero aquí pone fin a la vía la clase de procedimiento, sea quien sea el órgano (art. 114.1.f).",
+  "No. Poner fin a la vía no deja sin recurso: cabe reposición, voluntaria, antes del contencioso (art. 123.1)."
+ ]
+},
+"pr-34-007": {
+ "bloque": "recursos",
+ "precepto": "Art. 114.2.b) de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. Lo que dictan los Ministros y los Secretarios de Estado en sus competencias pone fin a la vía administrativa (**art. 114.2.b**). Por eso cabe reposición ante el mismo Secretario de Estado.",
+  "No. El Secretario de Estado depende del Ministro, pero la alzada no cabe porque la ley hace que su acto ponga fin a la vía (art. 114.2.b).",
+  "No. Sí cabe recurso: la reposición, voluntaria, o ir directamente al contencioso (art. 123.1)."
+ ]
+},
+"pr-34-008": {
+ "bloque": "finalizacion",
+ "precepto": "Art. 96.3 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. El art. 96.3 excluye cualquier recurso contra esta desestimación, también la reposición.",
+  "No. Parece alzada porque un Subdirector no pone fin a la vía, pero el art. 96.3 dice que no existe “posibilidad de recurso”.",
+  "Es esta. Si el órgano cree que no procede la tramitación simplificada, puede desestimar la solicitud en cinco días “sin que exista posibilidad de recurso” (**art. 96.3**). Si pasan los cinco días sin respuesta, también se entiende desestimada."
+ ]
+},
+"pr-34-009": {
+ "bloque": "recursos",
+ "precepto": "Arts. 95.1 y 121.1 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. La reposición solo cabría si el acto pusiera fin a la vía (art. 123.1), y un Director general no la pone fin fuera de la materia de personal (art. 114.2.c).",
+  "Es esta. Contra la resolución que declara la caducidad caben “los recursos pertinentes” (**art. 95.1**). Como la dicta un Director general en materia que no es de personal, no agota la vía: toca alzada ante su superior (art. 121.1).",
+  "No. El art. 95.1 dice lo contrario: esta resolución sí se puede recurrir, porque cierra el procedimiento."
+ ]
+},
+"pr-34-010": {
+ "bloque": "recursos",
+ "precepto": "Art. 122.3 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. Resolver una alzada pone fin a la vía (art. 114.1.a), pero aquí la regla especial es el art. 122.3, que impide cualquier otro recurso administrativo, también la reposición.",
+  "No. No hay “segunda alzada”: el art. 122.3 solo permite una, aunque el Director general tenga un superior.",
+  "Es esta. Contra la resolución de una alzada no cabe “ningún otro recurso administrativo” (**art. 122.3**). Solo se salva el extraordinario de revisión, si hay alguna causa del art. 125.1, y aquí no se plantea."
+ ],
+ "ojo": "Tras la alzada no hay reposición ni otra alzada. El camino normal es el juzgado contencioso-administrativo."
+},
+"pr-35-001": {
+ "bloque": "recursos",
+ "precepto": "Arts. 114.2 y 121.1 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. La reposición es para lo que pone fin a la vía. Un Director general solo la pone fin en materia de personal (art. 114.2.c), y una sanción ambiental no lo es.",
+  "Es esta. Una sanción ambiental de un Director general no pone fin a la vía administrativa, porque no es materia de personal y él tiene superior jerárquico. Por tanto se recurre en alzada (**art. 121.1**).",
+  "No. El extraordinario de revisión es para actos ya firmes y con una causa del art. 125.1. Aquí no hay ni firmeza ni causa.",
+  "No. Es una resolución y ninguna norma excluye el recurso, así que cabe alzada (art. 112.1)."
+ ]
+},
+"pr-35-002": {
+ "bloque": "recursos",
+ "precepto": "Art. 114.1.e) de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. La resolución de responsabilidad patrimonial pone fin a la vía administrativa (**art. 114.1.e**), sea cual sea el importe. Por eso cabe reposición (art. 123.1).",
+  "No. La alzada exige que el acto no ponga fin a la vía (art. 121.1), y este sí la pone.",
+  "No. El enunciado no dice que el acto sea firme ni da ninguna causa del art. 125.1, que es lo que exige este recurso.",
+  "No. Cabe la reposición. Que la cantidad sea pequeña, 1.000 euros, no cierra ningún recurso: la ley no fija un mínimo."
+ ],
+ "ojo": "Los 1.000 euros son una distracción: el art. 114.1.e) no distingue por cuantía."
+},
+"pr-35-003": {
+ "bloque": "recursos",
+ "precepto": "Art. 114.2.c) de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. Una comisión de servicios es materia de personal. Allí, lo que dicta un órgano con nivel de Director general o superior, como el Subsecretario, pone fin a la vía (**art. 114.2.c**). Por eso cabe reposición.",
+  "No. El Subsecretario depende del Ministro, pero en personal su acto ya pone fin a la vía, así que la alzada no cabe.",
+  "No. No es un acto firme ni aparece ninguna causa del art. 125.1.",
+  "No. Se puede recurrir: reposición, voluntaria, o directamente el contencioso (art. 123.1)."
+ ]
+},
+"pr-35-004": {
+ "bloque": "revision",
+ "precepto": "Art. 107.2 de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "No. Parece reposición porque la firma un Secretario de Estado, pero el art. 107.2 excluye todo recurso contra la declaración de lesividad.",
+  "No. El art. 107.2 cierra también la alzada. Además, un Secretario de Estado pone fin a la vía (art. 114.2.b).",
+  "No. La lesividad no admite recurso, y además no se dan aquí las causas del art. 125.1.",
+  "Es esta. La declaración de lesividad “no será susceptible de recurso” (**art. 107.2**). Es solo el paso previo para que la Administración pida al juez que anule su propio acto favorable, y allí podrás defenderte."
+ ]
+},
+"pr-35-005": {
+ "bloque": "recursos",
+ "precepto": "Art. 125.1.b) de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. Una resolución firme ya no admite recursos ordinarios. Si fuera firme y hubiera causa, solo cabe el extraordinario (art. 113).",
+  "No. La alzada también es un recurso ordinario y no sirve contra actos firmes (art. 113).",
+  "Es esta. Contra actos firmes solo cabe el extraordinario de revisión, y documentos de valor esencial que evidencian el error son la causa del **art. 125.1.b)**. Da igual que sean posteriores a la resolución.",
+  "No. Sí cabe recurso: la firmeza no lo impide cuando concurre una causa del art. 125.1."
+ ],
+ "ojo": "Plazo para este motivo: tres meses desde que conoces los documentos (art. 125.2)."
+},
+"pr-35-006": {
+ "bloque": "recursos",
+ "precepto": "Arts. 95.1 y 114.2.b) de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. Lo que dicta un Ministro en sus competencias pone fin a la vía (**art. 114.2.a y b**). Una resolución de caducidad también se puede recurrir (art. 95.1), así que cabe reposición ante el propio Ministro.",
+  "No. El Ministro no tiene superior jerárquico al que dirigir una alzada y sus actos agotan la vía.",
+  "No. El enunciado no dice que el acto sea firme ni da una causa del art. 125.1.",
+  "No. La caducidad se puede recurrir, y además aquí queda la reposición antes del contencioso (art. 123.1)."
+ ]
+},
+"pr-35-007": {
+ "bloque": "iniciacion",
+ "precepto": "Art. 56.2 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. La reposición exige que el acto ponga fin a la vía, y un Director general solo la pone fin en materia de personal (art. 114.2.c).",
+  "Es esta. Si el acuerdo de iniciación confirma medidas provisionales, “podrá ser objeto del recurso que proceda” (**art. 56.2**). Como lo dicta el Director general de Pesca y no es materia de personal, corresponde alzada ante su superior (art. 121.1).",
+  "No. No es un acto firme ni se da una causa del art. 125.1.",
+  "No. Sería verdad para un acuerdo de iniciación corriente. Pero al confirmar medidas provisionales sí cabe recurso (art. 56.2), porque afecta al interesado desde ya."
+ ],
+ "ojo": "Palabra clave: “confirmando las medidas provisionales”. Sin esas medidas, un acuerdo de iniciación normal no se recurriría."
+},
+"pr-35-008": {
+ "bloque": "plazos",
+ "precepto": "Art. 32.3 y 4 de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "No. Aunque lo firme un Secretario de Estado, cuyos actos ponen fin a la vía, el art. 32.3 excluye el recurso contra los acuerdos sobre ampliación de plazos.",
+  "No. Tampoco cabe alzada, por el art. 32.3. Y un Secretario de Estado ya pone fin a la vía (art. 114.2.b), de modo que no encajaría en ningún caso.",
+  "No. No es un acto firme ni se da ninguna causa del art. 125.1, y es un acto excluido de recurso.",
+  "Es esta. El **art. 32.4** permite ampliar plazos no vencidos cuando una incidencia técnica impide el funcionamiento normal del sistema. Y los acuerdos sobre ampliación de plazos no son susceptibles de recurso (**art. 32.3**), sin perjuicio del que proceda contra la resolución final."
+ ],
+ "ojo": "Además de acordarla, la Administración debe publicar en la sede electrónica la incidencia y la ampliación concreta (art. 32.4)."
+},
+"pr-35-009": {
+ "bloque": "recursos",
+ "precepto": "Arts. 90.4 y 114.1.f) de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. La resolución del procedimiento complementario en materia sancionadora pone fin a la vía (**arts. 90.4 y 114.1.f**), sin importar qué órgano la dicte. Por eso cabe reposición.",
+  "No. Es la trampa de ver “Director General” y pensar en alzada. Aquí manda la clase de procedimiento.",
+  "No. Nada indica que el acto sea firme ni hay causa del art. 125.1.",
+  "No. Cabe la reposición, y también ir directamente al contencioso (art. 123.1)."
+ ]
+},
+"pr-35-010": {
+ "bloque": "recursos",
+ "precepto": "Arts. 114.2.c) y 121.1 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. En personal, solo ponen fin a la vía los órganos con nivel de Director general o superior (art. 114.2.c). El Subdirector general está por debajo, así que no cabe reposición.",
+  "Es esta. El **art. 114.2.c)** exige, en materia de personal, nivel de Director general o superior. El Subdirector no lo alcanza, así que su acto no agota la vía y se recurre en alzada ante su superior (art. 121.1).",
+  "No. No es un acto firme ni aparece ninguna causa del art. 125.1.",
+  "No. Es una resolución y ninguna norma excluye el recurso (art. 112.1)."
+ ],
+ "ojo": "Compárala con la del Subsecretario: la materia es la misma, pero cambia el nivel. Subsecretario, reposición. Subdirector, alzada."
+},
+"pr-36-001": {
+ "bloque": "plazos",
+ "precepto": "Arts. 30.4, 43.2 y 124.1 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. La fecha está bien, pero el recurso no: si la resolución pone fin a la vía, no cabe alzada (art. 121.1), sino reposición.",
+  "Es esta. La notificación electrónica se entiende hecha cuando accedes a su contenido (**art. 43.2**), el 28 de febrero. Como pone fin a la vía, cabe reposición, con un mes de plazo (**art. 124.1**). De fecha a fecha, acaba el 28 de marzo, que es martes y hábil (**art. 30.4**).",
+  "No. Falla el recurso y también el plazo: el 28 de mayo son tres meses, y ese plazo no es de ninguno de estos recursos. La alzada se interpone en un mes (art. 122.1).",
+  "No. Acierta el recurso, pero no el plazo. La reposición se interpone en un mes (art. 124.1), no en tres. Tres meses es lo que tiene la alzada para resolverse."
+ ]
+},
+"pr-36-002": {
+ "bloque": "plazos",
+ "precepto": "Arts. 122.2 y 30.5 de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "No. Un mes es el plazo para resolver la reposición (art. 124.2). Este recurso, contra un acto que no agota la vía, es una alzada, con tres meses.",
+  "No. Dos meses no es el plazo de ningún recurso de los que se resuelven aquí. La alzada tiene tres meses (art. 122.2).",
+  "No. Tres meses de fecha a fecha llevan al 3 de junio, pero en 2023 es sábado, inhábil. Pasa al siguiente día hábil (art. 30.5).",
+  "Es esta. Si la resolución no pone fin a la vía, el recurso es de alzada, y hay tres meses para resolverlo y notificarlo (**art. 122.2**). Desde el 3 de marzo llegamos al 3 de junio, sábado, y por el **art. 30.5** pasa al lunes 5 de junio."
+ ],
+ "ojo": "El plazo empieza a contar desde la entrada en el registro electrónico (art. 21.3.b). Siempre comprueba qué día de la semana cae el último día."
+},
+"pr-36-003": {
+ "bloque": "plazos",
+ "precepto": "Arts. 41.7, 43.4 y 124.1 de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. D. Luis fue notificado por dos cauces, y vale el primero (**art. 41.7**): el 3 de enero, cuando accedió desde el Punto de Acceso General (art. 43.4). Lo dicta un Ministro, así que cabe reposición, con un mes (art. 124.1). Acaba el 3 de febrero, viernes y hábil.",
+  "No. Toma como fecha el papel del 9 de enero. Si hay varios cauces, vale la primera notificación, y es la del 3 de enero (art. 41.7).",
+  "No. Parte bien del 3 de enero, pero aplica tres meses. El plazo de la reposición es de un mes (art. 124.1).",
+  "No. Dos errores: cuenta desde el 9 de enero (el 9 de abril es domingo, de ahí el día 10) y aplica tres meses."
+ ],
+ "ojo": "Da igual que D. Luis no esté obligado a usar medios electrónicos: accedió y eso cuenta como notificación."
+},
+"pr-36-004": {
+ "bloque": "plazos",
+ "precepto": "Arts. 114.1.f) y 124.2 de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. El procedimiento complementario sancionador pone fin a la vía (**art. 114.1.f**), así que el recurso es de reposición, y hay un mes para resolverlo (**art. 124.2**). Desde el 15 de febrero acaba el 15 de marzo, miércoles y hábil.",
+  "No. El 15 de mayo son tres meses, el plazo de la alzada (art. 122.2). Pero aquí, aunque resuelva una Dirección General, el recurso es de reposición.",
+  "No. Suma un día de más. Por meses se va de fecha a fecha, y el plazo acaba el día 15, no el 16 (art. 30.4).",
+  "No. Dos errores: usa el plazo de la alzada y suma un día de más."
+ ]
+},
+"pr-36-005": {
+ "bloque": "plazos",
+ "precepto": "Arts. 41.7, 122.1 y 30.5 de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "No. Cuenta desde el acceso del 8 de marzo, pero vale la primera notificación, la del 2 de marzo (art. 41.7). Además, el 8 de abril es sábado, así que ni siquiera acabaría ese día.",
+  "No. Dos errores: parte del 8 de marzo y no del 2 (art. 41.7), y el recurso no es de reposición, porque la resolución no agota la vía.",
+  "No. La fecha es buena, pero si la resolución no pone fin a la vía, procede alzada (art. 121.1), no reposición.",
+  "Es esta. Con dos notificaciones, vale la primera (**art. 41.7**), la del 2 de marzo. Como no agota la vía, cabe alzada, con un mes (**art. 122.1**). Acabaría el 2 de abril, domingo, y pasa al lunes 3 de abril (art. 30.5)."
+ ]
+},
+"pr-36-006": {
+ "bloque": "plazos",
+ "precepto": "Arts. 121.2 y 30.2 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. Cuenta 10 días seguidos, como si fueran naturales. Por defecto, los días son hábiles (art. 30.2).",
+  "No. Cuenta el propio 4 de abril como primer día. El plazo empieza al día siguiente (art. 30.3).",
+  "Es esta. El órgano tiene **diez días** para remitir el recurso (**art. 121.2**), y son hábiles (art. 30.2). Se cuentan desde el 5 de abril: 5 (1), saltamos los festivos 6 y 7 y el fin de semana, 10 (2), 11 (3), 12 (4), 13 (5), 14 (6), 17 (7), 18 (8), 19 (9) y 20 (10).",
+  "No. El 27 de abril serían 15 días hábiles. El plazo del art. 121.2 es de diez."
+ ],
+ "ojo": "Fíjate en el calendario: el 6 y 7 de abril son festivos, y el fin de semana del 8 y 9 también queda fuera."
+},
+"pr-36-007": {
+ "bloque": "plazos",
+ "precepto": "Arts. 122.2 y 30.4 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. Un mes es el plazo para resolver una reposición (art. 124.2). La alzada tiene tres meses (art. 122.2).",
+  "Es esta. El plazo para resolver y notificar la alzada es de tres meses (**art. 122.2**) y va de fecha a fecha (art. 30.4). Se cuenta desde el 4 de abril, día de la entrada del recurso, y acaba el 4 de julio, martes.",
+  "No. Falla por dos lados: toma el día de la remisión y aplica un mes. Ni el recurso es de reposición ni el plazo empieza a correr al remitirlo.",
+  "No. Es la trampa: cuenta desde el 20 de abril, cuando acaba el plazo para remitir el expediente. Pero aquí cuenta la entrada del recurso en el registro de la Administración (art. 21.3.b), el 4 de abril."
+ ],
+ "ojo": "El retraso del órgano al remitir el recurso no alarga el plazo que tienes tú para entenderlo desestimado."
+},
+"pr-36-008": {
+ "bloque": "recursos",
+ "precepto": "Art. 122.3 de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "No. No puede haber una segunda alzada contra la resolución de una alzada (art. 122.3).",
+  "No. La reposición tampoco cabe (art. 122.3), y además la fecha parte del día de la puesta a disposición, cuando lo que cuenta es el acceso (art. 43.2).",
+  "No. La fecha coincide con el acceso del 29 de junio, pero tras una alzada no cabe reposición (art. 122.3).",
+  "Es esta. Contra la resolución de una alzada no cabe “ningún otro recurso administrativo” (**art. 122.3**). Solo queda el extraordinario de revisión, si se da una causa del art. 125.1, pero ese no es ordinario. D.ª Mar tendría que ir al contencioso."
+ ],
+ "ojo": "Las fechas sobran: lo que decide esta pregunta es que ya hubo una alzada."
+},
+"pr-36-009": {
+ "bloque": "plazos",
+ "precepto": "Arts. 43.2, 122.1 y 30.4 de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "No. Cuenta desde que se dictó la resolución. Un acto no se recurre desde su fecha, sino desde que se notifica (art. 122.1 y art. 30.4).",
+  "No. Cuenta desde la puesta a disposición, el 5 de abril. La notificación se entiende hecha con el acceso (art. 43.2).",
+  "No. La fecha es buena, pero si no pone fin a la vía procede alzada (art. 121.1), no reposición.",
+  "Es esta. La notificación electrónica se practica cuando accedes a ella (**art. 43.2**): el 11 de abril, antes de pasar los diez días naturales para el rechazo. Como no agota la vía, procede alzada, con un mes (**art. 122.1**). Acaba el 11 de mayo, jueves y hábil."
+ ],
+ "ojo": "Tres fechas distintas: dictada, puesta a disposición y acceso. Solo cuenta el acceso."
+},
+"pr-36-010": {
+ "bloque": "plazos",
+ "precepto": "Art. 125.1.c) y 2 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. La reposición se interpone en un mes desde la notificación (art. 124.1), y esa notificación es de hace más de cuatro años. Tampoco es la vía para actos firmes.",
+  "No. El recurso es el correcto, pero el plazo no: en este motivo son tres meses, no uno (art. 125.2).",
+  "Es esta. Un testimonio declarado falso por sentencia firme es la causa del **art. 125.1.c)**. El plazo es de tres meses desde que la sentencia quedó firme (**art. 125.2**), no desde la notificación. Desde el 14 de enero acaba el 14 de abril, viernes y hábil.",
+  "No. Es la trampa de los cuatro años: ese límite solo vale para la causa a), el error de hecho. Para la falsedad cuentan tres meses desde la sentencia firme, y aún estaría en plazo."
+ ]
+},
+"pr-37-001": {
+ "bloque": "plazos",
+ "precepto": "Arts. 33.1 y 122.1 de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. Como no agota la vía, procede alzada, con un mes (**art. 122.1**). La urgencia reduce los plazos a la mitad, pero no los de solicitudes y recursos (**art. 33.1**). Por eso sigue siendo un mes.",
+  "No. El plazo es bueno, pero la reposición es para lo que pone fin a la vía (art. 123.1), y este acto no la pone.",
+  "No. Es la trampa de reducir a la mitad. El art. 33.1 excluye de la reducción los plazos de los recursos.",
+  "No. Dos errores: procede alzada, no reposición, y el plazo no se reduce (art. 33.1)."
+ ]
+},
+"pr-37-002": {
+ "bloque": "iniciacion",
+ "precepto": "Art. 57 de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "No. Aunque el director general tenga superior jerárquico, el art. 57 excluye todo recurso contra el acuerdo de acumulación.",
+  "No. El art. 57 cierra también la reposición. Además, este director general no pondría fin a la vía en esta materia.",
+  "No. Este recurso exige acto firme y una causa del art. 125.1, y aquí no hay ninguna.",
+  "Es esta. El **art. 57** es claro: “contra el acuerdo de acumulación no procederá recurso alguno”. Si crees que perjudica, podrás alegarlo al recurrir la resolución final."
+ ]
+},
+"pr-37-003": {
+ "bloque": "recursos",
+ "precepto": "Arts. 112.1 y 114.2.c) de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. Es la vía normal contra un subsecretario, pero en personal su acto ya agota la vía (art. 114.2.c), así que no cabe alzada.",
+  "Es esta. Excluir a un participante le impide seguir, así que es un trámite recurrible (art. 112.1). Y en materia de personal, lo que dicta un órgano con nivel de Director general o superior pone fin a la vía (**art. 114.2.c**). Por eso cabe reposición ante el subsecretario.",
+  "No. No es un acto firme ni se da una causa del art. 125.1. Además, este recurso se interpone ante el órgano que dictó el acto, no ante el ministro (art. 125.1).",
+  "No. La exclusión impide continuar en el procedimiento, y esos trámites sí se pueden recurrir (art. 112.1)."
+ ]
+},
+"pr-37-004": {
+ "bloque": "recursos",
+ "precepto": "Arts. 47.2 y 112.3 de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "No. Dos errores. Regular una materia reservada a la ley es nulidad, no anulabilidad (art. 47.2), y contra una disposición general no cabe recurso administrativo (art. 112.3).",
+  "No. Dos errores: es nulidad (art. 47.2) y no cabe recurso administrativo contra la disposición (art. 112.3).",
+  "No. Acierta la nulidad (art. 47.2), pero falla el recurso: contra una disposición de carácter general no cabe reposición (art. 112.3).",
+  "Es esta. Las disposiciones que regulan materias reservadas a la ley son nulas de pleno derecho (**art. 47.2**). Y contra las disposiciones generales “no cabrá recurso en vía administrativa” (**art. 112.3**). Para atacarla directamente, hay que ir al contencioso."
+ ]
+},
+"pr-37-005": {
+ "bloque": "recursos",
+ "precepto": "Art. 112.3 de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. La reposición se interpone ante quien dictó el acto, el secretario de Estado. Pero si se funda únicamente en la nulidad del reglamento, “podrá” interponerse directamente ante quien lo dictó (**art. 112.3**), el Consejo de Ministros. El interesado puede elegir.",
+  "No. “Exclusivamente” lo estropea. El art. 112.3 abre también la vía directa ante el órgano que dictó el reglamento.",
+  "No. La vía directa es ante el órgano que dictó el reglamento, el Consejo de Ministros, no ante el ministro.",
+  "No. “Exclusivamente” también falla aquí. El art. 112.3 dice “podrán”, así que es una posibilidad, no una obligación."
+ ]
+},
+"pr-37-006": {
+ "bloque": "recursos",
+ "precepto": "Arts. 113 y 125.1 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. La alzada es un recurso ordinario para actos que no agotan la vía, y solo dentro de plazo (art. 121.1 y 122.1).",
+  "No. La reposición también es ordinaria y exige un acto que agote la vía, no uno firme fuera de plazo (arts. 123 y 124).",
+  "Es esta. Contra los actos firmes solo procede el recurso extraordinario de revisión (**art. 113**), si se da alguna de las causas del **art. 125.1**.",
+  "No. Es justo la excepción que recoge el art. 113: un acto firme sí admite el extraordinario si concurre una de esas causas."
+ ]
+},
+"pr-37-007": {
+ "bloque": "recursos",
+ "precepto": "Art. 116.e) de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. El art. 116.a) habla de competente de **otra** Administración Pública, no de la misma. Te han cambiado esa palabra.",
+  "No. Esa causa pertenece al extraordinario de revisión (art. 126.1), no a la lista del art. 116.",
+  "Es esta. Carecer el recurso manifiestamente de fundamento es una causa de inadmisión del **art. 116.e)**. Las otras son incompetencia a favor de otra Administración, falta de legitimación, acto no recurrible y plazo vencido.",
+  "No. El art. 115.2 dice lo contrario: el error al calificar el recurso no impide tramitarlo si se deduce su verdadero carácter."
+ ]
+},
+"pr-37-008": {
+ "bloque": "recursos",
+ "precepto": "Art. 117.5 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. No tiene por qué ser el BOE. La publicación va en el mismo periódico oficial donde se insertó el acto (art. 117.5), que puede ser otro.",
+  "Es esta. Según el **art. 117.5**, la suspensión de un acto que afecta a una pluralidad indeterminada de personas “habrá de ser publicada en el periódico oficial en que aquél se insertó”. Así, quien vio el acto puede ver la suspensión en el mismo sitio.",
+  "No. Si las personas afectadas son indeterminadas, no se las puede notificar una a una. Por eso se publica (art. 117.5).",
+  "No. El art. 117.5 no habla de sede electrónica ni de tablón, sino del periódico oficial donde se insertó el acto."
+ ]
+},
+"pr-37-009": {
+ "bloque": "recursos",
+ "precepto": "Art. 118.1 de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "No. Diez días es solo el mínimo. El art. 118.1 da una horquilla, no un plazo fijo.",
+  "No. Quince días es solo el máximo de la horquilla (art. 118.1).",
+  "No. Te cambian el plazo. El art. 118.1 fija de diez a quince días, no “no inferior a veinte”.",
+  "Es esta. Cuando aparecen hechos o documentos nuevos, se dan a los interesados “un plazo no inferior a diez días ni superior a quince” (**art. 118.1**). Vale también para que aleguen otros interesados (art. 118.2)."
+ ]
+},
+"pr-37-010": {
+ "bloque": "recursos",
+ "precepto": "Art. 121.1 de la Ley 39/2015 y art. 25.1 de la Ley 29/1998",
+ "correcta": 1,
+ "justificaciones": [
+  "No. La reposición es para lo que ya pone fin a la vía (art. 123.1). Esta resolución no la pone.",
+  "Es esta. Al juzgado solo se puede ir contra lo que pone fin a la vía administrativa (**art. 25.1 de la Ley 29/1998**). Por eso hay que recurrir antes en alzada (**art. 121.1**) y esperar a la resolución o a la desestimación por silencio (art. 122.2).",
+  "No. Dejar pasar el plazo sería lo peor: la resolución sería firme “a todos los efectos” (art. 122.1) y se cerraría también el camino al juzgado.",
+  "No. Solo se puede ir directamente al contencioso contra lo que agota la vía (art. 123.1). Aquí no es el caso."
+ ]
+},
+"pr-37-011": {
+ "bloque": "recursos",
+ "precepto": "Art. 122.1 de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "No. Le correspondía alzada, pero el plazo de un mes acabó el 1 de octubre de 2026 (art. 122.1). El 20 de octubre llega tarde.",
+  "No. La reposición no cabe contra un acto que no agota la vía (art. 123.1), y además también habría pasado el mes.",
+  "No. El contencioso exige acto que ponga fin a la vía (art. 25.1 de la Ley 29/1998). Prudencio no hizo la alzada y ya no hay nada que llevar al juzgado.",
+  "Es esta. Tenía un mes para la alzada, hasta el 1 de octubre de 2026, y no recurrió. Por eso la resolución es “firme a todos los efectos” (**art. 122.1**), y ni alzada ni reposición ni contencioso caben ya."
+ ],
+ "ojo": "Compárala con la siguiente: las fechas son iguales, pero aquí no pone fin a la vía. Solo queda el extraordinario de revisión si se da alguna causa del art. 125.1, y no está entre las opciones."
+},
+"pr-37-012": {
+ "bloque": "recursos",
+ "precepto": "Art. 124.1 de la Ley 39/2015 y art. 46.1 de la Ley 29/1998",
+ "correcta": 2,
+ "justificaciones": [
+  "No. La alzada es para lo que no pone fin a la vía (art. 121.1), y esta resolución sí la pone.",
+  "No. Le correspondía, pero el mes acabó el 1 de octubre de 2026 (art. 124.1). El 20 de octubre ya es tarde.",
+  "Es esta. Pasado el mes de la reposición, “únicamente podrá interponerse recurso contencioso-administrativo” (**art. 124.1**). Hay dos meses desde la notificación (**art. 46.1 de la Ley 29/1998**), así que el 20 de octubre de 2026 aún está en plazo.",
+  "No. Solo ha pasado el plazo de la reposición. Aún quedan los dos meses del contencioso, y eso es lo que le sirve aquí."
+ ],
+ "ojo": "No tiene firmeza “a todos los efectos” porque el plazo del contencioso, dos meses, sigue abierto."
+},
+"pr-37-013": {
+ "bloque": "recursos",
+ "precepto": "Art. 125.1 de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Esta es la falsa, y por eso es la que hay que marcar. El **art. 125.1.a)** habla de error **de hecho**, no de derecho. Te han cambiado esa palabra, y esa es la diferencia: un error de hecho se ve en los papeles del expediente.",
+  "Es verdadera, así que no se marca. Es la causa b) del art. 125.1.",
+  "Es verdadera, así que no se marca. Es la causa c) del art. 125.1.",
+  "Es verdadera, así que no se marca. Es la causa d) del art. 125.1, que incluye prevaricación, cohecho, violencia o maquinación fraudulenta."
+ ],
+ "ojo": "Si te preguntan por la revisión: error “de hecho”, no “de derecho”."
+},
+"pr-37-014": {
+ "bloque": "recursos",
+ "precepto": "Art. 126.1 de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Esta es la falsa, y por eso es la que hay que marcar. El **art. 126.1** dice lo contrario: se puede inadmitir a trámite “sin necesidad de recabar dictamen” del Consejo de Estado u órgano consultivo, si no se funda en una causa del art. 125.1 o si ya se desestimaron en el fondo otros iguales.",
+  "Es verdadera, así que no se marca. El art. 125.1 dice que se interpone ante el órgano que dictó el acto.",
+  "Es verdadera, así que no se marca. El art. 125.1 añade que ese mismo órgano es competente para resolverlo.",
+  "Es verdadera, así que no se marca. El art. 125.3 mantiene el derecho a pedir la revisión de oficio de actos nulos (art. 106) y la rectificación de errores (art. 109.2)."
+ ]
+},
+"pr-37-015": {
+ "bloque": "recursos",
+ "precepto": "Art. 126.3 de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "No. Falla el plazo y el efecto: son tres meses, no uno, y el silencio desestima.",
+  "No. El plazo es bueno, pero el efecto no: el silencio aquí es desestimatorio, no estimatorio (art. 126.3).",
+  "No. El sentido es bueno, pero el plazo no. Un mes es el de la reposición (art. 124.2).",
+  "Es esta. Pasados **tres meses** desde que se interpone sin resolución, el recurso se entiende **desestimado** y queda abierta la vía contencioso-administrativa (**art. 126.3**)."
+ ]
+}
+}

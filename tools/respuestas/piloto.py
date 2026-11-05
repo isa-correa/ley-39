@@ -1,0 +1,317 @@
+# Piloto: respuestas razonadas con los apuntes y el texto consolidado del BOE.
+import json
+R = {}
+def q(id, bloque, precepto, correcta, justs, ojo=None):
+    R[id] = {"bloque": bloque, "precepto": precepto, "correcta": "abcd".index(correcta), "justificaciones": justs}
+    if ojo: R[id]["ojo"] = ojo
+
+# ---------- FUENTES DEL DERECHO ----------
+q("vo-01-001","fuentes","Art. 1.3 del Código Civil","a",[
+ "Es esta. Un uso jurídico es una práctica que la gente sigue porque cree que obliga, y el **art. 1.3 del Código Civil** dice que, si no se limita a interpretar lo que alguien ha querido decir, cuenta como **costumbre**.",
+ "No. Los principios generales son las ideas de fondo del ordenamiento (buena fe, igualdad). Son la tercera fuente y no tienen nada que ver con los usos.",
+ "No. Un uso nace de la práctica de la gente. Una ley la aprueban las Cortes Generales o un parlamento autonómico.",
+ "No. Justo al contrario: al tener la consideración de costumbre, sí es fuente del Derecho. Los que se quedan fuera son los usos meramente interpretativos."])
+q("vo-01-002","fuentes","Art. 1.2 del Código Civil","a",[
+ "Esta es la falsa, y por eso es la que hay que marcar. El **art. 1.2 del Código Civil** dice que carecen de validez las disposiciones que contradigan otra de **rango superior**, no del mismo rango. Entre normas del mismo rango no se anulan: la posterior deroga a la anterior.",
+ "Es verdadera, así que no se marca. Es el art. 1.3 CC: la costumbre va detrás de la ley y además tiene que ser conforme a la moral y al orden público, y probarse.",
+ "Es verdadera, así que no se marca. Es el art. 1.4 CC: los principios se aplican si no hay ley ni costumbre, y además “informan” todo el ordenamiento.",
+ "Es verdadera, así que no se marca. Es el párrafo segundo del art. 1.3 CC."],
+ "Lee bien el enunciado: pide la que “no es correcta”. Te han cambiado “rango superior” por “mismo rango”, y eso es lo único que falla.")
+q("vo-01-003","fuentes","Art. 1.4 del Código Civil","c",[
+ "No. Es al revés: los usos que se limitan a interpretar una declaración de voluntad son los que **no** cuentan como costumbre (art. 1.3 CC).",
+ "No. Mezcla dos cosas. Lo de “no ser contrarios a la moral o al orden público” es un requisito de la costumbre, y los principios se aplican si no hay ley **ni costumbre**, no solo si no hay ley.",
+ "Es esta. El **art. 1.4 CC** dice que los principios generales se aplican en defecto de ley o costumbre, “sin perjuicio de su carácter informador del ordenamiento jurídico”. Es decir, están siempre de fondo, orientando cómo se entienden las demás normas.",
+ "No. La doctrina que complementa el ordenamiento es la del **Tribunal Supremo**, no la del Tribunal Constitucional (art. 1.6 CC). Además, la jurisprudencia no es fuente del Derecho: solo complementa."])
+q("vo-01-004","fuentes","Arts. 82, 85 y 86 de la Constitución; art. 134 CE","d",[
+ "Es verdadero que tiene rango de ley: el decreto legislativo lo dicta el Gobierno porque las Cortes le han delegado esa tarea (arts. 82 y 85 CE).",
+ "Es verdadero que tiene rango de ley: la aprueban las Cortes Generales, aunque tenga un procedimiento especial (art. 134 CE).",
+ "Es verdadero que tiene rango de ley: lo dicta el Gobierno en casos de extraordinaria y urgente necesidad, y luego lo convalida el Congreso (art. 86 CE).",
+ "Esta es la falsa, y por eso se marca. Una sentencia del Tribunal Constitucional **no es una norma**: no crea una ley, sino que expulsa del ordenamiento la que es inconstitucional."],
+ "Piénsalo como un árbitro: el Tribunal Constitucional puede anular una jugada, pero no escribe el reglamento.")
+q("vo-01-005","fuentes","Art. 9.3 CE; art. 1.2 del Código Civil; art. 81 CE","c",[
+ "No. Entre una norma estatal y una autonómica no manda el rango, sino la **competencia**: cada una vale en su materia.",
+ "No. Es justo al revés. Si chocan, gana la superior. La norma inferior que contradiga a la superior no es válida (art. 1.2 CC).",
+ "Es esta. Ley orgánica y ley ordinaria tienen **el mismo rango**: su diferencia es de materia y de mayoría, no de jerarquía (art. 81 CE). Cada una tiene su terreno, así que no se aplica entre ellas el principio de jerarquía.",
+ "No. También está al revés. El reglamento es el que se subordina a la ley, nunca la ley al reglamento."])
+q("vo-01-006","fuentes","Arts. 53.1 y 81 CE","d",[
+ "No. Eso describe la **jerarquía** o la superioridad de la ley, que es otra idea distinta.",
+ "No. Eso se parece a la obligación de cumplir las normas (art. 9.1 CE), pero no es la reserva de ley.",
+ "No. Eso es el control de constitucionalidad, que corresponde al Tribunal Constitucional. No dice qué materias tiene que regular una ley.",
+ "Es esta. La reserva de ley significa que la Constitución “guarda” ciertas materias para que solo las regule una **norma con rango de ley**. Por ejemplo, los derechos y libertades (art. 53.1 CE). Un reglamento no puede entrar a regularlas por su cuenta."])
+q("vo-01-007","fuentes","Art. 1.1 del Código Civil","b",[
+ "Sí es fuente: el art. 1.1 CC la cita junto a la ley y los principios generales.",
+ "Es esta. Las fuentes crean normas que valen para todos. Un **acto administrativo**, en cambio, aplica las normas a un caso concreto, como una multa o una licencia. No forma parte del ordenamiento, sino que se somete a él.",
+ "Sí es fuente: es una ley, y la ley es la primera de las fuentes del art. 1.1 CC.",
+ "Sí es fuente: es la tercera del art. 1.1 CC."],
+ "Una multa no es una norma: es lo que te pasa a ti por incumplir una norma.")
+
+# ---------- INTERESADOS (arts. 1 a 12) ----------
+q("of-01-001","interesados","Art. 1.2 de la Ley 39/2015","d",[
+ "No. Sí se pueden añadir trámites, pero solo por el camino que marca el art. 1.2.",
+ "No. Un real decreto es un reglamento, y la ley no se lo permite. Por reglamento solo se pueden fijar especialidades concretas: órganos competentes, plazos propios, formas de iniciación y terminación, publicación e informes.",
+ "No. Una orden ministerial también es un reglamento, y además de rango inferior al real decreto.",
+ "Es esta. El **art. 1.2** dice “solo mediante ley”. Y además tiene que ser eficaz, proporcionado y necesario, y estar motivado. Así se evita que cada Administración se invente trámites a su medida."],
+ "Trámites nuevos, solo por ley. Por reglamento, solo especialidades.")
+q("of-01-002","interesados","Art. 3.b) de la Ley 39/2015","b",[
+ "No. Es justo la excepción: el menor incapacitado **no** tiene capacidad cuando la incapacitación afecta a ese derecho (art. 3.b).",
+ "Es esta. El **art. 3.b)** se la reconoce a los menores para aquellos derechos que puedan ejercer **sin** la asistencia de quien ejerza la patria potestad, tutela o curatela. Por ejemplo, una persona de 16 años que puede pedir ciertas cosas por sí misma.",
+ "No. Es lo contrario: la clave es justamente que puedan actuar sin esa asistencia.",
+ "No. La palabra “solo” lo estropea. Además de quienes la tienen según las normas civiles (art. 3.a), están los menores (3.b) y, si una ley lo dice, los grupos de afectados y otras entidades (3.c)."])
+q("of-01-003","interesados","Art. 5 de la Ley 39/2015","d",[
+ "No. La idea es buena, pero el plazo no: son **diez días**, no cinco, y pueden ser más si el caso lo pide (art. 5.6).",
+ "No. Te han colado los actos de mero trámite. Para esos, la representación **se presume**. Lo demás de la lista sí hay que acreditarlo (art. 5.3).",
+ "No. Vale **cualquier medio válido en Derecho** que deje constancia fidedigna, como el apoderamiento apud acta o el registro electrónico de apoderamientos (art. 5.4). No hace falta notario ni juez.",
+ "Es esta, y es casi literal del **art. 5.7**. Piensa en una gestoría autorizada para hacer ciertos trámites electrónicos en nombre de sus clientes."])
+q("of-01-004","interesados","Art. 3.c) de la Ley 39/2015","d",[
+ "No. Sí pueden tenerla, siempre que se cumpla la condición que marca el art. 3.c).",
+ "No. “Disposición de carácter general” puede ser un simple reglamento, y eso no basta.",
+ "No. Otra vez el reglamento: la ley exige una norma con rango de ley.",
+ "Es esta. El **art. 3.c)** se la da a los grupos de afectados, las uniones y entidades sin personalidad jurídica y los patrimonios independientes, “cuando la Ley así lo declare expresamente”."])
+q("of-01-005","interesados","Art. 4.1.b) de la Ley 39/2015","b",[
+ "No. No tienen que pedir nada. Quien tiene **derechos** afectados es interesado por sí mismo.",
+ "Es esta. Es el **art. 4.1.b)**. Si en un deslinde se decide dónde acaba la finca de Pedro, él es interesado aunque no haya iniciado nada, porque está en juego su derecho de propiedad.",
+ "No. Ese “recurso de revisión previo” no existe. Es un requisito inventado para despistar.",
+ "No. Sí son interesados, por lo que esta opción falla desde el principio."],
+ "Derechos afectados: interesado sin hacer nada. Solo intereses legítimos: tiene que personarse (art. 4.1.c).")
+
+# ---------- PLAZOS (arts. 29 a 33) ----------
+q("au-05-001","plazos","Art. 30.1 de la Ley 39/2015","d",[
+ "No. El límite de 24 horas no se puede ampliar por reglamento. La coletilla final es lo que falla.",
+ "No. Sí los contempla, y además son la primera regla del art. 30.",
+ "No. Son 24 horas, no 48.",
+ "Es esta. Lo dice el **art. 30.1**. Si hace falta más de 24 horas, el plazo se expresa en días."])
+q("au-05-002","plazos","Art. 30.1 de la Ley 39/2015","d",[
+ "No. El horario de las oficinas no cuenta para esto.",
+ "No. Solo las de los días hábiles. Las horas de un domingo o de un festivo no valen.",
+ "No. Esa franja de ocho a veintidós no existe en la ley.",
+ "Es esta. El **art. 30.1** dice que “son hábiles todas las horas del día que formen parte de un día hábil”. Es decir, las 24 horas de un lunes normal, incluida la madrugada."])
+q("pr-05-001","plazos","Arts. 30.4 y 124.1 de la Ley 39/2015","a",[
+ "Es esta. Los plazos por meses van **de fecha a fecha**: si te notifican un 10, el plazo acaba el 10 del mes de vencimiento (**art. 30.4**). Así que acaba el 10 de febrero, que en el calendario de 2023 es viernes, hábil.",
+ "No. Es la confusión de restar un día. El plazo empieza a contar el día siguiente, pero acaba el mismo número de día que el de la notificación.",
+ "No. Es la confusión de sumar un día por empezar al día siguiente. En los plazos por meses, el final es la misma fecha.",
+ "No. El 13 de febrero es lunes. Solo se pasaría al siguiente hábil si el día 10 fuera inhábil (art. 30.5), y no lo es."],
+ "Comparación rápida: por meses, de fecha a fecha. Por días, se cuentan uno a uno empezando el día siguiente.")
+q("pr-05-002","plazos","Art. 30.2 y 30.3 de la Ley 39/2015","c",[
+ "No. El 20 de marzo es festivo en el calendario, así que no cuenta ni puede ser el último día.",
+ "No. El 21 es el noveno día hábil. Se queda a uno.",
+ "Es esta. Se cuenta desde el día siguiente al requerimiento y solo los hábiles (**art. 30.2 y 30.3**). Marzo: 8, 9 y 10 (3 días), 13, 14, 15, 16 y 17 (8 días). Se saltan sábado y domingo y el 20, festivo. Quedan el 21 (noveno) y el **22** (décimo).",
+ "No. Te has pasado un día. El décimo día hábil es el 22."],
+ "Mira siempre el calendario antes de contar. Aquí el festivo del lunes 20 es justo lo que mueve la respuesta.")
+q("pr-05-003","plazos","Art. 30.2 y 30.3 de la Ley 39/2015","a",[
+ "Es esta. Si no dice nada, los días son **hábiles** (**art. 30.2**). Desde el 15 de febrero: 15, 16 y 17 (3 días), 20, 21, 22, 23 y 24 (8 días), 27 (noveno) y **28** (décimo).",
+ "No. Te has pasado un día: el 1 de marzo sería el undécimo hábil.",
+ "No. El 24 de febrero sale si cuentas 10 días **naturales**, y aquí no pone “naturales”.",
+ "No. El 27 es el noveno día hábil. Se queda a uno."],
+ "Si un plazo en días no dice “naturales”, son hábiles.")
+
+# ---------- ACTOS (arts. 34 a 46) ----------
+q("vo-03-001","actos","Art. 35.1.c) de la Ley 39/2015","d",[
+ "No. Es obligatoria: el art. 35.1 dice “serán motivados”.",
+ "No. La motivación pide referencia a los **hechos y** a los fundamentos de derecho, no solo a estos.",
+ "No. Justo al revés: si la Administración cambia de criterio, lo mínimo es que explique por qué.",
+ "Es esta. Lo dice el **art. 35.1.c)**. “Sucinta” significa breve, pero tiene que incluir hechos y fundamentos."])
+q("vo-03-002","actos","Art. 35.1 de la Ley 39/2015","b",[
+ "Sí tiene que motivarse: art. 35.1.h).",
+ "Es esta. Lo que hay que motivar es **separarse** del criterio anterior (art. 35.1.c). Si la Administración lo confirma, sigue la línea de siempre y este artículo no lo exige.",
+ "Sí tiene que motivarse: art. 35.1.e).",
+ "Sí tiene que motivarse: art. 35.1.f)."],
+ "Te cambian “separarse” por “confirmar”. Una sola palabra da la vuelta a la pregunta.")
+
+# ---------- NULIDAD (arts. 47 a 52) ----------
+q("of-05-001","nulidad","Arts. 47.1.b) y 52 de la Ley 39/2015","d",[
+ "No. Solo se convalida lo anulable, nunca lo nulo. Además, la incompetencia jerárquica no causa nulidad.",
+ "No. Lleva trampa: la incompetencia manifiesta por razón de la materia causa **nulidad** (art. 47.1.b), no anulabilidad.",
+ "No. Otra vez un acto nulo, y un acto nulo no se puede convalidar (art. 52.1).",
+ "Es esta. El **art. 47.1.b)** solo hace nula la incompetencia por materia o territorio, así que la jerárquica se queda en anulable. Y el **art. 52.3** permite arreglarlo: lo convalida el órgano competente si es superior jerárquico del que dictó el acto."],
+ "Para la nulidad, materia y territorio. Jerarquía no. Es una de las preguntas clásicas.")
+q("of-05-002","nulidad","Arts. 47.1 y 48.1 de la Ley 39/2015","b",[
+ "No. Un contenido imposible es causa de nulidad: art. 47.1.c).",
+ "Es esta. El **art. 48.1** dice que son anulables los actos con cualquier infracción del ordenamiento, “incluso la desviación de poder”. Desviación de poder es usar una potestad para un fin distinto del que tiene.",
+ "No. Prescindir total y absolutamente del procedimiento es causa de nulidad: art. 47.1.e).",
+ "No. Es causa de nulidad: art. 47.1.f)."],
+ "Nulidad es una lista cerrada. Anulabilidad es todo lo demás.")
+q("of-05-003","nulidad","Art. 52 de la Ley 39/2015","d",[
+ "No. Solo se convalidan los **anulables** (art. 52.1). Un acto nulo no tiene arreglo.",
+ "No. La convalidación produce efecto **desde su propia fecha**, no desde la del acto (art. 52.2).",
+ "No. La incompetencia que se puede convalidar es la **no** determinante de nulidad (art. 52.3).",
+ "Es esta. Es el **art. 52.4**. Si faltaba una autorización, se arregla dándola quien corresponde."])
+q("of-05-004","nulidad","Art. 47.1 de la Ley 39/2015","c",[
+ "No. Te han añadido “la jerarquía”, y el art. 47.1.b) solo cita materia y territorio.",
+ "No. Tiene que ser una disposición **con rango de ley** (art. 47.1.g), no inferior.",
+ "Es esta. Está tal cual en el **art. 47.1.c)**. Por ejemplo, una orden de derribar un edificio que ya no existe.",
+ "No. El art. 47.1.a) no habla de todo el Título I, sino de los derechos y libertades **susceptibles de amparo constitucional**."])
+q("au-09-001","nulidad","Art. 47.1 de la Ley 39/2015","b",[
+ "No. La palabra “todos” lo estropea: solo si es manifiestamente incompetente por materia o territorio (art. 47.1.b).",
+ "Es esta. Es el **art. 47.1.d)**: los constitutivos de infracción penal o dictados como consecuencia de ella. Por ejemplo, una licencia concedida a cambio de un soborno.",
+ "No. Difícil no es lo mismo que imposible. Lo que hace nulo un acto es un contenido **imposible** (art. 47.1.c).",
+ "No. Se queda demasiado amplio. Solo los susceptibles de amparo constitucional (art. 47.1.a)."])
+q("au-09-002","nulidad","Arts. 50 a 52 de la Ley 39/2015","b",[
+ "No. Esa expresión no aparece en la ley.",
+ "Es esta. El **art. 50** se llama precisamente así. Un acto que no vale como lo que quería ser, pero que sí contiene todo lo necesario para ser otro, produce los efectos de ese otro.",
+ "No. Eso es otra cosa (art. 51): al anular, se mantienen los trámites que habrían quedado igual sin el error.",
+ "No. Convalidar es arreglar el vicio de un acto anulable (art. 52). El acto sigue siendo el mismo, no se convierte en otro."])
+
+# ---------- INICIACIÓN (arts. 53 a 69) ----------
+q("of-07-003","iniciacion","Art. 67.1 de la Ley 39/2015","b",[
+ "No. Seis meses es el plazo máximo general para resolver, no este.",
+ "Es esta. El **art. 67.1** dice que el derecho a reclamar prescribe **al año** de producirse el hecho o de manifestarse el daño. Si hay daños físicos o psíquicos, se cuenta desde la curación o desde que se determinan las secuelas.",
+ "No. Claro que prescribe.",
+ "No. Es más largo de lo que dice la ley."])
+
+# ---------- ORDENACIÓN E INSTRUCCIÓN (arts. 70 a 83) ----------
+q("of-07-001","instruccion","Art. 70.4 de la Ley 39/2015","c",[
+ "Sí forman parte: son actuaciones que sirven de antecedente y fundamento a la resolución (art. 70.1 y 70.2).",
+ "Sí forman parte. El art. 70.4 los salva expresamente.",
+ "Es esta. El **art. 70.4** deja fuera la información auxiliar o de apoyo: notas, borradores, opiniones, resúmenes, bases de datos. Son los papeles de trabajo del funcionario, no el expediente.",
+ "Sí forman parte. El art. 70.4 también los salva, si se pidieron antes de la resolución que pone fin al procedimiento."])
+q("of-07-002","instruccion","Art. 72.1 de la Ley 39/2015","b",[
+ "No. El art. 72 no nombra este principio.",
+ "Es esta. El **art. 72.1** empieza así: “de acuerdo con el principio de simplificación administrativa”. Es lógico: si dos trámites pueden pedirse a la vez, no se hace perder el tiempo a nadie.",
+ "No. La eficiencia es un principio general, pero no el que cita este artículo.",
+ "No. La celeridad se regula en el art. 71, que es el del impulso del procedimiento."],
+ "Art. 71, celeridad. Art. 72, simplificación. Son vecinos y por eso los cruzan.")
+q("au-15-001","instruccion","Art. 77.2 de la Ley 39/2015","d",[
+ "No. Acierta el mínimo, pero el máximo son 30.",
+ "No. Fallan los dos números.",
+ "No. Acierta el máximo, pero el mínimo son 10.",
+ "Es esta. Es el **art. 77.2**: no superior a treinta días ni inferior a diez. Si hace falta, se puede abrir además un período extraordinario de hasta diez días."])
+q("au-15-002","instruccion","Art. 75.1 de la Ley 39/2015","c",[
+ "No. El que inicia no tiene por qué ser quien tramita.",
+ "No. Los interesados pueden proponer actuaciones, pero la instrucción se hace de oficio.",
+ "Es esta. Lo dice el **art. 75.1**: se realizarán de oficio y por medios electrónicos, por el órgano que **tramite** el procedimiento.",
+ "No. Quien resuelve decide al final. Quien instruye es quien prepara el asunto."])
+
+# ---------- SILENCIO ----------
+q("pr-04-001","actividad","Art. 24.1 de la Ley 39/2015","a",[
+ "Es esta. La inicia un particular, así que se aplica la regla general: silencio **positivo** (**art. 24.1**). No es ninguno de los casos en los que la ley dice que es negativo.",
+ "No. Solo sería negativo si una ley lo dijera o si fuera uno de los “cuatro gordos”: derecho de petición, dominio o servicio público, medio ambiente o responsabilidad patrimonial. No es el caso.",
+ "No. La caducidad es para procedimientos de oficio con efectos desfavorables (art. 25.1.b), y aquí la iniciativa es del particular."])
+q("pr-04-002","actividad","Art. 24.1 de la Ley 39/2015","b",[
+ "No. Es la excepción a la regla general.",
+ "Es esta. La responsabilidad patrimonial es uno de los casos en los que el **art. 24.1** hace negativo el silencio. No puede ser que alguien pida una indemnización y se la concedan solo porque nadie ha contestado.",
+ "No. La ha iniciado el interesado con su reclamación, y la caducidad es para los de oficio."])
+q("pr-04-003","actividad","Art. 25.1.b) de la Ley 39/2015","c",[
+ "No. El silencio estimatorio es para quien ha pedido algo, y aquí nadie ha pedido nada.",
+ "No. Esto vale para los procedimientos de oficio de los que podría salir algo **favorable** (art. 25.1.a). Un reintegro es lo contrario.",
+ "Es esta. Es de oficio y desfavorable (te reclaman que devuelvas dinero), así que el **art. 25.1.b)** dice que caduca. Si la Administración no resuelve a tiempo, archiva las actuaciones."],
+ "Ante la duda, dos preguntas: ¿quién lo inició? y ¿le beneficia o le perjudica?")
+
+# ---------- REVISIÓN DE OFICIO (arts. 106 a 111) ----------
+q("of-10-001","revision","Art. 107.2 de la Ley 39/2015","b",[
+ "No. Sí existe: es precisamente el art. 107.2.",
+ "Es esta. El **art. 107.2** fija **cuatro años** desde que se dictó el acto. Después hay otro plazo: seis meses desde que se inicia el procedimiento, o caduca (art. 107.3).",
+ "No. Es menos de lo que dice la ley.",
+ "No. Es menos de lo que dice la ley."])
+q("of-10-002","revision","Art. 109.1 de la Ley 39/2015","a",[
+ "Es esta, y es casi literal del **art. 109.1**. La Administración puede revocar lo que perjudica al ciudadano, pero con los límites que marca el artículo y mientras no haya prescrito.",
+ "No. “Siempre” sobra, y además el plazo de prescripción sí es un límite.",
+ "No. Dice lo contrario: tiene que ser **mientras no haya transcurrido** el plazo.",
+ "No. Mezcla dos figuras. Los errores materiales o de hecho se rectifican en cualquier momento (art. 109.2), pero eso no es revocar."])
+q("au-21-001","revision","Art. 107.2 de la Ley 39/2015","b",[
+ "No. Tres años no es el plazo.",
+ "Es esta. Es el **art. 107.2**: cuatro años desde que se dictó el acto.",
+ "No. Cinco años no es el plazo.",
+ "No. Dos años no es el plazo."])
+q("au-21-002","revision","Art. 111 de la Ley 39/2015","d",[
+ "No. El Presidente del Gobierno no aparece en el reparto del art. 111.",
+ "No. El Consejo de Ministros revisa sus propios actos y los de los Ministros (art. 111.a).",
+ "No. Los Secretarios de Estado revisan los actos de sus órganos directivos, no los suyos (art. 111.b.2.º).",
+ "Es esta. Lo dice el **art. 111.b).1.º**. Es una escalera: cada uno revisa lo del escalón de abajo."],
+ "Nadie revisa lo suyo, salvo el Consejo de Ministros, que no tiene a nadie por encima.")
+
+# ---------- RECURSOS (arts. 112 a 126) ----------
+q("of-12-001","recursos","Arts. 115.2 y 116 de la Ley 39/2015","b",[
+ "No. “En todo caso” lo estropea: solo si el competente es de **otra Administración** (art. 116.a).",
+ "Es esta. Es el **art. 116.d)**. Si presentas el recurso fuera de plazo, ni siquiera se entra a estudiarlo.",
+ "No. Equivocarse de nombre no impide tramitarlo, siempre que se deduzca qué recurso es en realidad (art. 115.2).",
+ "No. Esta causa no está en la lista. Lo que sí está es carecer el recurso **manifiestamente** de fundamento (art. 116.e)."])
+q("of-12-002","recursos","Arts. 113 y 125.1 de la Ley 39/2015","c",[
+ "No. El de alzada es para actos que **no** ponen fin a la vía administrativa, y dentro de plazo.",
+ "No. El de reposición es para actos que sí ponen fin a la vía, pero un acto firme ya no admite este recurso.",
+ "Es esta. Lo dice el **art. 113**, y solo cuando se da alguna de las causas del art. 125.1. Por eso se llama “extraordinario”.",
+ "No. No existe en la Ley 39/2015: es un recurso de los tribunales."])
+q("of-12-003","recursos","Art. 112.3 de la Ley 39/2015","d",[
+ "No. No cabe ninguno en vía administrativa.",
+ "No. Tampoco este.",
+ "No. Este recurso no está en la Ley 39/2015.",
+ "Es esta. Es el **art. 112.3**. Un reglamento se ataca ante los tribunales, no ante la propia Administración."])
+q("vo-06-001","recursos","Art. 112.1 de la Ley 39/2015","a",[
+ "Es esta. El **art. 112.1** permite los dos contra las resoluciones y también contra los actos de trámite “cualificados”: los que deciden el fondo, impiden continuar o causan indefensión o perjuicio irreparable.",
+ "No. “Únicamente” lo estropea, porque también cabe la alzada.",
+ "No. Igual, porque también cabe la reposición. Cuál toca dependerá de si el acto pone fin o no a la vía administrativa.",
+ "No. Solo vale para los demás actos de trámite. A esos se les opone en la resolución final."])
+q("vo-06-004","recursos","Art. 114 de la Ley 39/2015","a",[
+ "Es esta. Está en el **art. 114.1.e)**, y da igual de qué tipo de relación derive la responsabilidad.",
+ "No. Las resoluciones sancionadoras no aparecen en la lista. Lo que sí está es el procedimiento complementario en materia sancionadora (art. 114.1.f).",
+ "No. La de alzada sí pone fin a la vía (art. 114.1.a), pero el artículo no cita la de reposición. Después de ella, solo queda ir a los tribunales (art. 124).",
+ "No. El art. 114.2.c) dice lo contrario: ponen fin **en relación con** las competencias en materia de personal, no con excepción de ellas."])
+q("au-24-001","recursos","Art. 123.1 de la Ley 39/2015","a",[
+ "Es esta. El **art. 123.1** dice que esos actos pueden recurrirse potestativamente en reposición ante el mismo órgano, o ir directamente a los tribunales. “Potestativo” significa que tú eliges.",
+ "No. La alzada no cabe: sirve justo para los actos que **no** ponen fin a la vía (art. 121.1).",
+ "No. “Solo” es lo que falla. El extraordinario de revisión es para actos firmes, pero no es la única vía.",
+ "No. Misma razón: la alzada es para los que no ponen fin a la vía."])
+q("au-24-002","recursos","Art. 121.2 de la Ley 39/2015","c",[
+ "No. “En todo caso” lo estropea, porque también se puede presentar ante el competente para resolver.",
+ "No. El superior jerárquico ya es el competente para resolver (art. 121.1), así que esta opción no añade nada y olvida al órgano que dictó el acto.",
+ "Es esta. Es el **art. 121.2**. Si lo presentas ante el que dictó el acto, este tiene diez días para remitirlo con su informe y el expediente.",
+ "No. “En todo caso” vuelve a estropearlo."])
+
+# ---------- SUPUESTO: Ej. 13 (reducción de sanciones) ----------
+q("pr-17-001","finalizacion","Art. 85.1 y 85.3 de la Ley 39/2015","b",[
+ "No. 1.800 euros sería reconocer **y** pagar (40 % menos). Don Javier solo ha reconocido.",
+ "Es esta. Su sanción es únicamente de dinero y ha reconocido su responsabilidad, así que se resuelve imponiéndola con un 20 % menos (**art. 85.1 y 85.3**). El 20 % de 3.000 son 600, y quedan 2.400 euros. El caso dice que la normativa no sube ese porcentaje.",
+ "No. Es el importe sin reducción, y reconocer su responsabilidad le da derecho a un 20 % menos.",
+ "No. Eso es lo que produce el **pago** voluntario (art. 85.2). Reconocer no termina el procedimiento: permite resolverlo."])
+q("pr-17-002","finalizacion","Art. 85.2 de la Ley 39/2015","d",[
+ "No. Es el importe si hubiera reconocido y pagado, y además la pregunta no va del importe.",
+ "No. 2.400 euros es lo que acabaría pagando, pero la pregunta va de la consecuencia del pago.",
+ "No. No se resuelve con la sanción completa.",
+ "Es esta, y es casi literal del **art. 85.2**. Doña Laura paga antes de la resolución sin reconocer nada, y su sanción es solo de dinero, así que el procedimiento termina."],
+ "Reconocer, “se podrá resolver”. Pagar, “implicará la terminación”. Son consecuencias diferentes.")
+q("pr-17-003","finalizacion","Art. 85.2 y 85.3 de la Ley 39/2015","c",[
+ "No. Es el importe sin reducción, y a don Marcos le corresponde reducción.",
+ "No. Aplica un solo 20 %, y él ha hecho las dos cosas: reconocer y pagar.",
+ "Es esta. Aunque se valoró la suspensión, el órgano **justificó que no procedía**, así que queda como solo de dinero (art. 85.2). Reconoce y paga, y las reducciones se acumulan (**art. 85.3**): 40 % de 5.000 son 2.000, y quedan 3.000 euros.",
+ "No. Sería un 50 %, y el caso dice que no hay reducciones por encima de las mínimas."],
+ "Es la clave del caso: que la sanción no pecuniaria se quede fuera es lo que abre la puerta a la reducción.")
+q("pr-17-004","finalizacion","Art. 85.3 de la Ley 39/2015","a",[
+ "Es esta. A don Sergio le proponen dinero **y** suspensión, y nadie ha justificado que la suspensión no proceda. Las reducciones son solo para sanciones de carácter únicamente pecuniario (**art. 85.3**), así que paga los 6.000 euros completos.",
+ "No. Sería aplicarle un 20 % al que no tiene derecho.",
+ "No. Sería aplicarle el 40 % de quien reconoce y paga, pero su sanción no es solo de dinero.",
+ "No. Sería un 50 %, que no aparece en ningún sitio."])
+q("pr-17-005","finalizacion","Art. 85.3 de la Ley 39/2015","d",[
+ "No. La renuncia es solo en vía **administrativa**. A los tribunales se puede ir siempre.",
+ "No. Los tres que se benefician de reducción renuncian al recurso en vía administrativa.",
+ "No. Está al revés.",
+ "Es esta. La reducción está condicionada a renunciar a cualquier acción o recurso “en vía administrativa” (**art. 85.3**). Javier, Laura y Marcos tienen reducción y renuncian a ello. Sergio no tiene reducción, así que conserva el recurso administrativo. Y todos pueden ir a los tribunales."])
+
+# ---------- SUPUESTO: Mini supuesto 2 (Clara Hevia) ----------
+q("pr-30-001","iniciacion","Arts. 66.1.e) y 68.1 de la Ley 39/2015","b",[
+ "No. Renunciar es algo que hace el interesado a propósito (art. 94), y aquí la ley no lo presume.",
+ "Es esta. La firma es un requisito de la solicitud (art. 66.1.e). Si falta, el **art. 68.1** da diez días para subsanarla, avisando de que, si no, se la tendrá **por desistida**, previa resolución.",
+ "No. La caducidad se produce si el procedimiento se paraliza por causa del interesado y tras un aviso de tres meses (art. 95). Aquí no es el caso.",
+ "No. La suspensión es para el plazo de resolver, no es la consecuencia de no subsanar."])
+q("pr-30-002","plazos","Arts. 30.2, 30.3 y 68.1 de la Ley 39/2015","b",[
+ "No. El 16 es el noveno día hábil, y te queda uno.",
+ "Es esta. Son **10 días hábiles** (art. 68.1) y se cuentan desde el día siguiente (**art. 30.3**). Junio de 2025: 4, 5 y 6 (3 días), 9 a 13 (8 días), lunes 16 (noveno) y **martes 17** (décimo). El caso dice que no hay festivos.",
+ "No. Te has pasado una semana.",
+ "No. Te has pasado una semana."],
+ "El enunciado cita por error la Ley 39/2015 como “de Régimen Jurídico del Sector Público”. Es la del Procedimiento Administrativo Común, pero no cambia la respuesta.")
+q("pr-30-003","revision","Arts. 107 y 109 de la Ley 39/2015","d",[
+ "No. La revisión de oficio es para actos **nulos** (art. 106). Un acto favorable que solo es anulable no puede anularlo la Administración por sí misma.",
+ "No. La revocación es para actos de gravamen o desfavorables (art. 109.1). Esta autorización beneficia a doña Clara.",
+ "No. Rectificar es para errores materiales, de hecho o aritméticos que se ven a simple vista (art. 109.2). Un error en un estudio hidrológico no es una errata.",
+ "Es esta. La autorización es un acto favorable y el caso apunta a un vicio de anulabilidad por errores en el estudio. Para esos actos, la vía es declararlos lesivos y pedir la anulación a los tribunales (**art. 107**)."],
+ "Si favorece al ciudadano y es anulable, la Administración no puede quitarlo sola: tiene que ir al juez.")
+q("pr-30-004","instruccion","Arts. 82.2 y 107.2 de la Ley 39/2015","b",[
+ "No. Es menos de lo que permite la ley.",
+ "Es esta. El **art. 82.2** da un plazo no inferior a **diez días** ni superior a quince. Y la lesividad exige esa audiencia previa (art. 107.2).",
+ "No. Quince es el máximo, y la pregunta pide el mínimo.",
+ "No. Supera el máximo."])
+q("pr-30-005","revision","Art. 107.3 de la Ley 39/2015","a",[
+ "Es esta. El **art. 107.3** es claro: seis meses desde el inicio sin declarar la lesividad y el procedimiento caduca.",
+ "No. El desistimiento lo acuerda la Administración de forma motivada (art. 93). No se entiende producido por no contestar.",
+ "No. Prescribir es otra cosa. Lo que se acaba aquí es el procedimiento, y la autorización sigue viva.",
+ "No. Es la autorización ya concedida, y este procedimiento lo inició la Administración, no doña Clara."])
+json.dump(R, open(__file__.replace("piloto.py", "piloto.json"), "w", encoding="utf8"), ensure_ascii=False, indent=1)
+print(len(R), "respuestas")

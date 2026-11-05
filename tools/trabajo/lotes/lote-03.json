@@ -1,0 +1,527 @@
+{
+"lote": 3,
+"casos": {},
+"calendarios": {},
+"preguntas": [
+{
+"id": "au-05-003",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (5) - Ley 39/2015 (arts. 29 a 33)",
+"n": 3,
+"enunciado": "Según el artículo 30 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas, si el plazo se fija en meses o años, estos se computarán:",
+"opciones": [
+"A partir del mismo día en que tenga lugar la notificación o publicación del acto de que se trate, o desde el mismo día en que se produzca la estimación o desestimación por silencio administrativo.",
+"A partir del día siguiente a aquel en que tenga lugar la notificación o publicación del acto de que se trate, o desde el mismo día en que se produzca la estimación o desestimación por silencio administrativo.",
+"A partir del día siguiente a aquel en que tenga lugar la notificación o publicación del acto de que se trate, o desde el siguiente a aquel en que se produzca la estimación o desestimación por silencio administrativo.",
+"A partir del mismo día en que tenga lugar la notificación o publicación del acto de que se trate, o desde el siguiente a aquel en que se produzca la estimación o desestimación por silencio administrativo."
+]
+},
+{
+"id": "au-05-004",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (5) - Ley 39/2015 (arts. 29 a 33)",
+"n": 4,
+"enunciado": "Según el artículo 30.1 de la Ley 39/2015, salvo que por Ley o en el Derecho de la Unión Europea se disponga otro cómputo, los plazos se podrán señalar:",
+"opciones": [
+"Por horas, entendiendo que son hábiles todas las horas del día que formen parte de un día hábil.",
+"Por días, entendiendo que son naturales, debiendo constar esta circunstancia en las notificaciones obligatoriamente.",
+"Por días, entendiendo que estos son hábiles, debiendo constar esta circunstancia en las notificaciones obligatoriamente.",
+"Por horas, entendiendo que son hábiles todas las horas del día que formen parte de un día hábil o inhábil."
+]
+},
+{
+"id": "au-05-005",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (5) - Ley 39/2015 (arts. 29 a 33)",
+"n": 5,
+"enunciado": "En relación con la ampliación de plazos, y de acuerdo con el artículo 32 de la Ley 39/2015, señale la respuesta correcta:",
+"opciones": [
+"El acuerdo que deniegue una ampliación del plazo será susceptible de recurso en vía administrativa.",
+"En casos excepcionales y previa justificación, podrá ser objeto de ampliación un plazo ya vencido.",
+"La Administración podrá conceder una ampliación de los plazos establecidos que no exceda el inicialmente concedido.",
+"La ampliación de los plazos por el tiempo máximo permitido se aplicará en todo caso a procedimientos en los que intervengan interesados residentes fuera de España."
+]
+},
+{
+"id": "au-05-006",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (5) - Ley 39/2015 (arts. 29 a 33)",
+"n": 6,
+"enunciado": "Según el artículo 30 de la Ley 39/2015, de 1 de octubre, si el plazo se fija en meses o años, el plazo concluirá:",
+"opciones": [
+"El día anterior al que se produjo la notificación, publicación o silencio administrativo en el mes o el año de vencimiento.",
+"El mismo día en que se produjo la notificación, publicación o silencio administrativo en el mes o el año de vencimiento.",
+"Si en el mes de vencimiento no hubiere día equivalente, el primer día hábil del mes siguiente.",
+"El día siguiente en que se produjo la notificación, publicación o silencio administrativo en el mes o el año de vencimiento."
+]
+},
+{
+"id": "au-05-007",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (5) - Ley 39/2015 (arts. 29 a 33)",
+"n": 7,
+"enunciado": "Cuando los plazos se señalen por días, siempre que por Ley o en el Derecho de la Unión Europea no se exprese otro cómputo, se entenderá que:",
+"opciones": [
+"Dichos días son naturales, excluyéndose del cómputo los festivos.",
+"Dichos días son hábiles, excluyéndose del cómputo los domingos y los declarados festivos.",
+"Dichos días son naturales, excluyéndose del cómputo los domingos y los festivos.",
+"Dichos días son hábiles, excluyéndose del cómputo los sábados, los domingos y los declarados festivos."
+]
+},
+{
+"id": "au-05-008",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (5) - Ley 39/2015 (arts. 29 a 33)",
+"n": 8,
+"enunciado": "Indique la respuesta correcta en relación con la aplicación al procedimiento de la tramitación de urgencia:",
+"opciones": [
+"Se podrá acordar, solo de oficio, cuando razones de interés público lo aconsejen.",
+"Se reducirán a la mitad todos los plazos establecidos para el procedimiento ordinario.",
+"Se reducirán a la mitad los plazos del procedimiento ordinario, salvo los relativos a la presentación de solicitudes y recursos.",
+"Cabrá interponer recurso contra el acuerdo que declare la aplicación de la tramitación de urgencia al procedimiento."
+]
+},
+{
+"id": "au-05-009",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (5) - Ley 39/2015 (arts. 29 a 33)",
+"n": 9,
+"enunciado": "Señale la respuesta incorrecta en relación con la ampliación de los plazos en un procedimiento administrativo:",
+"opciones": [
+"En ningún caso podrá ser objeto de ampliación un plazo ya vencido.",
+"Los acuerdos sobre ampliación de plazos o sobre su denegación no serán susceptibles de recurso.",
+"Excepcionalmente, en caso de ciberincidente, la Administración podrá determinar una ampliación de plazos ya vencidos.",
+"Tanto la petición de los interesados como la decisión sobre la ampliación deberán producirse, en todo caso, antes del vencimiento del plazo de que se trate."
+]
+},
+{
+"id": "au-05-010",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (5) - Ley 39/2015 (arts. 29 a 33)",
+"n": 10,
+"enunciado": "Según el artículo 30 de la Ley 39/2015, señale la respuesta correcta en relación con el cómputo de plazos:",
+"opciones": [
+"Siempre que por Ley o en el Derecho de la Unión Europea no se exprese otro cómputo, y cuando los plazos se señalen por días, se entiende que estos son hábiles, excluyéndose del cómputo los sábados, los domingos y los declarados festivos.",
+"Cuando los plazos se hayan señalado por días naturales por declararlo así una Ley o por el Derecho de la Unión Europea, no será necesario hacer constar esta circunstancia en las correspondientes notificaciones.",
+"Si el plazo se fija en meses o en años, estos se computarán a partir del día en que tenga lugar la notificación o publicación del acto de que se trate, o desde el siguiente a aquel en que se produzca la estimación o desestimación por silencio administrativo.",
+"Los plazos expresados en días se contarán a partir del día en que tenga lugar la notificación o publicación del acto que se trate."
+]
+},
+{
+"id": "au-05-011",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (5) - Ley 39/2015 (arts. 29 a 33)",
+"n": 11,
+"enunciado": "Señale la respuesta correcta en relación con la tramitación de urgencia regulada en el artículo 33 de la Ley 39/2015:",
+"opciones": [
+"Se reducirán los plazos establecidos para el procedimiento ordinario, salvo los relativos al trámite de audiencia.",
+"Solo puede acordarse de oficio y por razones de interés público.",
+"No cabrá recurso contra el acuerdo que declare la aplicación de la tramitación de urgencia al procedimiento, sin perjuicio del procedente contra la resolución que ponga fin al procedimiento.",
+"Su aplicación requerirá informe favorable del Consejo de Estado."
+]
+},
+{
+"id": "au-05-012",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (5) - Ley 39/2015 (arts. 29 a 33)",
+"n": 12,
+"enunciado": "Conforme al artículo 30.5 de la Ley 39/2015, cuando el último día del plazo sea inhábil:",
+"opciones": [
+"Solo de oficio, podrá prorrogarse al primer día hábil siguiente.",
+"Se entenderá prorrogado al día siguiente.",
+"Se entenderá prorrogado al primer día hábil siguiente.",
+"De oficio o a instancia del interesado, podrá prorrogarse al primer día hábil siguiente."
+]
+},
+{
+"id": "au-05-013",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (5) - Ley 39/2015 (arts. 29 a 33)",
+"n": 13,
+"enunciado": "Según el artículo 30.6 de la Ley 39/2015, cuando un día fuese hábil en el municipio o Comunidad Autónoma en que residiese el interesado, e inhábil en la sede del órgano administrativo, o a la inversa:",
+"opciones": [
+"Se considerará inhábil, salvo manifestación en contra del interesado.",
+"Se considerará inhábil en todo caso.",
+"Se considerará hábil, salvo manifestación en contra del interesado.",
+"Se considerará hábil en todo caso."
+]
+},
+{
+"id": "au-05-014",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (5) - Ley 39/2015 (arts. 29 a 33)",
+"n": 14,
+"enunciado": "Señale la respuesta incorrecta en relación con el calendario de días inhábiles a efectos de cómputos de plazos a que se refiere el artículo 30.7 de la Ley 39/2015:",
+"opciones": [
+"El calendario aprobado por las Comunidades Autónomas comprenderá los días inhábiles de las Entidades Locales correspondientes a su ámbito territorial.",
+"Deberá publicarse antes del comienzo de cada año en el diario oficial que corresponda.",
+"El calendario aprobado por el Estado comprenderá los días inhábiles de las Entidades Locales correspondientes a su ámbito territorial.",
+"El calendario de días inhábiles se sujetará al calendario laboral oficial."
+]
+},
+{
+"id": "au-05-015",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (5) - Ley 39/2015 (arts. 29 a 33)",
+"n": 15,
+"enunciado": "De acuerdo con la Ley 39/2015, ¿en qué caso podrá determinarse la ampliación de un plazo ya vencido?",
+"opciones": [
+"Cuando la petición de los interesados se hubiese producido antes del vencimiento del plazo de que se trate.",
+"Cuando como consecuencia de un ciberincidente se hayan visto gravemente afectados los servicios y sistemas utilizados para la tramitación de los procedimientos.",
+"Cuando una incidencia técnica haya imposibilitado el funcionamiento ordinario del sistema o aplicación que corresponda.",
+"En ningún caso."
+]
+},
+{
+"id": "au-06-001",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (6) - Ley 39/2015 (arts. 34 a 36)",
+"n": 1,
+"enunciado": "Según el artículo 36 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas, a menos que su naturaleza exija otra forma más adecuada de expresión y constancia, los actos administrativos se producirán:",
+"opciones": [
+"Por escrito o de forma verbal.",
+"Por escrito a través de medios electrónicos.",
+"Por cualquier medio que deje constancia de su producción y contenido.",
+"Verbalmente."
+]
+},
+{
+"id": "au-06-002",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (6) - Ley 39/2015 (arts. 34 a 36)",
+"n": 2,
+"enunciado": "Indique cuál de los siguientes actos administrativos debe ser objeto de motivación según el artículo 35 de la Ley 39/2015:",
+"opciones": [
+"Un requerimiento de subsanación de una solicitud presentada por el interesado.",
+"La propuesta de resolución en un procedimiento sancionador.",
+"El acto por el que se acuerda la admisión de pruebas propuestas por el interesado.",
+"Un acto de trámite que no se separe del criterio seguido en actuaciones precedentes."
+]
+},
+{
+"id": "au-06-003",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (6) - Ley 39/2015 (arts. 34 a 36)",
+"n": 3,
+"enunciado": "Según el artículo 35 de la Ley 39/2015, NO serán motivados con sucinta referencia de hechos y fundamentos de derecho:",
+"opciones": [
+"Los actos que rechacen pruebas propuestas por los interesados.",
+"Los actos que limiten derechos subjetivos o intereses legítimos.",
+"Los acuerdos de aplicación de la tramitación de urgencia.",
+"Las propuestas de resolución en los procedimientos de responsabilidad patrimonial."
+]
+},
+{
+"id": "au-06-004",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (6) - Ley 39/2015 (arts. 34 a 36)",
+"n": 4,
+"enunciado": "Señale la respuesta incorrecta en relación con los actos administrativos, de conformidad con el artículo 34 de la Ley 39/2015:",
+"opciones": [
+"Su contenido se ajustará a lo dispuesto por el ordenamiento jurídico.",
+"Deberán ajustarse a los requisitos y al procedimiento establecido.",
+"Su contenido será determinado o indeterminado, según los casos.",
+"Se producirán por el órgano competente."
+]
+},
+{
+"id": "au-06-005",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (6) - Ley 39/2015 (arts. 34 a 36)",
+"n": 5,
+"enunciado": "Según el artículo 35 de la Ley 39/2015, serán motivados, con sucinta referencia de hechos y fundamentos de derecho:",
+"opciones": [
+"Los actos administrativos que se dicten en el ejercicio de potestades discrecionales.",
+"Los actos administrativos que amplíen derechos subjetivos o intereses legítimos.",
+"Los actos administrativos que no sean objeto de notificación.",
+"Los actos administrativos que sigan el criterio adoptado en actuaciones precedentes o el dictamen de órganos consultivos."
+]
+},
+{
+"id": "au-06-006",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (6) - Ley 39/2015 (arts. 34 a 36)",
+"n": 6,
+"enunciado": "Señale la respuesta correcta en relación con la motivación de los actos administrativos:",
+"opciones": [
+"Se motivarán los actos que resuelvan procedimientos de revisión de oficio.",
+"No se motivarán los actos que rechacen pruebas propuestas por los interesados.",
+"Se motivarán todos los actos que afecten a intereses legítimos de terceras personas.",
+"Se motivarán los actos por los que se apliquen exenciones tributarias."
+]
+},
+{
+"id": "au-06-007",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (6) - Ley 39/2015 (arts. 34 a 36)",
+"n": 7,
+"enunciado": "Según el artículo 35 de la Ley 39/2015, serán motivados, con sucinta referencia de hechos y fundamentos de derecho:",
+"opciones": [
+"Los acuerdos de suspensión de actos.",
+"Las propuestas de resolución en los procedimientosde responsabilidad patrimonial.",
+"Los actos que se dicten en el ejercicio de potestades regladas.",
+"Los actos que resuelvan el procedimiento, en todo caso."
+]
+},
+{
+"id": "au-06-008",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (6) - Ley 39/2015 (arts. 34 a 36)",
+"n": 8,
+"enunciado": "Según el artículo 35 de la Ley 39/2015, serán motivados, con sucinta referencia de hechos y fundamentos de derecho:",
+"opciones": [
+"Los actos que pongan fin al procedimiento.",
+"Los actos producidos por silencio administrativo.",
+"Los actos que lesionen derechos subjetivos o intereses legítimos.",
+"Los actos que acuerden el desistimiento por la Administración en procedimientos iniciados de oficio."
+]
+},
+{
+"id": "au-06-009",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (6) - Ley 39/2015 (arts. 34 a 36)",
+"n": 9,
+"enunciado": "Según el artículo 35 de la Ley 39/2015, señale la respuesta correcta respecto a la motivación de los actos que pongan fin a los procedimientos selectivos y de concurrencia competitiva:",
+"opciones": [
+"Se realizará de conformidad con lo que dispongan las normas que regulen sus convocatorias.",
+"Solo deberán motivarse cuando sean estimatorios.",
+"No necesitan ser motivados, salvo que en la convocatoria se establezca lo contrario.",
+"Solo deberán motivarse cuando sean desestimatorios."
+]
+},
+{
+"id": "au-06-010",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (6) - Ley 39/2015 (arts. 34 a 36)",
+"n": 10,
+"enunciado": "Cuando deba dictarse una serie de actos administrativos de la misma naturaleza, tales como nombramientos, concesiones o licencias:",
+"opciones": [
+"Deberán refundirse en un único acto, acordado por el órgano competente.",
+"Deberán dictarse tantas resoluciones como interesados se hayan personado en el procedimiento.",
+"Podrán refundirse en un único acto, acordado por el órgano competente.",
+"Deberá dictarse una resolución de carácter individual por cada uno de los actos administrativos que sean aprobados."
+]
+},
+{
+"id": "au-06-011",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (6) - Ley 39/2015 (arts. 34 a 36)",
+"n": 11,
+"enunciado": "De acuerdo con el artículo 36 de la Ley 39/2015, en los casos en que los órganos administrativos ejerzan su competencia de forma verbal, la constancia escrita del acto, cuando sea necesaria:",
+"opciones": [
+"Se efectuará y firmará por el titular del órgano superior o funcionario que la reciba oralmente.",
+"Se efectuará y firmará por el titular del órgano superior, en todo caso.",
+"Se efectuará y firmará por el titular del órgano inferior o funcionario que la reciba oralmente.",
+"Se efectuará y firmará por el funcionario que la reciba oralmente, en todo caso."
+]
+},
+{
+"id": "au-06-012",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (6) - Ley 39/2015 (arts. 34 a 36)",
+"n": 12,
+"enunciado": "De acuerdo con el artículo 35 de la Ley 39/2015, serán motivados, con sucinta referencia de hechos y fundamentos de derecho:",
+"opciones": [
+"Los actos que resuelvan procedimientos de responsabilidad patrimonial.",
+"Los actos que confirmen el criterio seguido en actuaciones precedentes.",
+"Los actos que acuerden la iniciación de un procedimiento.",
+"Los actos que acuerden el desistimiento en procedimientos iniciados a solicitud del interesado."
+]
+},
+{
+"id": "au-07-001",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (7) - Ley 39/2015 (arts. 37 a 46)",
+"n": 1,
+"enunciado": "Las normas y actos dictados por los órganos de las Administraciones Públicas en el ejercicio de su propia competencia:",
+"opciones": [
+"Solo deberán ser observados por los órganos administrativos a los que se dirijan.",
+"Solo deberán ser observados por los interesados en el procedimiento.",
+"Deberán ser observados por el resto de los órganos administrativos, siempre que pertenezcan a la misma Administración.",
+"Deberán ser observados por el resto de los órganos administrativos, aunque pertenezcan a otra Administración."
+]
+},
+{
+"id": "au-07-002",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (7) - Ley 39/2015 (arts. 37 a 46)",
+"n": 2,
+"enunciado": "De acuerdo con el artículo 37 de la Ley 39/2015, las resoluciones administrativas que vulneren lo establecido en una disposición reglamentaria:",
+"opciones": [
+"Son nulas.",
+"Son anulables.",
+"Serán irregulares, aunque no invalidantes.",
+"Producirán la caducidad del procedimiento."
+]
+},
+{
+"id": "au-07-003",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (7) - Ley 39/2015 (arts. 37 a 46)",
+"n": 3,
+"enunciado": "Según el principio de inderogabilidad singular, al que se refiere el artículo 37 de la Ley 39/2015, ¿cuándo podrá una resolución administrativa de carácter particular vulnerar lo establecido en una disposición de carácter general?",
+"opciones": [
+"Solo cuando procedan de un órgano de superior jerarquía al que dictó la disposición general.",
+"En ningún caso.",
+"Solo cuando procedan de un órgano de igual jerarquía al que dictó la disposición general.",
+"Cuando procedan de un órgano de igual o superior jerarquía al que dictó la disposición general."
+]
+},
+{
+"id": "au-07-004",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (7) - Ley 39/2015 (arts. 37 a 46)",
+"n": 4,
+"enunciado": "Según el artículo 37 de la Ley 39/2015, la inderogabilidad singular de los reglamentos implica que:",
+"opciones": [
+"Una disposición de carácter general no puede vulnerar resoluciones administrativas de carácter particular.",
+"Un reglamento no puede derogar a otro reglamento.",
+"Las resoluciones administrativas de carácter particular no pueden vulnerar lo establecido en una disposición de carácter general.",
+"Un reglamento no puede derogar un acto administrativo."
+]
+},
+{
+"id": "au-07-005",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (7) - Ley 39/2015 (arts. 37 a 46)",
+"n": 5,
+"enunciado": "Indique en cuál de los siguientes casos NO podrá demorarse la eficacia de los actos administrativos:",
+"opciones": [
+"Cuando esté supeditada a su notificación.",
+"Cuando así lo exija su contenido.",
+"Cuando esté supeditada a la aprobación del órgano jerárquicamente inferior al que lo dictó.",
+"Cuando esté supeditada a su publicación."
+]
+},
+{
+"id": "au-07-006",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (7) - Ley 39/2015 (arts. 37 a 46)",
+"n": 6,
+"enunciado": "De acuerdo con el artículo 39 de la Ley 39/2015, ¿podrá otorgarse eficacia retroactiva a los actos administrativos?",
+"opciones": [
+"No, en ningún caso.",
+"Sí, como regla general.",
+"Sí, excepcionalmente.",
+"Solo cuando se dicten en sustitución de actos anulados."
+]
+},
+{
+"id": "au-07-007",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (7) - Ley 39/2015 (arts. 37 a 46)",
+"n": 7,
+"enunciado": "Según la Ley 39/2015, ¿cómo debe obrar una Administración Pública cuando tenga que dictar, en el ámbito de sus competencias, un acto que necesariamente tenga por base otro dictado por una Administración Pública distinta y entienda que es ilegal?",
+"opciones": [
+"Podrá revisar de oficio el acto que entiende que es ilegal.",
+"Deberá impugnar el acto directamente ante la jurisdicción contencioso-administrativa.",
+"Deberá acatar el acto dictado por la administración competente y resolver conforme a él.",
+"Podrá requerir a esta previamente para que anule o revise el acto."
+]
+},
+{
+"id": "au-07-008",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (7) - Ley 39/2015 (arts. 37 a 46)",
+"n": 8,
+"enunciado": "Si en ellos no se dispone otra cosa, los actos de las Administraciones Públicas sujetos al Derecho Administrativo se presumirán válidos y producirán efectos según el artículo 39 de la Ley 39/2015:",
+"opciones": [
+"Desde la fecha en que se notifiquen.",
+"Desde la fecha en que se publiquen.",
+"Desde la fecha en que se dicten.",
+"Desde el día siguiente a aquel en que se dicten."
+]
+},
+{
+"id": "au-07-009",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (7) - Ley 39/2015 (arts. 37 a 46)",
+"n": 9,
+"enunciado": "Cuando la notificación se practique en el domicilio del interesado, si este no se hallase presente en el momento de la notificación:",
+"opciones": [
+"Se intentará notificar por una sola vez y en una hora distinta dentro de los tres días siguientes.",
+"Podrá hacerse cargo de la misma cualquier persona que se encuentre en el domicilio, siempre que sea mayor de 12 años.",
+"La notificación se intentará por medios electrónicos.",
+"Se intentará notificar por dos veces más y en una hora distinta dentro de los tres días siguientes."
+]
+},
+{
+"id": "au-07-010",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (7) - Ley 39/2015 (arts. 37 a 46)",
+"n": 10,
+"enunciado": "De acuerdo con el artículo 40 de la Ley 39/2015, ¿en qué plazo deberán ser cursadas las notificaciones?",
+"opciones": [
+"Dentro del plazo de un mes a partir de la fecha en que el acto haya sido dictado.",
+"Dentro del plazo de quince días a partir de la fecha en que el acto haya sido dictado.",
+"Dentro del plazo de diez días a partir de la fecha en que el acto haya sido dictado.",
+"Dentro del plazo de cinco días a partir de la fecha en que el acto haya sido dictado."
+]
+},
+{
+"id": "au-07-011",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (7) - Ley 39/2015 (arts. 37 a 46)",
+"n": 11,
+"enunciado": "Conforme al artículo 45 de la Ley 39/2015, ¿en qué casos serán objeto de publicación los actos administrativos?",
+"opciones": [
+"Solo cuando el acto tenga por destinatario a una pluralidad indeterminada de personas.",
+"Solo cuando se trate de actos integrantes de un procedimiento selectivo o de concurrencia competitiva.",
+"Entre otros casos, cuando la Administración estime que la notificación efectuada a un solo interesado es insuficiente para garantizar la notificación a todos.",
+"Únicamente cuando así lo establezcan las normas reguladoras de cada procedimiento."
+]
+},
+{
+"id": "au-07-012",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (7) - Ley 39/2015 (arts. 37 a 46)",
+"n": 12,
+"enunciado": "Según el artículo 41.7 de la Ley 39/2015, cuando el interesado fuese notificado por distintos cauces, se tomará como fecha de notificación:",
+"opciones": [
+"La de aquella que se hubiese producido por medios no electrónicos.",
+"La de aquella que se hubiese producido por medios electrónicos.",
+"La de aquella que se hubiese producido en primer lugar.",
+"La de aquella que se hubiese producido en último lugar."
+]
+},
+{
+"id": "au-07-013",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (7) - Ley 39/2015 (arts. 37 a 46)",
+"n": 13,
+"enunciado": "¿Cuál de los siguientes NO es uno de los elementos que deba contener una notificación efectuada a un interesado?",
+"opciones": [
+"Expresión de los recursos que procedan, en su caso, en vía administrativa y judicial.",
+"Texto íntegro de la resolución, con indicación de si pone fin o no a la vía administrativa.",
+"Órgano ante el que hubieran de presentarse y el plazo para interponer los recursos.",
+"Órgano competente para la resolución de los recursos que procedan."
+]
+},
+{
+"id": "au-07-014",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (7) - Ley 39/2015 (arts. 37 a 46)",
+"n": 14,
+"enunciado": "¿Surtirán algún efecto aquellas notificaciones que, conteniendo el texto íntegro del acto, omitiesen alguno de los demás requisitos señalados en la Ley 39/2015?",
+"opciones": [
+"No, pues son nulas de pleno derecho.",
+"Sí, desde que se notifican.",
+"No, al tratarse de actos anulables.",
+"Sí, a partir de la fecha en que el interesado realice actuaciones que supongan el conocimiento del contenido y alcance de la resolución o acto objeto de la notificación, o interponga cualquier recurso que proceda."
+]
+},
+{
+"id": "au-07-015",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (7) - Ley 39/2015 (arts. 37 a 46)",
+"n": 15,
+"enunciado": "De acuerdo con la Ley 39/2015, señale la opción correcta en relación con la notificación:",
+"opciones": [
+"Las notificaciones se practicarán necesariamente por medios electrónicos.",
+"Cuando el interesado o su representante rechace la notificación de una actuación administrativa, se intentará por otro medio.",
+"La notificación se practicará, en todo caso, por el medio señalado al efecto por el interesado.",
+"Toda notificación deberá ser cursada dentro del plazo de diez días a partir de la fecha en que el acto haya sido dictado."
+]
+}
+]
+}

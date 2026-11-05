@@ -1,0 +1,566 @@
+{
+"lote": 10,
+"casos": {},
+"calendarios": {},
+"preguntas": [
+{
+"id": "au-23-001",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (23) - Ley 39/2015 (arts. 112 a 120)",
+"n": 1,
+"enunciado": "Según el artículo 114 de la Ley 39/2015, en el ámbito estatal ponen fin a la vía administrativa los actos y resoluciones siguientes:",
+"opciones": [
+"Los actos administrativos emanados de cualquier órgano directivo.",
+"Los emanados de los Secretarios de Estado en el ejercicio de sus competencias.",
+"Los emanados de los Subsecretarios en el ejercicio de sus competencias.",
+"Los emanados de los órganos directivos con nivel de Subdirector general o superior, en materia de personal."
+]
+},
+{
+"id": "au-23-002",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (23) - Ley 39/2015 (arts. 112 a 120)",
+"n": 2,
+"enunciado": "Indique cuál de las siguientes constituye causa de inadmisión de un recurso administrativo:",
+"opciones": [
+"El error o la ausencia de la calificación del recurso, en todo caso.",
+"Que el acto impugnado no sea susceptible de recurso.",
+"Que no haya expirado el plazo para la interposición del recurso.",
+"Que el recurso se interponga ante cualquier órgano administrativo distinto del competente."
+]
+},
+{
+"id": "au-23-003",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (23) - Ley 39/2015 (arts. 112 a 120)",
+"n": 3,
+"enunciado": "De acuerdo con el artículo 117 de la Ley 39/2015, ¿a qué órgano corresponde decidir acerca de la suspensión de la ejecución de un acto impugnado con ocasión de la interposición del oportuno recurso administrativo?",
+"opciones": [
+"Al órgano a quien competa resolver el recurso.",
+"Al órgano que dictó la resolución recurrida.",
+"Al órgano a quien se dirija el recurso.",
+"Al superior jerárquico del órgano competente para su resolución."
+]
+},
+{
+"id": "au-23-004",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (23) - Ley 39/2015 (arts. 112 a 120)",
+"n": 4,
+"enunciado": "Señala el artículo 119 de la Ley 39/2015, en relación con la resolución de los recursos que, cuando existiendo vicio de forma, no se estime procedente resolver sobre el fondo, el órgano competente:",
+"opciones": [
+"Desestimará el recurso.",
+"Inadmitirá el recurso a trámite.",
+"Ordenará la retroacción del procedimiento al momento en el que el vicio fue cometido.",
+"Convalidará el defecto de forma, con independencia del motivo que lo ocasionó."
+]
+},
+{
+"id": "au-23-005",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (23) - Ley 39/2015 (arts. 112 a 120)",
+"n": 5,
+"enunciado": "En relación con la suspensión de la ejecución del acto impugnado, determina el artículo 117 de la Ley 39/2015 que si esta afectara a una pluralidad indeterminada de personas:",
+"opciones": [
+"La suspensión de su eficacia habrá de ser publicada en el periódico oficial en que aquél se insertó.",
+"La suspensión de su eficacia deberá ser notificada a todos los potenciales interesados en el procedimiento.",
+"La suspensión de su eficacia habrá de ser publicada en el Boletín Oficial del Estado.",
+"Esta solo será posible si el procedimiento aún se encuentra en la fase de iniciación."
+]
+},
+{
+"id": "au-23-006",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (23) - Ley 39/2015 (arts. 112 a 120)",
+"n": 6,
+"enunciado": "Señale la respuesta incorrecta en relación con la resolución de los recursos administrativos, de acuerdo con el artículo 119 de la Ley 39/2015:",
+"opciones": [
+"Excepcionalmente, podrá agravar la situación inicial del recurrente.",
+"Será congruente con las peticiones formuladas por el recurrente.",
+"Estimará en todo o en parte o desestimará las pretensiones formuladas en el mismo o declarará su inadmisión.",
+"Decidirá cuantas cuestiones plantee el procedimiento, hayan sido o no alegadas por los interesados."
+]
+},
+{
+"id": "au-23-007",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (23) - Ley 39/2015 (arts. 112 a 120)",
+"n": 7,
+"enunciado": "De acuerdo con el artículo 118 de la Ley 39/2015, cuando en la resolución del recurso hayan de tenerse en cuenta nuevos hechos o documentos no recogidos en el expediente originario se pondrán de manifiesto a los interesados, por un plazo:",
+"opciones": [
+"No inferior a quince días.",
+"No superior a quince días.",
+"No inferior a diez días ni superior a treinta.",
+"No inferior a diez días ni superior a quince."
+]
+},
+{
+"id": "au-23-008",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (23) - Ley 39/2015 (arts. 112 a 120)",
+"n": 8,
+"enunciado": "¿Puede prolongarse la suspensión de la ejecución del acto impugnado después de agotada la vía administrativa?",
+"opciones": [
+"Sí, cuando se haya adoptado medida cautelar y los efectos de esta se extiendan a la vía contencioso-administrativa.",
+"Sí, en todo caso.",
+"Sí, aun cuando no se haya adoptado medida cautelar.",
+"Sí, cuando se haya adoptado medida cautelar, aun cuando los efectos de esta no se extiendan a la vía judicial."
+]
+},
+{
+"id": "au-23-009",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (23) - Ley 39/2015 (arts. 112 a 120)",
+"n": 9,
+"enunciado": "Según el artículo 118 de la Ley 39/2015, NO se tendrán en cuenta en la resolución de un recurso aquellos hechos, documentos o alegaciones del recurrente:",
+"opciones": [
+"Aportados al expediente antes de recaer la resolución impugnada.",
+"Cuando habiendo podido aportarlos en el trámite de alegaciones no lo haya hecho.",
+"Aportados al expediente después de recaer la resolución impugnada.",
+"En la resolución se tendrán en cuenta todos los hechos, documentos o alegaciones del recurrente."
+]
+},
+{
+"id": "au-23-010",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (23) - Ley 39/2015 (arts. 112 a 120)",
+"n": 10,
+"enunciado": "En la tramitación de los recursos administrativos, ¿en qué caso NO podrá solicitarse la realización de la práctica de la prueba?",
+"opciones": [
+"Cuando su falta de realización en el procedimiento en el que se dictó la resolución recurrida fuera imputable al interesado.",
+"Cuando su realización supusiera gastos que la Administración no tenga el deber de soportar.",
+"Cuando la prueba solicitada hubiese sido denegada en el procedimiento principal.",
+"La ley 39/2015 no establece límitaciones a la práctica de la prueba en la tramitación de los recursos administrativos."
+]
+},
+{
+"id": "au-23-011",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (23) - Ley 39/2015 (arts. 112 a 120)",
+"n": 11,
+"enunciado": "De acuerdo con la Ley 39/2015, ¿cuál de los siguientes actos NO pone fin a la vía administrativa?",
+"opciones": [
+"Las resoluciones de los procedimientos a que se refiere el artículo 112.2.",
+"Las resoluciones de los órganos administrativos que carezcan de superior jerárquico, en todo caso.",
+"Las resoluciones de los recursos de alzada.",
+"Los acuerdos, pactos, convenios o contratos que tengan la consideración de finalizadores."
+]
+},
+{
+"id": "au-23-012",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (23) - Ley 39/2015 (arts. 112 a 120)",
+"n": 12,
+"enunciado": "Señale la respuesta incorrecta. La interposición del recurso deberá expresar:",
+"opciones": [
+"Las pruebas que se proponen practicar.",
+"Órgano, centro o unidad administrativa al que se dirige y su correspondiente código de identificación.",
+"El nombre y apellidos del recurrente, así como la identificación personal del mismo.",
+"Lugar, fecha, firma del recurrente, identificación del medio y, en su caso, del lugar que se señale a efectos de notificaciones."
+]
+},
+{
+"id": "au-23-013",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (23) - Ley 39/2015 (arts. 112 a 120)",
+"n": 13,
+"enunciado": "De las siguientes, ¿cuál no es una de las causas de inadmisión de los recursos recogidas en el artículo 116 de la Ley 39/2015?",
+"opciones": [
+"Ser incompetente el órgano administrativo, cuando el competente perteneciera a la misma Administración Pública.",
+"Tratarse de un acto no susceptible de recurso o haber transcurrido el plazo para su interposición.",
+"Carecer de legitimación el recurrente.",
+"Carecer el recurso manifiestamente de fundamento."
+]
+},
+{
+"id": "au-23-014",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (23) - Ley 39/2015 (arts. 112 a 120)",
+"n": 14,
+"enunciado": "Las resoluciones de los órganos administrativos que carezcan de superior jerárquico:",
+"opciones": [
+"Ponen fin a la vía administrativa, salvo que una Ley establezca lo contrario.",
+"Ponen fin a la vía administrativa, en todo caso.",
+"No ponen fin a la vía administrativa, salvo que una Ley establezca lo contrario.",
+"No ponen fin a la vía administrativa, en ningún caso."
+]
+},
+{
+"id": "au-23-015",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (23) - Ley 39/2015 (arts. 112 a 120)",
+"n": 15,
+"enunciado": "No será causa de inadmisión de un recurso administrativo:",
+"opciones": [
+"No haber transcurrido el plazo para la interposición del recurso.",
+"Carecer el recurso manifiestamente de fundamento.",
+"Tratarse de un acto no susceptible de recurso.",
+"Carecer de legitimación el recurrente."
+]
+},
+{
+"id": "au-24-003",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (24) - Ley 39/2015 (arts. 121 a 126)",
+"n": 3,
+"enunciado": "¿Puede recurrirse la resolución de un recurso de alzada en vía administrativa?",
+"opciones": [
+"No, salvo que se interponga el recurso extraordinario de revisión, en los casos establecidos en el artículo 125.1.",
+"Sí, mediante recurso potestativo de reposición.",
+"Sí, por una sola vez, a través de un segundo recurso de alzada.",
+"No, salvo que dicha resolución ponga fin a la vía administrativa."
+]
+},
+{
+"id": "au-24-004",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (24) - Ley 39/2015 (arts. 121 a 126)",
+"n": 4,
+"enunciado": "¿Qué plazo establece la Ley 39/2015 para dictar y notificar la resolución de un recurso potestativo de reposición?",
+"opciones": [
+"Un mes.",
+"Tres meses, si el acto fuera expreso.",
+"Tres meses.",
+"Dos meses."
+]
+},
+{
+"id": "au-24-005",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (24) - Ley 39/2015 (arts. 121 a 126)",
+"n": 5,
+"enunciado": "De acuerdo con el artículo 123 de la Ley 39/2015, interpuesto recurso potestativo de reposición, no podrá interponerse recurso contencioso-administrativo:",
+"opciones": [
+"En ningún momento.",
+"Hasta que transcurran tres meses desde su interposición.",
+"Hasta que sea resuelto expresamente el recurso interpuesto o se haya producido su desestimación presunta.",
+"Hasta que transcurran dos meses desde su interposición."
+]
+},
+{
+"id": "au-24-006",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (24) - Ley 39/2015 (arts. 121 a 126)",
+"n": 6,
+"enunciado": "¿Qué plazo establece el artículo 122 de la Ley 39/2015 para la interposición de un recurso de alzada?",
+"opciones": [
+"1 mes, si el acto fuera expreso y 3 meses, si el acto fuera presunto.",
+"1 mes, si el acto fuera expreso.",
+"3 meses, si el acto fuera expreso.",
+"3 meses, si el acto fuera presunto."
+]
+},
+{
+"id": "au-24-007",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (24) - Ley 39/2015 (arts. 121 a 126)",
+"n": 7,
+"enunciado": "Según la Ley 39/2015, con carácter general, ¿puede recurrirse en vía administrativa una resolución de un órgano administrativo que carezca de superior jerárquico?",
+"opciones": [
+"Sí, mediante recurso de alzada ante el mismo órgano que la hubiera dictado.",
+"No, salvo el recurso extraordinario de reposición, en los casos establecidos en el artículo 125.",
+"Sí, mediante recurso de reposición ante el mismo órgano que la hubiera dictado.",
+"No, salvo el recurso extraordinario de revisión, en los casos establecidos en el artículo 125."
+]
+},
+{
+"id": "au-24-008",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (24) - Ley 39/2015 (arts. 121 a 126)",
+"n": 8,
+"enunciado": "¿Pueden recurrirse los actos administrativos que pongan fin la vía administrativa?",
+"opciones": [
+"Sí, mediante recurso de alzada.",
+"Solo directamente ante el orden jurisdiccional contencioso­-administrativo.",
+"Solo mediante recurso de revisión, en los casos establecidos en el artículo 125.",
+"Sí, mediante recurso de reposición o ser impugnados directamente ante el orden jurisdiccional contencioso-administrativo."
+]
+},
+{
+"id": "au-24-009",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (24) - Ley 39/2015 (arts. 121 a 126)",
+"n": 9,
+"enunciado": "¿Qué plazo establece la Ley 39/2015 para la interposición del recurso de reposición?",
+"opciones": [
+"3 meses, si el acto fuera expreso.",
+"1 mes, si el acto fuera expreso.",
+"1 mes, si el acto fuera presunto.",
+"3 meses, si el acto fuera presunto."
+]
+},
+{
+"id": "au-24-010",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (24) - Ley 39/2015 (arts. 121 a 126)",
+"n": 10,
+"enunciado": "De acuerdo con la Ley 39/2015, contra la resolución de un recurso de reposición:",
+"opciones": [
+"Podrá interponerse de nuevo dicho recurso.",
+"Podrá interponerse recurso de alzada o de reposición.",
+"No podrá interponerse de nuevo dicho recurso.",
+"Podrá interponerse recurso de alzada."
+]
+},
+{
+"id": "au-24-011",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (24) - Ley 39/2015 (arts. 121 a 126)",
+"n": 11,
+"enunciado": "Según la Ley 39/2015, el plazo máximo para dictar y notificar la resolución de un recurso de reposición será de:",
+"opciones": [
+"3 meses.",
+"6 meses.",
+"30 días.",
+"1 mes."
+]
+},
+{
+"id": "au-24-012",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (24) - Ley 39/2015 (arts. 121 a 126)",
+"n": 12,
+"enunciado": "Si el recurso de alzada se hubiera interpuesto ante el órgano que dictó el acto impugnado, éste deberá:",
+"opciones": [
+"Dictar y notificar la resolución en un plazo de un mes.",
+"Dictar y notificar la resolución en un plazo de tres meses.",
+"Inadmitirlo a trámite.",
+"Remitirlo al competente en el plazo de diez días, con su informe y con una copia completa y ordenada del expediente."
+]
+},
+{
+"id": "au-24-013",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (24) - Ley 39/2015 (arts. 121 a 126)",
+"n": 13,
+"enunciado": "Transcurrido el plazo para la interposición del recurso de reposición, únicamente podrá interponerse:",
+"opciones": [
+"Recurso extraordinario de revisión.",
+"Recurso contencioso-administrativo, sin perjuicio, en su caso, de la procedencia del recurso extraordinario de revisión.",
+"Recurso extraordinario de reposición.",
+"Recurso de alzada."
+]
+},
+{
+"id": "au-24-014",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (24) - Ley 39/2015 (arts. 121 a 126)",
+"n": 14,
+"enunciado": "¿Contra qué actos administrativos procede interponer el recurso extraordinario de revisión?",
+"opciones": [
+"Contra los actos que no pongan fin a la vía administrativa.",
+"Contra los actos firmes en vía administrativa.",
+"Contra los actos que pongan fin a la vía administrativa.",
+"Contra los actos que aún no hayan adquirido firmeza en vía administrativa."
+]
+},
+{
+"id": "au-24-015",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (24) - Ley 39/2015 (arts. 121 a 126)",
+"n": 15,
+"enunciado": "¿Qué sucede si no se interpone el recurso de alzada en el plazo establecido?",
+"opciones": [
+"Que se pondrá fin a la vía administrativa.",
+"Que el recurso será firme a todos los efectos.",
+"Que la resolución será firme a todos los efectos.",
+"Que ya solo cabrá interponer recurso potestativo de reposición."
+]
+},
+{
+"id": "au-25-001",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (25) - Ley 39/2015 (arts. 121 a 126)",
+"n": 1,
+"enunciado": "¿Puede inadmitirse a trámite un recurso extraordinario de revisión?",
+"opciones": [
+"Sí, motivadamente, sin necesidad de recabar dictamen del Consejo de Estado u órgano consultivo de la Comunidad Autónoma.",
+"Sí, cuando no se base en nulidad de pleno derecho.",
+"Sí, salvo petición de informe preceptivo del Consejo Consultivo.",
+"Sí, previo informe vinculante del Consejo Consultivo."
+]
+},
+{
+"id": "au-25-002",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (25) - Ley 39/2015 (arts. 121 a 126)",
+"n": 2,
+"enunciado": "¿Qué plazo establece la Ley 39/2015 para interponer recurso extraordinario de revisión cuando al dictar el acto administrativo se hubiera incurrido en error de hecho, que resulte de los propios documentos incorporados al expediente?",
+"opciones": [
+"1 mes.",
+"4 años.",
+"3 meses.",
+"1 año."
+]
+},
+{
+"id": "au-25-003",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (25) - Ley 39/2015 (arts. 121 a 126)",
+"n": 3,
+"enunciado": "¿Qué plazo señala la Ley 39/2015 para la interposición del recurso extraordinario de revisión cuando la resolución se hubiese dictado como consecuencia de prevaricación?",
+"opciones": [
+"4 años, a contar desde la fecha de la notificación de la resolución impugnada.",
+"3 meses, a contar desde que la sentencia judicial quedó firme.",
+"3 meses, a contar desde la fecha de la notificación de la resolución impugnada.",
+"4 años, a contar desde que la sentencia judicial quedó firme."
+]
+},
+{
+"id": "au-25-004",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (25) - Ley 39/2015 (arts. 121 a 126)",
+"n": 4,
+"enunciado": "¿En qué plazo puede interponerse el recurso de reposición contra un acto presunto que ponga fin a la vía administrativa?",
+"opciones": [
+"En el plazo de un mes.",
+"No cabe su interposición.",
+"En el plazo de tres meses.",
+"En cualquier momento."
+]
+},
+{
+"id": "au-25-005",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (25) - Ley 39/2015 (arts. 121 a 126)",
+"n": 5,
+"enunciado": "De conformidad con el artículo 126 de la Ley 39/2015, el recurso extraordinario de revisión se entenderá desestimado cuando no se hubiera dictado y notificado resolución, transcurrido el plazo de:",
+"opciones": [
+"Transcurrido el plazo sin que se hubiera dictado y notificado la resolución, el recurso se entenderá estimado.",
+"3 meses.",
+"1 mes.",
+"6 meses."
+]
+},
+{
+"id": "au-25-006",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (25) - Ley 39/2015 (arts. 121 a 126)",
+"n": 6,
+"enunciado": "Según la Ley 39/2015, ¿en qué plazo puede interponerse recurso extraordinario de revisión cuando hayan influido esencialmente en la resolución testimonios declarados falsos por sentencia judicial firme?",
+"opciones": [
+"4 años siguientes a la fecha de la notificación de la resolución impugnada.",
+"6 meses, a contar desde que la sentencia judicial quedó firme.",
+"3 meses, a contar desde que la sentencia judicial quedó firme.",
+"3 meses siguientes a la fecha de la notificación de la resolución impugnada."
+]
+},
+{
+"id": "au-25-007",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (25) - Ley 39/2015 (arts. 121 a 126)",
+"n": 7,
+"enunciado": "De acuerdo con el artículo 121.2 de la Ley 39/2015, el recurso de alzada podrá interponerse:",
+"opciones": [
+"Ante el órgano que dictó el acto que se impugna o ante el competente para resolverlo.",
+"Únicamente, ante el órgano que dictó el acto que se impugna.",
+"Únicamente, ante el órgano competente para resolver el acto que se impugna.",
+"En todo caso, ante el superior jerárquico del órgano que dictó el acto impugnado."
+]
+},
+{
+"id": "au-25-008",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (25) - Ley 39/2015 (arts. 121 a 126)",
+"n": 8,
+"enunciado": "Respecto al recurso de alzada, transcurrido tres meses sin que recaiga resolución, salvo en el supuesto previsto en el artículo 24.1, tercer párrafo, se podrá entender:",
+"opciones": [
+"Estimado el recurso.",
+"Desestimado el recurso.",
+"Caducado del recurso.",
+"Suspendido el recurso."
+]
+},
+{
+"id": "au-25-009",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (25) - Ley 39/2015 (arts. 121 a 126)",
+"n": 9,
+"enunciado": "Si el acto no fuera expreso, el solicitante y otros posibles interesados podrán interponer recurso de reposición en el plazo de:",
+"opciones": [
+"En cualquier momento.",
+"1 mes.",
+"2 meses.",
+"3 meses."
+]
+},
+{
+"id": "au-25-010",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (25) - Ley 39/2015 (arts. 121 a 126)",
+"n": 10,
+"enunciado": "Contra la resolución de un recurso de reposición:",
+"opciones": [
+"No podrá interponerse de nuevo dicho recurso.",
+"No cabrá recurso alguno, ni en vía administrativa, ni en vía judicial.",
+"Solo podrá interponerse de nuevo dicho recurso cuando aparezcan nuevos documentos de valor esencial.",
+"Solo cabrá la interposición de un recurso de alzada."
+]
+},
+{
+"id": "au-25-011",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (25) - Ley 39/2015 (arts. 121 a 126)",
+"n": 11,
+"enunciado": "Contra los actos firmes en vía administrativa, cuando concurran determinadas circunstancias, cabrá interponer:",
+"opciones": [
+"Recurso extraordinario de revisión ante el superior jerárquico del que los dictó.",
+"Recurso extraordinario de revisión ante el órgano administrativo que los dictó.",
+"Recurso de alzada ante el superior jerárquico del que los dictó.",
+"Recurso potestativo de reposición ante el órgano administrativo que los dictó."
+]
+},
+{
+"id": "au-25-012",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (25) - Ley 39/2015 (arts. 121 a 126)",
+"n": 12,
+"enunciado": "Según la Ley 39/2015, ¿qué resoluciones y actos administrativos podrán ser objeto de recurso de alzada?",
+"opciones": [
+"Aquellos a que se refiere el artículo 112.1, cuando pongan fin a la vía administrativa.",
+"Aquellos a que se refiere el artículo 112.1, cuando sean firmes en vía administrativa.",
+"Aquellos a que se refiere el artículo 112.1, cuando no pongan fin a la vía administrativa.",
+"Aquellos a que se refiere el artículo 112.l, cuando agoten la vía administrativa."
+]
+},
+{
+"id": "au-25-013",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (25) - Ley 39/2015 (arts. 121 a 126)",
+"n": 13,
+"enunciado": "Según el artículo 121 de la Ley 39/2015, si el recurso de alzada se interpuso ante el órgano que dictó el acto impugnado, éste deberá remitirlo al competente, con su informe y con una copia completa y ordenada del expediente, en el plazo de:",
+"opciones": [
+"10 días.",
+"20 días.",
+"15 días.",
+"5 días."
+]
+},
+{
+"id": "au-25-014",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (25) - Ley 39/2015 (arts. 121 a 126)",
+"n": 14,
+"enunciado": "Según la Ley 39/2015, transcurridos tres meses desde la interposición del recurso extraordinario de revisión sin haberse dictado y notificado la resolución:",
+"opciones": [
+"Se entenderá estimado.",
+"Se entenderá desestimado, quedando expedita la vía jurisdiccional contencioso-administrativa.",
+"Se entenderá estimado, quedando expedita la vía jurisdiccional contencioso-administrativa.",
+"Se entenderá prescrito."
+]
+},
+{
+"id": "au-25-015",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (25) - Ley 39/2015 (arts. 121 a 126)",
+"n": 15,
+"enunciado": "Según la Ley 39/2015, ¿en qué plazo puede interponerse recurso extraordinario de revisión cuando aparezcan documentos de valor esencial para la resolución del asunto que, aunque sean posteriores, evidencien el error de la resolución recurrida?",
+"opciones": [
+"4 años, a partir de la fecha de la notificación de la resolución impugnada.",
+"3 meses, a contar desde el conocimiento de los documentos.",
+"4 años, a contar desde el conocimiento de los documentos.",
+"1 mes, a contar desde el conocimiento de los documentos."
+]
+}
+]
+}

@@ -1,0 +1,488 @@
+{
+"au-23-001": {
+ "bloque": "recursos",
+ "precepto": "Art. 114.2.b) de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. “Cualquier órgano directivo” es demasiado amplio. Los órganos directivos solo agotan la vía si tienen nivel de Director general o superior, y solo en materia de personal (art. 114.2.c).",
+  "Es esta. El **art. 114.2.b)** dice que en el ámbito estatal ponen fin a la vía administrativa los actos de los Ministros y de los Secretarios de Estado, en el ejercicio de sus competencias. “Poner fin a la vía administrativa” significa que ya no cabe recurso de alzada.",
+  "No. Los Subsecretarios no aparecen en la lista junto a Ministros y Secretarios de Estado. Te han cambiado “Secretarios de Estado” por “Subsecretarios”. Con carácter general, los actos de un Subsecretario no agotan la vía, salvo los de personal por la letra c).",
+  "No. Te han bajado el nivel: el **art. 114.2.c)** habla de “Director general o superior”, no de Subdirector general."
+ ],
+ "ojo": "Para recordarlo: Ministros y Secretarios de Estado en todas sus competencias; Director general o superior, solo en personal."
+},
+"au-23-002": {
+ "bloque": "recursos",
+ "precepto": "Art. 116.c) de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. Es justo al revés: equivocarse al calificar el recurso, o no calificarlo, no impide tramitarlo si se deduce qué recurso es (art. 115.2). Y “en todo caso” lo empeora.",
+  "Es esta. El **art. 116.c)** recoge como causa de inadmisión “tratarse de un acto no susceptible de recurso”. Inadmitir es rechazar el recurso sin entrar a estudiar el fondo.",
+  "No. Te han dado la vuelta a la frase. La causa es que el plazo **haya transcurrido** (art. 116.d), no que siga abierto. Si el plazo no ha expirado, recurres a tiempo.",
+  "No. No vale “cualquier órgano”. Solo se inadmite por incompetencia si el órgano competente pertenece a **otra Administración Pública**, y aun así el recurso debe remitirse al competente (art. 116.a)."
+ ]
+},
+"au-23-003": {
+ "bloque": "recursos",
+ "precepto": "Art. 117.2 de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. El **art. 117.2** dice que puede suspender “el órgano a quien competa resolver el recurso”, de oficio o a petición del recurrente. Tiene sentido: quien va a decidir el recurso decide también si el acto se ejecuta mientras tanto.",
+  "No. En el recurso de alzada resuelve el superior jerárquico, no quien dictó el acto (art. 121.1). Solo coinciden en la reposición, así que esta opción no sirve como regla.",
+  "No. Importa quién resuelve, no a quién se dirige. Por ejemplo, una alzada puede presentarse ante el órgano que dictó el acto (art. 121.2), pero ese órgano no la resuelve ni decide la suspensión.",
+  "No. Sube un escalón de más. Decide el propio órgano competente para resolver, no su superior."
+ ]
+},
+"au-23-004": {
+ "bloque": "recursos",
+ "precepto": "Art. 119.2 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. Desestimar es decidir sobre el fondo, y aquí se parte de que no procede resolver sobre el fondo. La salida es volver atrás en el procedimiento.",
+  "No. El vicio de forma no está entre las causas de inadmisión del art. 116. Además, el recurso ya se está resolviendo, no está en la entrada a trámite.",
+  "Es esta. El **art. 119.2** ordena la “retroacción” del procedimiento al momento en que se cometió el vicio. Retroacción significa volver a ese punto y repetir desde ahí lo que se hizo mal.",
+  "No. La convalidación es solo una posibilidad eventual y la acuerda el órgano competente según el art. 52, que se refiere a actos anulables. No es lo que se ordena como regla, y “con independencia del motivo” es falso."
+ ]
+},
+"au-23-005": {
+ "bloque": "recursos",
+ "precepto": "Art. 117.5 de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. El **art. 117.5** dice que la suspensión “habrá de ser publicada en el periódico oficial en que aquél se insertó”. Es lógico: si el acto se dio a conocer en un boletín, la suspensión se anuncia en ese mismo boletín.",
+  "No. Con una pluralidad indeterminada de personas no se sabe quiénes son, así que no se les puede notificar uno a uno. Por eso se publica.",
+  "No. No tiene que ser siempre el BOE. Es el mismo periódico oficial en que se publicó el acto, que puede ser, por ejemplo, un boletín autonómico.",
+  "No. El art. 117 no contiene ese límite de la “fase de iniciación”. Además, aquí ya estamos en vía de recurso."
+ ],
+ "ojo": "La trampa es el BOE: el boletín correcto es “el mismo en que se publicó el acto”."
+},
+"au-23-006": {
+ "bloque": "recursos",
+ "precepto": "Art. 119.3 de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Esta es la falsa, y por eso es la que hay que marcar. El **art. 119.3** dice que “en ningún caso” puede agravarse la situación inicial del recurrente. No hay excepciones: recurrir nunca te puede dejar peor de lo que estabas.",
+  "Es verdadera, así que no se marca. El art. 119.3 exige que la resolución sea congruente con lo que pide el recurrente, es decir, que responda a sus peticiones.",
+  "Es verdadera, así que no se marca. Es el art. 119.1 casi al pie de la letra: estimar en todo o en parte, desestimar o inadmitir.",
+  "Es verdadera, así que no se marca. Lo dice el art. 119.3. Si la cuestión no la alegaron los interesados, antes hay que oírlos."
+ ],
+ "ojo": "Te han colado “excepcionalmente” donde la ley dice “en ningún caso”."
+},
+"au-23-007": {
+ "bloque": "recursos",
+ "precepto": "Art. 118.1 de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "No. Falta el tope máximo y el mínimo está mal. La ley fija un mínimo de diez días, no de quince, y quince es el máximo.",
+  "No. Es cierto que quince es el máximo, pero falta el mínimo de diez días.",
+  "No. El mínimo de diez es correcto, pero el máximo es de quince días, no de treinta.",
+  "Es esta. El **art. 118.1** da a los interesados un plazo “no inferior a diez días ni superior a quince” para alegar y presentar documentos. Fíjate en la horquilla: de 10 a 15 días."
+ ]
+},
+"au-23-008": {
+ "bloque": "recursos",
+ "precepto": "Art. 117.4 de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. El **art. 117.4** permite prolongar la suspensión tras agotar la vía administrativa cuando, habiéndolo pedido antes el interesado, exista medida cautelar y sus efectos se extiendan a la vía contencioso-administrativa. Una medida cautelar es una medida provisional que protege el resultado mientras se decide.",
+  "No. “En todo caso” sobra: la prolongación solo ocurre si se cumplen las condiciones del art. 117.4.",
+  "No. La medida cautelar es precisamente un requisito. Sin ella, esta regla no se aplica.",
+  "No. No basta con que exista la medida cautelar: sus efectos tienen que extenderse a la vía contencioso-administrativa. Esta opción dice justo lo contrario."
+ ],
+ "ojo": "El mismo artículo añade otro caso: si el interesado va al contencioso y pide la suspensión, esta se mantiene hasta que el juez se pronuncie sobre esa petición."
+},
+"au-23-009": {
+ "bloque": "recursos",
+ "precepto": "Art. 118.1, párrafo segundo, de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. Lo que se aportó antes de la resolución impugnada ya está en el expediente. El art. 118.3 solo dice que no se considera “documento nuevo”, no que deje de tenerse en cuenta.",
+  "Es esta. El **art. 118.1** dice que no se tendrán en cuenta los hechos, documentos o alegaciones del recurrente “cuando habiendo podido aportarlos en el trámite de alegaciones no lo haya hecho”. Quien pudo presentarlos a tiempo y no lo hizo pierde esa oportunidad.",
+  "No. Lo que excluye la ley no es que lleguen después, sino que **pudieran haberse aportado antes** y no se aportaran. Un documento que no se podía aportar antes sí puede valorarse.",
+  "No. El art. 118.1 sí pone un límite, el de quien pudo aportarlos en alegaciones y no lo hizo. Por eso no se tiene en cuenta “todo”."
+ ]
+},
+"au-23-010": {
+ "bloque": "recursos",
+ "precepto": "Art. 118.1, párrafo segundo, de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. El **art. 118.1** dice que no podrá pedirse la práctica de pruebas cuando no se hicieron en el procedimiento anterior por culpa del interesado. Dicho fácil: si la prueba no se hizo por tu causa, no la pidas ahora en el recurso.",
+  "No. Los gastos no impiden pedir la prueba. Según el art. 78.3, la Administración puede exigir que el interesado los adelante, pero la prueba se puede solicitar.",
+  "No. La ley no pone ese límite. El límite depende de que la falta de la prueba sea imputable al interesado, y una prueba que le denegaron no se dejó de hacer por su culpa.",
+  "No. El art. 118.1 sí establece una limitación: la de la opción primera."
+ ]
+},
+"au-23-011": {
+ "bloque": "recursos",
+ "precepto": "Art. 114.1 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "Pone fin a la vía, así que no es la respuesta. Es el art. 114.1.b): los procedimientos que sustituyen a la alzada según el art. 112.2.",
+  "Es esta. El **art. 114.1.c)** dice que agotan la vía “salvo que una Ley establezca lo contrario”. Por eso “en todo caso” es lo que falla: una ley puede disponer otra cosa, así que no siempre ponen fin a la vía.",
+  "Pone fin a la vía, así que no es la respuesta. Es el art. 114.1.a): tras resolverse una alzada ya no cabe otra alzada.",
+  "Pone fin a la vía, así que no es la respuesta. Es el art. 114.1.d): los acuerdos, pactos, convenios o contratos que tengan la consideración de finalizadores del procedimiento."
+ ],
+ "ojo": "La trampa está en dos palabras: “en todo caso” sustituye a “salvo que una Ley establezca lo contrario”."
+},
+"au-23-012": {
+ "bloque": "recursos",
+ "precepto": "Art. 115.1 de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Esta es la falsa, y por eso es la que hay que marcar. Las pruebas propuestas no están en la lista del **art. 115.1**. Lo que sí se exige, y aquí no aparece, es indicar el acto que se recurre y la razón de la impugnación (letra b).",
+  "Es verdadera, así que no se marca. Es el art. 115.1.d).",
+  "Es verdadera, así que no se marca. Es el art. 115.1.a).",
+  "Es verdadera, así que no se marca. Es el art. 115.1.c)."
+ ]
+},
+"au-23-013": {
+ "bloque": "recursos",
+ "precepto": "Art. 116.a) de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Esta es la que no es causa de inadmisión, y por eso es la que hay que marcar. El **art. 116.a)** habla de un competente que pertenezca a **otra** Administración Pública, no a la misma. Te han cambiado esa palabra.",
+  "Es causa de inadmisión, así que no se marca. Son las letras c) y d) del art. 116, aquí juntas en una sola opción.",
+  "Es causa de inadmisión, así que no se marca. Es el art. 116.b).",
+  "Es causa de inadmisión, así que no se marca. Es el art. 116.e)."
+ ],
+ "ojo": "Las cinco causas del art. 116: incompetencia a favor de otra Administración, falta de legitimación, acto no recurrible, plazo vencido y falta manifiesta de fundamento."
+},
+"au-23-014": {
+ "bloque": "recursos",
+ "precepto": "Art. 114.1.c) de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. El **art. 114.1.c)** lo dice casi igual: ponen fin a la vía “salvo que una Ley establezca lo contrario”. Tiene lógica: si el órgano no tiene superior, no hay nadie ante quien presentar una alzada.",
+  "No. “En todo caso” es falso, porque una ley puede establecer lo contrario.",
+  "No. Le han dado la vuelta a la regla. Por norma general sí ponen fin a la vía; la excepción es que una ley diga otra cosa.",
+  "No. Es lo contrario de lo que dice el art. 114.1.c): como regla general, sí ponen fin a la vía."
+ ]
+},
+"au-23-015": {
+ "bloque": "recursos",
+ "precepto": "Art. 116 de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. La causa del **art. 116.d)** es “haber transcurrido” el plazo, no lo contrario. Si el plazo sigue abierto, el recurso llega a tiempo y no hay motivo para inadmitirlo por eso.",
+  "No. Sí es causa de inadmisión: art. 116.e).",
+  "No. Sí es causa de inadmisión: art. 116.c).",
+  "No. Sí es causa de inadmisión: art. 116.b)."
+ ],
+ "ojo": "Lee despacio: un “No” en el enunciado y otro “No” al empezar la opción. Plazo vencido es causa de inadmisión; plazo sin vencer, no."
+},
+"au-24-003": {
+ "bloque": "recursos",
+ "precepto": "Art. 122.3 de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. El **art. 122.3** dice que contra la resolución de una alzada no cabe ningún otro recurso administrativo, salvo el extraordinario de revisión en los casos del art. 125.1. Lo que sí queda abierto es ir a los tribunales, pero eso ya no es vía administrativa.",
+  "No. El art. 122.3 lo descarta: no cabe ningún otro recurso administrativo salvo el de revisión, y la reposición no es la excepción.",
+  "No. No existe una segunda alzada. La ley lo cierra con “ningún otro recurso administrativo”.",
+  "No. La resolución de una alzada siempre pone fin a la vía administrativa (art. 114.1.a), así que esta condición no diferencia nada. Y aun así la única excepción es la revisión."
+ ]
+},
+"au-24-004": {
+ "bloque": "recursos",
+ "precepto": "Art. 124.2 de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. El **art. 124.2** fija en un mes el plazo máximo para dictar y notificar la resolución de la reposición. Reposición: un mes para interponer si el acto es expreso y un mes para resolver.",
+  "No. Mezcla dos cosas. El tipo de acto (expreso o no) influye en el plazo para interponer, no en el de resolver. Y tres meses es el plazo para resolver la alzada.",
+  "No. Tres meses es el plazo máximo para resolver la **alzada** (art. 122.2), no la reposición.",
+  "No. La ley no fija dos meses para resolver este recurso: el plazo es de un mes."
+ ]
+},
+"au-24-005": {
+ "bloque": "recursos",
+ "precepto": "Art. 123.2 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. Sí se podrá acudir al contencioso, pero más tarde: cuando la reposición esté resuelta o desestimada por silencio.",
+  "No. No hay que esperar tres meses desde la interposición. El art. 123.2 no fija ese plazo, y el de resolver la reposición es de un mes (art. 124.2).",
+  "Es esta. El **art. 123.2** dice que no se podrá ir al contencioso hasta que la reposición “sea resuelto expresamente” o se haya producido su desestimación presunta. La desestimación presunta es la que entiendes producida por silencio, si la Administración no contesta a tiempo.",
+  "No. No hay un plazo de dos meses en este artículo. Lo que manda es que se resuelva la reposición o haya desestimación presunta."
+ ],
+ "ojo": "La reposición es voluntaria, pero si la eliges tienes que esperar a que termine antes de ir al juzgado. No se pueden tener las dos vías abiertas a la vez."
+},
+"au-24-006": {
+ "bloque": "recursos",
+ "precepto": "Art. 122.1 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. Lo del mes es correcto, pero en un acto presunto no hay plazo de tres meses: se puede recurrir “en cualquier momento” a partir del día siguiente a los efectos del silencio. Los tres meses venían de la regulación anterior.",
+  "Es esta. El **art. 122.1** fija un plazo de un mes si el acto es expreso. Pasado ese mes sin recurrir, la resolución queda firme, es decir, ya no se puede impugnar por vías ordinarias.",
+  "No. Si el acto es expreso, el plazo es de un mes. Tres meses es el plazo máximo para **resolver** la alzada (art. 122.2).",
+  "No. Si el acto es presunto, no hay plazo fijo: el recurso se puede presentar en cualquier momento a partir del día siguiente a los efectos del silencio."
+ ],
+ "ojo": "No confundas: un mes para interponer, tres meses para resolver."
+},
+"au-24-007": {
+ "bloque": "recursos",
+ "precepto": "Arts. 114.1.c) y 123.1 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. La alzada se presenta ante el superior jerárquico (art. 121.1). Si el órgano no tiene superior, no hay alzada posible.",
+  "No. El “recurso extraordinario de reposición” no existe. Lo extraordinario es la **revisión**, y además aquí sí cabe la reposición ordinaria.",
+  "Es esta. Esa resolución pone fin a la vía administrativa, salvo que una ley diga lo contrario (**art. 114.1.c**). Y los actos que ponen fin a la vía pueden recurrirse en reposición ante el mismo órgano que los dictó (**art. 123.1**), o llevarse directamente al contencioso.",
+  "No. La frase “no, salvo la revisión” es la regla de la resolución de una **alzada** (art. 122.3). Aquí cabe además la reposición, que es potestativa, es decir, voluntaria."
+ ]
+},
+"au-24-008": {
+ "bloque": "recursos",
+ "precepto": "Art. 123.1 de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "No. La alzada es justo para los actos que **no** ponen fin a la vía administrativa (art. 121.1).",
+  "No. La palabra “solo” lo estropea: antes de ir al contencioso puedes elegir la reposición, porque es voluntaria.",
+  "No. También lo estropea “solo”. La revisión es un recurso extraordinario para actos firmes y causas tasadas (art. 125.1), no la vía normal.",
+  "Es esta. El **art. 123.1** te da dos caminos a elegir: reposición ante el mismo órgano o ir directamente al contencioso-administrativo. Por eso se llama “potestativo”: tú decides si lo usas."
+ ]
+},
+"au-24-009": {
+ "bloque": "recursos",
+ "precepto": "Art. 124.1 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. Si el acto es expreso, el plazo es de un mes, no de tres.",
+  "Es esta. El **art. 124.1** fija un mes si el acto es expreso. Acto expreso es el que la Administración dicta de verdad, por escrito, frente al presunto, que resulta del silencio.",
+  "No. Un mes es para el acto expreso. Si el acto es presunto, se puede recurrir en cualquier momento a partir del día siguiente a aquel en que se produzca.",
+  "No. Si el acto es presunto, no hay plazo de tres meses: la ley dice “en cualquier momento”."
+ ]
+},
+"au-24-010": {
+ "bloque": "recursos",
+ "precepto": "Art. 124.3 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. Dice lo contrario del art. 124.3: la reposición no puede repetirse.",
+  "No. Ninguno de los dos cabe. La alzada es para actos que no ponen fin a la vía, y la reposición no se puede repetir.",
+  "Es esta. El **art. 124.3** dice literalmente que “no podrá interponerse de nuevo dicho recurso”. La reposición se usa una sola vez; después queda el contencioso.",
+  "No. La reposición se dirige contra actos que ya ponen fin a la vía administrativa (art. 123.1), así que la alzada no tiene cabida."
+ ]
+},
+"au-24-011": {
+ "bloque": "recursos",
+ "precepto": "Art. 124.2 de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "No. Tres meses es el plazo para resolver la **alzada** (art. 122.2).",
+  "No. La ley no fija seis meses para este recurso: son un mes.",
+  "No. Parece lo mismo, pero no lo es. Un plazo en meses va de fecha a fecha (art. 30.4), y uno en días excluye sábados, domingos y festivos (art. 30.2).",
+  "Es esta. El **art. 124.2** fija el plazo máximo en “un mes”, para dictar y también para notificar la resolución."
+ ],
+ "ojo": "Un mes no son 30 días: cambia la manera de contar. Por eso “30 días” es incorrecta."
+},
+"au-24-012": {
+ "bloque": "recursos",
+ "precepto": "Art. 121.2 de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "No. Ese órgano no resuelve la alzada, porque la resuelve su superior. Lo que tiene que hacer es remitirla.",
+  "No. Tres meses es el plazo del órgano competente para resolver (art. 122.2), no el del órgano que dictó el acto.",
+  "No. La ley permite presentar la alzada ante este órgano (art. 121.2), así que no puede inadmitirla por eso. Debe enviarla.",
+  "Es esta. El **art. 121.2** obliga a remitir el recurso al competente en diez días, con informe y copia completa y ordenada del expediente. El titular del órgano responde directamente de que se cumpla."
+ ]
+},
+"au-24-013": {
+ "bloque": "recursos",
+ "precepto": "Art. 124.1 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. Se queda corta: la revisión solo cabe en su caso, y el recurso que queda como regla es el contencioso-administrativo.",
+  "Es esta. El **art. 124.1** lo dice así: “únicamente podrá interponerse recurso contencioso-administrativo”, sin perjuicio, en su caso, del extraordinario de revisión. Se te pasó la reposición: te queda ir al juzgado, y la revisión solo si se da alguna causa del art. 125.1.",
+  "No. El “recurso extraordinario de reposición” no existe. El extraordinario es el de **revisión**.",
+  "No. La alzada es para actos que no ponen fin a la vía. La reposición va contra actos que ya la agotaron, así que no cabe."
+ ]
+},
+"au-24-014": {
+ "bloque": "recursos",
+ "precepto": "Arts. 113 y 125.1 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. Esos actos se recurren en alzada (art. 121.1).",
+  "Es esta. El **art. 125.1** lo dirige contra “los actos firmes en vía administrativa”, y solo por las causas que enumera. Firme significa que ya no admite los recursos ordinarios, por ejemplo porque ya pasó el plazo.",
+  "No. Poner fin a la vía no es lo mismo que ser firme. Un acto que pone fin a la vía aún admite reposición mientras dure el plazo (art. 123.1).",
+  "No. Es lo contrario: la firmeza es precisamente el requisito de este recurso."
+ ],
+ "ojo": "Distingue bien: un acto que “pone fin a la vía” aún puede recurrirse en reposición o ante el juez; un acto “firme” ya no."
+},
+"au-24-015": {
+ "bloque": "recursos",
+ "precepto": "Art. 122.1 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. Lo que produce el paso del plazo es la firmeza de la resolución, no el fin de la vía administrativa. No son lo mismo: la lista de actos que ponen fin a la vía está en el art. 114.",
+  "No. Lo que queda firme es la **resolución** recurrible, no el recurso. Además, aquí el recurso ni siquiera se ha presentado.",
+  "Es esta. El **art. 122.1** dice que, pasado el plazo sin recurrir, “la resolución será firme a todos los efectos”. Queda consolidada y ya no puede impugnarse por las vías ordinarias.",
+  "No. La reposición es para actos que ponen fin a la vía administrativa (art. 123.1), y aquí estamos ante un acto recurrible en alzada, que no la agota."
+ ]
+},
+"au-25-001": {
+ "bloque": "recursos",
+ "precepto": "Art. 126.1 de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. El **art. 126.1** permite inadmitir motivadamente, sin pedir dictamen al Consejo de Estado ni al órgano consultivo autonómico, en dos casos: si no se funda en las causas del art. 125.1 o si ya se desestimaron en cuanto al fondo otros recursos sustancialmente iguales. Motivadamente quiere decir explicando las razones.",
+  "No. El motivo no es la nulidad de pleno derecho, sino no fundarse en una de las causas del art. 125.1 o haberse desestimado ya otros recursos sustancialmente iguales.",
+  "No. Esa salvedad no existe. El art. 126.1 dice precisamente que no hace falta dictamen para inadmitir.",
+  "No. Es lo contrario: no hace falta ningún dictamen, ni vinculante ni de otro tipo."
+ ]
+},
+"au-25-002": {
+ "bloque": "recursos",
+ "precepto": "Art. 125.2 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. Ni esta causa ni ninguna otra de la revisión tiene un plazo de un mes.",
+  "Es esta. El error de hecho que resulta del propio expediente es la causa a) del art. 125.1, y el **art. 125.2** le da cuatro años desde la notificación de la resolución impugnada. Es la única causa con este plazo.",
+  "No. Tres meses es el plazo de las otras causas: las b), c) y d) del art. 125.1.",
+  "No. La ley no fija un plazo de un año para este recurso."
+ ],
+ "ojo": "Para recordarlo: causa a), 4 años desde la notificación. Todas las demás, 3 meses desde conocer los documentos o desde la firmeza de la sentencia."
+},
+"au-25-003": {
+ "bloque": "recursos",
+ "precepto": "Art. 125.2 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. Cuatro años desde la notificación es solo para la causa a), el error de hecho.",
+  "Es esta. La prevaricación es la causa d) del art. 125.1, y el **art. 125.2** da tres meses desde que la sentencia judicial quedó firme. Prevaricar es dictar a sabiendas una resolución injusta, y debe haberlo declarado una sentencia firme.",
+  "No. El plazo de tres meses es correcto, pero no se cuenta desde la notificación, sino desde que la sentencia judicial quedó firme.",
+  "No. El punto de inicio es correcto, pero el plazo es de tres meses, no de cuatro años."
+ ]
+},
+"au-25-004": {
+ "bloque": "recursos",
+ "precepto": "Art. 124.1, párrafo segundo, de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "No. Un mes es el plazo si el acto es **expreso**. En un acto presunto no hay plazo fijo.",
+  "No. Sí cabe: el art. 124.1 lo permite expresamente al solicitante y a otros posibles interesados.",
+  "No. Es una confusión con plazos de otras regulaciones o del recurso de alzada. Aquí la ley no fija tres meses para interponer.",
+  "Es esta. El **art. 124.1** dice que, si el acto no es expreso, se puede interponer reposición “en cualquier momento” a partir del día siguiente a aquel en que se produzca el acto presunto. El acto presunto es el que resulta del silencio de la Administración."
+ ]
+},
+"au-25-005": {
+ "bloque": "recursos",
+ "precepto": "Art. 126.3 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. El silencio en este recurso es **desestimatorio**, no estimatorio: si no te contestan, se entiende que te dicen que no (art. 126.3).",
+  "Es esta. El **art. 126.3** fija tres meses desde la interposición. Pasados sin resolución notificada, el recurso se entiende desestimado y puedes ir al contencioso.",
+  "No. Un mes es el plazo para resolver la **reposición** (art. 124.2).",
+  "No. La ley no fija seis meses para este recurso, sino tres."
+ ]
+},
+"au-25-006": {
+ "bloque": "recursos",
+ "precepto": "Arts. 125.1.c) y 125.2 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. Cuatro años desde la notificación es el plazo de la causa a), el error de hecho, no de esta.",
+  "No. El punto de inicio es correcto, pero el plazo es de tres meses, no de seis.",
+  "Es esta. Los testimonios declarados falsos por sentencia firme son la causa c) del art. 125.1, y el **art. 125.2** da tres meses desde que la sentencia judicial quedó firme. Tiene lógica: hasta esa sentencia no consta oficialmente la falsedad.",
+  "No. El plazo es correcto, pero no se cuenta desde la notificación, sino desde que la sentencia quedó firme."
+ ]
+},
+"au-25-007": {
+ "bloque": "recursos",
+ "precepto": "Art. 121.2 de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. El **art. 121.2** te da dos opciones: presentarlo ante el órgano que dictó el acto o ante el competente para resolverlo. Si lo presentas ante el primero, este debe enviarlo al segundo en diez días.",
+  "No. Sobra “únicamente”: también puedes presentarlo ante el órgano competente para resolver.",
+  "No. Sobra “únicamente”: también puedes presentarlo ante el órgano que dictó el acto. Además, lo que se resuelve es el recurso, no el acto.",
+  "No. El superior jerárquico es quien resuelve, pero “en todo caso” es falso: el recurso puede presentarse también ante quien dictó el acto."
+ ]
+},
+"au-25-008": {
+ "bloque": "recursos",
+ "precepto": "Art. 122.2 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. Estimado sería solo en la excepción del art. 24.1, tercer párrafo, que el propio enunciado deja fuera con “salvo”.",
+  "Es esta. El **art. 122.2** dice que, pasados tres meses sin resolución, “se podrá entender desestimado el recurso”. Es decir: si no te contestan, puedes entender que te han dicho que no, y seguir adelante en el juzgado.",
+  "No. La caducidad no es el efecto que prevé este artículo. El silencio aquí desestima el recurso.",
+  "No. No hay suspensión: el efecto del paso del tiempo es la desestimación."
+ ],
+ "ojo": "La excepción del art. 24.1 es el “doble silencio”: si recurres en alzada una solicitud desestimada por silencio y tampoco te contestan, el recurso se entiende estimado, salvo en las materias que enumera ese artículo."
+},
+"au-25-009": {
+ "bloque": "recursos",
+ "precepto": "Art. 124.1, párrafo segundo, de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. El **art. 124.1** dice que, si el acto no es expreso, el solicitante y otros posibles interesados pueden interponer reposición “en cualquier momento” a partir del día siguiente a aquel en que se produzca el acto presunto.",
+  "No. Un mes es el plazo si el acto es **expreso**. Aquí el enunciado dice que no lo es.",
+  "No. La ley no fija dos meses para este recurso. El acto presunto no tiene plazo fijo.",
+  "No. No hay plazo de tres meses. Si no hay acto expreso, se puede recurrir en cualquier momento."
+ ]
+},
+"au-25-010": {
+ "bloque": "recursos",
+ "precepto": "Art. 124.3 de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. El **art. 124.3** lo dice con esas mismas palabras: “no podrá interponerse de nuevo dicho recurso”. Una vez resuelta la reposición, no se repite.",
+  "No. Es exagerado. Sigue abierto el contencioso-administrativo y, si se da alguna causa del art. 125.1, el extraordinario de revisión.",
+  "No. Los documentos nuevos de valor esencial son una causa del **recurso extraordinario de revisión** (art. 125.1.b), no una forma de repetir la reposición.",
+  "No. La alzada es para actos que no ponen fin a la vía administrativa (art. 121.1), y la reposición va contra los que sí la agotan."
+ ]
+},
+"au-25-011": {
+ "bloque": "recursos",
+ "precepto": "Art. 125.1 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. El recurso es el correcto, pero no va al superior. Se presenta ante el mismo órgano que dictó el acto.",
+  "Es esta. El **art. 125.1** dice que se presenta “ante el órgano administrativo que los dictó”, que además es quien lo resuelve. Es un recurso extraordinario: solo cabe por las causas tasadas de ese artículo.",
+  "No. La alzada se usa con actos que no ponen fin a la vía (art. 121.1) y dentro de plazo, no con actos firmes.",
+  "No. El órgano es correcto, pero el recurso no. La reposición va contra actos que ponen fin a la vía y dentro de plazo (arts. 123 y 124), no contra actos ya firmes."
+ ]
+},
+"au-25-012": {
+ "bloque": "recursos",
+ "precepto": "Art. 121.1 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. Te han quitado el “no”. Si ponen fin a la vía, el recurso que cabe es la reposición (art. 123.1), no la alzada.",
+  "No. Contra los actos firmes solo cabe el extraordinario de revisión (art. 125.1).",
+  "Es esta. El **art. 121.1** dice que los actos del art. 112.1 “cuando no pongan fin a la vía administrativa” pueden recurrirse en alzada ante el superior jerárquico. Si el acto aún puede revisarlo un superior, hay alzada.",
+  "No. “Agotar la vía” es otra forma de decir “poner fin a la vía”, así que falla igual que la primera opción: en ese caso toca reposición."
+ ]
+},
+"au-25-013": {
+ "bloque": "recursos",
+ "precepto": "Art. 121.2, párrafo segundo, de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. El **art. 121.2** fija “el plazo de diez días” para remitir el recurso al órgano competente, con el informe y una copia completa y ordenada del expediente.",
+  "No. Te han cambiado el plazo: son diez días, no veinte.",
+  "No. Te han cambiado el plazo: son diez días, no quince.",
+  "No. Te han cambiado el plazo: son diez días, no cinco."
+ ]
+},
+"au-25-014": {
+ "bloque": "recursos",
+ "precepto": "Art. 126.3 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. El silencio aquí es desestimatorio: se entiende que te dicen que no.",
+  "Es esta. El **art. 126.3** dice “se entenderá desestimado, quedando expedita la vía jurisdiccional contencioso-administrativa”. “Expedita” significa libre: ya puedes acudir al juzgado.",
+  "No. La segunda parte es correcta, pero han cambiado “desestimado” por “estimado”.",
+  "No. La prescripción no tiene nada que ver aquí. El efecto del paso de los tres meses es la desestimación."
+ ]
+},
+"au-25-015": {
+ "bloque": "recursos",
+ "precepto": "Arts. 125.1.b) y 125.2 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. Cuatro años desde la notificación es el plazo de la causa a), el error de hecho, no el de esta.",
+  "Es esta. Los documentos de valor esencial son la causa b) del art. 125.1, y el **art. 125.2** da tres meses desde que los conoces. Tiene sentido: el plazo empieza cuando sabes que existen.",
+  "No. El inicio es correcto, pero han mezclado los plazos: desde el conocimiento de los documentos son tres meses, no cuatro años.",
+  "No. El inicio es correcto, pero el plazo es de tres meses, no de uno."
+ ]
+}
+}

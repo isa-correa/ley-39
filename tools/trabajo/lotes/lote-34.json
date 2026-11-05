@@ -1,0 +1,214 @@
+{
+"lote": 34,
+"casos": {
+"caso-16": {
+"id": "caso-16",
+"titulo": "Ejercicio nº 12 - Régimen de subsanación",
+"texto": "Don Álvaro Martín Rivas, actuando en nombre y representación de TecnoMotores del Norte, S.L., presentó el 4 de marzo de 2026 tres solicitudes dirigidas a la Dirección General de Programas Industriales, adscrita al Ministerio de Industria y Turismo, todas ellas relacionadas con actuaciones de modernización tecnológica en el ámbito industrial.\nLa primera solicitud fue presentada en el Registro Electrónico General de la Junta de Castilla y León y tuvo entrada en el Registro Electrónico General de la Administración General del Estado el 6 de marzo de 2026. La solicitud tenía por objeto el reconocimiento de un proyecto de modernización tecnológica de una línea de producción. Al no haberse acompañado determinados documentos preceptivos, cuya obtención presentaba dificultades especiales, la Dirección General requirió a don Álvaro el 11 de marzo de 2026 para que subsanara la falta documental.\nAdmitida la solicitud y avanzado el expediente, la Dirección General apreció la necesidad de concretar algunos extremos de la actuación proyectada, por lo que concedió a don Álvaro un trámite para formular las aclaraciones que estimara oportunas sobre la capacidad productiva prevista tras la ejecución del proyecto.\nLa segunda solicitud fue presentada en el Registro Electrónico General de la Administración General del Estado. Tenía por objeto participar en una convocatoria de ayudas para proyectos de digitalización de procesos industriales, tramitada en régimen de concurrencia competitiva. Al advertirse la falta de determinada documentación preceptiva, cuya aportación también presentaba dificultades especiales, la Dirección General requirió a don Álvaro el 12 de marzo de 2026 para que completara la solicitud.\nLa tercera solicitud, que fue presentada en soporte papel ante la oficina de asistencia en materia de registros del Ministerio de Industria y Turismo, tenía por objeto la autorización de determinadas actuaciones para la mejora energética en las instalaciones de la empresa. El 13 de marzo de 2026, la Dirección General requirió a don Álvaro para que subsanara la solicitud mediante su presentación electrónica. Don Álvaro atendió el requerimiento ese mismo día, presentando electrónicamente la solicitud.\nEn relación con el supuesto planteado, conteste a las siguientes cuestiones:"
+},
+"caso-18": {
+"id": "caso-18",
+"titulo": "Ejercicio nº 14 - Actuaciones complementarias",
+"texto": "La Confederación Hidrográfica del Guadalquivir tramita un procedimiento sancionador contra Aguas del Sur, S.L., por un presunto vertido no autorizado al arroyo Valdegrana, detectado durante una inspección realizada por agentes medioambientales.\nEl procedimiento se inició de oficio mediante acuerdo de 15 de enero de 2026, que fue notificado a la empresa el 19 de enero de 2026. En la notificación se indicaba que el plazo máximo para dictar y notificar la resolución era de tres meses.\nDurante la instrucción se incorporaron al expediente el acta de inspección, las primeras muestras analíticas tomadas en el arroyo y la documentación disponible sobre las conducciones de la instalación industrial. La empresa formuló alegaciones negando que el vertido procediera de sus instalaciones.\nConcluida la instrucción, se formuló propuesta de resolución sancionadora, que fue notificada a Aguas del Sur, S.L. La empresa presentó alegaciones a dicha propuesta, reiterando que no existía conexión entre su sistema de evacuación de aguas y el punto en el que se había detectado el vertido.\nAntes de dictar resolución, el 26 de marzo de 2026 se acordó la realización de actuaciones complementarias. El acuerdo explicaba que, para poder resolver con seguridad sobre el origen del vertido, resultaba indispensable practicar una comprobación técnica sobre el terreno: abrir la arqueta final de salida de la instalación, realizar una prueba con un trazador inocuo para verificar si el agua llegaba al arroyo y tomar una nueva muestra comparativa en la arqueta y en el punto exacto de vertido.\nEl acuerdo fue notificado a Aguas del Sur, S.L. el 27 de marzo de 2026. Las actuaciones se practicaron el 3 de abril y terminaron el 8 de abril de 2026, con la incorporación al expediente de la diligencia técnica y de los resultados analíticos. Ese mismo día se notificó a la empresa la finalización de las actuaciones y se le dio traslado de su resultado para que pudiera formular las alegaciones que estimara oportunas.\nEn relación con el supuesto planteado, responda a las siguientes cuestiones:"
+}
+},
+"calendarios": {},
+"preguntas": [
+{
+"id": "pr-16-001",
+"origen": "practicas",
+"test": "Ejercicio nº 12 - Régimen de subsanación",
+"n": 1,
+"enunciado": "En relación con la primera solicitud presentada por don Álvaro Martín Rivas, ¿qué fecha deberá tomarse como referencia para el cómputo del plazo máximo para resolver y notificar?",
+"opciones": [
+"El 4 de marzo, fecha en que la solicitud fue presentada en el Registro Electrónico General de la Junta de Castilla y León.",
+"El 6 de marzo, fecha en que la solicitud tuvo entrada en el Registro Electrónico General de la Administración General del Estado.",
+"El 11 de marzo, fecha en que la Dirección General requirió a don Álvaro para que subsanara la falta documental.",
+"La fecha en que don Álvaro subsane la solicitud y acompañe los documentos preceptivos."
+],
+"caso": "caso-16"
+},
+{
+"id": "pr-16-002",
+"origen": "practicas",
+"test": "Ejercicio nº 12 - Régimen de subsanación",
+"n": 2,
+"enunciado": "Advertida en la solicitud de reconocimiento del proyecto la falta de determinados documentos preceptivos, cuya aportación presentaba dificultades especiales, ¿de qué plazo disponía don Álvaro para subsanar la falta o acompañar los documentos preceptivos, conforme al artículo 68 de la Ley 39/2015?",
+"opciones": [
+"Diez días, no ampliables",
+"Quince días, ampliables prudencialmente hasta cinco días más.",
+"Diez días, ampliables prudencialmente hasta cinco días más.",
+"Veinte días."
+],
+"caso": "caso-16"
+},
+{
+"id": "pr-16-003",
+"origen": "practicas",
+"test": "Ejercicio nº 12 - Régimen de subsanación",
+"n": 3,
+"enunciado": "Si don Álvaro no atendiera, dentro del plazo concedido, el requerimiento para subsanar la falta documental o acompañar los documentos preceptivos, ¿qué consecuencia procedería conforme al artículo 68 de la Ley 39/2015?",
+"opciones": [
+"El procedimiento quedaría suspendido hasta la aportación de dichos documentos.",
+"Se declararía la caducidad del procedimiento.",
+"Podría declarársele decaído en su derecho al trámite.",
+"Se le tendría por desistido de su petición, previa resolución dictada al efecto."
+],
+"caso": "caso-16"
+},
+{
+"id": "pr-16-004",
+"origen": "practicas",
+"test": "Ejercicio nº 12 - Régimen de subsanación",
+"n": 4,
+"enunciado": "Admitida la solicitud y concedido a don Álvaro un trámite para formular las aclaraciones que estimara oportunas sobre la capacidad productiva prevista tras la ejecución del proyecto, ¿en qué plazo debía cumplimentar dicho trámite según el artículo 73 de la Ley 39/2015?",
+"opciones": [
+"Diez días.",
+"Quince días.",
+"Veinte días.",
+"Un mes."
+],
+"caso": "caso-16"
+},
+{
+"id": "pr-16-005",
+"origen": "practicas",
+"test": "Ejercicio nº 12 - Régimen de subsanación",
+"n": 5,
+"enunciado": "Si don Álvaro no cumplimentara en plazo el trámite concedido para formular aclaraciones sobre la capacidad productiva prevista tras la ejecución del proyecto, ¿qué consecuencia podría derivarse conforme al artículo 73 de la Ley 39/2015?",
+"opciones": [
+"Se declararía la caducidad del procedimiento.",
+"Se le tendría por desistido de su solicitud, previa resolución dictada al efecto.",
+"Se acordaría el archivo de las actuaciones.",
+"Podría declarársele decaído en su derecho al trámite correspondiente."
+],
+"caso": "caso-16"
+},
+{
+"id": "pr-16-006",
+"origen": "practicas",
+"test": "Ejercicio nº 12 - Régimen de subsanación",
+"n": 6,
+"enunciado": "Advertida, en la solicitud relativa a la convocatoria de ayudas para proyectos de digitalización de procesos industriales, la falta de determinada documentación preceptiva, ¿de qué plazo disponía don Álvaro para subsanar, conforme al artículo 68 de la Ley 39/2015?",
+"opciones": [
+"Diez días, no ampliables.",
+"Quince días, ampliables prudencialmente hasta cinco días más.",
+"Diez días, ampliables prudencialmente hasta cinco días más.",
+"Veinte días."
+],
+"caso": "caso-16"
+},
+{
+"id": "pr-16-007",
+"origen": "practicas",
+"test": "Ejercicio nº 12 - Régimen de subsanación",
+"n": 7,
+"enunciado": "Respecto de la tercera solicitud, presentada inicialmente en soporte papel, si la norma reguladora del procedimiento no fija plazo máximo para resolver y notificar, ¿cuál será el último día del plazo del que dispondrá la Dirección General de Programas Industriales para dictar y notificar la resolución?",
+"opciones": [
+"Jueves 4 de junio de 2026.",
+"Sábado 13 de junio de 2026.",
+"Lunes 15 de junio de 2026.",
+"Viernes 4 de septiembre de 2026."
+],
+"caso": "caso-16"
+},
+{
+"id": "pr-18-001",
+"origen": "practicas",
+"test": "Ejercicio nº 14 - Actuaciones complementarias",
+"n": 1,
+"enunciado": "En relación con el procedimiento sancionador seguido contra Aguas del Sur, S.L., si no mediara ninguna causa de suspensión del cómputo del plazo máximo para resolver y notificar, ¿cuál sería el último día para dictar y notificar la resolución?",
+"opciones": [
+"El miércoles 15 de abril de 2026.",
+"El jueves 16 de abril de 2026.",
+"El domingo 19 de abril de 2026.",
+"El lunes 20 de abril de 2026."
+],
+"caso": "caso-18"
+},
+{
+"id": "pr-18-002",
+"origen": "practicas",
+"test": "Ejercicio nº 14 - Actuaciones complementarias",
+"n": 2,
+"enunciado": "En este procedimiento, si venciera su plazo máximo de duración sin dictarse y notificarse resolución expresa, ¿qué efecto se produciría?",
+"opciones": [
+"Se entendería que la Administración desiste del procedimiento.",
+"La caducidad del procedimiento.",
+"La prescripción de la infracción imputada a Aguas del Sur, S.L.",
+"Aguas del Sur, S.L. podría entender desestimadas sus pretensiones por silencio administrativo."
+],
+"caso": "caso-18"
+},
+{
+"id": "pr-18-003",
+"origen": "practicas",
+"test": "Ejercicio nº 14 - Actuaciones complementarias",
+"n": 3,
+"enunciado": "Durante la instrucción del procedimiento, Aguas del Sur, S.L. formuló alegaciones negando que el vertido procediera de sus instalaciones. De acuerdo con el artículo 76 de la Ley 39/2015, ¿hasta qué momento pueden los interesados aducir alegaciones y aportar documentos u otros elementos de juicio?",
+"opciones": [
+"Solo después de que se formule la propuesta de resolución.",
+"Únicamente durante el período de prueba.",
+"Únicamente dentro del plazo concreto que les conceda la Administración.",
+"En cualquier momento del procedimiento anterior al trámite de audiencia."
+],
+"caso": "caso-18"
+},
+{
+"id": "pr-18-004",
+"origen": "practicas",
+"test": "Ejercicio nº 14 - Actuaciones complementarias",
+"n": 4,
+"enunciado": "Antes de dictar resolución, y al advertirse que el expediente no permitía esclarecer por completo el origen del vertido, el 26 de marzo de 2026 se acordó motivadamente la realización de las actuaciones complementarias descritas en el supuesto. De acuerdo con la Ley 39/2015, ¿qué órgano podía acordar la realización de dichas actuaciones complementarias?",
+"opciones": [
+"El instructor del procedimiento.",
+"El órgano competente para tramitar el procedimiento.",
+"El órgano competente para resolver el procedimiento.",
+"Indistintamente, el órgano competente para tramitar o el órgano competente para resolver el procedimiento."
+],
+"caso": "caso-18"
+},
+{
+"id": "pr-18-005",
+"origen": "practicas",
+"test": "Ejercicio nº 14 - Actuaciones complementarias",
+"n": 5,
+"enunciado": "El acuerdo de realización de actuaciones complementarias fue notificado a Aguas del Sur, S.L. el 27 de marzo de 2026, y dichas actuaciones se practicaron entre el 3 y el 8 de abril de 2026. Conforme a la Ley 39/2015, ¿fue correcto el plazo empleado para su práctica?",
+"opciones": [
+"No, porque las actuaciones complementarias deben practicarse en un plazo no superior a tres días naturales.",
+"Sí, porque las actuaciones complementarias deben practicarse en un plazo no superior a tres días.",
+"Sí, porque las actuaciones complementarias deben practicarse en un plazo no superior a siete días.",
+"Sí, porque las actuaciones complementarias deben practicarse en un plazo no superior a quince días."
+],
+"caso": "caso-18"
+},
+{
+"id": "pr-18-006",
+"origen": "practicas",
+"test": "Ejercicio nº 14 - Actuaciones complementarias",
+"n": 6,
+"enunciado": "Finalizadas las actuaciones complementarias, se dio traslado de su resultado a Aguas del Sur, S.L. para que pudiera formular las alegaciones que estimara oportunas. Conforme a la Ley 39/2015, ¿fue correcta dicha actuación?",
+"opciones": [
+"Sí, tras la finalización de tales actuaciones debe concederse a los interesados un plazo de siete días para formular alegaciones.",
+"Sí, tras la finalización de tales actuaciones debe concederse a los interesados un plazo de quince días para formular alegaciones.",
+"No, el plazo para formular alegaciones debe concederse con anterioridad a la realización de las actuaciones complementarias.",
+"No, la práctica de actuaciones complementarias es un acto discrecional que no permite a los interesados formular alegaciones."
+],
+"caso": "caso-18"
+},
+{
+"id": "pr-18-007",
+"origen": "practicas",
+"test": "Ejercicio nº 14 - Actuaciones complementarias",
+"n": 7,
+"enunciado": "Durante la práctica de las actuaciones complementarias acordadas antes de dictar resolución, ¿qué ocurre, conforme a la Ley 39/2015, con el plazo máximo legal para resolver el procedimiento y notificar la resolución?",
+"opciones": [
+"El plazo continúa computándose, al no constituir las actuaciones complementarias una causa de suspensión.",
+"El plazo podrá quedar suspendido si así lo acuerda expresamente el órgano competente para tramitar.",
+"El plazo podrá quedar suspendido si así lo acuerda expresamente el órgano competente para resolver.",
+"El plazo quedará suspendido hasta la terminación de las actuaciones complementarias."
+],
+"caso": "caso-18"
+}
+]
+}

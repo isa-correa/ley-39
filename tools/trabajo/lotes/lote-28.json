@@ -1,0 +1,462 @@
+{
+"lote": 28,
+"casos": {},
+"calendarios": {},
+"preguntas": [
+{
+"id": "pr-06-001",
+"origen": "practicas",
+"test": "Examen nº 1",
+"n": 1,
+"enunciado": "En relación con las Fuentes del Derecho, el artículo 1 del Código Civil establece que:",
+"opciones": [
+"Los usos jurídicos que sean meramente interpretativos de una declaración de voluntad tendrán la consideración de costumbre.",
+"Son fuentes del derecho la ley, la costumbre y la jurisprudencia reiterada del Tribunal Supremo.",
+"Los principios generales del derecho se aplicarán en defecto de ley o costumbre.",
+"Las normas jurídicas contenidas en los tratados internacionales serán de aplicación directa en España."
+]
+},
+{
+"id": "pr-06-002",
+"origen": "practicas",
+"test": "Examen nº 1",
+"n": 2,
+"enunciado": "De acuerdo con lo dispuesto en el artículo 2 del Código Civil, ¿cuándo entran en vigor las leyes?",
+"opciones": [
+"En todo caso, a los veinte días de su completa publicación en el BOE.",
+"Desde el mismo día de su completa publicación en el BOE.",
+"Desde el día siguiente de su completa publicación en el BOE",
+"En la fecha que en ellas se disponga y, en su defecto, a los veinte días de su completa publicación en el BOE."
+]
+},
+{
+"id": "pr-06-003",
+"origen": "practicas",
+"test": "Examen nº 1",
+"n": 3,
+"enunciado": "Señale la respuesta correcta en relación al principio de jerarquía normativa:",
+"opciones": [
+"La leyes emanadas de las Cortes Generales son jerárquicamente superiores a las leyes de una Comunidad Autónoma.",
+"Las leyes orgánicas son jerárquicamente superiores a las leyes ordinarias.",
+"Un Real Decreto del Presidente del Gobierno tiene el mismo rango jerárquico que un Real Decreto del Consejo de Ministros.",
+"Las leyes están jerarquizadas entre sí, hallándose su rango en función del nivel del órgano del que emanan."
+]
+},
+{
+"id": "pr-06-004",
+"origen": "practicas",
+"test": "Examen nº 1",
+"n": 4,
+"enunciado": "Según el artículo 24 de la Ley 50/1997, del Gobierno, las decisiones del Gobierno de la Nación y de sus miembros revisten la forma siguiente:",
+"opciones": [
+"Orden del Ministro de la Presidencia, las disposiciones y resoluciones de los Ministros que afecten a varios Departamentos.",
+"Acuerdos del Consejo de Ministros, las decisiones que aprueben normas reglamentarias.",
+"Órdenes Ministeriales, las disposiciones y resoluciones de los Ministros y Secretarios de Estado.",
+"Reales Decretos, las disposiciones y resoluciones adoptadas en Comisiones Delegadas del Gobierno."
+]
+},
+{
+"id": "pr-06-005",
+"origen": "practicas",
+"test": "Examen nº 1",
+"n": 5,
+"enunciado": "Señale la respuesta correcta en relación con los Decretos Leyes y los Decretos Legislativos:",
+"opciones": [
+"Se encuentran jerárquicamente subordinados a las leyes.",
+"Son disposiciones legislativas dictadas por el Gobierno.",
+"Deberán ser sometidos a debate y votación de totalidad al Congreso de los Diputados, en el mes siguiente a su promulgación.",
+"Son dictados por el Gobierno previa autorización del Congreso de los Diputados."
+]
+},
+{
+"id": "pr-06-006",
+"origen": "practicas",
+"test": "Examen nº 1",
+"n": 6,
+"enunciado": "La Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas tiene por objeto regular, entre otras materias:",
+"opciones": [
+"El orden jurisdiccional contencioso-administrativo.",
+"Los principios del sistema de responsabilidad de las Administraciones Públicas.",
+"Los principios de la potestad sancionadora.",
+"Los principios a los que se ha de ajustar el ejercicio de la iniciativa legislativa y la potestad reglamentaria."
+]
+},
+{
+"id": "pr-06-007",
+"origen": "practicas",
+"test": "Examen nº 1",
+"n": 7,
+"enunciado": "Según lo dispuesto en el artículo 1 de la Ley 39/2015, ¿pueden incluirse en el procedimiento trámites adicionales o distintos a los contemplados en esta Ley?",
+"opciones": [
+"Sí, solo mediante ley.",
+"Sí, mediante ley o reglamento.",
+"Sí, solo reglamentariamente.",
+"No, en ningún caso."
+]
+},
+{
+"id": "pr-06-008",
+"origen": "practicas",
+"test": "Examen nº 1",
+"n": 8,
+"enunciado": "Según lo dispuesto en el artículo 1 de la Ley 39/2015, ¿pueden establecerse especialidades del procedimiento referidas a los órganos competentes, plazos propios del concreto procedimiento por razón de la materia, formas de iniciación y terminación, publicación e informes a recabar?",
+"opciones": [
+"Sí, pero solo mediante ley.",
+"Sí, pudiendo establecerse reglamentariamente.",
+"Sí, pero únicamente en los procedimientos sancionadores y de responsabilidad patrimonial.",
+"No, en ningún caso."
+]
+},
+{
+"id": "pr-06-009",
+"origen": "practicas",
+"test": "Examen nº 1",
+"n": 9,
+"enunciado": "Conforme al artículo 2 de la Ley 39/2015, ¿cuál de los siguientes sujetos tiene la consideración de Administración Pública a efectos de dicha Ley?",
+"opciones": [
+"Las corporaciones de Derecho Público.",
+"Las universidades públicas.",
+"Las entidades de derecho privado vinculadas o dependientes de las Administraciones Públicas.",
+"Los organismos públicos y entidades de derecho público vinculados o dependientes de las Administraciones Públicas."
+]
+},
+{
+"id": "pr-06-010",
+"origen": "practicas",
+"test": "Examen nº 1",
+"n": 10,
+"enunciado": "A los efectos previstos en la Ley 39/2015, tendrán capacidad de obrar:",
+"opciones": [
+"Las entidades sin personalidad jurídica, cuando un reglamento lo declare expresamente.",
+"Los menores de edad para el ejercicio y defensa de cualquiera de sus derechos.",
+"Los patrimonios independientes o autónomos, cuando un reglamento lo declare expresamente.",
+"Las personas físicas o jurídicas que ostenten capacidad de obrar con arreglo a las normas civiles."
+]
+},
+{
+"id": "pr-06-011",
+"origen": "practicas",
+"test": "Examen nº 1",
+"n": 11,
+"enunciado": "Según la Ley 39/2015, se considerarán, entre otros, interesados en el procedimiento administrativo:",
+"opciones": [
+"Los que, sin haber iniciado el procedimiento, tengan derechos o intereses legítimos que puedan resultar afectados por la decisión que en el mismo se adopte, con independencia de que se personen o no en el procedimiento.",
+"Los que, sin haber iniciado el procedimiento, tengan intereses legítimos que puedan resultar afectados por la decisión que en el mismo se adopte, siempre que se personen en el procedimiento una vez haya recaído resolución definitiva.",
+"Los que, sin haber iniciado el procedimiento, tengan derechos que puedan resultar afectados por la decisión que se adopte.",
+"Solo tendrán dicha condición quienes hayan iniciado el procedimiento."
+]
+},
+{
+"id": "pr-06-012",
+"origen": "practicas",
+"test": "Examen nº 1",
+"n": 12,
+"enunciado": "Según el artículo 5 de la Ley 39/2015, no deberá acreditarse la representación:",
+"opciones": [
+"Para formular solicitudes.",
+"Para los actos y gestiones de mero trámite.",
+"Para interponer recursos.",
+"Para desistir de acciones y renunciar a derechos en nombre de otra persona."
+]
+},
+{
+"id": "pr-06-013",
+"origen": "practicas",
+"test": "Examen nº 1",
+"n": 13,
+"enunciado": "Conforme al artículo 5 de la Ley 39/2015, la falta o insuficiente acreditación de la representación no impedirá que se tenga por realizado el acto de que se trate, siempre que se aporte aquella o se subsane el defecto en el plazo de:",
+"opciones": [
+"Cinco días.",
+"Quince días.",
+"Setenta y dos horas.",
+"Diez días."
+]
+},
+{
+"id": "pr-06-014",
+"origen": "practicas",
+"test": "Examen nº 1",
+"n": 14,
+"enunciado": "De conformidad con la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, en relación con la representación, señale la respuesta incorrecta:",
+"opciones": [
+"Los interesados con capacidad de obrar podrán actuar por medio de representante, entendiéndose con este las actuaciones administrativas, salvo manifestación expresa en contra del interesado.",
+"Para formular solicitudes, presentar declaraciones responsables o comunicaciones, interponer recursos, desistir de acciones y renunciar a derechos en nombre de otra persona, deberá acreditarse la representación.",
+"La representación deberá acreditarse necesariamente mediante apoderamiento apud acta efectuado por comparecencia personal o comparecencia electrónica en la correspondiente sede electrónica.",
+"La falta o insuficiente acreditación de la representación no impedirá que se tenga por realizado el acto de que se trate, siempre que se aporte aquella o se subsane el defecto."
+]
+},
+{
+"id": "pr-06-015",
+"origen": "practicas",
+"test": "Examen nº 1",
+"n": 15,
+"enunciado": "De conformidad con el artículo 7 de la Ley 39/2015, cuando en una solicitud, escrito o comunicación figuren varios interesados, las actuaciones a que den lugar se efectuarán:",
+"opciones": [
+"Con el representante o interesado que expresamente hayan señalado y, en su defecto, con el que figure en primer término.",
+"Con el interesado que figure en primer término y, en su defecto, con el representante que expresamente hayan señalado.",
+"Con todos ellos, indistintamente y, en su defecto, con el representante del interesado que expresamente hayan señalado.",
+"Con el representante o interesado que expresamente hayan señalado y, en su defecto, con el que figure en último término."
+]
+},
+{
+"id": "pr-06-016",
+"origen": "practicas",
+"test": "Examen nº 1",
+"n": 16,
+"enunciado": "¿Cuál de los siguientes NO es un derecho de las personas en sus relaciones con las Administraciones Públicas de los previstos en el artículo 13 de la Ley 39/2015?",
+"opciones": [
+"Derecho a comunicarse con las Administraciones Públicas a través de un Punto de Acceso General electrónico.",
+"Derecho a ser asistidos en el uso de medios electrónicos en sus relaciones con las Administraciones Públicas.",
+"Derecho a ser tratados con respeto y deferencia por las autoridades y empleados públicos.",
+"Derecho al libre acceso a los expedientes."
+]
+},
+{
+"id": "pr-06-017",
+"origen": "practicas",
+"test": "Examen nº 1",
+"n": 17,
+"enunciado": "Según dispone el artículo 14 de la Ley 39/2015, tendrán obligación de relacionarse electrónicamente con las Administraciones Públicas:",
+"opciones": [
+"Las personas físicas que tengan acceso y disponibilidad de los medios electrónicos necesarios.",
+"Quienes actúen en representación de un interesado.",
+"Las entidades sin personalidad jurídica.",
+"Los empleados de las Administraciones Públicas para cualquier trámite que realicen con ellas."
+]
+},
+{
+"id": "pr-06-018",
+"origen": "practicas",
+"test": "Examen nº 1",
+"n": 18,
+"enunciado": "De acuerdo con lo dispuesto en la Ley 39/2015, la obligatoriedad de comunicarse con las Administraciones Públicas utilizando solo medios electrónicos, para ciertos procedimientos y para ciertos colectivos de personas físicas:",
+"opciones": [
+"No está permitido por la Ley.",
+"Puede establecerse solo por Ley.",
+"Únicamente es posible si lo solicita el administrado.",
+"Puede establecerse reglamentariamente."
+]
+},
+{
+"id": "pr-06-019",
+"origen": "practicas",
+"test": "Examen nº 1",
+"n": 19,
+"enunciado": "D. Aitor Etxeberria presenta solicitudes de iniciación de distintos procedimientos ante diversos órganos de la Administración General del Estado y, en todas ellas, solicita que el correspondiente procedimiento se tramite en euskera. Conforme al artículo 15 de la Ley 39/2015, ¿cuál de ellos deberá tramitarse en dicha lengua?",
+"opciones": [
+"Un procedimiento tramitado por la Delegación del Gobierno en el País Vasco, en el que concurren otros interesados que discrepan respecto de la lengua elegida por D. Aitor.",
+"Un procedimiento tramitado por los servicios centrales de un Ministerio con sede en Madrid, en el que concurren otros interesados, sin que exista discrepancia respecto de la lengua elegida.",
+"Un procedimiento tramitado por la Subdelegación del Gobierno en Bizkaia, en el que no concurren otros interesados.",
+"Ninguno de los anteriores, porque los procedimientos de la Administración General del Estado se tramitan siempre en castellano, sin perjuicio de que los documentos o testimonios que requiera D. Aitor se le expidan en euskera."
+]
+},
+{
+"id": "pr-06-020",
+"origen": "practicas",
+"test": "Examen nº 1",
+"n": 20,
+"enunciado": "Según la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas, la comparecencia de las personas ante las oficinas públicas, ya sea presencialmente o por medios electrónicos:",
+"opciones": [
+"Solo será obligatoria cuando así esté previsto en una norma con rango de ley.",
+"Solo será obligatoria cuando lo disponga una disposición de carácter reglamentario.",
+"Será potestativa, y a instancia de la unidad administrativa.",
+"En todo caso será una decisión discrecional del órgano que adopte la decisión."
+]
+},
+{
+"id": "pr-06-021",
+"origen": "practicas",
+"test": "Examen nº 1",
+"n": 21,
+"enunciado": "Según el artículo 21.1 de la Ley 39/2015, la Administración está obligada a dictar resolución expresa y a notificarla:",
+"opciones": [
+"En todos los procedimientos iniciados a instancia de parte.",
+"En todos los procedimientos, salvo los casos de prescripción y renuncia del derecho.",
+"En todos los procedimientos iniciados de oficio.",
+"En todos los procedimientos, cualquiera que sea su forma de iniciación."
+]
+},
+{
+"id": "pr-06-022",
+"origen": "practicas",
+"test": "Examen nº 1",
+"n": 22,
+"enunciado": "En los casos de prescripción, renuncia del derecho, caducidad del procedimiento o desistimiento de la solicitud, así como de desaparición sobrevenida del objeto del procedimiento, el artículo 21.1 de la Ley 39/2015 indica que:",
+"opciones": [
+"No resultará necesario resolver y notificar.",
+"Es preciso dictar resolución expresa, si bien no será necesario notificarla.",
+"Se resolverá declarando la circunstancia que concurra, con indicación de los hechos producidos y las normas aplicables.",
+"Se emitirá un certificado de acto presunto."
+]
+},
+{
+"id": "pr-06-023",
+"origen": "practicas",
+"test": "Examen nº 1",
+"n": 23,
+"enunciado": "De acuerdo con la Ley 39/2015, el plazo máximo en el que debe notificarse la resolución expresa:",
+"opciones": [
+"No podrá exceder de seis meses.",
+"Será de tres meses.",
+"Será de seis meses.",
+"Será el fijado por la norma reguladora del correspondiente procedimiento."
+]
+},
+{
+"id": "pr-06-024",
+"origen": "practicas",
+"test": "Examen nº 1",
+"n": 24,
+"enunciado": "La Ley 39/2015, en su artículo 21, se refiere a la obligación de dictar resolución expresa de la Administración, estableciendo que cuando las normas reguladoras de los procedimientos no fijen el plazo máximo, este será de:",
+"opciones": [
+"1 mes.",
+"2 meses.",
+"3 meses.",
+"6 meses."
+]
+},
+{
+"id": "pr-06-025",
+"origen": "practicas",
+"test": "Examen nº 1",
+"n": 25,
+"enunciado": "Según el artículo 21 de la Ley 39/2015, el plazo para notificar resolución expresa en procedimientos iniciados de oficio se cuenta:",
+"opciones": [
+"Desde la fecha del acuerdo de iniciación.",
+"Desde la fecha en que la solicitud tuviese entrada en el registro electrónico de la Administración u Organismo competente.",
+"Desde el día siguiente a la fecha del acuerdo de iniciación.",
+"Desde el día de la recepción del acuerdo de iniciación."
+]
+},
+{
+"id": "pr-06-026",
+"origen": "practicas",
+"test": "Examen nº 1",
+"n": 26,
+"enunciado": "Según el artículo 22.2 de la Ley 39/2015, de 1 de octubre, el transcurso del plazo máximo legal para resolver un procedimiento y notificar la resolución se suspenderá cuando:",
+"opciones": [
+"Se hayan agotado los medios materiales y personales para poder resolver.",
+"Deba obtenerse un pronunciamiento previo y facultativo de un órgano de la Unión Europea.",
+"Se soliciten informes facultativos a un órgano de distinta administración.",
+"El interesado promueva la recusación en cualquier momento de la tramitación de un procedimiento."
+]
+},
+{
+"id": "pr-06-027",
+"origen": "practicas",
+"test": "Examen nº 1",
+"n": 27,
+"enunciado": "En un procedimiento administrativo cuyo plazo máximo para resolver y notificar es de cuatro meses, el elevado número de solicitudes formuladas hace prever que no será posible dictar resolución y practicar la notificación en plazo. Agotados los medios personales y materiales disponibles a que se refiere el artículo 21.5 de la Ley 39/2015, se acuerda motivadamente ampliar el plazo máximo para resolver y notificar. Conforme al artículo 23 de la Ley 39/2015, ¿por cuánto tiempo, como máximo, podrá acordarse dicha ampliación?",
+"opciones": [
+"Por ocho meses.",
+"Por cuatro meses.",
+"Por dos meses.",
+"Por un mes."
+]
+},
+{
+"id": "pr-06-028",
+"origen": "practicas",
+"test": "Examen nº 1",
+"n": 28,
+"enunciado": "Según la Ley 39/2015, en los procedimientos relativos al ejercicio del derecho de petición, a que se refiere el artículo 29 de la Constitución:",
+"opciones": [
+"El silencio tendrá efecto desestimatorio.",
+"El silencio tendrá efecto estimatorio.",
+"El silencio tendrá efecto estimatorio, pero no tendrá la consideración de acto administrativo finalizador del procedimiento.",
+"No puede producirse el silencio administrativo."
+]
+},
+{
+"id": "pr-06-029",
+"origen": "practicas",
+"test": "Examen nº 1",
+"n": 29,
+"enunciado": "El artículo 24 de la Ley 39/2015 prevé que, cuando el procedimiento tenga por objeto el acceso a actividades o su ejercicio, la ley que disponga el carácter desestimatorio del silencio:",
+"opciones": [
+"Deberá fundarse en la concurrencia de razones imperiosas de interés general.",
+"Deberá fundarse en la concurrencia de razones de orden público.",
+"La ley establece que en estos casos el silencio será siempre estimatorio.",
+"La ley establece que en estos casos el silencio será siempre desestimatorio."
+]
+},
+{
+"id": "pr-06-030",
+"origen": "practicas",
+"test": "Examen nº 1",
+"n": 30,
+"enunciado": "Señale la respuesta correcta en relación con el silencio administrativo:",
+"opciones": [
+"La desestimación por silencio administrativo tiene a todos los efectos la consideración de acto finalizador del procedimiento.",
+"En los casos de estimación por silencio administrativo, la resolución expresa posterior al vencimiento del plazo se adoptará por la Administración sin vinculación alguna al efecto del silencio.",
+"El certificado acreditativo del silencio debe emitirse en el plazo máximo de 15 días, solo si así lo solicita el interesado.",
+"En los casos de estimación por silencio administrativo, la resolución expresa posterior a la producción del acto solo podrá dictarse de ser confirmatoria del mismo."
+]
+},
+{
+"id": "pr-06-031",
+"origen": "practicas",
+"test": "Examen nº 1",
+"n": 31,
+"enunciado": "Conforme al artículo 25 de la Ley 39/2015, del Procedimiento administrativo común de las administraciones públicas, la falta de resolución expresa en procedimientos iniciados de oficio en los que la Administración ejercite potestades sancionadoras:",
+"opciones": [
+"Producirá la prescripción del procedimiento.",
+"Tendrá como efecto que el interesado pueda entender estimadas sus pretensiones.",
+"Producirá la prescripción del procedimiento, siempre que el interesado así lo solicite expresamente.",
+"Producirá la caducidad del procedimiento."
+]
+},
+{
+"id": "pr-06-032",
+"origen": "practicas",
+"test": "Examen nº 1",
+"n": 32,
+"enunciado": "Señale la respuesta correcta en relación con el cómputo de plazos, de acuerdo con la Ley 39/2015:",
+"opciones": [
+"Cuando los plazos se hayan señalado por días naturales, se hará constar esta circunstancia en las notificaciones.",
+"Los plazos expresados por horas no podrán tener una duración superior a setenta y dos horas.",
+"Si el plazo se fija en meses, concluirá el día siguiente a aquel en que se produjo la notificación en el mes de vencimiento.",
+"Cuando el último día del plazo sea inhábil, se entenderá prorrogado al día siguiente."
+]
+},
+{
+"id": "pr-06-033",
+"origen": "practicas",
+"test": "Examen nº 1",
+"n": 33,
+"enunciado": "Conforme al artículo 30.1 de la Ley 39/2015, señale la afirmación correcta en relación con el cómputo de los plazos expresados por horas:",
+"opciones": [
+"Son hábiles únicamente las horas comprendidas entre las 8:00 y las 20:00 horas de los días hábiles.",
+"Se contarán de hora en hora, prescindiendo de los minutos en que tenga lugar la notificación o publicación del acto.",
+"No podrán tener una duración superior a cuarenta y ocho horas, en cuyo caso se expresarán en días.",
+"Salvo que por Ley o en el Derecho de la Unión Europea se disponga otro cómputo, las horas se entenderán hábiles."
+]
+},
+{
+"id": "pr-06-034",
+"origen": "practicas",
+"test": "Examen nº 1",
+"n": 34,
+"enunciado": "Durante la instrucción de un procedimiento administrativo, se concede a un interesado un plazo de diez días para aportar documentación. Antes de su vencimiento, el interesado solicita la ampliación del plazo. Si las circunstancias lo aconsejan y con ello no se perjudican derechos de tercero, conforme al artículo 32 de la Ley 39/2015, ¿qué ampliación podrá conceder la Administración, como máximo?",
+"opciones": [
+"Diez días.",
+"Cinco días.",
+"Tres días.",
+"Dos días."
+]
+},
+{
+"id": "pr-06-035",
+"origen": "practicas",
+"test": "Examen nº 1",
+"n": 35,
+"enunciado": "Indique la respuesta correcta de acuerdo con el artículo 32 de la Ley 39/2015, en relación con la ampliación de plazos:",
+"opciones": [
+"Los acuerdos sobre ampliación de plazos o sobre su denegación serán susceptibles de recurso.",
+"Excepcionalmente, podrá ser objeto de ampliación un plazo ya vencido.",
+"La decisión sobre la ampliación deberá producirse, en todo caso, antes del vencimiento del plazo de que se trate.",
+"La ampliación por el tiempo máximo permitido se aplicará en todo caso a procedimientos tramitados en lenguas cooficiales."
+]
+}
+]
+}

@@ -1,0 +1,384 @@
+{
+"lote": 18,
+"casos": {},
+"calendarios": {},
+"preguntas": [
+{
+"id": "vo-02-001",
+"origen": "votaciones",
+"test": "Clase 2 - Bloque III",
+"n": 1,
+"enunciado": "De conformidad con la Ley 39/2015, NO estará obligado a relacionarse a través de medios electrónicos con las Administraciones Públicas: (GACE-PI 2016)",
+"opciones": [
+"Un empleado público que presenta alegaciones en un procedimiento sancionador que se le ha incoado por una infracción de tráfico.",
+"Un funcionario en los trámites y actuaciones que realiza con la Administración Pública por su condición de empleado público.",
+"Un notario.",
+"Una sociedad limitada."
+]
+},
+{
+"id": "vo-02-002",
+"origen": "votaciones",
+"test": "Clase 2 - Bloque III",
+"n": 2,
+"enunciado": "Según el artículo 14 de la Ley 39/2015, del procedimiento administrativo común de las Administraciones Públicas, el medio elegido por una persona física no obligada a relacionarse electrónicamente con las Administraciones Públicas:",
+"opciones": [
+"No podrá ser modificado por aquella con posterioridad al trámite de audiencia.",
+"No podrá ser modificado por aquella de forma unilateral.",
+"Podrá ser modificado por aquella en cualquier momento.",
+"Solo podrá ser modificado por la Administración, previa audiencia del interesado."
+]
+},
+{
+"id": "vo-02-003",
+"origen": "votaciones",
+"test": "Clase 2 - Bloque III",
+"n": 3,
+"enunciado": "Según el artículo 14 de la Ley 39/2015, del Procedimiento Administrativo de las Administraciones Públicas, ¿quién está obligado a relacionarse a través de medios electrónicos con las Administraciones Públicas? (GACE-LI 2023)",
+"opciones": [
+"Quienes ejerzan una actividad profesional para la que se requiera colegiación obligatoria, para los trámites y actuaciones que realicen con las Administraciones Públicas en ejercicio de dicha actividad profesional.",
+"Los empleados de las Administraciones Públicas para trámites que realicen con las Administraciones para la gestión de sus asuntos personales.",
+"Las personas físicas.",
+"Quienes representen a un interesado que no esté obligado a relacionarse electrónicamente con la Administración."
+]
+},
+{
+"id": "vo-02-004",
+"origen": "votaciones",
+"test": "Clase 2 - Bloque III",
+"n": 4,
+"enunciado": "Según el artículo 15 de la Ley 39/2015, el interesado que dirija un escrito a una Delegación del Gobierno de la Administración General del Estado:",
+"opciones": [
+"Utilizará, en todo caso, el castellano.",
+"Podrá utilizar la lengua que sea cooficial en el territorio de la Comunidad Autónoma pero el procedimiento se tramitará necesariamente en castellano.",
+"Podrá utilizar el castellano o la lengua que sea cooficial en el territorio de la Comunidad Autónoma que corresponda.",
+"Utilizará la lengua cooficial de la Comunidad Autónoma que corresponda, acompañada de su traducción al castellano."
+]
+},
+{
+"id": "vo-02-005",
+"origen": "votaciones",
+"test": "Clase 2 - Bloque III",
+"n": 5,
+"enunciado": "Según el artículo 18 de la Ley 39/2015, el principio de colaboración de las personas con la Administración implica que:",
+"opciones": [
+"Todo ciudadano que conozca datos que permitan identificar a un interesado que no haya comparecido en un procedimiento tiene el deber de proporcionárselos a la Administración actuante.",
+"Los interesados que conozcan a otros que no hayan comparecido en el procedimiento deberán comunicarles directamente a estos la apertura del mismo.",
+"Los interesados en un procedimiento que conozcan datos que permitan identificar a otros interesados que no hayan comparecido en él tienen el deber de proporcionárselos a la Administración actuante.",
+"Los interesados en un procedimiento que conozcan datos que permitan identificar a otros interesados podrán proporcionárselos a la Administración actuante."
+]
+},
+{
+"id": "vo-02-006",
+"origen": "votaciones",
+"test": "Clase 2 - Bloque III",
+"n": 6,
+"enunciado": "De acuerdo con el artículo 19 de la Ley 39/2015, de 1 de octubre, la comparecencia de las personas ante las oficinas públicas ya sea presencialmente o por medios electrónicos, solo será obligatoria cuando: (ADVO-LI 2019)",
+"opciones": [
+"Así esté previsto en una norma con rango de ley.",
+"La comparecencia de las personas ante las oficinas públicas nunca será obligatoria.",
+"Así esté previsto en una norma con rango reglamentario.",
+"Así lo determinen las autoridades y personal al servicio de las Administración General del Estado."
+]
+},
+{
+"id": "vo-02-007",
+"origen": "votaciones",
+"test": "Clase 2 - Bloque III",
+"n": 7,
+"enunciado": "Según el artículo 21.1 de la Ley 39/2015, la Administración está obligada a dictar resolución expresa y a notificarla:",
+"opciones": [
+"En todos los procedimientos, salvo los casos de prescripción y renuncia del derecho.",
+"Solo cuando los procedimientos se hubieran iniciado a instancia de parte.",
+"En todos los procedimientos, cualquiera que sea su forma de iniciación.",
+"Solo cuando los procedimientos se hubieran iniciado de oficio."
+]
+},
+{
+"id": "vo-02-008",
+"origen": "votaciones",
+"test": "Clase 2 - Bloque III",
+"n": 8,
+"enunciado": "En los casos de prescripción, renuncia del derecho, caducidad del procedimiento o desistimiento de la solicitud, así como de desaparición sobrevenida del objeto del procedimiento, el artículo 21.1 de la Ley 39/2015 indica que:",
+"opciones": [
+"No resultará necesario resolver y notificar.",
+"Se resolverá declarando la circunstancia que concurra en cada caso, con indicación de los hechos producidos y las normas aplicables.",
+"Es preciso dictar resolución expresa, si bien no será necesario notificarla.",
+"Se emitirá un certificado de acto presunto."
+]
+},
+{
+"id": "vo-02-009",
+"origen": "votaciones",
+"test": "Clase 2 - Bloque III",
+"n": 9,
+"enunciado": "No será obligatorio dictar resolución expresa y notificarla:",
+"opciones": [
+"En los supuestos de terminación del procedimiento por pacto o convenio.",
+"En los supuestos de renuncia del derecho.",
+"En los supuestos de caducidad del procedimiento.",
+"En los supuestos de desistimiento de la solicitud."
+]
+},
+{
+"id": "vo-02-010",
+"origen": "votaciones",
+"test": "Clase 2 - Bloque III",
+"n": 10,
+"enunciado": "De acuerdo con el artículo 21 de la Ley 39/2015, de 1 de octubre, ¿cuál es el plazo máximo en el que debe notificarse la resolución expresa en un procedimiento? (ADVO-LI 2019)",
+"opciones": [
+"2 meses.",
+"El que fije la norma reguladora del correspondiente procedimiento.",
+"15 días.",
+"1 mes."
+]
+},
+{
+"id": "vo-02-011",
+"origen": "votaciones",
+"test": "Clase 2 - Bloque III",
+"n": 11,
+"enunciado": "A tenor de lo indicado en el artículo 21 de la Ley 39/2015, cuando las normas reguladoras de los procedimientos no fijen el plazo máximo para su resolución, este será de: (GACE-LI 2017)",
+"opciones": [
+"3 meses desde la fecha del acuerdo de iniciación, en los procedimientos iniciados de oficio.",
+"6 meses desde la fecha del acuerdo de iniciación en los procedimientos iniciados de oficio.",
+"3 meses desde la fecha en que la solicitud haya tenido entrada en cualquier registro electrónico, en los procedimientos iniciados a solicitud del interesado.",
+"6 meses desde la fecha en que la solicitud haya tenido entrada en cualquier registro electrónico en los procedimientos iniciados a solicitud del interesado."
+]
+},
+{
+"id": "vo-02-012",
+"origen": "votaciones",
+"test": "Clase 2 - Bloque III",
+"n": 12,
+"enunciado": "La Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, establece que, salvo que una norma con rango de Ley establezca uno mayor o así venga previsto en el Derecho de la Unión Europea, el plazo máximo en el que debe notificarse la resolución expresa de un procedimiento: (ADMVO-PI 2023)",
+"opciones": [
+"Será de seis meses.",
+"Será de seis meses, ampliables una sola vez por tres meses más.",
+"Será de tres meses.",
+"No podrá exceder de seis meses."
+]
+},
+{
+"id": "vo-02-013",
+"origen": "votaciones",
+"test": "Clase 2 - Bloque III",
+"n": 13,
+"enunciado": "De acuerdo con el artículo 22 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas, indique cuándo el transcurso del plazo máximo legal para resolver un procedimiento y notificar la resolución NO se suspenderá de forma obligatoria:",
+"opciones": [
+"Cuando el órgano competente para resolver decida realizar alguna actuación complementaria.",
+"Cuando los interesados promuevan la recusación en cualquier momento de la tramitación de un procedimiento.",
+"Cuando para la resolución del procedimiento sea indispensable la obtención de un previo pronunciamiento por parte de un órgano jurisdiccional.",
+"Cuando una Administración Pública requiera a otra para que anule o revise un acto que entienda que es ilegal y que constituya la base para el que la primera haya de dictar en el ámbito de sus competencias."
+]
+},
+{
+"id": "vo-02-014",
+"origen": "votaciones",
+"test": "Clase 2 - Bloque III",
+"n": 14,
+"enunciado": "Según la Ley 39/2015, de 1 de octubre, el transcurso del plazo máximo legal para resolver un procedimiento y notificar la resolución se suspenderá cuando:",
+"opciones": [
+"Deba obtenerse un pronunciamiento previo y facultativo de un órgano de la Unión Europea.",
+"Se soliciten informes facultativos a un órgano de distinta administración.",
+"El interesado promueva la recusación en cualquier momento de la tramitación de un procedimiento.",
+"Se hayan agotado los medios materiales y personales para poder resolver."
+]
+},
+{
+"id": "vo-02-015",
+"origen": "votaciones",
+"test": "Clase 2 - Bloque III",
+"n": 15,
+"enunciado": "Según el artículo 23 de la Ley 39/2015, de 1 de octubre, contra el acuerdo que resuelva sobre la ampliación de plazos para resolver y notificar: (GACE-PI 2019)",
+"opciones": [
+"Podrá interponerse recurso de alzada.",
+"Podrá interponerse recurso extraordinario de revisión.",
+"No cabrá recurso alguno.",
+"Podrá interponerse recurso de reposición."
+]
+},
+{
+"id": "vo-02-016",
+"origen": "votaciones",
+"test": "Clase 2 - Bloque III",
+"n": 16,
+"enunciado": "Según el artículo 24.1 de la Ley 39/2015, el silencio administrativo en los procedimientos de responsabilidad patrimonial iniciados a solicitud de interesado: (GACE-PI 2017)",
+"opciones": [
+"Producirá la caducidad del procedimiento.",
+"Tendrá efecto desestimatorio.",
+"Tendrá efecto estimatorio si la cantidad reclamada no excede de 50.000 euros.",
+"Tendrá efecto estimatorio."
+]
+},
+{
+"id": "vo-02-017",
+"origen": "votaciones",
+"test": "Clase 2 - Bloque III",
+"n": 17,
+"enunciado": "El artículo 24 de la Ley 39/2015 prevé que, cuando el procedimiento tenga por objeto el acceso a actividades o su ejercicio, la ley que disponga el carácter desestimatorio del silencio:",
+"opciones": [
+"La ley establece que en estos casos el silencio será siempre desestimatorio.",
+"La ley establece que en estos casos el silencio será siempre estimatorio.",
+"Deberá fundarse en la concurrencia de razones de orden público.",
+"Deberá fundarse en la concurrencia de razones imperiosas de interés general."
+]
+},
+{
+"id": "vo-02-018",
+"origen": "votaciones",
+"test": "Clase 2 - Bloque III",
+"n": 18,
+"enunciado": "Con carácter general en el procedimiento administrativo, el transcurso del plazo máximo concedido para resolver un recurso de alzada sin que recaiga resolución supone:",
+"opciones": [
+"Que pueda entenderse estimado si es un recurso contra un acto de reconocimiento de derechos.",
+"Que pueda entenderse desestimado el recurso.",
+"Que se pueda entender estimado si es un recurso contra un acto de sanción.",
+"Que pueda entenderse estimado el recurso."
+]
+},
+{
+"id": "vo-02-019",
+"origen": "votaciones",
+"test": "Clase 2 - Bloque III",
+"n": 19,
+"enunciado": "Según la Ley 39/2015, de 1 de octubre, en relación con el silencio administrativo en procedimientos iniciados a solicitud del interesado, señale la respuesta correcta: (ADVO-LI 2019)",
+"opciones": [
+"Los actos administrativos producidos por silencio administrativo producen efectos desde que se expida el certificado acreditativo del mismo.",
+"La desestimación por silencio administrativo tiene a todos los efectos la consideración de acto administrativo finalizador del procedimiento.",
+"El silencio tendrá efecto estimatorio en los procedimientos relativos al ejercicio del derecho de petición, a que se refiere el artículo 29 de la Constitución.",
+"En los casos de estimación por silencio administrativo, la resolución expresa posterior a la producción del acto solo podrá dictarse de ser confirmatoria del mismo."
+]
+},
+{
+"id": "vo-02-020",
+"origen": "votaciones",
+"test": "Clase 2 - Bloque III",
+"n": 20,
+"enunciado": "La estimación por silencio administrativo en procedimientos iniciados a solicitud del interesado:",
+"opciones": [
+"Tiene a todos los efectos la consideración de acto de trámite del procedimiento.",
+"Tiene los solos efectos de permitir a los interesados la interposición del recurso administrativo o contencioso-administrativo que resulte procedente.",
+"No puede producirse en ningún caso.",
+"Tiene a todos los efectos la consideración de acto administrativo finalizador del procedimiento."
+]
+},
+{
+"id": "vo-02-021",
+"origen": "votaciones",
+"test": "Clase 2 - Bloque III",
+"n": 21,
+"enunciado": "Indique la opción correcta. A tenor de lo establecido en el artículo 24.3.b de la Ley 39/2015, en los casos de desestimación por silencio administrativo:",
+"opciones": [
+"La contestación expresa posterior al inicio del procedimiento contencioso-administrativo se adoptará por la Administración de manera congruente con el sentido del silencio.",
+"La resolución posterior al vencimiento del plazo se adoptará por la Administración con un contenido vinculado al silencio administrativo.",
+"La comunicación posterior al vencimiento del plazo se realizará por la Administración al órgano inferior que debía haber resuelto.",
+"La resolución expresa posterior al vencimiento del plazo se adoptará por la Administración sin vinculación alguna al sentido del silencio."
+]
+},
+{
+"id": "vo-02-022",
+"origen": "votaciones",
+"test": "Clase 2 - Bloque III",
+"n": 22,
+"enunciado": "Según la Ley 39/2015, de 1 de octubre, en los procedimientos iniciados de oficio en que la Administración ejercite potestades sancionadoras, el vencimiento del plazo máximo establecido sin que se haya dictado y notificado resolución expresa produce: (ADVO-LI 2019)",
+"opciones": [
+"La desestimación de las pretensiones por silencio administrativo.",
+"La prescripción de la actuación.",
+"La estimación de las pretensiones por silencio administrativo.",
+"La caducidad del procedimiento."
+]
+},
+{
+"id": "vo-02-023",
+"origen": "votaciones",
+"test": "Clase 2 - Bloque III",
+"n": 23,
+"enunciado": "Según el art. 25 de la Ley 39/2015, en procedimientos de los que pudiera derivarse el reconocimiento de derechos u otras situaciones jurídicas favorables, el vencimiento del plazo máximo sin que se notifique resolución, produce el siguiente efecto:",
+"opciones": [
+"Los interesados que hubieren comparecido podrán entender desestimadas sus pretensiones por silencio administrativo.",
+"Los interesados que hubieren comparecido podrán entender estimadas sus pretensiones por silencio administrativo.",
+"La prescripción del derecho.",
+"La caducidad del procedimiento."
+]
+},
+{
+"id": "vo-02-024",
+"origen": "votaciones",
+"test": "Clase 2 - Bloque III",
+"n": 24,
+"enunciado": "Conforme establece la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, cuando los plazos se señalen por días: (AUX-LI 2019)",
+"opciones": [
+"Se entiende que son naturales, excluyendo del cómputo los domingos y festivos, pero no los sábados.",
+"Se entiende que son hábiles, excluyendo del cómputo los sábados, domingos y festivos.",
+"Se entiende que son hábiles, excluyendo del cómputo los domingos y festivos, pero no los sábados.",
+"Se entiende que son naturales, excluyendo del c6mputo los sábados, domingos y festivos."
+]
+},
+{
+"id": "vo-02-025",
+"origen": "votaciones",
+"test": "Clase 2 - Bloque III",
+"n": 25,
+"enunciado": "Según la Ley 39/2015, cuando el cómputo de un plazo es por horas, los plazos se contarán de hora en hora y de minuto en minuto desde la hora y minuto en que tenga lugar la notificación o publicación del acto de que se trate. ¿Cuál es el cómputo máximo de un plazo en horas? (GACE-EST 2023)",
+"opciones": [
+"Setenta y dos horas.",
+"Veinticuatro horas.",
+"Cuarenta y ocho horas.",
+"No hay límite."
+]
+},
+{
+"id": "vo-02-026",
+"origen": "votaciones",
+"test": "Clase 2 - Bloque III",
+"n": 26,
+"enunciado": "Según el artículo 30 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas, si el plazo se fija en meses o años, el plazo concluirá:",
+"opciones": [
+"El día siguiente en que se produjo la notificación, publicación o silencio administrativo en el mes o el año de vencimiento.",
+"Cuando el último día del plazo sea inhábil, se entenderá que el plazo expira el día hábil anterior.",
+"El mismo día en que se produjo la notificación, publicación o silencio administrativo en el mes o el año de vencimiento.",
+"Si en el mes de vencimiento no hubiere día equivalente a aquel en que comienza el cómputo, se entenderá que el plazo expira el primer día del mes siguiente."
+]
+},
+{
+"id": "vo-02-027",
+"origen": "votaciones",
+"test": "Clase 2 - Bloque III",
+"n": 27,
+"enunciado": "En relación con la ampliación de plazos, y de acuerdo con la Ley 39/2015, señale la respuesta correcta: (GACE-PI 2016)",
+"opciones": [
+"La ampliación de los plazos por el tiempo máximo permitido se aplicará en todo caso a los procedimientos tramitados por las misiones diplomáticas y oficinas consulares.",
+"En casos excepcionales y previa justificación, podrá ser objeto de ampliación un plazo ya vencido.",
+"El acuerdo que deniegue una ampliación del plazo será susceptible de ser recurrido en alzada.",
+"La Administración podrá conceder, de oficio o a petición de los interesados, una ampliación de los plazos establecidos que no exceda de un mes."
+]
+},
+{
+"id": "vo-02-028",
+"origen": "votaciones",
+"test": "Clase 2 - Bloque III",
+"n": 28,
+"enunciado": "En relación con la posibilidad de ampliación de los plazos del procedimiento administrativo, señale cuál es la opción correcta conforme a la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas: (AUX-LI 2023)",
+"opciones": [
+"La Administración podrá acordar la ampliación general de los plazos cuando haya sufrido un ciberincidente.",
+"Podrá acordarse la ampliación por una duración que no exceda del doble del plazo inicial.",
+"Podrá ser objeto de ampliación un plazo ya vencido.",
+"Sólo procederá cuando la ampliación sea solicitada previamente por el interesado."
+]
+},
+{
+"id": "vo-02-029",
+"origen": "votaciones",
+"test": "Clase 2 - Bloque III",
+"n": 29,
+"enunciado": "Conforme al artículo 33 de la Ley 39/2015, de 1 de octubre, ¿se puede presentar algún recurso contra el acuerdo que declare la aplicación de la tramitación de urgencia en un procedimiento? (GACE-PI 2023)",
+"opciones": [
+"No cabrá recurso alguno, sin perjuicio del procedente contra la resolución que ponga fin al procedimiento.",
+"Recurso de alzada.",
+"Recurso extraordinario de revisión.",
+"Recurso potestativo de reposición."
+]
+}
+]
+}

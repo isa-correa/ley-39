@@ -1,0 +1,436 @@
+{
+"lote": 9,
+"casos": {},
+"calendarios": {},
+"preguntas": [
+{
+"id": "au-21-003",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (21) - Ley 39/2015 (arts. 106 a 111)",
+"n": 3,
+"enunciado": "De acuerdo con el artículo 107 de la Ley 39/2015, ¿qué plazo debe transcurrir desde el inicio del procedimiento, sin que haya sido declarada la lesividad del acto, para que se produzca la caducidad del mismo?",
+"opciones": [
+"Un año.",
+"Tres meses.",
+"Seis meses.",
+"Cuatro años."
+]
+},
+{
+"id": "au-21-004",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (21) - Ley 39/2015 (arts. 106 a 111)",
+"n": 4,
+"enunciado": "Según el artículo 106 de la Ley 39/2015, en los supuestos previstos en el artículo 47.2, las Administraciones Públicas podrán declarar la nulidad de las disposiciones administrativas:",
+"opciones": [
+"Siempre que no hayan transcurrido cuatro años desde su publicación.",
+"En cualquier momento.",
+"Siempre que no haya transcurrido un año desde su publicación.",
+"Siempre que no hayan transcurrido dos años desde su publicación."
+]
+},
+{
+"id": "au-21-005",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (21) - Ley 39/2015 (arts. 106 a 111)",
+"n": 5,
+"enunciado": "Según el artículo 106 de la Ley 39/2015, si el procedimiento de revisión de un acto nulo se iniciara a solicitud de interesado:",
+"opciones": [
+"Transcurridos tres meses sin dictarse resolución, podrá entenderse desestimada la solicitud por silencio administrativo.",
+"Transcurridos tres meses sin dictarse resolución se producirá la caducidad del procedimiento.",
+"Transcurridos seis meses sin dictarse resolución se producirá la caducidad del procedimiento.",
+"Transcurridos seis meses sin dictarse resolución, podrá entenderse desestimada la solicitud por silencio administrativo."
+]
+},
+{
+"id": "au-21-006",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (21) - Ley 39/2015 (arts. 106 a 111)",
+"n": 6,
+"enunciado": "Según el artículo 107 de la Ley 39/2015, las Administraciones Públicas, previa declaración de su lesividad para el interés público, podrán impugnar ante la jurisdicción contencioso-administrativa:",
+"opciones": [
+"Los actos favorables para los interesados que sean anulables conforme a lo dispuesto en el artículo 48.",
+"Los actos favorables para los interesados que sean nulos conforme a lo dispuesto en el artículo 47.",
+"Los actos desfavorables para los interesados que sean nulos conforme a lo dispuesto en el artículo 47.",
+"Los actos desfavorables para los interesados que sean anulables conforme a lo dispuesto en el artículo 48."
+]
+},
+{
+"id": "au-21-007",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (21) - Ley 39/2015 (arts. 106 a 111)",
+"n": 7,
+"enunciado": "Conforme a la Ley 39/2015, la declaración de lesividad de un acto adoptado por una entidad integrante de la Administración Local se adoptará:",
+"opciones": [
+"Por el Alcalde.",
+"Por el Pleno de la Corporación o, en su defecto, por el órgano colegiado superior de la entidad.",
+"Por el superior jerárquico del órgano que lo dictó.",
+"Por el órgano que lo hubiese dictado."
+]
+},
+{
+"id": "au-21-008",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (21) - Ley 39/2015 (arts. 106 a 111)",
+"n": 8,
+"enunciado": "En el procedimiento de revisión de oficio de actos nulos, cuando este se hubiera iniciado de oficio, se producirá la caducidad:",
+"opciones": [
+"Transcurridos seis meses sin dictarse resolución.",
+"Transcurridos cuatro años sin dictarse resolución.",
+"Transcurrido un año sin dictarse resolución.",
+"Transcurridos tres meses sin dictarse resolución."
+]
+},
+{
+"id": "au-21-009",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (21) - Ley 39/2015 (arts. 106 a 111)",
+"n": 9,
+"enunciado": "Conforme a la Ley 39/2015, señale la respuesta correcta en relación con la declaración de lesividad de actos anulables:",
+"opciones": [
+"La declaración de lesividad no podrá adoptarse una vez transcurridos cuatro años desde que se dictó el acto administrativo.",
+"La declaración de lesividad no exigirá previa audiencia de los interesados.",
+"La declaración de lesividad será susceptible de recurso ante el órgano administrativo que dictó el acto declarado lesivo.",
+"Transcurridos tres meses sin que se hubiera declarado la lesividad del acto se producirá la caducidad del procedimiento."
+]
+},
+{
+"id": "au-21-010",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (21) - Ley 39/2015 (arts. 106 a 111)",
+"n": 10,
+"enunciado": "La revocación de los actos administrativos regulada en el artículo 109 de la Ley 39/2015 afecta a:",
+"opciones": [
+"Actos favorables o de gravamen.",
+"Los errores materiales, de hecho o aritméticos existentes en los actos administrativos.",
+"Actos administrativos desfavorables o de gravamen.",
+"Actos administrativos favorables."
+]
+},
+{
+"id": "au-21-011",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (21) - Ley 39/2015 (arts. 106 a 111)",
+"n": 11,
+"enunciado": "Según el artículo 109 de la Ley 39/2015, las Administraciones Públicas podrán revocar sus actos de gravamen o desfavorables:",
+"opciones": [
+"En el plazo máximo de 4 años desde que se dictó.",
+"Mientras no haya transcurrido el plazo de caducidad.",
+"En cualquier momento.",
+"Mientras no haya transcurrido el plazo de prescripción."
+]
+},
+{
+"id": "au-21-012",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (21) - Ley 39/2015 (arts. 106 a 111)",
+"n": 12,
+"enunciado": "Las Administraciones Públicas podrán rectificar los errores materiales, de hecho o aritméticos existentes en sus actos:",
+"opciones": [
+"En cualquier momento, únicamente de oficio.",
+"Mientras no haya transcurrido el plazo de prescripción.",
+"En cualquier momento, de oficio o a instancia del interesado.",
+"El cualquier momento, únicamente a instancia del interesado."
+]
+},
+{
+"id": "au-21-013",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (21) - Ley 39/2015 (arts. 106 a 111)",
+"n": 13,
+"enunciado": "Señale la respuesta correcta en relación con la revisión de oficio de actos nulos, de acuerdo con la Ley 39/2015:",
+"opciones": [
+"Solo podrá iniciarse de oficio.",
+"El plazo máximo para dictar resolución será de tres meses.",
+"La declaración de nulidad exige Dictamen previo favorable del Consejo de Estado.",
+"Solo cabe la revisión de oficio de actos nulos desfavorables para los interesados."
+]
+},
+{
+"id": "au-21-014",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (21) - Ley 39/2015 (arts. 106 a 111)",
+"n": 14,
+"enunciado": "Señale la respuesta incorrecta en relación con la declaración de lesividad de actos anulables a que se refiere el artículo 107 de la Ley 39/2015:",
+"opciones": [
+"Podrá declararse lesivo para el interés publico cualquier acto anulable, incluso los de gravamen o desfavorables.",
+"No será susceptible de recurso.",
+"No podrá adoptarse una vez transcurridos cuatro años desde que se dictó el acto administrativo.",
+"Constituye presupuesto procesal de admisibilidad de la acción en el proceso judicial correspondiente."
+]
+},
+{
+"id": "au-21-015",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (21) - Ley 39/2015 (arts. 106 a 111)",
+"n": 15,
+"enunciado": "Según la Ley 39/2015, las Administraciones Públicas podrán rectificar los errores materiales, de hecho o aritméticos existentes en los actos administrativos:",
+"opciones": [
+"En cualquier momento.",
+"En el plazo de cuatro años desde que fue dictado.",
+"Mientras no haya transcurrido el plazo de prescripción.",
+"En el plazo de tres meses desde que fue dictado."
+]
+},
+{
+"id": "au-21-016",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (21) - Ley 39/2015 (arts. 106 a 111)",
+"n": 16,
+"enunciado": "De conformidad con la Ley 39/2015, la Administración General del Estado podrá declarar la nulidad de sus disposiciones administrativas, en los supuestos previstos en el artículo 47.2, previo Dictamen favorable del Consejo de Estado:",
+"opciones": [
+"De oficio o a solicitud de interesado, en el plazo máximo de cuatro años desde su publicación.",
+"Solo de oficio, en el plazo máximo de cuatro años desde su publicación.",
+"De oficio o a solicitud de interesado, en cualquier momento.",
+"Solo de oficio, en cualquier momento."
+]
+},
+{
+"id": "au-21-017",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (21) - Ley 39/2015 (arts. 106 a 111)",
+"n": 17,
+"enunciado": "Cuando la Administración autora de un acto pretenda demandar su anulación ante la Jurisdicción Contencioso-administrativa:",
+"opciones": [
+"Deberá, previamente, declararlo anulable.",
+"Podrá, previamente, declararlo lesivo para el interés público.",
+"Podrá, previamente, declararlo anulable.",
+"Deberá, previamente, declararlo lesivo para el interés público."
+]
+},
+{
+"id": "au-21-018",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (21) - Ley 39/2015 (arts. 106 a 111)",
+"n": 18,
+"enunciado": "En el ámbito estatal, será competente para la revisión de oficio de las disposiciones y los actos administrativos dictados por los Ministros:",
+"opciones": [
+"El Presidente del Gobierno.",
+"Los Secretarios de Estado.",
+"El Consejo de Ministros.",
+"Los Ministros, respecto de sus propios actos y disposiciones."
+]
+},
+{
+"id": "au-21-019",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (21) - Ley 39/2015 (arts. 106 a 111)",
+"n": 19,
+"enunciado": "El Ayuntamiento de Málaga ha cometido un error aritmético en un acto administrativo. Señale la respuesta correcta conforme a la Ley 39/2015:",
+"opciones": [
+"La rectificación puede realizarse a instancia de los interesados o del propio Ayuntamiento.",
+"El plazo máximo para rectificar es de 3 meses desde que se dictó el acto.",
+"Para realizar la rectificación es necesario recabar el dictamen favorable del Consejo de Estado.",
+"Para realizar la rectificación es necesario recabar el consentimiento del interesado afectado por el acto."
+]
+},
+{
+"id": "au-21-020",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (21) - Ley 39/2015 (arts. 106 a 111)",
+"n": 20,
+"enunciado": "Según el artículo 106 de la Ley 39/2015, en el ámbito de la Administración General del Estado, ¿cómo debe actuar el órgano competente para la revisión de oficio de un acto nulo ante una solicitud de revisión que no se base en alguna de las causas de nulidad del artículo 47.1?",
+"opciones": [
+"Inadmitiéndola a trámite, previo Dictamen favorable del Consejo de Estado.",
+"Inadmitiéndola a trámite, previo Dictamen del Consejo de Estado.",
+"Inadmitiéndola a trámite, motivadamente, sin necesidad de recabar Dictamen del Consejo de Estado.",
+"Admitiéndola a trámite, sin perjuicio de que la solicitud resulte desestimada."
+]
+},
+{
+"id": "au-22-001",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (22) - Ley 39/2015 (arts. 112 a 120)",
+"n": 1,
+"enunciado": "Según el artículo 112 de la Ley 39/2015, contra actos de trámite que decidan directa o indirectamente sobre el fondo del asunto, los interesados podrán interponer:",
+"opciones": [
+"Exclusivamente, el recurso de alzada.",
+"El recurso de alzada o el potestativo de reposición.",
+"Exclusivamente, el recurso potestativo de reposición.",
+"Ningún acto de trámite es recurrible en vía administrativa."
+]
+},
+{
+"id": "au-22-002",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (22) - Ley 39/2015 (arts. 112 a 120)",
+"n": 2,
+"enunciado": "De acuerdo con el artículo 117 de la Ley 39/2015, solicitada la suspensión del acto impugnado mediante la interposición del recurso correspondiente, ¿qué efectos se derivan del silencio administrativo y en qué plazo se produce?",
+"opciones": [
+"Desestimatorio. Treinta días.",
+"Estimatorio. Treinta días.",
+"Estimatorio. Un mes.",
+"Desestimatorio. Un mes."
+]
+},
+{
+"id": "au-22-003",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (22) - Ley 39/2015 (arts. 112 a 120)",
+"n": 3,
+"enunciado": "Según la Ley 39/2015, ¿qué recursos pueden interponerse contra aquellos actos de trámite que NO produzcan daño irreparable a derechos e intereses legítimos?",
+"opciones": [
+"El recurso potestativo de reposición, exclusivamente.",
+"El recurso de alzada o el potestativo de reposición.",
+"El recurso de alzada, exclusivamente.",
+"Ninguno, aunque podrá alegarse por los interesados su oposición a los mismos."
+]
+},
+{
+"id": "au-22-004",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (22) - Ley 39/2015 (arts. 112 a 120)",
+"n": 4,
+"enunciado": "Según el artículo 112 de la Ley 39/2015, ¿qué recursos cabrá interponer contra actos de trámite que determinen la posibilidad de continuar el procedimiento?",
+"opciones": [
+"El recurso de alzada o el extraordinario de revisión.",
+"El recurso de alzada o el potestativo de reposición.",
+"El recurso de alzada exclusivamente.",
+"No cabrá recurso frente a tales actos de trámite."
+]
+},
+{
+"id": "au-22-005",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (22) - Ley 39/2015 (arts. 112 a 120)",
+"n": 5,
+"enunciado": "De acuerdo con el artículo 112 de la Ley 39/2015, los recursos de alzada y potestativo de reposición podrán fundarse:",
+"opciones": [
+"Exclusivamente, en los motivos de anulabilidad previstos en el artículo 48 de dicha Ley.",
+"En cualquiera de los motivos de nulidad o anulabilidad previstos en los artículos 47 y 48 de dicha Ley.",
+"Exclusivamente en alguna causa de nulidad de las disposiciones administrativas recogidas en el artículo 47.2 de dicha Ley.",
+"Exclusivamente, en los motivos de nulidad previstos en el artículo 47 de dicha Ley."
+]
+},
+{
+"id": "au-22-006",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (22) - Ley 39/2015 (arts. 112 a 120)",
+"n": 6,
+"enunciado": "De acuerdo con la Ley 39/2015, contra las disposiciones administrativas de carácter general:",
+"opciones": [
+"Cabrá recurso potestativo de reposición.",
+"Cabrá recurso de alzada.",
+"Cabrá recurso extraordinario de revisión.",
+"No cabrá recurso en vía administrativa."
+]
+},
+{
+"id": "au-22-007",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (22) - Ley 39/2015 (arts. 112 a 120)",
+"n": 7,
+"enunciado": "Según el artículo 114 de la Ley 39/2015, los acuerdos, pactos, convenios o contratos que tengan la consideración de finalizadores del procedimiento:",
+"opciones": [
+"No ponen fin a la vía administrativa.",
+"No son impugnables en vía administrativa.",
+"Solo podrán recurrirse a través del recurso de alzada.",
+"Ponen fin a la vía administrativa."
+]
+},
+{
+"id": "au-22-008",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (22) - Ley 39/2015 (arts. 112 a 120)",
+"n": 8,
+"enunciado": "Dispone el artículo 115 de la Ley 39/2015 que el error o la ausencia de la calificación del recurso por parte del recurrente:",
+"opciones": [
+"No será obstáculo para su tramitación, siempre que se deduzca su verdadero carácter.",
+"Será causa de inadmisión del recurso.",
+"No será obstáculo para su tramitación, en ningún caso.",
+"Será obstáculo para su tramitación, siempre que se deduzca su verdadero carácter."
+]
+},
+{
+"id": "au-22-009",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (22) - Ley 39/2015 (arts. 112 a 120)",
+"n": 9,
+"enunciado": "Según el artículo 117 de la Ley 39/2015, ¿suspende la interposición de un recurso la ejecución del acto impugnado?",
+"opciones": [
+"Sí, en todo caso.",
+"No, salvo en los casos en que una disposición establezca lo contrario.",
+"Sí, siempre que así lo solicite el interesado.",
+"No, en ningún caso."
+]
+},
+{
+"id": "au-22-010",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (22) - Ley 39/2015 (arts. 112 a 120)",
+"n": 10,
+"enunciado": "En supuestos o ámbitos sectoriales determinados, y cuando la especificidad de la materia así lo justifique, ¿Pueden sustituirse los recurso de alzada y reposición por otros procedimientos de impugnación?",
+"opciones": [
+"Si, mediante norma reglamentaria.",
+"Solo el de reposición, mediante Ley.",
+"Sí, mediante Ley.",
+"Solo el de alzada, mediante Ley."
+]
+},
+{
+"id": "au-22-011",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (22) - Ley 39/2015 (arts. 112 a 120)",
+"n": 11,
+"enunciado": "Los recursos contra un acto administrativo que se funden únicamente en la nulidad de alguna disposición administrativa de carácter general:",
+"opciones": [
+"Se inadmitirán a trámite.",
+"Podrán interponerse directamente ante el órgano que dictó dicha disposición.",
+"Deberán interponerse directamente ante el órgano que dictó el acto recurrido.",
+"Deberán interponerse directamente ante el órgano que dictó dicha disposición."
+]
+},
+{
+"id": "au-22-012",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (22) - Ley 39/2015 (arts. 112 a 120)",
+"n": 12,
+"enunciado": "En relación con la audiencia en la tramitación de los recursos administrativos, según el artículo 118 de la Ley 39/2015, tendrán carácter de documento nuevo:",
+"opciones": [
+"Los informes y las propuestas.",
+"Los documentos no recogidos en el expediente originario.",
+"Los documentos que los interesados hayan aportado al expediente antes de recaer la resolución impugnada.",
+"Los propios escritos de recurso."
+]
+},
+{
+"id": "au-22-013",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (22) - Ley 39/2015 (arts. 112 a 120)",
+"n": 13,
+"enunciado": "Señale la respuesta incorrecta. De acuerdo con el artículo 115 de la Ley 39/2015, la interposición del recurso deberá expresar:",
+"opciones": [
+"El código de identificación del órgano, centro o unidad administrativa al que se dirige.",
+"Lugar, fecha y firma del recurrente.",
+"El órgano, centro o unidad administrativa al que corresponde la resolución del recurso.",
+"El acto que se recurre y la razón de su impugnación."
+]
+},
+{
+"id": "au-22-014",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (22) - Ley 39/2015 (arts. 112 a 120)",
+"n": 14,
+"enunciado": "Indique cuál de las siguientes resoluciones NO pone fin a la vía administrativa, de acuerdo con el artículo 114.1 de la Ley 39/2015:",
+"opciones": [
+"Las resoluciones de los recursos de alzada.",
+"La resolución administrativa de los procedimientos de naturaleza sancionadora.",
+"La resolución administrativa de los procedimientos de responsabilidad patrimonial.",
+"La resolución de los procedimientos complementarios en materia sancionadora a los que se refiere el artículo 90.4."
+]
+},
+{
+"id": "au-22-015",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (22) - Ley 39/2015 (arts. 112 a 120)",
+"n": 15,
+"enunciado": "Contra los actos firmes en vía administrativa, ¿cabrá algún recurso en dicha vía?",
+"opciones": [
+"Sí, el extraordinario de revisión, en todo caso.",
+"Sí, el extraordinario de revisión, cuando concurra alguna de las circunstancias previstas en el artículo 125.1.",
+"No, en ningún caso.",
+"Sí, los de alzada y potestativo de reposición."
+]
+}
+]
+}

@@ -1,0 +1,107 @@
+{
+ "pr-12-001": {
+  "bloque": "actividad",
+  "precepto": "Art. 13.f) de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El **art. 13.f)** reconoce a todas las personas con capacidad de obrar el derecho a exigir responsabilidades a las Administraciones y a las autoridades, cuando legalmente corresponda. No hace falta ser parte de ningún procedimiento: si una zanja mal señalizada te causa un daño, puedes reclamar igualmente.",
+   "No. Este derecho no está en la lista de los interesados (art. 53), sino en la del art. 13, que vale para cualquier persona con capacidad de obrar.",
+   "No. Sí está reconocido, y con estas mismas palabras: es la letra f) del art. 13."
+  ]
+ },
+ "pr-12-002": {
+  "bloque": "iniciacion",
+  "precepto": "Art. 53.1.g) de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Este derecho no aparece en el art. 13. Tiene sentido que no esté: se actúa con asesor dentro de un procedimiento concreto, para defender tus intereses en él.",
+   "Es esta. El **art. 53.1.g)** da a los interesados el derecho a actuar asistidos de asesor cuando lo consideren conveniente en defensa de sus intereses. Asesor es la persona que te ayuda, y puede tener título o no: no es obligatorio ir con abogado.",
+   "No. Sí se contempla: es la letra g) del art. 53.1, con estas mismas palabras."
+  ],
+  "ojo": "Es “asistidos de asesor”, no “de abogado”: esa es la palabra que suelen cambiar en otras preguntas."
+ },
+ "pr-12-003": {
+  "bloque": "iniciacion",
+  "precepto": "Art. 53.1.b) de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. No está en el art. 13. Allí sí hay un derecho parecido, el de ser tratado con respeto por autoridades y empleados públicos (art. 13.e), pero identificarlos es otra cosa.",
+   "Es esta. El **art. 53.1.b)** permite a los interesados identificar a las autoridades y al personal bajo cuya responsabilidad se tramitan los procedimientos. La pista está en la frase: habla de quien tramita “los procedimientos”, así que el derecho es de quien está dentro de uno. Es saber quién lleva tu expediente.",
+   "No. Sí está reconocido: es la letra b) del art. 53.1, con estas mismas palabras."
+  ]
+ },
+ "pr-12-004": {
+  "bloque": "iniciacion",
+  "precepto": "Arts. 53.1.e) y 76.1 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El art. 13 no habla de aportar documentos a un procedimiento. Aportarlos es cosa de quien está dentro de él, y además la frase tiene el límite cambiado.",
+   "No. Es la opción tentadora, porque el derecho a aportar documentos sí es de los interesados (art. 53.1.e). Pero el límite no es la resolución definitiva: es “anterior al trámite de audiencia”. Con ese final cambiado, el derecho que describe la frase no existe.",
+   "Es esta. Tal como está escrito, no está reconocido. El **art. 53.1.e)** y el **art. 76.1** permiten aportar documentos en cualquier fase anterior al **trámite de audiencia**, no anterior a la resolución definitiva. En la propia audiencia también se pueden presentar (art. 82.2), pero después de ella la ley ya no da ese derecho general hasta la resolución."
+  ],
+  "ojo": "Palabra cambiada: “resolución definitiva” en lugar de “trámite de audiencia”. En este ejercicio, un detalle cambiado convierte el derecho en “no reconocido” (como el “sin limitación alguna” del acceso a la información)."
+ },
+ "pr-12-005": {
+  "bloque": "iniciacion",
+  "precepto": "Art. 53.1.h) de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. No está en la lista del art. 13. El pago nace de una resolución o de otra forma de terminar un procedimiento (art. 98.2), así que quien paga es alguien que ha sido parte en él.",
+   "Es esta. El **art. 53.1.h)** da a los interesados el derecho a cumplir las obligaciones de pago por los medios electrónicos del art. 98.2: tarjeta de crédito o débito, transferencia, domiciliación bancaria u otros que autorice Hacienda. Por ejemplo, pagar una multa con tarjeta.",
+   "No. Sí está reconocido: es la letra h) del art. 53.1, con esa misma remisión al art. 98.2."
+  ]
+ },
+ "pr-12-006": {
+  "bloque": "actividad",
+  "precepto": "Art. 13.b) de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El **art. 13.b)** reconoce a quienes tienen capacidad de obrar el derecho a ser asistidos en el uso de medios electrónicos en sus relaciones con las Administraciones. No exige tener un procedimiento abierto: “en sus relaciones” es la expresión típica del art. 13.",
+   "No. Es la confusión con el art. 12.2, que regula cómo se presta esa ayuda y habla de “interesados”. Pero el derecho como tal, con esta redacción, está en la lista general del art. 13, no en el art. 53.",
+   "No. Sí está reconocido: es la letra b) del art. 13, con estas mismas palabras."
+  ],
+  "ojo": "El título del art. 12 habla de “interesados” y por eso despista. Con la frase “en sus relaciones con las Administraciones Públicas”, piensa en el art. 13."
+ },
+ "pr-12-007": {
+  "bloque": "actividad",
+  "precepto": "Art. 13.a) de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Es el primer derecho de la lista, el **art. 13.a)**: cualquier persona con capacidad de obrar puede comunicarse con la Administración a través de un Punto de Acceso General electrónico, que es su portal web de entrada. No hace falta ser parte de un procedimiento para entrar en él.",
+   "No. El art. 53.1.a) también menciona el Punto de Acceso General, pero para otra cosa: consultar el estado de tu expediente. Comunicarse por esa vía es un derecho de todos (art. 13.a).",
+   "No. Sí está reconocido: es la letra a) del art. 13, con estas mismas palabras."
+  ]
+ },
+ "pr-12-008": {
+  "bloque": "actividad",
+  "precepto": "Art. 13.d) de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Aunque el acceso a la información pública es un derecho del art. 13.d), allí se reconoce “de acuerdo con” la Ley 19/2013 de transparencia y el resto del ordenamiento. Es decir, con límites, no “sin limitación alguna”.",
+   "No. Falla por dos lados: el acceso a la información pública no es solo de los interesados, porque está en el art. 13, y además no es ilimitado.",
+   "Es esta. Lo que estropea la frase es el final: “sin limitación alguna”. El **art. 13.d)** reconoce el acceso a la información pública, archivos y registros, pero conforme a la Ley 19/2013 y al resto del ordenamiento, que ponen límites. También el art. 105.b) de la Constitución excluye, por ejemplo, la seguridad y defensa del Estado o la intimidad de las personas. Un acceso sin límites no existe."
+  ],
+  "ojo": "Desconfía de los absolutos como “sin limitación alguna”, “todos” o “siempre”: suelen ser la palabra añadida para que la frase sea falsa."
+ },
+ "pr-12-009": {
+  "bloque": "iniciacion",
+  "precepto": "Art. 53.1.c) de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. No está en el art. 13. La presentación de documentos es propia de quien está dentro de un procedimiento, y la ley lo recoge en la lista de los interesados.",
+   "Es esta. El **art. 53.1.c)** da a los interesados el derecho a no presentar documentos originales, salvo que la normativa aplicable diga lo contrario de forma excepcional. Si hay que entregar un original, tienen derecho a una copia autenticada. El art. 28.3 dice lo mismo desde el otro lado: la Administración no les exigirá originales.",
+   "No. Sí está reconocido: es la letra c) del art. 53.1. El enunciado dice “de forma excepcional” y la ley “de manera excepcional”, pero significa lo mismo."
+  ]
+ },
+ "pr-12-010": {
+  "bloque": "iniciacion",
+  "precepto": "Art. 53.1.f) de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Aunque suene a derecho de cualquier ciudadano, porque habla de proyectos que aún se “propongan realizar”, no está en la lista del art. 13. La ley lo coloca en el art. 53.",
+   "Es esta. Lo recoge el **art. 53.1.f)**, dentro de los derechos de los interesados: obtener información y orientación sobre los requisitos jurídicos o técnicos que las normas imponen a sus proyectos, actuaciones o solicitudes. Es información objetiva sobre qué se exige, no un asesoramiento a tu medida.",
+   "No. Sí está reconocido: es la letra f) del art. 53.1, con estas mismas palabras."
+  ],
+  "ojo": "Es la que más engaña del ejercicio: parece un derecho general, pero en la ley está en el art. 53."
+ }
+}

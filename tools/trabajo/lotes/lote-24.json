@@ -1,0 +1,410 @@
+{
+"lote": 24,
+"casos": {},
+"calendarios": {},
+"preguntas": [
+{
+"id": "vo-09-001",
+"origen": "votaciones",
+"test": "Clase de repaso 3 - Bloque III",
+"n": 1,
+"enunciado": "De acuerdo con establecido en la Ley 39/2015, los actos administrativos que dicten las Administraciones Públicas: (GVA A2 – 2016)",
+"opciones": [
+"Solo deberán elaborarse siguiendo un procedimiento cuando la decisión sea susceptible de perjudicar a los interesados.",
+"Solo deberán elaborarse siguiendo un procedimiento cuando la decisión sea tomada por iniciativa de la Administración y sea susceptible de perjudicar a los interesados.",
+"Solo deberán elaborarse siguiendo un procedimiento cuando la decisión sea tomada por iniciativa de particulares interesados.",
+"Se producirán por el órgano competente ajustándose al procedimiento establecido con independencia de que se adopten de oficio o a instancia del interesado."
+]
+},
+{
+"id": "vo-09-002",
+"origen": "votaciones",
+"test": "Clase de repaso 3 - Bloque III",
+"n": 2,
+"enunciado": "En los términos regulados en el artículo 35 de la Ley 39/2015, no hay obligación de que sean motivados: (Albacete A1 – 2023)",
+"opciones": [
+"Los actos que limiten derechos subjetivos o intereses legítimos.",
+"Los actos que se separen del criterio seguido en actuaciones precedentes o del dictamen de órganos consultivos.",
+"Los actos que acepten pruebas propuestas por los interesados.",
+"Los actos que acuerden la terminación del procedimiento por la imposibilidad material de continuarlo por causas sobrevenidas, así como los que acuerden el desistimiento por la Administración en procedimientos iniciados de oficio."
+]
+},
+{
+"id": "vo-09-003",
+"origen": "votaciones",
+"test": "Clase de repaso 3 - Bloque III",
+"n": 3,
+"enunciado": "Según el artículo 35 de la Ley 39/2015, cuál de los actos administrativos siguientes necesita motivación:",
+"opciones": [
+"Los actos que resuelvan procedimientos de revisión de oficio de disposiciones o actos administrativos, recursos administrativos y procedimientos de arbitraje y los que declaren su inadmisión.",
+"Los actos que lesionen derechos subjetivos o intereses legítimos.",
+"En el procedimiento de responsabilidad patrimonial las propuestas de resolución.",
+"Los actos que rechacen pruebas propuestas de oficio."
+]
+},
+{
+"id": "vo-09-004",
+"origen": "votaciones",
+"test": "Clase de repaso 3 - Bloque III",
+"n": 4,
+"enunciado": "De acuerdo con la ley 39/2015 los actos administrativos se producirán: (Castilla la Mancha C1 – 2025)",
+"opciones": [
+"En papel, en un único acto.",
+"Por escrito a través de medios electrónicos, a menos que su naturaleza exija otra forma más adecuada de expresión y constancia.",
+"De forma verbal siempre.",
+"Según decida discrecionalmente la Administración."
+]
+},
+{
+"id": "vo-09-005",
+"origen": "votaciones",
+"test": "Clase de repaso 3 - Bloque III",
+"n": 5,
+"enunciado": "La inderogabilidad singular de los reglamentos significa que: (Junta Andalucía A1 – 2016)",
+"opciones": [
+"Un reglamento no puede derogar parcialmente a otro reglamento.",
+"Las resoluciones administrativas de carácter particular no pueden vulnerar lo establecido en una disposición de carácter general, aunque aquéllas procedan de un órgano de igual o superior jerarquía al que dictó la disposición general.",
+"Las resoluciones administrativas de carácter particular no podrán vulnerar lo establecido en una disposición de carácter general, salvo que aquéllas procedan de un órgano de igual o superior jerarquía al que dictó la disposición general.",
+"Un reglamento no puede derogar singularmente a otro reglamento."
+]
+},
+{
+"id": "vo-09-006",
+"origen": "votaciones",
+"test": "Clase de repaso 3 - Bloque III",
+"n": 6,
+"enunciado": "A tenor del artículo 39 de LPACAP en cuál de los siguientes supuestos la eficacia de un acto administrativo quedará demorada: (IIPP – 2026)",
+"opciones": [
+"Cuando esté supeditada a su revisión por el órgano superior.",
+"Cuando lo solicite el interesado en los procedimientos iniciados a instancia suya.",
+"Cuando así lo exija el contenido del acto.",
+"Los actos administrativos siempre producirán efectos desde la fecha en que se dicten salvo los de naturaleza sancionadora."
+]
+},
+{
+"id": "vo-09-007",
+"origen": "votaciones",
+"test": "Clase de repaso 3 - Bloque III",
+"n": 7,
+"enunciado": "En relación con los efectos de los actos de las Administraciones Públicas, el artículo 39 de la Ley 39/2015, establece que: (Albacete A1– 2023)",
+"opciones": [
+"Los actos de las Administraciones Públicas sujetos al Derecho administrativo se presumirán válidos en todo caso, y producirán efectos desde la fecha en que se dicten.",
+"Los actos de las Administraciones Públicas sujetos al Derecho administrativo se presumirán válidos y producirán efectos desde la fecha en que se dicten, salvo que en ellos se disponga otra cosa",
+"La eficacia de los actos administrativos solo puede quedar demorada cuando esté supeditada a su notificación.",
+"No podrá otorgarse eficacia retroactiva a los actos cuando produzcan efectos favorables al interesado."
+]
+},
+{
+"id": "vo-09-008",
+"origen": "votaciones",
+"test": "Clase de repaso 3 - Bloque III",
+"n": 8,
+"enunciado": "¿Cuál es el plazo máximo para cursar la notificación de una resolución administrativa desde su dictado?: (Castilla La Mancha A1 – 2025)",
+"opciones": [
+"15 días.",
+"20 días.",
+"10 días.",
+"5 días."
+]
+},
+{
+"id": "vo-09-009",
+"origen": "votaciones",
+"test": "Clase de repaso 3 - Bloque III",
+"n": 9,
+"enunciado": "Las notificaciones que, conteniendo el texto íntegro del acto, omitiesen alguno de los requisitos previstos en el artículo 40.2 de la Ley 39/2015, surtirán efecto a partir de la fecha en que el interesado: (Ayuntamiento Castellón A1 – 2024)",
+"opciones": [
+"Realice actuaciones que supongan el conocimiento del contenido y alcance de la resolución o acto objeto de la notificación.",
+"Interponga cualquier recurso que proceda.",
+"Realice actuaciones que supongan el conocimiento del contenido y alcance de la resolución o acto objeto de la notificación o interponga cualquier recurso procedente o no.",
+"A y B son correctas."
+]
+},
+{
+"id": "vo-09-010",
+"origen": "votaciones",
+"test": "Clase de repaso 3 - Bloque III",
+"n": 10,
+"enunciado": "De acuerdo con la Ley 39/2015: (SIAL – 2023)",
+"opciones": [
+"Las notificaciones se practicarán en todo caso por medios electrónicos.",
+"Las notificaciones se practicarán en todo caso en papel.",
+"Las notificaciones se practicarán preferentemente por medios electrónicos y, en todo caso, cuando el interesado lo determine.",
+"Las notificaciones se practicarán preferentemente por medios electrónicos y, en todo caso, cuando el interesado resulte obligado a recibirlas por esta vía."
+]
+},
+{
+"id": "vo-09-011",
+"origen": "votaciones",
+"test": "Clase de repaso 3 - Bloque III",
+"n": 11,
+"enunciado": "Las Administraciones podrán practicar las notificaciones por medios no electrónicos como establece la Ley 39/2015: (SIAL – 2023)",
+"opciones": [
+"En todo caso.",
+"Cuando la notificación se realice con ocasión de la comparecencia obligatoria del interesado o su representante en las oficinas de asistencia en materia de registro y aunque rechace la comunicación o notificación personal en ese momento.",
+"Cuando para asegurar la eficacia de la actuación administrativa resulte necesario practicar la notificación por entrega directa de un empleado público de la Administración notificante.",
+"En ningún caso."
+]
+},
+{
+"id": "vo-09-012",
+"origen": "votaciones",
+"test": "Clase de repaso 3 - Bloque III",
+"n": 12,
+"enunciado": "En relación con la práctica de la notificación de los actos administrativos en papel, según la Ley 39/2015, cuando la notificación se practique en el domicilio del interesado, de no hallarse presente éste en el momento de entregarse la notificación, podrá hacerse cargo de la misma: (CM A2 – 2025)",
+"opciones": [
+"Únicamente personas mayores de edad que se encuentren en el domicilio y hagan constar su identidad.",
+"Cualquier persona mayor de catorce años que se encuentre en el domicilio y haga constar su identidad.",
+"Cualquier persona, solo si es mayor de dieciséis años, que se encuentre en el domicilio y haga constar su identidad.",
+"Cualquier persona mayor de doce años que se encuentre en el domicilio y haga constar su identidad."
+]
+},
+{
+"id": "vo-09-013",
+"origen": "votaciones",
+"test": "Clase de repaso 3 - Bloque III",
+"n": 13,
+"enunciado": "De conformidad con la Ley 39/2015, la notificación por medios electrónicos se entenderá: (SIAL – 2023)",
+"opciones": [
+"Rechazada cuando hayan transcurrido quince días naturales desde la puesta a disposición de la notificación sin que se acceda a su contenido.",
+"Practicada en el momento en que se produzca el acceso a su contenido.",
+"Rechazada en el momento en que se produzca el acceso a su contenido.",
+"Practicada con la puesta a disposición de la notificación en la sede electrónica de la Administración u Organismo actuante o en la dirección electrónica habilitada única."
+]
+},
+{
+"id": "vo-09-014",
+"origen": "votaciones",
+"test": "Clase de repaso 3 - Bloque III",
+"n": 14,
+"enunciado": "La notificación se hará por medio de un anuncio publicado en el Boletín Oficial del Estado cuando: (Diputación Soria A2 – 2025)",
+"opciones": [
+"Los interesados en un procedimiento sean desconocidos.",
+"Se ignore el lugar de la notificación.",
+"Intentada la notificación no se hubiese podido practicar.",
+"Todas son correctas."
+]
+},
+{
+"id": "vo-09-015",
+"origen": "votaciones",
+"test": "Clase de repaso 3 - Bloque III",
+"n": 15,
+"enunciado": "A tenor de lo establecido en el artículo 45 de la Ley 39/2015, en los supuestos de publicaciones de actos que contengan elementos comunes: (Ayuntamiento Zaragoza A2 – 2025)",
+"opciones": [
+"Podían publicarse de forma conjunta los aspectos coincidentes, especificándose solamente los aspectos individuales de cada acto.",
+"Deberán publicarse de forma común los aspectos coincidentes, especificándose solamente los aspectos individuales de cada acto.",
+"En todo caso se publicarán de forma conjunta los aspectos coincidentes, pudiendo omitirse los aspectos individuales de cada acto.",
+"En su caso se publicarán de forma común los aspectos semejantes con especificación de las correspondientes circunstancias individuales."
+]
+},
+{
+"id": "vo-09-016",
+"origen": "votaciones",
+"test": "Clase de repaso 3 - Bloque III",
+"n": 16,
+"enunciado": "La Ley 39/2015, recoge entre los supuestos en los que declarará la nulidad absoluta o de pleno derecho de los actos administrativos: (SIAL – 2023)",
+"opciones": [
+"Los que lesionen cualquiera de los derechos recogidos en el texto constitucional.",
+"Los dictados prescindiendo total y absolutamente del procedimiento legalmente establecido o de las normas que contienen las reglas esenciales para la formación de la voluntad de los órganos colegiados.",
+"Los que tengan un contenido inadmisible.",
+"Cualquier acto administrativo que no esté citado expresamente en la Ley 39/2015 pero venga establecido en una disposición reglamentaria."
+]
+},
+{
+"id": "vo-09-017",
+"origen": "votaciones",
+"test": "Clase de repaso 3 - Bloque III",
+"n": 17,
+"enunciado": "De acuerdo con lo dispuesto en el artículo 48 de la Ley 39/2015, respecto a la anulabilidad: (UAM – Escala Especial Superior de Servicios - 2026)",
+"opciones": [
+"Son anulables los actos de la Administración que incurran en cualquier infracción del ordenamiento jurídico, salvo la desviación de poder.",
+"El defecto de forma sólo determinará la anulabilidad cuando el acto carezca de los requisitos formales indispensables para alcanzar su fin o dé lugar a la indefensión de los interesados.",
+"La realización de actuaciones administrativas fuera del tiempo establecido para ellas implicará la anulabilidad del acto en cualquier caso.",
+"Ninguna de las respuestas anteriores es correcta."
+]
+},
+{
+"id": "vo-09-018",
+"origen": "votaciones",
+"test": "Clase de repaso 3 - Bloque III",
+"n": 18,
+"enunciado": "¿Cuál de las siguientes opciones es la correcta de acuerdo con el artículo 49.1 de la Ley 39/2015?: (SEAL – 2023)",
+"opciones": [
+"Son nulos los actos de la Administración que incurran en cualquier infracción del ordenamiento jurídico, incluso la desviación de poder.",
+"Son anulables las disposiciones que establezcan la retroactividad de disposiciones sancionadoras no favorables o restrictivas de derechos individuales.",
+"La Administración podrá convalidar los actos nulos o anulables, subsanando los vicios de que adolezcan.",
+"La nulidad o anulabilidad de un acto no implicará la de los sucesivos en el procedimiento que sean independientes del primero."
+]
+},
+{
+"id": "vo-09-019",
+"origen": "votaciones",
+"test": "Clase de repaso 3 - Bloque III",
+"n": 19,
+"enunciado": "Señale la afirmación correcta. A tenor de la Ley 39/2015, si el vicio de un acto administrativo consistiese en la falta de alguna autorización: (CM A1 – 2025)",
+"opciones": [
+"Podrá ser convalidado el acto mediante la exclusión de la misma por el órgano competente.",
+"Dispondrá siempre la conservación de aquellos actos y trámites cuyo contenido se hubiera mantenido igual de no haberse cometido la infracción.",
+"No podrá ser convalidado ya que implicará la nulidad del mismo.",
+"Podrá ser convalidado el acto mediante el otorgamiento de la misma por el órgano competente."
+]
+},
+{
+"id": "vo-09-020",
+"origen": "votaciones",
+"test": "Clase de repaso 3 - Bloque III",
+"n": 20,
+"enunciado": "¿Cuál de los siguientes es un derecho del interesado en el procedimiento administrativo contemplado en el artículo 53 de la la Ley 39/2015?: (Junta Andalucía A2 – 2023)",
+"opciones": [
+"A identificar a cualquier autoridad y personal al servicio de las Administraciones Públicas.",
+"A no presentar en ningún caso documentos originales.",
+"A formular alegaciones exclusivamente en el trámite de audiencia establecido al efecto.",
+"A actuar asistido de asesor cuando lo considere conveniente en defensa de sus intereses."
+]
+},
+{
+"id": "vo-09-021",
+"origen": "votaciones",
+"test": "Clase de repaso 3 - Bloque III",
+"n": 21,
+"enunciado": "La Ley 39/2015, reconoce a los interesados en el procedimiento administrativo el derecho a formular alegaciones, utilizar los medios de prueba admitidos por el ordenamiento jurídico y a aportar documentos: (GVA C1 – 2026)",
+"opciones": [
+"Siempre que sea dentro del trámite de audiencia.",
+"En cualquier fase del procedimiento anterior al trámite de audiencia.",
+"En cualquier fase del procedimiento posterior al trámite de audiencia.",
+"En cualquier fase del procedimiento."
+]
+},
+{
+"id": "vo-09-022",
+"origen": "votaciones",
+"test": "Clase de repaso 3 - Bloque III",
+"n": 22,
+"enunciado": "Según el art. 53.1 de la Ley 39/2015, de 1 de octubre, los interesados en un procedimiento administrativo, tienen los siguientes derechos: (Comunidad de Madrid C1 – 2023)",
+"opciones": [
+"A conocer en el plazo de 30 días el estado de la tramitación de los procedimientos en los que tengan la condición de interesados.",
+"A conocer, en cualquier momento, el estado de la tramitación de los procedimientos, aunque no tengan la condición de interesado.",
+"A conocer, en cualquier momento, el estado de la tramitación de los procedimientos en los que tengan la condición de interesado.",
+"A ser notificado de los hechos que se le imputan, pero no de las infracciones que tales hechos puedan constituir."
+]
+},
+{
+"id": "vo-09-023",
+"origen": "votaciones",
+"test": "Clase de repaso 3 - Bloque III",
+"n": 23,
+"enunciado": "Conforme a la Ley 39/2015, las actuaciones previas: (Salamanca A2 – 2023)",
+"opciones": [
+"Se deben realizar sólo en los procedimientos sancionadores.",
+"Se deben realizar siempre que el procedimiento se inicia a instancia de parte.",
+"Se pueden realizar para conocer las circunstancias del caso concreto y la conveniencia de iniciar un procedimiento.",
+"Se pueden realizar siempre que el órgano sea autorizado por un superior jerárquico."
+]
+},
+{
+"id": "vo-09-024",
+"origen": "votaciones",
+"test": "Clase de repaso 3 - Bloque III",
+"n": 24,
+"enunciado": "Señale la respuesta correcta sobre las medidas provisionales del procedimiento administrativo común según se desprende del artículo 56 de la Ley 39/2015: (Murcia A1 – 2017)",
+"opciones": [
+"Se adoptarán desde el inicio del procedimiento por el órgano administrativo competente para resolver.",
+"Si se adoptan antes del inicio del procedimiento deben confirmarse en el acuerdo de inicio del procedimiento que tendrá lugar en un plazo de 5 días.",
+"No pueden adoptarse si causan un perjuicio de difícil o imposible reparación a los interesados.",
+"Pueden consistir en la suspensión total de la actividad."
+]
+},
+{
+"id": "vo-09-025",
+"origen": "votaciones",
+"test": "Clase de repaso 3 - Bloque III",
+"n": 25,
+"enunciado": "La acumulación del procedimiento: (Ayuntamiento Elche A2 – 2023)",
+"opciones": [
+"No cabe en los iniciados a instancia de parte.",
+"Será posible siempre que no sea el mismo órgano quien deba tramitar y resolver.",
+"Contra el acuerdo de la acumulación no cabe recurso.",
+"Contra el acuerdo de la acumulación podrá interponerse recurso en el caso de procedimientos a instancia de parte."
+]
+},
+{
+"id": "vo-09-026",
+"origen": "votaciones",
+"test": "Clase de repaso 3 - Bloque III",
+"n": 26,
+"enunciado": "Según el artículo 58 de la Ley 39/2015, ¿cuál de las siguientes NO es una forma de inicio de oficio de los procedimientos administrativos?: (GVA A1 – 2026)",
+"opciones": [
+"Por propia iniciativa del órgano competente.",
+"Por orden de órgano superior jerárquico.",
+"A petición razonada de otros interesados.",
+"Por denuncia de cualquier persona."
+]
+},
+{
+"id": "vo-09-027",
+"origen": "votaciones",
+"test": "Clase de repaso 3 - Bloque III",
+"n": 27,
+"enunciado": "En los procedimientos de responsabilidad patrimonial, la petición deberá individualizar (indique la incorrecta): (Girona A1 – 2024)",
+"opciones": [
+"La lesión producida en una persona o grupo de personas.",
+"Su relación de causalidad con el funcionamiento del servicio público.",
+"Su evaluación económica en todo caso.",
+"El momento en que la lesión efectivamente se produjo."
+]
+},
+{
+"id": "vo-09-028",
+"origen": "votaciones",
+"test": "Clase de repaso 3 - Bloque III",
+"n": 28,
+"enunciado": "Señale la respuesta correcta de acuerdo con lo establecido en la Ley 39/2015, sobre el inicio del procedimiento por denuncia. (GVA A2 – 2016)",
+"opciones": [
+"Es el acto por el que cualquier persona, en cumplimiento o no de una obligación legal, pone en conocimiento de un órgano administrativo la existencia de un determinado hecho que pudiera justificar la iniciación de oficio.",
+"La presentación de una denuncia confiere, por sí sola, la condición de interesado en el procedimiento.",
+"Las denuncias no deberán expresar la identidad de la persona o personas que las presentan, solo el relato de los hechos que se ponen en conocimiento de la Administración.",
+"Cuando la denuncia invocara un perjuicio en el patrimonio de las Administraciones Públicas la iniciación del procedimiento deberá ser motivada, pero no se notificará a los denunciantes la decisión de si se ha iniciado o no el procedimiento."
+]
+},
+{
+"id": "vo-09-029",
+"origen": "votaciones",
+"test": "Clase de repaso 3 - Bloque III",
+"n": 29,
+"enunciado": "De acuerdo con el artículo 63 de la Ley 39/2015, en cuanto a los procedimientos de naturaleza sancionadora, señale la respuesta INCORRECTA: (Seguridad Social C1 – 2024)",
+"opciones": [
+"Los procedimientos de naturaleza sancionadora se iniciarán siempre de oficio por acuerdo del órgano competente.",
+"Los procedimientos de naturaleza sancionadora establecerán la debida separación entre la fase instructora y la sancionadora, que se encomendará a órganos distintos.",
+"Se podrán iniciar nuevos procedimientos de carácter sancionador por hechos o conductas tipificadas como infracciones en cuya comisión el infractor persista de forma continuada, aun no habiendo una primera resolución sancionadora.",
+"Iniciado un procedimiento sancionador, si el infractor reconoce su responsabilidad, se podrá resolver el procedimiento con la imposición de la sanción que proceda."
+]
+},
+{
+"id": "vo-09-030",
+"origen": "votaciones",
+"test": "Clase de repaso 3 - Bloque III",
+"n": 30,
+"enunciado": "Según el artículo 64 de la Ley 39/2015, el acuerdo de iniciación deberá contener al menos. Indique la incorrecta:",
+"opciones": [
+"Identificación de la persona o personas presuntamente responsables.",
+"Órgano competente para la resolución del recurso administrativo que se interponga frente al procedimiento y norma que le atribuya tal competencia.",
+"Indicación del derecho a formular alegaciones y a la audiencia en el procedimiento y de los plazos para su ejercicio.",
+"Medidas de carácter provisional que se hayan acordado por el órgano competente para iniciar el procedimiento sancionador."
+]
+},
+{
+"id": "vo-09-031",
+"origen": "votaciones",
+"test": "Clase de repaso 3 - Bloque III",
+"n": 31,
+"enunciado": "De conformidad con el artículo 65 de la Ley 39/2015, el procedimiento de responsabilidad patrimonial iniciado de oficio: (Castilla y León A2 – 2020)",
+"opciones": [
+"Se instruirá solo en el caso de que en el plazo de diez días los particulares presuntamente lesionados se personen.",
+"Se instruirá solo en el caso de que en el plazo de diez días los particulares presuntamente lesionados aporten documentos pertinentes para el reconocimiento del mismo.",
+"Se instruirá solo en el caso de que en el plazo de quince días los particulares presuntamente lesionados se personen.",
+"Se instruirá aunque los particulares presuntamente lesionados no se personen en el plazo establecido."
+]
+}
+]
+}

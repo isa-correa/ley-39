@@ -1,0 +1,167 @@
+{
+"pr-16-001": {
+ "bloque": "actividad",
+ "precepto": "Art. 21.3.b) de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. El 4 de marzo es cuando don Álvaro presenta en el registro de la Junta. Esa presentación es válida (art. 16.4.a), pero el reloj de la Administración que debe resolver aún no corre, porque la Junta no es la competente.",
+  "Es esta. En los procedimientos a solicitud del interesado, el plazo se cuenta desde que la solicitud entra en el registro electrónico de la Administración **competente para tramitarla** (**art. 21.3.b**). La competente es la Dirección General, del Estado, y allí entró el 6 de marzo.",
+  "No. El requerimiento del 11 de marzo no pone en marcha el plazo. Lo que puede hacer es suspenderlo mientras se subsana (art. 22.1.a), pero el punto de partida sigue siendo el 6 de marzo.",
+  "No. Subsanar la falta de unos documentos no cambia la fecha de inicio del cómputo. Solo tiene ese efecto la subsanación de quien, estando obligado a ir por vía electrónica, presentó en papel (art. 68.4), y este no es el caso de la primera solicitud."
+ ],
+ "ojo": "Dos fechas distintas: una es cuándo presentas (4 de marzo) y otra cuándo le llega a quien tiene que resolver (6 de marzo). El plazo para resolver cuenta desde la segunda."
+},
+"pr-16-002": {
+ "bloque": "iniciacion",
+ "precepto": "Art. 68.1 y 68.2 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. Los diez días son correctos, pero “no ampliables” falla. Esta solicitud no es de un procedimiento selectivo ni de concurrencia competitiva y los documentos presentan dificultades especiales, así que se puede ampliar (art. 68.2).",
+  "No. El plazo base es de diez días, no de quince. Quince es a lo que se puede llegar como máximo: diez más los cinco de ampliación.",
+  "Es esta. El plazo para subsanar es de **diez días** (**art. 68.1**) y se puede ampliar prudencialmente **hasta cinco días** cuando aportar los documentos presente dificultades especiales (**art. 68.2**). Es justo lo que pasa con don Álvaro, y su solicitud de reconocimiento de un proyecto no es un procedimiento selectivo ni de concurrencia competitiva.",
+  "No. El art. 68 no prevé veinte días. Lo máximo que permite es diez más cinco, es decir, quince."
+ ],
+ "ojo": "Compárala con la pregunta de la segunda solicitud: mismas dificultades especiales, pero allí hay concurrencia competitiva y no cabe ampliar."
+},
+"pr-16-003": {
+ "bloque": "iniciacion",
+ "precepto": "Art. 68.1 de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "No. El procedimiento no queda parado a la espera de que los documentos lleguen algún día. El plazo para resolver se puede suspender, pero como mucho por el plazo concedido para subsanar (art. 22.1.a), y si no subsana se le tiene por desistido.",
+  "No. La caducidad es otra cosa: se da cuando el procedimiento se paraliza por culpa del interesado, previa advertencia de que pasados tres meses caducará (art. 95.1). Para no subsanar la solicitud, la consecuencia es el desistimiento.",
+  "No. Decaer en el derecho al trámite es lo que pasa cuando no se cumple un trámite durante la instrucción (art. 73.3). Aquí falla la propia solicitud, así que se aplica el art. 68.",
+  "Es esta. El requerimiento avisa de que, si no subsana, se le **tendrá por desistido** de su petición, previa resolución dictada en los términos del art. 21 (**art. 68.1**). Es decir, si don Álvaro no aporta los documentos a tiempo, se entiende que abandona lo que pidió, y la Administración lo declara por escrito."
+ ],
+ "ojo": "Para recordarlo: solicitud sin subsanar, desistimiento (art. 68). Trámite sin cumplir, decaimiento (art. 73)."
+},
+"pr-16-004": {
+ "bloque": "instruccion",
+ "precepto": "Art. 73.1 de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. Los trámites que tiene que cumplir el interesado se hacen en **diez días**, contados desde el siguiente a la notificación, salvo que la norma fije otro plazo (**art. 73.1**). El supuesto no menciona ningún plazo especial, así que don Álvaro tiene diez días para sus aclaraciones.",
+  "No. El art. 73 no dice quince días. Quince es el tope del trámite de audiencia, que va de diez a quince días (art. 82.2), y aquí no estamos en ese trámite.",
+  "No. El art. 73 no habla de veinte días. Su plazo general es de diez, y el supuesto no da ninguna norma especial que lo cambie.",
+  "No. El art. 73 cuenta en días, no en meses: diez días, salvo que otra norma diga algo distinto, y aquí ninguna lo dice."
+ ]
+},
+"pr-16-005": {
+ "bloque": "instruccion",
+ "precepto": "Art. 73.3 de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "No. No cumplir un trámite que no sea indispensable para resolver no provoca la caducidad: solo hace perder el derecho a ese trámite (art. 95.2). Además, la caducidad exige que el procedimiento se paralice y una advertencia previa de tres meses (art. 95.1).",
+  "No. Tener por desistido es la consecuencia de no subsanar la solicitud (art. 68.1). Aquí la solicitud ya está admitida y lo que no se cumple es un trámite posterior.",
+  "No. El art. 73.3 no ordena archivar nada. El procedimiento sigue adelante sin las aclaraciones de don Álvaro. El archivo va ligado a otros casos, como la caducidad (art. 95.1).",
+  "Es esta. A quien no cumple un trámite en plazo se le **podrá declarar decaído en su derecho a ese trámite** (**art. 73.3**). Dicho fácil: don Álvaro pierde la oportunidad de hacer esas aclaraciones, pero el procedimiento continúa."
+ ],
+ "ojo": "Aunque se le declare decaído, su actuación se admite y vale si la hace antes o dentro del día en que se le notifique la resolución que da por pasado el plazo (art. 73.3)."
+},
+"pr-16-006": {
+ "bloque": "iniciacion",
+ "precepto": "Art. 68.1 y 68.2 de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. El plazo es de **diez días** (art. 68.1), y la posibilidad de ampliarlo solo existe “siempre que no se trate de procedimientos selectivos o de concurrencia competitiva” (**art. 68.2**). Esta convocatoria de ayudas va en concurrencia competitiva, es decir, los solicitantes compiten entre sí, así que no se puede ampliar aunque haya dificultades especiales.",
+  "No. El plazo base es de diez días, no de quince, y aquí no cabe ampliación alguna por ser concurrencia competitiva.",
+  "No. Esta sería la respuesta en la primera solicitud. En la segunda, la concurrencia competitiva impide la ampliación, por muchas dificultades especiales que tenga aportar los documentos (art. 68.2).",
+  "No. El art. 68 no prevé veinte días. El plazo es de diez, y en este procedimiento no se puede ampliar."
+ ],
+ "ojo": "La trampa es que el supuesto repite “dificultades especiales” para que marques la ampliación. Lo que decide es el tipo de procedimiento: en concurrencia competitiva no se amplía, porque se daría ventaja a un solicitante frente a los demás."
+},
+"pr-16-007": {
+ "bloque": "plazos",
+ "precepto": "Arts. 21.3, 68.4 y 30.4 y 30.5 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. Sale de contar tres meses desde el 4 de marzo, la fecha de la presentación en papel. Pero TecnoMotores, como persona jurídica, debe ir por vía electrónica (art. 14.2), así que esa presentación no marca la fecha: cuenta la de la subsanación, el 13 de marzo (art. 68.4).",
+  "No. El 13 de junio es el día en que acaban los tres meses, pero cae en sábado, que es inhábil. Cuando el último día es inhábil, el plazo se alarga al primer día hábil siguiente (art. 30.5).",
+  "Es esta. TecnoMotores está obligada a ir por vía electrónica (art. 14.2), así que la fecha de presentación es la de la subsanación, el 13 de marzo (**art. 68.4**). Sin plazo en la norma reguladora, son **tres meses** (**art. 21.3**), y de fecha a fecha acaban el sábado 13 de junio (art. 30.4). Como es inhábil, pasa al **lunes 15 de junio** (**art. 30.5**).",
+  "No. Sale de contar seis meses desde el 4 de marzo. Los seis meses son el tope que puede fijar una norma reguladora sin rango de ley (art. 21.2), pero si la norma no fija plazo son tres, y además la fecha de partida no es el 4 de marzo."
+ ],
+ "ojo": "Fechas clave: en papel, 4 de marzo (no vale); subsanación, viernes 13 de marzo; tres meses, sábado 13 de junio; último día, lunes 15 de junio. No confundas esta subsanación, que sí cambia la fecha, con la de la falta de documentos, que no la cambia."
+},
+"pr-18-001": {
+ "bloque": "plazos",
+ "precepto": "Arts. 21.3.a) y 30.4 de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. En un procedimiento iniciado de oficio, el plazo se cuenta desde la **fecha del acuerdo de iniciación** (**art. 21.3.a**), que es el jueves 15 de enero, no desde su notificación. Tres meses de fecha a fecha (art. 30.4) acaban el miércoles 15 de abril de 2026, que no es sábado, domingo ni festivo nacional.",
+  "No. Es la confusión de sumar un día por empezar al día siguiente. En los plazos por meses, el final cae en el mismo número de día que el de partida: el 15, no el 16.",
+  "No. Sale de contar desde la notificación del 19 de enero. Pero el art. 21.3.a) manda contar desde la fecha del acuerdo, el 15 de enero. Además, el 19 de abril es domingo, y no podría ser el último día (art. 30.5).",
+  "No. También cuenta desde la notificación del 19 de enero y pasa del domingo 19 de abril al lunes 20 (art. 30.5). Pasar al lunes estaría bien si el plazo acabara ese domingo, pero el punto de partida es el 15 de enero."
+ ],
+ "ojo": "La trampa está en los dos datos: acuerdo del 15 de enero y notificación del 19. De oficio cuenta el acuerdo. A solicitud del interesado cuenta la entrada en el registro competente."
+},
+"pr-18-002": {
+ "bloque": "actividad",
+ "precepto": "Art. 25.1.b) de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. Que venza el plazo no significa que la Administración desista. La ley le da otro efecto concreto a este vencimiento en un procedimiento sancionador: la caducidad (art. 25.1.b).",
+  "Es esta. Es un procedimiento sancionador iniciado de oficio, de los que pueden acabar en algo negativo para la empresa. Si vence el plazo sin resolución notificada, se produce la **caducidad** (**art. 25.1.b**), y la resolución que la declare ordena archivar las actuaciones.",
+  "No. Caducar y prescribir son cosas distintas. Caduca el procedimiento, no la infracción: la caducidad no produce por sí sola la prescripción (art. 95.3), y si la infracción no ha prescrito se puede abrir un procedimiento nuevo.",
+  "No. Ese es el efecto en los procedimientos de oficio de los que pueden salir derechos o situaciones favorables (art. 25.1.a). Aguas del Sur no está pidiendo nada: se enfrenta a una sanción."
+ ],
+ "ojo": "De oficio, pregúntate quién sale perdiendo con el procedimiento. Si puede beneficiar al interesado, silencio desestimatorio. Si puede perjudicarle, caducidad."
+},
+"pr-18-003": {
+ "bloque": "instruccion",
+ "precepto": "Art. 76.1 de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "No. Es casi al revés: el art. 76.1 permite alegar antes del trámite de audiencia, y esas alegaciones se tienen en cuenta al redactar la propuesta de resolución. No hay que esperar a que se formule.",
+  "No. “Únicamente” lo estropea. El período de prueba (art. 77) sirve para practicar pruebas, pero no limita el momento de alegar.",
+  "No. Otra vez “únicamente” falla. Para alegar no hace falta que la Administración conceda un plazo concreto: se puede hacer en cualquier momento antes de la audiencia.",
+  "Es esta. Los interesados pueden alegar y aportar documentos u otros elementos de juicio “en cualquier momento del procedimiento anterior al trámite de audiencia” (**art. 76.1**). Por eso Aguas del Sur pudo negar durante la instrucción que el vertido viniera de sus instalaciones, sin esperar a que se lo ofrecieran."
+ ]
+},
+"pr-18-004": {
+ "bloque": "finalizacion",
+ "precepto": "Art. 87 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. El instructor es quien lleva la instrucción y formula la propuesta (art. 89.2), pero las actuaciones complementarias las decide quien va a resolver, cuando ya está a punto de hacerlo.",
+  "No. El art. 87 no menciona al órgano que tramita. Solo habla del “órgano competente para resolver”.",
+  "Es esta. Antes de dictar resolución, “el órgano competente para resolver” puede decidir, mediante acuerdo motivado, las actuaciones complementarias indispensables para resolver (**art. 87**). Tiene lógica: es quien va a decidir y quien nota que le falta un dato, aquí el origen del vertido.",
+  "No. “Indistintamente” falla. No es cosa de uno u otro a elegir: el art. 87 se la atribuye solo al órgano competente para resolver."
+ ],
+ "ojo": "No lo confundas con el período de prueba: la prueba la abre el instructor (art. 77.2), las actuaciones complementarias las acuerda quien resuelve."
+},
+"pr-18-005": {
+ "bloque": "finalizacion",
+ "precepto": "Art. 87 de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "No. El art. 87 no dice tres días naturales, sino “un plazo no superior a quince días”, y además esas actuaciones sí se hicieron dentro del plazo.",
+  "No. El límite no es de tres días, sino de quince. Además, si fueran tres, entre el 3 y el 8 de abril ya se habría pasado, así que el “sí” ni siquiera encajaría.",
+  "No. Siete días es el plazo para formular alegaciones tras las actuaciones, no el plazo para practicarlas. Ese es de quince (art. 87).",
+  "Es esta. Las actuaciones complementarias deben practicarse en un plazo **no superior a quince días** (**art. 87**). Aquí se acuerdan y notifican a finales de marzo y terminan el 8 de abril: del 27 de marzo al 8 de abril hay solo 12 días de calendario, y en días hábiles aún serían menos, así que se cumple."
+ ],
+ "ojo": "Art. 87: quince para practicar, siete para alegar. Te los intercambian."
+},
+"pr-18-006": {
+ "bloque": "finalizacion",
+ "precepto": "Art. 87 de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. El art. 87 dice que se conceda a los interesados “un plazo de **siete días**” para alegar lo que tengan por pertinente **tras la finalización** de las actuaciones. Por eso es correcto que, terminadas el 8 de abril, se diera traslado a Aguas del Sur para que alegara sobre su resultado.",
+  "No. Quince días es el tope para practicar las actuaciones, no para alegar. Para alegar son siete (art. 87).",
+  "No. Es al revés: las alegaciones son para después de las actuaciones (art. 87). Antes de ver el resultado de la prueba del trazador, la empresa no tendría sobre qué alegar.",
+  "No. El órgano decide si hacer las actuaciones, pero la ley reconoce expresamente el derecho a alegar después sobre ellas (art. 87). Sin esa posibilidad, la empresa no podría defenderse del nuevo dato."
+ ]
+},
+"pr-18-007": {
+ "bloque": "finalizacion",
+ "precepto": "Arts. 87 y 22.2.b) de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "No. Sí son causa de suspensión. Lo dicen el art. 87 y el art. 22.2.b), así que el plazo se detiene durante esas actuaciones.",
+  "No. No hace falta ningún acuerdo expreso de suspensión: es automática, porque la ley dice “quedará suspendido” (art. 87). Además, el órgano que aparece aquí es el que resuelve, no el que tramita.",
+  "No. Es el órgano correcto para acordar las actuaciones, pero la suspensión no depende de que decida suspender. Es automática: “se suspenderá”, dice el art. 22.2, no “se podrá suspender”.",
+  "Es esta. “El plazo para resolver el procedimiento quedará suspendido hasta la terminación de las actuaciones complementarias” (**art. 87**). El **art. 22.2.b)** concreta los dos extremos: desde que se notifica el acuerdo a los interesados hasta que terminan. En el caso, del 27 de marzo al 8 de abril."
+ ],
+ "ojo": "El art. 22.1 recoge causas en las que “se podrá” suspender. El art. 22.2 recoge las automáticas, “se suspenderá”, y las actuaciones complementarias están en este segundo grupo."
+}
+}

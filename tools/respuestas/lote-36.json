@@ -1,0 +1,519 @@
+{
+ "pr-20-001": {
+  "bloque": "actividad",
+  "precepto": "Art. 21.2 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Los seis meses no son un tope absoluto. El art. 21.2 admite un plazo mayor si lo establece una norma con rango de ley o si está previsto en el Derecho de la Unión Europea.",
+   "No. Un reglamento puede fijar el plazo, pero solo hasta seis meses. Para llegar a doce hace falta una norma con rango de ley: el proyecto de doce meses no podría ser un simple reglamento.",
+   "Es esta. El **art. 21.2** dice que el plazo máximo no puede pasar de seis meses “salvo que una norma con rango de Ley establezca uno mayor” o lo prevea el Derecho de la Unión Europea. Doce meses supera ese tope, así que hace falta una ley.",
+   "No. El art. 21.2 solo menciona el Derecho de la Unión Europea, no el Derecho internacional. El Derecho internacional aparece en el art. 24.1, pero para el sentido del silencio, no para ampliar el plazo."
+  ],
+  "ojo": "No mezcles dos listas parecidas. Para pasar de seis meses: ley o Derecho de la UE (art. 21.2). Para el silencio negativo: ley, Derecho de la UE o Derecho internacional (art. 24.1)."
+ },
+ "pr-20-002": {
+  "bloque": "iniciacion",
+  "precepto": "Art. 57 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Es verdad que el art. 57 deja acordar la acumulación al órgano que tramita, pero añade una condición: que sea el mismo órgano quien deba tramitar y resolver. Aquí el Director General solo tramita.",
+   "No. La Ministra solo resuelve, no tramita, y por eso tampoco se cumple la condición del art. 57. Además, el artículo atribuye la decisión de acumular al órgano que inicia o tramita, no al que resuelve.",
+   "No. La identidad sustancial o la íntima conexión son necesarias, pero no bastan. Falta el otro requisito: el mismo órgano tiene que tramitar y resolver, y aquí no ocurre.",
+   "Es esta. El **art. 57** permite acumular “siempre que sea el mismo órgano quien deba tramitar y resolver el procedimiento”. En este caso tramita la Dirección General y resuelve la Ministra, así que falla ese requisito y no cabe acumular."
+  ],
+  "ojo": "En el art. 57 hay dos requisitos: conexión entre los asuntos y un mismo órgano que tramite y resuelva. El supuesto insiste en que tramita uno y resuelve otro para que caigas en la cuenta."
+ },
+ "pr-20-003": {
+  "bloque": "actividad",
+  "precepto": "Art. 24.1 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. La regla del **art. 24.1** es que, si el procedimiento lo inicia el interesado, el silencio es positivo salvo excepción. Aquí no hay ninguna: no hay ley que diga lo contrario (el proyecto de silencio negativo aún no está aprobado), la línea va en un edificio privado sin ocupar dominio público y la norma dice que la actividad no daña el medio ambiente.",
+   "No. La prescripción es la pérdida de un derecho por no ejercerlo a tiempo. No es lo que produce que la Administración no resuelva en plazo: eso es el silencio.",
+   "No. El silencio negativo exige una excepción del art. 24.1, y aquí no se da ninguna. El proyecto normativo que lo establecería aún no está aprobado, así que no cuenta.",
+   "No. La caducidad por vencimiento del plazo es propia de los procedimientos iniciados de oficio en los que la Administración ejerce potestades sancionadoras o de intervención (art. 25.1.b). Este lo inició Innova con su solicitud."
+  ],
+  "ojo": "Compáralo con EON: la misma materia, pero EON ocupa dominio público y por eso su silencio es negativo. Innova no lo ocupa y su silencio es positivo."
+ },
+ "pr-20-004": {
+  "bloque": "actividad",
+  "precepto": "Art. 14.2.d) de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. La colegiación obligatoria es un supuesto distinto de obligación (art. 14.2.c). Aquí da igual, porque don José Carlos ya está obligado por otro motivo: representa a una sociedad.",
+   "Es esta. Innova, S.L. es una persona jurídica y por eso debe relacionarse por medios electrónicos (art. 14.2.a). Y el **art. 14.2.d)** extiende esa obligación a quien represente a un interesado obligado. Por tanto, don José Carlos también lo está.",
+   "No. Las personas físicas pueden elegir, pero “salvo que estén obligadas” (art. 14.1). Don José Carlos actúa como representante de una sociedad, y eso le quita la posibilidad de elegir.",
+   "No. No todo interesado está obligado. La regla general para las personas físicas es que pueden elegir (art. 14.1). Solo están obligados los sujetos que enumera el art. 14.2."
+  ]
+ },
+ "pr-20-005": {
+  "bloque": "iniciacion",
+  "precepto": "Art. 68.4 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Presentar en papel a quien debía hacerlo por vía electrónica no lleva a inadmitir. La ley da la posibilidad de arreglarlo con un requerimiento (art. 68.4).",
+   "No. Antes de instruir hay que corregir el defecto. La solicitud presencial de un obligado a la vía electrónica no vale aún como presentada, porque su fecha será la de la subsanación.",
+   "Es esta. Don José Carlos estaba obligado a usar medios electrónicos y presentó el escrito en una oficina del Ayuntamiento de Alicante. El **art. 68.4** dice que, en ese caso, se le requiere para que subsane (corrija el defecto) presentándola por vía electrónica.",
+   "No. La Ministra es quien resuelve, pero aún no hay nada que resolver. El defecto de presentación se corrige con un requerimiento al interesado, no elevando el asunto."
+  ],
+  "ojo": "La trampa es que la oficina de registro sí es un lugar válido para una persona física que puede elegir (art. 16.4.d), pero no para quien está obligado a la vía electrónica."
+ },
+ "pr-20-006": {
+  "bloque": "actividad",
+  "precepto": "Arts. 21.3, 30.4 y 68.4 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. La norma no fija plazo, así que son **tres meses** (**art. 21.3**). Al subsanar, la fecha de presentación es la de la subsanación (**art. 68.4**): el 2 de octubre de 2025, que además es la de entrada en el Registro Electrónico de la AGE. De fecha a fecha (art. 30.4), acaba el 2 de enero de 2026, que es viernes y hábil.",
+   "No. Sale de contar tres meses desde el 26 de septiembre, cuando presentó en papel. Esa presentación no vale como fecha, porque el art. 68.4 toma la de la subsanación.",
+   "No. Sale de contar tres meses desde el 30 de septiembre, cuando el escrito en papel entró en el registro electrónico. También queda desplazada por la subsanación del 2 de octubre.",
+   "No. Serían doce meses, el plazo del proyecto normativo. Pero ese proyecto no está aprobado, así que no se aplica: sin norma, rigen los tres meses del art. 21.3."
+  ],
+  "ojo": "Son tres trampas en una: la fecha de la oficina, la fecha de entrada del papel y el plazo de una norma que todavía no existe."
+ },
+ "pr-20-007": {
+  "bloque": "instruccion",
+  "precepto": "Art. 73.1 y 73.3 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Fallan el plazo y el efecto. El plazo general es de diez días, no de veinte. Y no atender un trámite así no produce la caducidad: esta exige que el procedimiento quede paralizado (art. 95).",
+   "No. El plazo por defecto es de diez días, no de quince (art. 73.1). Y no presentar unas alegaciones no lleva al archivo: el procedimiento sigue adelante.",
+   "Es esta. El **art. 73.1** da diez días para los trámites, si la norma no fija otro plazo. Y el **art. 73.3** dice que a quien no cumpla “se les podrá declarar decaídos” en su derecho al trámite: el señor Fuente pierde esa oportunidad, pero el procedimiento continúa.",
+   "No. El plazo es correcto, pero el efecto no. El desistimiento se aplica cuando no se subsana la solicitud (art. 68.1). Aquí solo pierde el derecho a ese trámite."
+  ],
+  "ojo": "Si no subsanas la solicitud, desistimiento. Si no haces un trámite, decaimiento. Si paralizas el procedimiento, caducidad."
+ },
+ "pr-20-008": {
+  "bloque": "instruccion",
+  "precepto": "Art. 82.2 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Diez días es el mínimo de la audiencia, no el máximo. Se puede conceder más, hasta quince.",
+   "Es esta. El **art. 82.2** fija la audiencia en un plazo “no inferior a diez días ni superior a quince”. El máximo que puede darse al señor Fuente son quince días.",
+   "No. Veinte días supera el tope de la audiencia. Veinte es el mínimo de otro trámite: la información pública (art. 83.2).",
+   "No. Treinta días supera el tope de la audiencia. Treinta es el máximo del período de prueba (art. 77.2), no de este trámite."
+  ]
+ },
+ "pr-20-009": {
+  "bloque": "nulidad",
+  "precepto": "Arts. 47.1.b) y 48.1 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. La nulidad exige incompetencia manifiesta por razón de la materia o del territorio (art. 47.1.b). El Director General y la Ministra pertenecen al mismo Ministerio y tratan la misma materia: la incompetencia es jerárquica.",
+   "No. El vicio no es menor: quien firma no es el órgano que debía resolver. Eso es una infracción del ordenamiento y hace el acto anulable (art. 48.1).",
+   "Es esta. Debía resolver la Ministra y resolvió el Director General, que depende de ella. Es una incompetencia jerárquica, no por materia ni por territorio, así que no llega a la nulidad del art. 47.1.b). Es una infracción del ordenamiento, y por eso anulable (**art. 48.1**).",
+   "No. Motivar bien no cura la falta de competencia. La motivación es un requisito distinto y aquí el problema es quién dictó la resolución."
+  ],
+  "ojo": "Por materia o territorio y de forma manifiesta: nulo. Por jerarquía: anulable."
+ },
+ "pr-20-010": {
+  "bloque": "nulidad",
+  "precepto": "Art. 52.1 y 52.3 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Los actos anulables se pueden convalidar, es decir, arreglar subsanando el vicio (**art. 52.1**). Y si el vicio es de incompetencia no determinante de nulidad, puede hacerlo el órgano competente cuando sea superior jerárquico de quien dictó el acto (**art. 52.3**). Esa es la Ministra respecto del Director General.",
+   "No. La resolución no es nula, porque la incompetencia es jerárquica y no por materia o territorio. Es cierto que los actos nulos no se convalidan, pero no es este caso.",
+   "No. Es justo al revés: la anulabilidad es lo que permite convalidar. El art. 52.1 habla precisamente de convalidar “los actos anulables”.",
+   "No. La resolución no es válida, porque la dictó un órgano sin competencia para resolver. Por eso necesita convalidación."
+  ]
+ },
+ "pr-20-011": {
+  "bloque": "iniciacion",
+  "precepto": "Art. 68.1 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Te han cambiado el efecto. No atender la subsanación de la solicitud supone el desistimiento. El decaimiento es para los demás trámites (art. 73.3).",
+   "Es esta. Si la solicitud de EON no lleva los documentos preceptivos, el **art. 68.1** manda requerirle para que los aporte, avisándole de que, si no lo hace, “se le tendrá por desistido de su petición”, previa resolución.",
+   "No. Eso es otra figura: la mejora voluntaria del art. 68.3, para que el solicitante modifique o mejore los términos de su petición. Aquí falta documentación obligatoria y no es voluntario aportarla.",
+   "No. No se archiva directamente. Primero hay que dar la oportunidad de subsanar. Solo si no lo hace se le tiene por desistido, mediante resolución."
+  ]
+ },
+ "pr-20-012": {
+  "bloque": "iniciacion",
+  "precepto": "Art. 68.1 y 68.2 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Sí son ampliables. El art. 68.2 lo permite cuando aportar los documentos presenta dificultades especiales, salvo en procedimientos selectivos o de concurrencia competitiva, que no es este caso.",
+   "No. El plazo de subsanación es de diez días (art. 68.1), no de quince. Aunque se sumaran los cinco de ampliación, se trataría de una ampliación excepcional y no del plazo normal.",
+   "No. Te han cambiado la ampliación: es de hasta cinco días, no de hasta diez (art. 68.2).",
+   "Es esta. El **art. 68.1** da diez días para subsanar y el **art. 68.2** permite ampliarlos “prudencialmente, hasta cinco días” si aportar los documentos presenta dificultades especiales. Es lo que dice el enunciado de esta documentación."
+  ]
+ },
+ "pr-20-013": {
+  "bloque": "instruccion",
+  "precepto": "Art. 77.6 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Sobra “vinculante”. El art. 77.6 solo dice que el informe se entiende preceptivo, y no dice nada de que obligue a seguir su contenido.",
+   "No. Es la regla general de los informes (art. 80.1), pero aquí hay una regla especial. Si el informe se pide como prueba, se entiende preceptivo (art. 77.6).",
+   "No. El art. 77.6 no le da carácter vinculante, es decir, no obliga a la Ministra a decidir lo que diga el informe. Le da carácter preceptivo.",
+   "Es esta. El **art. 77.6** dice que, cuando la prueba consista en un informe de un órgano administrativo, organismo público o entidad de derecho público, “se entenderá que éste tiene carácter preceptivo”. Preceptivo significa que hay que pedirlo. La Confederación Hidrográfica del Júcar encaja aquí."
+  ],
+  "ojo": "Regla general: facultativo y no vinculante (art. 80.1). Excepción: informe pedido como prueba, preceptivo (art. 77.6)."
+ },
+ "pr-20-014": {
+  "bloque": "actividad",
+  "precepto": "Art. 22.1.d) de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Te han cambiado el plazo. La suspensión por informe preceptivo tiene un tope de tres meses, no de dos.",
+   "No. Falla “quedará suspendido”, porque suena automático. La suspensión por informe preceptivo está en el art. 22.1, donde el plazo “se podrá suspender”. Además, le falta el límite de tres meses.",
+   "Es esta. El informe es preceptivo (art. 77.6) y el **art. 22.1.d)** permite suspender el plazo desde que se pide hasta que se recibe. El tope es de tres meses y, si no llega en ese tiempo, “proseguirá el procedimiento”.",
+   "No. El informe no es facultativo. Se pide como prueba y por eso se entiende preceptivo (art. 77.6), lo que abre la puerta a suspender el plazo."
+  ]
+ },
+ "pr-20-015": {
+  "bloque": "instruccion",
+  "precepto": "Art. 83.1 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. El instructor se encarga de la tramitación, y por ejemplo abre el período de prueba (art. 77.2). Pero la información pública la acuerda quien resuelve.",
+   "No. El Director General es el órgano que tramita, no el que resuelve. El art. 83.1 atribuye esta decisión al órgano que resuelve.",
+   "No. La Secretaría General Técnica aparece en el supuesto por el proyecto normativo, pero no tiene ningún papel en estos procedimientos concretos.",
+   "Es esta. El **art. 83.1** dice que la información pública la acuerda “el órgano al que corresponda la resolución del procedimiento”. En el supuesto, quien resuelve es la Ministra."
+  ]
+ },
+ "pr-20-016": {
+  "bloque": "instruccion",
+  "precepto": "Art. 83.3 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Es al revés: comparecer “no otorga, por sí misma, la condición de interesado” (art. 83.3). Lo que sí da es derecho a una respuesta razonada a las alegaciones.",
+   "No. Falla “únicamente”. El anuncio señala un lugar de exhibición y, además, el expediente debe estar disponible en la sede electrónica (art. 83.2). No es solo en la sede.",
+   "No. Es justo al revés: el plazo “en ningún caso podrá ser inferior a veinte días” (art. 83.2). Veinte días es el mínimo, no el máximo.",
+   "Es esta. El **art. 83.3** dice que no comparecer en este trámite no impide a los interesados recurrir la resolución definitiva. EON, como solicitante, es interesada y conserva su derecho a recurrir aunque no acuda."
+  ]
+ },
+ "pr-20-017": {
+  "bloque": "actividad",
+  "precepto": "Arts. 21.3 y 24.1 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Hay silencio, pero no es positivo. Ocupar 434 metros de vía pecuaria afecta al dominio público, y esa es una de las excepciones del art. 24.1.",
+   "Es esta. Como la norma no fija plazo, son tres meses (**art. 21.3**) y ya han pasado cuatro, así que hay silencio. Y es negativo porque el **art. 24.1** lo establece en los procedimientos cuya estimación transfiera “facultades relativas al dominio público”. EON ocuparía 434 metros de la Vereda de Cádiz.",
+   "No. La caducidad por vencimiento del plazo es de los procedimientos iniciados de oficio con potestades sancionadoras o de intervención (art. 25.1.b). Este lo inició EON con su solicitud.",
+   "No. Seis meses es el tope que puede fijar una norma (art. 21.2), pero aquí no la hay. Cuando la norma no dice nada, son tres meses (art. 21.3), que ya han transcurrido."
+  ],
+  "ojo": "En el mismo supuesto, Innova tiene silencio positivo y EON negativo. La clave es el dominio público."
+ },
+ "pr-20-018": {
+  "bloque": "actividad",
+  "precepto": "Art. 24.3.b) de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El silencio de EON es desestimatorio, y en ese caso el **art. 24.3.b)** dice que la resolución expresa posterior se adopta “sin vinculación alguna al sentido del silencio”. La Ministra puede resolver en cualquier sentido, incluso estimando.",
+   "No. Es lo contrario de lo que dice la ley: no está limitada en ningún sentido. Tampoco es la regla del silencio positivo, en el que la resolución posterior solo puede ser confirmatoria (art. 24.3.a).",
+   "No. La Administración no queda atada a desestimar. Puede estimar o desestimar libremente (art. 24.3.b).",
+   "No. La obligación de resolver sigue viva (art. 21.1). Y el carácter de acto finalizador solo lo tiene la estimación por silencio. La desestimación solo sirve para poder recurrir (art. 24.2)."
+  ],
+  "ojo": "Silencio positivo: después, solo resolución confirmatoria. Silencio negativo: después, la Administración decide libremente."
+ },
+ "pr-20-019": {
+  "bloque": "actividad",
+  "precepto": "Art. 24.4 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. El órgano es correcto, pero el plazo no. Son quince días, no diez.",
+   "Es esta. El **art. 24.4** dice que el certificado acreditativo del silencio se expide de oficio “por el órgano competente para resolver en el plazo de quince días” desde que expira el plazo máximo. En este caso, por la Ministra.",
+   "No. El órgano es correcto, pero el plazo no. Son quince días, no veinte.",
+   "No. El plazo es correcto, pero el órgano no. Lo expide el que resuelve (la Ministra), no el que tramita (el Director General)."
+  ]
+ },
+ "pr-20-020": {
+  "bloque": "instruccion",
+  "precepto": "Art. 70.4 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "Es verdadera, así que no se marca: los informes y dictámenes sí forman parte del expediente. Lo dice el art. 70.2.",
+   "Es verdadera, así que no se marca: este documento sí forma parte. El art. 70.2 incluye cuantos documentos deban integrar el expediente, y la representación de quien actúa por EON sirve de fundamento a lo que se decide.",
+   "Esta es la falsa, y por eso es la que hay que marcar: este documento no forma parte del expediente. El **art. 70.4** excluye la información auxiliar o de apoyo, como “notas, borradores, opiniones”. La opinión del Subdirector es de ese tipo, porque no es un informe solicitado antes de resolver.",
+   "Es verdadera, así que no se marca: el índice numerado sí forma parte cuando el expediente se remite (art. 70.2). También lo exige el art. 48.4 de la Ley 29/1998 para enviarlo al juzgado."
+  ],
+  "ojo": "Lee bien el enunciado: pide lo que no forma parte. Una “opinión” queda fuera. Un informe solicitado antes de resolver, dentro."
+ },
+ "pr-21-001": {
+  "bloque": "finalizacion",
+  "precepto": "Art. 88.1 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Cinco días no es el plazo de las cuestiones conexas. El máximo es de quince días.",
+   "No. Diez días es el plazo general de los trámites (art. 73.1), pero aquí la ley fija un tope distinto, de quince.",
+   "Es esta. El **art. 88.1** permite pronunciarse sobre cuestiones conexas no planteadas, pero antes hay que ponerlo de manifiesto a los interesados “por un plazo no superior a quince días”. Así pueden alegar y aportar pruebas.",
+   "No. Veinte días supera el tope del art. 88.1, que es de quince."
+  ]
+ },
+ "pr-21-002": {
+  "bloque": "finalizacion",
+  "precepto": "Art. 90.2 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Diez días es el plazo general de los trámites (art. 73.1), pero para este caso la ley fija uno especial: quince.",
+   "Es esta. El **art. 90.2** dice que, si el órgano que resuelve ve más grave la infracción o la sanción que la propuesta, lo notifica al inculpado para que alegue “en el plazo de quince días”.",
+   "No. Veinte días no aparece en este supuesto. El plazo es de quince.",
+   "No. Siete días no es el plazo de este trámite. Son quince días (art. 90.2)."
+  ]
+ },
+ "pr-21-003": {
+  "bloque": "finalizacion",
+  "precepto": "Art. 91.3 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Dos meses no es el plazo de la responsabilidad patrimonial. Son seis.",
+   "No. Tres meses es el plazo supletorio general cuando la norma no fija ninguno (art. 21.3). Para este procedimiento hay regla propia: seis meses.",
+   "Es esta. El **art. 91.3** dice que, “transcurridos seis meses” desde que se inició el procedimiento sin resolución ni acuerdo, puede entenderse que la resolución es contraria a la indemnización. Es decir, silencio negativo.",
+   "No. Un año es el plazo que la Ley da al particular para reclamar (art. 67.1), no para que la Administración resuelva."
+  ],
+  "ojo": "No confundas el año para reclamar con los seis meses para resolver."
+ },
+ "pr-21-004": {
+  "bloque": "finalizacion",
+  "precepto": "Art. 94.4 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Cinco días no es el plazo. El art. 94.4 da diez a los terceros interesados.",
+   "Es esta. El **art. 94.4** dice que la Administración acepta el desistimiento o la renuncia salvo que los terceros personados pidan continuar “en el plazo de diez días” desde que fueron notificados.",
+   "No. Quince días no es el plazo. Son diez (art. 94.4).",
+   "No. Esa horquilla recuerda a la de la audiencia (de 10 a 15 días, art. 82.2), pero aquí el plazo es fijo: diez días."
+  ]
+ },
+ "pr-21-005": {
+  "bloque": "finalizacion",
+  "precepto": "Art. 95.1 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. No son treinta días. El plazo de la advertencia de caducidad se fija en meses y son tres.",
+   "No. Un mes no es suficiente. Son tres (art. 95.1).",
+   "No. Dos meses tampoco es el plazo. Son tres (art. 95.1).",
+   "Es esta. El **art. 95.1** dice que, si el procedimiento se paraliza por causa del interesado, se le advierte de que “transcurridos tres meses” se producirá la caducidad. Pasado ese plazo sin que actúe, se archivan las actuaciones."
+  ]
+ },
+ "pr-21-006": {
+  "bloque": "finalizacion",
+  "precepto": "Art. 96.3 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El **art. 96.3** da cinco días desde la presentación para desestimar la solicitud de tramitación simplificada, y “transcurrido el mencionado plazo de cinco días se entenderá desestimada”.",
+   "No. Siete días no es el plazo. Son cinco (art. 96.3).",
+   "No. Diez días es el plazo general de los trámites, pero aquí la ley fija cinco.",
+   "No. Quince días no es el plazo. Son cinco (art. 96.3)."
+  ],
+  "ojo": "En la tramitación simplificada, el silencio sobre la solicitud es negativo y sin posibilidad de recurso."
+ },
+ "pr-21-007": {
+  "bloque": "finalizacion",
+  "precepto": "Art. 96.6.c) de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Tres días no es el plazo. Son cinco (art. 96.6.c).",
+   "Es esta. El **art. 96.6.c)** prevé las alegaciones al inicio del procedimiento simplificado “durante el plazo de cinco días”.",
+   "No. Siete días no es el plazo. Son cinco (art. 96.6.c).",
+   "No. Diez días es el plazo general de los trámites (art. 73.1), pero en la tramitación simplificada se reduce a cinco."
+  ]
+ },
+ "pr-21-008": {
+  "bloque": "finalizacion",
+  "precepto": "Art. 96.6 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Tres meses es el plazo supletorio de la tramitación ordinaria (art. 21.3). La simplificada es más corta.",
+   "No. Dos meses no es el plazo de la tramitación simplificada. Son treinta días.",
+   "No. Parece lo mismo, pero no lo es. La ley dice treinta días, que se cuentan como hábiles (art. 30.2), mientras que un mes va de fecha a fecha (art. 30.4).",
+   "Es esta. El **art. 96.6** dice que estos procedimientos “deberán ser resueltos en treinta días”, contados desde el siguiente a la notificación del acuerdo de tramitación simplificada, salvo que reste menos para la tramitación ordinaria."
+  ],
+  "ojo": "Treinta días no es lo mismo que un mes: la diferencia entre días hábiles y meses es una trampa clásica."
+ },
+ "pr-21-009": {
+  "bloque": "finalizacion",
+  "precepto": "Art. 96.6.g) de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El **art. 96.6.g)** dice que el dictamen “podrá ser emitido en el plazo de quince días” si así lo solicita el órgano competente.",
+   "No. Treinta días es el plazo para resolver todo el procedimiento simplificado (art. 96.6), no para el dictamen.",
+   "No. Un mes no es el plazo del dictamen. Son quince días (art. 96.6.g).",
+   "No. Dos meses no encaja con un procedimiento que debe resolverse en treinta días. El dictamen puede emitirse en quince."
+  ]
+ },
+ "pr-21-010": {
+  "bloque": "revision",
+  "precepto": "Art. 106.1 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El **art. 106.1** dice que las Administraciones declaran la nulidad de oficio “en cualquier momento”. Lo que es nulo no se arregla con el tiempo, aunque rigen los límites del art. 110.",
+   "No. Un año no es plazo de esta revisión. La nulidad se puede declarar en cualquier momento.",
+   "No. Cuatro años es el plazo de la lesividad de actos anulables (art. 107.2), no de la revisión de actos nulos.",
+   "No. Cinco años no aparece en esta revisión. Para actos nulos no hay plazo: en cualquier momento."
+  ]
+ },
+ "pr-21-011": {
+  "bloque": "revision",
+  "precepto": "Art. 107.2 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. “En cualquier momento” es para los actos nulos (art. 106.1). Los anulables tienen un tope.",
+   "No. Un año no es el tope de la lesividad. Son cuatro años desde que se dictó el acto.",
+   "Es esta. El **art. 107.2** dice que la declaración de lesividad no podrá adoptarse “una vez transcurridos cuatro años desde que se dictó el acto”.",
+   "No. Cinco años no es el tope. Son cuatro (art. 107.2)."
+  ],
+  "ojo": "Fíjate en el punto de partida: se cuenta desde que se dictó el acto, no desde que se notificó."
+ },
+ "pr-21-012": {
+  "bloque": "revision",
+  "precepto": "Art. 106.5 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Un mes no es el plazo. Son seis meses desde el inicio (art. 106.5).",
+   "No. Tres meses es el plazo supletorio general (art. 21.3), pero aquí la ley fija seis.",
+   "Es esta. El **art. 106.5** dice que, si la revisión se inició de oficio, “el transcurso del plazo de seis meses” sin resolución produce la caducidad. Si la pidió el interesado, se entiende desestimada por silencio.",
+   "No. Doce meses no es el plazo. Son seis (art. 106.5)."
+  ]
+ },
+ "pr-21-013": {
+  "bloque": "revision",
+  "precepto": "Art. 107.3 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Un mes no es el plazo. Son seis meses desde la iniciación (art. 107.3).",
+   "No. Tres meses es el plazo supletorio general (art. 21.3), pero aquí la ley fija seis.",
+   "Es esta. El **art. 107.3** dice que, “transcurrido el plazo de seis meses” desde la iniciación sin declarar la lesividad, el procedimiento caduca.",
+   "No. Doce meses no es el plazo. Son seis (art. 107.3)."
+  ],
+  "ojo": "Son dos plazos distintos: cuatro años para poder declarar la lesividad desde que se dictó el acto, y seis meses para tramitarla desde que se inicia."
+ },
+ "pr-21-014": {
+  "bloque": "revision",
+  "precepto": "Art. 109.1 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. “En cualquier momento” es para rectificar errores (art. 109.2) o para revisar actos nulos (art. 106.1). La revocación tiene otro límite.",
+   "Es esta. El **art. 109.1** permite revocar los actos de gravamen o desfavorables “mientras no haya transcurrido el plazo de prescripción”, con los límites que recoge el propio enunciado.",
+   "No. Un año no es el límite de la revocación. El límite es la prescripción.",
+   "No. Cuatro años es el plazo de la lesividad (art. 107.2), no el de la revocación."
+  ]
+ },
+ "pr-21-015": {
+  "bloque": "revision",
+  "precepto": "Art. 109.2 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El **art. 109.2** permite rectificar “en cualquier momento”, de oficio o a instancia de los interesados, los errores materiales, de hecho o aritméticos. Por ejemplo, una suma mal hecha se puede corregir siempre.",
+   "No. El plazo de prescripción es el límite de la revocación (art. 109.1), no el de la rectificación de errores.",
+   "No. Un año no es el límite. Rectificar se puede hacer en cualquier momento.",
+   "No. Cuatro años es el plazo de la lesividad (art. 107.2). La rectificación no tiene plazo."
+  ]
+ },
+ "pr-22-001": {
+  "bloque": "actividad",
+  "precepto": "Arts. 21.3.b) y 30.4 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El plazo se cuenta desde la entrada en el registro electrónico de la Administración competente (**art. 21.3.b**). BioVet presentó el 2 de marzo de 2026 en el Registro Electrónico General de la AGE, y el Ministerio es parte de la AGE. Seis meses de fecha a fecha (art. 30.4) acaban el 2 de septiembre de 2026, que es miércoles y hábil.",
+   "No. Es la confusión de sumar un día por empezar al día siguiente. En los plazos por meses, el final es la misma fecha: el día 2.",
+   "No. Sale de contar desde el 5 de marzo, cuando el Ministerio recibió la solicitud. La ley cuenta desde la entrada en el registro de la Administración competente, que fue el 2 de marzo.",
+   "No. Es la misma confusión que la anterior: se cuenta desde el 5 de marzo y, como el 5 de septiembre es sábado, se pasa al lunes 7 (art. 30.5). La fecha de partida es el 2 de marzo."
+  ],
+  "ojo": "La fecha del 5 de marzo es la trampa: lo que cuenta es la entrada en el registro electrónico de la Administración, no el día en que el Ministerio la recibe."
+ },
+ "pr-22-002": {
+  "bloque": "actividad",
+  "precepto": "Art. 24.1 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Falla “siempre”. El silencio positivo es la regla general, pero el art. 24.1 admite excepciones.",
+   "No. Te han cambiado el motivo. El art. 24.1 habla de actividades que puedan dañar el medio ambiente, no de riesgos para la salud. La salud puede justificar una ley que establezca el silencio negativo, pero la Ley 39/2015 no lo atribuye por sí misma.",
+   "No. Un real decreto es un reglamento y no basta para esto. El art. 24.1 exige una norma con rango de ley (o de Derecho de la Unión Europea o internacional aplicable en España).",
+   "Es esta. Según el **art. 24.1**, en los procedimientos a solicitud del interesado el silencio es estimatorio, excepto si “una norma con rango de ley” (o de Derecho de la Unión Europea o internacional) establece lo contrario. La autorización de BoviTest no está en las excepciones de la Ley, así que hace falta esa norma."
+  ],
+  "ojo": "Un reglamento puede fijar el plazo para resolver hasta seis meses, pero no decidir que el silencio sea negativo. Son dos cosas distintas."
+ },
+ "pr-22-003": {
+  "bloque": "iniciacion",
+  "precepto": "Arts. 68.1 y 30.2 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. La cifra es correcta, pero los días no. Los plazos en días son hábiles salvo que una ley o el Derecho de la Unión Europea digan otra cosa (art. 30.2).",
+   "Es esta. El **art. 68.1** da diez días para subsanar la falta de documentos preceptivos. Y por el **art. 30.2** esos días son hábiles: no se cuentan sábados, domingos ni festivos.",
+   "No. Fallan la cifra y el tipo de día. Son diez, y además hábiles.",
+   "No. Los días son hábiles, pero la cifra no es correcta: son diez, no quince (art. 68.1). Solo se podría ampliar hasta cinco días si hubiera dificultades especiales (art. 68.2)."
+  ]
+ },
+ "pr-22-004": {
+  "bloque": "iniciacion",
+  "precepto": "Art. 68.1 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. La caducidad es para la paralización por causa del interesado, con advertencia previa de tres meses (art. 95.1). No atender la subsanación de una solicitud lleva al desistimiento.",
+   "No. El decaimiento es para los trámites del art. 73.3. La subsanación de la solicitud tiene su regla propia: el desistimiento.",
+   "Es esta. El **art. 68.1** dice que, si no subsana, “se le tendrá por desistido de su petición, previa resolución”. Es decir, BioVet queda como si hubiera retirado su solicitud, y eso se declara en una resolución.",
+   "No. La Administración no entra a estimar ni a desestimar la solicitud. Su resolución se limita a declarar el desistimiento, con los hechos y normas aplicables (art. 21.1)."
+  ]
+ },
+ "pr-22-005": {
+  "bloque": "instruccion",
+  "precepto": "Art. 73.1 y 73.2 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Cinco días no es el plazo general. Son diez (art. 73.1).",
+   "Es esta. Si la norma no fija otro plazo, los trámites se cumplen en diez días (**art. 73.1**). El **art. 73.2** da ese mismo plazo para completar un acto que no reúne los requisitos, como el escrito incompleto de BioVet. Son hábiles (art. 30.2).",
+   "No. Quince días no es el plazo general de los trámites. Son diez (art. 73.1).",
+   "No. La cifra es correcta, pero son días hábiles, no naturales (art. 30.2). Para que fueran naturales lo tendría que declarar una ley o el Derecho de la Unión Europea."
+  ]
+ },
+ "pr-22-006": {
+  "bloque": "instruccion",
+  "precepto": "Art. 73.3 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El desistimiento es para quien no subsana la solicitud inicial (art. 68.1). Aquí la solicitud ya está subsanada y lo que falla es un trámite de la instrucción.",
+   "No. La caducidad exige una paralización por causa del interesado y una advertencia previa (art. 95.1). No llega con que no atienda un trámite no indispensable: eso solo le hace perder ese trámite (art. 95.2).",
+   "Es esta. El **art. 73.3** dice que a quien no cumpla un trámite “se les podrá declarar decaídos en su derecho al trámite correspondiente”. BioVet pierde la oportunidad de acreditar esa validación, y el procedimiento sigue con el testado en España.",
+   "No. Fallan el plazo y la consecuencia. La advertencia de caducidad es de tres meses, no de dos, y es para la paralización del procedimiento (art. 95.1), no para este caso."
+  ],
+  "ojo": "El art. 73.3 dice “podrá”, y además la actuación se admite si llega antes o dentro del día en que se notifica la resolución que da por transcurrido el plazo."
+ },
+ "pr-22-007": {
+  "bloque": "instruccion",
+  "precepto": "Art. 73.1 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Cinco días no es el plazo general de los trámites. Son diez (art. 73.1).",
+   "Es esta. La normativa no fija un plazo específico, así que se aplica el general del **art. 73.1**: “diez días” a partir del siguiente a la notificación. Son hábiles (art. 30.2).",
+   "No. Quince días no es el plazo general de los trámites. Son diez (art. 73.1).",
+   "No. Un mes no aparece en el art. 73. Son diez días hábiles."
+  ],
+  "ojo": "El enunciado habla aquí de un “laboratorio francés”, cuando antes era de Suiza. No cambia la respuesta: el plazo es el mismo."
+ },
+ "pr-22-008": {
+  "bloque": "finalizacion",
+  "precepto": "Art. 95.1 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. El desistimiento es para quien no subsana la solicitud (art. 68.1). Aquí se ha paralizado el procedimiento, y eso lleva a la caducidad.",
+   "No. El decaimiento vale para trámites que no son indispensables (art. 95.2). Sin muestras no hay informe preceptivo ni se puede resolver, así que el procedimiento no puede seguir.",
+   "No. Falla “inmediatamente”. Antes hay que advertir a BioVet y dejar pasar tres meses (art. 95.1).",
+   "Es esta. El procedimiento está paralizado por causa de la empresa, y el **art. 95.1** manda advertirle de que “transcurridos tres meses, se producirá la caducidad”. Solo después, si sigue sin actuar, se archivan las actuaciones."
+  ],
+  "ojo": "La clave es si el trámite es indispensable para resolver. Si no lo es, decaimiento. Si lo es y el procedimiento se para, advertencia de caducidad."
+ },
+ "pr-22-009": {
+  "bloque": "finalizacion",
+  "precepto": "Art. 95.1 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Es lo contrario de lo que dice la ley. El art. 95.1 prevé recursos contra la resolución que declara la caducidad.",
+   "No. Falla el “no” del principio. Sí cabe recurso. La revisión de oficio (art. 106) es otra vía, para actos nulos, y no sustituye a los recursos.",
+   "No. También falla el “no” del principio, porque sí cabe recurso. La revocación (art. 109.1) es una facultad de la Administración que no quita ese derecho a la empresa.",
+   "Es esta. El **art. 95.1** termina diciendo: “Contra la resolución que declare la caducidad procederán los recursos pertinentes”. BioVet puede recurrir, con el recurso que corresponda según el órgano que la haya dictado."
+  ]
+ },
+ "pr-22-010": {
+  "bloque": "finalizacion",
+  "precepto": "Art. 95.3 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Sí pueden incorporarse actuaciones del procedimiento caducado: los actos y trámites cuyo contenido se hubiera mantenido igual (art. 95.3).",
+   "Es esta. El **art. 95.3** permite iniciar un nuevo procedimiento si no hay prescripción e incorporar los actos y trámites “cuyo contenido se hubiera mantenido igual”. Eso sí, hay que repetir las alegaciones, la proposición de prueba y la audiencia.",
+   "No. El interés general es otro asunto: puede hacer que no se aplique la caducidad (art. 95.4), pero no condiciona que se pueda iniciar un nuevo procedimiento.",
+   "No. Es al revés: la caducidad “no producirá por sí sola la prescripción” de las acciones del particular (art. 95.3). Por eso BioVet puede volver a solicitar."
+  ],
+  "ojo": "Un procedimiento caducado no interrumpe la prescripción (art. 95.3), pero tampoco la causa por sí solo."
+ }
+}

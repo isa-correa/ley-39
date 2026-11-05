@@ -1,0 +1,463 @@
+{
+ "pr-14-001": {
+  "bloque": "iniciacion",
+  "precepto": "Art. 65.1 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Que la relación de causalidad, la valoración del daño y la cuantía sean inequívocas es lo que permite pasar al procedimiento **simplificado** (art. 96.4), no lo que permite iniciar de oficio.",
+   "Es esta. El **art. 65.1** dice que, para iniciar de oficio, hace falta que no haya prescrito el derecho a reclamar del interesado (art. 67). Si D. Alberto ya no pudiera reclamar, la Administración tampoco podría abrir el procedimiento por su cuenta.",
+   "No. Es justo al revés: el derecho a reclamar tiene que estar **vivo**, no agotado. Si ya hubiera pasado el plazo para reclamar, el derecho estaría prescrito y no cabría iniciar de oficio.",
+   "No. La responsabilidad patrimonial puede iniciarse a solicitud del interesado (art. 67) o de oficio (art. 65). Por eso en el caso se inicia a petición razonada de la Dirección General de Consumo."
+  ],
+  "ojo": "Regla para recordar: de oficio, sí, pero solo mientras el particular todavía pudiera reclamar."
+ },
+ "pr-14-002": {
+  "bloque": "iniciacion",
+  "precepto": "Art. 65.2 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El **art. 65.2** da a los lesionados **diez días** para alegar y proponer pruebas, y por el **art. 30.3** se cuentan desde el día siguiente a la notificación. Como a D. Alberto le notificaron el lunes 20 de enero, empieza a contar el martes 21.",
+   "No. Falla el plazo: son diez días, no quince. El punto de partida, en cambio, sí es el bueno.",
+   "No. Acierta en los diez días, pero falla el inicio. No se cuenta desde la fecha del acuerdo (14 de enero), sino desde el día siguiente a la notificación (art. 30.3).",
+   "No. Fallan las dos cosas: son diez días, no quince, y se cuentan desde el día siguiente a la notificación, no desde la fecha del acuerdo."
+  ],
+  "ojo": "No lo confundas con la pregunta del plazo para resolver: ese sí se cuenta desde la fecha del acuerdo (art. 21.3.a). El de alegar, desde la notificación."
+ },
+ "pr-14-003": {
+  "bloque": "plazos",
+  "precepto": "Art. 33.1 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El **art. 33.1** permite acordar la tramitación de urgencia por razones de interés público, “de oficio o a petición del interesado”. Y ese acuerdo debe ser motivado, como exige el art. 35.1.e).",
+   "No. Sobra el “solo de oficio”. El art. 33.1 también admite que lo pida el interesado, y no distingue según cómo empezó el procedimiento.",
+   "No. Te han cambiado una palabra. Las excepciones a la reducción a la mitad son la presentación de **solicitudes** y recursos, no de alegaciones.",
+   "No. El art. 33 no pone ese límite: se aplica “al procedimiento” sin excluir los iniciados de oficio ni los que puedan reconocer derechos."
+  ],
+  "ojo": "Palabra cambiada típica: “solicitudes y recursos” es lo que no se reduce. Las alegaciones sí se reducen a la mitad."
+ },
+ "pr-14-004": {
+  "bloque": "actividad",
+  "precepto": "Arts. 21.3.a) y 91.3 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. La fecha es buena, pero sobran los diez días. Esos diez días del art. 40.2 son para cursar la notificación, no alargan el plazo máximo: dentro de él hay que resolver y también notificar (art. 21.2).",
+   "No. Falla la fecha y sobran los diez días. El 20 de enero es cuando le notificaron, y el plazo no se cuenta desde ahí, sino desde la fecha del acuerdo. Tampoco hay días adicionales.",
+   "Es esta. El plazo es de seis meses y, al ser de oficio, se cuenta **desde la fecha del acuerdo de iniciación** (**art. 21.3.a**), no desde la notificación. El acuerdo es del 14 de enero de 2025, así que acaba el 14 de julio de 2025, lunes, hábil. Dentro de ese plazo hay que resolver y notificar.",
+   "No. Es la confusión de contar desde la notificación a D. Alberto (20 de enero). En los procedimientos de oficio cuenta la fecha del acuerdo, el 14 de enero."
+  ],
+  "ojo": "De oficio: desde la fecha del acuerdo. A solicitud: desde que la solicitud entra en el registro. La notificación del acuerdo no mueve este plazo."
+ },
+ "pr-14-005": {
+  "bloque": "actividad",
+  "precepto": "Arts. 25.1.a) y 91.3 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. La prescripción afecta al derecho a reclamar por no ejercerlo a tiempo (art. 67.1). Que la Administración no resuelva no hace que D. Alberto pierda su derecho.",
+   "No. La caducidad es para los procedimientos de oficio que pueden perjudicar al interesado, como los sancionadores (art. 25.1.b). Este puede reconocerle una indemnización, así que es favorable.",
+   "No. Es el sentido contrario. En responsabilidad patrimonial el silencio es negativo, tanto a solicitud (art. 24.1) como de oficio (arts. 25.1.a y 91.3).",
+   "Es esta. El **art. 91.3** dice que, pasados seis meses sin resolución notificada, “podrá entenderse que la resolución es contraria a la indemnización”. Es lo mismo que prevé el **art. 25.1.a** para los procedimientos de oficio que pueden reconocer derechos. D. Alberto podría entonces recurrir, y la Administración sigue obligada a resolver."
+  ],
+  "ojo": "Aunque se haya iniciado de oficio, no caduca: caducan los procedimientos de oficio desfavorables, y este puede acabar en una indemnización."
+ },
+ "pr-14-006": {
+  "bloque": "actividad",
+  "precepto": "Art. 14.1 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. D. Alberto reclama por los daños que sufrió él, así que actúa como **persona física**, y estas pueden elegir en todo momento si usan medios electrónicos o no (**art. 14.1**). Además, las oficinas de asistencia en materia de registros son un lugar válido para presentar escritos (art. 16.4.d).",
+   "No. Las personas físicas no están obligadas a usar el papel: pueden elegir. La opción convierte en obligación lo que es un derecho.",
+   "No. Su cargo de gerente no importa aquí. La obligación electrónica es de la sociedad y de quien la represente (art. 14.2.a y d), pero en este procedimiento D. Alberto actúa por sus propios daños, no en nombre de “Pasteles Salado S.L.”.",
+   "No. Que el procedimiento sea de oficio no cambia el medio de relación. El art. 14.1 no distingue según cómo se haya iniciado."
+  ],
+  "ojo": "La trampa es “gerente”. Lo que decide es en nombre de quién actúa: aquí en el suyo, por eso puede usar papel."
+ },
+ "pr-14-007": {
+  "bloque": "iniciacion",
+  "precepto": "Art. 65.2 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. No caduca por eso. Precisamente porque se inició de oficio, sigue adelante aunque él no comparezca (art. 65.2).",
+   "No. La falta de personación no está entre las causas de suspensión del art. 22, y el art. 65.2 ordena que el procedimiento siga.",
+   "No. Esa advertencia de tres meses es la del art. 95.1, para procedimientos iniciados a solicitud del interesado que se paralizan por su culpa. Este es de oficio y tiene regla propia.",
+   "Es esta. El **art. 65.2** lo dice expresamente: el procedimiento “se instruirá aunque los particulares presuntamente lesionados no se personen en el plazo establecido”. Instruir significa seguir adelante con los trámites para poder resolver."
+  ]
+ },
+ "pr-14-008": {
+  "bloque": "iniciacion",
+  "precepto": "Art. 57 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Es verdad que contra el acuerdo de acumulación no cabe recurso, pero falta el requisito clave: que sea el mismo órgano quien deba tramitar y resolver. Aquí tramita la Secretaría General Técnica y resuelve la Ministra.",
+   "No. El art. 57 no da a los interesados un derecho de veto. Esa “oposición expresa” es propia de la tramitación simplificada (art. 96.2), no de la acumulación.",
+   "No. El art. 57 permite acumular “cualquiera que haya sido la forma de su iniciación”. Es decir, da igual que uno empezara de oficio y otro por reclamación.",
+   "Es esta. Hay íntima conexión, pero el **art. 57** exige además “que sea el mismo órgano quien deba tramitar y resolver”. Según el supuesto, tramita el Secretario General Técnico y resuelve la Ministra, así que tramitación y resolución corresponden a órganos distintos y, leído al pie de la letra, no se cumple el requisito."
+  ],
+  "ojo": "El dato del caso que decide la pregunta es quién tramita y quién resuelve. Por eso el supuesto lo cuenta con tanto detalle."
+ },
+ "pr-14-009": {
+  "bloque": "actos",
+  "precepto": "Art. 35.1.h) de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. La propuesta de resolución solo tiene que motivarse así en los procedimientos **sancionadores**. Este es de responsabilidad patrimonial.",
+   "Es esta. El **art. 35.1.h)** exige motivar “los actos que resuelvan procedimientos de carácter sancionador o de responsabilidad patrimonial”. Motivar es explicar brevemente los hechos y el derecho en que se basa la decisión. Por tanto, en el caso del ascensor se motiva la resolución.",
+   "No. Sobra la propuesta. En el art. 35.1.h) la propuesta se refiere solo a los sancionadores: es la diferencia con la pregunta del procedimiento contra “Juguetitos S.L.”.",
+   "No. El art. 35.1 no exige esta motivación a todos los actos, solo a los que enumera en su lista."
+  ],
+  "ojo": "Sancionador: propuesta y resolución. Responsabilidad patrimonial: solo resolución."
+ },
+ "pr-14-010": {
+  "bloque": "actos",
+  "precepto": "Art. 41.1.a) de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Es cierto que quien representa a una empresa está obligado a lo electrónico (art. 14.2.d), pero “necesariamente” es demasiado: el art. 41.1.a) permite notificar en papel en la comparecencia espontánea del interesado “o su representante”.",
+   "No. Eso mezcla otro supuesto. Los elementos que no se pueden pasar a formato electrónico impiden siempre notificar por esa vía (art. 41.2.a), pero no son el único caso en que cabe el papel.",
+   "Es esta. El **art. 41.1.a)** permite notificar por medios no electrónicos cuando el interesado o su representante acude por su cuenta a la oficina de asistencia “y solicite la comunicación o notificación personal en ese momento”. Así que D. Amable actúa bien solo si D. Alberto lo pide.",
+   "No. Se carga la condición de la ley. No basta con que D. Alberto esté allí: tiene que solicitar la notificación en ese momento."
+  ],
+  "ojo": "Dos requisitos a la vez: comparecencia espontánea y que el interesado o representante pida que se le notifique allí."
+ },
+ "pr-14-011": {
+  "bloque": "iniciacion",
+  "precepto": "Art. 62.2 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El art. 62.1 define la denuncia como el acto hecho “en cumplimiento o no de una obligación legal”. Dª Estrella puede denunciar aunque no tenga ninguna obligación de hacerlo.",
+   "No. Denunciar solo pone los hechos en conocimiento de la Administración (art. 62.1). Quien decide si inicia o no es el órgano competente: la denuncia no le obliga a hacerlo.",
+   "Es esta. El **art. 62.2** dice que las denuncias “deberán expresar la identidad” de quien las presenta y el relato de los hechos. Por eso no valen, por sí mismas, las denuncias anónimas.",
+   "No. Sobra el “solo”. La denuncia puede referirse a cualquier hecho que pudiera justificar iniciar de oficio un procedimiento (art. 62.1). La infracción es solo un caso posible (art. 62.2)."
+  ]
+ },
+ "pr-14-012": {
+  "bloque": "iniciacion",
+  "precepto": "Arts. 53.1.a) y 62.5 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El **art. 62.5** dice que presentar una denuncia “no confiere, por sí sola, la condición de interesado”. Y el derecho a conocer el estado de la tramitación es de quienes son interesados (**art. 53.1.a**). Como Dª Estrella es solo denunciante, no tiene ese derecho por esa única condición.",
+   "No. La Ley 39/2015 no reconoce ese derecho al denunciante. Lo máximo que prevé es comunicarle la incoación (el inicio) cuando la norma del procedimiento así lo diga (art. 64.1).",
+   "No. Es lo contrario de lo que dice el art. 62.5: la denuncia, por sí sola, no da la condición de interesada.",
+   "No. El art. 53.1.a) reserva este derecho a quienes tienen la condición de interesados en ese procedimiento, no a todos los ciudadanos."
+  ],
+  "ojo": "Denunciante no es igual a interesado. La pregunta dice “por su sola condición de denunciante”."
+ },
+ "pr-14-013": {
+  "bloque": "iniciacion",
+  "precepto": "Art. 63.1 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. La denuncia de Dª Estrella es el motivo que lleva a actuar, pero no inicia nada por sí misma. El procedimiento empieza con el acuerdo del órgano (art. 58).",
+   "Es esta. El **art. 63.1** dice que los procedimientos sancionadores “se iniciarán siempre de oficio por acuerdo del órgano competente”. Aunque haya denuncia detrás, como en el caso de “Juguetitos S.L.”, sigue siendo de oficio.",
+   "No. Un sancionador nunca se inicia a instancia de parte: el art. 63.1 dice “siempre de oficio”.",
+   "No. Es lo mismo que la anterior con otras palabras: no cabe iniciar un sancionador a solicitud de nadie, y además Dª Estrella no es interesada (art. 62.5)."
+  ],
+  "ojo": "La denuncia no es una forma distinta de iniciar: el art. 58 la incluye dentro de la iniciación de oficio."
+ },
+ "pr-14-014": {
+  "bloque": "iniciacion",
+  "precepto": "Art. 56.2 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. El órgano competente para resolver es el que adopta las medidas una vez **iniciado** el procedimiento (art. 56.1). Aquí se adoptaron el 3 de diciembre, antes del acuerdo de iniciación del 23.",
+   "Es esta. Las medidas se adoptaron el 3 de diciembre, antes de iniciar el procedimiento, y con carácter de urgencia. Para ese momento, el **art. 56.2** atribuye la competencia al órgano “competente para iniciar o instruir”.",
+   "No. Mezcla los dos apartados. “Instruir” viene del art. 56.2 y “resolver” del art. 56.1, pero nunca van juntos.",
+   "No. También mezcla apartados. Antes de iniciar es “iniciar o instruir”; resolver solo entra una vez iniciado."
+  ],
+  "ojo": "Fíjate en la fecha de las medidas respecto al acuerdo de iniciación: antes, iniciar o instruir; después, resolver."
+ },
+ "pr-14-015": {
+  "bloque": "iniciacion",
+  "precepto": "Art. 56.2 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El **art. 56.2** dice que el acuerdo de iniciación debe hacerse “dentro de los quince días siguientes” a la adopción de la medida y que “podrá ser objeto del recurso que proceda”. Es lógico: retirar los juguetes del mercado afecta mucho a “Juguetitos S.L.”.",
+   "No. El plazo es bueno, pero falla lo del recurso: este acuerdo sí se puede recurrir. No lo confundas con la acumulación o la urgencia, cuyos acuerdos no admiten recurso (arts. 57 y 33.2).",
+   "No. Falla el plazo: son quince días, no cinco. Lo del recurso sí está bien.",
+   "No. Fallan las dos cosas: son quince días, no cinco, y el acuerdo sí es recurrible."
+  ]
+ },
+ "pr-14-016": {
+  "bloque": "plazos",
+  "precepto": "Arts. 30.2 y 56.2 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. El 11 de diciembre sería el último día de un plazo de cinco días hábiles, y el plazo es de quince. Además, la medida seguiría viva ese último día.",
+   "No. Es el día siguiente al final de un plazo de cinco días hábiles. Pero el art. 56.2 da quince.",
+   "No. El 26 de diciembre es el último día del plazo, y ese día todavía se podía iniciar el procedimiento. La medida decae a partir del día siguiente.",
+   "Es esta. Son quince días hábiles (**arts. 30.2 y 56.2**) desde el 3 de diciembre, martes. Contando desde el 4 y saltando el día 6, los fines de semana y el 25, el día 15 es el jueves 26 de diciembre. Si en ese plazo no se inicia el procedimiento, la medida queda sin efecto a partir del 27 de diciembre."
+  ],
+  "ojo": "Cuidado con la pregunta: no pide el último día del plazo (26), sino a partir de cuándo la medida ya no vale (27)."
+ },
+ "pr-14-017": {
+  "bloque": "actos",
+  "precepto": "Arts. 14.2.a) y 41.1 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. La ley no exige repetir en papel una notificación electrónica. Basta con la electrónica para quien está obligado a ella (art. 41.1).",
+   "No. No hay libertad de elección. El art. 41.1 dice que se notificará por medios electrónicos “en todo caso” cuando el interesado esté obligado a recibirlas así, y solo admite el papel en casos tasados.",
+   "Es esta. “Juguetitos S.L.” es una persona jurídica, y estas están obligadas a relacionarse electrónicamente (**art. 14.2.a**). Por eso sus notificaciones se practican por esa vía (**art. 41.1**).",
+   "No. La ley no exige papel en los sancionadores. Los únicos casos en que nunca se notifica por medios electrónicos son los del art. 41.2: lo que no se puede digitalizar y los medios de pago."
+  ]
+ },
+ "pr-14-018": {
+  "bloque": "actos",
+  "precepto": "Art. 43.2 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. La puesta a disposición en la Dirección Electrónica Habilitada única (el buzón electrónico) no es la notificación practicada. Solo sirve para entender cumplida la obligación de notificar dentro del plazo máximo (arts. 40.4 y 43.3).",
+   "No. La ley no dice que la notificación se practique el primer día hábil después de la puesta a disposición. Se practica con el acceso al contenido.",
+   "No. El aviso es solo un recordatorio que te dice que tienes una notificación pendiente (art. 41.6), no la notificación.",
+   "Es esta. El **art. 43.2** dice que las notificaciones electrónicas se entienden practicadas “en el momento en que se produzca el acceso a su contenido”. El representante de “Juguetitos S.L.” entró el martes 31 de diciembre, dentro de los diez días naturales que evitan que se entienda rechazada."
+  ],
+  "ojo": "Tres fechas distintas: puesta a disposición (27), aviso (28) y acceso (31). La que cuenta para entender practicada la notificación es el acceso."
+ },
+ "pr-14-019": {
+  "bloque": "plazos",
+  "precepto": "Arts. 21.3.a) y 30.5 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. La fecha de partida es buena, pero el 23 de marzo es domingo. Si el último día es inhábil, el plazo pasa al primer día hábil siguiente (art. 30.5).",
+   "Es esta. Sin plazo en la norma son tres meses (**art. 21.3**) y, al ser de oficio, desde la fecha del acuerdo de iniciación, el 23 de diciembre de 2024 (**art. 21.3.a**). De fecha a fecha acaba el 23 de marzo de 2025, que es domingo, así que se prorroga al lunes 24 (**art. 30.5**).",
+   "No. Es contar tres meses desde la puesta a disposición (27 de diciembre). El plazo corre desde la fecha del acuerdo, no desde que se notifica.",
+   "No. Es contar tres meses desde el acceso a la notificación (31 de diciembre). Esa fecha importa para otras cosas, pero no para este plazo, que corre desde el acuerdo."
+  ],
+  "ojo": "Dos pasos: fecha de partida (el acuerdo, no la notificación) y comprobar si el último día es hábil."
+ },
+ "pr-14-020": {
+  "bloque": "actos",
+  "precepto": "Art. 35.1.h) de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Sobra el “únicamente”. Además de la propuesta, el art. 35.1.h) incluye los actos que resuelven el sancionador.",
+   "No. También sobra el “únicamente”. En los sancionadores, la propuesta de resolución también debe motivarse. Solo en responsabilidad patrimonial basta con la resolución.",
+   "Es esta. El **art. 35.1.h)** exige motivar “las propuestas de resolución en los procedimientos de carácter sancionador” y los actos que los resuelven. En el procedimiento contra “Juguetitos S.L.” se motivan las dos cosas, con una breve explicación de los hechos y del derecho aplicable.",
+   "No. Se queda demasiado amplia: el art. 35.1 enumera los actos que hay que motivar, no todos los que se dictan en el procedimiento."
+  ],
+  "ojo": "Es la pareja de la pregunta sobre el ascensor: sancionador, propuesta y resolución; responsabilidad patrimonial, solo resolución."
+ },
+ "pr-15-001": {
+  "bloque": "actos",
+  "precepto": "Art. 40.2 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El **art. 40.2** dice que toda notificación debe cursarse “dentro del plazo de diez días” desde que se dicta el acto. Y como no dice otra cosa, esos días son hábiles (**art. 30.2**).",
+   "No. Falla el número: son diez días, no quince.",
+   "No. El número es bueno, pero no son naturales. Si la ley no dice “naturales”, los días son hábiles (art. 30.2).",
+   "No. Fallan las dos cosas: son diez, no quince, y son hábiles, no naturales."
+  ]
+ },
+ "pr-15-002": {
+  "bloque": "instruccion",
+  "precepto": "Art. 77.2 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Ese es el período **ordinario** de prueba: ni más de treinta días ni menos de diez. El extraordinario es más corto.",
+   "No. Falla el número: el tope son diez días, no quince.",
+   "Es esta. El **art. 77.2** permite al instructor, a petición de los interesados, abrir un período extraordinario de prueba “no superior a diez días”.",
+   "No. Ese intervalo de quince a treinta no aparece en el art. 77.2. El extraordinario solo tiene un máximo: diez días."
+  ],
+  "ojo": "Ordinaria: de 10 a 30 días. Extraordinaria: hasta 10."
+ },
+ "pr-15-003": {
+  "bloque": "instruccion",
+  "precepto": "Art. 81.3 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El **art. 81.3** dice que el plazo para resolver “quedará suspendido” desde que se pide el informe del Consejo General del Poder Judicial hasta que se recibe, con un máximo de dos meses. Es decir, la suspensión es automática.",
+   "No. El verbo es bueno, pero falla la duración: son dos meses. Los tres meses son el tope de suspensión por informes preceptivos en general (art. 22.1.d).",
+   "No. La duración es buena, pero falla el verbo: aquí no es “podrá”, sino “quedará”.",
+   "No. Fallan las dos cosas. “Podrá” y “tres meses” son la regla general del art. 22.1.d), no este caso especial."
+  ],
+  "ojo": "Regla general de informes preceptivos: podrá suspenderse hasta tres meses. Este informe: quedará suspendido hasta dos meses."
+ },
+ "pr-15-004": {
+  "bloque": "instruccion",
+  "precepto": "Art. 82.2 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El **art. 82.2** da a los interesados, para alegar y presentar documentos en la audiencia, un plazo “no inferior a diez días ni superior a quince”.",
+   "No. “No inferior a 20 días” es el plazo de la información pública (art. 83.2).",
+   "No. De diez a treinta días es el período ordinario de prueba (art. 77.2).",
+   "No. El mínimo son diez días, no quince. Quince es el máximo."
+  ]
+ },
+ "pr-15-005": {
+  "bloque": "instruccion",
+  "precepto": "Art. 83.2 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Falla el número: el mínimo son veinte días, no quince.",
+   "No. De diez a quince días es el trámite de audiencia (art. 82.2), no la información pública.",
+   "Es esta. El **art. 83.2** dice que el plazo para formular alegaciones “en ningún caso podrá ser inferior a veinte días”. Es largo porque puede participar cualquier persona.",
+   "No. Le han dado la vuelta: veinte días es el mínimo, no el máximo."
+  ]
+ },
+ "pr-15-006": {
+  "bloque": "finalizacion",
+  "precepto": "Art. 87 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El número es bueno, pero no son naturales. La ley dice solo “quince días”, así que son hábiles (art. 30.2).",
+   "No. Siete días es el plazo para hacer alegaciones cuando terminan las actuaciones complementarias, no para practicarlas.",
+   "Es esta. El **art. 87** dice que las actuaciones complementarias “deberán practicarse en un plazo no superior a quince días”. Son los trámites indispensables que el órgano decide hacer justo antes de resolver.",
+   "No. Es sumar los quince días de practicarlas y los siete de alegar. La ley no da ningún plazo de veintidós."
+  ],
+  "ojo": "En el art. 87 hay dos plazos: 15 días para practicarlas y 7 para alegar."
+ },
+ "pr-15-007": {
+  "bloque": "instruccion",
+  "precepto": "Art. 77.2 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. De diez a quince días es el trámite de audiencia (art. 82.2). La prueba llega hasta treinta.",
+   "No. El art. 77.2 fija el mínimo en diez días, no en quince, y además pone un máximo de treinta.",
+   "No. “No inferior a veinte días” es la información pública (art. 83.2).",
+   "Es esta. El **art. 77.2** fija el período de prueba en un plazo “no superior a treinta días ni inferior a diez”. El extraordinario, en cambio, no pasa de diez."
+  ]
+ },
+ "pr-15-008": {
+  "bloque": "instruccion",
+  "precepto": "Art. 81.2 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Ese plazo no aparece en el art. 81.2: el dictamen se emite en dos meses.",
+   "No. Se queda corto. El art. 81.2 da dos meses, no uno.",
+   "Es esta. El **art. 81.2** dice que el dictamen “se emitirá en el plazo de dos meses”. Es preceptivo, es decir, obligatorio pedirlo, cuando la indemnización reclamada es de 50.000 euros o más.",
+   "No. Se pasa. Tres meses es el tope general de suspensión por informes preceptivos (art. 22.1.d), no el plazo de este dictamen."
+  ]
+ },
+ "pr-15-009": {
+  "bloque": "instruccion",
+  "precepto": "Art. 80.2 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Fallan las dos cosas: son diez días, no cinco, y son hábiles, no naturales.",
+   "No. Falla el número: son diez días, no cinco.",
+   "No. El número es bueno, pero no son naturales. La ley dice solo “diez días”, así que son hábiles (art. 30.2).",
+   "Es esta. El **art. 80.2** dice que los informes se emiten “en el plazo de diez días”, salvo que una disposición o los demás plazos del procedimiento permitan o exijan otro mayor o menor. Por eso la pregunta dice “con carácter general”."
+  ]
+ },
+ "pr-15-010": {
+  "bloque": "iniciacion",
+  "precepto": "Art. 65.2 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El **art. 65.2** concede a los particulares presuntamente lesionados “un plazo de diez días” para aportar alegaciones, documentos e información y proponer pruebas.",
+   "No. Falla el número: son diez días, no quince.",
+   "No. Veinte días recuerda al mínimo de la información pública (art. 83.2), no a este trámite.",
+   "No. Ese intervalo de diez a quince es el trámite de audiencia (art. 82.2). Aquí el plazo es fijo: diez días."
+  ]
+ },
+ "pr-15-011": {
+  "bloque": "actos",
+  "precepto": "Art. 43.2 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. El número es bueno, pero la ley dice “naturales”. Los sábados, domingos y festivos sí cuentan aquí.",
+   "Es esta. El **art. 43.2** entiende rechazada la notificación cuando pasan “diez días naturales” desde la puesta a disposición sin acceder a su contenido. Es de los pocos plazos que la ley fija expresamente en días naturales.",
+   "No. Fallan las dos cosas: son diez, no quince, y son naturales, no hábiles.",
+   "No. Acierta en lo de naturales, pero falla el número: son diez, no quince."
+  ]
+ },
+ "pr-15-012": {
+  "bloque": "actividad",
+  "precepto": "Art. 24.4 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Se queda corto: son quince días, no cinco.",
+   "No. Falla el número: son quince días, no diez.",
+   "Es esta. El **art. 24.4** dice que el certificado acreditativo del silencio (el papel que prueba que hubo silencio) se expide de oficio por el órgano competente para resolver “en el plazo de quince días”. El interesado también puede pedirlo en cualquier momento.",
+   "No. Se pasa: son quince días, no veinte."
+  ]
+ },
+ "pr-15-013": {
+  "bloque": "finalizacion",
+  "precepto": "Art. 87 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Quince días es el tope para practicar las actuaciones complementarias, no para alegar después.",
+   "No. Falla el número: son siete días, no diez.",
+   "Es esta. El **art. 87** concede a los interesados “un plazo de siete días” para alegar cuando terminan las actuaciones complementarias.",
+   "No. Falla el número: son siete días, no cinco."
+  ]
+ },
+ "pr-15-014": {
+  "bloque": "instruccion",
+  "precepto": "Art. 73.1 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Fallan las dos cosas: son diez días, no cinco, y son hábiles, no naturales.",
+   "No. El número es bueno, pero no son naturales. La ley dice solo “diez días”, así que son hábiles (art. 30.2).",
+   "No. Falla el número: son diez días, no cinco.",
+   "Es esta. El **art. 73.1** dice que los trámites a cargo de los interesados se hacen “en el plazo de diez días”, a partir del siguiente a la notificación, salvo que la norma fije otro. Es decir, si no te dicen nada, tienes diez días hábiles."
+  ]
+ },
+ "pr-15-015": {
+  "bloque": "instruccion",
+  "precepto": "Art. 78.1 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. El art. 78.1 no fija ningún número de días, así que tres días es un plazo inventado.",
+   "No. Tampoco cinco: la ley no pone una cifra.",
+   "No. Tampoco diez: la ley no pone una cifra.",
+   "Es esta. El **art. 78.1** dice que la Administración comunicará el inicio de las pruebas “con antelación suficiente”. No hay un número de días: basta con que dé tiempo a que el interesado se organice."
+  ],
+  "ojo": "No todo es un número: esta pregunta busca que caigas en una cifra que la ley no da."
+ },
+ "pr-15-016": {
+  "bloque": "iniciacion",
+  "precepto": "Art. 56.2 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El **art. 56.2** exige que el acuerdo de iniciación se haga “dentro de los quince días siguientes” a la adopción de las medidas, y añade que “podrá ser objeto del recurso que proceda”. Si no se inicia en ese plazo, las medidas quedan sin efecto.",
+   "No. El plazo es bueno, pero este acuerdo sí se puede recurrir, porque contiene medidas que afectan directamente al interesado.",
+   "No. Lo del recurso está bien, pero falla el plazo: son quince días, no diez.",
+   "No. Fallan las dos cosas: son quince días, no diez, y el acuerdo sí es recurrible."
+  ]
+ },
+ "pr-15-017": {
+  "bloque": "actividad",
+  "precepto": "Art. 21.4 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Falla el número: son diez días, no cinco.",
+   "Es esta. El **art. 21.4** dice que esta comunicación se dirige al interesado “dentro de los diez días siguientes” a recibir la solicitud en el registro electrónico del órgano competente. En ella se le informa del plazo máximo y de qué pasa si hay silencio.",
+   "No. Falla el número: son diez días, no quince.",
+   "No. Falla el número: son diez días, no veinte."
+  ]
+ },
+ "pr-15-018": {
+  "bloque": "iniciacion",
+  "precepto": "Art. 67.1 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Seis meses es el plazo para resolver el procedimiento de responsabilidad patrimonial (art. 91.3), no para reclamar.",
+   "Es esta. El **art. 67.1** dice que el derecho a reclamar “prescribirá al año” de producirse el hecho o de manifestarse su efecto lesivo. Si hay daños físicos o psíquicos, el año cuenta desde la curación o desde que se determina el alcance de las secuelas.",
+   "No. Falla el plazo: el art. 67.1 da un año, no dos.",
+   "No. Falla el plazo: el art. 67.1 da un año, no cuatro."
+  ]
+ },
+ "pr-15-019": {
+  "bloque": "interesados",
+  "precepto": "Art. 5.6 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El **art. 5.6** dice que el órgano debe conceder “diez días” para aportar o subsanar la representación, “o un plazo superior cuando las circunstancias del caso así lo requieran”.",
+   "No. Falla el “inferior”. Los diez días se pueden alargar si hace falta, pero no acortar.",
+   "No. Falla el número: la base son diez días, no quince.",
+   "No. Fallan las dos cosas: son diez días, no quince, y la posibilidad es de un plazo superior, no inferior."
+  ],
+  "ojo": "La palabra que te pueden cambiar es “superior”: el plazo de diez días puede crecer, no reducirse."
+ },
+ "pr-15-020": {
+  "bloque": "iniciacion",
+  "precepto": "Art. 68.1 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Cinco días es lo que se puede **ampliar** ese plazo si los documentos son difíciles de aportar (art. 68.2), no el plazo para subsanar.",
+   "Es esta. El **art. 68.1** da al interesado “un plazo de diez días” para subsanar (corregir el defecto) o acompañar los documentos. Si no lo hace, se le tiene por desistido de su petición, previa resolución.",
+   "No. Falla el número: el plazo son diez días. Solo se llegaría a quince si se ampliara cinco días más (art. 68.2), y eso es una excepción.",
+   "No. Falla el número: son diez días, no veinte."
+  ]
+ }
+}

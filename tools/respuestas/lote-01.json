@@ -1,0 +1,462 @@
+{
+"au-01-001": {
+  "bloque": "interesados",
+  "precepto": "Art. 7 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+    "No. Se queda a medias. El que figura en primer término solo entra “en su defecto”, es decir, cuando los interesados no han señalado a nadie.",
+    "No. La ley no obliga a repetir cada actuación con todos. Precisamente busca lo contrario: tener un único interlocutor.",
+    "No. Te han cambiado “primer término” por “último término”. El orden que cuenta es el primero de la lista.",
+    "Es esta. El **art. 7** fija dos pasos: primero, el representante o interesado que hayan señalado expresamente; si no han señalado a nadie, el que figure en primer término. Por ejemplo, si tres vecinos firman un escrito sin indicar nada, la Administración se entiende con el primero."
+  ]
+},
+"au-01-002": {
+  "bloque": "interesados",
+  "precepto": "Art. 4.1 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+    "No. Sí son interesados: es el art. 4.1.b). Quien tiene un derecho afectado lo es aunque no haya iniciado el procedimiento.",
+    "No. Sí son interesados: es el art. 4.1.a), el caso de quien promueve el procedimiento.",
+    "Es esta. Quien solo tiene un **interés legítimo** afectado es interesado únicamente si **se persona** en el procedimiento antes de la resolución definitiva (**art. 4.1.c**). La frase “aun cuando no se personen” es justo lo contrario de lo que pide la ley, así que estos no son interesados.",
+    "No. No todos lo son: la opción de los intereses legítimos “aun cuando no se personen” no encaja en el art. 4.1.c), porque personarse es obligatorio en ese caso."
+  ],
+  "ojo": "Distingue: quien tiene un **derecho** afectado es interesado sin hacer nada; quien tiene un **interés legítimo** tiene que personarse."
+},
+"au-01-003": {
+  "bloque": "interesados",
+  "precepto": "Art. 1.2 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+    "No. El reglamento sirve para otra cosa: establecer especialidades del procedimiento (órganos, plazos, formas de iniciación y terminación, publicación e informes). Trámites nuevos o distintos, no.",
+    "No. Sobra “o reglamentariamente”. Para añadir trámites el reglamento no vale, solo la ley.",
+    "Es esta. El **art. 1.2** dice que “solo mediante ley” podrán incluirse trámites adicionales o distintos, y además cuando sea eficaz, proporcionado y necesario, y de manera motivada. Es una garantía: para complicarle el procedimiento al ciudadano hace falta una ley.",
+    "No. Sí pueden incluirse. El art. 1.2 lo permite, con la condición de que sea por ley y con esos requisitos."
+  ],
+  "ojo": "Trámites nuevos: solo ley. Especialidades (órganos, plazos, publicación e informes): reglamento. Mira también la pregunta sobre especialidades de este mismo test."
+},
+"au-01-004": {
+  "bloque": "interesados",
+  "precepto": "Art. 2.2.b) de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. Es casi literal el **art. 2.2.b)**. Estas entidades (por ejemplo, una sociedad mercantil pública) se rigen por las normas de la ley que hablen de ellas y, siempre, cuando ejerzan potestades administrativas, es decir, poderes propios de la Administración.",
+    "No. Dice que no se les aplica la ley salvo cuando ejerzan potestades, y olvida la otra parte: también les afectan las normas de la ley que se refieran específicamente a ellas.",
+    "No. Te han cambiado “y en todo caso” por “excepto”. Cuando ejercen potestades administrativas es justo cuando la ley se les aplica siempre.",
+    "No. Es lo contrario de lo que dice el art. 2.2.b): al ejercer potestades administrativas quedan sujetas “en todo caso”."
+  ],
+  "ojo": "Tiene lógica: si actúan con poder de Administración, deben respetar las garantías de la ley."
+},
+"au-01-005": {
+  "bloque": "interesados",
+  "precepto": "Art. 2.1 y 2.2 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+    "No. Sí lo integran: es el art. 2.2.a), organismos públicos y entidades de derecho público vinculados o dependientes.",
+    "No. Sí lo integran: las Universidades públicas están en el art. 2.2.c).",
+    "No. Sí lo integran: las entidades de derecho privado vinculadas o dependientes están en el art. 2.2.b).",
+    "Es esta. Las Entidades de la Administración Local forman parte del **sector público** (**art. 2.1.c**), pero no del sector público institucional. Este solo incluye los tres grupos del **art. 2.2**: organismos y entidades de derecho público, entidades de derecho privado y Universidades públicas."
+  ],
+  "ojo": "“Sector público” es lo grande e incluye al institucional como una parte más. No confundas uno con otro."
+},
+"au-01-006": {
+  "bloque": "interesados",
+  "precepto": "Art. 5.6 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+    "No. Te han añadido un tope que no existe: “no podrá exceder de quince días”. La ley admite un plazo superior a diez días, pero sin fijar máximo.",
+    "No. Te han cambiado el plazo. Son diez días, no quince.",
+    "Es esta. El **art. 5.6** permite subsanar: el acto vale si se aporta la acreditación o se corrige el defecto en **diez días** que debe conceder el órgano, o en un plazo superior si las circunstancias lo requieren. Es una segunda oportunidad para que el trámite no se pierda.",
+    "No. Te han cambiado el plazo. Son diez días, no cinco."
+  ]
+},
+"au-01-007": {
+  "bloque": "interesados",
+  "precepto": "Art. 3 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+    "Es verdadera, así que no se marca. Es el art. 3.a): las personas físicas con capacidad de obrar según las normas civiles.",
+    "Esta es la falsa, y por eso es la que hay que marcar. Te han colado un “no”: el **art. 3.b)** habla de los derechos cuya actuación “esté permitida” sin la asistencia de quien ejerza la patria potestad, tutela o curatela. Por ejemplo, un menor puede actuar solo en lo que la ley le deja hacer solo, no al revés.",
+    "Es verdadera, así que no se marca. Es el art. 3.c): los patrimonios independientes o autónomos tienen capacidad cuando la ley lo declare expresamente.",
+    "Es verdadera, así que no se marca. Es el art. 3.a): también incluye a las personas jurídicas con capacidad de obrar según las normas civiles."
+  ],
+  "ojo": "La trampa es una sola palabra: “no esté permitida” en lugar de “esté permitida”. Lee las opciones largas hasta el final."
+},
+"au-01-008": {
+  "bloque": "interesados",
+  "precepto": "Art. 2.2.c) de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+    "No. El art. 2.3 no las incluye entre las Administraciones Públicas. Forman parte del sector público institucional, que es otra cosa.",
+    "Es esta. El **art. 2.2.c)** dice que las Universidades públicas se rigen por su normativa específica y, de forma supletoria, por esta ley. Supletoria significa que la ley solo se aplica para lo que su normativa no regule.",
+    "No. Te han dado la vuelta al orden. Primero va su normativa específica y la Ley 39/2015 es la supletoria, no al revés.",
+    "No. Es una fórmula pensada para las entidades de derecho privado (art. 2.2.b), y además cambiada: esas quedan sujetas “en todo caso” cuando ejercen potestades, no “excepto”."
+  ],
+  "ojo": "Son sector público institucional, pero no Administración Pública a efectos de esta ley. El art. 2.3 es una lista cerrada que conviene saberse."
+},
+"au-01-009": {
+  "bloque": "interesados",
+  "precepto": "Art. 5.3 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. El **art. 5.3** dice que para los actos y gestiones de mero trámite “se presumirá” la representación, así que no hay que acreditarla. Mero trámite es lo que no decide nada importante, como aportar un documento que te han pedido.",
+    "No. Interponer recursos está en la lista del art. 5.3 de actos en los que sí hay que acreditar la representación.",
+    "No. Formular solicitudes también está en esa lista del art. 5.3, así que sí hay que acreditarla.",
+    "No. Desistir de acciones también está en esa lista del art. 5.3, porque es una decisión importante para el representado."
+  ],
+  "ojo": "Lista del art. 5.3 donde sí hay que acreditarla: solicitudes, declaraciones responsables, comunicaciones, recursos, desistir y renunciar."
+},
+"au-01-010": {
+  "bloque": "interesados",
+  "precepto": "Art. 5.3 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+    "No. Es al revés: formular solicitudes es uno de los casos en los que el art. 5.3 exige acreditar la representación.",
+    "Es esta. El **art. 5.3** incluye expresamente presentar declaraciones responsables entre los actos en los que hay que acreditar la representación. Junto a ellas están las solicitudes, las comunicaciones, los recursos, desistir y renunciar a derechos.",
+    "No. Falla “en todo caso”. Según el art. 5.6, el acto se tiene por realizado si se aporta la acreditación o se subsana en diez días, o en un plazo superior si hace falta.",
+    "No. El art. 5.7 dice lo contrario: “siempre podrá comparecer el interesado por sí mismo” en el procedimiento, aunque tenga representante."
+  ]
+},
+"au-01-011": {
+  "bloque": "interesados",
+  "precepto": "Art. 4.1.c) de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+    "No. Estos sí son interesados. Es el art. 4.1.c): se personan antes de que haya resolución definitiva.",
+    "No. Estos sí son interesados. Es el art. 4.1.b): tienen derechos afectados, aunque no iniciaran el procedimiento.",
+    "No. Estos sí son interesados. Es el art. 4.1.a): quienes promueven el procedimiento como titulares de derechos o intereses legítimos.",
+    "Es esta. Pide quién no es interesado, y este no lo es. El **art. 4.1.c)** exige personarse “en tanto no haya recaído resolución definitiva”. Aquí te dicen “una vez haya recaído”: llegan tarde, cuando el procedimiento ya está resuelto, y no adquieren esa condición."
+  ],
+  "ojo": "Te han cambiado “en tanto no haya recaído” por “una vez haya recaído”. Con los intereses legítimos, personarse hay que hacerlo antes de la resolución definitiva."
+},
+"au-01-012": {
+  "bloque": "interesados",
+  "precepto": "Art. 4.3 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. El **art. 4.3** dice que si la condición de interesado deriva de una relación jurídica transmisible, el derecho-habiente (quien recibe ese derecho, por ejemplo un heredero) la adquiere “cualquiera que sea el estado del procedimiento”. Da igual en qué fase esté.",
+    "No. La ley no dice que todo se extinga con la muerte. Si la relación jurídica es transmisible, el heredero ocupa el lugar del fallecido (art. 4.3).",
+    "No. Te han añadido un límite inventado: el trámite de audiencia no corta nada, porque la sucesión vale en cualquier estado del procedimiento.",
+    "No. El criterio no es ser titular de un derecho legítimo, sino que la relación jurídica de la que nace la condición de interesado sea transmisible."
+  ],
+  "ojo": "La opción correcta omite un matiz que debes saber: solo se hereda si la relación jurídica es **transmisible**. Un derecho personalísimo no pasa a los herederos."
+},
+"au-01-013": {
+  "bloque": "interesados",
+  "precepto": "Art. 1.2 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+    "No. La fórmula “mediante ley, cuando resulte eficaz, proporcionado y necesario” corresponde a otra cosa: incluir trámites adicionales o distintos, no a estas especialidades.",
+    "No. “Solo mediante ley, de forma motivada” también es la regla de los trámites adicionales. Las especialidades del enunciado se fijan por reglamento.",
+    "No. Acierta con el reglamento, pero te pega las condiciones “eficaz, proporcionado y necesario”, que la ley exige para los trámites adicionales y no para estas especialidades.",
+    "Es esta. La segunda frase del **art. 1.2** dice que “reglamentariamente” podrán establecerse especialidades sobre órganos competentes, plazos propios por razón de la materia, formas de iniciación y terminación, publicación e informes a recabar. No añade más condiciones."
+  ],
+  "ojo": "Esta es la pareja de la pregunta sobre trámites adicionales. El art. 1.2 tiene dos frases: la primera es para la ley y la segunda para el reglamento."
+},
+"au-01-014": {
+  "bloque": "interesados",
+  "precepto": "Art. 1.1 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+    "Esta es la falsa, y por eso es la que hay que marcar. El régimen jurídico de las Administraciones Públicas lo regula otra ley: la **Ley 40/2015** (su art. 1 habla de las bases de ese régimen). El **art. 1.1 de la Ley 39/2015** no lo menciona.",
+    "Es verdadera, así que no se marca. El art. 1.1 lo cita expresamente: requisitos de validez y eficacia de los actos administrativos.",
+    "Es verdadera, así que no se marca. El art. 1.1 lo cita expresamente: procedimiento administrativo común a todas las Administraciones, incluidos el sancionador y el de responsabilidad.",
+    "Es verdadera, así que no se marca. El art. 1.1 lo cita expresamente: principios de la iniciativa legislativa y de la potestad reglamentaria."
+  ],
+  "ojo": "Para recordarlo: Ley 39 regula la relación hacia fuera (procedimiento y actos) y Ley 40 el funcionamiento hacia dentro (régimen jurídico y organización)."
+},
+"au-01-015": {
+  "bloque": "interesados",
+  "precepto": "Art. 3.c) de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. El **art. 3.c)** reconoce capacidad de obrar a los patrimonios independientes o autónomos cuando la ley lo declare expresamente. Capacidad de obrar es poder actuar válidamente ante la Administración.",
+    "No. Las personas jurídicas no dependen de una declaración expresa de la ley para esto: las cubre el art. 3.a), si tienen capacidad según las normas civiles.",
+    "No. Falla “en todo caso”. Las uniones y entidades sin personalidad jurídica solo la tienen cuando la ley lo declare expresamente (art. 3.c).",
+    "No. Te han añadido “o reglamentaria”. El art. 3.c) exige que lo declare la ley, no basta un reglamento."
+  ]
+},
+"au-01-016": {
+  "bloque": "interesados",
+  "precepto": "Art. 4.1.b) de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+    "No. Te han cambiado una palabra: según el art. 4.2 son titulares de “intereses legítimos colectivos”, no de derechos colectivos.",
+    "No. Te han dado la vuelta. El art. 4.3 dice “cuando” la condición derive de una relación jurídica transmisible, no “siempre que no” derive de ella.",
+    "No. Falla “únicamente”. El art. 4.1 también incluye a quienes no lo iniciaron, si tienen derechos afectados o si tienen intereses legítimos afectados y se personan.",
+    "Es esta. Es casi literal el **art. 4.1.b)**. Si la decisión puede afectar a tus derechos, eres interesado aunque no hayas iniciado el procedimiento."
+  ]
+},
+"au-01-017": {
+  "bloque": "interesados",
+  "precepto": "Art. 5.3 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. Hacer alegaciones en el trámite de audiencia no está en la lista del **art. 5.3** de actos en los que hay que acreditar la representación. Es un acto de mero trámite, y para esos la representación “se presumirá”.",
+    "No. Presentar declaraciones responsables está en la lista del art. 5.3, así que sí hay que acreditarla.",
+    "No. Interponer recursos está en la lista del art. 5.3, así que sí hay que acreditarla.",
+    "No. Formular solicitudes está en la lista del art. 5.3, así que sí hay que acreditarla."
+  ],
+  "ojo": "La ley no menciona las alegaciones de forma literal. Se llega por descarte: no están en la lista, y por tanto cuentan como mero trámite."
+},
+"au-01-018": {
+  "bloque": "interesados",
+  "precepto": "Art. 5.4 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. El **art. 5.4** da por acreditada la representación mediante la inscripción en el registro electrónico de apoderamientos de la Administración competente. Es una de las vías concretas que cita, junto al apoderamiento apud acta.",
+    "No. Falla “aun cuando no deje constancia fidedigna”. El art. 5.4 exige justo lo contrario: un medio válido en Derecho “que deje constancia fidedigna” de la representación.",
+    "No. Falla “únicamente”. El art. 5.4 admite cualquier medio válido en Derecho con constancia fidedigna, además del registro de apoderamientos.",
+    "No. Falla “necesariamente”. El apoderamiento apud acta (el que se otorga directamente ante la Administración) puede ser por comparecencia personal o electrónica (art. 5.4 y 6.5)."
+  ],
+  "ojo": "Palabras como “únicamente” o “necesariamente” suelen delatar la opción falsa, aunque no siempre."
+},
+"au-01-019": {
+  "bloque": "interesados",
+  "precepto": "Art. 5.2 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+    "No. El poder notarial sirve para acreditar una representación concreta, pero el requisito para que una persona jurídica pueda representar es que lo prevean sus Estatutos.",
+    "No. El art. 5.2 permite representar tanto a las personas físicas con capacidad de obrar como a las jurídicas.",
+    "No. Tener capacidad de obrar es lo que se exige a las personas físicas. A las jurídicas el art. 5.2 les pide algo más concreto: la previsión en sus Estatutos.",
+    "Es esta. El **art. 5.2** dice que las personas jurídicas pueden actuar en representación de otras “siempre que ello esté previsto en sus Estatutos”. Por ejemplo, una gestoría constituida como sociedad, si sus Estatutos lo contemplan."
+  ]
+},
+"au-01-020": {
+  "bloque": "interesados",
+  "precepto": "Art. 4.1.a) de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+    "No. “Ciudadano” es una palabra general. La ley no usa ese concepto para definir a quien promueve un procedimiento.",
+    "Es esta. Es el **art. 4.1.a)**: quienes promueven el procedimiento como titulares de derechos o intereses legítimos, individuales o colectivos, son interesados. Es el caso más claro: quien pide algo a la Administración.",
+    "No. No tiene nada que ver: la pregunta no trata de la capacidad de la persona, sino de su posición en el procedimiento.",
+    "No. Suena parecido, pero “legitimado” no es el término que usa el art. 4. El concepto legal es “interesado”."
+  ]
+},
+"au-02-001": {
+  "bloque": "actividad",
+  "precepto": "Art. 13 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+    "No. Te han cambiado “capacidad de obrar” por “capacidad jurídica”, y el art. 3 no habla de esta última. Capacidad de obrar es poder actuar válidamente.",
+    "Es esta. El arranque del **art. 13** atribuye estos derechos a quienes, según el art. 3, tienen capacidad de obrar ante las Administraciones Públicas. Así que los tienes sin necesidad de estar en un procedimiento concreto.",
+    "No. Los derechos del interesado son otros y están en el art. 53. El art. 13 no exige ser interesado en un procedimiento.",
+    "No. El art. 13 remite al art. 3 de la Ley 39/2015, no al Código Civil, y no habla de “persona natural”."
+  ],
+  "ojo": "Art. 13: derechos de las personas con capacidad de obrar. Art. 53: derechos de los interesados en un procedimiento. Las siguientes preguntas juegan con esa diferencia."
+},
+"au-02-002": {
+  "bloque": "actividad",
+  "precepto": "Arts. 13 y 53.1.b) de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+    "Es verdadera, así que no se marca. Es el art. 13.e): trato con respeto y deferencia.",
+    "Es verdadera, así que no se marca. Es el art. 13.c): usar las lenguas oficiales en el territorio de su Comunidad Autónoma, conforme a la ley.",
+    "Es verdadera, así que no se marca. Es el art. 13.h): protección de datos personales.",
+    "Esta es la falsa, y por eso es la que hay que marcar. El derecho a identificar a las autoridades y al personal que tramita no está en el art. 13. Está en el **art. 53.1.b)**, entre los derechos del interesado en un procedimiento."
+  ],
+  "ojo": "El derecho existe, pero en otro artículo. Tiene lógica: para identificar a quien tramita tu procedimiento, tienes que tener un procedimiento."
+},
+"au-02-003": {
+  "bloque": "actividad",
+  "precepto": "Art. 13.b) de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. Es literal el **art. 13.b)**: derecho a ser asistidos en el uso de medios electrónicos. Lo tiene cualquier persona con capacidad de obrar, sin necesidad de ser interesada en un procedimiento.",
+    "No. Es un derecho del interesado en un procedimiento: art. 53.1.c), no art. 13.",
+    "No. También es un derecho del interesado: art. 53.1.g), no art. 13.",
+    "No. También es un derecho del interesado: art. 53.1.b), no art. 13."
+  ]
+},
+"au-02-004": {
+  "bloque": "actividad",
+  "precepto": "Art. 13.c) de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+    "Es verdadera, así que no se marca. Es literal el art. 13.a).",
+    "Es verdadera, así que no se marca. Es literal el art. 13.b).",
+    "Esta es la falsa, y por eso es la que hay que marcar. El **art. 13.c)** termina con “de acuerdo con lo previsto en esta Ley y en el resto del ordenamiento jurídico”. Te lo han cambiado por “cualquiera que sea el órgano”, y eso no es así: ante la Administración General del Estado, la lengua cooficial solo vale si el órgano tiene sede en esa Comunidad (art. 15.1).",
+    "Es verdadera, así que no se marca. Es literal el art. 13.f)."
+  ]
+},
+"au-02-005": {
+  "bloque": "actividad",
+  "precepto": "Art. 14.1 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+    "No. Sobran las personas jurídicas: según el art. 14.2.a) están obligadas a usar medios electrónicos, así que no pueden elegir.",
+    "No. Falla “en todo caso”. Las personas físicas pueden estar obligadas, por ejemplo como colegiadas o por un reglamento, y entonces no eligen (art. 14.2 y 14.3).",
+    "No. Las entidades sin personalidad jurídica también están obligadas a usar medios electrónicos (art. 14.2.b).",
+    "Es esta. El **art. 14.1** da a las personas físicas el derecho a elegir en todo momento, “salvo que estén obligadas” a relacionarse por medios electrónicos. Es decir: regla general, eliges; excepción, si una norma te obliga."
+  ]
+},
+"au-02-006": {
+  "bloque": "actividad",
+  "precepto": "Art. 14.2 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. El **art. 14.2.b)** incluye a las entidades sin personalidad jurídica entre los obligados, sin más condiciones. Por ejemplo, una comunidad de bienes.",
+    "No. Te han colado un “no”: el art. 14.2.d) obliga a quien representa a un interesado que “esté obligado”, no al que no lo esté.",
+    "No. Falla “en todo caso”. Los empleados públicos solo están obligados en los trámites que hagan por razón de su condición de empleado público (art. 14.2.e).",
+    "No. Falla “en todo caso”. Los colegiados solo están obligados en los trámites que hagan en ejercicio de su actividad profesional (art. 14.2.c)."
+  ],
+  "ojo": "Si te encuentras “en todo caso” en empleados públicos o colegiados, desconfía: ambos tienen un límite."
+},
+"au-02-007": {
+  "bloque": "actividad",
+  "precepto": "Art. 14.2.a) de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+    "No. Las personas físicas, como regla general, pueden elegir (art. 14.1). Solo están obligadas algunas, en casos concretos.",
+    "No. Se queda demasiado amplia. Solo está obligado quien representa a un interesado que esté obligado a relacionarse electrónicamente (art. 14.2.d).",
+    "No. Esto recuerda al art. 14.3, y no es una obligación directa de la ley: hace falta que un reglamento la establezca para determinados procedimientos y colectivos.",
+    "Es esta. El **art. 14.2.a)** coloca a las personas jurídicas (empresas, asociaciones, fundaciones) en el primer lugar de la lista de obligados."
+  ]
+},
+"au-02-008": {
+  "bloque": "actividad",
+  "precepto": "Art. 14.3 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+    "No. Falla “solo mediante norma con rango de Ley”. El art. 14.3 lo deja en manos del reglamento.",
+    "Es esta. El **art. 14.3** empieza con “reglamentariamente”: cada Administración puede imponer el uso de medios electrónicos en ciertos procedimientos y a ciertos colectivos de personas físicas. Debe quedar acreditado que tienen acceso y disponibilidad de esos medios, por capacidad económica, técnica, dedicación profesional u otros motivos.",
+    "No. Estos representantes ya están obligados directamente por la ley, en el art. 14.2.d). No hace falta que lo establezca la Administración.",
+    "No. Estos profesionales también están obligados directamente por la ley, en el art. 14.2.c), para los trámites de su actividad."
+  ],
+  "ojo": "Art. 14.2: obligados por la propia ley. Art. 14.3: obligados porque lo dice un reglamento."
+},
+"au-02-009": {
+  "bloque": "actividad",
+  "precepto": "Art. 14.2.e) de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. El **art. 14.2.e)** obliga a los empleados públicos para los trámites que hagan con las Administraciones “por razón de su condición de empleado público”. Por ejemplo, pedir un permiso. Se hará en la forma que determine reglamentariamente cada Administración.",
+    "No. El criterio no es que la Administración sea otra, sino que el trámite se haga por ser empleado público.",
+    "No. Falla “cualesquiera”. Si un funcionario pide en su propia Administración algo como particular, no le alcanza esta obligación.",
+    "No. Es justo al revés. La obligación cubre los trámites que sí derivan de su condición de empleado público."
+  ]
+},
+"au-02-010": {
+  "bloque": "actividad",
+  "precepto": "Art. 14.1 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. La última frase del **art. 14.1** dice que el medio elegido “podrá ser modificado por aquella en cualquier momento”. Puedes empezar por vía electrónica y pasar a papel, o al revés, si no estás obligada a usar medios electrónicos.",
+    "No. Te han añadido un límite inventado. La ley no fija como tope la resolución definitiva: dice “en cualquier momento”.",
+    "No. Tampoco existe este límite. El trámite de audiencia no corta el derecho a cambiar de medio.",
+    "No. La ley no limita el cambio a los procedimientos futuros. Puedes cambiar “en cualquier momento”, también en uno ya en marcha."
+  ]
+},
+"au-02-011": {
+  "bloque": "actividad",
+  "precepto": "Art. 15.1 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+    "No. La primera parte es cierta, pero no la segunda: si eliges la lengua cooficial, el procedimiento se tramita en ella (art. 15.1, párrafo segundo), no necesariamente en castellano.",
+    "Es esta. La Delegación del Gobierno es un órgano de la Administración General del Estado con sede en la Comunidad Autónoma. Por eso, según el **art. 15.1**, el interesado puede usar el castellano o la lengua cooficial que exista allí.",
+    "No. La ley no exige acompañar traducción. Es la Administración la que traduce cuando corresponde (art. 15.3).",
+    "No. Falla “en todo caso”. El castellano es la regla general, pero ante un órgano con sede en esa Comunidad puede usarse también la lengua cooficial."
+  ]
+},
+"au-02-012": {
+  "bloque": "actividad",
+  "precepto": "Art. 15.1 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+    "Esta es la falsa, y por eso es la que hay que marcar. El **art. 15.1** no se fija en dónde vive el interesado, sino en dónde está el órgano: la lengua cooficial se puede usar con órganos “con sede en el territorio” de esa Comunidad. Si te diriges a un ministerio en Madrid, aunque vivas en Lugo, no vale.",
+    "Es verdadera, así que no se marca. Es el art. 15.3: se traducen al castellano los documentos dirigidos a los interesados que lo soliciten expresamente.",
+    "Es verdadera, así que no se marca. Es la primera frase del art. 15.1.",
+    "Es verdadera, así que no se marca. Si el interesado elige la lengua cooficial en los casos permitidos, el procedimiento se tramita en esa lengua (art. 15.1, párrafo segundo)."
+  ],
+  "ojo": "Lo que manda es la sede del órgano, no la residencia del interesado. Esta idea se pregunta mucho."
+},
+"au-02-013": {
+  "bloque": "actividad",
+  "precepto": "Art. 15.1 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+    "No. La legislación autonómica regula la lengua en los procedimientos de las Comunidades Autónomas y Entidades Locales (art. 15.2). Para la Administración General del Estado se aplica el art. 15.1.",
+    "No. Te han cambiado el criterio. No importa dónde resida el interesado, sino dónde tiene su sede el órgano al que se dirige.",
+    "Es esta. El **art. 15.1** permite usar la lengua cooficial a quien se dirige a órganos de la Administración General del Estado con sede en una Comunidad donde esa lengua sea cooficial. Por ejemplo, la Subdelegación del Gobierno en Girona.",
+    "No. Falla “en todo caso”. Además, la discrepancia entre varios interesados no impide usar la lengua: solo hace que el procedimiento se tramite en castellano, y los documentos o testimonios que pidan se expiden en la lengua que cada uno eligió."
+  ]
+},
+"au-02-014": {
+  "bloque": "actividad",
+  "precepto": "Art. 15.1 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+    "No. Los servicios centrales de un Ministerio no tienen su sede en Galicia, y lo que cuenta es la sede del órgano, no que el interesado viva en Lugo.",
+    "No. Que haya más interesados no le impide usar el gallego. Solo si discrepan sobre la lengua el procedimiento se tramita en castellano.",
+    "Es esta. La Subdelegación del Gobierno en Lugo es un órgano de la Administración General del Estado con sede en Galicia, donde el gallego es cooficial. Por eso el **art. 15.1** permite usarlo.",
+    "No. Falla “en todo caso”. Si elige el gallego, el procedimiento se tramita en esa lengua, salvo discrepancia entre varios interesados (art. 15.1, párrafo segundo)."
+  ]
+},
+"au-02-015": {
+  "bloque": "actividad",
+  "precepto": "Art. 15.3 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+    "No. Falla “únicamente”. Además de lo que deba surtir efecto fuera de la Comunidad, también se traducen los documentos dirigidos a los interesados que lo pidan expresamente (art. 15.3).",
+    "Es esta. El **art. 15.3** obliga a la Administración instructora a traducir al castellano los documentos dirigidos a los interesados que lo soliciten expresamente. También los que deban surtir efecto fuera de la Comunidad Autónoma, salvo si van a otra donde esa lengua también sea cooficial.",
+    "No. Falla “en su totalidad, en todo caso”. Solo se traduce lo que indica el art. 15.3, no todo el expediente de forma automática.",
+    "No. Esta regla es solo para cuando varios interesados discrepan sobre la lengua (art. 15.1). Además, aquí el enunciado parte de que el procedimiento sí se tramita en una lengua distinta del castellano."
+  ],
+  "ojo": "Un ejemplo de la excepción: un documento en catalán que va de Cataluña a Baleares no se traduce, porque allí el catalán también es cooficial."
+},
+"au-02-016": {
+  "bloque": "actividad",
+  "precepto": "Art. 18.2 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+    "No. No es una simple posibilidad. El art. 18.2 dice “tienen el deber”, no “pueden”.",
+    "Es esta. El **art. 18.2** impone a los interesados el deber de dar a la Administración los datos que permitan identificar a otros interesados que no hayan comparecido. Comparecer aquí significa presentarse en el procedimiento.",
+    "No. El deber lo establece directamente el art. 18.2, sin exigir que lo prevea otra norma con rango de ley.",
+    "No. El deber tampoco depende de que lo prevea un reglamento. Lo fija ya la propia Ley 39/2015."
+  ]
+},
+"au-02-017": {
+  "bloque": "actividad",
+  "precepto": "Art. 19.1 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+    "No. Falla “en ningún caso”. Sí puede ser obligatoria, si lo prevé una norma con rango de ley.",
+    "No. Te han cambiado la norma. Un reglamento no basta: hace falta rango de ley.",
+    "No. Sobra “o reglamentario”. El art. 19.1 solo admite la norma con rango de ley.",
+    "Es esta. El **art. 19.1** dice que la comparecencia, presencial o electrónica, “sólo será obligatoria cuando así esté previsto en una norma con rango de ley”. Obligarte a acudir a una oficina es una carga, y por eso la ley exige ese rango."
+  ]
+},
+"au-02-018": {
+  "bloque": "actividad",
+  "precepto": "Art. 18.2 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+    "No. Te han cambiado el destinatario. Los datos se proporcionan a la Administración actuante, no se avisa al otro interesado de la apertura del procedimiento.",
+    "No. Se queda demasiado amplio. El deber es de “los interesados en un procedimiento”, no de todo ciudadano.",
+    "No. Dice lo contrario que la ley: sí están obligados, porque tienen “el deber” de proporcionarlos.",
+    "Es esta. Es literal el **art. 18.2**: el deber lo tienen los interesados en el procedimiento, sobre los datos de otros interesados que no hayan comparecido, y frente a la Administración actuante."
+  ],
+  "ojo": "Tres piezas que suelen cambiar: quién tiene el deber (interesados), sobre qué (datos de otros interesados) y ante quién (la Administración)."
+},
+"au-02-019": {
+  "bloque": "actividad",
+  "precepto": "Art. 19.2 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+    "Es verdadera, así que no se marca. El art. 19.2 exige que consten el lugar, la fecha, la hora y los medios disponibles.",
+    "Esta es la falsa, y por eso es la que hay que marcar. El **art. 19.2** no dice nada de un deber de asistir con letrado (abogado). Te lo han añadido a la lista. De hecho, en el art. 53.1.g) actuar con asesor es un derecho del interesado, “cuando lo consideren conveniente”, no un deber.",
+    "Es verdadera, así que no se marca. El art. 19.2 exige que conste el objeto de la comparecencia.",
+    "Es verdadera, así que no se marca. El art. 19.2 exige que consten los efectos de no atenderla."
+  ]
+},
+"au-02-020": {
+  "bloque": "actividad",
+  "precepto": "Art. 19.3 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+    "No. Te han mezclado el art. 19.1. El rango de ley se exige para que comparecer sea obligatorio, no para dar el certificado.",
+    "Es esta. El **art. 19.3** dice que se entregará certificación acreditativa de la comparecencia al interesado “cuando así lo solicite”. Basta con pedirla. Puede servirte, por ejemplo, para justificar la ausencia en el trabajo.",
+    "No. Falla “únicamente”. El art. 19.3 no distingue, y el art. 19.1 admite la comparecencia tanto presencial como por medios electrónicos.",
+    "No. Te han añadido una condición que la ley no pone. Lo único que se pide es solicitarla, trabajes o no."
+  ]
+}
+}

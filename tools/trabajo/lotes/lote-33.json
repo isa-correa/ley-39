@@ -1,0 +1,569 @@
+{
+"lote": 33,
+"casos": {
+"caso-14": {
+"id": "caso-14",
+"titulo": "Supuesto Práctico 2",
+"texto": "D. Amable Cortés, tras superar brillantemente las pruebas de acceso al Cuerpo General Administrativo de la Administración General del Estado, ha sido nombrado funcionario de carrera, obteniendo como primer destino definitivo un puesto de jefe de negociado en la oficina de asistencia en materia de registro del Ministerio de Derechos Sociales, Consumo y Agenda 2030, con sede en Paseo del Prado, 18 (Madrid).\nDurante la mañana del viernes 31 de enero de 2025 acudieron a la oficina de asistencia, con intención de realizar gestiones administrativas de diversa índole, los siguientes ciudadanos:\n- D. Alberto Salado, gerente de “Pasteles Salado S.L.”, que presentó alegaciones en un procedimiento de responsabilidad patrimonial iniciado de oficio, a causa de los daños sufridos por este en una visita anterior al Ministerio, como consecuencia del desprendimiento de uno de los ascensores del edificio. En el ascensor accidentado, junto a D. Alberto, se encontraba Dª Abelina, quien también sufrió daños.\nEl acuerdo de iniciación del procedimiento de responsabilidad patrimonial, que se dictó a petición razonada de la Dirección General de Consumo, es de fecha 14 de enero de 2025 y le fue notificado a D. Alberto el lunes 20 de enero.\nConforme a la normativa aplicable, el plazo máximo para resolver y notificar los procedimientos de responsabilidad patrimonial es de 6 meses, correspondiendo su iniciación y tramitación al Secretario General Técnico del Departamento Ministerial y su resolución a la Ministra.\nAprovechando su visita a la oficina de asistencia en materia de registro, D. Amable Cortés procedió a notificar a D. Alberto una resolución recaída en un procedimiento administrativo en el que “Pasteles Salado S.L.” tenía la condición de interesado.\n- Dª. Estrella del Mar, que solicitó información sobre las actuaciones realizadas en relación con una denuncia que presentó en octubre de 2024, mediante la cual puso en conocimiento de la Dirección General de Consumo la presunta comisión de una infracción administrativa por la mercantil “Juguetitos S.L.”, por la comercialización de juguetes que podían suponer un grave riesgo para la salud.\nD. Amable Cortés, tras realizar una serie de consultas, informó a Dª Estrella que el día 3 de diciembre de 2024 se acordaron, con carácter de urgencia, medidas provisionales consistentes en la retirada del mercado de los juguetes presuntamente nocivos y que, posteriormente, con fecha 23 de diciembre se dictó acuerdo de iniciación de procedimiento sancionador contra “Juguetitos S.L.”, el cual fue puesto a su disposición en la Dirección Electrónica Habilitada única el día 27 de dicho mes, un día antes del envío del aviso al dispositivo electrónico del interesado.\nEl representante de \"Juguetitos S.L.\" no accedió al contenido de la notificación hasta el día 31 de diciembre.\nResponda a las siguientes cuestiones que se le plantean:"
+}
+},
+"calendarios": {
+"dic2024": {
+"titulo": "Calendario diciembre 2024",
+"year": 2024,
+"meses": [
+12
+],
+"festivos": [
+"2024-12-06",
+"2024-12-08",
+"2024-12-25"
+],
+"nota": "Los domingos también van en rojo."
+}
+},
+"preguntas": [
+{
+"id": "pr-14-001",
+"origen": "practicas",
+"test": "Supuesto Práctico 2",
+"n": 1,
+"enunciado": "En relación con el procedimiento de responsabilidad patrimonial por el accidente derivado por el desprendimiento de uno de los ascensores del edificio, ¿podía la Administración General del Estado iniciar de oficio dicho procedimiento conforme a la Ley 39/2015?",
+"opciones": [
+"Sí, siempre que resulte inequívoca la relación de causalidad, la valoración del daño y el cálculo de la cuantía de la indemnización.",
+"Sí, siempre que no haya prescrito el derecho a reclamar de los particulares presuntamente lesionados.",
+"Sí, siempre que ya hubiera transcurrido el plazo para que los interesados pudieran reclamar por sí mismos.",
+"No, los procedimientos de responsabilidad patrimonial solo pueden iniciarse a solicitud del interesado."
+],
+"caso": "caso-14"
+},
+{
+"id": "pr-14-002",
+"origen": "practicas",
+"test": "Supuesto Práctico 2",
+"n": 2,
+"enunciado": "En el procedimiento de responsabilidad patrimonial, ¿qué plazo debió concederse a D. Alberto para aportar alegaciones y proponer la práctica de las pruebas que estimara pertinentes?",
+"opciones": [
+"Diez días, a contar desde el día siguiente a la notificación del acuerdo de iniciación.",
+"Quince días, a contar desde el día siguiente a la notificación del acuerdo de iniciación.",
+"Diez días, a contar desde la fecha del acuerdo de iniciación.",
+"Quince días, a contar desde la fecha del acuerdo de iniciación."
+],
+"caso": "caso-14"
+},
+{
+"id": "pr-14-003",
+"origen": "practicas",
+"test": "Supuesto Práctico 2",
+"n": 3,
+"enunciado": "En relación con el procedimiento de responsabilidad patrimonial iniciado de oficio, si razones de interés público lo aconsejasen, ¿podría acordarse su tramitación de urgencia conforme a la Ley 39/2015?",
+"opciones": [
+"Sí, mediante acuerdo motivado, de oficio o a petición del interesado.",
+"Sí, pero solo de oficio, al tratarse de un procedimiento iniciado por la Administración.",
+"Sí, reduciéndose a la mitad los plazos del procedimiento ordinario, salvo los relativos a la presentación de alegaciones y recursos.",
+"No, al tratarse de un procedimiento iniciado de oficio del que podría derivarse el reconocimiento de derechos."
+],
+"caso": "caso-14"
+},
+{
+"id": "pr-14-004",
+"origen": "practicas",
+"test": "Supuesto Práctico 2",
+"n": 4,
+"enunciado": "En el procedimiento de responsabilidad patrimonial, ¿cuál es el último día del plazo del que dispone la Administración para dictar resolución expresa y notificarla a D. Alberto?",
+"opciones": [
+"El 14 de julio de 2025, si bien la Administración dispondría de diez días adicionales para cursar la notificación.",
+"El 20 de julio de 2025, si bien la Administración dispondría de diez días adicionales para cursar la notificación.",
+"El 14 de julio de 2025.",
+"El 20 de julio de 2025."
+],
+"caso": "caso-14"
+},
+{
+"id": "pr-14-005",
+"origen": "practicas",
+"test": "Supuesto Práctico 2",
+"n": 5,
+"enunciado": "Transcurrido el plazo máximo al que se refiere la pregunta anterior sin que se hubiera dictado y notificado resolución expresa, ¿qué efecto se produciría?",
+"opciones": [
+"La prescripción del derecho a reclamar.",
+"La caducidad del procedimiento.",
+"D. Alberto podría entender reconocida por silencio administrativo la indemnización que pudiera corresponderle.",
+"D. Alberto podría entender que la resolución es contraria al reconocimiento de la indemnización que pudiera corresponderle."
+],
+"caso": "caso-14",
+"sigueA": "pr-14-004"
+},
+{
+"id": "pr-14-006",
+"origen": "practicas",
+"test": "Supuesto Práctico 2",
+"n": 6,
+"enunciado": "¿Actuó correctamente D. Alberto presentando sus alegaciones en la oficina de asistencia en materia de registros en soporte papel?",
+"opciones": [
+"Sí, aunque también pudo optar por presentarlas por medios electrónicos.",
+"Sí, al tratarse de una persona física estaba obligado a relacionarse a través de medios no electrónicos.",
+"No, dada su condición de gerente de una sociedad mercantil.",
+"No, al tratarse de un procedimiento iniciado de oficio."
+],
+"caso": "caso-14"
+},
+{
+"id": "pr-14-007",
+"origen": "practicas",
+"test": "Supuesto Práctico 2",
+"n": 7,
+"enunciado": "Conforme a la Ley 39/2015, ¿qué consecuencia tendría que D. Alberto no se hubiese personado en el plazo establecido en el procedimiento de responsabilidad patrimonial?",
+"opciones": [
+"Al haberse iniciado de oficio, procedería declarar la caducidad del procedimiento.",
+"Al haberse iniciado de oficio, procedería declarar la suspensión del procedimiento.",
+"La Administración le advertiría de que, transcurridos tres meses, se produciría la caducidad del procedimiento.",
+"El procedimiento se instruiría aunque D. Alberto no se hubiese personado en el plazo establecido."
+],
+"caso": "caso-14"
+},
+{
+"id": "pr-14-008",
+"origen": "practicas",
+"test": "Supuesto Práctico 2",
+"n": 8,
+"enunciado": "Dado que en el ascensor accidentado, junto a D. Alberto, se encontraba Dª Abelina, quien también sufrió daños y presentó reclamación en plazo, la Secretaría General Técnica se encuentra tramitando dos procedimientos de responsabilidad patrimonial que guardan íntima conexión entre ellos. Según el artículo 57 de la Ley 39/2015, ¿cabría acumular los procedimientos de D. Alberto y de Dª Abelina?",
+"opciones": [
+"Sí, sin que quepa recurso contra el acuerdo de acumulación.",
+"Sí, salvo que exista oposición expresa de alguno de los interesados.",
+"No, dado que solo es posible acumular procedimientos si todos ellos han sido iniciados de oficio.",
+"No, ya que la tramitación y la resolución de ambos procedimientos corresponden a órganos distintos."
+],
+"caso": "caso-14"
+},
+{
+"id": "pr-14-009",
+"origen": "practicas",
+"test": "Supuesto Práctico 2",
+"n": 9,
+"enunciado": "En el expediente de responsabilidad patrimonial tramitado por los daños derivados del accidente del ascensor, ¿cuál de las siguientes actuaciones debe ser motivada, con sucinta referencia de hechos y fundamentos de derecho, conforme al artículo 35 de la Ley 39/2015?",
+"opciones": [
+"La propuesta de resolución.",
+"El acto que resuelva el procedimiento.",
+"La propuesta de resolución y el acto que resuelva el procedimiento.",
+"Todos los actos que se dicten en el procedimiento."
+],
+"caso": "caso-14"
+},
+{
+"id": "pr-14-010",
+"origen": "practicas",
+"test": "Supuesto Práctico 2",
+"n": 10,
+"enunciado": "¿Actuó correctamente D. Amable al aprovechar la comparecencia espontánea de D. Alberto en la oficina de asistencia en materia de registro, para notificarle, en su condición de representante de \"Pasteles Salados S.L.\" una resolución recaída en un procedimiento administrativo en el que dicha mercantil tenía la condición de interesada?",
+"opciones": [
+"No, al actuar en representación de una empresa, la notificación debía realizarse, necesariamente, por medios electrónicos.",
+"No, salvo que el acto a notificar fuera acompañado de elementos que no fueran susceptibles de conversión en formato electrónico.",
+"Sí, siempre que D. Alberto solicitara la comunicación o notificación personal en ese momento.",
+"Sí, con independencia de que D. Alberto solicitara la comunicación o notificación personal en ese momento."
+],
+"caso": "caso-14"
+},
+{
+"id": "pr-14-011",
+"origen": "practicas",
+"test": "Supuesto Práctico 2",
+"n": 11,
+"enunciado": "En relación con la denuncia presentada por D.ª Estrella del Mar ante la Dirección General de Consumo, conforme a la Ley 39/2015, señale la respuesta correcta:",
+"opciones": [
+"Solo se admitirán denuncias presentadas en cumplimiento de una obligación legal.",
+"La denuncia vincula al órgano competente para iniciar el procedimiento.",
+"La denuncia debe expresar la identidad de la persona que la presenta.",
+"Solo se admitirán denuncias sobre hechos que pudieran constituir una infracción administrativa."
+],
+"caso": "caso-14"
+},
+{
+"id": "pr-14-012",
+"origen": "practicas",
+"test": "Supuesto Práctico 2",
+"n": 12,
+"enunciado": "En relación con el procedimiento sancionador incoado contra “Juguetitos S.L.”, ¿tenía derecho D.ª Estrella del Mar, por su sola condición de denunciante, a conocer el estado de tramitación del procedimiento?",
+"opciones": [
+"No, ya que no tenía la condición de interesada en el procedimiento.",
+"Sí, es un derecho del denunciante conocer el estado de tramitación del procedimiento incoado como consecuencia de su denuncia.",
+"Sí, dado que la presentación de la denuncia le confiere la condición de interesada en el procedimiento.",
+"Sí, es un derecho de todos los ciudadanos conocer el estado de tramitación de los procedimientos sancionadores."
+],
+"caso": "caso-14"
+},
+{
+"id": "pr-14-013",
+"origen": "practicas",
+"test": "Supuesto Práctico 2",
+"n": 13,
+"enunciado": "¿Cómo debe entenderse iniciado el procedimiento sancionador seguido contra \"Juguetitos S.L.?",
+"opciones": [
+"Por denuncia.",
+"De oficio, por acuerdo del órgano competente.",
+"A instancia de parte.",
+"Por solicitud de interesada."
+],
+"caso": "caso-14"
+},
+{
+"id": "pr-14-014",
+"origen": "practicas",
+"test": "Supuesto Práctico 2",
+"n": 14,
+"enunciado": "De acuerdo con la Ley 39/2015, ¿qué órgano era competente para adoptar la medida provisional consistente en la retirada del mercado de los juguetes presuntamente nocivos?",
+"opciones": [
+"El órgano competente para resolver el procedimiento.",
+"El órgano competente para iniciar o instruir el procedimiento.",
+"El órgano competente para instruir o resolver el procedimiento.",
+"El órgano competente para iniciar o resolver el procedimiento."
+],
+"caso": "caso-14"
+},
+{
+"id": "pr-14-015",
+"origen": "practicas",
+"test": "Supuesto Práctico 2",
+"n": 15,
+"enunciado": "Respecto de la retirada del mercado de los juguetes presuntamente nocivos acordada el 3 de diciembre de 2024, dicha medida provisional debía ser confirmada, modificada o levantada en el acuerdo de iniciación del procedimiento, que debía efectuarse:",
+"opciones": [
+"Dentro de los quince días siguientes a su adopción, pudiendo dicho acuerdo ser objeto del recurso que proceda.",
+"Dentro de los quince días siguientes a su adopción, sin que dicho acuerdo pudiera ser objeto de recurso.",
+"Dentro de los cinco días siguientes a su adopción, pudiendo dicho acuerdo ser objeto del recurso que proceda.",
+"Dentro de los cinco días siguientes a su adopción, sin que dicho acuerdo pudiera ser objeto de recurso."
+],
+"caso": "caso-14"
+},
+{
+"id": "pr-14-016",
+"origen": "practicas",
+"test": "Supuesto Práctico 2",
+"n": 16,
+"enunciado": "Atendiendo a los datos obrantes en el supuesto, ¿a partir de qué día quedaría sin efecto la medida provisional adoptada si no se hubiera acordado la iniciación del procedimiento sancionador?",
+"opciones": [
+"A partir del 11 de diciembre.",
+"A partir del 12 de diciembre.",
+"A partir del 26 de diciembre.",
+"A partir del 27 de diciembre."
+],
+"caso": "caso-14",
+"calendario": "dic2024"
+},
+{
+"id": "pr-14-017",
+"origen": "practicas",
+"test": "Supuesto Práctico 2",
+"n": 17,
+"enunciado": "¿Actuó correctamente la Administración al practicar por medios electrónicos la notificación del acuerdo de iniciación a “Juguetitos S.L.”?",
+"opciones": [
+"Sí, siempre que simultáneamente practicara idéntica notificación en soporte papel.",
+"Sí, aunque la Administración podía optar libremente por practicar la notificación por medios no electrónicos.",
+"Sí, al tratarse de una persona jurídica obligada a relacionarse electrónicamente con las Administraciones Públicas.",
+"No, al tratarse de un procedimiento de naturaleza sancionadora, todas las notificaciones debían practicarse en soporte papel."
+],
+"caso": "caso-14"
+},
+{
+"id": "pr-14-018",
+"origen": "practicas",
+"test": "Supuesto Práctico 2",
+"n": 18,
+"enunciado": "De acuerdo con la Ley 39/2015, ¿cuándo debe entenderse practicada la notificación electrónica del acuerdo de iniciación del procedimiento sancionador a \"Juguetitos S.L.\"?",
+"opciones": [
+"El viernes 27 de diciembre, fecha en la que se produjo su puesta a disposición en la Dirección Electrónica Habilitada única.",
+"El lunes 30 de diciembre, primer día hábil siguiente a su puesta a disposición en la Dirección Electrónica Habilitada única.",
+"El sábado 28 de diciembre, día del envío del aviso de su puesta a disposición electrónica.",
+"El martes 31 de diciembre, día en que se produjo el acceso a su contenido."
+],
+"caso": "caso-14"
+},
+{
+"id": "pr-14-019",
+"origen": "practicas",
+"test": "Supuesto Práctico 2",
+"n": 19,
+"enunciado": "Si la normativa reguladora del procedimiento sancionador no establece plazo máximo para resolver y notificar, ¿cuál será el último día de dicho plazo?",
+"opciones": [
+"El 23 de marzo de 2025, domingo.",
+"El 24 de marzo de 2025, lunes.",
+"El 27 de marzo de 2025, jueves.",
+"El 31 de marzo de 2025, lunes."
+],
+"caso": "caso-14"
+},
+{
+"id": "pr-14-020",
+"origen": "practicas",
+"test": "Supuesto Práctico 2",
+"n": 20,
+"enunciado": "En el procedimiento sancionador incoado contra “Juguetitos S.L.”, ¿cuál de las siguientes actuaciones debe ser motivada, con sucinta referencia de hechos y fundamentos de derecho, conforme al artículo 35 de la Ley 39/2015?",
+"opciones": [
+"Únicamente la propuesta de resolución.",
+"Únicamente el acto que resuelva el procedimiento.",
+"La propuesta de resolución y el acto que resuelva el procedimiento.",
+"Todos los actos que se dicten en el procedimiento."
+],
+"caso": "caso-14"
+},
+{
+"id": "pr-15-001",
+"origen": "practicas",
+"test": "Ejercicio nº 11 - Plazos administrativos",
+"n": 1,
+"enunciado": "A partir de la fecha en que el acto haya sido dictado, toda notificación deberá se cursada en el plazo de:",
+"opciones": [
+"Diez días hábiles.",
+"Quince días hábiles.",
+"Diez días naturales.",
+"Quince días naturales."
+]
+},
+{
+"id": "pr-15-002",
+"origen": "practicas",
+"test": "Ejercicio nº 11 - Plazos administrativos",
+"n": 2,
+"enunciado": "Cuando lo considere necesario, el instructor, a petición de los interesados, podrá decidir la apertura de un periodo extraordinario de prueba por un plazo:",
+"opciones": [
+"No superior a 30 días, ni inferior a 10.",
+"No superior a 15 días.",
+"No superior a 10 días.",
+"No inferior a 15 días, ni superior a 30."
+]
+},
+{
+"id": "pr-15-003",
+"origen": "practicas",
+"test": "Ejercicio nº 11 - Plazos administrativos",
+"n": 3,
+"enunciado": "En las reclamaciones en materia de responsabilidad patrimonial del Estado por funcionamiento anormal de la Administración de Justicia, solicitado informe del Consejo General del Poder Judicial, el plazo para resolver:",
+"opciones": [
+"Quedará suspendido por un plazo máximo de dos meses.",
+"Quedará suspendido por un plazo máximo de tres meses.",
+"Podrá quedar suspendido por un plazo máximo de dos meses.",
+"Podrá quedar suspendido por un plazo máximo de tres meses."
+]
+},
+{
+"id": "pr-15-004",
+"origen": "practicas",
+"test": "Ejercicio nº 11 - Plazos administrativos",
+"n": 4,
+"enunciado": "El trámite de audiencia a los interesados tendrá una duración:",
+"opciones": [
+"No inferior a 10 días ni superior a 15.",
+"No inferior a 20 días.",
+"No inferior a 10 días ni superior a 30.",
+"No inferior a 15 días."
+]
+},
+{
+"id": "pr-15-005",
+"origen": "practicas",
+"test": "Ejercicio nº 11 - Plazos administrativos",
+"n": 5,
+"enunciado": "El plazo para formular alegaciones durante el periodo de información pública será:",
+"opciones": [
+"No inferior a 15 días.",
+"No inferior a 10 días, ni superior a 15.",
+"No inferior a 20 días.",
+"No superior a 20 días."
+]
+},
+{
+"id": "pr-15-006",
+"origen": "practicas",
+"test": "Ejercicio nº 11 - Plazos administrativos",
+"n": 6,
+"enunciado": "Las actuaciones complementarias deberán practicarse en un plazo no superior a:",
+"opciones": [
+"Quince días naturales.",
+"Siete días.",
+"Quince días.",
+"Veintidós días."
+]
+},
+{
+"id": "pr-15-007",
+"origen": "practicas",
+"test": "Ejercicio nº 11 - Plazos administrativos",
+"n": 7,
+"enunciado": "El periodo ordinario de prueba tendrá una duración:",
+"opciones": [
+"No inferior a diez días ni superior a quince.",
+"No inferior a quince días.",
+"No inferior a veinte días.",
+"No inferior a diez días ni superior a treinta."
+]
+},
+{
+"id": "pr-15-008",
+"origen": "practicas",
+"test": "Ejercicio nº 11 - Plazos administrativos",
+"n": 8,
+"enunciado": "En los procedimientos de responsabilidad patrimonial, el Dictamen del Consejo de Estado, cuando sea preceptivo, se emitirá en un plazo de:",
+"opciones": [
+"20 días.",
+"1 mes.",
+"2 meses.",
+"3 meses."
+]
+},
+{
+"id": "pr-15-009",
+"origen": "practicas",
+"test": "Ejercicio nº 11 - Plazos administrativos",
+"n": 9,
+"enunciado": "Con carácter general, los informes serán emitidos en un plazo de:",
+"opciones": [
+"5 días naturales.",
+"5 días.",
+"10 días naturales.",
+"10 días."
+]
+},
+{
+"id": "pr-15-010",
+"origen": "practicas",
+"test": "Ejercicio nº 11 - Plazos administrativos",
+"n": 10,
+"enunciado": "En los procedimientos de responsabilidad patrimonial iniciados de oficio, el acuerdo de iniciación se notificará a los particulares presuntamente lesionados, quienes podrán formular alegaciones por un plazo de:",
+"opciones": [
+"10 días.",
+"15 días.",
+"20 días.",
+"No inferior a 10 días, ni superior a 15."
+]
+},
+{
+"id": "pr-15-011",
+"origen": "practicas",
+"test": "Ejercicio nº 11 - Plazos administrativos",
+"n": 11,
+"enunciado": "Cuando la notificación por medios electrónicos sea de carácter obligatorio o haya sido expresamente elegida por el interesado, se entenderá rechazada si no se accede a su contenido dentro del plazo de:",
+"opciones": [
+"Diez días.",
+"Diez días naturales.",
+"Quince días.",
+"Quince días naturales."
+]
+},
+{
+"id": "pr-15-012",
+"origen": "practicas",
+"test": "Ejercicio nº 11 - Plazos administrativos",
+"n": 12,
+"enunciado": "Expirado el plazo máximo para resolver el procedimiento, el órgano competente para resolver expedirá de oficio el certificado acreditativo del silencio producido en el plazo de:",
+"opciones": [
+"5 días.",
+"10 días.",
+"15 días.",
+"20 días."
+]
+},
+{
+"id": "pr-15-013",
+"origen": "practicas",
+"test": "Ejercicio nº 11 - Plazos administrativos",
+"n": 13,
+"enunciado": "Tras la finalización de las actuaciones complementarias, los interesados podrán formular las alegaciones que tengan por pertinentes en un plazo de:",
+"opciones": [
+"15 días.",
+"10 días.",
+"7 días.",
+"5 días."
+]
+},
+{
+"id": "pr-15-014",
+"origen": "practicas",
+"test": "Ejercicio nº 11 - Plazos administrativos",
+"n": 14,
+"enunciado": "Los trámites que deban ser cumplimentados por los interesados deberán realizarse, salvo que la norma correspondiente fije otro plazo distinto, en el plazo de:",
+"opciones": [
+"5 días naturales.",
+"10 días naturales.",
+"5 días.",
+"10 días."
+]
+},
+{
+"id": "pr-15-015",
+"origen": "practicas",
+"test": "Ejercicio nº 11 - Plazos administrativos",
+"n": 15,
+"enunciado": "La Administración comunicará a los interesados el inicio de las actuaciones necesarias para la realización de las pruebas que hayan sido admitidas:",
+"opciones": [
+"Con tres días de antelación.",
+"Con cinco días de antelación.",
+"Con diez días de antelación.",
+"Con antelación suficiente."
+]
+},
+{
+"id": "pr-15-016",
+"origen": "practicas",
+"test": "Ejercicio nº 11 - Plazos administrativos",
+"n": 16,
+"enunciado": "Antes de la iniciación del procedimiento administrativo, el órgano competente para iniciar o instruir podrá adoptar, de forma motivada, medidas provisionales, que deberán ser confirmadas, modificadas o levantadas en el acuerdo de iniciación del procedimiento. Dicho acuerdo deberá efectuarse dentro de:",
+"opciones": [
+"Los quince días siguientes a su adopción, el cual podrá ser objeto del recurso que proceda.",
+"Los quince días siguientes a su adopción, el cual no podrá ser objeto de recurso.",
+"Los diez días siguientes a su adopción, el cual podrá ser objeto del recurso que proceda.",
+"Los diez días siguientes a su adopción, el cual no podrá ser objeto de recurso."
+]
+},
+{
+"id": "pr-15-017",
+"origen": "practicas",
+"test": "Ejercicio nº 11 - Plazos administrativos",
+"n": 17,
+"enunciado": "En los procedimientos iniciados a solicitud del interesado, una vez recibida la solicitud iniciadora en el registro electrónico de la Administración u organismo competente para su tramitación, la comunicación sobre el plazo máximo para resolver y los efectos del silencio deberá dirigirse al interesado dentro del plazo de:",
+"opciones": [
+"Cinco días.",
+"Diez días.",
+"Quince días.",
+"Veinte días."
+]
+},
+{
+"id": "pr-15-018",
+"origen": "practicas",
+"test": "Ejercicio nº 11 - Plazos administrativos",
+"n": 18,
+"enunciado": "El derecho a reclamar la responsabilidad patrimonial de las Administraciones Públicas prescribirá, producido el hecho o el acto que motive la indemnización o manifestado su efecto lesivo, en el plazo de:",
+"opciones": [
+"Seis meses.",
+"Un año.",
+"Dos años.",
+"Cuatro años."
+]
+},
+{
+"id": "pr-15-019",
+"origen": "practicas",
+"test": "Ejercicio nº 11 - Plazos administrativos",
+"n": 19,
+"enunciado": "La falta o insuficiente acreditación de la representación no impedirá que se tenga por realizado el acto de que se trate, siempre que aquella se aporte o se subsane el defecto dentro del plazo que deberá conceder al efecto el órgano administrativo. Este plazo será de:",
+"opciones": [
+"Diez días, o superior cuando las circunstancias del caso así lo requieran.",
+"Diez días, o inferior cuando las circunstancias del caso así lo requieran.",
+"Quince días, o superior cuando las circunstancias del caso así lo requieran.",
+"Quince días, o inferior cuando las circunstancias del caso así lo requieran."
+]
+},
+{
+"id": "pr-15-020",
+"origen": "practicas",
+"test": "Ejercicio nº 11 - Plazos administrativos",
+"n": 20,
+"enunciado": "Si la solicitud de iniciación no reúne los requisitos que señala el artículo 66, se requerirá al interesado para que subsane la falta o acompañe los documentos preceptivos en un plazo de:",
+"opciones": [
+"Cinco días.",
+"Diez días.",
+"Quince días.",
+"Veinte días."
+]
+}
+]
+}

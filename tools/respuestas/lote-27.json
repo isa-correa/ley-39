@@ -1,0 +1,444 @@
+{
+ "pr-01-001": {
+  "bloque": "actividad",
+  "precepto": "Art. 14.1 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. D. Manuel es una persona física y pide un certificado de empadronamiento a título particular. No encaja en ninguno de los obligados del art. 14.2, que son personas jurídicas, entidades sin personalidad, colegiados, sus representantes y empleados públicos.",
+   "Es esta. El **art. 14.1** deja elegir a las personas físicas: pueden relacionarse por medios electrónicos o no, y cambiar de opinión en cualquier momento. D. Manuel no está en ningún supuesto de obligación, así que puede ir en papel o por internet, como prefiera."
+  ],
+  "ojo": "Regla base: las personas físicas eligen. Solo hay que comprobar si la persona entra en alguna excepción del art. 14.2."
+ },
+ "pr-01-002": {
+  "bloque": "actividad",
+  "precepto": "Art. 14.2.a) de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Una sociedad limitada es una persona jurídica, y el **art. 14.2.a)** obliga a todas las personas jurídicas a relacionarse por medios electrónicos en cualquier trámite. Da igual el tamaño de Reformas Costa Sur o qué pida.",
+   "No. La opción de elegir del art. 14.1 es solo para personas físicas. Una S.L. es persona jurídica y no tiene esa posibilidad."
+  ]
+ },
+ "pr-01-003": {
+  "bloque": "actividad",
+  "precepto": "Art. 14.2.b) de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El **art. 14.2.b)** obliga también a las “entidades sin personalidad jurídica”. Es justo lo que dice el enunciado de la Comunidad de Propietarios “Al Alba”, así que debe usar medios electrónicos.",
+   "No. Que no tenga personalidad jurídica no la libra: la letra b) del art. 14.2 obliga precisamente a estas entidades, igual que la letra a) obliga a las personas jurídicas."
+  ],
+  "ojo": "No tener personalidad jurídica no significa quedar fuera de la obligación. Las comunidades de propietarios son el ejemplo típico."
+ },
+ "pr-01-004": {
+  "bloque": "actividad",
+  "precepto": "Arts. 14.1 y 14.2.d) de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. El art. 14.2.d) solo obliga a quien representa a un interesado que **esté obligado** a usar medios electrónicos. Su hermano es una persona física que pide su expediente académico y no lo está, así que la representante tampoco.",
+   "Es esta. D.ª Laura representa a su hermano, que como persona física puede elegir (**art. 14.1**). El **art. 14.2.d)** solo obliga al representante cuando el representado está obligado, y aquí no ocurre. Por eso ella también puede elegir."
+  ],
+  "ojo": "El representante sigue la suerte del representado. Compáralo con D. Hugo, que representa a una S.L. y sí está obligado."
+ },
+ "pr-01-005": {
+  "bloque": "actividad",
+  "precepto": "Art. 14.2.e) de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. D. Rafael participa en un concurso de méritos precisamente por ser funcionario. El **art. 14.2.e)** obliga a los empleados públicos en los trámites que hagan con la Administración “por razón de su condición de empleado público”.",
+   "No. Sería así si actuara como un ciudadano más. Pero un concurso de méritos es un trámite ligado a su condición de funcionario, y eso lo mete en el art. 14.2.e)."
+  ]
+ },
+ "pr-01-006": {
+  "bloque": "actividad",
+  "precepto": "Arts. 14.1 y 14.2.c) de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Ser jardinero no le obliga. El art. 14.2.c) solo alcanza a profesiones con colegiación obligatoria y cuando actúan en ejercicio de ellas. Además, D. Vicente pide podar un árbol de su propia casa.",
+   "Es esta. D. Vicente actúa como un vecino más, sobre el jardín de su vivienda, así que puede elegir (**art. 14.1**). No le afecta el art. 14.2.c) por dos motivos: el enunciado no habla de colegiación obligatoria y el trámite no es de su actividad profesional."
+  ],
+  "ojo": "La profesión del enunciado suele ser un cebo. Pregúntate si exige colegiación obligatoria y si el trámite se hace en ejercicio de esa profesión."
+ },
+ "pr-01-007": {
+  "bloque": "actividad",
+  "precepto": "Arts. 14.1 y 14.2.e) de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Es empleada pública, pero el art. 14.2.e) solo la obliga en trámites hechos por razón de esa condición. Una licencia de obra para su terraza no tiene nada que ver con su trabajo.",
+   "Es esta. D.ª Ana pide una licencia para reformar su propia vivienda, como cualquier vecina. El **art. 14.2.e)** obliga a los empleados públicos solo en lo que hacen “por razón de su condición de empleado público”. Aquí manda la regla general del art. 14.1: puede elegir."
+  ],
+  "ojo": "Compárala con D. Rafael y su concurso de méritos: lo que cuenta es el motivo del trámite, no ser funcionario."
+ },
+ "pr-01-008": {
+  "bloque": "actividad",
+  "precepto": "Art. 14.2.d) de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. D. Hugo actúa en representación de Cazadores del Norte, S.L., que como persona jurídica está obligada (art. 14.2.a). El **art. 14.2.d)** extiende la obligación a quien representa a un interesado obligado, así que él también debe usar medios electrónicos.",
+   "No. Que D. Hugo sea una persona física no cuenta aquí, porque actúa como representante de una S.L. El art. 14.2.d) le obliga por esa representación."
+  ]
+ },
+ "pr-01-009": {
+  "bloque": "actividad",
+  "precepto": "Art. 14.2.c) de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El **art. 14.2.c)** obliga a quienes tienen una profesión de colegiación obligatoria en los trámites propios de esa actividad, y añade que en todo caso incluye a “los notarios y registradores”. D. Luis remite una escritura de su notaría: es su trabajo.",
+   "No. D. Luis actúa como notario y en ejercicio de su profesión, y el art. 14.2.c) nombra expresamente a los notarios entre los obligados."
+  ]
+ },
+ "pr-01-010": {
+  "bloque": "actividad",
+  "precepto": "Arts. 14.1 y 14.2.c) de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Es médica colegiada, pero el art. 14.2.c) solo la obliga en trámites hechos en ejercicio de su profesión. Aquí pide su propia historia clínica como paciente.",
+   "Es esta. D.ª Marta pide su historia clínica porque ella misma fue atendida por una lesión: actúa como paciente, no como médica. El **art. 14.2.c)** solo cubre lo que se hace “en ejercicio de dicha actividad profesional”, así que puede elegir (art. 14.1)."
+  ],
+  "ojo": "Colegiada sí, pero el trámite es personal. Hacen falta las dos cosas: colegiación obligatoria y trámite profesional."
+ },
+ "pr-02-001": {
+  "bloque": "actividad",
+  "precepto": "Art. 15.1 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. La Delegación del Gobierno es un órgano de la Administración General del Estado con sede en Cataluña, donde el catalán es cooficial. Según el **art. 15.1**, D. Marc puede usar esa lengua y el procedimiento se tramita “en la lengua elegida por el interesado”.",
+   "No. Tramitar en castellano y expedir documentos en la otra lengua solo pasa si hay varios interesados y no se ponen de acuerdo (art. 15.1). Aquí D. Marc es el único que pide lengua.",
+   "No. Se aplicaría si el órgano no tuviera sede en una comunidad con esa lengua cooficial. Esta Delegación está en Barcelona, así que el catalán se puede usar."
+  ]
+ },
+ "pr-02-002": {
+  "bloque": "actividad",
+  "precepto": "Art. 15.1 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Lo que cuenta es la sede del órgano, no dónde vive el interesado. La Dirección General está en Madrid, donde no hay lengua cooficial.",
+   "No. Los documentos en la lengua cooficial son para los casos de discrepancia ante un órgano con sede en esa comunidad. Este órgano está en Madrid, así que no se da ese supuesto.",
+   "Es esta. El **art. 15.1** permite usar la lengua cooficial ante órganos del Estado “con sede en el territorio” de la comunidad donde sea cooficial. D. Vicent vive en Valencia, pero se dirige a un órgano con sede en Madrid. Por eso todo va en castellano, sin documentos en valenciano."
+  ],
+  "ojo": "Mira dónde está el órgano, no dónde vive el interesado."
+ },
+ "pr-02-003": {
+  "bloque": "actividad",
+  "precepto": "Art. 15.1 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. La elección de D.ª Uxía valdría si fuera la única. Pero D. Manuel pide castellano, y si hay discrepancia entre interesados el procedimiento no puede ir en gallego.",
+   "Es esta. El órgano tiene sede en Galicia, así que se podría usar el gallego. Pero D.ª Uxía y D. Manuel no coinciden, y en ese caso el **art. 15.1** manda tramitar en castellano y expedir en la lengua elegida los documentos o testimonios que pidan los interesados. D.ª Uxía los tendrá en gallego.",
+   "No. El castellano acierta, pero falla el final: en caso de discrepancia, los documentos o testimonios sí se expiden en la lengua que eligió cada interesado (art. 15.1)."
+  ],
+  "ojo": "Discrepancia: el procedimiento va en castellano, pero cada uno conserva sus documentos en la lengua que eligió."
+ },
+ "pr-02-004": {
+  "bloque": "actividad",
+  "precepto": "Art. 15.1 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Presentar la solicitud en el registro del Ayuntamiento de Lugo no cambia nada: el órgano al que se dirige está en Madrid, y allí no hay lengua cooficial.",
+   "No. No hay varios interesados ni discrepancia, y el órgano no tiene sede en Galicia. No se da el supuesto de los documentos en gallego.",
+   "Es esta. El **art. 15.1** se fija en el órgano al que te diriges: la Secretaría de Estado de Seguridad tiene sede en Madrid. Da igual que D. Antón viva en Lugo y presente allí el escrito. Se tramita en castellano, sin documentos en gallego."
+  ],
+  "ojo": "El registro donde presentas es solo la puerta de entrada. Lo que cuenta es la sede del órgano destinatario."
+ },
+ "pr-02-005": {
+  "bloque": "actividad",
+  "precepto": "Art. 15.1 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. La Subdelegación está en Barcelona, y allí el catalán es cooficial. El **art. 15.1** habla de “los interesados que se dirijan” a ese órgano y no pide vivir en esa comunidad. Por eso D. Gorka, aunque sea de Bilbao, puede elegir catalán.",
+   "No. Solo se tramitaría en castellano con documentos en catalán si otro interesado discrepara. D. Gorka es el único que pide lengua.",
+   "No. Vivir en Bilbao no le quita el derecho: lo que cuenta es la sede del órgano, que está en Barcelona, no la vecindad de D. Gorka."
+  ],
+  "ojo": "Es el caso contrario al de D. Vicent: allí vivía en la comunidad, pero el órgano estaba en Madrid. La sede manda en los dos."
+ },
+ "pr-02-006": {
+  "bloque": "actividad",
+  "precepto": "Art. 15.1 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Que el primer procedimiento fuera en euskera no se arrastra al recurso. Este se dirige a un órgano con sede en Madrid, donde el euskera no es cooficial.",
+   "No. No hay discrepancia entre interesados y el órgano que resuelve no tiene sede en el País Vasco. No se da el supuesto de expedir documentos en euskera.",
+   "Es esta. El recurso se dirige a la Secretaría de Estado de Seguridad, con sede en Madrid. El **art. 15.1** solo permite la lengua cooficial ante órganos con sede en esa comunidad, así que se tramita en castellano, aunque el procedimiento anterior fuera en euskera."
+  ],
+  "ojo": "La lengua se mira según el órgano ante el que se está tramitando en cada momento."
+ },
+ "pr-02-007": {
+  "bloque": "actividad",
+  "precepto": "Art. 15.1 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. El valenciano se podría usar, pero D.ª Laura pide castellano. Con discrepancia entre interesados, el procedimiento no se tramita en la lengua cooficial.",
+   "Es esta. La Delegación tiene sede en Valencia, así que D. Rafael puede elegir valenciano, aunque viva en Sevilla y presente allí el escrito. Como D.ª Laura pide castellano, hay discrepancia: según el **art. 15.1**, se tramita en castellano y D. Rafael tendrá en valenciano sus documentos.",
+   "No. El castellano acierta, pero falla el final: en caso de discrepancia, los documentos o testimonios se expiden en la lengua elegida por cada interesado (art. 15.1)."
+  ],
+  "ojo": "Aquí hay dos cebos: vivir en Sevilla y usar el registro de Sevilla. Ninguno cuenta, solo la sede del órgano y la discrepancia."
+ },
+ "pr-02-008": {
+  "bloque": "actividad",
+  "precepto": "Art. 15.1 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El catalán no es cooficial en el País Vasco, que es donde tiene su sede el órgano. Allí la lengua cooficial es el euskera.",
+   "No. Los documentos en lengua cooficial solo caben con la lengua cooficial de la comunidad donde está el órgano. El catalán no lo es en el País Vasco.",
+   "Es esta. El **art. 15.1** permite usar “la lengua que sea cooficial en ella”, es decir, en la comunidad donde está la sede del órgano. La Delegación está en Vitoria-Gasteiz, y allí el catalán no es cooficial. D. Jordi no puede usarlo: todo en castellano."
+  ],
+  "ojo": "No vale cualquier lengua cooficial de España: tiene que ser la de la comunidad donde está el órgano."
+ },
+ "pr-03-001": {
+  "bloque": "actividad",
+  "precepto": "Art. 22.1.a) de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El requerimiento para subsanar deficiencias (corregir lo que falta o está mal) es un caso del **art. 22.1.a)**. El art. 22.1 usa “se podrá suspender”: la suspensión es posible, no automática.",
+   "No. “Se suspenderá” es para los casos del art. 22.2, que son tres: requerimiento a otra Administración, actuaciones complementarias y recusación. La subsanación está en el art. 22.1.",
+   "No. Sí se puede suspender: subsanar deficiencias es el primer caso de la lista del art. 22.1."
+  ],
+  "ojo": "Truco: el art. 22.2 tiene solo tres casos de suspensión obligatoria. Todo lo demás de la lista es “se podrá”, y lo que no está en la lista no suspende."
+ },
+ "pr-03-002": {
+  "bloque": "actividad",
+  "precepto": "Arts. 22 y 77.2 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Abrir un período de prueba ordinario no está en la lista del art. 22.1. Lo que se parece son las pruebas técnicas o análisis contradictorios o dirimentes propuestos por los interesados (art. 22.1.e), y este no es ese caso.",
+   "No. Tampoco está en el art. 22.2, que solo recoge el requerimiento a otra Administración, las actuaciones complementarias y la recusación.",
+   "Es esta. El período de prueba del **art. 77.2** es un trámite normal del procedimiento y no aparece en la lista de suspensiones del **art. 22**. Lo acuerda el instructor por su cuenta, sin petición de pruebas técnicas o contradictorias de los interesados, así que el plazo sigue corriendo."
+  ],
+  "ojo": "No confundas el período de prueba normal con las pruebas técnicas o análisis contradictorios del art. 22.1.e)."
+ },
+ "pr-03-003": {
+  "bloque": "actividad",
+  "precepto": "Arts. 22.2.b) y 87 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Aquí no hay margen de elección. Las actuaciones complementarias están en el art. 22.2, que dice “se suspenderá”, no “se podrá”.",
+   "Es esta. El **art. 22.2.b)** recoge las actuaciones complementarias entre las suspensiones obligatorias, y el **art. 87** repite que el plazo “quedará suspendido”. La suspensión dura desde que se notifica el acuerdo hasta que terminan.",
+   "No. Sí se suspende, y además de forma obligatoria: lo dicen tanto el art. 22.2.b) como el art. 87."
+  ]
+ },
+ "pr-03-004": {
+  "bloque": "actividad",
+  "precepto": "Arts. 22 y 83 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. La información pública no aparece en la lista del art. 22.1 de suspensiones posibles.",
+   "No. Tampoco está en el art. 22.2, que tiene solo tres casos: requerimiento a otra Administración, actuaciones complementarias y recusación.",
+   "Es esta. La información pública es un trámite del **art. 83**, que permite a cualquiera examinar el expediente, pero no figura entre las causas de suspensión del **art. 22**. Si no está en la lista, no suspende. El plazo para resolver sigue corriendo."
+  ]
+ },
+ "pr-03-005": {
+  "bloque": "actividad",
+  "precepto": "Arts. 22.1.f) y 86 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Iniciar negociaciones para llegar a un pacto o convenio del art. 86 es el caso del **art. 22.1.f)**. Está en el apartado del “se podrá suspender”, así que es una posibilidad, no algo automático.",
+   "No. Las negociaciones están en el art. 22.1 (“se podrá”), no en el art. 22.2 (“se suspenderá”).",
+   "No. Sí se puede suspender: el art. 22.1.f) lo prevé, desde la declaración formal hasta que las negociaciones acaben sin efecto."
+  ]
+ },
+ "pr-03-006": {
+  "bloque": "actividad",
+  "precepto": "Art. 22.1.e) de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El **art. 22.1.e)** recoge las pruebas técnicas o análisis contradictorios o dirimentes (los que deciden entre resultados distintos) propuestos por los interesados. Es justo el caso, y el art. 22.1 dice “se podrá suspender”.",
+   "No. Estos análisis están en el art. 22.1, de suspensión posible, no en la lista obligatoria del art. 22.2.",
+   "No. Sí se puede suspender durante el tiempo necesario para incorporar los resultados al expediente (art. 22.1.e). Este caso es distinto del período de prueba normal, que no suspende."
+  ]
+ },
+ "pr-03-007": {
+  "bloque": "actividad",
+  "precepto": "Art. 22.2.c) de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. La recusación es de suspensión obligatoria, no potestativa (a elección del órgano): está en el art. 22.2, que dice “se suspenderá”.",
+   "Es esta. Cuando un interesado promueve la recusación (pide apartar al instructor por falta de imparcialidad), el **art. 22.2.c)** suspende el plazo sí o sí, desde que se plantea hasta que la resuelve el superior jerárquico del recusado.",
+   "No. Sí se suspende, y de forma obligatoria: la recusación es uno de los tres casos del art. 22.2."
+  ]
+ },
+ "pr-03-008": {
+  "bloque": "actividad",
+  "precepto": "Art. 22.1.g) de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Es el **art. 22.1.g)**: necesitar un pronunciamiento previo de un órgano jurisdiccional (un juzgado o tribunal), indispensable para resolver. Está en el art. 22.1, así que “se podrá” suspender.",
+   "No. Este caso está en el art. 22.1, de suspensión posible, no en la lista obligatoria del art. 22.2.",
+   "No. Sí se puede suspender: el art. 22.1.g) lo prevé desde que se solicita el pronunciamiento hasta que la Administración tiene constancia de él."
+  ]
+ },
+ "pr-03-009": {
+  "bloque": "actividad",
+  "precepto": "Arts. 22.1.d) y 80 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El art. 22.1.d) permite suspender solo para informes **preceptivos**, es decir, los que hay que pedir obligatoriamente. Este es facultativo.",
+   "No. Los informes no están en la lista obligatoria del art. 22.2. Y ni siquiera un informe preceptivo suspende de forma automática.",
+   "Es esta. El **art. 22.1.d)** habla solo de informes preceptivos, y aquí el instructor lo pide porque lo “estima conveniente”: es facultativo, es decir, opcional. No está en la lista, así que no suspende. El art. 80.3 confirma esa diferencia."
+  ],
+  "ojo": "Te han cambiado “preceptivo” por “facultativo”, y esa palabra cambia la respuesta."
+ },
+ "pr-03-010": {
+  "bloque": "actividad",
+  "precepto": "Arts. 22.2.a) y 39.5 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. No es potestativo: el requerimiento entre Administraciones está en el art. 22.2, que dice “se suspenderá”.",
+   "Es esta. Es el **art. 22.2.a)**, que remite al **art. 39.5**: una Administración pide a otra que anule o revise un acto ilegal en el que se basa el suyo. El plazo se suspende obligatoriamente desde el requerimiento hasta que se atienda o se resuelva el recurso ante los tribunales.",
+   "No. Sí se suspende, y de forma obligatoria. El propio art. 39.5 dice que “quedará suspendido” el procedimiento."
+  ]
+ },
+ "pr-04-004": {
+  "bloque": "actividad",
+  "precepto": "Art. 24.1 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. El estimatorio es la regla general en solicitudes, pero tiene excepciones. Una de ellas son las actividades que puedan dañar el medio ambiente, y este aparato radiactivo lo es según el enunciado.",
+   "Es esta. El **art. 24.1** (párrafo segundo) da efecto desestimatorio a los procedimientos que “impliquen el ejercicio de actividades que puedan dañar el medio ambiente”. El enunciado dice que estas radiaciones pueden tener efectos nocivos para él, así que el silencio equivale a un no.",
+   "No. La caducidad es para procedimientos de oficio sancionadores o de gravamen (art. 25.1.b). Este se inicia a solicitud del interesado."
+  ]
+ },
+ "pr-04-005": {
+  "bloque": "actividad",
+  "precepto": "Art. 24.1 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. El recurso de alzada solo se entiende estimado por silencio cuando se interpuso contra una desestimación **por silencio**. Aquí se recurre una resolución expresa de la Filmoteca, así que no se da esa excepción.",
+   "Es esta. El **art. 24.1** (párrafo tercero) dice que el silencio es desestimatorio en los procedimientos de impugnación de actos, y el recurso de alzada lo es. Como la denegación de la Filmoteca fue expresa, no se aplica la excepción del doble silencio.",
+   "No. La caducidad es para procedimientos de oficio sancionadores o de gravamen (art. 25.1.b). Un recurso lo inicia el interesado."
+  ],
+  "ojo": "Cebo: “resolución expresa”. Si hubiera recurrido un silencio negativo, en general el silencio del recurso sería estimatorio. Es el “doble silencio”."
+ },
+ "pr-04-006": {
+  "bloque": "actividad",
+  "precepto": "Art. 24.1 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Es una solicitud de un particular y, por lo que dice el enunciado, no entra en ninguna excepción del **art. 24.1**: no es derecho de petición, ni dominio o servicio público, ni actividad que pueda dañar el medio ambiente, ni responsabilidad patrimonial. Se aplica la regla general: silencio estimatorio.",
+   "No. El silencio desestimatorio exige una excepción del art. 24.1 o una ley que lo diga. Un museo privado en un edificio rehabilitado no encaja en ninguna de las excepciones y el enunciado no cita ninguna ley especial.",
+   "No. La caducidad es para procedimientos de oficio sancionadores o de gravamen (art. 25.1.b). Aquí hay una solicitud del interesado."
+  ],
+  "ojo": "“Museo privado” va para que no lo confundas con un servicio público. Se responde con la regla general porque el enunciado no da ninguna ley especial: en la vida real habría que mirar la normativa de esa materia."
+ },
+ "pr-04-007": {
+  "bloque": "actividad",
+  "precepto": "Art. 24.1 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Si valiera el sí por silencio, alguien obtendría el uso de una parte de la playa solo porque la Administración no contestó. El art. 24.1 lo excluye para las facultades sobre el dominio público.",
+   "Es esta. La playa es dominio público (un bien de todos, gestionado por la Administración). El **art. 24.1** (párrafo segundo) da efecto desestimatorio a los procedimientos cuya estimación transfiera al solicitante “facultades relativas al dominio público”, y estos parques hinchables se instalarían sobre ella.",
+   "No. La caducidad es para procedimientos de oficio sancionadores o de gravamen (art. 25.1.b). Este nace de una solicitud."
+  ]
+ },
+ "pr-04-008": {
+  "bloque": "actividad",
+  "precepto": "Art. 25.1.b) de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El silencio estimatorio responde a lo que alguien pide (art. 24). Aquí nadie ha pedido nada: la Confederación actúa de oficio contra el presunto infractor.",
+   "No. El silencio desestimatorio de los procedimientos de oficio (art. 25.1.a) es para los que pueden reconocer derechos o situaciones favorables. Un sancionador es justo lo contrario.",
+   "Es esta. El procedimiento es de oficio y la Confederación ejerce su potestad de sancionar. El **art. 25.1.b)** dice que, si vence el plazo sin resolver y notificar, “se producirá la caducidad”: se archivan las actuaciones."
+  ],
+  "ojo": "De oficio: si puede darte “algo bueno”, silencio desestimatorio; si puede darte “algo malo”, caducidad."
+ },
+ "pr-04-009": {
+  "bloque": "actividad",
+  "precepto": "Arts. 25.1.a) y 91.3 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Aunque el estudiante reclame una indemnización, el silencio no se la concede. El art. 91.3 dice que, pasados seis meses, se podrá entender que la resolución es “contraria a la indemnización”.",
+   "Es esta. El procedimiento es de oficio, pero de él puede salir algo favorable: una indemnización. Según el **art. 25.1.a)**, el interesado que ha comparecido puede entender desestimadas sus pretensiones, y el **art. 91.3** lo confirma para la responsabilidad patrimonial. El estudiante lo entenderá como un no.",
+   "No. Es la trampa de “iniciado de oficio”. La caducidad del art. 25.1.b) solo se da si el procedimiento puede producir efectos desfavorables, y este puede indemnizar al estudiante."
+  ],
+  "ojo": "No basta con ver “de oficio” para marcar caducidad: mira si el resultado puede ser bueno o malo para el interesado."
+ },
+ "pr-04-010": {
+  "bloque": "actividad",
+  "precepto": "Art. 24.1 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. El derecho de petición es una de las excepciones expresas a la regla del silencio estimatorio (art. 24.1, párrafo segundo). Si no fuera así, una simple petición obligaría al Ayuntamiento a comprar recolectores.",
+   "Es esta. La asociación “Pueblo Limpio” actúa al amparo del derecho de petición, reconocido en el art. 29 de la Constitución. El **art. 24.1** (párrafo segundo) dice que en esos procedimientos el silencio es desestimatorio.",
+   "No. La caducidad es para procedimientos de oficio sancionadores o de gravamen (art. 25.1.b). Este lo inicia la asociación con su escrito."
+  ]
+ },
+ "pr-05-004": {
+  "bloque": "plazos",
+  "precepto": "Arts. 43.2 y 30.3 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Sale de contar el propio 20 de enero como día 1. La cuenta empieza el día siguiente, así que el 29 sería solo el día 9.",
+   "Es esta. Son diez días **naturales**, así que cuentan también sábados y domingos (**art. 43.2**). Empezando el día siguiente, el 21 de enero es el día 1 y el 30 de enero, lunes, es el día 10. D.ª Antonia puede acceder hasta ese día.",
+   "No. Es un error de contar mal los días hábiles. Además, este plazo es de días naturales, no hábiles.",
+   "No. Es el resultado de contar diez días hábiles (del 23 de enero al 3 de febrero). El art. 43.2 dice días naturales, y por eso acaba antes."
+  ],
+  "ojo": "Por norma, los días son hábiles (art. 30.2). Este es el caso típico de días naturales."
+ },
+ "pr-05-005": {
+  "bloque": "plazos",
+  "precepto": "Art. 30.4 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. En 2023 febrero no tiene 29 días, porque no es año bisiesto. Esa fecha no existe.",
+   "Es esta. Los meses van de fecha a fecha, así que el plazo acabaría el 30 de febrero, que no existe. Para eso el **art. 30.4** dice que, si no hay día equivalente, “expira el último día del mes”. Ese día es el 28 de febrero de 2023, martes y hábil.",
+   "No. No se pasa al mes siguiente. Si en el mes de vencimiento no hay día equivalente, el plazo acaba el último día de ese mes (art. 30.4).",
+   "No. Se queda corto: el último día de febrero de 2023 es el 28, y es hábil, así que no hay motivo para acabar antes."
+  ]
+ },
+ "pr-05-006": {
+  "bloque": "plazos",
+  "precepto": "Arts. 30.2, 30.3 y 87 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Es un día de más. El 13 de abril ya es el día 7, así que el 14 sería el 8.",
+   "No. Son los siete días contados como naturales (el 1 de abril es el día 1). Además, el 7 de abril es festivo en el calendario. Los días son hábiles (art. 30.2).",
+   "No. Es el error de contar naturales y luego pasar del festivo 7 de abril al lunes 10 (art. 30.5). Los siete días tienen que ser hábiles desde el principio.",
+   "Es esta. Son días hábiles (**art. 30.2**) y se cuentan desde el día siguiente (**art. 30.3**). El 31 de marzo es viernes, así que empiezan el lunes 3 de abril: 3, 4 y 5 son los días 1, 2 y 3. Saltamos el 6 y 7 (festivos), el 8 y el 9: el 10, 11, 12 y 13 son los días 4, 5, 6 y 7. Acaba el jueves 13 de abril."
+  ],
+  "ojo": "En el calendario, el 6 y 7 de abril de 2023 son festivos. Es lo que alarga el plazo."
+ },
+ "pr-05-007": {
+  "bloque": "plazos",
+  "precepto": "Arts. 88.1 y 30.2 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Se ha olvidado un festivo. Si el 2 de mayo contara como hábil, los quince días acabarían el 22, pero en el calendario es inhábil.",
+   "Es esta. Son días hábiles (**art. 30.2**) en el plazo de quince días del **art. 88.1**. El 28 de abril es viernes. El 29 y 30 son fin de semana, y el 1 y 2 de mayo, festivos. El día 1 es el 3 de mayo, el día 8 es el 12, el día 13 es el 19 y el día 15 es el martes 23 de mayo.",
+   "No. Es contar quince días naturales y además incluir el propio 28 de abril. Ni se cuenta ese día ni valen los días naturales.",
+   "No. Es el error de contar días naturales: acabarían el sábado 13 de mayo y pasarían al lunes 15 (art. 30.5). Pero aquí los días son hábiles."
+  ]
+ },
+ "pr-05-008": {
+  "bloque": "plazos",
+  "precepto": "Arts. 21.3.b), 30.4 y 30.5 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Seis meses es el tope general del art. 21.2 para lo que fije la norma, no el plazo por defecto. Si la norma no dice nada, son tres meses (art. 21.3).",
+   "Es esta. Si la norma no fija plazo, son **tres meses** (**art. 21.3**), contados desde la entrada en el registro electrónico, el 23 de enero. De fecha a fecha acaba el 23 de abril, que es domingo, y por eso pasa al primer día hábil siguiente (**art. 30.5**): el lunes 24 de abril.",
+   "No. Es la fecha de fecha a fecha, pero el 23 de abril de 2023 es domingo. Si el último día es inhábil, se prorroga al primer día hábil siguiente (art. 30.5).",
+   "No. Parte de seis meses, y el plazo por defecto es de tres (art. 21.3). El 24 de julio sería el resultado de seis meses con la prórroga, porque el 23 de julio es domingo."
+  ],
+  "ojo": "Dos pasos que suelen olvidarse: tres meses por defecto y comprobar si el último día es hábil."
+ },
+ "pr-05-009": {
+  "bloque": "plazos",
+  "precepto": "Arts. 21.3.a), 25.1.b) y 30.4 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. El 9 de marzo es el último día del plazo: durante ese día la Administración aún puede resolver y notificar. La caducidad llega cuando el plazo vence sin hacerlo, así que produce efecto a partir del día siguiente.",
+   "Es esta. En un procedimiento de oficio, el plazo se cuenta “desde la fecha del acuerdo de iniciación” (**art. 21.3.a**), que es el 9 de enero, no desde la notificación. Dos meses de fecha a fecha acaban el jueves 9 de marzo. Si vence sin resolución notificada (**art. 25.1.b**), la caducidad se entiende producida a partir del 10 de marzo.",
+   "No. Sale de contar desde la notificación, el 11 de enero. Eso se usa para recurrir, pero el plazo para resolver de oficio empieza en la fecha del acuerdo (art. 21.3.a).",
+   "No. Es el mismo error de contar desde la notificación, y además pasar del sábado 11 de marzo al lunes 13 (art. 30.5). El punto de partida correcto es el 9 de enero."
+  ],
+  "ojo": "Dos preguntas distintas: el último día del plazo es el 9 de marzo; la caducidad se produce a partir del día siguiente, el 10. Y de oficio se cuenta desde la fecha del acuerdo, no desde la notificación."
+ },
+ "pr-05-010": {
+  "bloque": "plazos",
+  "precepto": "Arts. 43.2, 30.4 y 122.1 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Cuenta desde el 8 de enero, que es la puesta a disposición. La notificación se practica cuando se accede al contenido (art. 43.2), y eso pasó el día 10.",
+   "No. El 13 de febrero es lunes, y solo se pasaría a él si el 10 fuera inhábil (art. 30.5). El 10 de febrero de 2023 es viernes, hábil.",
+   "No. Eso serían tres meses, que es el plazo máximo para resolver el recurso de alzada (art. 122.2). Para interponerlo, el plazo es de un mes (art. 122.1).",
+   "Es esta. D. Marcelino accedió el 10 de enero, y ese día se entiende practicada la notificación (**art. 43.2**). El plazo de alzada es de un mes (**art. 122.1**) y va de fecha a fecha (**art. 30.4**): acaba el 10 de febrero, viernes y hábil."
+  ],
+  "ojo": "Con la DEHú, la fecha buena es la del acceso, no la de la puesta a disposición (siempre que accedas dentro de los diez días naturales)."
+ }
+}

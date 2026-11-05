@@ -1,0 +1,365 @@
+{
+"lote": 40,
+"casos": {
+"caso-38": {
+"id": "caso-38",
+"titulo": "Supuesto Práctico 4",
+"texto": "D. Luis Vivas y D.ª Claudia Toro son propietarios, cada uno de ellos, de una finca colindante con el río Nela, afluente del Ebro, y cada uno pretende construir una pasarela de madera sobre el cauce de dicho río.\nCon fecha 1 de abril de 2025, el señor Vivas presentó, a través del registro electrónico del Ayuntamiento de Zaragoza, una solicitud dirigida a la Confederación Hidrográfica del Ebro, organismo autónomo adscrito al Ministerio para la Transición Ecológica y el Reto Demográfico, a fin de que le fuese concedida la preceptiva autorización administrativa.\nLa solicitud se dirigía al presidente de la Confederación Hidrográfica del Ebro, máximo órgano de dirección del organismo y competente para la tramitación y resolución del procedimiento. Dicha solicitud tuvo finalmente entrada en el registro electrónico de la Confederación Hidrográfica del Ebro el 8 de abril de 2025.\nEse mismo 8 de abril de 2025, D.ª Claudia Toro presentó su solicitud de autorización directamente en el registro electrónico del citado organismo.\nEl 22 de abril de 2025 se remitió a ambos interesados la comunicación prevista en el artículo 21.4 de la Ley 39/2015, con indicación de la fecha en que sus solicitudes habían sido recibidas por el órgano competente, del plazo máximo para resolver y notificar y de los efectos que pudiera producir el silencio administrativo.\nEl texto refundido de la Ley de Aguas, aprobado por el Real Decreto Legislativo 1/2001, de 20 de julio, establece que los procedimientos relativos a estas autorizaciones se rigen por la Ley 39/2015, de 1 de octubre, y fija un plazo máximo de seis meses para resolver y notificar.\nEl presidente de la Confederación Hidrográfica del Ebro, al considerar que ambos expedientes guardaban identidad sustancial, procedió de oficio a su acumulación. El 23 de mayo de 2025 se notificó el acuerdo de acumulación a los interesados.\nEl 14 de noviembre de 2025, D. Luis Vivas, al no haber recibido notificación de la Administración, considera que la autorización le ha sido concedida por silencio administrativo e inicia las obras de construcción de la pasarela sobre el cauce del río.\nPor el contrario, D.ª Claudia Toro considera desestimada su solicitud por silencio administrativo, por lo que, con fecha 8 de enero de 2026, presenta, a través del registro electrónico de la Confederación Hidrográfica del Ebro, un recurso administrativo contra el acto presunto. Sin embargo, al desconocer qué tipo de recurso debía interponer, no lo calificó jurídicamente.\nEn relación con el supuesto planteado, se formulan las siguientes preguntas:"
+}
+},
+"calendarios": {},
+"preguntas": [
+{
+"id": "pr-38-001",
+"origen": "practicas",
+"test": "Supuesto Práctico 4",
+"n": 1,
+"enunciado": "En su solicitud, el señor Vivas no incluyó su firma ni acreditó la autenticidad de su voluntad por cualquier otro medio. Una vez requerido, ¿de qué plazo dispondrá el señor Vivas para subsanar la falta?",
+"opciones": [
+"Quince días.",
+"Diez días.",
+"Quince días, plazo que podrá ser ampliado prudencialmente, hasta cinco días.",
+"Diez días, plazo que deberá ampliarse en cinco días más si el interesado lo solicita de forma motivada."
+],
+"caso": "caso-38"
+},
+{
+"id": "pr-38-002",
+"origen": "practicas",
+"test": "Supuesto Práctico 4",
+"n": 2,
+"enunciado": "De conformidad con el artículo 22 de la Ley 39/2015, de 1 de octubre, el requerimiento de subsanación realizado al señor Vivas determina que el transcurso del plazo máximo legal para resolver y notificar la resolución:",
+"opciones": [
+"Deba suspenderse.",
+"Se suspenda de forma automática.",
+"Pueda suspenderse.",
+"Deba continuar su cómputo."
+],
+"caso": "caso-38"
+},
+{
+"id": "pr-38-003",
+"origen": "practicas",
+"test": "Supuesto Práctico 4",
+"n": 3,
+"enunciado": "¿Cómo deberá proceder la Administración si el señor Vivas no subsana, dentro del plazo concedido, la falta advertida en su solicitud?",
+"opciones": [
+"Le advertirá que, transcurridos tres meses, se producirá la caducidad del procedimiento.",
+"Le tendrá por desistido de su petición, previa resolución dictada en los términos previstos en el artículo 21.",
+"Le tendrá por decaído en su derecho al trámite y continuará la tramitación del procedimiento.",
+"Archivará el procedimiento, sin más trámite."
+],
+"caso": "caso-38"
+},
+{
+"id": "pr-38-004",
+"origen": "practicas",
+"test": "Supuesto Práctico 4",
+"n": 4,
+"enunciado": "De conformidad con la Ley 39/2015, ¿podría el Real Decreto Legislativo 1/2001, por el que se aprueba el texto refundido de la Ley de Aguas, establecer un plazo de nueve meses para notificar la resolución expresa?",
+"opciones": [
+"No, puesto que el plazo máximo en el que debe notificarse la resolución no podrá exceder de seis meses en ningún caso.",
+"No, ya que una norma de carácter reglamentario no puede establecer un plazo superior a 6 meses.",
+"No, el plazo para resolver solo podrá exceder de seis meses cuando así lo establezca una Ley aprobada por las Cortes Generales.",
+"Sí, al tratarse de una norma con rango de Ley."
+],
+"caso": "caso-38"
+},
+{
+"id": "pr-38-005",
+"origen": "practicas",
+"test": "Supuesto Práctico 4",
+"n": 5,
+"enunciado": "Si las normas reguladoras del procedimiento no hubieran establecido plazo máximo para notificar la resolución, este sería de:",
+"opciones": [
+"Un mes.",
+"Dos meses.",
+"Tres meses.",
+"Seis meses."
+],
+"caso": "caso-38"
+},
+{
+"id": "pr-38-006",
+"origen": "practicas",
+"test": "Supuesto Práctico 4",
+"n": 6,
+"enunciado": "De acuerdo con el artículo 21.3.b) de la Ley 39/2015, el plazo máximo para resolver y notificar se contará desde:",
+"opciones": [
+"El 8 de abril de 2025, en ambos procedimientos.",
+"El 1 de abril de 2025, en el caso del procedimiento iniciado a solicitud del señor Vivas.",
+"El 22 de abril de 2025, en ambos procedimientos.",
+"La fecha de subsanación de su solicitud, en el caso del procedimiento iniciado por el señor Vivas."
+],
+"caso": "caso-38"
+},
+{
+"id": "pr-38-007",
+"origen": "practicas",
+"test": "Supuesto Práctico 4",
+"n": 7,
+"enunciado": "¿Estaban obligados D. Luis Vivas y Dª Claudia Toro a presentar sus solicitudes por medios electrónicos en este procedimiento?",
+"opciones": [
+"Sí, desde el 2 de abril de 2021 todas las personas, tanto físicas como jurídicas, deben relacionarse a través de medios electrónicos.",
+"No, las personas físicas no están obligadas a relacionarse electrónicamente con las Administraciones Públicas en ningún caso.",
+"No, solo las personas jurídicas están obligadas a relacionarse a través de medios electrónicos.",
+"No, salvo que reglamentariamente se impusiera dicha obligación al colectivo de personas físicas al que pertenecieran."
+],
+"caso": "caso-38"
+},
+{
+"id": "pr-38-008",
+"origen": "practicas",
+"test": "Supuesto Práctico 4",
+"n": 8,
+"enunciado": "Según el artículo 57 de la Ley 39/2015, ¿podía el Presidente de la Confederación Hidrográfica del Ebro acordar la acumulación de los procedimientos iniciados a solicitud del señor Vivas y de la señora Toro?",
+"opciones": [
+"Sí, sin que contra el acuerdo de acumulación proceda recurso alguno.",
+"Sí, siempre que no exista oposición expresa de cualquiera de los interesados.",
+"No, por tratarse de procedimientos iniciados por solicitud del interesado.",
+"No, al ser competente para tramitar y resolver el procedimiento el mismo órgano."
+],
+"caso": "caso-38"
+},
+{
+"id": "pr-38-009",
+"origen": "practicas",
+"test": "Supuesto Práctico 4",
+"n": 9,
+"enunciado": "Si no se hubiera acordado ninguna suspensión, ¿cuál fue el último día del plazo máximo para dictar y notificar resolución expresa en el procedimiento iniciado a solicitud de la señora Toro?",
+"opciones": [
+"El 22 de octubre de 2025.",
+"El 8 de octubre de 2025.",
+"El 22 de julio de 2025.",
+"El 8 de julio de 2025."
+],
+"caso": "caso-38"
+},
+{
+"id": "pr-38-010",
+"origen": "practicas",
+"test": "Supuesto Práctico 4",
+"n": 10,
+"enunciado": "De acuerdo con la Ley 39/2015, cuando las notificaciones se practiquen a través de medios electrónicos, ¿cuándo se entenderá cumplida por la Administración la obligación de notificar la resolución?",
+"opciones": [
+"En el momento en que se produzca el acceso a su contenido por los interesados.",
+"Con la puesta a disposición en su sede electrónica o en la dirección electrónica habilitada única.",
+"Transcurridos diez días naturales desde la puesta a disposición de la notificación sin que se acceda a su contenido.",
+"Transcurridos diez días hábiles desde la puesta a disposición de la notificación sin que se acceda a su contenido."
+],
+"caso": "caso-38"
+},
+{
+"id": "pr-38-011",
+"origen": "practicas",
+"test": "Supuesto Práctico 4",
+"n": 11,
+"enunciado": "Conforme al artículo 24 de la Ley 39/2015, ¿actuó correctamente D. Luis Vivas al entender concedida la autorización por silencio administrativo e iniciar la construcción de la pasarela sobre el cauce del río Nela?",
+"opciones": [
+"No, ya que al inicio de las obras aún no había transcurrido el plazo máximo para resolver y notificar.",
+"Sí, puesto que ha de entenderse estimada su solicitud por efecto del silencio administrativo.",
+"No, salvo que hubiera obtenido el certificado acreditativo del silencio producido.",
+"No, porque en este caso el silencio administrativo tiene efecto desestimatorio."
+],
+"caso": "caso-38"
+},
+{
+"id": "pr-38-012",
+"origen": "practicas",
+"test": "Supuesto Práctico 4",
+"n": 12,
+"enunciado": "En relación con la pregunta anterior, ¿qué consideración o qué efectos jurídicos tendrá el silencio administrativo producido?",
+"opciones": [
+"La consideración de acto administrativo finalizador del procedimiento.",
+"La consideración de acto administrativo finalizador del procedimiento, permitiendo interponer los recursos que procedan.",
+"Los solos efectos de permitir la interposición del recurso administrativo o contencioso-administrativo que resulte procedente.",
+"La consideración de acto administrativo firme."
+],
+"caso": "caso-38",
+"sigueA": "pr-38-011"
+},
+{
+"id": "pr-38-013",
+"origen": "practicas",
+"test": "Supuesto Práctico 4",
+"n": 13,
+"enunciado": "Si el Señor Vivas pidiera que le fuera expedido el certificado acreditativo del silencio producido, según la Ley 39/2015:",
+"opciones": [
+"Se denegará la petición, ya que este certificado se expide siempre de oficio.",
+"Se denegará la petición, al ser desestimatorio el sentido del silencio producido.",
+"Se expedirá por el órgano competente para resolver en el plazo de quince días.",
+"Se expedirá por el órgano competente para tramitar en el plazo de quince días hábiles."
+],
+"caso": "caso-38"
+},
+{
+"id": "pr-38-014",
+"origen": "practicas",
+"test": "Supuesto Práctico 4",
+"n": 14,
+"enunciado": "En los procedimientos seguidos por el señor Vivas y la señora Toro, transcurrido el plazo máximo para resolver y notificar, ¿podría el Presidente de la Confederación Hidrográfica del Ebro dictar resolución expresa?",
+"opciones": [
+"Sí, sin vinculación alguna al sentido del silencio.",
+"Solo en caso de que fuera confirmatoria del silencio positivo producido.",
+"Solo en caso de que fuera confirmatoria del silencio negativo producido.",
+"No, puesto que sería extemporánea e incurriría en vicio de anulabilidad."
+],
+"caso": "caso-38"
+},
+{
+"id": "pr-38-015",
+"origen": "practicas",
+"test": "Supuesto Práctico 4",
+"n": 15,
+"enunciado": "Teniendo en cuenta que la normativa reguladora del procedimiento no dispone nada al efecto, ¿podrían el señor Vivas y la señora Toro haber formulado sus pretensiones, de contenido y fundamento idéntico, en una única solicitud?",
+"opciones": [
+"No; solo sería posible si se tratara de procedimientos de responsabilidad patrimonial.",
+"Sí; las actuaciones se entenderían, en todo caso, con quien figure en primer término.",
+"No; solo sería posible si, excepcionalmente, lo permitiera la normativa reguladora del procedimiento.",
+"Sí; las actuaciones se entenderían con quien designasen o, en su defecto, con quien figure en primer término."
+],
+"caso": "caso-38"
+},
+{
+"id": "pr-38-016",
+"origen": "practicas",
+"test": "Supuesto Práctico 4",
+"n": 16,
+"enunciado": "Si el escrito de iniciación se hubiese formulado conjuntamente por el señor Vivas y por la señora Toro, ¿qué efecto produciría el desistimiento efectuado por el señor Vivas?",
+"opciones": [
+"La finalización del procedimiento, salvo que la cuestión suscitada entrañase interés general.",
+"La finalización del procedimiento, salvo que la señora Toro instase su continuación en el plazo de diez días.",
+"El desistimiento solo produciría efectos respecto del señor Vivas, continuando el procedimiento respecto de la señora Toro.",
+"La Administración aceptaría de plano el desistimiento y declararía concluso el procedimiento."
+],
+"caso": "caso-38"
+},
+{
+"id": "pr-38-017",
+"origen": "practicas",
+"test": "Supuesto Práctico 4",
+"n": 17,
+"enunciado": "Si el presidente de la Confederación Hidrográfica del Ebro acordara la apertura de un período de información pública, el plazo para formular alegaciones deberá ser:",
+"opciones": [
+"No inferior a diez días, ni superior a quince.",
+"No superior a quince días.",
+"No inferior a veinte días.",
+"No inferior a diez días, ni superior a veinte."
+],
+"caso": "caso-38"
+},
+{
+"id": "pr-38-018",
+"origen": "practicas",
+"test": "Supuesto Práctico 4",
+"n": 18,
+"enunciado": "Si durante la tramitación del procedimiento la Administración tuviese conocimiento de la existencia de una construcción ilegal en la finca del señor Vivas, según la Ley 39/2015, la Administración:",
+"opciones": [
+"Deberá resolver expresamente la ilegalidad de la construcción por tratarse de una cuestión conexa.",
+"Podrá declarar la ilegalidad de la construcción en la resolución que ponga fin al procedimiento.",
+"Podrá incoar de oficio un nuevo procedimiento al objeto de declarar la ilegalidad de la construcción.",
+"Suspenderá la tramitación del procedimiento e iniciará de oficio uno nuevo a fin de declarar la ilegalidad de la construcción."
+],
+"caso": "caso-38"
+},
+{
+"id": "pr-38-019",
+"origen": "practicas",
+"test": "Supuesto Práctico 4",
+"n": 19,
+"enunciado": "Si la Administración declarase ilegal la pasarela construida por el señor Vivas y ordenase su demolición, ¿a cuál de los siguientes medios de ejecución forzosa podría recurrir, previo apercibimiento, en caso de incumplimiento?",
+"opciones": [
+"Al apremio sobre el patrimonio.",
+"A la multa coercitiva, cuando así lo autoricen las leyes.",
+"A la compulsión sobre las personas.",
+"Al tratarse de un acto cuya ejecución puede el obligado encargar a otra persona, solo cabría la ejecución subsidiaria."
+],
+"caso": "caso-38"
+},
+{
+"id": "pr-38-020",
+"origen": "practicas",
+"test": "Supuesto Práctico 4",
+"n": 20,
+"enunciado": "Señale cuál de los siguientes NO es un derecho del señor Vivas y de la señora Toro, en su condición de interesados en el procedimiento:",
+"opciones": [
+"No presentar documentos salvo que, de manera excepcional, la normativa reguladora aplicable establezca lo contrario.",
+"Conocer, en cualquier momento, el estado de la tramitación del procedimiento.",
+"No presentar datos y documentos que hayan sido elaborados por las Administraciones Públicas.",
+"Identificar a las autoridades y al personal bajo cuya responsabilidad se tramite el procedimiento."
+],
+"caso": "caso-38"
+},
+{
+"id": "pr-38-021",
+"origen": "practicas",
+"test": "Supuesto Práctico 4",
+"n": 21,
+"enunciado": "En el enunciado del supuesto se indica que D.ª Claudia Toro interpuso un recurso administrativo contra el acto presunto. ¿Qué recurso administrativo procedía interponer?",
+"opciones": [
+"Recurso de alzada.",
+"Recurso potestativo de reposición.",
+"Recurso de revisión.",
+"Recurso de apelación."
+],
+"caso": "caso-38"
+},
+{
+"id": "pr-38-022",
+"origen": "practicas",
+"test": "Supuesto Práctico 4",
+"n": 22,
+"enunciado": "De acuerdo con la Ley 39/2015, ¿qué consecuencias tendrá el hecho de que la señora Toro no haya calificado el recurso interpuesto?",
+"opciones": [
+"La ausencia de la calificación del recurso dará lugar a su inadmisión.",
+"La señora Toro deberá ser requerirá para subsanar el defecto, concediéndole al efecto un plazo de diez días hábiles.",
+"La ausencia de la calificación del recurso en ningún caso será obstáculo para su tramitación.",
+"La ausencia de la calificación del recurso no será obstáculo para su tramitación, siempre que se deduzca su verdadero carácter."
+],
+"caso": "caso-38"
+},
+{
+"id": "pr-38-023",
+"origen": "practicas",
+"test": "Supuesto Práctico 4",
+"n": 23,
+"enunciado": "¿Interpuso la señora Toro el recurso administrativo dentro de plazo?",
+"opciones": [
+"No, dado que el último día del plazo para su interposición era el 8 de noviembre de 2025.",
+"No, dado que el último día del plazo para su interposición era el 22 de noviembre de 2025.",
+"Sí, dado que el último día del plazo para su interposición era el 23 de noviembre de 2025.",
+"Sí, dado que podía presentarlo en cualquier momento a partir del día siguiente a aquel en que se produjo el acto presunto."
+],
+"caso": "caso-38"
+},
+{
+"id": "pr-38-024",
+"origen": "practicas",
+"test": "Supuesto Práctico 4",
+"n": 24,
+"enunciado": "En caso de ser admitido, ¿a qué órgano correspondería resolver el recurso interpuesto por la señora Toro?",
+"opciones": [
+"A la Ministra para la Transición Ecológica y el Reto Demográfico.",
+"Al Secretario General Técnico del Ministerio para la Transición Ecológica y el Reto Demográfico.",
+"Al Presidente de la Confederación Hidrográfica del Ebro.",
+"Al superior jerárquico del Presidente de la Confederación Hidrográfica del Ebro."
+],
+"caso": "caso-38"
+},
+{
+"id": "pr-38-025",
+"origen": "practicas",
+"test": "Supuesto Práctico 4",
+"n": 25,
+"enunciado": "Continuando con la pregunta anterior, ¿en qué fecha finalizaría el plazo para notificar la resolución del recurso y cuáles serían, en su caso, los efectos del silencio?",
+"opciones": [
+"El domingo 8 de febrero de 2026. Desestimatorio.",
+"El lunes 9 de febrero de 2026. Desestimatorio.",
+"El domingo 8 de marzo de 2026. Estimatorio.",
+"El lunes 9 de marzo de 2026. Estimatorio."
+],
+"caso": "caso-38",
+"sigueA": "pr-38-024"
+}
+]
+}

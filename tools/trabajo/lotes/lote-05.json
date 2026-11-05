@@ -1,0 +1,514 @@
+{
+"lote": 5,
+"casos": {},
+"calendarios": {},
+"preguntas": [
+{
+"id": "au-10-001",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (10) - Ley 39/2015 (arts. 47 a 52)",
+"n": 1,
+"enunciado": "Según la Ley 39/2015, ¿es posible la convalidación de actos nulos?",
+"opciones": [
+"Sí, mediante su subsanación.",
+"No, en ningún caso.",
+"Sí, en todo caso.",
+"Sí, excepcionalmente."
+]
+},
+{
+"id": "au-10-002",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (10) - Ley 39/2015 (arts. 47 a 52)",
+"n": 2,
+"enunciado": "Según el artículo 47 la Ley 39/2015, los actos administrativos contrarios al ordenamiento jurídico por los que se adquieren facultades o derechos cuando se carezca de los requisitos esenciales para su adquisición:",
+"opciones": [
+"Son actos convalidables, si se subsana el vicio de que adolecen.",
+"Son actos nulos de pleno derecho.",
+"Son actos anulables.",
+"Son actos válidos, pero requieren ser motivados."
+]
+},
+{
+"id": "au-10-003",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (10) - Ley 39/2015 (arts. 47 a 52)",
+"n": 3,
+"enunciado": "La nulidad o anulabilidad en parte de un acto administrativo:",
+"opciones": [
+"No implicará la de las partes del mismo independientes de aquella, salvo que la parte viciada sea de tal importancia que sin ella el acto administrativo no hubiera sido dictado.",
+"Implicará la de todo el acto administrativo.",
+"No implicará la de las partes del mismo independientes de aquella, en ningún caso.",
+"Implicará la de las partes del mismo que no sean independientes."
+]
+},
+{
+"id": "au-10-004",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (10) - Ley 39/2015 (arts. 47 a 52)",
+"n": 4,
+"enunciado": "Según el artículo 47 de la Ley 39/2015, los actos dictados por órgano manifiestamente incompetente por razón de la materia:",
+"opciones": [
+"Podrán ser convalidados por el órgano competente.",
+"Son anulables.",
+"Son nulos de pleno derecho.",
+"Podrán ser convalidados por el órgano competente cuando sea superior jerárquico del que dictó el acto viciado."
+]
+},
+{
+"id": "au-10-005",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (10) - Ley 39/2015 (arts. 47 a 52)",
+"n": 5,
+"enunciado": "¿A qué nos referimos al señalar que la nulidad de un acto no implicará la de los sucesivos en el procedimiento que sean independientes del primero?",
+"opciones": [
+"A los límites a la extensión de la nulidad o anulabilidad de los actos.",
+"A la conservación del acto presunto.",
+"A la convalidación de los actos administrativos.",
+"A la conversión de actos viciados."
+]
+},
+{
+"id": "au-10-006",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (10) - Ley 39/2015 (arts. 47 a 52)",
+"n": 6,
+"enunciado": "El artículo 52 regula la convalidación de los actos administrativos. De los que se relacionan, indique qué actos no son susceptibles de ser convalidados:",
+"opciones": [
+"Los actos que incurran en la falta de alguna autorización.",
+"Los actos dictados prescindiendo total y absolutamente del procedimiento legalmente establecido.",
+"Los actos anulables, subsanando los vicios de que adolezcan.",
+"Los actos dictados por órgano incompetente que no determine su nulidad."
+]
+},
+{
+"id": "au-10-007",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (10) - Ley 39/2015 (arts. 47 a 52)",
+"n": 7,
+"enunciado": "Señale la respuesta correcta en relación con la convalidación de los actos administrativos:",
+"opciones": [
+"Cuando el vicio consista en incompetencia determinante de nulidad, podrá convalidarse por el órgano superior jerárquico del que dictó el acto viciado.",
+"La Administración podrá convalidar los actos nulos de pleno derecho, subsanando los vicios de que adolezcan.",
+"Si el vicio consistiese en falta de alguna autorización, podrá convalidarse mediante su otorgamiento por el órgano competente.",
+"Como regla general, la convalidación producirá efecto desde la fecha en que fue dictado el acto convalidado."
+]
+},
+{
+"id": "au-10-008",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (10) - Ley 39/2015 (arts. 47 a 52)",
+"n": 8,
+"enunciado": "¿Cuáles de los siguientes actos no serían nulos de pleno derecho?",
+"opciones": [
+"Aquellos que tengan un contenido imposible.",
+"Los dictados por órgano manifiestamente incompetente por razón de la materia o del territorio.",
+"Los que incurran en defecto de forma que produzca indefensión al interesado.",
+"Los dictados prescindiendo totalmente del procedimiento legalmente establecido para ello."
+]
+},
+{
+"id": "au-10-009",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (10) - Ley 39/2015 (arts. 47 a 52)",
+"n": 9,
+"enunciado": "La Ley del Procedimiento Administrativo Común de las Administraciones Públicas califica en su artículo 47 como nulos de pleno derecho los actos de las Administraciones Públicas que:",
+"opciones": [
+"Sean dictados prescindiendo parcialmente del procedimiento legalmente establecido.",
+"Reconozcan derechos susceptibles de amparo constitucional.",
+"Sean dictados por órgano manifiestamente incompetente por razón del territorio.",
+"Sean contrarios al ordenamiento jurídico."
+]
+},
+{
+"id": "au-10-010",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (10) - Ley 39/2015 (arts. 47 a 52)",
+"n": 10,
+"enunciado": "Señale la respuesta correcta en relación con la nulidad o anulabilidad de un acto administrativo:",
+"opciones": [
+"Implica, en todo caso, la de los sucesivos actos del procedimiento.",
+"No implica la de los sucesivos en el procedimiento que sean independientes del primero.",
+"No implica, en ningún caso, la de los sucesivos actos del procedimiento.",
+"No implica, en ningún caso, la de los sucesivos en el procedimiento que sean dependientes del primero."
+]
+},
+{
+"id": "au-10-011",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (10) - Ley 39/2015 (arts. 47 a 52)",
+"n": 11,
+"enunciado": "Señale la respuesta incorrecta en relación con la convalidación de actos administrativos:",
+"opciones": [
+"Si faltase alguna autorización, podrá ser convalidado mediante su otorgamiento por el órgano competente.",
+"Si el vicio consistiera en incompetencia no determinante de nulidad, podrá convalidarse por el órgano competente cuando sea superior jerárquico del que dictó el acto viciado.",
+"La Administración podrá convalidar los actos anulables, subsanando los vicios de que adolezcan.",
+"La Administración podrá convalidar los actos nulos y anulables, subsanando los vicios de que adolezcan."
+]
+},
+{
+"id": "au-10-012",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (10) - Ley 39/2015 (arts. 47 a 52)",
+"n": 12,
+"enunciado": "Según el artículo 47 de la Ley 39/2015, señale qué actos de las Administraciones Públicas son nulos de pleno derecho:",
+"opciones": [
+"Los que incurran en cualquier infracción del ordenamiento jurídico, salvo la desviación de poder.",
+"Los que sean dictados faltando alguna autorización.",
+"Los dictados con defectos de forma que den lugar a la indefensión de los interesados.",
+"Los que lesionen los derechos y libertades susceptibles de amparo constitucional."
+]
+},
+{
+"id": "au-10-013",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (10) - Ley 39/2015 (arts. 47 a 52)",
+"n": 13,
+"enunciado": "Señale la afirmación correcta en relación con la nulidad y anulabilidad de los actos administrativos:",
+"opciones": [
+"El órgano que declare la nulidad de actuaciones dispondrá dejar sin efecto todos los actos y trámites.",
+"Con carácter general el acto de convalidación producirá efectos desde la fecha en que se dictó el acto convalidado.",
+"La Administración podrá convalidar los actos nulos de pleno derecho, subsanando los vicios de que adolezcan.",
+"El acto de convalidación producirá efecto desde su fecha, salvo lo dispuesto para la retroactividad de los actos administrativos."
+]
+},
+{
+"id": "au-10-014",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (10) - Ley 39/2015 (arts. 47 a 52)",
+"n": 14,
+"enunciado": "¿Cuáles de los siguientes actos serían nulos de pleno derecho?",
+"opciones": [
+"Los que se establezca expresamente en una disposición con rango de Ley o reglamento.",
+"Los dictados prescindiendo del trámite de audiencia al interesado.",
+"Los que sean constitutivos de infracción penal o se dicten como consecuencia de esta.",
+"Los dictados por órgano jerárquicamente incompetente."
+]
+},
+{
+"id": "au-10-015",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (10) - Ley 39/2015 (arts. 47 a 52)",
+"n": 15,
+"enunciado": "Los actos de las Administraciones Públicas que tengan un contenido imposible:",
+"opciones": [
+"Son nulos de pleno derecho, según lo dispuesto en el artículo 47 de la Ley 39/2015.",
+"Son nulos de pleno derecho según lo dispuesto en el artículo 48 de la Ley 39/2015.",
+"Son anulables, según lo dispuesto en el artículo 48 de la Ley 39/2015.",
+"Son anulables, según lo dispuesto en el artículo 47 de la Ley 39/2015."
+]
+},
+{
+"id": "au-11-001",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (11) - Ley 39/2015 (arts. 53 a 57)",
+"n": 1,
+"enunciado": "De acuerdo con el artículo 53 de la Ley 39/2015, ¿cuál de los siguientes derechos corresponde exclusivamente a los interesados en un procedimiento administrativo?",
+"opciones": [
+"A ser asistidos en el uso de medios electrónicos en sus relaciones con las Administraciones Públicas.",
+"A actuar asistidos de asesor cuando lo consideren conveniente en defensa de sus intereses.",
+"A exigir responsabilidades de las Administraciones Públicas y autoridades.",
+"A ser tratados con respeto y deferencia por las autoridades y empleados públicos."
+]
+},
+{
+"id": "au-11-002",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (11) - Ley 39/2015 (arts. 53 a 57)",
+"n": 2,
+"enunciado": "Según el artículo 53 de la Ley 39/2015, de 1 de octubre, los interesados en un procedimiento administrativo tienen, entre otros, uno de los siguientes derechos. Señale cuál:",
+"opciones": [
+"A no presentar documentos originales en el procedimiento, sin excepciones.",
+"A obtener asistencia jurídica gratuita.",
+"A formular alegaciones en cualquier fase del procedimiento anterior a la resolución.",
+"A obtener copia de los documentos contenidos en los procedimientos en los que tengan la condición de interesados."
+]
+},
+{
+"id": "au-11-003",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (11) - Ley 39/2015 (arts. 53 a 57)",
+"n": 3,
+"enunciado": "De acuerdo con el artículo 54 de la Ley 39/2015, los procedimientos administrativos podrán iniciarse:",
+"opciones": [
+"De oficio, a solicitud del interesado o por denuncia.",
+"De oficio o por denuncia.",
+"De oficio o a solicitud del interesado.",
+"Únicamente de oficio."
+]
+},
+{
+"id": "au-11-004",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (11) - Ley 39/2015 (arts. 53 a 57)",
+"n": 4,
+"enunciado": "Según el artículo 55 de la Ley 39/2015, con anterioridad al inicio del procedimiento, con el fin de conocer las circunstancias del caso concreto y la conveniencia o no de iniciar el procedimiento, el órgano competente podrá abrir un período de:",
+"opciones": [
+"Información o actuaciones previas.",
+"Información o actuaciones complemetarias.",
+"Información pública.",
+"Audiencia a los interesados."
+]
+},
+{
+"id": "au-11-005",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (11) - Ley 39/2015 (arts. 53 a 57)",
+"n": 5,
+"enunciado": "Señala la respuesta incorrecta. De acuerdo con el artículo 56 de la Ley 39/2015, de 1 de octubre, se podrán acordar las siguientes medidas provisionales:",
+"opciones": [
+"Prestación de fianzas.",
+"Depósito, retención o inmovilización de cosa mueble.",
+"Retención de ingresos a cuenta que deban abonar las Administraciones Públicas.",
+"Intervención y depósito de ingresos obtenidos mediante una actividad que se considere lícita."
+]
+},
+{
+"id": "au-11-006",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (11) - Ley 39/2015 (arts. 53 a 57)",
+"n": 6,
+"enunciado": "Según el artículo 56 de la Ley 39/2015, las medidas provisionales adoptadas antes de la iniciación del procedimiento deberán ser confirmadas, modificadas o levantadas en el acuerdo de iniciación del mismo, que deberá efectuarse:",
+"opciones": [
+"Dentro de los treinta días siguientes a su adopción, el cual no podrá ser objeto de recurso.",
+"Dentro de los treinta días siguientes a su adopción, el cual podrá ser objeto del recurso que proceda.",
+"Dentro de los quince días siguientes a su adopción, el cual no podrá ser objeto de recurso.",
+"Dentro de los quince días siguientes a su adopción, el cual podrá ser objeto del recurso que proceda."
+]
+},
+{
+"id": "au-11-007",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (11) - Ley 39/2015 (arts. 53 a 57)",
+"n": 7,
+"enunciado": "Las medidas provisionales para asegurar la eficacia de la resolución que pudiera recaer en el procedimiento se adoptarán, según el artículo 56.1 de la Ley 39/205, de acuerdo con los principios de:",
+"opciones": [
+"Proporcionalidad, efectividad y menor onerosidad.",
+"Provisionalidad, eficacia y eficiencia.",
+"Transparencia y publicidad.",
+"Contradicción e igualdad de los interesados en el procedimiento."
+]
+},
+{
+"id": "au-11-008",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (11) - Ley 39/2015 (arts. 53 a 57)",
+"n": 8,
+"enunciado": "Según el artículo 56 de la Ley 39/2015, de 1 de octubre, antes de la iniciación del procedimiento administrativo, podrá adoptar las medidas provisionales que resulten necesarias y proporcionadas:",
+"opciones": [
+"El órgano competente para iniciar o instruir el procedimiento.",
+"El órgano administrativo competente para resolver.",
+"El superior jerárquico del órgano administrativo competente para iniciar o instruir el procedimiento.",
+"El superior jerárquico del órgano administrativo competente para resolver."
+]
+},
+{
+"id": "au-11-009",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (11) - Ley 39/2015 (arts. 53 a 57)",
+"n": 9,
+"enunciado": "Señale la respuesta incorrecta en relación con la acumulación de procedimientos administrativos, de acuerdo con lo previsto en el artículo 57 de la Ley 39/2015:",
+"opciones": [
+"Podrá acordarse por el órgano administrativo que inicie o tramite un procedimiento.",
+"Solo cabe cuando la competencia para tramitar y resolver se atribuye a órganos distintos.",
+"Podrá adoptarse de oficio o a instancia de parte.",
+"Contra el acuerdo de acumulación no procederá recurso alguno."
+]
+},
+{
+"id": "au-11-010",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (11) - Ley 39/2015 (arts. 53 a 57)",
+"n": 10,
+"enunciado": "Señala la respuesta incorrecta en relación con la adopción de medidas provisionales, según el artículo 56 de la Ley 39/2015:",
+"opciones": [
+"Podrán ser alzadas o modificadas durante la tramitación del procedimiento en virtud de circunstancias sobrevenidas.",
+"No se podrán adoptar medidas provisionales que puedan causar perjuicio de difícil o imposible reparación a los interesados.",
+"No cabrá su adopción antes de la iniciación del procedimiento administrativo.",
+"En todo caso, se extinguirán cuando surta efectos la resolución administrativa que ponga fin al procedimiento."
+]
+},
+{
+"id": "au-11-011",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (11) - Ley 39/2015 (arts. 53 a 57)",
+"n": 11,
+"enunciado": "Según el artículo 56 de la Ley 39/2015, iniciado el procedimiento administrativo, podrá adoptar las medidas provisionales que estime oportunas para asegurar la eficacia de la resolución que pudiera recaer:",
+"opciones": [
+"El superior jerárquico del órgano administrativo competente para resolver.",
+"El órgano administrativo competente para resolver.",
+"El órgano competente para iniciar o instruir el procedimiento.",
+"El superior jerárquico del órgano administrativo competente para iniciar o instruir el procedimiento."
+]
+},
+{
+"id": "au-11-012",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (11) - Ley 39/2015 (arts. 53 a 57)",
+"n": 12,
+"enunciado": "Señale la respuesta incorrecta en relación con el período de información o actuaciones previas a que se refiere el artículo 55 de la Ley 39/2015:",
+"opciones": [
+"Serán realizadas por los órganos que tengan atribuidas funciones de investigación, averiguación e inspección en la materia.",
+"En el caso de procedimientos de naturaleza sancionadora resultará obligatoria la práctica de actuaciones previas.",
+"Tendrán como fin conocer las circunstancias del caso concreto y la conveniencia o no de iniciar el procedimiento.",
+"Se practicarán, en su caso, con anterioridad al inicio del procedimiento."
+]
+},
+{
+"id": "au-12-001",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (12) - Ley 39/2015 (arts. 58 a 65)",
+"n": 1,
+"enunciado": "Señale la respuesta incorrecta. Según el artículo 58 de la Ley 39/2015, los procedimientos se iniciarán de oficio por acuerdo del órgano competente, bien:",
+"opciones": [
+"Como consecuencia de orden superior.",
+"A solicitud de interesado.",
+"A petición razonada de otros órganos.",
+"Por propia iniciativa."
+]
+},
+{
+"id": "au-12-002",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (12) - Ley 39/2015 (arts. 58 a 65)",
+"n": 2,
+"enunciado": "De acuerdo con el artículo 61 de la Ley 39/2015, señale la respuesta correcta en relación con los procedimientos iniciados por petición razonada de otros órganos:",
+"opciones": [
+"Solo cabrá petición razonada de apertura en procedimientos de naturaleza sancionadora.",
+"Deberá comunicarse al órgano que hubiera formulado la petición los motivos por los que, en su caso, no procede la iniciación.",
+"La petición procederá de un órgano administrativo superior jerárquico del competente para la iniciación del procedimiento.",
+"La petición vincula al órgano competente para iniciar el procedimiento."
+]
+},
+{
+"id": "au-12-003",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (12) - Ley 39/2015 (arts. 58 a 65)",
+"n": 3,
+"enunciado": "Indique la respuesta correcta en relación con el inicio del procedimiento por denuncia, de acuerdo con lo dispuesto en el artículo 62 de la Ley 39/2015:",
+"opciones": [
+"Cuando la denuncia invocara un perjuicio en el patrimonio del denunciante la no iniciación deberá ser motivada.",
+"Las denuncias deberán expresar la identidad de la persona o personas que las presentan.",
+"El denunciante, en ningún caso, podrá ostentar la condición de interesado.",
+"La presentación de una denuncia confiere la condición de interesado en el procedimiento."
+]
+},
+{
+"id": "au-12-004",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (12) - Ley 39/2015 (arts. 58 a 65)",
+"n": 4,
+"enunciado": "Según el artículo 65 de la Ley 39/2015, en los procedimientos de responsabilidad patrimonial iniciados de oficio ¿qué plazo se les concederá a los particulares presuntamente lesionados para aportar cuantas alegaciones, documentos o informaciones estimen conveniente a su derecho y propongan cuantas pruebas sean pertinentes para el reconocimiento del mismo?",
+"opciones": [
+"Cinco días.",
+"Veinte días.",
+"Quince días.",
+"Diez días."
+]
+},
+{
+"id": "au-12-005",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (12) - Ley 39/2015 (arts. 58 a 65)",
+"n": 5,
+"enunciado": "Indique la respuesta correcta en relación con los procedimientos de naturaleza sancionadora:",
+"opciones": [
+"Se iniciarán siempre de oficio por acuerdo del órgano competente.",
+"Excepcionalmente, se podrá imponer una sanción sin que se haya tramitado el oportuno procedimiento.",
+"Los procedimientos de naturaleza sancionadora podrán iniciarse de oficio o por denuncia.",
+"Se encomendará al mismo órgano la fase instructora y la sancionadora."
+]
+},
+{
+"id": "au-12-006",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (12) - Ley 39/2015 (arts. 58 a 65)",
+"n": 6,
+"enunciado": "De conformidad con el artículo 64 de la Ley 39/2015, en los procedimientos de naturaleza sancionadora el acuerdo de iniciación deberá contener, al menos:",
+"opciones": [
+"Los hechos que se consideran probados.",
+"Identificación de la persona o personas presuntamente responsables.",
+"El importe exacto de la sanción definitiva.",
+"El órgano competente para resolver el recurso que pueda interponerse contra la sanción definitiva."
+]
+},
+{
+"id": "au-12-007",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (12) - Ley 39/2015 (arts. 58 a 65)",
+"n": 7,
+"enunciado": "De acuerdo con el artículo 65 de la Ley 39/2015, las Administraciones Públicas podrán iniciar de oficio un procedimiento de responsabilidad patrimonial:",
+"opciones": [
+"Siempre que el presunto lesionado lo autorice de forma expresa.",
+"Siempre que no haya caducado el derecho a la reclamación del interesado.",
+"Siempre que el presunto lesionado lo autorice de forma tácita o expresa.",
+"Siempre que no haya prescrito el derecho a la reclamación del interesado."
+]
+},
+{
+"id": "au-12-008",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (12) - Ley 39/2015 (arts. 58 a 65)",
+"n": 8,
+"enunciado": "Conforme a lo dispuesto en el artículo 64.3 de la Ley 39/2015, en los procedimientos de naturaleza sancionadora, la calificación inicial de los hechos que motivan la incoación del procedimiento:",
+"opciones": [
+"Como regla general se realizará mediante la elaboración de un Pliego de cargos.",
+"Se realizará, en todo caso, en el acuerdo de iniciación.",
+"Excepcionalmente, podrá realizarse en el acuerdo de iniciación.",
+"Excepcionalmente, podrá realizarse mediante la elaboración de un Pliego de cargos."
+]
+},
+{
+"id": "au-12-009",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (12) - Ley 39/2015 (arts. 58 a 65)",
+"n": 9,
+"enunciado": "Indique en qué supuesto la no iniciación del procedimiento será motivada, debiéndose notificar a los denunciantes la decisión de si se ha iniciado o no el procedimiento:",
+"opciones": [
+"Cuando la denuncia invocara un perjuicio en el patrimonio de las Administraciones Públicas.",
+"Cuando el denunciante, de forma expresa, solicite ser informado de los trámites realizados tras la presentación de la denuncia.",
+"Cuando la denuncia exprese la identidad de la persona o personas que las presentan.",
+"Cuando la denuncia invocara un perjuicio en el patrimonio del denunciante."
+]
+},
+{
+"id": "au-12-010",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (12) - Ley 39/2015 (arts. 58 a 65)",
+"n": 10,
+"enunciado": "De acuerdo con el artículo 62.4 de la Ley 39/2015, cuando un denunciante, que haya participado en la comisión de una infracción que provoque un perjuicio en el patrimonio de las Administraciones Públicas, facilite elementos de prueba que aporten un valor añadido significativo respecto de aquellos de los que se disponga, pero no repare el perjuicio causado, el órgano competente para resolver:",
+"opciones": [
+"Deberá eximir al denunciante del pago de la multa que le correspondería u otro tipo de sanción de carácter no pecuniario.",
+"Podrá eximir al denunciante del pago de la multa que le correspondería u otro tipo de sanción de carácter no pecuniario.",
+"No podrá eximir al denunciante del pago de la multa, ni reducir el importe de la misma.",
+"Deberá reducir el importe del pago de la multa que le correspondería o, en su caso, la sanción de carácter no pecuniario."
+]
+},
+{
+"id": "au-12-011",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (12) - Ley 39/2015 (arts. 58 a 65)",
+"n": 11,
+"enunciado": "Según el artículo 65 de la Ley 39/2015, si las Administraciones Públicas decidan iniciar de oficio un procedimiento de responsabilidad patrimonial y los particulares presuntamente lesionados no se personan en el plazo establecido, el procedimiento iniciado:",
+"opciones": [
+"Se archivará.",
+"Se suspenderá.",
+"Se instruirá.",
+"Caducará."
+]
+},
+{
+"id": "au-12-012",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (12) - Ley 39/2015 (arts. 58 a 65)",
+"n": 12,
+"enunciado": "Según el artículo 63.3 de la Ley 39/2015, cuando el infractor persista en la comisión continuada de hechos o conductas tipificadas como infracciones, no se podrán iniciar nuevos procedimientos de carácter sancionador:",
+"opciones": [
+"En tanto no haya recaído una primera resolución sancionadora, con carácter ejecutivo.",
+"En tanto no haya recaído una primera resolución absolutoria.",
+"En tanto no haya sido ejecutada la primera resolución sancionadora.",
+"En tanto no haya sido recurrida la primera resolución sancionadora."
+]
+}
+]
+}

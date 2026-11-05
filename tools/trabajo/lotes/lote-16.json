@@ -1,0 +1,111 @@
+{
+"lote": 16,
+"casos": {},
+"calendarios": {},
+"preguntas": [
+{
+"id": "of-14-001",
+"origen": "oficiales",
+"test": "Temas 2-3 (14) - Ley 39/2015 (arts. 127 a 133)",
+"n": 1,
+"enunciado": "En relación con el proyecto de Orden ministerial en materia sancionadora indicado en el enunciado, ¿pueden tipificarse nuevas infracciones administrativas en esta norma que se está elaborando?",
+"opciones": [
+"No, en ningún caso.",
+"No, solo podrían tipificarse nuevas sanciones administrativas.",
+"Sí, siempre que se trate de infracciones administrativas leves.",
+"Sí, puesto que no se vulneraría con ello ninguna norma."
+]
+},
+{
+"id": "of-14-002",
+"origen": "oficiales",
+"test": "Temas 2-3 (14) - Ley 39/2015 (arts. 127 a 133)",
+"n": 2,
+"enunciado": "Señale en virtud de qué principio de buena regulación, previsto en el artículo 129 de la Ley 39/2015, se definirán claramente los objetivos de las iniciativas normativas y su justificación en el preámbulo o exposición de motivos:",
+"opciones": [
+"Principio de eficacia.",
+"Principio de transparencia.",
+"Principio de necesidad.",
+"Principio de seguridad jurídica."
+]
+},
+{
+"id": "of-14-003",
+"origen": "oficiales",
+"test": "Temas 2-3 (14) - Ley 39/2015 (arts. 127 a 133)",
+"n": 3,
+"enunciado": "Según la Ley 39/2015, las habilitaciones para el desarrollo reglamentario de una ley serán conferidas, con carácter general:",
+"opciones": [
+"A otros órganos dependientes o subordinados a los titulares de los departamentos ministeriales o de las consejerías de los gobiernos autonómicos.",
+"Al Gobierno o Consejo de Gobierno respectivo.",
+"Al Gobierno o Consejo de Gobierno respectivo o a los titulares de los departamentos ministeriales o de las consejerías de los gobiernos autonómicos.",
+"A los titulares de los departamentos ministeriales o de las consejerías de los gobiernos autonómicos."
+]
+},
+{
+"id": "of-14-004",
+"origen": "oficiales",
+"test": "Temas 2-3 (14) - Ley 39/2015 (arts. 127 a 133)",
+"n": 4,
+"enunciado": "De acuerdo con la Ley 39/2015, de 1 de octubre, el ejercicio de la potestad reglamentaria corresponde:",
+"opciones": [
+"Exclusivamente al Gobierno de la Nación.",
+"Al Gobierno de la Nación y a las Cortes Generales.",
+"Al Gobierno de la Nación en materias transversales y al Gobierno de las Comunidades Autónomas en materias fiscales.",
+"Al Gobierno de la Nación, a los órganos de Gobierno de las Comunidades Autónomas, y a los órganos de gobierno locales."
+]
+},
+{
+"id": "of-14-005",
+"origen": "oficiales",
+"test": "Temas 2-3 (14) - Ley 39/2015 (arts. 127 a 133)",
+"n": 5,
+"enunciado": "Podrá prescindirse del trámite de audiencia e información pública durante el procedimiento de elaboración de normas con rango de Ley y reglamentos cuando la propuesta normativa:",
+"opciones": [
+"Regule aspectos parciales de una materia.",
+"No tenga un impacto significativo en la actividad económica.",
+"No imponga obligaciones relevantes a los destinatarios.",
+"Sea de naturaleza presupuestaria u organizativa."
+]
+},
+{
+"id": "of-14-006",
+"origen": "oficiales",
+"test": "Temas 2-3 (14) - Ley 39/2015 (arts. 127 a 133)",
+"n": 6,
+"enunciado": "Indique la respuesta correcta en referencia al Plan Anual Normativo previsto en el artículo 25 de la Ley 50/1997, de 27 de noviembre, del Gobierno:",
+"opciones": [
+"El Ministro de la Presidencia lo elevará al Consejo de Ministros para su aprobación antes del 1 de junio.",
+"El Ministro de la Presidencia lo elevará al Consejo de Ministros para su aprobación antes del 31 de diciembre.",
+"El Ministro de la Presidencia lo elevará al Consejo de Ministros para su aprobación antes del 31 de octubre.",
+"El Ministro de la Presidencia lo elevará al Consejo de Ministros para su aprobación antes del 30 de abril."
+]
+},
+{
+"id": "of-14-007",
+"origen": "oficiales",
+"test": "Temas 2-3 (14) - Ley 39/2015 (arts. 127 a 133)",
+"n": 7,
+"enunciado": "¿Cómo debe proceder un órgano proponente de una norma que no figure en el Plan Anual Normativo, al elevarlo para su aprobación por el competente, según el artículo 25.3 de la Ley 50/1997, de 27 de noviembre, del Gobierno?",
+"opciones": [
+"Debe justificarlo mediante un informe motivado de la Secretaría General Técnica de su departamento ministerial.",
+"Debe justificarlo en su comparecencia ante el Congreso de los Diputados, en su sesión deliberativa sobre la propuesta normativa.",
+"Debe justificarlo ante el Consejo de Ministros en su sesión deliberativa sobre la propuesta normativa.",
+"Debe justificarlo en la Memoria del Análisis de Impacto Normativo."
+]
+},
+{
+"id": "of-14-008",
+"origen": "oficiales",
+"test": "Temas 2-3 (14) - Ley 39/2015 (arts. 127 a 133)",
+"n": 8,
+"enunciado": "¿Qué órgano eleva el Plan Anual Normativo al Consejo de Ministros, según el literal del artículo 25 de la Ley 50/1997, de 27 de noviembre, del Gobierno?",
+"opciones": [
+"La Secretaría General Técnica del Ministerio de Justicia.",
+"El Abogado General del Estado.",
+"La Ministra de Hacienda.",
+"El Ministro de la Presidencia."
+]
+}
+]
+}

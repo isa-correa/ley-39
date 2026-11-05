@@ -1,0 +1,232 @@
+{
+"vo-01-008": {
+  "bloque": "fuentes",
+  "precepto": "Art. 24.1.c) de la Ley 50/1997",
+  "correcta": 2,
+  "justificaciones": [
+    "No. Los Reales Decretos Legislativos y los Reales Decretos-leyes aprueban las normas de los arts. 82 y 86 de la Constitución, que tienen rango de ley (art. 24.1.a). Te han cambiado eso por “normas reglamentarias”, y los reglamentos no tienen ese rango.",
+    "No. Sobran los “Secretarios de Estado”. Las Órdenes Ministeriales son disposiciones y resoluciones solo de los Ministros (art. 24.1.f).",
+    "Es esta. Coincide con el **art. 24.1.c) de la Ley 50/1997**: lo que aprueba el Consejo de Ministros como reglamento de su competencia, y las resoluciones que deban tener esa forma, sale como Real Decreto acordado en Consejo de Ministros.",
+    "No. El “Real Decreto del Ministro de Presidencia” no existe. Lo que decide una Comisión Delegada es un Acuerdo, que toma forma de Orden del Ministro competente, o del Ministro de la Presidencia si la competencia es de varios Ministros (art. 24.1.e)."
+  ],
+  "ojo": "Real Decreto solo hay del Presidente del Gobierno o acordado en Consejo de Ministros. Un Ministro, por sí solo, dicta Órdenes."
+},
+"vo-01-009": {
+  "bloque": "fuentes",
+  "precepto": "Art. 24.1.f) de la Ley 50/1997",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. El **art. 24.1.f) de la Ley 50/1997** dice que, si afecta a varios Departamentos (varios Ministerios), toma forma de “Orden del Ministro de la Presidencia”, dictada a propuesta de los Ministros interesados. Sigue siendo una Orden, porque la decisión sigue siendo de nivel ministerial.",
+    "No. Un Ministro no dicta Reales Decretos: esa forma es solo del Presidente del Gobierno o del Consejo de Ministros. Lo bueno es “Orden” del Ministro de la Presidencia.",
+    "No. La propuesta de los Ministros interesados sí está en la norma, pero la forma es Orden del Ministro de la Presidencia, no Real Decreto.",
+    "No. El Acuerdo del Consejo de Ministros es para decisiones de ese órgano que no deban ser Real Decreto (art. 24.1.d). Aquí la decisión es de Ministros, no del Consejo."
+  ]
+},
+"vo-01-010": {
+  "bloque": "fuentes",
+  "precepto": "Art. 24.2 de la Ley 50/1997",
+  "correcta": 3,
+  "justificaciones": [
+    "No. Entre reglamentos sí hay jerarquía. La fija el art. 24.2 de la Ley 50/1997, y además el art. 128.3 de la Ley 39/2015 dice que una disposición administrativa no puede vulnerar otra de rango superior.",
+    "No. Los Reales Decretos-leyes y los Reales Decretos Legislativos no son reglamentos: son normas con rango de ley (arts. 82 y 86 CE). Por eso no entran en esta escala.",
+    "No. El Real Decreto del Presidente y el acordado en Consejo de Ministros están en el mismo escalón, el primero (art. 24.2.1.º). Ninguno está por encima del otro.",
+    "Es esta. El **art. 24.2 de la Ley 50/1997** tiene dos escalones: primero, lo aprobado por Real Decreto (del Presidente o acordado en Consejo de Ministros); segundo, lo aprobado por Orden Ministerial. Por tanto, el Real Decreto manda sobre la Orden."
+  ]
+},
+"vo-01-011": {
+  "bloque": "fuentes",
+  "precepto": "Art. 24.2 de la Ley 50/1997",
+  "correcta": 1,
+  "justificaciones": [
+    "No. Tiene dos fallos. Mete Reales Decretos Legislativos y Reales Decretos-leyes, que tienen rango de ley y no son reglamentos. Y separa en dos escalones el Real Decreto del Presidente y el del Consejo de Ministros, cuando comparten el primero.",
+    "Es esta. Son los dos escalones del **art. 24.2 de la Ley 50/1997**: 1.º lo aprobado por Real Decreto del Presidente o acordado en Consejo de Ministros; 2.º lo aprobado por Orden Ministerial. Dos niveles, fáciles de recordar: Real Decreto arriba, Orden abajo.",
+    "No. El primer escalón es inventado: los Reales Decretos Legislativos y los Reales Decretos-leyes son normas con rango de ley, no reglamentos. Además, se olvida de la Orden Ministerial.",
+    "No. Sí hay jerarquía entre reglamentos, y por eso la ley los ordena en dos niveles (art. 24.2). Decir que todos tienen el mismo rango va contra esa ordenación."
+  ],
+  "ojo": "El enunciado cita el art. 23 porque ahí estaba esta regla cuando se puso la pregunta (2013). Desde el 2 de octubre de 2016 la jerarquía está en el art. 24.2, y el art. 23 habla de la entrada en vigor. El contenido es el mismo."
+},
+"vo-01-012": {
+  "bloque": "actos",
+  "precepto": "Art. 37.1 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+    "No. Eso es el principio de jerarquía (art. 128.3 de la Ley 39/2015): compara un reglamento con otro de rango superior. La inderogabilidad singular compara un acto concreto con un reglamento.",
+    "No. Pone como protagonista a otro reglamento, y el principio no va de eso. Lo que no puede saltarse un reglamento es una resolución para un caso particular (art. 37.1).",
+    "No. Es la misma confusión: habla de un reglamento que deroga otro. El art. 37.1 se refiere a resoluciones particulares, es decir, a actos administrativos.",
+    "Es esta. Es casi literal el **art. 37.1 de la Ley 39/2015**: una resolución para un caso concreto no puede saltarse una norma general, aunque venga de un órgano de igual o superior jerarquía. Por ejemplo: un Ministro no puede exceptuar a una sola empresa de lo que dice una Orden Ministerial. Si quiere cambiar la regla, tiene que cambiar la norma para todos."
+  ],
+  "ojo": "Palabra clave: “singular”. Significa “para un caso”. Va de un acto contra un reglamento, nunca de un reglamento contra otro."
+},
+"vo-01-013": {
+  "bloque": "fuentes",
+  "precepto": "Art. 82.2 y 82.5 de la Constitución",
+  "correcta": 2,
+  "justificaciones": [
+    "No. Falla dos veces. Para refundir se usa ley ordinaria, no ley de bases (art. 82.2 CE). Y no “debe” limitarse a un texto único: la autorización puede también permitir regularizar, aclarar y armonizar (art. 82.5 CE).",
+    "No. La segunda parte es buena, pero la ley de bases es para textos articulados. Para refundir se usa ley ordinaria (art. 82.2 CE).",
+    "Es esta. Refundir se autoriza por ley ordinaria (**art. 82.2 CE**). Y la autorización dice hasta dónde llega: solo juntar los textos en uno, o también regularizarlos, aclararlos y armonizarlos (**art. 82.5 CE**). Así que “puede incluir” esas tareas.",
+    "No. La ley ordinaria es correcta, pero sobra el “debe”. La mera formulación de un texto único es una de las dos posibilidades, no la única (art. 82.5 CE)."
+  ],
+  "ojo": "Regla rápida: texto articulado, ley de bases. Texto refundido, ley ordinaria."
+},
+"vo-01-014": {
+  "bloque": "fuentes",
+  "precepto": "Art. 82.2 de la Constitución",
+  "correcta": 2,
+  "justificaciones": [
+    "No. Se parece por la palabra, pero “bases” aquí no significa normativa básica del Estado. Son los principios y criterios que se le dan al Gobierno para redactar un texto articulado (art. 82.4 CE).",
+    "No. Una ley de bases no tiene más rango que una ley ordinaria: las dos son leyes aprobadas por las Cortes. El art. 82 CE solo les da funciones distintas.",
+    "Es esta. El **art. 82.2 CE** dice que la delegación se otorga por ley de bases cuando su objeto es “la formación de textos articulados”. Las Cortes marcan las pautas y el Gobierno redacta el texto completo en forma de artículos.",
+    "No. La convalidación por el Congreso es propia de los decretos-leyes (art. 86.2 CE). La ley de bases la aprueban las propias Cortes, así que nadie tiene que convalidarla."
+  ]
+},
+"vo-01-015": {
+  "bloque": "fuentes",
+  "precepto": "Art. 84 de la Constitución",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. Lo dice el **art. 84 CE**: si una proposición de ley (o una enmienda) va contra una delegación legislativa en vigor, el Gobierno puede oponerse a que se tramite. Tiene sentido: las Cortes ya le han encargado esa tarea y no conviene pisarla.",
+    "No. Han cambiado la ley: para refundir textos legales es ley ordinaria. La ley de bases es para formar textos articulados (art. 82.2 CE).",
+    "No. Es justo lo contrario: la delegación “se agota” cuando el Gobierno la usa y publica la norma (art. 82.3 CE). Solo sirve una vez.",
+    "No. Sí pueden. Sin perjuicio de la competencia de los Tribunales, las leyes de delegación “podrán establecer” fórmulas adicionales de control (art. 82.6 CE)."
+  ]
+},
+"vo-01-016": {
+  "bloque": "fuentes",
+  "precepto": "Art. 86.2 de la Constitución",
+  "correcta": 2,
+  "justificaciones": [
+    "No. El Gobierno es quien dicta el decreto-ley (art. 86.1 CE). No puede ser también quien lo convalide, que es dar el visto bueno a lo que ha hecho.",
+    "No. Es demasiado amplio. Las Cortes Generales son Congreso y Senado, y aquí solo interviene el Congreso (art. 86.2 CE).",
+    "Es esta. El **art. 86.2 CE** dice que el Congreso de los Diputados se pronuncia expresamente sobre su convalidación o derogación, en los treinta días siguientes a su promulgación.",
+    "No. El Senado no participa en la convalidación. El art. 86.2 CE solo habla del Congreso."
+  ],
+  "ojo": "La trampa típica es “Cortes Generales”. Las Cortes sí aparecen en el art. 86.3 CE, para tramitarlo después como proyecto de ley, pero eso es otra cosa."
+},
+"vo-01-017": {
+  "bloque": "fuentes",
+  "precepto": "Art. 86.2 de la Constitución",
+  "correcta": 2,
+  "justificaciones": [
+    "No. No hay delegación previa: el Gobierno lo dicta por sí mismo si hay extraordinaria y urgente necesidad (art. 86.1 CE). Los 30 días son para el pronunciamiento del Congreso, después de promulgado.",
+    "No. El decreto-ley tiene rango de ley, es una disposición legislativa provisional (art. 86.1 CE). El Real Decreto del Consejo de Ministros es un reglamento, y está por debajo.",
+    "Es esta. Es casi literal el **art. 86.2 CE**: debe someterse “inmediatamente” a debate y votación de totalidad en el Congreso, convocado al efecto si no estuviera reunido, en los treinta días siguientes a su promulgación.",
+    "No. Sobra el Senado. Solo lo convalida el Congreso (art. 86.2 CE)."
+  ]
+},
+"vo-01-018": {
+  "bloque": "fuentes",
+  "precepto": "Arts. 82 y 86 de la Constitución",
+  "correcta": 3,
+  "justificaciones": [
+    "No. Que el decreto legislativo no puede entrar en materias de ley orgánica es cierto (art. 82.1 CE). Lo falso es que el decreto-ley “sí” pueda: la Constitución no le da ese permiso y su art. 86.1 le pone sus propios límites (por ejemplo, los derechos del Título I y el Derecho electoral general).",
+    "No. Eso no distingue a uno de otro: redactar textos articulados y refundir textos son las dos variantes del decreto legislativo (art. 82.2 CE). El decreto-ley no sirve para ninguna de ellas, sino para la urgencia.",
+    "No. El decreto-ley no necesita ninguna ley previa, lo dicta el Gobierno directamente (art. 86.1 CE). Quien necesita ley de delegación es el decreto legislativo: ley de bases o ley ordinaria, según el caso (art. 82.2 CE).",
+    "Es esta. Resume bien los dos: el decreto-ley es provisional y nace de la extraordinaria y urgente necesidad (**art. 86.1 CE**); el decreto legislativo nace de una delegación expresa de las Cortes sobre materia determinada (**art. 82.1 y 82.3 CE**). Para recordarlo: uno es por urgencia, el otro por encargo."
+  ]
+},
+"vo-01-019": {
+  "bloque": "actividad",
+  "precepto": "Disposición final séptima de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. La **disposición final séptima de la Ley 39/2015**, en su texto consolidado, fija que el registro electrónico y el punto de acceso general electrónico (entre otras previsiones) “producirán efectos a partir del día 2 de abril de 2021”. La ley en general entró en vigor antes, el 2 de octubre de 2016, al año de publicarse.",
+    "No. Esa fecha quedó superada. La fijó una reforma anterior (Real Decreto-ley 11/2018), y después se retrasó hasta el 2 de abril de 2021.",
+    "No. Era la fórmula de la redacción original de 2015, que se modificó varias veces. Hoy la norma da una fecha concreta: 2 de abril de 2021.",
+    "No. El 2 de octubre de 2017 no es la fecha de la norma vigente, que dice 2 de abril de 2021."
+  ],
+  "ojo": "Esta fecha se aplazó varias veces, por eso aparecen tantas parecidas. Retén la última: 2 de abril de 2021."
+},
+"vo-01-020": {
+  "bloque": "interesados",
+  "precepto": "Art. 1.2 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. El **art. 1.2 de la Ley 39/2015** empieza así: “Solo mediante ley”. Añadir trámites o poner otros distintos solo puede hacerlo una ley, y de forma motivada, cuando sea eficaz, proporcionado y necesario.",
+    "No. Es la confusión típica. Por reglamento solo se pueden fijar especialidades del procedimiento: órganos competentes, plazos propios, formas de iniciación y terminación, publicación e informes. Trámites nuevos, no.",
+    "No. Un Real Decreto del Consejo de Ministros es un reglamento, y el art. 1.2 exige ley para añadir trámites. Tiene el mismo fallo que la opción “reglamentariamente”.",
+    "No. Sí se puede, y el art. 1.2 lo permite siempre que sea por ley y se cumplan las condiciones que fija."
+  ],
+  "ojo": "Trámites adicionales o distintos: ley. Especialidades (órganos, plazos, iniciación, terminación, publicación, informes): reglamento."
+},
+"vo-01-021": {
+  "bloque": "interesados",
+  "precepto": "Art. 2.3 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+    "No. Estas tres sí son Administración Pública: el art. 2.3 las nombra expresamente. Como la pregunta pide las que no lo son, esta opción no vale.",
+    "Es esta. El **art. 2.3 de la Ley 39/2015** solo incluye, dentro del sector público institucional, a los organismos públicos y entidades de derecho público de la letra a) del apartado 2. Las de derecho privado (letra b) forman parte del sector público, pero no son Administración Pública.",
+    "No. Estos sí son Administración Pública: el art. 2.3 los incluye al remitirse a la letra a) del apartado 2.",
+    "No. Se pasa de larga. Parte del sector público institucional sí es Administración Pública: los organismos públicos y las entidades de derecho público (art. 2.3)."
+  ],
+  "ojo": "Sector público y Administración Pública no son lo mismo. Toda Administración es sector público, pero una entidad de derecho privado es sector público sin ser Administración."
+},
+"vo-01-022": {
+  "bloque": "interesados",
+  "precepto": "Art. 3.b) de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+    "No. Sobra el “solo”. Además de quienes la tienen según las normas civiles, el art. 3 la reconoce a ciertos menores y, si la ley lo declara, a grupos de afectados, uniones y entidades sin personalidad jurídica y patrimonios independientes o autónomos.",
+    "No. Es al revés. Los menores tienen capacidad para aquello que el ordenamiento les deja hacer “sin” la asistencia de sus padres o tutores (art. 3.b). No es “únicamente con” ella.",
+    "Es esta. Lo dice el **art. 3.b) de la Ley 39/2015**: el menor puede actuar ante la Administración en lo que la ley le permita hacer sin padres, tutor o curador. Por ejemplo, un chico de 17 años que ya trabaja y reclama sobre su propio empleo.",
+    "No. Es precisamente la excepción del art. 3.b): se exceptúa a los menores incapacitados cuando la incapacitación afecte a esos derechos o intereses. La opción lo cambia con “aun cuando”."
+  ]
+},
+"vo-01-023": {
+  "bloque": "interesados",
+  "precepto": "Art. 3.c) de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+    "Es verdadera, así que no se marca. Es el art. 3.c): los patrimonios independientes o autónomos tienen capacidad de obrar cuando la ley lo declare expresamente.",
+    "Es verdadera, así que no se marca. Es el art. 3.a): las personas físicas que tengan capacidad de obrar según las normas civiles.",
+    "Esta es la falsa, y por eso es la que hay que marcar. El **art. 3.c)** exige que lo declare expresamente una “Ley”, no una norma reglamentaria. Un reglamento no basta para dar capacidad de obrar a los grupos de afectados.",
+    "Es verdadera, así que no se marca. También es el art. 3.a): se aplica igual a las personas jurídicas que la tengan según las normas civiles."
+  ],
+  "ojo": "Lee bien: pide la incorrecta. La palabra cambiada es “norma reglamentaria” en lugar de “Ley”."
+},
+"vo-01-024": {
+  "bloque": "interesados",
+  "precepto": "Art. 4.1.c) de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+    "No. Este sí es interesado: es el art. 4.1.b). Quien tiene derechos que pueden verse afectados lo es aunque no haya iniciado el procedimiento.",
+    "No. Este sí es interesado: es el art. 4.1.c). Tiene intereses legítimos afectados y se persona antes de la resolución definitiva.",
+    "No. Este sí es interesado: es el art. 4.1.a). Promueve el procedimiento como titular de derechos o intereses legítimos.",
+    "Es esta. No es interesado, porque le falta personarse. Según el **art. 4.1.c)**, quien solo tiene intereses legítimos debe personarse (entrar formalmente en el procedimiento) antes de que haya resolución definitiva. La opción dice lo contrario: “aun cuando no se personen”."
+  ],
+  "ojo": "Diferencia clave: quien tiene derechos afectados es interesado sin más (4.1.b). Quien tiene intereses legítimos debe además personarse (4.1.c)."
+},
+"vo-01-025": {
+  "bloque": "interesados",
+  "precepto": "Art. 5.7 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+    "No. Sobran los “actos de mero trámite”: para esos, la representación se presume (art. 5.3). Lo demás de la lista sí exige acreditarla.",
+    "No. El plazo está cambiado. Son diez días, o más si las circunstancias lo requieren, no 5 (art. 5.6).",
+    "Es esta. Lo recoge el **art. 5.7 de la Ley 39/2015**: las Administraciones pueden habilitar, con carácter general o específico, a personas físicas o jurídicas para hacer determinadas transacciones electrónicas en nombre de los interesados. Por ejemplo, una gestoría autorizada para presentar trámites por vía electrónica.",
+    "No. No hace falta un título notarial ni una resolución judicial. Vale “cualquier medio válido en Derecho” que deje constancia fidedigna, como el apoderamiento apud acta (el que se hace ante la propia Administración) o el registro electrónico de apoderamientos (art. 5.4)."
+  ]
+},
+"vo-01-026": {
+  "bloque": "interesados",
+  "precepto": "Art. 5.3 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+    "No. El interesado con capacidad de obrar también puede actuar por medio de representante (art. 5.1). Sobra el “solo”.",
+    "No. Es justo lo contrario: formular solicitudes es uno de los casos en que sí hay que acreditar la representación (art. 5.3).",
+    "Es esta. El **art. 5.3 de la Ley 39/2015** exige acreditar la representación para formular solicitudes, presentar declaraciones responsables o comunicaciones, interponer recursos, desistir de acciones y renunciar a derechos en nombre de otro. Para el mero trámite, en cambio, se presume.",
+    "No. No lo impide “en todo caso”. El acto se tiene por realizado si se aporta la acreditación o se subsana el defecto (se corrige) en diez días, o en un plazo superior si hace falta (art. 5.6)."
+  ]
+},
+"vo-01-027": {
+  "bloque": "interesados",
+  "precepto": "Art. 7 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+    "No. Está incompleta. El que figura en primer término es solo la solución de reserva: primero se mira si han señalado expresamente a alguien (art. 7).",
+    "No. El art. 7 evita justo eso: las actuaciones se entienden con una sola persona, no con cada uno de los interesados.",
+    "No. El art. 7 dice “en primer término”, no en último. Te han cambiado esa palabra y, además, han quitado la elección expresa.",
+    "Es esta. El **art. 7 de la Ley 39/2015** da un orden: primero, el representante o el interesado que hayan señalado expresamente; si no han señalado a nadie, el que figure en primer término."
+  ]
+}
+}

@@ -1,0 +1,537 @@
+{
+"lote": 27,
+"casos": {},
+"calendarios": {
+"cal2023": {
+"titulo": "Calendario 2023 (enero a junio)",
+"year": 2023,
+"meses": [
+1,
+2,
+3,
+4,
+5,
+6
+],
+"festivos": [
+"2023-01-06",
+"2023-03-20",
+"2023-04-06",
+"2023-04-07",
+"2023-05-01",
+"2023-05-02"
+],
+"nota": "Los domingos también van en rojo."
+}
+},
+"preguntas": [
+{
+"id": "pr-01-001",
+"origen": "practicas",
+"test": "Ejercicio nº 1 - Relación electrónica con las AA.PP.",
+"n": 1,
+"enunciado": "D. Manuel López, persona física, solicita ante el Ayuntamiento de su municipio un certificado de empadronamiento:",
+"opciones": [
+"Está obligado a relacionarse electrónicamente.",
+"No está obligado a relacionarse electrónicamente, aunque puede optar por hacerlo."
+]
+},
+{
+"id": "pr-01-002",
+"origen": "practicas",
+"test": "Ejercicio nº 1 - Relación electrónica con las AA.PP.",
+"n": 2,
+"enunciado": "La empresa Reformas Costa Sur, S.L. solicita a la Junta de Andalucía una subvención para renovar la maquinaria de su taller:",
+"opciones": [
+"Está obligada a relacionarse electrónicamente.",
+"No está obligada a relacionarse electrónicamente, aunque puede optar por hacerlo."
+]
+},
+{
+"id": "pr-01-003",
+"origen": "practicas",
+"test": "Ejercicio nº 1 - Relación electrónica con las AA.PP.",
+"n": 3,
+"enunciado": "La Comunidad de Propietarios del edificio \"Al Alba\", entidad carente de personalidad jurídica, solicita al Ayuntamiento de Málaga autorización para instalar placas solares en la cubierta del inmueble:",
+"opciones": [
+"Está obligada a relacionarse electrónicamente.",
+"No está obligada a relacionarse electrónicamente, aunque puede optar por hacerlo."
+]
+},
+{
+"id": "pr-01-004",
+"origen": "practicas",
+"test": "Ejercicio nº 1 - Relación electrónica con las AA.PP.",
+"n": 4,
+"enunciado": "D.ª Laura Medina presenta una solicitud en nombre de su hermano ante la Consejería de Educación de Castilla y León para obtener una copia de su expediente académico:",
+"opciones": [
+"Está obligada a relacionarse electrónicamente.",
+"No está obligada a relacionarse electrónicamente, aunque puede optar por hacerlo."
+]
+},
+{
+"id": "pr-01-005",
+"origen": "practicas",
+"test": "Ejercicio nº 1 - Relación electrónica con las AA.PP.",
+"n": 5,
+"enunciado": "D. Rafael Ortega, funcionario de carrera, solicita participar en un concurso de méritos convocado por el Ministerio en el que presta servicios:",
+"opciones": [
+"Está obligado a relacionarse electrónicamente.",
+"No está obligado a relacionarse electrónicamente, aunque puede optar por hacerlo."
+]
+},
+{
+"id": "pr-01-006",
+"origen": "practicas",
+"test": "Ejercicio nº 1 - Relación electrónica con las AA.PP.",
+"n": 6,
+"enunciado": "D. Vicente Romero, jardinero de profesión, solicita al Ayuntamiento de Zaragoza autorización para podar un árbol situado en el jardín de su vivienda:",
+"opciones": [
+"Está obligado a relacionarse electrónicamente.",
+"No está obligado a relacionarse electrónicamente, aunque puede optar por hacerlo."
+]
+},
+{
+"id": "pr-01-007",
+"origen": "practicas",
+"test": "Ejercicio nº 1 - Relación electrónica con las AA.PP.",
+"n": 7,
+"enunciado": "Dª Ana Ruiz, funcionaria interina, solicita al Ayuntamiento de Lugo una licencia de obra menor para reformar la terraza de su vivienda:",
+"opciones": [
+"Está obligada a relacionarse electrónicamente.",
+"No está obligada a relacionarse electrónicamente, aunque puede optar por hacerlo."
+]
+},
+{
+"id": "pr-01-008",
+"origen": "practicas",
+"test": "Ejercicio nº 1 - Relación electrónica con las AA.PP.",
+"n": 8,
+"enunciado": "D. Hugo Salazar, en representación de Cazadores del Norte, S.L., solicita a la Consejería de Medio Ambiente de Castilla-La Mancha autorización para celebrar una montería en un coto gestionado por la empresa:",
+"opciones": [
+"Está obligado a relacionarse electrónicamente.",
+"No está obligado a relacionarse electrónicamente, aunque puede optar por hacerlo."
+]
+},
+{
+"id": "pr-01-009",
+"origen": "practicas",
+"test": "Ejercicio nº 1 - Relación electrónica con las AA.PP.",
+"n": 9,
+"enunciado": "D. Luis Núñez, notario, remite a la Administración tributaria copia de una escritura de compraventa autorizada en su notaría:",
+"opciones": [
+"Está obligado a relacionarse electrónicamente.",
+"No está obligado a relacionarse electrónicamente, aunque puede optar por hacerlo."
+]
+},
+{
+"id": "pr-01-010",
+"origen": "practicas",
+"test": "Ejercicio nº 1 - Relación electrónica con las AA.PP.",
+"n": 10,
+"enunciado": "D.ª Marta Soria, médica colegiada, solicita al Servicio de Salud de Castilla y León copia de su historia clínica tras haber sido atendida por una lesión propia:",
+"opciones": [
+"Está obligada a relacionarse electrónicamente.",
+"No está obligada a relacionarse electrónicamente, aunque puede optar por hacerlo."
+]
+},
+{
+"id": "pr-02-001",
+"origen": "practicas",
+"test": "Ejercicio nº 2 - La lengua de los procedimientos",
+"n": 1,
+"enunciado": "D. Marc Vidal presenta una solicitud dirigida a la Delegación del Gobierno en Cataluña, con sede en Barcelona, y pide que el procedimiento se tramite en catalán. ¿En qué lengua se tramitará?",
+"opciones": [
+"Se tramitará en catalán.",
+"Se tramitará en castellano, si bien los documentos o testimonios que se dirijan al interesado se expedirán en catalán.",
+"Se tramitará en castellano, sin que proceda la expedición de documentos o testimonios en catalán."
+]
+},
+{
+"id": "pr-02-002",
+"origen": "practicas",
+"test": "Ejercicio nº 2 - La lengua de los procedimientos",
+"n": 2,
+"enunciado": "D. Vicent Ferrer, vecino de Valencia, presenta una solicitud dirigida a la Dirección General de un Ministerio, con sede en Madrid, y pide que el procedimiento se tramite en valenciano. ¿En qué lengua se tramitará?",
+"opciones": [
+"Se tramitará en valenciano.",
+"Se tramitará en castellano, si bien los documentos o testimonios que se dirijan al interesado se expedirán en valenciano.",
+"Se tramitará en castellano, sin que proceda la expedición de documentos o testimonios en valenciano."
+]
+},
+{
+"id": "pr-02-003",
+"origen": "practicas",
+"test": "Ejercicio nº 2 - La lengua de los procedimientos",
+"n": 3,
+"enunciado": "D.ª Uxía Seoane, vecina de A Coruña, presenta una solicitud dirigida a la Demarcación de Carreteras del Estado en Galicia, con sede en A Coruña, y pide que el procedimiento se tramite en gallego. En el mismo procedimiento, D. Manuel Rivas, también interesado, solicita que se tramite en castellano. ¿En qué lengua se tramitará?",
+"opciones": [
+"Se tramitará en gallego.",
+"Se tramitará en castellano, si bien los documentos o testimonios que se dirijan a D.ª Uxía se expedirán en gallego.",
+"Se tramitará en castellano, sin que proceda la expedición de documentos o testimonios en gallego."
+]
+},
+{
+"id": "pr-02-004",
+"origen": "practicas",
+"test": "Ejercicio nº 2 - La lengua de los procedimientos",
+"n": 4,
+"enunciado": "D. Antón Barreiro, vecino de Lugo, presenta en el registro electrónico del Ayuntamiento de Lugo una solicitud dirigida a la Secretaría de Estado de Seguridad, del Ministerio del Interior, con sede en Madrid, y pide que el procedimiento se tramite en gallego. ¿En qué lengua se tramitará?",
+"opciones": [
+"Se tramitará en gallego.",
+"Se tramitará en castellano, si bien los documentos o testimonios que se dirijan al interesado se expedirán en gallego.",
+"Se tramitará en castellano, sin que proceda la expedición de documentos o testimonios en gallego."
+]
+},
+{
+"id": "pr-02-005",
+"origen": "practicas",
+"test": "Ejercicio nº 2 - La lengua de los procedimientos",
+"n": 5,
+"enunciado": "D. Gorka Etxebarria, vecino de Bilbao, presenta una solicitud dirigida a la Subdelegación del Gobierno en Barcelona y pide que el procedimiento se tramite en catalán. ¿En qué lengua se tramitará?",
+"opciones": [
+"Se tramitará en catalán.",
+"Se tramitará en castellano, si bien los documentos o testimonios que se dirijan al interesado se expedirán en catalán.",
+"Se tramitará en castellano, sin que proceda la expedición de documentos o testimonios en catalán."
+]
+},
+{
+"id": "pr-02-006",
+"origen": "practicas",
+"test": "Ejercicio nº 2 - La lengua de los procedimientos",
+"n": 6,
+"enunciado": "La Delegación del Gobierno en el País Vasco tramitó un procedimiento en euskera. Contra la resolución dictada, el interesado interpone recurso ante la Secretaría de Estado de Seguridad, del Ministerio del Interior, con sede en Madrid, solicitando que el recurso se tramite también en euskera. ¿En qué lengua se tramitará?",
+"opciones": [
+"Se tramitará en euskera.",
+"Se tramitará en castellano, si bien los documentos o testimonios que se dirijan al interesado se expedirán en euskera.",
+"Se tramitará en castellano, sin que proceda la expedición de documentos o testimonios en euskera."
+]
+},
+{
+"id": "pr-02-007",
+"origen": "practicas",
+"test": "Ejercicio nº 2 - La lengua de los procedimientos",
+"n": 7,
+"enunciado": "D. Rafael Montoro, vecino de Sevilla, presenta en el registro electrónico del Ayuntamiento de Sevilla una solicitud dirigida a la Delegación del Gobierno en la Comunitat Valenciana, con sede en Valencia, y pide que el procedimiento se tramite en valenciano. En el mismo procedimiento, D.ª Laura Benítez, también interesada, solicita que se tramite en castellano. ¿En qué lengua se tramitará?",
+"opciones": [
+"Se tramitará en valenciano.",
+"Se tramitará en castellano, si bien los documentos o testimonios que se dirijan a D. Rafael se expedirán en valenciano.",
+"Se tramitará en castellano, sin que proceda la expedición de documentos o testimonios en valenciano."
+]
+},
+{
+"id": "pr-02-008",
+"origen": "practicas",
+"test": "Ejercicio nº 2 - La lengua de los procedimientos",
+"n": 8,
+"enunciado": "D. Jordi Martí, vecino de Tarragona, presenta una solicitud dirigida a la Delegación del Gobierno en el País Vasco, con sede en Vitoria-Gasteiz, y pide que el procedimiento se tramite en catalán. ¿En qué lengua se tramitará?",
+"opciones": [
+"Se tramitará en catalán.",
+"Se tramitará en castellano, si bien los documentos o testimonios que se dirijan al interesado se expedirán en catalán.",
+"Se tramitará en castellano, sin que proceda la expedición de documentos o testimonios en catalán."
+]
+},
+{
+"id": "pr-03-001",
+"origen": "practicas",
+"test": "Ejercicio nº 3.- Suspensión de plazos",
+"n": 1,
+"enunciado": "A continuación se plantean distintos supuestos que pueden producirse durante la tramitación de un procedimiento administrativo. Indique la opción correcta en relación con la suspensión del plazo máximo para resolver y notificar, conforme a lo dispuesto en la Ley 39/2015:\nLa Administración requiere a un interesado para que subsane las deficiencias de las que adolece su solicitud:",
+"opciones": [
+"Se podrá suspender el plazo para resolver y notificar.",
+"Se suspenderá el plazo para resolver y notificar.",
+"No se podrá suspender el plazo para resolver y notificar."
+]
+},
+{
+"id": "pr-03-002",
+"origen": "practicas",
+"test": "Ejercicio nº 3.- Suspensión de plazos",
+"n": 2,
+"enunciado": "A continuación se plantean distintos supuestos que pueden producirse durante la tramitación de un procedimiento administrativo. Indique la opción correcta en relación con la suspensión del plazo máximo para resolver y notificar, conforme a lo dispuesto en la Ley 39/2015:\nSe declara por el instructor la apertura ordinaria de un período de prueba a fin de que puedan practicarse cuantas juzgue pertinentes:",
+"opciones": [
+"Se podrá suspender el plazo para resolver y notificar.",
+"Se suspenderá el plazo para resolver y notificar.",
+"No se podrá suspender el plazo para resolver y notificar."
+]
+},
+{
+"id": "pr-03-003",
+"origen": "practicas",
+"test": "Ejercicio nº 3.- Suspensión de plazos",
+"n": 3,
+"enunciado": "A continuación se plantean distintos supuestos que pueden producirse durante la tramitación de un procedimiento administrativo. Indique la opción correcta en relación con la suspensión del plazo máximo para resolver y notificar, conforme a lo dispuesto en la Ley 39/2015:\nEl órgano competente para resolver decide realizar actuaciones complementarias indispensables para resolver el procedimiento:",
+"opciones": [
+"Se podrá suspender el plazo para resolver y notificar.",
+"Se suspenderá el plazo para resolver y notificar.",
+"No se podrá suspender el plazo para resolver y notificar."
+]
+},
+{
+"id": "pr-03-004",
+"origen": "practicas",
+"test": "Ejercicio nº 3.- Suspensión de plazos",
+"n": 4,
+"enunciado": "A continuación se plantean distintos supuestos que pueden producirse durante la tramitación de un procedimiento administrativo. Indique la opción correcta en relación con la suspensión del plazo máximo para resolver y notificar, conforme a lo dispuesto en la Ley 39/2015:\nEl órgano competente para resolver acuerda la apertura de un período de información pública a fin de que cualquier persona física o jurídica pueda examinar el expediente, o la parte del mismo que se acuerde:",
+"opciones": [
+"Se podrá suspender el plazo para resolver y notificar.",
+"Se suspenderá el plazo para resolver y notificar.",
+"No se podrá suspender el plazo para resolver y notificar."
+]
+},
+{
+"id": "pr-03-005",
+"origen": "practicas",
+"test": "Ejercicio nº 3.- Suspensión de plazos",
+"n": 5,
+"enunciado": "A continuación se plantean distintos supuestos que pueden producirse durante la tramitación de un procedimiento administrativo. Indique la opción correcta en relación con la suspensión del plazo máximo para resolver y notificar, conforme a lo dispuesto en la Ley 39/2015:\nEn el marco de un procedimiento de responsabilidad patrimonial se inician negociaciones con el presunto perjudicado con vistas a la conclusión de un pacto o convenio:",
+"opciones": [
+"Se podrá suspender el plazo para resolver y notificar.",
+"Se suspenderá el plazo para resolver y notificar.",
+"No se podrá suspender el plazo para resolver y notificar."
+]
+},
+{
+"id": "pr-03-006",
+"origen": "practicas",
+"test": "Ejercicio nº 3.- Suspensión de plazos",
+"n": 6,
+"enunciado": "A continuación se plantean distintos supuestos que pueden producirse durante la tramitación de un procedimiento administrativo. Indique la opción correcta en relación con la suspensión del plazo máximo para resolver y notificar, conforme a lo dispuesto en la Ley 39/2015:\nUno de los interesados en el procedimiento propone la realización de análisis contradictorios al encontrarse en desacuerdo con los practicados por la Administración, y el órgano instructor acuerda su práctica:",
+"opciones": [
+"Se podrá suspender el plazo para resolver y notificar.",
+"Se suspenderá el plazo para resolver y notificar.",
+"No se podrá suspender el plazo para resolver y notificar."
+]
+},
+{
+"id": "pr-03-007",
+"origen": "practicas",
+"test": "Ejercicio nº 3.- Suspensión de plazos",
+"n": 7,
+"enunciado": "A continuación se plantean distintos supuestos que pueden producirse durante la tramitación de un procedimiento administrativo. Indique la opción correcta en relación con la suspensión del plazo máximo para resolver y notificar, conforme a lo dispuesto en la Ley 39/2015:\nUno de los interesados en el procedimiento promueve la recusación del instructor por considerar que tiene un interés personal:",
+"opciones": [
+"Se podrá suspender el plazo para resolver y notificar.",
+"Se suspenderá el plazo para resolver y notificar.",
+"No se podrá suspender el plazo para resolver y notificar."
+]
+},
+{
+"id": "pr-03-008",
+"origen": "practicas",
+"test": "Ejercicio nº 3.- Suspensión de plazos",
+"n": 8,
+"enunciado": "A continuación se plantean distintos supuestos que pueden producirse durante la tramitación de un procedimiento administrativo. Indique la opción correcta en relación con la suspensión del plazo máximo para resolver y notificar, conforme a lo dispuesto en la Ley 39/2015:\nEl órgano competente considera que para la resolución del procedimiento resulta indispensable la obtención de un previo pronunciamiento por parte de un órgano jurisdiccional:",
+"opciones": [
+"Se podrá suspender el plazo para resolver y notificar.",
+"Se suspenderá el plazo para resolver y notificar.",
+"No se podrá suspender el plazo para resolver y notificar."
+]
+},
+{
+"id": "pr-03-009",
+"origen": "practicas",
+"test": "Ejercicio nº 3.- Suspensión de plazos",
+"n": 9,
+"enunciado": "A continuación se plantean distintos supuestos que pueden producirse durante la tramitación de un procedimiento administrativo. Indique la opción correcta en relación con la suspensión del plazo máximo para resolver y notificar, conforme a lo dispuesto en la Ley 39/2015:\nEl órgano instructor estima conveniente solicitar un informe de carácter facultativo a un órgano de la misma o distinta Administración:",
+"opciones": [
+"Se podrá suspender el plazo para resolver y notificar.",
+"Se suspenderá el plazo para resolver y notificar.",
+"No se podrá suspender el plazo para resolver y notificar."
+]
+},
+{
+"id": "pr-03-010",
+"origen": "practicas",
+"test": "Ejercicio nº 3.- Suspensión de plazos",
+"n": 10,
+"enunciado": "A continuación se plantean distintos supuestos que pueden producirse durante la tramitación de un procedimiento administrativo. Indique la opción correcta en relación con la suspensión del plazo máximo para resolver y notificar, conforme a lo dispuesto en la Ley 39/2015:\nUna Administración Pública requiere a otra para que anule o revise un acto que entiende ilegal y que constituye la base del acto que la primera ha de dictar en el ámbito de sus competencias:",
+"opciones": [
+"Se podrá suspender el plazo para resolver y notificar.",
+"Se suspenderá el plazo para resolver y notificar.",
+"No se podrá suspender el plazo para resolver y notificar."
+]
+},
+{
+"id": "pr-04-004",
+"origen": "practicas",
+"test": "Ejercicio nº 4 - Silencio administrativo",
+"n": 4,
+"enunciado": "Solicitud de autorización para la utilización de un aparato que incorpora sustancias radiactivas generadoras de radiaciones ionizantes susceptibles de producir efectos nocivos para el medio ambiente:",
+"opciones": [
+"Silencio estimatorio.",
+"Silencio desestimatorio.",
+"Caducidad."
+]
+},
+{
+"id": "pr-04-005",
+"origen": "practicas",
+"test": "Ejercicio nº 4 - Silencio administrativo",
+"n": 5,
+"enunciado": "Recurso de alzada contra una resolución expresa de la Filmoteca Española por la que se deniega la entrega de una copia de una película de 1936, en la que aparece Dª Benita, bisabuela de la interesada:",
+"opciones": [
+"Silencio estimatorio.",
+"Silencio desestimatorio.",
+"Caducidad."
+]
+},
+{
+"id": "pr-04-006",
+"origen": "practicas",
+"test": "Ejercicio nº 4 - Silencio administrativo",
+"n": 6,
+"enunciado": "Solicitud de autorización de rehabilitación de un edificio para albergar un museo privado:",
+"opciones": [
+"Silencio estimatorio.",
+"Silencio desestimatorio.",
+"Caducidad."
+]
+},
+{
+"id": "pr-04-007",
+"origen": "practicas",
+"test": "Ejercicio nº 4 - Silencio administrativo",
+"n": 7,
+"enunciado": "Solicitud de autorización para instalar parques hinchables acuáticos en la playa de los Locos (Suances):",
+"opciones": [
+"Silencio estimatorio.",
+"Silencio desestimatorio.",
+"Caducidad."
+]
+},
+{
+"id": "pr-04-008",
+"origen": "practicas",
+"test": "Ejercicio nº 4 - Silencio administrativo",
+"n": 8,
+"enunciado": "Procedimiento sancionador en materia de dominio público hidráulico iniciado de oficio por la Confederación Hidrográfica del Tajo:",
+"opciones": [
+"Silencio estimatorio.",
+"Silencio desestimatorio.",
+"Caducidad."
+]
+},
+{
+"id": "pr-04-009",
+"origen": "practicas",
+"test": "Ejercicio nº 4 - Silencio administrativo",
+"n": 9,
+"enunciado": "Procedimiento de responsabilidad patrimonial iniciado de oficio como consecuencia de una explosión en el laboratorio de un Organismo Autónomo, que originó lesiones a un estudiante universitario que comparece como interesado:",
+"opciones": [
+"Silencio estimatorio.",
+"Silencio desestimatorio.",
+"Caducidad."
+]
+},
+{
+"id": "pr-04-010",
+"origen": "practicas",
+"test": "Ejercicio nº 4 - Silencio administrativo",
+"n": 10,
+"enunciado": "Escrito presentado al Ayuntamiento de Guarromán por la asociación vecinal “Pueblo Limpio”, al amparo del derecho de petición, solicitando que se incorporen a la flota municipal recolectores de residuos de última generación que mejoren la limpieza de la ciudad:",
+"opciones": [
+"Silencio estimatorio.",
+"Silencio desestimatorio.",
+"Caducidad."
+]
+},
+{
+"id": "pr-05-004",
+"origen": "practicas",
+"test": "Ejercicio nº 5 - Cómputo de plazos.",
+"n": 4,
+"enunciado": "El 20 de enero se pone a disposición de Dª Antonia, que actúa en representación de Madagascar S.L., notificación de resolución administrativa en la DEHu. ¿Hasta que día podrá acceder a su contenido para que dicha notificación no se entienda rechazada?\nNota: Cuando la notificación por medios electrónicos sea de carácter obligatorio, o haya sido expresamente elegida por el interesado, se entenderá rechazada transcurridos diez días naturales desde su puesta a disposición sin que se acceda a su contenido. (Art. 43 Ley 39/2015).\n\"DEHú\": Dirección Electrónica Habilitada única.",
+"opciones": [
+"29 de enero.",
+"30 de enero.",
+"2 de febrero.",
+"3 de febrero."
+],
+"calendario": "cal2023"
+},
+{
+"id": "pr-05-005",
+"origen": "practicas",
+"test": "Ejercicio nº 5 - Cómputo de plazos.",
+"n": 5,
+"enunciado": "El 30 de enero se publica en el BOE convocatoria de subvenciones para la adquisición de “Equipamiento gaming generación Z”. El plazo de presentación de solicitudes es de un mes. ¿Qué día finaliza dicho plazo?",
+"opciones": [
+"29 de febrero.",
+"28 de febrero.",
+"1 de marzo.",
+"27 de febrero."
+],
+"calendario": "cal2023"
+},
+{
+"id": "pr-05-006",
+"origen": "practicas",
+"test": "Ejercicio nº 5 - Cómputo de plazos.",
+"n": 6,
+"enunciado": "Finalizada la práctica de actuaciones complementarias, el 31 de marzo se concede a D.ª Carmen un plazo de siete días para formular las alegaciones que estime pertinentes. Indique el último día de dicho plazo:",
+"opciones": [
+"14 de abril.",
+"7 de abril.",
+"10 de abril.",
+"13 de abril."
+],
+"calendario": "cal2023"
+},
+{
+"id": "pr-05-007",
+"origen": "practicas",
+"test": "Ejercicio nº 5 - Cómputo de plazos.",
+"n": 7,
+"enunciado": "En un procedimiento iniciado a solicitud de D. Abelino, el órgano competente para resolver aprecia la existencia de cuestiones conexas no planteadas por el interesado. El 28 de abril se pone de manifiesto dicha circunstancia a D. Abelino, concediéndole un plazo de quince días para formular las alegaciones que estime pertinentes. ¿Cuándo finaliza dicho plazo?",
+"opciones": [
+"22 de mayo.",
+"23 de mayo.",
+"12 de mayo.",
+"15 de mayo."
+],
+"calendario": "cal2023"
+},
+{
+"id": "pr-05-008",
+"origen": "practicas",
+"test": "Ejercicio nº 5 - Cómputo de plazos.",
+"n": 8,
+"enunciado": "Con fecha 23 de enero D. Fernando presenta en el Registro Electrónico de la Administración competente para su tramitación una solicitud de concesión de una autorización administrativa. La norma reguladora no establece plazo máximo para resolver y notificar. ¿Cuál es el último día del que dispone la Administración para resolver y notificar?",
+"opciones": [
+"23 de julio.",
+"24 de abril.",
+"23 de abril.",
+"24 de julio."
+],
+"calendario": "cal2023"
+},
+{
+"id": "pr-05-009",
+"origen": "practicas",
+"test": "Ejercicio nº 5 - Cómputo de plazos.",
+"n": 9,
+"enunciado": "Mediante acuerdo de iniciación de 9 de enero, notificado el día 11 del mismo mes, se incoa procedimiento sancionador contra D. Fernandito por el uso no autorizado de artefactos pirotécnicos en las ferias de su pueblo. Teniendo en cuenta que la norma reguladora establece un plazo máximo de dos meses para resolver y notificar, ¿a partir de qué día se entendería producida la caducidad si no se hubiera dictado y notificado resolución expresa?",
+"opciones": [
+"9 de marzo.",
+"10 de marzo.",
+"11 de marzo.",
+"13 de marzo."
+],
+"calendario": "cal2023"
+},
+{
+"id": "pr-05-010",
+"origen": "practicas",
+"test": "Ejercicio nº 5 - Cómputo de plazos.",
+"n": 10,
+"enunciado": "D. Marcelino accede el 10 de enero a través de la DEHu al contenido de una resolución que no pone fin a la vía administrativa, puesta a su disposición el 8 de enero. ¿Qué día finaliza el plazo para interponer recurso de alzada?\nNota: las notificaciones por medios electrónicos se entienden practicadas en el momento en que se produzca el acceso a su contenido. (Artículo 43.2 Ley 39/2015).\nEl plazo de interposición del recurso de alzada es de 1 mes (art. 122 Ley 39/2015).",
+"opciones": [
+"8 de febrero.",
+"13 de febrero.",
+"10 de abril.",
+"10 de febrero."
+],
+"calendario": "cal2023"
+}
+]
+}

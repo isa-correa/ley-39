@@ -1,0 +1,396 @@
+{
+"vo-06-002": {
+  "bloque": "recursos",
+  "precepto": "Art. 112.3 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. El **art. 112.3** lo dice tal cual: contra las disposiciones de carácter general (los reglamentos, por ejemplo) “no cabrá recurso en vía administrativa”. Los recursos administrativos son para actos concretos, no para normas.",
+    "No. El recurso de alzada es contra resoluciones y actos que no ponen fin a la vía administrativa (arts. 112.1 y 121), no contra disposiciones generales.",
+    "No. Aquí no hay ninguna excepción: no cabe ningún recurso administrativo. Además, el recurso de súplica ni siquiera aparece entre los que regula la Ley 39/2015 (alzada, reposición y extraordinario de revisión).",
+    "No. La reposición es para actos que ponen fin a la vía administrativa (art. 123.1). Contra una disposición general tampoco cabe."
+  ],
+  "ojo": "Lo que sí permite el art. 112.3 es recurrir un acto alegando solo que el reglamento en que se apoya es nulo, y ese recurso puede presentarse directamente ante el órgano que dictó el reglamento. Pero se recurre el acto, no la norma."
+},
+"vo-06-003": {
+  "bloque": "recursos",
+  "precepto": "Arts. 113 y 125.1 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+    "No. El recurso de apelación no es un recurso administrativo de la Ley 39/2015. Esta ley solo regula alzada, reposición y extraordinario de revisión.",
+    "No. La alzada se usa contra actos que no ponen fin a la vía administrativa y dentro de plazo (arts. 121 y 122). Pasado ese plazo, el acto queda firme y la alzada ya no sirve.",
+    "Es esta. **Firme** significa que ya no se puede recurrir por las vías normales. Contra esos actos solo queda el recurso extraordinario de revisión (**arts. 113 y 125.1**), y solo si se da alguna de las cuatro causas tasadas del art. 125.1.",
+    "No. La reposición cabe contra actos que ponen fin a la vía administrativa y en plazo (arts. 123 y 124). Pasado ese plazo, el art. 124.1 solo deja el contencioso y, si procede, el extraordinario de revisión."
+  ]
+},
+"vo-06-005": {
+  "bloque": "recursos",
+  "precepto": "Art. 114.1.f) de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+    "No. Te han cambiado “finalizadores” por “iniciadores”. El art. 114.1.d) habla de acuerdos, pactos, convenios o contratos que tengan la consideración de finalizadores del procedimiento.",
+    "No. Lo que pone fin a la vía es la **resolución** de responsabilidad patrimonial (art. 114.1.e), no la propuesta. Una propuesta todavía no decide nada.",
+    "No. Sobra “todas”. El art. 114.1.c) añade una salvedad: “salvo que una Ley establezca lo contrario”.",
+    "Es esta. Es el **art. 114.1.f)**, y lo repite el art. 90.4. Es el procedimiento complementario que fija la indemnización por los daños causados por la conducta sancionada, cuando su cuantía no quedó determinada en el expediente."
+  ]
+},
+"vo-06-006": {
+  "bloque": "recursos",
+  "precepto": "Art. 114.1.a) de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. Es el primer caso de la lista del **art. 114.1.a)**: las resoluciones de los recursos de alzada ponen fin a la vía administrativa. Después de la alzada, lo normal es ir ya al juzgado.",
+    "No. Sobra “ningún”. El art. 122.3 deja a salvo el recurso extraordinario de revisión, en los casos del art. 125.1.",
+    "No. El art. 122.3 lo impide: contra la resolución de una alzada no cabe otro recurso administrativo, salvo el extraordinario de revisión. La reposición queda fuera.",
+    "No. Es justo lo contrario de lo que dice el art. 114.1.a)."
+  ]
+},
+"vo-06-007": {
+  "bloque": "recursos",
+  "precepto": "Art. 116.a) de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+    "Es verdadera, así que no se marca. Carecer manifiestamente de fundamento sí es causa de inadmisión: art. 116.e).",
+    "Esta es la falsa, y por eso es la que hay que marcar. El **art. 116.a)** solo convierte la incompetencia en causa de inadmisión cuando el órgano competente pertenece a **otra** Administración Pública. Te han cambiado “otra” por “la misma”.",
+    "Es verdadera, así que no se marca. Haber pasado el plazo para recurrir sí es causa de inadmisión: art. 116.d).",
+    "Es verdadera, así que no se marca. Carecer de legitimación, es decir, no ser quien puede recurrir, sí es causa de inadmisión: art. 116.b)."
+  ],
+  "ojo": "Las cinco causas del art. 116: órgano de otra Administración, falta de legitimación, acto no recurrible, plazo pasado y falta manifiesta de fundamento."
+},
+"vo-06-008": {
+  "bloque": "recursos",
+  "precepto": "Art. 117.2 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+    "No. Es al revés. Según el art. 117.1, recurrir **no** suspende la ejecución del acto, salvo que una disposición diga lo contrario.",
+    "Es esta. El **art. 117.2.a)** permite suspender de oficio o a petición del recurrente cuando la ejecución pueda causar perjuicios de imposible o difícil reparación. Antes hay que ponderar, con razones, el daño al interés público o a terceros frente al daño al recurrente.",
+    "No. Te han cambiado “nulidad” por “anulabilidad”. El art. 117.2.b) exige que la impugnación se funde en una causa de nulidad de pleno derecho del art. 47.1.",
+    "No. El plazo es de **un mes** desde que la solicitud entra en el registro electrónico del órgano competente, no de 30 días (art. 117.3)."
+  ],
+  "ojo": "La regla general es que el recurso no suspende. Pero si se pide la suspensión y pasa un mes sin resolver, se entiende suspendida la ejecución."
+},
+"vo-06-009": {
+  "bloque": "recursos",
+  "precepto": "Art. 117.2 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+    "No. Sube un escalón de más. El art. 117.2 no mira al superior de quien resuelve, sino al propio órgano que resuelve.",
+    "No. El art. 117.2 no da esta decisión al instructor, sino al órgano a quien competa resolver el recurso.",
+    "No. El órgano que dictó el acto solo coincide con el que decide cuando él mismo resuelve el recurso, como en la reposición. En la alzada resuelve el superior jerárquico (art. 121.1), y es este quien decide la suspensión.",
+    "Es esta. El **art. 117.2** dice que puede suspender “el órgano a quien competa resolver el recurso”. Forma de recordarlo: quien resuelve el recurso decide también si se suspende."
+  ]
+},
+"vo-06-010": {
+  "bloque": "recursos",
+  "precepto": "Art. 118.1 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+    "No. No existe ese mínimo de veinte días. El plazo tiene mínimo de diez días y tope de quince.",
+    "No. El mínimo de diez es correcto, pero el tope es quince, no treinta.",
+    "Es esta. El **art. 118.1** da a los interesados un plazo “no inferior a diez días ni superior a quince” para alegar y presentar documentos cuando aparecen hechos o documentos nuevos que no estaban en el expediente.",
+    "No. Los dos extremos están cambiados: son de diez a quince días, no de quince a treinta."
+  ]
+},
+"vo-06-011": {
+  "bloque": "recursos",
+  "precepto": "Art. 120.1 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+    "No. Te han cambiado “podrá” por “deberá”. Suspender el plazo es una posibilidad, no una obligación.",
+    "No. El art. 120 no prevé enviar los recursos al juzgado para resolverlos juntos. Lo que prevé es suspender el plazo y esperar a lo que diga el juez.",
+    "Es esta. El **art. 120.1** dice que el órgano “podrá acordar la suspensión del plazo para resolver hasta que recaiga pronunciamiento judicial”. Así evita decidir muchos recursos iguales antes de saber qué opina el juez. El acuerdo se notifica a los interesados, que pueden recurrirlo (art. 120.2).",
+    "No. No está obligado a seguir: la ley le permite suspender el plazo y esperar a la decisión judicial."
+  ],
+  "ojo": "La trampa es “podrá” frente a “deberá”."
+},
+"vo-06-012": {
+  "bloque": "recursos",
+  "precepto": "Art. 119.3 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+    "Es verdadera, así que no se marca. Es el art. 119.2: si hay un vicio de forma y no procede resolver el fondo, el procedimiento vuelve atrás hasta el momento en que se cometió el vicio.",
+    "Es verdadera, así que no se marca. Es el art. 119.3: quien resuelve decide todas las cuestiones que plantee el procedimiento, tanto de forma como de fondo, aunque nadie las haya alegado.",
+    "Es verdadera, así que no se marca. También lo dice el art. 119.3: si va a tratar algo que no alegaron los interesados, antes tiene que oírles.",
+    "Esta es la falsa, y por eso es la que hay que marcar. La primera parte es buena, pero el **art. 119.3** termina “sin que en ningún caso pueda agravarse su situación inicial”. Te han cambiado esa prohibición por “pudiendo agravarse”. Recurrir nunca puede dejarte peor de lo que estabas."
+  ],
+  "ojo": "Esa prohibición de empeorar la situación del recurrente se conoce como prohibición de la “reformatio in peius”."
+},
+"vo-06-013": {
+  "bloque": "recursos",
+  "precepto": "Art. 122.2 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+    "No. Un mes es el plazo para **presentar** la alzada contra un acto expreso (art. 122.1) y para resolver la reposición (art. 124.2), no para resolver la alzada.",
+    "Es esta. El **art. 122.2** fija tres meses para dictar y notificar la resolución de la alzada. Pasado ese plazo, en general se puede entender desestimado el recurso.",
+    "No. La ley no da seis meses para resolver la alzada: son tres.",
+    "No. La ley no da dos meses para resolver la alzada: son tres."
+  ],
+  "ojo": "Alzada: un mes para presentar y tres para resolver. Reposición: un mes para presentar y un mes para resolver."
+},
+"vo-06-014": {
+  "bloque": "recursos",
+  "precepto": "Art. 122.3 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+    "No. Es al revés: la regla general es entender el recurso desestimado (art. 122.2). Solo se entiende estimado en el caso especial del art. 24.1, párrafo tercero.",
+    "No. Falla “en todos los casos”. El art. 122.2 deja a salvo el supuesto del art. 24.1, párrafo tercero: alzada contra la desestimación por silencio de una solicitud, que se entiende estimada si tampoco se resuelve, salvo en las materias excluidas por ese artículo.",
+    "No. Un mes es lo que hay para presentar la alzada. Para resolverla hay tres meses (art. 122.2).",
+    "Es esta. El **art. 122.3** dice que contra la resolución de una alzada no cabe otro recurso administrativo, salvo el extraordinario de revisión en los casos del art. 125.1."
+  ],
+  "ojo": "Es el llamado doble silencio: si te callan al pedir y te vuelven a callar en la alzada, puedes entender que te dan la razón, con las excepciones de la ley."
+},
+"vo-06-015": {
+  "bloque": "recursos",
+  "precepto": "Art. 122.1 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+    "No. El art. 122.3 solo deja, tras la alzada, el recurso extraordinario de revisión. La reposición no cabe.",
+    "No. Falla “en todo caso”. Lo **resuelve** el superior jerárquico, pero puede presentarse ante el órgano que dictó el acto o ante el competente para resolver (art. 121.2).",
+    "Es esta. Es literal del **art. 122.1**: un mes si el acto es expreso. Si no es expreso, se puede presentar en cualquier momento a partir del día siguiente a aquel en que se producen los efectos del silencio.",
+    "No. La alzada es para actos que no ponen fin a la vía administrativa (art. 121.1), y el contencioso exige actos que sí le pongan fin (art. 25.1 de la Ley 29/1998). Por eso no pueden ir a la vez."
+  ],
+  "ojo": "“En todo caso” es la palabra que invalida la segunda opción. Distingue dónde se presenta el recurso de quién lo resuelve."
+},
+"vo-06-016": {
+  "bloque": "recursos",
+  "precepto": "Art. 124.2 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. El **art. 124.2** fija un mes para dictar y notificar la resolución de la reposición. Coincide con el mes que hay para presentarlo si el acto es expreso (art. 124.1).",
+    "No. Tres meses es lo que hay para resolver la alzada (art. 122.2) y el extraordinario de revisión (art. 126.3), no la reposición.",
+    "No. El art. 124.2 no da dos meses para resolver la reposición: da uno.",
+    "No. El art. 124.2 no habla de días: el plazo es de un mes."
+  ]
+},
+"vo-06-017": {
+  "bloque": "recursos",
+  "precepto": "Arts. 24.1 y 123.2 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+    "No. Sí cabe el contencioso tras la reposición. El art. 123.2 solo exige esperar a que se resuelva expresamente o se produzca la desestimación presunta.",
+    "No. Lo que se entiende es lo contrario. El art. 123.2 habla de “desestimación presunta” de la reposición.",
+    "No. Tres meses es el plazo de la alzada. En la reposición es un mes (art. 124.2).",
+    "Es esta. El **art. 24.1**, párrafo tercero, dice que en los procedimientos de impugnación el silencio es desestimatorio, y su única excepción es para el recurso de **alzada**. Así que en reposición el silencio siempre es desestimatorio, y el **art. 123.2** habla de “desestimación presunta”."
+  ],
+  "ojo": "“En todos los casos” sería falso en la alzada (hay excepción), pero aquí es cierto: la excepción no alcanza a la reposición."
+},
+"vo-06-018": {
+  "bloque": "recursos",
+  "precepto": "Art. 124.3 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. Es casi literal del **art. 124.3**: contra la resolución de una reposición no se puede presentar otra reposición. Solo se puede usar una vez.",
+    "No. Según el art. 123.2, no se puede ir al contencioso hasta que se resuelva la reposición o se produzca su desestimación presunta. O uno, o el otro, pero no a la vez.",
+    "No. Dos meses no es el plazo. Según el art. 124.2, es de un mes.",
+    "No. Lo que describe es la alzada. La reposición se presenta ante el **mismo** órgano que dictó el acto (art. 123.1)."
+  ]
+},
+"vo-06-019": {
+  "bloque": "recursos",
+  "precepto": "Arts. 113 y 125.1 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+    "No. Lo resuelve el mismo órgano que dictó el acto, no su superior (art. 125.1).",
+    "No. Es lo contrario. El art. 125.3 dice que el recurso no perjudica el derecho a pedir la declaración de nulidad (art. 106) ni la rectificación de errores (art. 109.2).",
+    "No. La inadmisión tiene que ser **motivada** (art. 126.1). Lo que no hace falta es el dictamen del Consejo de Estado u órgano consultivo autonómico. Además, los otros recursos tienen que haberse desestimado en cuanto al fondo.",
+    "Es esta. Lo dice el **art. 113**: contra los actos firmes en vía administrativa, este recurso solo procede cuando se da alguna de las circunstancias del art. 125.1. Son causas tasadas, una lista cerrada."
+  ],
+  "ojo": "La trampa de la tercera opción es cambiar “motivadamente” por “sin necesidad de motivación”, confundiéndolo con “sin necesidad de dictamen”."
+},
+"vo-06-020": {
+  "bloque": "recursos",
+  "precepto": "Art. 125.1 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. El **art. 125.1** dice que se presenta “ante el órgano administrativo que los dictó”, y ese mismo órgano es el competente para resolverlo.",
+    "No. Eso se parece a la alzada, que resuelve el superior jerárquico (art. 121.1). Aquí no interviene el superior.",
+    "No. Un órgano jurisdiccional es un juzgado o tribunal. Este es un recurso administrativo y se presenta ante la propia Administración.",
+    "No. El art. 125.1 no menciona a ningún superior. El órgano que resuelve es el mismo que dictó el acto."
+  ]
+},
+"vo-06-021": {
+  "bloque": "recursos",
+  "precepto": "Art. 125.2 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+    "No. El art. 125.2 no prevé dos años: por error de hecho son cuatro.",
+    "Es esta. Para la causa a) del art. 125.1 (error de hecho que resulta de los propios documentos del expediente), el **art. 125.2** da cuatro años desde la notificación de la resolución impugnada.",
+    "No. El art. 125.2 no prevé un año: por error de hecho son cuatro.",
+    "No. Tres meses es el plazo de las otras causas, b), c) y d). Además, se cuenta desde que se conocen los documentos o desde que la sentencia judicial queda firme, no desde la notificación."
+  ],
+  "ojo": "Causa a), cuatro años. Las demás, tres meses."
+},
+"vo-06-022": {
+  "bloque": "iniciativa",
+  "precepto": "Art. 128.2 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+    "No. Las sanciones tienen la misma prohibición. El art. 128.2 dice que los reglamentos no podrán tipificar infracciones ni establecer penas o sanciones.",
+    "Es esta. Una Orden Ministerial es un reglamento (art. 24.2 de la Ley 50/1997), y el **art. 128.2** prohíbe a los reglamentos tipificar infracciones administrativas. Crear infracciones nuevas es cosa de la ley (art. 27.1 de la Ley 40/2015).",
+    "No. El art. 128.2 no distingue por gravedad. También las leves tienen que estar en una ley: es la ley la que clasifica las infracciones en leves, graves y muy graves (art. 27.1 de la Ley 40/2015).",
+    "No. Sí se vulneraría una norma: el art. 128.2 de la Ley 39/2015 y el art. 27.1 de la Ley 40/2015."
+  ],
+  "ojo": "Lo único que puede hacer un reglamento es concretar o graduar las infracciones que ya fija la ley, sin crear otras nuevas (art. 27.3 de la Ley 40/2015)."
+},
+"vo-06-023": {
+  "bloque": "iniciativa",
+  "precepto": "Art. 128.1 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+    "No. Este reparto por materias (transversales o fiscales) es inventado. El art. 128.1 no reparte la potestad así.",
+    "No. Las Cortes Generales no aparecen en el art. 128.1, y faltan las comunidades autónomas y los entes locales.",
+    "No. Falla “exclusivamente”. También la tienen las comunidades autónomas y los órganos de gobierno locales.",
+    "Es esta. El **art. 128.1** reconoce la potestad reglamentaria (el poder de dictar reglamentos) a tres niveles: el Gobierno de la Nación, los órganos de Gobierno de las comunidades autónomas y los órganos de gobierno locales."
+  ]
+},
+"vo-06-024": {
+  "bloque": "iniciativa",
+  "precepto": "Art. 128.2 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. El **art. 128.2** habla de “su función de desarrollo o colaboración con respecto a la ley”. El reglamento completa a la ley y no la sustituye.",
+    "No. Dice “podrán” y es “no podrán”. El art. 128.2 prohíbe a los reglamentos regular materias que corresponden a las Cortes Generales o a las Asambleas Legislativas autonómicas.",
+    "No. El art. 128.2 dice que los reglamentos “no podrán” tipificar delitos, faltas o infracciones administrativas.",
+    "No. Tampoco pueden establecer tributos, según el mismo art. 128.2."
+  ]
+},
+"vo-06-025": {
+  "bloque": "iniciativa",
+  "precepto": "Art. 129.5 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+    "No. El art. 129.2 une necesidad y eficacia, y pide una razón de interés general, fines claros e instrumento adecuado. No es donde se habla de definir objetivos en el preámbulo.",
+    "No. La seguridad jurídica (art. 129.4) pide coherencia con el resto del ordenamiento, para que el marco sea estable, predecible y claro.",
+    "Es esta. Según el **art. 129.5**, por el principio de transparencia las Administraciones definirán claramente los objetivos de la iniciativa y su justificación en el preámbulo o exposición de motivos. También facilitarán el acceso a las normas y la participación de los destinatarios.",
+    "No. El principio de necesidad, junto con el de eficacia (art. 129.2), exige una razón de interés general. Lo que pregunta el enunciado está en el apartado de transparencia."
+  ],
+  "ojo": "Es fácil confundirlo porque el art. 129.2 habla de “fines perseguidos”. La mención a objetivos en el preámbulo o exposición de motivos es del apartado 5."
+},
+"vo-06-026": {
+  "bloque": "iniciativa",
+  "precepto": "Art. 129.4 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+    "No. Dar la habilitación directamente a ministros o consejeros es excepcional y debe justificarse en la ley que habilita. No es la regla general.",
+    "No. A los órganos dependientes de ministros o consejeros también se les puede atribuir, pero solo de forma excepcional y con justificación en la ley habilitante.",
+    "No. Mezcla la regla general (el Gobierno) con la excepción (los ministros o consejeros). Las dos no están al mismo nivel.",
+    "Es esta. El **art. 129.4**, párrafo tercero, dice que las habilitaciones para desarrollar una ley por reglamento se dan, con carácter general, “al Gobierno o Consejo de Gobierno respectivo”."
+  ],
+  "ojo": "El BOE avisa de que la STC 55/2018 anuló algunos incisos de este párrafo. La idea que se pregunta no cambia: la regla general es el Gobierno y la atribución directa a un ministro es la excepción."
+},
+"vo-06-027": {
+  "bloque": "iniciativa",
+  "precepto": "Art. 129.6 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+    "No. Jerarquía no es uno de los principios de buena regulación del art. 129.1. Son necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia.",
+    "Es esta. Es literal del **art. 129.6**: por el principio de eficiencia, la iniciativa debe evitar cargas innecesarias o accesorias y racionalizar la gestión de los recursos públicos. Eficiencia es lograrlo gastando y molestando lo menos posible.",
+    "No. La eficacia (art. 129.2) va de que la norma sea el instrumento adecuado para alcanzar sus fines, no de evitar cargas.",
+    "No. La transparencia (art. 129.5) va de acceso a las normas, objetivos claros y participación."
+  ],
+  "ojo": "Eficacia es conseguir el fin. Eficiencia es conseguirlo con el menor coste y las menores cargas."
+},
+"vo-06-028": {
+  "bloque": "iniciativa",
+  "precepto": "Art. 131 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. El **art. 131**, párrafo segundo, da a la publicación en sede electrónica, en las condiciones y con las garantías que determine cada Administración, “los mismos efectos que los atribuidos a su edición impresa”. La versión electrónica vale igual que la de papel.",
+    "No. No son efectos complementarios, sino los mismos. Lo de “complementarios” está en el párrafo primero y se refiere a otros medios de publicidad adicionales, no al diario oficial electrónico.",
+    "No. No hay preferencia del papel: los efectos son los mismos. “Facultativa” se usa en el párrafo primero para esos otros medios de publicidad adicionales.",
+    "No. No son efectos supletorios, es decir, de reserva para cuando falte el otro. Son los mismos efectos."
+  ]
+},
+"vo-06-029": {
+  "bloque": "iniciativa",
+  "precepto": "Art. 131 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+    "No. Es verdad, pero se queda corta: el art. 131 también incluye reglamentos y disposiciones administrativas.",
+    "No. Es verdad, pero se queda corta: el art. 131 también incluye las normas con rango de ley y las disposiciones administrativas.",
+    "No. Es verdad, pero se queda corta: el art. 131 también incluye las normas con rango de ley y los reglamentos.",
+    "Es esta. El **art. 131** dice que las normas con rango de ley, los reglamentos y las disposiciones administrativas “habrán de publicarse en el diario oficial correspondiente” para entrar en vigor y producir efectos. Como las tres son ciertas, esta es la buena."
+  ]
+},
+"vo-06-030": {
+  "bloque": "iniciativa",
+  "precepto": "Art. 131 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+    "No. “Auténtico” es correcto, pero “supletoria” no: el BOE electrónico no es una versión de reserva.",
+    "Es esta. El **art. 131**, párrafo tercero, dice que la publicación del BOE en sede electrónica “tendrá carácter oficial y auténtico”. Por eso el BOE electrónico es el que vale.",
+    "No. No es complementario de la edición en papel. “Complementarios” se dice en el párrafo primero de los otros medios de publicidad que se añaden al diario oficial.",
+    "No. “Auténtico” es correcto, pero “complementario” no. La fórmula es “oficial y auténtico”."
+  ]
+},
+"vo-06-031": {
+  "bloque": "iniciativa",
+  "precepto": "Art. 133.1.d) de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+    "No. El coste no es uno de los cuatro temas de la consulta. Es materia de la Memoria del Análisis de Impacto Normativo (art. 26.3 de la Ley 50/1997).",
+    "No. El impacto medioambiental no es uno de los cuatro temas de la consulta del art. 133.1.",
+    "No. El impacto de género tampoco es tema de la consulta. Se analiza en la Memoria del Análisis de Impacto Normativo (art. 26.3.f de la Ley 50/1997).",
+    "Es esta. Es el **art. 133.1.d)**, y lo repite el art. 26.2.d) de la Ley 50/1997. La consulta recoge opiniones sobre cuatro cosas: los problemas que se quieren solucionar, la necesidad y oportunidad de aprobar la norma, sus objetivos y las posibles soluciones alternativas, regulatorias y no regulatorias."
+  ],
+  "ojo": "Se pregunta “en el ámbito estatal” porque la STC 55/2018 limitó este artículo: casi todo el art. 133 no se aplica a las iniciativas de las comunidades autónomas."
+},
+"vo-06-032": {
+  "bloque": "iniciativa",
+  "precepto": "Art. 133.1.a) de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+    "No. El impacto medioambiental no es uno de los cuatro temas de la consulta del art. 133.1.",
+    "No. El impacto sobre igualdad y no discriminación tampoco es uno de esos cuatro temas.",
+    "No. Los mecanismos de financiación no aparecen en la lista del art. 133.1.",
+    "Es esta. Es el **art. 133.1.a)**: “los problemas que se pretenden solucionar con la iniciativa”. Los otros tres temas son la necesidad y oportunidad de aprobarla, sus objetivos y las soluciones alternativas."
+  ],
+  "ojo": "Para recordar los cuatro temas: problemas, necesidad, objetivos y alternativas."
+},
+"vo-06-033": {
+  "bloque": "iniciativa",
+  "precepto": "Art. 133.4 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+    "No. El art. 133.4 prevé expresamente casos en los que se puede prescindir de estos trámites.",
+    "No. El informe del Consejo de Estado no aparece en el art. 133.4 como motivo para saltarse estos trámites. Son cosas distintas.",
+    "No. El art. 133.4 no distingue entre leyes y reglamentos: la excepción vale para los dos.",
+    "Es esta. El **art. 133.4** permite prescindir de la consulta, la audiencia y la información públicas en las normas presupuestarias u organizativas de las Administraciones o de sus organizaciones dependientes o vinculadas, y cuando haya razones graves de interés público."
+  ]
+},
+"vo-06-034": {
+  "bloque": "iniciativa",
+  "precepto": "Art. 26.5 de la Ley 50/1997",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. El **art. 26.5** dice que “en todo caso” los proyectos de disposiciones reglamentarias deben ser informados por la Secretaría General Técnica del Ministerio o Ministerios proponentes. Es el único informe de esta lista que se pide siempre.",
+    "No. El dictamen del Consejo de Estado se pide “cuando fuera preceptivo o se considere conveniente” (art. 26.7), no con todo proyecto.",
+    "No. El art. 26.9 encarga al Ministerio de la Presidencia analizar la calidad y coordinación de la norma, pero no lo plantea como informe que acompañe al proyecto.",
+    "No. El art. 26 de la Ley 50/1997 no menciona un informe del Servicio Jurídico del Estado."
+  ],
+  "ojo": "El enunciado usa palabras de la redacción antigua de la Ley 50/1997, cuando el procedimiento estaba en otro artículo. Tras la reforma de la Ley 40/2015 está en el art. 26, que ya no habla de “acompañar” este informe, pero sigue siendo obligatorio."
+},
+"vo-06-035": {
+  "bloque": "iniciativa",
+  "precepto": "Art. 26.6 de la Ley 50/1997",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. El **art. 26.6** fija un plazo mínimo de 15 días hábiles para la audiencia e información públicas. Solo se puede reducir hasta 7 días hábiles por razones motivadas o por tramitación urgente.",
+    "No. Diez días hábiles no es el mínimo. El general es de 15, y el reducido, de 7.",
+    "No. El plazo se cuenta en días hábiles y son 15. Ojo, los días naturales salen en otro trámite: la consulta pública previa dura al menos 15 días naturales (art. 26.2).",
+    "No. Treinta días no es el mínimo general: son 15 hábiles."
+  ],
+  "ojo": "No confundas: audiencia, 15 días **hábiles**. Consulta pública previa, 15 días **naturales**."
+},
+"vo-06-036": {
+  "bloque": "iniciativa",
+  "precepto": "Art. 26.6 de la Ley 50/1997",
+  "correcta": 2,
+  "justificaciones": [
+    "No. Este motivo solo permite omitir la **consulta pública** previa (art. 133.4, párrafo segundo, de la Ley 39/2015, y art. 26.2.e de la Ley 50/1997), no la audiencia e información públicas.",
+    "No. Es otro motivo que solo sirve para omitir la **consulta pública** (art. 133.4, párrafo segundo, de la Ley 39/2015, y art. 26.2.d de la Ley 50/1997).",
+    "Es esta. El **art. 26.6** dice que la audiencia e información públicas no se aplican a las disposiciones presupuestarias ni a las que regulan los órganos, cargos y autoridades del Gobierno o de las organizaciones dependientes o vinculadas. También pueden omitirse por graves razones de interés público, justificadas en la Memoria.",
+    "No. Tampoco este motivo sirve para la audiencia: solo permite omitir la **consulta pública** (art. 133.4, párrafo segundo, de la Ley 39/2015, y art. 26.2.c de la Ley 50/1997)."
+  ],
+  "ojo": "La trampa es confundir los dos trámites. La consulta pública va antes de redactar el texto, y la audiencia, cuando el texto ya existe. Las excepciones de “impacto no significativo”, “sin obligaciones relevantes” y “aspectos parciales” son solo de la consulta."
+}
+}

@@ -1,0 +1,311 @@
+{
+"vo-12-001": {
+ "bloque": "recursos",
+ "precepto": "Art. 112.1 de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "Es verdadera que cabe recurso, así que no se marca. El art. 112.1 empieza justo por ahí: “contra las resoluciones” se puede poner alzada o reposición.",
+  "Es verdadera que cabe recurso, así que no se marca. Es el primero de los tres casos de actos de trámite que se pueden recurrir: los que deciden directa o indirectamente el fondo del asunto.",
+  "Es verdadera que cabe recurso, así que no se marca. Es el segundo caso: el trámite que impide seguir con el procedimiento se puede recurrir (art. 112.1).",
+  "Esta es la falsa, y por eso es la que hay que marcar. El **art. 112.1** habla de perjuicio **irreparable**, no “reparable”. Si el perjuicio se puede reparar, no cabe recurso contra ese trámite: lo alegas después, para que se tenga en cuenta en la resolución final."
+ ],
+ "ojo": "Una sola letra cambia el sentido: “irreparable” por “reparable”. Actos de trámite recurribles: deciden el fondo, impiden continuar, o causan indefensión o perjuicio irreparable."
+},
+"vo-12-002": {
+ "bloque": "recursos",
+ "precepto": "Art. 113 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. Un acto firme es el que ya no admite los recursos ordinarios. La alzada y la reposición no caben aquí: solo queda el extraordinario de revisión (art. 113).",
+  "No. La reposición es para actos que ponen fin a la vía administrativa y dentro de plazo (arts. 123 y 124). Contra un acto ya firme no cabe.",
+  "Es esta. El **art. 113** lo dice con “sólo”: contra actos firmes en vía administrativa únicamente procede el recurso extraordinario de revisión, y además solo si se da alguna de las cuatro circunstancias del art. 125.1.",
+  "No. La alzada es para actos que no ponen fin a la vía administrativa y dentro de plazo (arts. 121 y 122). Pasado ese plazo el acto es firme y la alzada ya no cabe."
+ ],
+ "ojo": "Firme = extraordinario de revisión, y no por cualquier motivo: solo por los tasados en el art. 125.1."
+},
+"vo-12-003": {
+ "bloque": "recursos",
+ "precepto": "Art. 114.1 de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "No es la mejor opción, aunque es cierta. Está en el art. 114.1.a), pero las otras dos también son ciertas, así que hay que marcar la que las reúne todas.",
+  "No es la mejor opción, aunque es cierta. Está en el art. 114.1.c): si un órgano no tiene superior, no hay a quién recurrir en alzada. La ley añade “salvo que una Ley establezca lo contrario”. Las otras dos también son ciertas.",
+  "No es la mejor opción, aunque es cierta. Está en el art. 114.1.d), pero las otras dos también son ciertas.",
+  "Es esta. Las tres opciones anteriores aparecen tal cual en el **art. 114.1**, letras a), c) y d). Como todas ponen fin a la vía administrativa, la respuesta completa es “todas”."
+ ]
+},
+"vo-12-004": {
+ "bloque": "recursos",
+ "precepto": "Art. 114.2.a) de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. El **art. 114.2.a)** lo dice con esas palabras: en el ámbito estatal ponen fin a la vía administrativa los actos de los miembros y órganos del Gobierno. Por encima de ellos no hay nadie a quien recurrir en alzada.",
+  "No. Te han cambiado los Secretarios de Estado por “Secretarios Generales”. El art. 114.2.b) habla de Ministros y **Secretarios de Estado**.",
+  "No. Te han bajado el nivel. El art. 114.2.c) dice órganos directivos con nivel de **Director general** o superior, no Subdirector General.",
+  "No. Falla el final y también falta un dato. El art. 114.2.d) dice “salvo que por **ley** se establezca otra cosa”, no por reglamentos, y habla de máximos órganos de dirección unipersonales o colegiados, según sus estatutos."
+ ],
+ "ojo": "Tres cambios típicos del art. 114.2: Secretarios de Estado (no Generales), Director general (no Subdirector) y “por ley” (no por reglamento)."
+},
+"vo-12-005": {
+ "bloque": "recursos",
+ "precepto": "Art. 115.2 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. El error al calificar el recurso no es causa de inadmisión. Las causas están en el art. 116, y esta no figura entre ellas.",
+  "Es esta. El **art. 115.2** dice que el error o la falta de calificación no es obstáculo para tramitarlo, “siempre que se deduzca su verdadero carácter”. Por ejemplo, si llamas “reposición” a lo que en realidad es una alzada, se tramita como alzada.",
+  "No. Equivocarse con el nombre no afecta al fondo. El recurso se tramita y se resuelve según lo que sea de verdad (art. 115.2), sin desestimarlo por eso.",
+  "No. La ley no pide subsanar el nombre del recurso. La propia Administración lo tramita según su verdadero carácter (art. 115.2)."
+ ],
+ "ojo": "Lo que cuenta es lo que pides, no cómo lo llamas."
+},
+"vo-12-006": {
+ "bloque": "recursos",
+ "precepto": "Arts. 115.2 y 116 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "Es verdadera como causa de inadmisión, así que no se marca. Es el art. 116.e): carecer el recurso manifiestamente de fundamento.",
+  "Esta es la falsa, y por eso es la que hay que marcar. La falta de calificación no aparece en la lista del **art. 116**. Al contrario, el **art. 115.2** dice que no impide tramitar el recurso si se deduce su verdadero carácter.",
+  "Es verdadera como causa de inadmisión, así que no se marca. Es el art. 116.b): carecer de legitimación el recurrente, es decir, no tener un interés propio en el asunto.",
+  "Es verdadera como causa de inadmisión, así que no se marca. Es el art. 116.c): tratarse de un acto que no admite recurso."
+ ],
+ "ojo": "Las cinco causas del art. 116: órgano incompetente de otra Administración, sin legitimación, acto no recurrible, fuera de plazo y manifiestamente sin fundamento."
+},
+"vo-12-007": {
+ "bloque": "recursos",
+ "precepto": "Art. 117.4 de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "No. Fallan dos cosas: no es el superior jerárquico, sino el órgano a quien competa resolver el recurso, y no “suspenderá” como obligación, sino que “podrá” suspender tras ponderar los perjuicios (art. 117.2).",
+  "No. Te han cambiado el plazo: son **un mes**, no tres (art. 117.3). Pasado ese mes sin resolución expresa notificada, la ejecución se entiende suspendida.",
+  "No. Te han cambiado la causa: el art. 117.2.b) habla de causas de **nulidad de pleno derecho** del art. 47.1, no de anulabilidad.",
+  "Es esta. Es el párrafo tercero del **art. 117.4**: la suspensión sigue después de agotar la vía administrativa si el interesado lo pidió antes, existe medida cautelar y sus efectos se extienden a la vía contencioso-administrativa (la de los tribunales)."
+ ],
+ "ojo": "Regla general: recurrir no suspende. Excepción: el órgano que resuelve puede suspender por perjuicio de imposible o difícil reparación o por causa de nulidad. Si no contesta en un mes, queda suspendido."
+},
+"vo-12-008": {
+ "bloque": "recursos",
+ "precepto": "Art. 118.3 de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "No. Te han cambiado “propuestas” por “resoluciones”. La lista del art. 118.3 es: el recurso, los informes y las propuestas.",
+  "No. Te han cambiado “informes” por “pruebas”. El art. 118.3 no menciona las pruebas: dice el recurso, los informes y las propuestas.",
+  "No. Aquí cambian dos cosas: “solicitud” en lugar de “recurso” y “resoluciones” en lugar de “propuestas” (art. 118.3).",
+  "Es esta. El **art. 118.3** dice literalmente que el recurso, los informes y las propuestas no tienen el carácter de documentos nuevos. Por eso no obligan a abrir un nuevo trámite de audiencia. Tampoco lo son los que los interesados ya aportaron antes de la resolución impugnada."
+ ],
+ "ojo": "Para recordarlo: R, I, P: Recurso, Informes, Propuestas."
+},
+"vo-12-009": {
+ "bloque": "recursos",
+ "precepto": "Art. 119.3 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. Sobra el “únicamente”. El órgano no se limita a lo que plantean los interesados: decide también lo que no hayan alegado (art. 119.3).",
+  "Es esta. El **art. 119.3** dice que el órgano decide cuantas cuestiones, de forma y de fondo, plantee el procedimiento, “hayan sido o no alegadas por los interesados”. Si no se alegaron, antes les tiene que oír.",
+  "No. El órgano no se limita a las cuestiones de fondo planteadas por los interesados. Puede decidir también otras de fondo no alegadas, igual que las de forma (art. 119.3).",
+  "No. Se queda muy corta: el art. 119.3 incluye forma y fondo, y también lo no alegado por los interesados."
+ ],
+ "ojo": "Puede mirar más de lo que alegas, pero con dos límites: la resolución debe ser congruente con lo pedido y nunca puede empeorar tu situación inicial."
+},
+"vo-12-010": {
+ "bloque": "recursos",
+ "precepto": "Art. 120.1 de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "No. Sobra “únicamente si ha sido solicitado por algún interesado”. El art. 120.1 no exige que nadie lo pida: el órgano puede acordarlo por sí mismo.",
+  "No. “Deberá” y “en todo caso” lo convierten en obligación. El art. 120.1 dice “podrá”: es una decisión del órgano, no un deber.",
+  "No. Fallan dos cosas: dice “deberá” en vez de “podrá” y añade la condición de que lo pida un interesado, que no está en el art. 120.1.",
+  "Es esta. El **art. 120.1** dice que el órgano “podrá acordar” la suspensión del plazo para resolver hasta que haya pronunciamiento judicial. Es una posibilidad, sin condiciones añadidas. Así evita resolver muchos recursos iguales antes de saber qué dice el juez."
+ ],
+ "ojo": "El acuerdo de suspensión se notifica a los interesados, y estos pueden recurrirlo (art. 120.2)."
+},
+"vo-12-011": {
+ "bloque": "recursos",
+ "precepto": "Art. 121.2 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. Sobra el “únicamente”. También se puede presentar ante el órgano que dictó el acto (art. 121.2).",
+  "Es esta. El **art. 121.2** te deja elegir: lo presentas ante el órgano que dictó el acto o ante el competente para resolverlo, que es su superior jerárquico (art. 121.1). Lo resuelve siempre este último.",
+  "No. El “únicamente” lo estropea, porque también puede presentarse ante el órgano competente. El resto sí es cierto: si se presenta ante el que dictó el acto, tiene 10 días para remitirlo con su informe y una copia del expediente.",
+  "No. Nunca son el mismo: la alzada la resuelve el superior jerárquico del que dictó el acto (art. 121.1). Si fuera el mismo órgano, sería reposición."
+ ],
+ "ojo": "Alzada: se presenta en cualquiera de los dos, la resuelve el superior. Reposición: se presenta y se resuelve en el mismo órgano."
+},
+"vo-12-012": {
+ "bloque": "recursos",
+ "precepto": "Art. 122.1 de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. El **art. 122.1** fija **un mes** para interponer la alzada si el acto es expreso, o sea, si la Administración ha contestado de verdad. Pasado ese mes sin recurrir, la resolución es firme a todos los efectos.",
+  "No. Sí se puede. Cuando el acto no es expreso (hay silencio), la alzada cabe en cualquier momento desde el día siguiente a que se produzcan los efectos del silencio (art. 122.1).",
+  "No. Si el acto no es expreso no hay plazo de tres meses: se puede recurrir “en cualquier momento” a partir del día siguiente a los efectos del silencio (art. 122.1).",
+  "No. Para acto expreso es un mes, no tres. Los tres meses son el plazo que tiene la Administración para resolver y notificar la alzada (art. 122.2)."
+ ],
+ "ojo": "Un mes lo tienes tú para recurrir. Tres meses los tiene la Administración para resolver."
+},
+"vo-12-013": {
+ "bloque": "recursos",
+ "precepto": "Arts. 122.2 y 122.3 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. Te han cambiado el plazo: un mes es lo que tienes para interponer la alzada contra un acto expreso (art. 122.1). Para resolver y notificar son tres meses (art. 122.2).",
+  "Es esta. Son tres meses para dictar y notificar (**art. 122.2**) y, contra la resolución, no cabe otro recurso administrativo salvo el extraordinario de revisión en los casos del art. 125.1 (**art. 122.3**). Las dos partes de la frase coinciden con la ley.",
+  "No. Falla el plazo, que son tres meses y no dos, y se olvida de la excepción del recurso extraordinario de revisión (art. 122).",
+  "No. El plazo sí es bueno, pero le falta la excepción: sí cabe el recurso extraordinario de revisión en los casos del art. 125.1 (art. 122.3)."
+ ],
+ "ojo": "Fíjate en cómo termina la frase: la opción sin la salvedad del recurso extraordinario es la trampa."
+},
+"vo-12-014": {
+ "bloque": "recursos",
+ "precepto": "Art. 123.2 de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. El **art. 123.2** dice que, si has puesto reposición, no puedes ir al contencioso-administrativo (a los tribunales) hasta que esa reposición se resuelva expresamente o se entienda desestimada por silencio. Primero termina una vía y luego empieza la otra.",
+  "No. La ley no permite interponer los dos a la vez. Y la espera es al revés: es el contencioso el que debe aguardar a que acabe la reposición (art. 123.2).",
+  "No. Está al revés. La reposición es previa y opcional: no hay que esperar al contencioso para ponerla. Lo que se espera es el resultado de la reposición para ir al contencioso (art. 123.2).",
+  "No. Esa regla de “prevalece el primero que se resuelva” no existe en la ley. El art. 123.2 evita el problema: no se pueden simultanear."
+ ],
+ "ojo": "Reposición es opcional, pero si la eliges tienes que esperar a su resultado antes de ir al juez."
+},
+"vo-12-015": {
+ "bloque": "recursos",
+ "precepto": "Arts. 123.1 y 124.1 de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "No. Está al revés: la reposición cabe contra actos que **ponen fin** a la vía administrativa (art. 123.1). Contra los que no ponen fin, lo que cabe es alzada (art. 121.1).",
+  "No. Contra un acto firme solo cabe el recurso extraordinario de revisión (art. 113), y además solo en los casos del art. 125.1.",
+  "No. El “nunca” lo estropea. También caben contra actos de trámite que deciden el fondo, impiden continuar o causan indefensión o perjuicio irreparable (art. 112.1).",
+  "Es esta. El **art. 124.1** da **un mes** para interponer el recurso de reposición si el acto es expreso. Pasado ese mes, solo queda ir al contencioso-administrativo, sin perjuicio del extraordinario de revisión si procede."
+ ],
+ "ojo": "La opción no lo matiza, pero el mes es para actos expresos. Si el acto no es expreso (silencio), se puede interponer en cualquier momento desde el día siguiente al acto presunto."
+},
+"vo-12-016": {
+ "bloque": "recursos",
+ "precepto": "Art. 124.2 de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. El **art. 124.2** fija **un mes** como plazo máximo para dictar y notificar la resolución de la reposición. Es el mismo plazo que tienes tú para interponerla si el acto es expreso, y así es fácil de recordar: reposición, un mes y un mes.",
+  "No. Tres meses es el plazo para resolver la alzada (art. 122.2) y el extraordinario de revisión (art. 126.3), no la reposición.",
+  "No. Sí hay plazo: un mes (art. 124.2).",
+  "No. Sí hay una opción correcta: la de 1 mes, que es la que dice el art. 124.2."
+ ],
+ "ojo": "Plazos para resolver: reposición, un mes. Alzada y extraordinario de revisión, tres meses."
+},
+"vo-12-017": {
+ "bloque": "recursos",
+ "precepto": "Art. 125.1.b) de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. Dos cambios: el art. 125.1.a) habla de error **de hecho**, no de derecho, y exige que resulte de los documentos incorporados al expediente, así que sobra “o no incorporados”.",
+  "Es esta. Es el **art. 125.1.b)** tal cual: aparecen documentos de valor esencial que, aunque sean posteriores, demuestran que la resolución se equivocó. Por ejemplo, un certificado que no estaba disponible cuando se resolvió.",
+  "No. El “sean o no” lo estropea. El art. 125.1.c) exige que los documentos o testimonios hayan sido **declarados falsos por sentencia judicial firme** y que hayan influido esencialmente.",
+  "No. La lista del art. 125.1.d) es prevaricación, cohecho, violencia, maquinación fraudulenta u otra conducta punible. “Malversación” no se nombra, y la opción cambia esa lista y exige dos conductas a la vez con la “y”."
+ ],
+ "ojo": "Las cuatro causas: error de hecho, documentos esenciales nuevos, documentos o testimonios declarados falsos por sentencia firme, y conducta punible declarada por sentencia firme."
+},
+"vo-12-018": {
+ "bloque": "recursos",
+ "precepto": "Art. 125.2 de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "Es verdadera, así que no se marca. Lo dice el art. 125.1: se interpone ante el órgano que dictó el acto, y ese mismo órgano lo resuelve.",
+  "Es verdadera, así que no se marca. Es el art. 126.3: pasados tres meses sin resolución notificada se entiende desestimado y ya puedes ir al contencioso-administrativo.",
+  "Es verdadera, así que no se marca. Art. 113 y 125.1: es precisamente el recurso contra actos firmes en vía administrativa.",
+  "Esta es la falsa, y por eso es la que hay que marcar. Para el error de hecho (causa a), el **art. 125.2** da **cuatro años** desde la notificación de la resolución. Los tres meses son para las otras tres causas, contados desde que conoces los documentos o desde que la sentencia es firme."
+ ],
+ "ojo": "Causa a), cuatro años. Causas b), c) y d), tres meses. Y son también tres meses los que tiene el órgano para resolver."
+},
+"vo-12-019": {
+ "bloque": "recursos",
+ "precepto": "Art. 126.3 de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. El **art. 126.3** dice que, pasados tres meses desde la interposición sin resolución notificada, el recurso “se entenderá desestimado”. Eso es silencio negativo: no contestar equivale a decir que no, y ya puedes ir al contencioso-administrativo.",
+  "No. No cabe reposición. Lo que queda abierto es la vía jurisdiccional contencioso-administrativa, es decir, los tribunales (art. 126.3).",
+  "No. Está al revés: la ley dice “se entenderá desestimado”, así que el silencio es negativo, no positivo (art. 126.3).",
+  "No. No cabe alzada. Lo que queda abierto es el contencioso-administrativo (art. 126.3)."
+ ]
+},
+"vo-12-020": {
+ "bloque": "iniciativa",
+ "precepto": "Art. 128.2 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. El art. 128.3 es tajante: ninguna disposición administrativa puede vulnerar los preceptos de otra de rango superior. Y no hay excepción por ser favorable a los interesados.",
+  "Es esta. El **art. 128.2** dice que los reglamentos no pueden establecer tributos, “exacciones parafiscales” ni otras cargas de carácter público. Una exacción parafiscal es un pago obligatorio a favor de una Administración que no se llama tributo pero funciona de forma parecida.",
+  "No. El art. 128.2 dice justo lo contrario: los reglamentos no pueden tipificar infracciones ni establecer sanciones. Solo pueden colaborar con la ley, con especificaciones o graduaciones de lo que la ley ya tipifica, sin crear nuevas (art. 27.3 de la Ley 40/2015).",
+  "No. Es el error más claro: el art. 128.2 prohíbe a los reglamentos establecer tributos."
+ ],
+ "ojo": "“En los términos establecidos por las leyes” suena bien, pero tipificar es crear la infracción, y eso es exclusivo de la ley. El reglamento solo puede concretar lo que la ley ya tipificó."
+},
+"vo-12-021": {
+ "bloque": "iniciativa",
+ "precepto": "Art. 129.1 de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "Es verdadera como principio de buena regulación, así que no se marca. Está en el art. 129.1, y el 129.3 lo explica: la norma debe contener la regulación imprescindible.",
+  "Es verdadera como principio de buena regulación, así que no se marca. Está en el art. 129.1, y el 129.5 lo explica: acceso sencillo a las normas y participación activa de los destinatarios.",
+  "Es verdadera como principio de buena regulación, así que no se marca. Está en el art. 129.1, y el 129.4 lo explica: coherencia con el resto del ordenamiento para dar un marco estable y claro.",
+  "Esta es la falsa, y por eso es la que hay que marcar. El **art. 129.1** enumera seis principios: necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia. La “integridad” no está en la lista."
+ ],
+ "ojo": "Seis principios: necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia."
+},
+"vo-12-022": {
+ "bloque": "iniciativa",
+ "precepto": "Art. 133.1 de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. El **art. 133.1** dice “con carácter previo a la elaboración del proyecto o anteproyecto de ley o de reglamento”. La consulta se hace antes de que exista un texto, para preguntar qué problema se quiere resolver y si hace falta la norma.",
+  "No. Está al revés. La audiencia se hace cuando ya hay texto publicado (art. 133.2), y la consulta previa va antes.",
+  "No. La consulta va antes. La memoria de análisis de impacto normativo incluye incluso un resumen de las aportaciones recibidas en la consulta (art. 26.3.g de la Ley 50/1997).",
+  "No. El dictamen del Consejo de Estado llega mucho más tarde, con el texto ya elaborado (art. 26.7 de la Ley 50/1997). La consulta pública va al principio de todo."
+ ],
+ "ojo": "No confundas consulta con audiencia. Consulta: antes del texto, sobre el problema. Audiencia: con el texto ya redactado."
+},
+"vo-12-023": {
+ "bloque": "iniciativa",
+ "precepto": "Art. 26.2 de la Ley 50/1997",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. El **art. 26.2 de la Ley 50/1997**, del Gobierno, dice que el tiempo para la consulta pública “en ningún caso será inferior a quince días naturales”. Naturales significa que cuentan todos los días, también sábados, domingos y festivos.",
+  "No. El número es bueno, pero el tipo de día no. Quince días **hábiles** es el plazo de la audiencia e información públicas (art. 26.6), no el de la consulta.",
+  "No. El mínimo son quince días, no diez, y además naturales (art. 26.2 de la Ley 50/1997).",
+  "No. Fallan el número y el tipo de día: son quince días naturales (art. 26.2 de la Ley 50/1997)."
+ ],
+ "ojo": "Este plazo no está en la Ley 39/2015: el art. 133 no fija ninguno. Viene de la Ley 50/1997. Consulta, 15 días naturales. Audiencia, 15 días hábiles."
+},
+"vo-12-024": {
+ "bloque": "iniciativa",
+ "precepto": "Art. 26.6 de la Ley 50/1997",
+ "correcta": 1,
+ "justificaciones": [
+  "No. Días naturales son los de la consulta pública previa (art. 26.2). La audiencia e información públicas se cuentan en días hábiles (art. 26.6).",
+  "Es esta. El **art. 26.6 de la Ley 50/1997** fija un mínimo de **15 días hábiles** para la audiencia e información públicas. Puede reducirse hasta un mínimo de 7 días hábiles si hay razones motivadas o tramitación urgente.",
+  "No. Ni son diez ni naturales. El plazo es de 15 días hábiles (art. 26.6 de la Ley 50/1997).",
+  "No. Es hábil, pero el número no es diez: son 15 días, reducibles a 7 días hábiles (art. 26.6 de la Ley 50/1997)."
+ ],
+ "ojo": "Es la pareja de la pregunta anterior: audiencia e información públicas, 15 hábiles (reducibles a 7). Consulta pública, 15 naturales."
+},
+"vo-12-025": {
+ "bloque": "iniciativa",
+ "precepto": "Art. 25.4 de la Ley 50/1997",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. El **art. 25.4 de la Ley 50/1997** dice que el Plan Anual Normativo lo coordina el Ministerio de la Presidencia, y que el Ministro de la Presidencia lo eleva al Consejo de Ministros para que lo apruebe **antes del 30 de abril**.",
+  "No. Te han cambiado la fecha: es antes del 30 de abril, no del 30 de junio (art. 25.4).",
+  "No. No lo coordina cada ministerio por su cuenta: lo coordina el de la Presidencia, para que todas las iniciativas encajen entre sí (art. 25.4).",
+  "No. Te han cambiado el órgano: se eleva al Consejo de Ministros, no a una Comisión Delegada del Gobierno (art. 25.4)."
+ ],
+ "ojo": "El 30 de abril también es la fecha del informe anual de evaluación (art. 28.1): si recuerdas una, recuerdas las dos."
+},
+"vo-12-026": {
+ "bloque": "iniciativa",
+ "precepto": "Art. 28.1 de la Ley 50/1997",
+ "correcta": 1,
+ "justificaciones": [
+  "No. El informe no se evalúa a sí mismo. Lo que mide es el cumplimiento del **Plan Anual Normativo**, no de otro informe de evaluación (art. 28.1).",
+  "Es esta. El **art. 28.1 de la Ley 50/1997** dice que el informe anual refleja el grado de cumplimiento del Plan Anual Normativo “del año anterior”. Tiene lógica: solo se puede evaluar un año que ya ha terminado.",
+  "No. Te han cambiado el año. Es el del año anterior, no el corriente, porque el informe se aprueba antes del 30 de abril, cuando el año en curso no ha terminado (art. 28.1).",
+  "No. El informe no recoge los compromisos del Plan, sino su **grado de cumplimiento**. También incluye las iniciativas adoptadas que no estaban en el Plan (art. 28.1)."
+ ]
+}
+}

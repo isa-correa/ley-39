@@ -1,0 +1,457 @@
+{
+ "au-16-001": {
+  "bloque": "instruccion",
+  "precepto": "Art. 81.2 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Los 40.000 euros no aparecen en la ley. La cifra que obliga a pedir dictamen es 50.000 euros.",
+   "Es esta. El **art. 81.2** obliga a pedir dictamen del Consejo de Estado o del órgano consultivo autonómico cuando lo reclamado es de **50.000 euros o más**. Es decir, justo 50.000 euros ya obliga. Una comunidad autónoma puede fijar en su legislación otra cuantía distinta.",
+   "No. Se quedan cortos: con 30.000 euros reclamados no hace falta el dictamen, salvo que lo pida otra norma. El listón general está en 50.000 euros.",
+   "No. Los 15.000 euros no pintan nada aquí. La cifra del art. 81.2 es 50.000 euros."
+  ],
+  "ojo": "Fíjate en “igual o superior”: con 50.000 euros exactos el dictamen ya es obligatorio."
+ },
+ "au-16-002": {
+  "bloque": "instruccion",
+  "precepto": "Art. 81.1 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El **art. 81.1** obliga a pedir informe al servicio que causó el presunto daño, y añade que el plazo para emitirlo no puede “exceder de diez días”. Por tanto, diez días como máximo.",
+   "No. Te cambian el número y el sentido: no son quince días, y el plazo es un tope, no un mínimo.",
+   "No. El sentido “no superior” está bien, pero el número no: son diez días, no quince.",
+   "No. El número está bien, pero el sentido no: los diez días son un máximo (“no superior”), no un mínimo."
+  ],
+  "ojo": "Aquí juegan con dos cosas a la vez: el número (10 o 15) y si es tope o mínimo. Hay que acertar las dos."
+ },
+ "au-16-003": {
+  "bloque": "instruccion",
+  "precepto": "Art. 81.2 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Diez días es el plazo del informe del servicio que causó el daño (art. 81.1), no el del dictamen.",
+   "Es esta. El **art. 81.2** dice que el dictamen “se emitirá en el plazo de dos meses”. En ese dictamen, el Consejo de Estado se pronuncia sobre si el servicio público causó la lesión y, en su caso, sobre cuánto daño hay y cómo indemnizarlo.",
+   "No. Tres meses es el tope de suspensión del plazo para resolver cuando se piden informes preceptivos (art. 22.1.d). El dictamen tiene dos meses.",
+   "No. Sí es preceptivo (obligatorio pedirlo) en los casos del art. 81.2, por ejemplo cuando se reclaman 50.000 euros o más."
+  ]
+ },
+ "au-16-004": {
+  "bloque": "instruccion",
+  "precepto": "Art. 81.3 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Tres meses es el tope general de suspensión por informes preceptivos (art. 22.1.d). Para este informe el máximo son dos meses.",
+   "No. Quince días no es el plazo de este informe. El art. 81.3 da un máximo de dos meses.",
+   "Es esta. El **art. 81.3** hace preceptivo el informe del Consejo General del Poder Judicial cuando se reclama por el funcionamiento anormal de la Administración de Justicia, y lo debe emitir “en el plazo máximo de dos meses”. Es el mismo plazo que el dictamen del Consejo de Estado.",
+   "No. Sí es preceptivo en un caso concreto: las reclamaciones al Estado por el funcionamiento anormal de la Administración de Justicia (art. 81.3)."
+  ]
+ },
+ "au-16-005": {
+  "bloque": "instruccion",
+  "precepto": "Art. 81.3 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. “Quedará” está bien, pero el máximo no son tres meses, sino dos. Los tres meses son los del art. 22.1.d, la regla general para informes preceptivos.",
+   "No. Fallan las dos cosas: la suspensión no es opcional (“quedará”, no “podrá”) y el máximo son dos meses, no tres.",
+   "Es esta. El **art. 81.3** dice que el plazo para resolver “quedará suspendido” desde que se pide el informe hasta que se recibe, sin pasar de dos meses. Es decir, la suspensión es **automática** y su tope son **dos meses**.",
+   "No. Los dos meses están bien, pero la suspensión no es una posibilidad: la ley dice “quedará”, no “podrá”."
+  ],
+  "ojo": "La trampa está en el art. 22.1.d, que dice “se podrá suspender” con tope de tres meses. Para el informe del CGPJ en responsabilidad patrimonial hay regla propia: “quedará” y dos meses."
+ },
+ "au-16-006": {
+  "bloque": "instruccion",
+  "precepto": "Art. 82.1 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El **art. 82.1** coloca la audiencia al final de la instrucción: “instruidos los procedimientos, e inmediatamente antes de redactar la propuesta de resolución”. Así los interesados ven todo el expediente antes de que se escriba la propuesta y pueden opinar sobre él.",
+   "No. Tiene que haber terminado la instrucción, y la prueba forma parte de ella. La audiencia va después de la prueba, no dentro.",
+   "No. Va antes de redactar la propuesta, no después de redactarla.",
+   "No. Lo retrasa dos pasos: la audiencia es anterior a redactar la propuesta, y aquí ya se habría elevado al órgano que resuelve."
+  ],
+  "ojo": "Orden para recordar: se instruye, audiencia, propuesta, resolución."
+ },
+ "au-16-007": {
+  "bloque": "instruccion",
+  "precepto": "Art. 82.1 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. La ley no deja elegir según la naturaleza del procedimiento: la audiencia siempre va antes de pedir el dictamen.",
+   "No. Es justo al revés: primero la audiencia y después se pide el dictamen.",
+   "Es esta. El párrafo segundo del **art. 82.1** dice que la audiencia “será anterior” a pedir el dictamen del Consejo de Estado u órgano equivalente autonómico. Tiene lógica: así el Consejo de Estado ve también lo que han alegado los interesados.",
+   "No. No son a la vez: la audiencia va primero y la solicitud del dictamen, después."
+  ]
+ },
+ "au-16-008": {
+  "bloque": "instruccion",
+  "precepto": "Art. 82 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. La ordenación es el capítulo III (arts. 70 a 74), que trata del expediente, el impulso y las cuestiones incidentales. La audiencia está en el capítulo siguiente.",
+   "No. La iniciación es el capítulo II y está al principio del procedimiento. La audiencia se da cuando ya está todo instruido.",
+   "No. La finalización empieza en el art. 84, en el capítulo V. La audiencia va antes, porque precede a la propuesta de resolución.",
+   "Es esta. El **art. 82** está en el capítulo IV, “Instrucción del procedimiento”, en su sección 4.ª, “Participación de los interesados”. Es el último paso de la instrucción, justo antes de redactar la propuesta."
+  ]
+ },
+ "au-16-009": {
+  "bloque": "instruccion",
+  "precepto": "Art. 83 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. La iniciación es el capítulo II. La información pública está regulada más adelante, en la instrucción.",
+   "No. La ordenación es el capítulo III (arts. 70 a 74). El art. 83 está en el capítulo siguiente.",
+   "No. La finalización empieza en el art. 84, justo después de la información pública.",
+   "Es esta. El **art. 83** está en el capítulo IV, “Instrucción del procedimiento”, sección 4.ª, “Participación de los interesados”, junto a la audiencia. Es un trámite para que cualquiera pueda ver el expediente y opinar antes de que se resuelva."
+  ]
+ },
+ "au-16-010": {
+  "bloque": "instruccion",
+  "precepto": "Art. 82.2 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Sí puede tenerse por hecho antes: si los interesados dicen, antes de que acabe el plazo, que no van a alegar ni aportar nada, el trámite se da por realizado (art. 82.3).",
+   "Es esta. El **art. 82.2** da a los interesados un plazo “no inferior a diez días ni superior a quince” para alegar y presentar documentos. Es decir, la Administración fija un plazo de 10 a 15 días.",
+   "No. Sí se puede prescindir de él: cuando en el procedimiento y en la resolución solo cuentan los hechos, alegaciones y pruebas que aportó el propio interesado (art. 82.4).",
+   "No. Es al revés: la audiencia es anterior a pedir el dictamen del Consejo de Estado (art. 82.1)."
+  ]
+ },
+ "au-16-011": {
+  "bloque": "instruccion",
+  "precepto": "Art. 83.1 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. La ley no se lo atribuye al órgano de ordenación. Se lo da al que resuelve.",
+   "No. No es quien inició el procedimiento, sino quien tiene que resolverlo.",
+   "Es esta. El **art. 83.1** dice que lo acuerda “el órgano al que corresponda la resolución del procedimiento”, cuando la naturaleza de este lo requiera. Y además es potestativo (“podrá”), no obligatorio.",
+   "No. Es la opción que engaña, porque el trámite está en la fase de instrucción. Pero quien lo acuerda es el órgano que resuelve, no el instructor."
+  ],
+  "ojo": "Se regula dentro de la instrucción, pero lo decide el órgano que resuelve. Ahí está la trampa."
+ },
+ "au-16-012": {
+  "bloque": "instruccion",
+  "precepto": "Art. 83.2 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Fallan dos cosas: no es solo para los interesados, sino para cualquier persona, y no tiene por qué ser el expediente completo.",
+   "No. Lo de “o la parte del mismo que se acuerde” está bien, pero no se limita a los interesados: puede entrar cualquier persona física o jurídica.",
+   "Es esta. El **art. 83.2** dice que se publica un anuncio para que “cualquier persona física o jurídica pueda examinar el expediente, o la parte del mismo que se acuerde”. Es “pública” porque no hace falta ser parte del procedimiento.",
+   "No. Lo de “cualquier persona” está bien, pero no siempre es el expediente completo: puede abrirse solo la parte que se acuerde."
+  ]
+ },
+ "au-16-013": {
+  "bloque": "instruccion",
+  "precepto": "Art. 83.2 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. La publicación es obligatoria: “se publicará” un anuncio en el Diario oficial (art. 83.2). Lo de “publicarse o no según su naturaleza y las personas a las que estuvieran destinados” es de los acuerdos de terminación convencional (art. 86.2).",
+   "Es esta. El **art. 83.2** dice que el plazo para alegar “en ningún caso podrá ser inferior a veinte días”. Es decir, veinte días como mínimo.",
+   "No. Es justo lo contrario: comparecer “no otorga, por sí misma, la condición de interesado” (art. 83.3). Lo que sí da es derecho a una respuesta razonada si presentas alegaciones.",
+   "No. No impide nada: quien no comparece puede recurrir igualmente contra la resolución definitiva (art. 83.3)."
+  ]
+ },
+ "au-16-014": {
+  "bloque": "instruccion",
+  "precepto": "Art. 82.2 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. No hay un mínimo de 15 días: los quince días son el máximo, y el mínimo son diez.",
+   "No. El mínimo de 10 días está bien, pero el máximo son 15 días, no 30.",
+   "Es esta. El **art. 82.2** da a los interesados un plazo “no inferior a diez días ni superior a quince” para alegar y aportar documentos.",
+   "No. Un mínimo de 20 días es el de la información pública (art. 83.2), no el de la audiencia."
+  ],
+  "ojo": "No los mezcles: audiencia, de 10 a 15 días. Información pública, 20 días como mínimo."
+ },
+ "au-16-015": {
+  "bloque": "instruccion",
+  "precepto": "Art. 83.2 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Le han dado la vuelta: los veinte días son un mínimo, no un máximo.",
+   "No. Ese es el plazo de la audiencia (art. 82.2), no el de la información pública.",
+   "Es esta. El **art. 83.2** dice que el plazo para alegar “en ningún caso podrá ser inferior a veinte días”. La Administración puede dar más tiempo, pero nunca menos.",
+   "No. El mínimo no son quince días, sino veinte."
+  ]
+ },
+ "au-17-001": {
+  "bloque": "finalizacion",
+  "precepto": "Art. 84 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "Es verdadera, así que no se marca: sí es una forma de terminar. Está en el art. 84.2, y la resolución que se dicte tiene que motivarse siempre.",
+   "Es verdadera, así que no se marca: sí es una forma de terminar. Es la forma normal y está en el art. 84.1.",
+   "Es verdadera, así que no se marca: sí es una forma de terminar. Está en el art. 84.1.",
+   "Esta es la falsa, y por eso es la que hay que marcar. La lista del **art. 84** es: resolución, desistimiento, renuncia al derecho, caducidad e imposibilidad material de continuar por causas sobrevenidas. La **prescripción** no está. Que una infracción prescrita lleve al archivo en un sancionador (art. 89.1.e) no la convierte en forma de terminación del art. 84."
+  ],
+  "ojo": "No confundas caducidad con prescripción: la caducidad termina el procedimiento por estar paralizado. La prescripción es perder un derecho, o la posibilidad de sancionar, por el paso del tiempo."
+ },
+ "au-17-002": {
+  "bloque": "finalizacion",
+  "precepto": "Art. 85.1 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Esa salvedad de la indemnización es del pago voluntario (art. 85.2), no del reconocimiento de responsabilidad. Además, reconocer no termina el procedimiento automáticamente: “se podrá resolver”.",
+   "No. Igual que la anterior: la salvedad de la reposición de la situación alterada es del pago voluntario (art. 85.2).",
+   "Es esta. El **art. 85.1** dice que si el infractor reconoce su responsabilidad “se podrá resolver el procedimiento con la imposición de la sanción que proceda”. Reconocer acorta el camino, pero la sanción se impone, aunque con reducción si es solo económica (art. 85.3).",
+   "No. Reconocer no te libra de la sanción. Se resuelve imponiéndola, no sin ella."
+  ],
+  "ojo": "El art. 85 tiene dos vías: reconocer (apartado 1) y pagar voluntariamente (apartado 2). Las preguntas mezclan los efectos de una con los de la otra."
+ },
+ "au-17-003": {
+  "bloque": "finalizacion",
+  "precepto": "Art. 84.1 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "Es verdadera, así que no se marca: sí es una forma de terminar. Está en el art. 84.2.",
+   "Es verdadera, así que no se marca: sí es una forma de terminar. Está en el art. 84.1.",
+   "Es verdadera, así que no se marca: sí es una forma de terminar. Está en el art. 84.1, y es la forma normal.",
+   "Esta es la falsa, y por eso es la que hay que marcar. El **art. 84.1** habla de “la renuncia al derecho en que se funde la solicitud”, no de renunciar al procedimiento. Lo que se abandona es el derecho. Si solo abandonas el procedimiento y conservas el derecho, eso es **desistimiento**."
+  ],
+  "ojo": "Para recordarlo: desistes de la solicitud y renuncias al derecho. “Renuncia al procedimiento” mezcla las dos cosas."
+ },
+ "au-17-004": {
+  "bloque": "finalizacion",
+  "precepto": "Art. 87 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. El art. 87 dice que el plazo para resolver queda suspendido hasta que terminen. El art. 22.2.b) concreta que la suspensión cuenta desde que se notifica el acuerdo.",
+   "Es verdadera, así que no se marca. El art. 87 se lo atribuye al órgano competente para resolver, mediante acuerdo motivado.",
+   "Esta es la falsa, y por eso es la que hay que marcar. El **art. 87** da a los interesados **siete días** para alegar, no 15. Los quince días son otra cosa: el tiempo máximo para practicar las actuaciones.",
+   "Es verdadera, así que no se marca. El art. 87 dice “no superior a quince días”."
+  ],
+  "ojo": "Dos plazos en el mismo artículo: 15 días para hacer las actuaciones y 7 días para alegar."
+ },
+ "au-17-005": {
+  "bloque": "finalizacion",
+  "precepto": "Art. 87 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Quince días es el máximo para practicar las actuaciones, no para alegar.",
+   "No. El plazo que da el art. 87 para alegar no es de diez días, sino de siete.",
+   "No. De 10 a 15 días es el plazo de la audiencia (art. 82.2).",
+   "Es esta. El **art. 87** dice que se notifica el acuerdo a los interesados “concediéndoseles un plazo de siete días” para alegar lo que tengan por pertinente, una vez terminadas las actuaciones."
+  ]
+ },
+ "au-17-006": {
+  "bloque": "finalizacion",
+  "precepto": "Art. 87 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. No es el órgano que inicia. El procedimiento ya está al final, y quien echa en falta algo es el que tiene que resolver.",
+   "No. El órgano que tramita ya ha terminado su trabajo. Las actuaciones complementarias las decide el que resuelve.",
+   "Es esta. El **art. 87** dice que “el órgano competente para resolver podrá decidir, mediante acuerdo motivado” estas actuaciones. Tiene sentido: es quien va a decidir y quien puede ver que le falta algo indispensable.",
+   "No. Ni el que inicia ni el que instruye. La ley se lo da solo al órgano competente para resolver."
+  ]
+ },
+ "au-17-007": {
+  "bloque": "finalizacion",
+  "precepto": "Art. 87 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. El sentido (“no superior”) está bien, pero el número no: son quince días, no diez.",
+   "Es esta. El **art. 87** dice que se practicarán “en un plazo no superior a quince días”. Es decir, quince días como máximo, para no retrasar demasiado la resolución.",
+   "No. Es un máximo, no un mínimo, y la cifra es quince, no veinte.",
+   "No. Eso se parece al plazo de audiencia (art. 82.2). Aquí no hay mínimo: solo un máximo de quince días."
+  ]
+ },
+ "au-17-008": {
+  "bloque": "finalizacion",
+  "precepto": "Art. 87 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. Lo dice el último párrafo del art. 87 y lo repite el art. 22.2.b).",
+   "Es verdadera, así que no se marca. El art. 87 se lo atribuye al órgano competente para resolver.",
+   "Es verdadera, así que no se marca. El art. 87 lo excluye expresamente: esos informes inmediatamente anteriores a la resolución no son actuaciones complementarias.",
+   "Esta es la falsa, y por eso es la que hay que marcar. Los siete días del **art. 87** son para alegar “tras la finalización” de las actuaciones, no antes de hacerlas. El plazo es correcto, pero el momento está cambiado. Es lógico: no puedes alegar sobre un resultado que todavía no existe."
+  ],
+  "ojo": "Han cambiado una sola idea: “con carácter previo” en lugar de “tras la finalización”. El plazo de siete días es correcto, y eso despista."
+ },
+ "au-17-009": {
+  "bloque": "finalizacion",
+  "precepto": "Art. 85.2 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. La primera parte está bien, pero la Administración sí puede reclamar más: la reposición de la situación alterada y la indemnización por daños quedan fuera (art. 85.2).",
+   "No. El art. 85.2 no dice que pagar suponga reconocer la responsabilidad. Reconocer es la otra vía, la del art. 85.1.",
+   "No. Renunciar a recurrir no es un efecto del pago. Es la condición para disfrutar de las reducciones, y solo alcanza a la vía administrativa, no a la judicial (art. 85.3).",
+   "Es esta. El **art. 85.2** dice que el pago voluntario antes de la resolución termina el procedimiento, “salvo” en lo relativo a reponer la situación alterada o a fijar la indemnización por daños. Por ejemplo: pagas la multa por un vertido, pero aún pueden obligarte a limpiarlo."
+  ]
+ },
+ "au-17-010": {
+  "bloque": "finalizacion",
+  "precepto": "Art. 85.3 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. La condición es desistir o renunciar a cualquier acción o recurso en vía **administrativa**, no en vía judicial. Así que puedes seguir yendo a los tribunales.",
+   "No. No hace falta una ley: el art. 85.3 dice que el porcentaje “podrá ser incrementado reglamentariamente”, es decir, por un reglamento.",
+   "No. Es al revés: las reducciones son “acumulables entre sí” (art. 85.3).",
+   "Es esta. El **art. 85.3** aplica las reducciones “cuando la sanción tenga únicamente carácter pecuniario”, es decir, cuando sea solo de dinero. Si además hay otra sanción no económica, como una inhabilitación, no entran estas reducciones."
+  ]
+ },
+ "au-18-001": {
+  "bloque": "finalizacion",
+  "precepto": "Art. 91.3 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. La ley no deja dos posibilidades según el caso: solo una, y es la negativa.",
+   "No. El procedimiento no caduca. Se entiende que la respuesta es contraria a la indemnización, y el interesado puede recurrir.",
+   "Es esta. El **art. 91.3** dice que, pasados seis meses sin resolución expresa ni acuerdo, “podrá entenderse que la resolución es contraria a la indemnización del particular”. Es un **silencio negativo**: si la Administración calla, entiendes que te dice que no.",
+   "No. Es lo contrario: el silencio aquí juega en contra del particular, no a su favor."
+  ]
+ },
+ "au-18-002": {
+  "bloque": "finalizacion",
+  "precepto": "Arts. 88.2 y 88.3 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. Es la regla de la congruencia del art. 88.2: la resolución tiene que responder a lo que se ha pedido.",
+   "Esta es la falsa, y por eso es la que hay que marcar. El **art. 88.3** dice que la decisión será motivada “en los casos a que se refiere el artículo 35”, no “en todo caso”. Solo deben motivarse los actos de esa lista.",
+   "Es verdadera, así que no se marca. El art. 88.2 deja a salvo la potestad de la Administración de abrir de oficio un nuevo procedimiento, si procede.",
+   "Es verdadera, así que no se marca. El art. 88.2 dice que “en ningún caso” puede agravar su situación inicial."
+  ],
+  "ojo": "“En todo caso” es la palabra cambiada. Desconfía de los absolutos en este tipo de preguntas."
+ },
+ "au-18-003": {
+  "bloque": "finalizacion",
+  "precepto": "Art. 88.1 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Es al revés: en estos procedimientos la resolución no puede agravar en ningún caso la situación inicial del interesado (art. 88.2).",
+   "No. “Siempre” sobra: se motiva en los casos del art. 35 (art. 88.3).",
+   "Es esta. El **art. 88.1** permite pronunciarse sobre cuestiones conexas (relacionadas con el asunto) que nadie haya planteado. Antes hay que avisar a los interesados, con un plazo no superior a quince días, para que aleguen y aporten pruebas.",
+   "No. “Únicamente” lo estropea: también hay que indicar los recursos judiciales que procedan, el órgano ante el que presentarlos y el plazo (art. 88.3)."
+  ]
+ },
+ "au-18-004": {
+  "bloque": "finalizacion",
+  "precepto": "Art. 88.1 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Cambian las dos cosas: es un máximo, no un mínimo, y son quince días, no diez.",
+   "Es esta. El párrafo segundo del **art. 88.1** dice que se ponen de manifiesto “por un plazo no superior a quince días”, para que los interesados aleguen y aporten pruebas.",
+   "No. El número está bien, pero el sentido no: los quince días son un máximo, no un mínimo.",
+   "No. El sentido está bien, pero el número no: son quince días, no diez."
+  ]
+ },
+ "au-18-005": {
+  "bloque": "finalizacion",
+  "precepto": "Art. 88.6 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Incorporar informes no quita el deber de indicar los recursos. Ese deber sigue en el art. 88.3.",
+   "Es esta. El **art. 88.6** dice que aceptar informes o dictámenes “servirá de motivación a la resolución cuando se incorporen al texto de la misma”. Es decir, el órgano puede razonar su decisión remitiéndose al informe que hace suyo.",
+   "No. Ni es preceptiva (obligatoria) ni carece de finalidad: su finalidad es motivar la resolución.",
+   "No. Sí produce un efecto: sirve de motivación a la resolución."
+  ]
+ },
+ "au-18-006": {
+  "bloque": "finalizacion",
+  "precepto": "Art. 88.7 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. La ley no lo prohíbe. El art. 88.7 prevé los dos casos: que coincidan o no. Lo que sí exige separar órganos es el procedimiento sancionador, por el art. 63.1, pero esta opción habla de todo procedimiento.",
+   "No. Tampoco es obligatorio que coincidan: el art. 88.7 habla del caso en que “no recaiga en un mismo órgano”.",
+   "Es esta. El párrafo segundo del **art. 88.7** dice que, en los sancionadores, la propuesta de resolución “deberá ser notificada a los interesados”. Así pueden defenderse antes de que se les sancione.",
+   "No. “En todos” sobra. Solo hace falta cuando instruir y resolver corresponden a órganos distintos (art. 88.7)."
+  ]
+ },
+ "au-18-007": {
+  "bloque": "finalizacion",
+  "precepto": "Art. 89.1 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Es el **art. 89.1.d)**: se archiva cuando no exista o no se haya podido identificar a la persona o personas responsables, o bien aparezcan exentos de responsabilidad. Sin responsable, no hay a quién sancionar.",
+   "No. Falta un “in”: la causa de archivo es la **inexistencia** de los hechos (art. 89.1.a), no su existencia.",
+   "No. Falta un “no”: se archiva cuando los hechos probados **no** constituyen, de modo manifiesto, infracción (art. 89.1.c).",
+   "No. También falta un “no”: se archiva cuando los hechos **no** resultan acreditados (art. 89.1.b)."
+  ],
+  "ojo": "Las tres incorrectas son la misma trampa: quitan la negación a la causa real de archivo."
+ },
+ "au-18-008": {
+  "bloque": "finalizacion",
+  "precepto": "Art. 91.3 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Dos meses es el plazo del dictamen del Consejo de Estado (art. 81.2), no este.",
+   "No. Tres meses es el plazo máximo general para resolver si no hay otro fijado (art. 21.3). Aquí la ley fija otro: seis meses.",
+   "No. Un año es el plazo que tienes para reclamar, porque el derecho prescribe al año (art. 67.1). No es el plazo del silencio.",
+   "Es esta. El **art. 91.3** fija seis meses desde que se inició el procedimiento. Pasados sin resolución expresa ni acuerdo, puedes entender que la respuesta es contraria a la indemnización."
+  ]
+ },
+ "au-18-009": {
+  "bloque": "finalizacion",
+  "precepto": "Art. 92 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. “En todo caso” lo estropea: a veces resuelve el Consejo de Ministros (art. 92).",
+   "Es esta. El **art. 92** dice que resuelve el Ministro respectivo, o el Consejo de Ministros en los casos del art. 32.3 de la Ley 40/2015 (daños causados por actos legislativos) o cuando una ley así lo disponga.",
+   "No. El Secretario de Estado no aparece en el art. 92. Son el Ministro o el Consejo de Ministros.",
+   "No. “En todo caso” tampoco vale aquí: la regla general es el Ministro, y el Consejo de Ministros solo interviene en los casos señalados."
+  ]
+ },
+ "au-18-010": {
+  "bloque": "finalizacion",
+  "precepto": "Art. 89.1.e) de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Un acuerdo con la Administración es terminación convencional (art. 86), y no está entre las causas de archivo del art. 89.1.",
+   "No. Si reconoce su responsabilidad, se resuelve imponiendo la sanción (art. 85.1). No hay archivo.",
+   "Es esta. Es el **art. 89.1.e)**: el instructor archiva sin hacer propuesta “cuando se concluyera, en cualquier momento, que ha prescrito la infracción”. Si ya ha pasado el tiempo para sancionar, no tiene sentido seguir.",
+   "No. Que la infracción sea leve no lleva al archivo. Puede permitir la tramitación simplificada (art. 96.5), pero el procedimiento sigue y puede acabar en sanción."
+  ]
+ },
+ "au-18-011": {
+  "bloque": "finalizacion",
+  "precepto": "Art. 88.1 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Es casi literal del **art. 88.1**: la resolución decide todas las cuestiones planteadas por los interesados “y aquellas otras derivadas del mismo”, es decir, del propio procedimiento.",
+   "No. Es lo contrario: el art. 88.1 dice que también decidirá las cuestiones derivadas del procedimiento.",
+   "No. Sí puede: el art. 88.1 le permite pronunciarse incluso sobre cuestiones conexas que los interesados no hayan planteado, avisándoles antes. Con más razón, sobre las que sí se plantearon.",
+   "No. “Solo” lo estropea, y también “que hayan iniciado”: decide lo planteado por los interesados en general y, además, lo derivado del procedimiento."
+  ]
+ },
+ "au-18-012": {
+  "bloque": "finalizacion",
+  "precepto": "Art. 90.3 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. No es por el simple hecho de dictarla, sino cuando ya no cabe recurso ordinario en vía administrativa.",
+   "Es esta. El **art. 90.3** dice que será ejecutiva “cuando no quepa contra ella ningún recurso ordinario en vía administrativa”. Es decir, cuando ya no quepa alzada ni reposición. Es una excepción a la regla general de que los actos administrativos se ejecutan de inmediato (art. 98.1.b).",
+   "No. Notificar no basta. La sanción no se ejecuta mientras quepa recurso ordinario en vía administrativa.",
+   "No. No hace falta esperar a los tribunales. Basta con la firmeza en vía administrativa. Si el interesado anuncia que irá al contencioso, se puede suspender cautelarmente (art. 90.3)."
+  ]
+ },
+ "au-18-013": {
+  "bloque": "finalizacion",
+  "precepto": "Art. 88.4 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. Es el art. 88.3.",
+   "Es verdadera, así que no se marca. Es el art. 88.5: ni el silencio, ni la oscuridad, ni la insuficiencia de los preceptos permiten no resolver.",
+   "Es verdadera, así que no se marca. También es el art. 88.5, que además deja a salvo el derecho de petición.",
+   "Esta es la falsa, y por eso es la que hay que marcar. El **art. 88.4** no pone esa excepción: la resolución se dicta electrónicamente siempre. Lo que el interesado puede elegir es la forma y el lugar de la **notificación**. Es decir, se firma en electrónico aunque luego te llegue en papel."
+  ]
+ },
+ "au-18-014": {
+  "bloque": "finalizacion",
+  "precepto": "Art. 90.2 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. La prohibición de agravar es de los procedimientos iniciados a solicitud (art. 88.2). En un sancionador, el órgano puede ver mayor gravedad que la propuesta, y entonces da quince días al inculpado para alegar (art. 90.2).",
+   "No. Es ejecutiva cuando no cabe recurso ordinario en vía administrativa (art. 90.3). La “inmediatamente ejecutiva” es la resolución del procedimiento complementario de daños (art. 90.4).",
+   "No. Sí puede valorar los hechos de otra forma: el art. 90.2 habla de “su diferente valoración jurídica”. Lo que no puede cambiar son los hechos.",
+   "Es esta. El **art. 90.2** dice que no se podrán aceptar “hechos distintos de los determinados en el curso del procedimiento”. Los hechos quedan fijados, aunque se puedan calificar jurídicamente de otra manera. Es una garantía para el inculpado: no pueden sorprenderle con algo de lo que no pudo defenderse."
+  ],
+  "ojo": "Hechos, no se tocan. Valoración jurídica, sí puede cambiar."
+ },
+ "au-18-015": {
+  "bloque": "finalizacion",
+  "precepto": "Art. 90.4 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El **art. 90.4** dice que la resolución de este procedimiento complementario “será inmediatamente ejecutiva”. Sirve para fijar la indemnización por los daños causados a la Administración cuando no quedó determinada en el expediente.",
+   "No. Fija la cuantía de la **indemnización** por daños, no la de la sanción.",
+   "No. Es lo contrario: el art. 90.4 dice que “pondrá fin a la vía administrativa”.",
+   "No. Es lo contrario: sí es susceptible de terminación convencional, es decir, de acuerdo. Y ese acuerdo no supone reconocer voluntariamente la responsabilidad."
+  ],
+  "ojo": "Tres afirmaciones del art. 90.4 aparecen dadas la vuelta: se fija la indemnización (no la sanción), pone fin a la vía administrativa y admite acuerdo."
+ }
+}

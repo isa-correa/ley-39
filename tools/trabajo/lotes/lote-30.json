@@ -1,0 +1,456 @@
+{
+"lote": 30,
+"casos": {
+"caso-10": {
+"id": "caso-10",
+"titulo": "Ejercicio nº 8 - Notificaciones administrativas.",
+"texto": "En el ámbito del Ministerio para la Transición Ecológica y el Reto Demográfico, la Confederación Hidrográfica del Tajo, O.A., tramita procedimientos administrativos relativos al dominio público hidráulico. En dicho contexto, se han dictado las siguientes resoluciones, cuya notificación se realiza en los términos que se indican:\n1. Industrias Alimentarias del Tajo, S.L.\nDoña Clara Martín Lago, actuando en representación de la mercantil Industrias Alimentarias del Tajo, S.L., había solicitado una autorización administrativa para el vertido de aguas residuales previamente depuradas procedentes de una planta industrial situada en la cuenca del Tajo.\nEl 1 de junio de 2026, el órgano competente de la Confederación Hidrográfica del Tajo dicta resolución en el procedimiento.\nLa notificación de la resolución se pone a disposición de la sociedad mercantil en la DEHú el 2 de junio de 2026.\nDoña Clara Martín Lago accede al contenido de la notificación en la DEHú el 7 de junio de 2026.\n2. Don Javier Moreno Díaz\nDon Javier Moreno Díaz, persona física que actúa en nombre propio, había solicitado autorización para realizar la corta de varios árboles situados en una finca de su propiedad ubicada en la zona de policía de un cauce público. En su solicitud, Don Javier había indicado expresamente que deseaba recibir las notificaciones en soporte papel, en su domicilio.\nEl 4 de junio de 2026, el órgano competente de la Confederación Hidrográfica del Tajo dicta resolución en el procedimiento.\nEl viernes 5 de junio de 2026, a las 11:30 horas, se realiza un primer intento de notificación en papel en el domicilio señalado por el interesado. Don Javier no se encuentra en el domicilio y el intento resulta infructuoso.\nEse lunes 8 de junio de 2026, la resolución se pone a disposición del interesado en la DEHú.\nEl martes 9 de junio de 2026, don Javier accede, a través de la DEHú, al contenido íntegro de la resolución.\nEl miércoles 10 de junio de 2026, a las 17:15 horas, se realiza un segundo intento de notificación en papel en el domicilio del interesado. En esta ocasión, don Javier se encuentra presente y recibe la documentación.\nResponda a las siguientes cuestiones que se le plantean:"
+}
+},
+"calendarios": {},
+"preguntas": [
+{
+"id": "pr-09-001",
+"origen": "practicas",
+"test": "Ejercicio nº 7 - Motivación.",
+"n": 1,
+"enunciado": "Indique si el siguiente acto debe ser motivado, conforme a la Ley 39/2015:\nEl acuerdo de realización de actuaciones complementarias:",
+"opciones": [
+"Sí.",
+"No."
+]
+},
+{
+"id": "pr-09-002",
+"origen": "practicas",
+"test": "Ejercicio nº 7 - Motivación.",
+"n": 2,
+"enunciado": "Indique si el siguiente acto debe ser motivado, conforme a la Ley 39/2015:\nLa propuesta de resolución en un procedimiento de responsabilidad patrimonial:",
+"opciones": [
+"Sí.",
+"No."
+]
+},
+{
+"id": "pr-09-003",
+"origen": "practicas",
+"test": "Ejercicio nº 7 - Motivación.",
+"n": 3,
+"enunciado": "Indique si el siguiente acto debe ser motivado, conforme a la Ley 39/2015:\nEl acuerdo de aplicación de la tramitación de urgencia:",
+"opciones": [
+"Sí.",
+"No."
+]
+},
+{
+"id": "pr-09-004",
+"origen": "practicas",
+"test": "Ejercicio nº 7 - Motivación.",
+"n": 4,
+"enunciado": "Indique si el siguiente acto debe ser motivado, conforme a la Ley 39/2015:\nEl acto que se aparte del criterio seguido en actuaciones precedentes:",
+"opciones": [
+"Sí.",
+"No."
+]
+},
+{
+"id": "pr-09-005",
+"origen": "practicas",
+"test": "Ejercicio nº 7 - Motivación.",
+"n": 5,
+"enunciado": "Indique si el siguiente acto debe ser motivado, conforme a la Ley 39/2015:\nUn acto dictado en el ejercicio de potestades regladas:",
+"opciones": [
+"Sí.",
+"No."
+]
+},
+{
+"id": "pr-09-006",
+"origen": "practicas",
+"test": "Ejercicio nº 7 - Motivación.",
+"n": 6,
+"enunciado": "Indique si el siguiente acto debe ser motivado, conforme a la Ley 39/2015:\nUn acto producido por silencio administrativo:",
+"opciones": [
+"Sí.",
+"No."
+]
+},
+{
+"id": "pr-09-007",
+"origen": "practicas",
+"test": "Ejercicio nº 7 - Motivación.",
+"n": 7,
+"enunciado": "Indique si el siguiente acto debe ser motivado, conforme a la Ley 39/2015:\nEl acuerdo de adopción de medidas provisionales:",
+"opciones": [
+"Sí.",
+"No."
+]
+},
+{
+"id": "pr-09-008",
+"origen": "practicas",
+"test": "Ejercicio nº 7 - Motivación.",
+"n": 8,
+"enunciado": "Indique si el siguiente acto debe ser motivado, conforme a la Ley 39/2015:\nEl acuerdo de apertura del trámite de audiencia a los interesados:",
+"opciones": [
+"Sí.",
+"No."
+]
+},
+{
+"id": "pr-09-009",
+"origen": "practicas",
+"test": "Ejercicio nº 7 - Motivación.",
+"n": 9,
+"enunciado": "Indique si el siguiente acto debe ser motivado, conforme a la Ley 39/2015:\nLa propuesta de resolución de un procedimiento de carácter sancionador:",
+"opciones": [
+"Sí.",
+"No."
+]
+},
+{
+"id": "pr-09-010",
+"origen": "practicas",
+"test": "Ejercicio nº 7 - Motivación.",
+"n": 10,
+"enunciado": "Indique si el siguiente acto debe ser motivado, conforme a la Ley 39/2015:\nEl acuerdo de apertura del período ordinario de prueba:",
+"opciones": [
+"Sí.",
+"No."
+]
+},
+{
+"id": "pr-09-011",
+"origen": "practicas",
+"test": "Ejercicio nº 7 - Motivación.",
+"n": 11,
+"enunciado": "Indique si el siguiente acto debe ser motivado, conforme a la Ley 39/2015:\nLa resolución de un procedimiento arbitral:",
+"opciones": [
+"Sí.",
+"No."
+]
+},
+{
+"id": "pr-09-012",
+"origen": "practicas",
+"test": "Ejercicio nº 7 - Motivación.",
+"n": 12,
+"enunciado": "Indique si el siguiente acto debe ser motivado, conforme a la Ley 39/2015:\nEl acto que acuerde la terminación del procedimiento por imposibilidad material de continuarlo por causas sobrevenidas:",
+"opciones": [
+"Sí.",
+"No."
+]
+},
+{
+"id": "pr-09-013",
+"origen": "practicas",
+"test": "Ejercicio nº 7 - Motivación.",
+"n": 13,
+"enunciado": "Indique si el siguiente acto debe ser motivado, conforme a la Ley 39/2015:\nEl acto por el que se admitan las pruebas propuestas por los interesados:",
+"opciones": [
+"Sí.",
+"No."
+]
+},
+{
+"id": "pr-09-014",
+"origen": "practicas",
+"test": "Ejercicio nº 7 - Motivación.",
+"n": 14,
+"enunciado": "Indique si el siguiente acto debe ser motivado, conforme a la Ley 39/2015:\nEl acuerdo de desistimiento por la Administración en un procedimiento iniciado de oficio:",
+"opciones": [
+"Sí.",
+"No."
+]
+},
+{
+"id": "pr-09-015",
+"origen": "practicas",
+"test": "Ejercicio nº 7 - Motivación.",
+"n": 15,
+"enunciado": "Indique si el siguiente acto debe ser motivado, conforme a la Ley 39/2015:\nEl acto que siga el criterio establecido en el dictamen de un órgano consultivo:",
+"opciones": [
+"Sí.",
+"No."
+]
+},
+{
+"id": "pr-10-001",
+"origen": "practicas",
+"test": "Ejercicio nº 8 - Notificaciones administrativas.",
+"n": 1,
+"enunciado": "En relación con el procedimiento seguido respecto de Industrias Alimentarias del Tajo, S.L., ¿en qué fecha debe entenderse cumplida la obligación de la Administración de resolver y notificar dentro del plazo máximo de duración del procedimiento?",
+"opciones": [
+"El 1 de junio de 2026.",
+"El 2 de junio de 2026.",
+"El 7 de junio de 2026.",
+"El 8 de junio de 2026."
+],
+"caso": "caso-10"
+},
+{
+"id": "pr-10-002",
+"origen": "practicas",
+"test": "Ejercicio nº 8 - Notificaciones administrativas.",
+"n": 2,
+"enunciado": "En relación con la notificación practicada a Industrias Alimentarias del Tajo, S.L., de no haberse producido el acceso al contenido de la notificación el 7 de junio de 2026, ¿cuál habría sido el último día para acceder a su contenido antes de que pudiera entenderse rechazada?",
+"opciones": [
+"El 12 de junio de 2026.",
+"El 15 de junio de 2026.",
+"El 16 de junio de 2026.",
+"La falta de acceso no determinaría su rechazo."
+],
+"caso": "caso-10"
+},
+{
+"id": "pr-10-003",
+"origen": "practicas",
+"test": "Ejercicio nº 8 - Notificaciones administrativas.",
+"n": 3,
+"enunciado": "¿Cuándo debe entenderse practicada la notificación de la resolución dictada en el procedimiento iniciado a solicitud de Industrias Alimentarias del Tajo, S.L.?",
+"opciones": [
+"El 1 de junio de 2026.",
+"El 2 de junio de 2026.",
+"El 7 de junio de 2026.",
+"El 8 de junio de 2026."
+],
+"caso": "caso-10"
+},
+{
+"id": "pr-10-004",
+"origen": "practicas",
+"test": "Ejercicio nº 8 - Notificaciones administrativas.",
+"n": 4,
+"enunciado": "En el procedimiento iniciado a solicitud de Don Javier Moreno Díaz, ¿en qué fecha debe entenderse cumplida la obligación de la Administración de notificar dentro del plazo máximo de duración del procedimiento?",
+"opciones": [
+"El 5 de junio de 2026.",
+"El 8 de junio de 2026.",
+"El 9 de junio de 2026.",
+"El 10 de junio de 2026."
+],
+"caso": "caso-10"
+},
+{
+"id": "pr-10-005",
+"origen": "practicas",
+"test": "Ejercicio nº 8 - Notificaciones administrativas.",
+"n": 5,
+"enunciado": "Tras el primer intento infructuoso de notificación en el domicilio de Don Javier Moreno Díaz, ¿hasta qué día podía realizarse válidamente el segundo intento de notificación en papel?",
+"opciones": [
+"Hasta el 8 de junio de 2026.",
+"Hasta el 9 de junio de 2026.",
+"Hasta el 10 de junio de 2026.",
+"Hasta el 12 de junio de 2026."
+],
+"caso": "caso-10"
+},
+{
+"id": "pr-10-006",
+"origen": "practicas",
+"test": "Ejercicio nº 8 - Notificaciones administrativas.",
+"n": 6,
+"enunciado": "¿En qué fecha debe entenderse practicada la notificación de la resolución dirigida a Don Javier Moreno Díaz?",
+"opciones": [
+"El 5 de junio de 2026.",
+"El 8 de junio de 2026.",
+"El 9 de junio de 2026.",
+"El 10 de junio de 2026."
+],
+"caso": "caso-10"
+},
+{
+"id": "pr-10-007",
+"origen": "practicas",
+"test": "Ejercicio nº 8 - Notificaciones administrativas.",
+"n": 7,
+"enunciado": "Si Don Javier Moreno Díaz no hubiera accedido al contenido de la notificación puesta a disposición en la DEHú, ¿a partir de qué fecha podría tenerse por rechazada dicha notificación?",
+"opciones": [
+"A partir del 18 de junio de 2026.",
+"A partir del 19 de junio de 2026.",
+"A partir del 23 de junio de 2026.",
+"La falta de acceso no determinaría su rechazo."
+],
+"caso": "caso-10"
+},
+{
+"id": "pr-11-001",
+"origen": "practicas",
+"test": "Ejercicio nº 9 - Nulidad/anulabilidad.",
+"n": 1,
+"enunciado": "Indique si los actos y disposiciones que se relacionan a continuación incurren en algún vicio de nulidad o anulabilidad, según la Ley 39/2015:\nUn acto administrativo que tiene un contenido imposible:",
+"opciones": [
+"Incurre en causa de nulidad de pleno derecho.",
+"Incurre en causa de anulabilidad.",
+"No incurre en causa de nulidad de pleno derecho ni de anulabilidad."
+]
+},
+{
+"id": "pr-11-002",
+"origen": "practicas",
+"test": "Ejercicio nº 9 - Nulidad/anulabilidad.",
+"n": 2,
+"enunciado": "Indique si los actos y disposiciones que se relacionan a continuación incurren en algún vicio de nulidad o anulabilidad, según la Ley 39/2015:\nUn acto administrativo dictado por un órgano manifiestamente incompetente por razón de la jerarquía:",
+"opciones": [
+"Incurre en causa de nulidad de pleno derecho.",
+"Incurre en causa de anulabilidad.",
+"No incurre en causa de nulidad de pleno derecho ni de anulabilidad."
+]
+},
+{
+"id": "pr-11-003",
+"origen": "practicas",
+"test": "Ejercicio nº 9 - Nulidad/anulabilidad.",
+"n": 3,
+"enunciado": "Indique si los actos y disposiciones que se relacionan a continuación incurren en algún vicio de nulidad o anulabilidad, según la Ley 39/2015:\nUn acto administrativo que presenta un defecto de forma, aun cuando contiene los requisitos formales indispensables para alcanzar su fin y no da lugar a la indefensión de los interesados:",
+"opciones": [
+"Incurre en causa de nulidad de pleno derecho.",
+"Incurre en causa de anulabilidad.",
+"No incurre en causa de nulidad de pleno derecho ni de anulabilidad."
+]
+},
+{
+"id": "pr-11-004",
+"origen": "practicas",
+"test": "Ejercicio nº 9 - Nulidad/anulabilidad.",
+"n": 4,
+"enunciado": "Indique si los actos y disposiciones que se relacionan a continuación incurren en algún vicio de nulidad o anulabilidad, según la Ley 39/2015:\nUn acto administrativo que incurre en desviación de poder:",
+"opciones": [
+"Incurre en causa de nulidad de pleno derecho.",
+"Incurre en causa de anulabilidad.",
+"No incurre en causa de nulidad de pleno derecho ni de anulabilidad."
+]
+},
+{
+"id": "pr-11-005",
+"origen": "practicas",
+"test": "Ejercicio nº 9 - Nulidad/anulabilidad.",
+"n": 5,
+"enunciado": "Indique si los actos y disposiciones que se relacionan a continuación incurren en algún vicio de nulidad o anulabilidad, según la Ley 39/2015:\nUn acto administrativo que sea constitutivo de delito de prevaricación:",
+"opciones": [
+"Incurre en causa de nulidad de pleno derecho.",
+"Incurre en causa de anulabilidad.",
+"No incurre en causa de nulidad de pleno derecho ni de anulabilidad."
+]
+},
+{
+"id": "pr-11-006",
+"origen": "practicas",
+"test": "Ejercicio nº 9 - Nulidad/anulabilidad.",
+"n": 6,
+"enunciado": "Indique si los actos y disposiciones que se relacionan a continuación incurren en algún vicio de nulidad o anulabilidad, según la Ley 39/2015:\nUn acto administrativo dictado prescindiendo total y absolutamente de las normas que contienen las reglas esenciales para la formación de la voluntad de los órganos colegiados:",
+"opciones": [
+"Incurre en causa de nulidad de pleno derecho.",
+"Incurre en causa de anulabilidad.",
+"No incurre en causa de nulidad de pleno derecho ni de anulabilidad."
+]
+},
+{
+"id": "pr-11-007",
+"origen": "practicas",
+"test": "Ejercicio nº 9 - Nulidad/anulabilidad.",
+"n": 7,
+"enunciado": "Indique si los actos y disposiciones que se relacionan a continuación incurren en algún vicio de nulidad o anulabilidad, según la Ley 39/2015:\nLos actos expresos o presuntos por los que se adquieren facultades o derechos cuando el interesado reúne los requisitos esenciales para su adquisición:",
+"opciones": [
+"Incurre en causa de nulidad de pleno derecho.",
+"Incurre en causa de anulabilidad.",
+"No incurre en causa de nulidad de pleno derecho ni de anulabilidad."
+]
+},
+{
+"id": "pr-11-008",
+"origen": "practicas",
+"test": "Ejercicio nº 9 - Nulidad/anulabilidad.",
+"n": 8,
+"enunciado": "Indique si los actos y disposiciones que se relacionan a continuación incurren en algún vicio de nulidad o anulabilidad, según la Ley 39/2015:\nUn acto de la Administración que incurre en cualquier infracción del ordenamiento jurídico distinta de las previstas en el artículo 47 de la Ley 39/2015:",
+"opciones": [
+"Incurre en causa de nulidad de pleno derecho.",
+"Incurre en causa de anulabilidad.",
+"No incurre en causa de nulidad de pleno derecho ni de anulabilidad."
+]
+},
+{
+"id": "pr-11-009",
+"origen": "practicas",
+"test": "Ejercicio nº 9 - Nulidad/anulabilidad.",
+"n": 9,
+"enunciado": "Indique si los actos y disposiciones que se relacionan a continuación incurren en algún vicio de nulidad o anulabilidad, según la Ley 39/2015:\nUna actuación administrativa realizada fuera del tiempo establecido para ella cuando así lo imponga la naturaleza del término o plazo:",
+"opciones": [
+"Incurre en causa de nulidad de pleno derecho.",
+"Incurre en causa de anulabilidad.",
+"No incurren en vicio de nulidad ni de anulabilidad."
+]
+},
+{
+"id": "pr-11-010",
+"origen": "practicas",
+"test": "Ejercicio nº 9 - Nulidad/anulabilidad.",
+"n": 10,
+"enunciado": "Indique si los actos y disposiciones que se relacionan a continuación incurren en algún vicio de nulidad o anulabilidad, según la Ley 39/2015:\nUn acto dictado por órgano manifiestamente incompetente por razón del territorio:",
+"opciones": [
+"Incurre en causa de nulidad de pleno derecho.",
+"Incurre en causa de anulabilidad.",
+"No incurren en vicio de nulidad ni de anulabilidad."
+]
+},
+{
+"id": "pr-11-011",
+"origen": "practicas",
+"test": "Ejercicio nº 9 - Nulidad/anulabilidad.",
+"n": 11,
+"enunciado": "Indique si los actos y disposiciones que se relacionan a continuación incurren en algún vicio de nulidad o anulabilidad, según la Ley 39/2015:\nUna disposición administrativa que establezca la retroactividad de disposiciones sancionadoras no favorables:",
+"opciones": [
+"Incurre en causa de nulidad de pleno derecho.",
+"Incurre en causa de anulabilidad.",
+"No incurre en causa de nulidad de pleno derecho ni de anulabilidad."
+]
+},
+{
+"id": "pr-11-012",
+"origen": "practicas",
+"test": "Ejercicio nº 9 - Nulidad/anulabilidad.",
+"n": 12,
+"enunciado": "Indique si los actos y disposiciones que se relacionan a continuación incurren en algún vicio de nulidad o anulabilidad, según la Ley 39/2015:\nUna resolución administrativa que vulnere lo establecido en una disposición reglamentaria:",
+"opciones": [
+"Incurre en causa de nulidad de pleno derecho.",
+"Incurre en causa de anulabilidad.",
+"No incurre en causa de nulidad de pleno derecho ni de anulabilidad."
+]
+},
+{
+"id": "pr-11-013",
+"origen": "practicas",
+"test": "Ejercicio nº 9 - Nulidad/anulabilidad.",
+"n": 13,
+"enunciado": "Indique si los actos y disposiciones que se relacionan a continuación incurren en algún vicio de nulidad o anulabilidad, según la Ley 39/2015:\nUna disposición administrativa que contradiga otra de igual rango:",
+"opciones": [
+"Incurre en causa de nulidad de pleno derecho.",
+"Incurre en causa de anulabilidad.",
+"No incurre en causa de nulidad de pleno derecho ni de anulabilidad."
+]
+},
+{
+"id": "pr-11-014",
+"origen": "practicas",
+"test": "Ejercicio nº 9 - Nulidad/anulabilidad.",
+"n": 14,
+"enunciado": "Indique si los actos y disposiciones que se relacionan a continuación incurren en algún vicio de nulidad o anulabilidad, según la Ley 39/2015:\nUn acto que lesione derechos y libertades susceptibles de amparo constitucional:",
+"opciones": [
+"Incurre en causa de nulidad de pleno derecho.",
+"Incurre en causa de anulabilidad.",
+"No incurre en causa de nulidad de pleno derecho ni de anulabilidad."
+]
+},
+{
+"id": "pr-11-015",
+"origen": "practicas",
+"test": "Ejercicio nº 9 - Nulidad/anulabilidad.",
+"n": 15,
+"enunciado": "Indique si los actos y disposiciones que se relacionan a continuación incurren en algún vicio de nulidad o anulabilidad, según la Ley 39/2015:\nUna disposición administrativa que regule una materia reservada a la ley:",
+"opciones": [
+"Incurre en causa de nulidad de pleno derecho.",
+"Incurre en causa de anulabilidad.",
+"No incurre en causa de nulidad de pleno derecho ni de anulabilidad."
+]
+}
+]
+}

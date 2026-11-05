@@ -1,0 +1,449 @@
+{
+"lote": 22,
+"casos": {},
+"calendarios": {},
+"preguntas": [
+{
+"id": "vo-06-002",
+"origen": "votaciones",
+"test": "Clase 6 - Bloque III",
+"n": 2,
+"enunciado": "Según el artículo 112 de la Ley 39/2015, señale la respuesta correcta:",
+"opciones": [
+"Contra las disposiciones administrativas de carácter general no cabe recurso en vía administrativa.",
+"Contra las disposiciones administrativas de carácter general cabe recurso de alzada en vía administrativa.",
+"Contra las disposiciones administrativas de carácter general únicamente cabe recurso de súplica en vía administrativa.",
+"Contra las disposiciones administrativas de carácter general cabe recurso de reposición en vía administrativa."
+]
+},
+{
+"id": "vo-06-003",
+"origen": "votaciones",
+"test": "Clase 6 - Bloque III",
+"n": 3,
+"enunciado": "De acuerdo con la Ley 39/2015, de 1 de octubre, contra los actos firmes en vía administrativa cabe interponer:",
+"opciones": [
+"Recurso de apelación.",
+"Recurso de alzada",
+"Recurso extraordinario de revisión.",
+"Recurso de reposición."
+]
+},
+{
+"id": "vo-06-005",
+"origen": "votaciones",
+"test": "Clase 6 - Bloque III",
+"n": 5,
+"enunciado": "Según el artículo 114 de la Ley 39/2015 ponen fin a la vía administrativa:",
+"opciones": [
+"Los acuerdos que tengan la consideración de iniciadores del procedimiento.",
+"La propuesta de resolución administrativa de los procedimientos de responsabilidad patrimonial.",
+"Todas las resoluciones emitidas por los órganos administrativos que carezcan de superior jerárquico.",
+"La resolución de los procedimientos complementarías en materia sancionadora a los que se refiere el artículo 90.4."
+]
+},
+{
+"id": "vo-06-006",
+"origen": "votaciones",
+"test": "Clase 6 - Bloque III",
+"n": 6,
+"enunciado": "Según la Ley 39/2015 del Procedimiento Administrativo Común, las resoluciones de los recursos de alzada:",
+"opciones": [
+"Ponen fin a la vía administrativa.",
+"No pueden ser objeto de ningún otro recurso administrativo.",
+"Pueden ser recurridas en reposición.",
+"No ponen fin a la vía administrativa."
+]
+},
+{
+"id": "vo-06-007",
+"origen": "votaciones",
+"test": "Clase 6 - Bloque III",
+"n": 7,
+"enunciado": "Según el artículo 116 de la Ley 39/2015, NO constituirá una causa de inadmisión de los recursos administrativos:",
+"opciones": [
+"Carecer el recurso manifiestamente de fundamento.",
+"Ser incompetente el órgano administrativo, cuando el competente perteneciera a la misma Administración Pública.",
+"Haber transcurrido el plazo para la interposición del recurso.",
+"Carecer de legitimación el recurrente."
+]
+},
+{
+"id": "vo-06-008",
+"origen": "votaciones",
+"test": "Clase 6 - Bloque III",
+"n": 8,
+"enunciado": "La suspensión de la ejecución de un acto administrativo por la interposición de un recurso administrativo:",
+"opciones": [
+"Se produce siempre, salvo en los casos en que una disposición establezca lo contrario.",
+"Se podrá producir de oficio o a solicitud del interesado, cuando pueda causar perjuicios de imposible reparación.",
+"Se podrá producir cuando la impugnación se fundamenta en causas de anulabilidad.",
+"Se entenderá producida si transcurren 30 días desde la solicitud de la suspensión."
+]
+},
+{
+"id": "vo-06-009",
+"origen": "votaciones",
+"test": "Clase 6 - Bloque III",
+"n": 9,
+"enunciado": "¿A qué órgano corresponde decidir acerca de la suspensión de la ejecución de un acto impugnado con ocasión de la interposición del oportuno recurso administrativo?",
+"opciones": [
+"Al superior jerárquico del órgano al que competa resolver el recurso.",
+"Al órgano instructor.",
+"Al órgano que dictó la resolución recurrida.",
+"Al que competa resolver el recurso."
+]
+},
+{
+"id": "vo-06-010",
+"origen": "votaciones",
+"test": "Clase 6 - Bloque III",
+"n": 10,
+"enunciado": "Según el artículo 118 de la Ley 39/2015, cuando hayan de tenerse en cuenta hechos no recogidos en el expediente originario, se pondrán de manifiesto a los interesados para que formulen las alegaciones que estimen procedentes en un plazo:",
+"opciones": [
+"No inferior a veinte días.",
+"No inferior a diez días ni superior a treinta.",
+"No inferior a diez días ni superior a quince.",
+"No inferior a quince días ni superior a treinta."
+]
+},
+{
+"id": "vo-06-011",
+"origen": "votaciones",
+"test": "Clase 6 - Bloque III",
+"n": 11,
+"enunciado": "Según el artículo 120 de la Ley 39/2015, cuando deban resolverse una pluralidad de recursos que traigan causa de un mismo acto y se interpusiera recurso judicial contra una resolución administrativa, el órgano administrativo:",
+"opciones": [
+"Deberá acordar la suspensión del plazo para resolver hasta que recaiga pronunciamiento judicial.",
+"Podrá remitir los otros recursos al órgano judicial a los efectos de su acumulación y resolución conjunta.",
+"Podrá acordar la suspensión del plazo para resolver hasta que recaiga pronunciamiento judicial.",
+"Deberá seguir con la tramitación de los otros recursos."
+]
+},
+{
+"id": "vo-06-012",
+"origen": "votaciones",
+"test": "Clase 6 - Bloque III",
+"n": 12,
+"enunciado": "Señale la respuesta INCORRECTA en relación con la resolución del recurso:",
+"opciones": [
+"Cuando existiendo vicio de forma no se estime procedente resolver sobre el fondo se ordenará la retroacción al momento en el que el vicio fue cometido.",
+"El órgano que lo resuelva decidirá cuantas cuestiones plantee el procedimiento, hayan sido o no alegadas por los interesados.",
+"En el caso de cuestiones no alegadas por los interesados se les oirá previamente.",
+"La resolución será congruente con las peticiones formuladas por el recurrente, pudiendo agravarse su situación inicial."
+]
+},
+{
+"id": "vo-06-013",
+"origen": "votaciones",
+"test": "Clase 6 - Bloque III",
+"n": 13,
+"enunciado": "Según la Ley 39/2015, ¿cuál es el plazo máximo para dictar y notificar la resolución de un recurso de alzada?",
+"opciones": [
+"Un mes.",
+"Tres meses.",
+"Seis meses.",
+"Dos meses."
+]
+},
+{
+"id": "vo-06-014",
+"origen": "votaciones",
+"test": "Clase 6 - Bloque III",
+"n": 14,
+"enunciado": "De acuerdo con la Ley 39/2015, ¿cuál de las siguientes afirmaciones sobre el recurso de alzada es correcta?",
+"opciones": [
+"Transcurrido el plazo máximo para dictar y notificar la resolución sin que se haya producido, se podrá entender estimado el recurso, en todos los casos.",
+"Transcurrido el plazo para dictar y notificar la resolución sin que se haya producido, se podrá entender desestimado el recurso en todos los casos.",
+"El plazo máximo para dictar y notificar resolución será de un mes.",
+"Contra su resolución no cabra ningún otro recurso administrativo, salvo el extraordinario de revisión en los casos previstos en la Ley 39/2015."
+]
+},
+{
+"id": "vo-06-015",
+"origen": "votaciones",
+"test": "Clase 6 - Bloque III",
+"n": 15,
+"enunciado": "La Ley 39/2015, en relación con el recurso de alzada, indica que:",
+"opciones": [
+"Contra la resolución de un recurso de alzada podrá interponerse recurso de reposición.",
+"Se interpone, en todo caso, ante el órgano superior jerárquico de aquel que hubiera dictado el acto que se recurre.",
+"El plazo para la interposición del recurso de alzada será de un mes, si el acto fuera expreso.",
+"Se puede interponer simultáneamente el recurso de alzada y el recurso contencioso-administrativo."
+]
+},
+{
+"id": "vo-06-016",
+"origen": "votaciones",
+"test": "Clase 6 - Bloque III",
+"n": 16,
+"enunciado": "De acuerdo con el artículo 124 de la Ley 39/2015, de 1 de octubre, el plazo máximo para dictar y notificar la resolución de un recurso de reposición:",
+"opciones": [
+"Sera de un mes.",
+"Sera de tres meses.",
+"Sera de dos meses.",
+"Sera de quince días."
+]
+},
+{
+"id": "vo-06-017",
+"origen": "votaciones",
+"test": "Clase 6 - Bloque III",
+"n": 17,
+"enunciado": "Según la Ley 39/2015, ¿cuál de las siguientes afirmaciones sobre el recurso de reposición es correcto?",
+"opciones": [
+"Contra la resolución de un recurso de reposición no podrá interponerse recurso contencioso-administrativo.",
+"Transcurrido el plazo máximo para dictar y notificar la resolución sin que se haya producido, se podrá entender estimado el recurso, en todos los casos.",
+"El plazo máximo para dictar y notificar resolución será de tres meses.",
+"Transcurrido el plazo para dictar y notificar la resolución sin que se haya producido, se podrá entender desestimado el recurso en todos los casos."
+]
+},
+{
+"id": "vo-06-018",
+"origen": "votaciones",
+"test": "Clase 6 - Bloque III",
+"n": 18,
+"enunciado": "La Ley 39/2015, en relación con el recurso de reposición, indica que:",
+"opciones": [
+"Contra la resolución de un recurso de reposición no podrá interponerse de nuevo dicho recurso.",
+"Se puede interponer simultáneamente el recurso de reposición y el recurso contencioso-administrativo.",
+"El plazo máximo para dictar y notificar la resolución del recurso será de dos meses.",
+"Se interpone ante el órgano superior jerárquico de aquel que hubiera dictado el acto que se recurre."
+]
+},
+{
+"id": "vo-06-019",
+"origen": "votaciones",
+"test": "Clase 6 - Bloque III",
+"n": 19,
+"enunciado": "Respecto de la regulación del recurso extraordinario de revisión en la Ley 39/2015, señale la respuesta correcta:",
+"opciones": [
+"El órgano competente para resolverlo es el superior jerárquico del que dictó el acto impugnado,",
+"Su presentación impide el derecho del interesado a formular solicitud de declaración de nulidad del acto impugnado.",
+"Se puede acordar su inadmisión a trámite, sin necesidad de motivación, cuando se hubiera desestimado otro recurso sustancialmente igual.",
+"Solo cabe contra actos firmes en vía administrativa cuando se den las circunstancias previstas en el art. 125.1 de la Ley citada."
+]
+},
+{
+"id": "vo-06-020",
+"origen": "votaciones",
+"test": "Clase 6 - Bloque III",
+"n": 20,
+"enunciado": "Según el artículo 125 de la Ley 39/2015, de 1 de octubre, ¿ante qué órgano administrativo se interpone el recurso extraordinario de revisión contra los actos firmes en vía administrativa?",
+"opciones": [
+"Ante el órgano administrativo que lo dictó.",
+"Ante el superior jerárquico del órgano que lo dictó.",
+"Ante el superior jerárquico del órgano jurisdiccional competente.",
+"Ante el superior jerárquico del órgano que debe resolver."
+]
+},
+{
+"id": "vo-06-021",
+"origen": "votaciones",
+"test": "Clase 6 - Bloque III",
+"n": 21,
+"enunciado": "Según la Ley 39/2015, el recurso extraordinario de revisión que se fundamente en que al dictar el acto se hubiera incurrido en un error de hecho que resulte de los documentos incorporados al expediente, podrá interponerse en el plazo de:",
+"opciones": [
+"Dos años siguientes a la fecha de la notificación de la resolución impugnada.",
+"Cuatro años siguientes a la fecha de la notificación de la resolución impugnada.",
+"Un año siguiente a la fecha de la notificación de la resolución impugnada.",
+"Tres meses siguientes a la fecha de la notificación de la resolución impugnada."
+]
+},
+{
+"id": "vo-06-022",
+"origen": "votaciones",
+"test": "Clase 6 - Bloque III",
+"n": 22,
+"enunciado": "Según la Ley 39/2015, ¿pueden tipificarse nuevas infracciones administrativas en una Orden Ministerial?",
+"opciones": [
+"No, solo podrían tipificarse nuevas sanciones administrativas.",
+"No, en ningún caso.",
+"Sí, siempre que se trate de infracciones administrativas leves.",
+"Sí, puesto que no se vulneraría con ello ninguna norma."
+]
+},
+{
+"id": "vo-06-023",
+"origen": "votaciones",
+"test": "Clase 6 - Bloque III",
+"n": 23,
+"enunciado": "De acuerdo con la Ley 39/2015, el ejercicio de la potestad reglamentaria:",
+"opciones": [
+"Corresponde al Gobierno de la Nación en materias transversales y al Gobierno de las Comunidades Autónomas en materias de regulación fiscal.",
+"Corresponde al Gobierno de la Nación y a las Cortes Generales.",
+"Corresponde exclusivamente al Gobierno de la Nación.",
+"Corresponde al Gobierno de la Nación, a los órganos de Gobierno de las Comunidades Autónomas, y a los órganos de gobierno locales."
+]
+},
+{
+"id": "vo-06-024",
+"origen": "votaciones",
+"test": "Clase 6 - Bloque III",
+"n": 24,
+"enunciado": "De acuerdo con lo dispuesto 128 de la Ley 39/2015, los reglamentos y las disposiciones administrativas:",
+"opciones": [
+"Realizarán funciones de desarrollo o colaboración con respecto a la Ley.",
+"Podrán regular materias que los Estatutos de Autonomía reconocen de la competencia de Asambleas Legislativas de CC.AA.",
+"Podrán tipificar infracciones administrativas.",
+"Podrán establecer tributos."
+]
+},
+{
+"id": "vo-06-025",
+"origen": "votaciones",
+"test": "Clase 6 - Bloque III",
+"n": 25,
+"enunciado": "Señale en virtud de qué principio de buena regulación, previsto en el artículo 129 de la Ley 39/2015, se definirán claramente los objetivos de las iniciativas normativas y su justificación en el preámbulo o exposición de motivos:",
+"opciones": [
+"Principio de eficacia.",
+"Principio de seguridad jurídica.",
+"Principio de transparencia.",
+"Principio de necesidad."
+]
+},
+{
+"id": "vo-06-026",
+"origen": "votaciones",
+"test": "Clase 6 - Bloque III",
+"n": 26,
+"enunciado": "Según la Ley 39/2015, las habilitaciones para el desarrollo reglamentario de una ley serán conferidas, con carácter general:",
+"opciones": [
+"A los titulares de los departamentos ministeriales o de las consejerías de los gobiernos autonómicos.",
+"A otros órganos dependientes o subordinados a los titulares de los departamentos ministeriales o de las consejerías de los gobiernos autonómicos.",
+"Al Gobierno o Consejo de Gobierno respectivo o a los titulares de los departamentos ministeriales o de las consejerías de los gobiernos autonómicos.",
+"Al Gobierno o Consejo de Gobierno respectivo."
+]
+},
+{
+"id": "vo-06-027",
+"origen": "votaciones",
+"test": "Clase 6 - Bloque III",
+"n": 27,
+"enunciado": "¿En aplicación de qué principio la iniciativa normativa debe evitar cargas administrativas innecesarias o accesorias y racionalizar, en su aplicación, la gestión de los recursos públicos?",
+"opciones": [
+"Jerarquía.",
+"Eficiencia.",
+"Eficacia.",
+"Transparencia."
+]
+},
+{
+"id": "vo-06-028",
+"origen": "votaciones",
+"test": "Clase 6 - Bloque III",
+"n": 28,
+"enunciado": "De acuerdo con el artículo 131 de la Ley 39/2015, la publicación de los diarios o boletines oficiales en las sedes electrónicas de la Administración, Órgano o Entidad competente tendrá:",
+"opciones": [
+"Los mismos efectos que los atribuidos a su edición impresa, en las condiciones y con las garantías que cada Administración Pública determine.",
+"En las condiciones y con las garantías que cada Administración Pública determine, efectos complementarios a los atribuidos a su edición impresa.",
+"En las condiciones y con las garantías que cada Administración Pública determine, efectos facultativos, siendo preferente la edición impresa.",
+"Efectos supletorios a los señalados a su edición impresa."
+]
+},
+{
+"id": "vo-06-029",
+"origen": "votaciones",
+"test": "Clase 6 - Bloque III",
+"n": 29,
+"enunciado": "¿Cuál de las siguientes normas deberá publicarse en el diario oficial correspondiente?",
+"opciones": [
+"Las normas con rango de ley.",
+"Los reglamentos.",
+"Las disposiciones administrativas.",
+"Todas las anteriores son ciertas."
+]
+},
+{
+"id": "vo-06-030",
+"origen": "votaciones",
+"test": "Clase 6 - Bloque III",
+"n": 30,
+"enunciado": "¿Qué carácter tendrá la publicación del Boletín Oficial del Estado en la sede electrónica del Organismo competente?",
+"opciones": [
+"Auténtico y supletoria.",
+"Oficial y auténtico.",
+"Complementario a la edición en papel.",
+"Complementario y auténtico."
+]
+},
+{
+"id": "vo-06-031",
+"origen": "votaciones",
+"test": "Clase 6 - Bloque III",
+"n": 31,
+"enunciado": "En el ámbito estatal, con carácter previo a la elaboración de un reglamento se sustanciará una consulta pública en la que se recabará opinión sobre:",
+"opciones": [
+"El coste de la medida.",
+"El impacto medioambiental de su implantación.",
+"El impacto de género.",
+"Las posibles soluciones alternativas regulatorias y no regulatorias."
+]
+},
+{
+"id": "vo-06-032",
+"origen": "votaciones",
+"test": "Clase 6 - Bloque III",
+"n": 32,
+"enunciado": "Según el artículo 133 de la Ley 39/2015, de 1 de octubre, con carácter previo a la elaboración de un reglamento se sustanciará una consulta pública en la que se recabará opinión sobre:",
+"opciones": [
+"El impacto medioambiental de su implantación.",
+"El impacto sobre las políticas de igualdad y no discriminación.",
+"Los posibles mecanismos para su financiación.",
+"Los problemas que se pretenden solucionar con la iniciativa."
+]
+},
+{
+"id": "vo-06-033",
+"origen": "votaciones",
+"test": "Clase 6 - Bloque III",
+"n": 33,
+"enunciado": "Según la Ley 39/2015, de 1 de octubre, ¿cuándo podrá prescindirse de los trámites de consulta, audiencia e información públicas en el procedimiento de elaboración de normas con rango de Ley y reglamentos?",
+"opciones": [
+"En ningún caso, son trámites esenciales.",
+"Cuando la norma vaya a ser informada por el Consejo de Estado.",
+"Nunca en el caso de Leyes, pero sí en el procedimiento de elaboración de reglamentos.",
+"En el caso de normas presupuestarias."
+]
+},
+{
+"id": "vo-06-034",
+"origen": "votaciones",
+"test": "Clase 6 - Bloque III",
+"n": 34,
+"enunciado": "Conforme a la Ley 50/1997, la iniciación del procedimiento de elaboración de un reglamento se llevará a cabo por el centro directivo competente mediante la elaboración del correspondiente proyecto, al que, entre otros, se acompañará con carácter preceptivo:",
+"opciones": [
+"Informe de la Secretaría General Técnica del Ministerio proponente.",
+"Dictamen del Consejo de Estado.",
+"Informe del Ministerio de la Presidencia.",
+"Informe del Servicio Jurídico del Estado."
+]
+},
+{
+"id": "vo-06-035",
+"origen": "votaciones",
+"test": "Clase 6 - Bloque III",
+"n": 35,
+"enunciado": "Conforme a la Ley 50/1997, del Gobierno, elaborado el texto de un reglamento que afecte a los derechos e intereses legítimos de los ciudadanos, se les dará audiencia, con carácter general, durante un plazo mínimo de:",
+"opciones": [
+"15 días hábiles.",
+"10 días hábiles.",
+"10 días naturales.",
+"30 días hábiles."
+]
+},
+{
+"id": "vo-06-036",
+"origen": "votaciones",
+"test": "Clase 6 - Bloque III",
+"n": 36,
+"enunciado": "Podrá prescindirse del trámite de audiencia e información pública durante el procedimiento de elaboración de normas con rango de Ley y reglamentos cuando la propuesta normativa:",
+"opciones": [
+"Regule aspectos parciales de una materia.",
+"No imponga obligaciones relevantes a los destinatarios.",
+"Regule los órganos, cargos y autoridades del Gobierno o de las organizaciones dependientes o vinculadas a éstas.",
+"No tenga un impacto significativo en la actividad económica."
+]
+}
+]
+}

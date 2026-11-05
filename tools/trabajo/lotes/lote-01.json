@@ -1,0 +1,527 @@
+{
+"lote": 1,
+"casos": {},
+"calendarios": {},
+"preguntas": [
+{
+"id": "au-01-001",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (1) - Ley 39/2015 (arts. 1 a 8)",
+"n": 1,
+"enunciado": "De conformidad con el artículo 7 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas, cuando en una solicitud, escrito o comunicación figuren varios interesados, ¿con quién se efectuarán las actuaciones?",
+"opciones": [
+"Con el que figure en primer término.",
+"Con todos y cada uno de los interesados.",
+"Con el que figure en último término.",
+"Con el representante o interesado que expresamente hayan señalado y en su defecto, con el que figure en primer término."
+]
+},
+{
+"id": "au-01-002",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (1) - Ley 39/2015 (arts. 1 a 8)",
+"n": 2,
+"enunciado": "Según el artículo 4 de la Ley 39/2015, de 1 de octubre, NO se consideran interesados en el procedimiento:",
+"opciones": [
+"Los que, sin haber iniciado el procedimiento tengan derechos que puedan resultar afectados por la decisión que se adopte.",
+"Quienes lo promuevan como titulares de derechos o intereses legítimos individuales o colectivos.",
+"Aquellos cuyos intereses legítimos puedan resultar afectados por la resolución aun cuando no se personen en el procedimiento.",
+"Todos los anteriores se consideran interesados en el procedimiento administrativo."
+]
+},
+{
+"id": "au-01-003",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (1) - Ley 39/2015 (arts. 1 a 8)",
+"n": 3,
+"enunciado": "Según lo dispuesto en la Ley 39/2015, cuando resulte eficaz, proporcionado y necesario para la consecución de fines propios del procedimiento y de manera motivada podrán incluirse trámites adicionales o distintos a los contemplados en dicha Ley:",
+"opciones": [
+"Solo reglamentariamente.",
+"Mediante ley o reglamentariamente, según los casos.",
+"Solo mediante ley.",
+"En ningún caso podrán incluirse trámites adicionales o distintos a los contemplados en dicha Ley."
+]
+},
+{
+"id": "au-01-004",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (1) - Ley 39/2015 (arts. 1 a 8)",
+"n": 4,
+"enunciado": "Las entidades de derecho privado vinculadas o dependientes de las Administraciones Públicas:",
+"opciones": [
+"Quedarán sujetas a lo dispuesto en las normas de la Ley 39/2015 que específicamente se refieran a las mismas, y en todo caso, cuando ejerzan potestades administrativas.",
+"No estarán sujetas a lo dispuesto en la Ley 39/2015, salvo cuando ejerzan potestades administrativas.",
+"Quedarán sujetas a lo dispuesto en las normas de la Ley 39/2015 que específicamente se refieran a las mismas, excepto cuando ejerzan potestades administrativas.",
+"No estarán sujetas a lo dispuesto en la Ley 39/2015 cuando ejerzan potestades administrativas."
+]
+},
+{
+"id": "au-01-005",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (1) - Ley 39/2015 (arts. 1 a 8)",
+"n": 5,
+"enunciado": "A los efectos de la Ley 39/2015, no integran el sector público institucional:",
+"opciones": [
+"Cualesquiera Organismos Públicos y entidades de derecho público dependientes de las Administraciones Públicas.",
+"Las Universidades Públicas.",
+"Las entidades de derecho privado vinculadas o dependientes de las Administraciones Públicas.",
+"Las Entidades que integran la Administración local."
+]
+},
+{
+"id": "au-01-006",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (1) - Ley 39/2015 (arts. 1 a 8)",
+"n": 6,
+"enunciado": "Según el artículo 5 de la Ley 39/2015, la falta de acreditación de la representación para actuar en nombre de otra persona ante las Administraciones Públicas no impedirá que se tenga por realizado el trámite de que se trate, siempre que:",
+"opciones": [
+"Se aporte aquella dentro del plazo de diez días que deberá conceder al efecto el órgano administrativo o de un plazo superior, que no podrá exceder en ningún caso, de quince días.",
+"Se aporte aquella dentro del plazo de quince días que deberá conceder al efecto el órgano administrativo.",
+"Se aporte aquella dentro del plazo de diez días que deberá conceder al efecto el órgano administrativo o de un plazo superior cuando las circunstancias del caso así lo requieran.",
+"Se aporte aquella dentro del plazo de cinco días que deberá conceder al efecto el órgano administrativo."
+]
+},
+{
+"id": "au-01-007",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (1) - Ley 39/2015 (arts. 1 a 8)",
+"n": 7,
+"enunciado": "Señala la respuesta incorrecta de acuerdo con lo dispuesto en la Ley 39/2015. Tendrán capacidad de obrar:",
+"opciones": [
+"Las personas físicas que ostenten capacidad de obrar con arreglo a las normas civiles.",
+"Los menores de edad para el ejercicio y defensa de aquellos de sus derechos e intereses cuya actuación no esté permitida por el ordenamiento jurídico sin la asistencia de la persona que ejerza la patria potestad, tutela o curatela.",
+"Los patrimonios independientes o autónomos cuando así lo declare expresamente la ley.",
+"Las personas jurídicas que ostenten capacidad de obrar con arreglo a las normas civiles."
+]
+},
+{
+"id": "au-01-008",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (1) - Ley 39/2015 (arts. 1 a 8)",
+"n": 8,
+"enunciado": "Las Universidades Públicas, según lo establecido en la Ley 39/2015:",
+"opciones": [
+"Tienen la consideración de Administraciones Públicas, a efectos de la Ley 39/2015.",
+"Se regirán por su normativa específica y supletoriamente por las previsiones de esta Ley.",
+"Se regirán por las previsiones de esta Ley y supletoriamente por su normativa específica.",
+"Quedan sujetas a lo dispuesto en las normas de la Ley 39/2015, excepto cuando ejerzan potestades administrativas."
+]
+},
+{
+"id": "au-01-009",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (1) - Ley 39/2015 (arts. 1 a 8)",
+"n": 9,
+"enunciado": "De acuerdo con el artículo 5 de la Ley 39/2015, NO deberá acreditarse la representación ante las Administraciones Públicas, para poder actuar en nombre de otras personas:",
+"opciones": [
+"Para los actos y gestiones de mero trámite.",
+"Para interponer recursos.",
+"Para formular solicitudes.",
+"Para desistir de acciones."
+]
+},
+{
+"id": "au-01-010",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (1) - Ley 39/2015 (arts. 1 a 8)",
+"n": 10,
+"enunciado": "Señale la respuesta correcta en relación con la actuación en un procedimiento administrativo por medio de representante:",
+"opciones": [
+"Para formular solicitudes no es necesario acreditar la representación.",
+"Para presentar declaraciones responsables deberá acreditarse la representación.",
+"La falta o insuficiente acreditación de la representación impide, en todo caso, que se tenga por realizado el acto de que se trate.",
+"El interesado no podrá comparecer en el procedimiento por sí mismo."
+]
+},
+{
+"id": "au-01-011",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (1) - Ley 39/2015 (arts. 1 a 8)",
+"n": 11,
+"enunciado": "Según lo dispuesto en el artículo 4 de la Ley 39/2015, no se considerarán interesados en el procedimiento administrativo:",
+"opciones": [
+"Aquellos cuyos intereses legítimos, individuales o colectivos, puedan resultar afectados como consecuencia de la resolución que en el mismo se adopte y se personen en el mismo en tanto no haya recaído resolución definitiva.",
+"Los que sin haber iniciado el procedimiento administrativo tengan derechos que puedan resultar afectados por la decisión que en el mismo se adopte.",
+"Quienes lo promuevan como titulares de derechos o intereses legítimos individuales o colectivos.",
+"Aquellos cuyos intereses legítimos, individuales o colectivos, puedan resultar afectados por la resolución y se personen en el procedimiento una vez haya recaído resolución definitiva."
+]
+},
+{
+"id": "au-01-012",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (1) - Ley 39/2015 (arts. 1 a 8)",
+"n": 12,
+"enunciado": "Según la Ley 39/2015, de 1 de octubre, señale si es heredable la condición de interesado en el procedimiento administrativo:",
+"opciones": [
+"Sí, cualquiera que sea el estado del procedimiento.",
+"No, porque los derechos del interesado se extinguen con el fallecimiento.",
+"Sí, salvo que se ya se hubiera sustanciado el trámite de audiencia.",
+"Solo si el fallecido era titular de un derecho legítimo."
+]
+},
+{
+"id": "au-01-013",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (1) - Ley 39/2015 (arts. 1 a 8)",
+"n": 13,
+"enunciado": "El artículo 1 de la Ley 39/2015 recoge la posibilidad de establecer en el procedimiento especialidades referidas, entre otras, a los órganos competentes, formas de iniciación y terminación, publicación e informes a recabar, lo que se podrá realizar:",
+"opciones": [
+"Mediante ley, cuando resulte eficaz, proporcionado y necesario para la consecución de los fines propios del procedimiento.",
+"Solo mediante ley, de forma motivada.",
+"Mediante reglamento cuando resulte eficaz, proporcionado y necesario para la consecución de los fines del procedimiento.",
+"Reglamentariamente."
+]
+},
+{
+"id": "au-01-014",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (1) - Ley 39/2015 (arts. 1 a 8)",
+"n": 14,
+"enunciado": "Señale la respuesta incorrecta. De acuerdo con lo previsto en su artículo 1, la Ley 39/2015 tiene por objeto regular:",
+"opciones": [
+"El régimen jurídico de las Administraciones Públicas.",
+"Los requisitos de validez y eficacia de los actos administrativos.",
+"El procedimiento administrativo común a todas las Administraciones Públicas.",
+"Los principios a los que se ha de ajustar el ejercicio de la iniciativa legislativa y la potestad reglamentaria."
+]
+},
+{
+"id": "au-01-015",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (1) - Ley 39/2015 (arts. 1 a 8)",
+"n": 15,
+"enunciado": "A los efectos previstos en la Ley 39/2015, tendrán capacidad de obrar:",
+"opciones": [
+"Los patrimonios independientes o autónomos, cuando así lo declare expresamente una ley.",
+"Las personas jurídicas cuando la Ley así lo declare expresamente.",
+"Las uniones y entidades sin personalidad jurídica, en todo caso.",
+"Los grupos de afectados, cuando lo declare expresamente una norma legal o reglamentaria."
+]
+},
+{
+"id": "au-01-016",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (1) - Ley 39/2015 (arts. 1 a 8)",
+"n": 16,
+"enunciado": "Señale la respuesta correcta, de acuerdo con lo establecido en el artículo 4 de la Ley 39/2015:",
+"opciones": [
+"Las asociaciones y organizaciones representativas de intereses económicos y sociales serán titulares de derechos colectivos en los términos que la Ley reconozca.",
+"Siempre que la condición de interesado no derivase de alguna relación jurídica transmisible, el derecho-habiente sucederá en tal condición cualquiera que sea el estado del procedimiento.",
+"Se consideran interesados en el procedimiento únicamente a quienes lo promuevan.",
+"Se consideran interesados en el procedimiento los que, sin haber iniciado el procedimiento, tengan derechos que puedan resultar afectados por la decisión que en el mismo se adopte."
+]
+},
+{
+"id": "au-01-017",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (1) - Ley 39/2015 (arts. 1 a 8)",
+"n": 17,
+"enunciado": "Según la Ley 39/2015, y conforme al artículo 5, NO necesariamente deberá acreditarse la representación cuando:",
+"opciones": [
+"Se formulen alegaciones en el trámite de audiencia.",
+"Se presente una declaración responsable.",
+"Se interponga un recurso.",
+"Se formulen solicitudes."
+]
+},
+{
+"id": "au-01-018",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (1) - Ley 39/2015 (arts. 1 a 8)",
+"n": 18,
+"enunciado": "Para poder actuar en nombre de otras personas podrá acreditarse la representación ante las Administraciones Públicas:",
+"opciones": [
+"A través de la acreditación de su inscripción en el registro electrónico de apoderamientos de la Administración competente.",
+"Mediante cualquier medio válido en Derecho, aun cuando no deje constancia fidedigna de su existencia.",
+"Únicamente mediante poder notarial o apoderamiento apud acta.",
+"Mediante apoderamiento apud acta, el cual se efectuará necesariamente mediante comparecencia electrónica."
+]
+},
+{
+"id": "au-01-019",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (1) - Ley 39/2015 (arts. 1 a 8)",
+"n": 19,
+"enunciado": "Según la Ley 39/2015, ¿pueden las personas jurídicas actuar en representación de otras ante las Administraciones Públicas?",
+"opciones": [
+"Sí, basta con que presenten el correspondiente poder notarial.",
+"No, la representación solo está prevista respecto de personas físicas.",
+"Sí, basta con que acrediten capacidad de obrar con arreglo a las normas civiles.",
+"Sí, siempre que ello esté previsto en sus Estatutos."
+]
+},
+{
+"id": "au-01-020",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (1) - Ley 39/2015 (arts. 1 a 8)",
+"n": 20,
+"enunciado": "De acuerdo con lo establecido en la Ley 39/2015, del Procedimiento Administrativo Común, a quien promueva un procedimiento administrativo como titular de derechos o intereses legítimos individuales o colectivos se considera como:",
+"opciones": [
+"Ciudadano.",
+"Interesado.",
+"Incapacitado.",
+"Legitimado."
+]
+},
+{
+"id": "au-02-001",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (2) - Ley 39/2015 (arts. 13 a 20)",
+"n": 1,
+"enunciado": "Los derechos recogidos en el artículo 13 de la Ley 39/2015, de 1 de octubre, relativos a las relaciones de los ciudadanos con las Administraciones Públicas, se atribuyen a:",
+"opciones": [
+"Quienes de conformidad con el artículo 3, tienen capacidad jurídica para ser sujeto de derechos y obligaciones.",
+"Quienes de conformidad con el artículo 3, tienen capacidad de obrar ante las Administraciones Públicas.",
+"Quienes de conformidad con el artículo 4, tienen consideración de interesado en el procedimiento administrativo.",
+"Quienes de conformidad con el del Código Civil, tienen consideración de persona natural."
+]
+},
+{
+"id": "au-02-002",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (2) - Ley 39/2015 (arts. 13 a 20)",
+"n": 2,
+"enunciado": "Señale la respuesta incorrecta. Quienes de conformidad con el artículo 3, tienen capacidad de obrar ante las Administraciones Públicas, son titulares, en sus relaciones con ellas, de los siguientes derechos:",
+"opciones": [
+"A ser tratados con respeto y deferencia por las autoridades y empleados públicos, que habrán de facilitarles el ejercicio de sus derechos y el cumplimiento de sus obligaciones.",
+"A utilizar las lenguas oficiales en el territorio de su Comunidad Autónoma, de acuerdo con lo previsto en esta Ley y en el resto del ordenamiento jurídico.",
+"A la protección de datos de carácter personal, y en particular a la seguridad y confidencialidad de los datos que figuren en los ficheros, sistemas y aplicaciones de las Administraciones Públicas.",
+"A identificar a las autoridades y al personal al servicio de las Administraciones Públicas bajo cuya responsabilidad se tramiten los procedimientos."
+]
+},
+{
+"id": "au-02-003",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (2) - Ley 39/2015 (arts. 13 a 20)",
+"n": 3,
+"enunciado": "Según el artículo 13 de la Ley 39/2015, de 1 de octubre, quienes tienen capacidad de obrar ante las Administraciones Públicas, son titulares, en sus relaciones con ellas, del siguiente derecho:",
+"opciones": [
+"A ser asistidos en el uso de medios electrónicos en sus relaciones con las Administraciones Públicas.",
+"A no presentar documentos originales salvo que, de manera excepcional, la normativa aplicable establezca lo contrario.",
+"A actuar asistidos de asesor cuando lo consideren conveniente en defensa de sus intereses.",
+"A identificar al personal al servicio de las Administraciones bajo cuya responsabilidad se tramiten los procedimientos."
+]
+},
+{
+"id": "au-02-004",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (2) - Ley 39/2015 (arts. 13 a 20)",
+"n": 4,
+"enunciado": "Señale la respuesta incorrecta. Quienes de conformidad con el artículo 3, tienen capacidad de obrar ante las Administraciones Públicas, son titulares, en sus relaciones con ellas, del siguiente derecho:",
+"opciones": [
+"A comunicarse con las Administraciones Públicas a través de un Punto de Acceso General electrónico de la Administración.",
+"A ser asistidos en el uso de medios electrónicos en sus relaciones con las Administraciones Públicas.",
+"A utilizar las lenguas oficiales en el territorio de su Comunidad Autónoma, cualquiera que sea el órgano administrativo al que se dirijan.",
+"A exigir las responsabilidades de las Administraciones Públicas y autoridades, cuando así corresponda legalmente."
+]
+},
+{
+"id": "au-02-005",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (2) - Ley 39/2015 (arts. 13 a 20)",
+"n": 5,
+"enunciado": "Según el artículo 14 de la Ley 39/2015, podrán elegir en todo momento si se comunican con las Administraciones Públicas para el ejercicio de sus derechos y obligaciones a través de medios electrónicos o no:",
+"opciones": [
+"Las personas físicas o jurídicas.",
+"Las personas físicas, en todo caso.",
+"Las entidades sin personalidad jurídica.",
+"Las personas físicas, salvo que estén obligadas a relacionarse a través de medios electrónicos."
+]
+},
+{
+"id": "au-02-006",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (2) - Ley 39/2015 (arts. 13 a 20)",
+"n": 6,
+"enunciado": "De acuerdo con el artículo 14 de la Ley 39/2015, de 1 de octubre, estarán obligados a relacionarse a través de medios electrónicos con las Administraciones Públicas para la realización de cualquier trámite de un procedimiento administrativo:",
+"opciones": [
+"Las entidades sin personalidad jurídica.",
+"Quienes representen a un interesado que no esté obligado a relacionarse electrónicamente con la Administración.",
+"Los empleados de las Administraciones Públicas, en todo caso.",
+"Quienes ejerzan una actividad profesional para la que se requiera colegiación obligatoria, en todo caso."
+]
+},
+{
+"id": "au-02-007",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (2) - Ley 39/2015 (arts. 13 a 20)",
+"n": 7,
+"enunciado": "Según el artículo 14.2 de la Ley 39/2015, estarán obligados a relacionarse a través de medios electrónicos con las Administraciones Públicas para la realización de cualquier trámite de un procedimiento administrativo, al menos, los siguientes sujetos:",
+"opciones": [
+"Las personas físicas.",
+"Quienes actúen en representación de cualquier interesado con capacidad de obrar.",
+"Quienes por razón de su capacidad económica tengan acceso y disponibilidad de los medios electrónicos necesarios.",
+"Las personas jurídicas."
+]
+},
+{
+"id": "au-02-008",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (2) - Ley 39/2015 (arts. 13 a 20)",
+"n": 8,
+"enunciado": "Según el artículo 14.3 de la Ley 39/2015, las Administraciones Públicas podrán establecer la obligación de relacionarse con ellas a través de medios electrónicos para determinados procedimientos y para ciertos colectivos de personas físicas:",
+"opciones": [
+"Solo mediante norma con rango de Ley.",
+"Reglamentariamente.",
+"Que actúen en representación de un interesado que esté obligado a relacionarse electrónicamente con la Administración.",
+"Que ejerzan una actividad profesional para la que se requiera colegiación obligatoria."
+]
+},
+{
+"id": "au-02-009",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (2) - Ley 39/2015 (arts. 13 a 20)",
+"n": 9,
+"enunciado": "Estarán obligados a relacionarse a través de medios electrónicos con las Administraciones Públicas para la realización de cualquier trámite de un procedimiento administrativo los empleados de las Administraciones Públicas:",
+"opciones": [
+"Para los trámites y actuaciones que realicen con ellas por razón de su condición de empleado público.",
+"Para todo trámite o actuación que realicen en otras Administraciones Públicas distintas a aquella en la que presten sus servicios.",
+"Para cualesquiera trámites y actuaciones que realicen en la Administración Pública en la que presten sus servicios.",
+"Para los trámites y actuaciones que realicen con ellas que no deriven de su condición de empleado público."
+]
+},
+{
+"id": "au-02-010",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (2) - Ley 39/2015 (arts. 13 a 20)",
+"n": 10,
+"enunciado": "Señale la respuesta correcta en relación con el medio elegido por la persona física para comunicarse con las Administraciones Públicas:",
+"opciones": [
+"Podrá ser modificado por aquella en cualquier momento.",
+"Podrá ser modificado por aquella en tanto no haya recaído resolución definitiva.",
+"Podrá ser modificado por aquella en cualquier momento anterior al trámite de audiencia.",
+"Podrá ser modificado por aquella, pero únicamente producirá sus efectos en procedimientos que se inicien con posterioridad a dicha comunicación."
+]
+},
+{
+"id": "au-02-011",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (2) - Ley 39/2015 (arts. 13 a 20)",
+"n": 11,
+"enunciado": "De acuerdo con lo previsto en la Ley 39/2015, de 1 de octubre, el interesado que dirija un escrito a una Delegación del Gobierno en una Comunidad Autónoma:",
+"opciones": [
+"Podrá utilizar la lengua que sea cooficial en el territorio de la Comunidad Autónoma pero se tramitará internamente por la Administración necesariamente en castellano.",
+"Podrá utilizar el castellano o la lengua que sea cooficial en el territorio de la Comunidad Autónoma.",
+"Utilizará la lengua cooficial de la Comunidad Autónoma, acompañada de su traducción al castellano.",
+"Utilizará, en todo caso, el castellano."
+]
+},
+{
+"id": "au-02-012",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (2) - Ley 39/2015 (arts. 13 a 20)",
+"n": 12,
+"enunciado": "Señale la respuesta incorrecta respecto a la lengua en que ha de tramitar los procedimientos administrativos la Administración General del Estado:",
+"opciones": [
+"Los interesados que residan en una Comunidad autónoma en la que exista una lengua cooficial podrán utilizar esta última, con independencia del lugar en que tenga su sede el órgano de la Administración General del Estado al que se dirijan.",
+"En caso de tramitarse en una lengua cooficial, deberán traducirse al castellano los documentos dirigidos a los interesados que así lo soliciten expresamente.",
+"Como regla general, la lengua de los procedimientos será el castellano.",
+"En los casos y circunstancias previstas en la Ley 39/2015, el procedimiento se tramitará íntegramente en la lengua cooficial elegida por los interesados."
+]
+},
+{
+"id": "au-02-013",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (2) - Ley 39/2015 (arts. 13 a 20)",
+"n": 13,
+"enunciado": "Indique en cuál de los siguientes casos un interesado que se relacione con la Administración General del Estado podrá utilizar el catalán:",
+"opciones": [
+"Siempre que así lo prevea la legislación autonómica correspondiente.",
+"Solo cuando resida en el territorio de una Comunidad Autónoma en la que el catalán sea lengua cooficial.",
+"Solo cuando se dirija a un órgano de la Administración General del Estado con sede en el territorio de una Comunidad Autónoma en la que el catalán sea lengua cooficial.",
+"En todo caso, salvo si concurrieran varios interesados en el procedimiento y existiera discrepancia en cuanto a la lengua."
+]
+},
+{
+"id": "au-02-014",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (2) - Ley 39/2015 (arts. 13 a 20)",
+"n": 14,
+"enunciado": "¿Puede un interesado residente en Lugo utilizar el gallego para dirigirse a la Administración General del Estado?",
+"opciones": [
+"Sí, en el caso de que se dirija a los servicios centrales de un Departamento Ministerial.",
+"Sí, siempre que no existan más interesados en el procedimiento.",
+"Sí, en el caso de que se dirija a la Subdelegación del Gobierno en Lugo.",
+"Sí, pero el procedimiento se tramitará en todo caso en castellano."
+]
+},
+{
+"id": "au-02-015",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (2) - Ley 39/2015 (arts. 13 a 20)",
+"n": 15,
+"enunciado": "De acuerdo con lo dispuesto en la Ley 39/2015, cuando el procedimiento se tramite en una lengua oficial distinta del castellano, la Administración Pública instructora deberá traducir al castellano:",
+"opciones": [
+"Únicamente, los documentos, expedientes o partes de los mismos que deban surtir efecto en el territorio de una Comunidad Autónoma donde no sea cooficial esa misma lengua.",
+"Los documentos dirigidos a los interesados que así lo soliciten expresamente.",
+"El expediente administrativo en su totalidad, en todo caso.",
+"El procedimiento se tramitará, necesariamente, en castellano, si bien los documentos o testimonios que requieran los interesados se expedirán en la lengua elegida por los mismos"
+]
+},
+{
+"id": "au-02-016",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (2) - Ley 39/2015 (arts. 13 a 20)",
+"n": 16,
+"enunciado": "Los interesados en un procedimiento que conozcan datos que permitan identificar a otros interesados que no han comparecido:",
+"opciones": [
+"Pueden comunicárselos a la Administración actuante.",
+"Tienen el deber de proporcionárselos a la Administración actuante.",
+"Tendrán obligación de comunicarlos a la Administración actuante solo cuando así esté previsto en una norma con rango de ley.",
+"Tendrán obligación de comunicarlos a la Administración actuante solo cuando así esté previsto reglamentariamente."
+]
+},
+{
+"id": "au-02-017",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (2) - Ley 39/2015 (arts. 13 a 20)",
+"n": 17,
+"enunciado": "La comparecencia de las personas ante las oficinas públicas, ya sea presencialmente o por medios electrónicos:",
+"opciones": [
+"No será obligatoria, en ningún caso.",
+"Solo será obligatoria cuando así esté previsto reglamentariamente.",
+"Será obligatoria cuando así esté previsto en una norma con rango de ley o reglamentario.",
+"Solo será obligatoria cuando así esté previsto en una norma con rango de ley."
+]
+},
+{
+"id": "au-02-018",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (2) - Ley 39/2015 (arts. 13 a 20)",
+"n": 18,
+"enunciado": "Según el artículo 18 de la Ley 39/2015, el principio de colaboración de las personas con la Administración implica que:",
+"opciones": [
+"Los interesados en un procedimiento que conozcan datos que permitan identificar a otros interesados que no hayan comparecido en él tienen el deber de comunicarle al interesado la apertura del procedimiento.",
+"Todo ciudadano que conozca datos que permitan identificar a un interesado que no haya comparecido en él tiene el deber de proporcionárselos a la Administración actuante.",
+"Los interesados en un procedimiento que conozcan datos que permitan identificar a otros interesados que no hayan comparecido en él no están obligados a proporcionárselos a la Administración actuante.",
+"Los interesados en un procedimiento que conozcan datos que permitan identificar a otros interesados que no hayan comparecido en él tienen el deber de proporcionárselos a la Administración actuante."
+]
+},
+{
+"id": "au-02-019",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (2) - Ley 39/2015 (arts. 13 a 20)",
+"n": 19,
+"enunciado": "Señale la respuesta incorrecta. De acuerdo con el artículo 19 de la Ley 39/2015, en los casos en que proceda la comparecencia, la correspondiente citación hará constar expresamente:",
+"opciones": [
+"El lugar, fecha, hora y los medios disponibles.",
+"El deber de asistir acompañado de letrado.",
+"El objeto de la comparecencia.",
+"Los efectos de no atenderla."
+]
+},
+{
+"id": "au-02-020",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (2) - Ley 39/2015 (arts. 13 a 20)",
+"n": 20,
+"enunciado": "De acuerdo con el artículo 19.3 de la Ley 39/2015, las Administraciones Públicas entregarán al interesado certificación acreditativa de la comparecencia:",
+"opciones": [
+"Únicamente cuando así esté previsto en una norma con rango de ley.",
+"Cuando así lo solicite.",
+"Únicamente cuando la comparecencia se realice de forma presencial.",
+"Únicamente cuando el interesado desempeñe actividad retribuida y se produzca dentro de su jornada laboral."
+]
+}
+]
+}

@@ -1,0 +1,382 @@
+{
+"vo-04-001": {
+  "bloque": "iniciacion",
+  "precepto": "Art. 67.1 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+    "No. Seis meses es un plazo demasiado corto: la ley da un año para reclamar (art. 67.1).",
+    "Es esta. El **art. 67.1** dice que el derecho a reclamar prescribe (se pierde por no ejercerlo a tiempo) “al año” de producido el hecho o de manifestarse su efecto lesivo, es decir, desde que se ve el daño. Si te rompen el coche con una obra pública, tienes un año para pedir la indemnización.",
+    "No. Te han cambiado el año por nueve meses. El plazo del art. 67.1 es de un año.",
+    "No. Dieciocho meses se pasa de largo. El plazo del art. 67.1 es de un año."
+  ],
+  "ojo": "Los daños físicos o psíquicos también tienen un año. Lo que cambia es cuándo empieza a contar: desde la curación o desde que se conoce el alcance de las secuelas."
+},
+"vo-04-002": {
+  "bloque": "iniciacion",
+  "precepto": "Art. 67.1 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+    "No. Interponer la demanda es solo empezar el pleito, y entonces aún no se ha anulado nada. El año cuenta desde que se notifica la sentencia definitiva.",
+    "No. Te han cambiado una palabra: la ley no habla de sentencia “declarativa”, sino de sentencia “definitiva”.",
+    "Es esta. El párrafo segundo del **art. 67.1** dice que, si la anulación llega en vía contencioso-administrativa (ante los jueces), el derecho a reclamar prescribe al año de notificarse la **sentencia definitiva**. Tiene lógica: hasta que el pleito no termina del todo, no sabes si el acto queda anulado.",
+    "No. Que admitan a trámite la demanda solo significa que el juzgado acepta estudiarla. El año cuenta desde que se notifica la sentencia definitiva."
+  ],
+  "ojo": "Si la anulación es en vía administrativa, el año cuenta desde que se notifica la resolución administrativa. Si es ante los jueces, desde que se notifica la sentencia definitiva."
+},
+"vo-04-003": {
+  "bloque": "iniciacion",
+  "precepto": "Art. 66.6 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. El **art. 66.6** dice que, si la Administración fija expresamente modelos específicos para un procedimiento concreto, son “de uso obligatorio” para los interesados. Por ejemplo, si una convocatoria exige un formulario propio, tienes que usar ese.",
+    "No. Te han cambiado “obligatorio” por “voluntario”. Lo voluntario son los modelos de presentación masiva del art. 66.4, los que sirven para presentar varias solicitudes a la vez.",
+    "No. Esta excepción no existe en el art. 66.6: el modelo específico es obligatorio siempre. Los procedimientos selectivos o de concurrencia competitiva salen en otro sitio, el art. 68.2, y para otra cosa: la ampliación del plazo de subsanación.",
+    "No. El art. 66.6 no dice “voluntario salvo que la norma diga lo contrario”. La regla es directamente el uso obligatorio."
+  ],
+  "ojo": "No confundas los dos modelos: los de presentación masiva (art. 66.4) son voluntarios y los específicos de un procedimiento (art. 66.6) son obligatorios."
+},
+"vo-04-004": {
+  "bloque": "iniciacion",
+  "precepto": "Art. 68.2 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+    "No. Diez días es el plazo normal para subsanar (art. 68.1), no lo que se puede ampliar. La ampliación es de hasta cinco días.",
+    "Es esta. El **art. 68.2** permite ampliar el plazo “hasta cinco días”, a petición del interesado o por iniciativa del órgano, cuando aportar los documentos sea especialmente difícil. Así, a los diez días normales se le pueden sumar hasta cinco más.",
+    "No. Treinta días no aparece en el art. 68. La ampliación máxima es de cinco días.",
+    "No. Quince días es lo que podrías tener en total (diez más cinco), pero la pregunta es hasta cuánto se amplía: cinco días."
+  ],
+  "ojo": "En procedimientos selectivos o de concurrencia competitiva (oposiciones, subvenciones por concurso) no hay ampliación."
+},
+"vo-04-005": {
+  "bloque": "iniciacion",
+  "precepto": "Art. 68.1 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+    "No. Te han cambiado el plazo: no son “hasta 15 días”, sino diez días (art. 68.1).",
+    "No. Se salta un paso. Primero hay que requerir al interesado para que corrija el fallo, avisándole de la consecuencia. Solo si no lo hace se le tiene por desistido.",
+    "No. No hay un mínimo de 15 días. Subsanar es corregir lo que falta, y el plazo es de diez días, también en responsabilidad patrimonial.",
+    "Es esta. El **art. 68.1** se aplica cuando la solicitud no cumple los requisitos del art. 66 y, en su caso, los del art. 67, que son los específicos de responsabilidad patrimonial. Se requiere al interesado para que, en diez días, subsane la falta o acompañe los documentos preceptivos (los obligatorios)."
+  ]
+},
+"vo-04-006": {
+  "bloque": "iniciacion",
+  "precepto": "Art. 68.1 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. El **art. 68.1** dice que, si no subsanas en plazo, “se le tendrá por desistido de su petición”, previa resolución dictada según el art. 21. Desistir es abandonar esa solicitud concreta. La Administración tiene que dictar una resolución que lo declare, no basta con archivarla sin más.",
+    "No. La caducidad es otra cosa: el procedimiento queda parado por culpa del interesado y, tras avisarle, pasan tres meses (art. 95.1). No subsanar la solicitud lleva al desistimiento.",
+    "No. La prescripción es perder un derecho por no ejercerlo durante el tiempo que marca la ley. No subsanar te hace desistir de esa solicitud, pero no hace prescribir tu derecho.",
+    "No. Te han cambiado “desistido” por “renuncia”. Desistir es abandonar la petición, y renunciar es abandonar el derecho mismo. El art. 68.1 solo habla de desistimiento."
+  ],
+  "ojo": "La trampa es la última opción, que copia la coletilla del art. 21 pero cambia desistimiento por renuncia."
+},
+"vo-04-007": {
+  "bloque": "iniciacion",
+  "precepto": "Art. 69.3 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+    "No. El art. 69.6 dice justo lo contrario: se exige una declaración responsable o una comunicación, “sin que sea posible la exigencia de ambas acumulativamente”.",
+    "Es esta. Es el párrafo segundo del **art. 69.3**: la comunicación puede presentarse después de empezar la actividad, siempre que la legislación correspondiente lo prevea expresamente. Es decir, solo si una ley sectorial lo permite.",
+    "No. Te han añadido “siguiente”. El art. 69.3 dice “desde el día de su presentación”, no desde el siguiente.",
+    "No. No es algo potestativo (opcional). El art. 69.5 obliga: las Administraciones “tendrán permanentemente publicados y actualizados” esos modelos."
+  ]
+},
+"vo-04-008": {
+  "bloque": "iniciacion",
+  "precepto": "Art. 69.3 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+    "No. La comprobación, el control y la inspección vienen después y no retrasan el inicio. La actividad puede empezar antes de que nadie compruebe nada.",
+    "No. Aquí no hay aprobación. La gracia de estas figuras es que no tienes que esperar a que la Administración te dé permiso.",
+    "Es esta. El **art. 69.3** dice que surten efecto “desde el día de su presentación”, sin perjuicio de que la Administración pueda comprobar, controlar e inspeccionar. Si presentas hoy tu declaración responsable para abrir un negocio, puedes empezar hoy.",
+    "No. Te han cambiado una palabra: no es el día siguiente, sino el mismo día de la presentación."
+  ]
+},
+"vo-04-009": {
+  "bloque": "iniciacion",
+  "precepto": "Art. 69.2 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+    "No. La denuncia es otra cosa: es poner en conocimiento de un órgano un hecho que podría justificar iniciar un procedimiento de oficio (art. 62.1). No trata de tus propios datos para una actividad.",
+    "No. Con la solicitud pides algo a la Administración y se inicia un procedimiento (art. 66). Aquí solo se le dan a conocer datos.",
+    "No. En la declaración responsable manifiestas, bajo tu responsabilidad, que cumples los requisitos, que tienes la documentación y que seguirás cumpliendo (art. 69.1). Es más que dar datos.",
+    "Es esta. Es la definición literal del **art. 69.2**: la comunicación es el documento con el que pones en conocimiento de la Administración tus datos identificativos o cualquier otro dato relevante para iniciar una actividad o ejercer un derecho."
+  ],
+  "ojo": "Para no mezclarlas: en la comunicación informas de datos y en la declaración responsable juras que cumples requisitos."
+},
+"vo-04-010": {
+  "bloque": "instruccion",
+  "precepto": "Art. 70.4 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+    "Es verdadera, así que no se marca. Las alegaciones sí forman parte. El art. 70.2 incluye los documentos y demás diligencias que deban integrar el expediente, y las alegaciones se tienen en cuenta al redactar la propuesta de resolución (art. 76.1).",
+    "Es verdadera, así que no se marca. Los informes preceptivos (obligatorios) sí forman parte: el art. 70.4 los salva expresamente si se pidieron antes de la resolución que pone fin al procedimiento.",
+    "Esta es la falsa, y por eso es la que hay que marcar. El **art. 70.4** deja fuera del expediente la información “auxiliar o de apoyo”: notas, borradores, opiniones, resúmenes, datos de aplicaciones informáticas, comunicaciones e informes internos, y juicios de valor. Es el material de trabajo, no lo que fundamenta la decisión.",
+    "Es verdadera, así que no se marca. Estos informes sí forman parte: el art. 70.4 hace una excepción con los informes, preceptivos y facultativos, pedidos antes de la resolución que pone fin al procedimiento."
+  ],
+  "ojo": "La pregunta va en negativo: busca lo que NO forma parte del expediente. Fíjate en que los informes internos quedan fuera, salvo los pedidos antes de la resolución final."
+},
+"vo-04-011": {
+  "bloque": "instruccion",
+  "precepto": "Art. 70.3 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+    "No. El art. 70.3 dice lo contrario: es admisible que un mismo documento forme parte de distintos expedientes electrónicos.",
+    "Es esta. El **art. 70.3** dice que el expediente que deba remitirse se envía completo, foliado, autentificado y acompañado de un **índice**, también autentificado, de los documentos que contenga. Ese índice garantiza que nadie toca el expediente después de firmarlo.",
+    "No. Sobra “si el titular lo estima oportuno”. El art. 70.2 dice que “deberá constar” copia electrónica certificada de la resolución, así que es obligatorio.",
+    "No. Los borradores y los resúmenes son justo lo que queda fuera del expediente (art. 70.4). Lo que debe constar es la copia electrónica certificada de la resolución (art. 70.2)."
+  ]
+},
+"vo-04-012": {
+  "bloque": "instruccion",
+  "precepto": "Art. 70.1 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+    "No. Suena parecido, pero no es la definición del art. 70.1. Se fija en quién genera los documentos, y deja fuera su función (antecedente y fundamento de la resolución) y las diligencias para ejecutarla.",
+    "No. Esto habla de documentos conservados en cualquier soporte, no de un expediente. Falta lo esencial: que sean un conjunto ordenado que sirve de base a una resolución.",
+    "No. Tampoco es la definición del art. 70.1: habla de “serie de actuaciones” y deja fuera los documentos, la resolución como fin y las diligencias para ejecutarla.",
+    "Es esta. Es la definición literal del **art. 70.1**: el “conjunto ordenado de documentos y actuaciones” que sirven de antecedente y fundamento a la resolución administrativa, además de las diligencias para ejecutarla. Es decir, lo que hay antes de decidir y lo que se hace para cumplir lo decidido."
+  ],
+  "ojo": "Las claves que debes buscar son “conjunto ordenado”, “antecedente y fundamento” y “diligencias encaminadas a ejecutarla”."
+},
+"vo-04-013": {
+  "bloque": "instruccion",
+  "precepto": "Art. 73.1 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+    "No. Fallan dos cosas: son diez días, no quince, y se cuentan desde el día siguiente a la notificación, no desde el mismo día.",
+    "Es esta. El **art. 73.1** dice que los trámites de los interesados se hacen en **diez días** “a partir del siguiente al de la notificación”, salvo que la norma fije otro plazo. Si te notifican el lunes, el primer día que cuenta es el martes.",
+    "No. El punto de inicio está bien, pero te han cambiado el plazo: son diez días, no quince.",
+    "No. El plazo está bien, pero el inicio no: se cuenta desde el día siguiente a la notificación, no desde el mismo día."
+  ]
+},
+"vo-04-014": {
+  "bloque": "instruccion",
+  "precepto": "Art. 71.1 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+    "No. El art. 71 no menciona la simplicidad ni la urgencia. Los principios que hay que respetar son transparencia y publicidad.",
+    "No. La jerarquía no aparece en el art. 71.1. La celeridad sí, pero como principio al que está sometido el procedimiento, no como el que se respeta al impulsarlo.",
+    "No. Ni eficacia ni irretroactividad aparecen en el art. 71.1. Lo que hay que respetar es transparencia y publicidad.",
+    "Es esta. El **art. 71.1** dice que el procedimiento se impulsa de oficio (sin esperar a que lo pida el interesado), en todos sus trámites y por medios electrónicos, “respetando los principios de transparencia y publicidad”."
+  ],
+  "ojo": "El art. 71.1 nombra dos cosas distintas: el procedimiento está sometido a la celeridad y se impulsa respetando transparencia y publicidad."
+},
+"vo-04-015": {
+  "bloque": "instruccion",
+  "precepto": "Art. 72.1 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. El **art. 72.1** dice que, “de acuerdo con el principio de simplificación administrativa”, se acuerdan en un solo acto los trámites que admitan impulso simultáneo y no tengan que hacerse uno detrás de otro. Por ejemplo, pedir varios informes a la vez en lugar de uno a uno.",
+    "No. Ese principio no existe en el art. 72. Te suena porque el art. 71.2 habla de asuntos de “homogénea naturaleza” al tratar el orden de despacho de los expedientes.",
+    "No. La celeridad es el principio del impulso (art. 71.1). La concentración de trámites del art. 72.1 responde a la simplificación administrativa.",
+    "No. “Agregación ordenada” no es un principio. La expresión sale en el art. 70.2 para explicar cómo se forman los expedientes."
+  ]
+},
+"vo-04-016": {
+  "bloque": "instruccion",
+  "precepto": "Art. 76.1 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+    "No. Va al revés: el límite general es antes de la audiencia, no después. Esta opción deja fuera todo lo anterior a la audiencia, justo el periodo en que sí se puede alegar.",
+    "Es esta. El **art. 76.1** permite alegar y aportar documentos “en cualquier momento del procedimiento anterior al trámite de audiencia”. Ese es el límite: lo que aportes se tiene en cuenta al redactar la propuesta de resolución.",
+    "No. Sobra el “solo”. Puedes alegar durante todo el procedimiento hasta la audiencia, no únicamente con la solicitud o al subsanarla.",
+    "No. El límite no es la propuesta de resolución, sino el trámite de audiencia, que es anterior. La propuesta es el documento en el que se tienen en cuenta esas alegaciones."
+  ],
+  "ojo": "La audiencia tiene su propio plazo para alegar (art. 82.2), pero eso es otro trámite. En cambio, los defectos de tramitación se pueden alegar en todo momento (art. 76.2)."
+},
+"vo-04-017": {
+  "bloque": "instruccion",
+  "precepto": "Art. 76.2 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+    "No. Sobra “únicamente”. No se limita a la audiencia: el art. 76.2 dice “en todo momento”.",
+    "No. Confunde dos reglas. El límite de “antes de la audiencia” es para las alegaciones generales (art. 76.1), no para los defectos de tramitación (art. 76.2).",
+    "No. Tampoco hay esa limitación. Puedes denunciar un defecto de tramitación antes, durante o después de la audiencia.",
+    "Es esta. El **art. 76.2** dice que “en todo momento” se pueden alegar los defectos de tramitación, sobre todo la paralización, el incumplimiento de plazos o la omisión de trámites que aún puedan subsanarse antes de la resolución definitiva. Si tu expediente lleva meses parado, puedes quejarte cuando quieras."
+  ],
+  "ojo": "Las tres opciones falsas llevan “únicamente”. En tipo test, las palabras absolutas suelen ser la pista."
+},
+"vo-04-018": {
+  "bloque": "instruccion",
+  "precepto": "Art. 75.4 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+    "No. La contradicción está bien, pero te han cambiado la igualdad por la “coordinación”.",
+    "No. Ninguno de los dos es lo que dice el art. 75.4. Los principios son contradicción e igualdad.",
+    "No. Ni eficiencia ni participación: el art. 75.4 habla de contradicción e igualdad.",
+    "Es esta. El **art. 75.4** dice que el órgano instructor (el que tramita el procedimiento) asegurará el pleno respeto a los principios de “contradicción y de igualdad” de los interesados. Contradicción significa que cada parte puede conocer y rebatir lo que se aporta, e igualdad, que nadie juega con ventaja."
+  ]
+},
+"vo-04-019": {
+  "bloque": "instruccion",
+  "precepto": "Art. 77.2 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. El **art. 77.2** fija un periodo de prueba “no superior a treinta días ni inferior a diez”. Si hace falta, el instructor puede abrir, a petición de los interesados, un periodo extraordinario de hasta diez días.",
+    "No. El máximo de treinta días está bien, pero te han cambiado el mínimo: son diez días, no veinte.",
+    "No. Fallan los dos extremos: el máximo es de treinta días, no sesenta, y el mínimo de diez, no treinta.",
+    "No. El máximo está bien, pero te han cambiado el mínimo: son diez días, no quince."
+  ]
+},
+"vo-04-020": {
+  "bloque": "instruccion",
+  "precepto": "Art. 77.6 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. El **art. 77.6** dice que, cuando la prueba consiste en un informe de un órgano administrativo, organismo público o entidad de derecho público, se entiende que tiene “carácter preceptivo”. Es decir, ese informe hay que pedirlo necesariamente.",
+    "No. El art. 77.6 no dice que sea vinculante. Vinculante significaría que el órgano que resuelve está obligado a seguirlo, y solo se le atribuye el carácter preceptivo.",
+    "No. Sobra “y vinculante”. El art. 77.6 solo habla de carácter preceptivo.",
+    "No. Es una confusión con la regla general de los informes, facultativos y no vinculantes (art. 80.1). El informe como prueba es una excepción: se entiende preceptivo."
+  ],
+  "ojo": "Regla general (art. 80.1): facultativos y no vinculantes. Excepción, cuando el informe es una prueba (art. 77.6): preceptivo."
+},
+"vo-04-021": {
+  "bloque": "instruccion",
+  "precepto": "Art. 77.7 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+    "No. Te han cambiado “preceptivo” por “facultativo”. El art. 77.6 dice que el informe que sirve de prueba se entiende preceptivo.",
+    "No. Se queda demasiado amplia: no vale “todo documento” de “funcionarios”. El art. 77.5 solo habla de funcionarios a los que se reconoce la condición de autoridad y que observen los requisitos legales.",
+    "Es esta. Es casi literal el **art. 77.7**: si la valoración de las pruebas puede ser el fundamento básico de la decisión, por ser pieza imprescindible para evaluar bien los hechos, debe incluirse en la propuesta de resolución.",
+    "No. No puede rechazar “cualquiera”. El art. 77.3 solo le deja rechazar las pruebas manifiestamente improcedentes o innecesarias, y siempre con resolución motivada."
+  ]
+},
+"vo-04-022": {
+  "bloque": "instruccion",
+  "precepto": "Art. 80.1 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+    "No. Es justo lo contrario de la regla general. Salvo que se diga otra cosa, los informes no son ni obligatorios de pedir ni obligatorios de seguir.",
+    "No. Acierta en “no vinculantes”, pero la regla general no es que sean preceptivos, sino facultativos.",
+    "No. Acierta en “facultativos”, pero por defecto no son vinculantes.",
+    "Es esta. El **art. 80.1** dice que, salvo disposición expresa en contrario, los informes son “facultativos y no vinculantes”. Facultativo: el órgano decide si lo pide. No vinculante: puede resolver en otro sentido."
+  ]
+},
+"vo-04-023": {
+  "bloque": "instruccion",
+  "precepto": "Art. 81.3 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+    "No. Los dos meses están bien, pero sobra “únicamente”. El dictamen también se pronuncia, en su caso, sobre la valoración del daño y sobre la cuantía y el modo de la indemnización (art. 81.2).",
+    "No. Te han cambiado “será preceptivo” por “se podrá solicitar”. El informe del servicio causante del daño es obligatorio, y se emite en un máximo de diez días (art. 81.1).",
+    "No. Te han cambiado la cuantía: es “igual o superior a 50.000 euros”, no superior a 30.000 (art. 81.2).",
+    "Es esta. El **art. 81.3** dice que, en las reclamaciones por funcionamiento anormal de la Administración de Justicia, es preceptivo el informe del Consejo General del Poder Judicial, en un máximo de dos meses. Por ejemplo, si un juzgado tarda años injustificadamente en resolver y alguien reclama por ello."
+  ]
+},
+"vo-04-024": {
+  "bloque": "instruccion",
+  "precepto": "Art. 80.4 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+    "No. Te han cambiado “facultativos” por “preceptivos”. La regla general del art. 80.1 es facultativos y no vinculantes.",
+    "Es esta. Es la frase final del **art. 80.4**: “el informe emitido fuera de plazo podrá no ser tenido en cuenta” al resolver. Fíjate en que dice “podrá”: el órgano puede tenerlo en cuenta o no.",
+    "No. Va al revés. Según el art. 80.2, los informes se emiten por medios electrónicos, no en papel.",
+    "No. El art. 80.3 dice lo contrario: si el informe no llega en plazo, se pueden proseguir las actuaciones. Si es preceptivo, lo que se puede suspender es el plazo máximo para resolver, sin que eso paralice sin más el procedimiento."
+  ]
+},
+"vo-04-025": {
+  "bloque": "instruccion",
+  "precepto": "Art. 82.1 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+    "No. Va al revés en los dos puntos: la audiencia es después de instruir y antes de redactar la propuesta de resolución.",
+    "Es esta. El **art. 82.1** dice: “instruidos los procedimientos, e inmediatamente antes de redactar la propuesta de resolución”. Tiene lógica: te enseñan todo lo reunido para que puedas opinar antes de que se escriba la propuesta.",
+    "No. La parte final está mal. Los recursos llegan después de la resolución, mientras que la audiencia va antes de la propuesta de resolución.",
+    "No. Te han quitado una palabra clave: es antes de redactar la **propuesta** de resolución, no la resolución."
+  ]
+},
+"vo-04-026": {
+  "bloque": "instruccion",
+  "precepto": "Art. 83.2 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+    "No. Un plazo de 10 a 15 días es el del trámite de audiencia (art. 82.2). En información pública solo hay un mínimo: veinte días.",
+    "No. La información pública está abierta a “cualquier persona física o jurídica” (art. 83.2), aunque no sea interesada en el procedimiento.",
+    "No. No hay máximo de 20 días ni mínimo de 10. Los veinte días son precisamente el mínimo.",
+    "Es esta. El **art. 83.2** dice que el plazo para alegar “en ningún caso podrá ser inferior a veinte días”. Es decir, fija un mínimo y no un máximo: el anuncio decide el plazo concreto, siempre de veinte días o más."
+  ],
+  "ojo": "Presentarte a la información pública no te hace interesado por sí solo, pero quien alega tiene derecho a una respuesta razonada (art. 83.3)."
+},
+"vo-04-027": {
+  "bloque": "instruccion",
+  "precepto": "Art. 82.1 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+    "No. El mínimo de diez días está bien, pero te han cambiado el máximo: son quince días, no treinta (art. 82.2).",
+    "No. La decisión no es del órgano, sino de los interesados. Según el art. 82.3, el trámite se tiene por realizado si ellos manifiestan que no van a alegar ni aportar nada.",
+    "Es esta. Lo dice el párrafo segundo del **art. 82.1**: la audiencia va antes de pedir el informe del órgano de asesoramiento jurídico o el dictamen del Consejo de Estado (o del órgano consultivo autonómico equivalente), si forman parte del procedimiento. Así, esos órganos ven también lo que han alegado los interesados.",
+    "No. Sí se puede prescindir: el art. 82.4 lo permite cuando solo se tienen en cuenta los hechos, alegaciones y pruebas aportados por el propio interesado."
+  ]
+},
+"vo-04-028": {
+  "bloque": "finalizacion",
+  "precepto": "Art. 84 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+    "Esta es la falsa, y por eso es la que hay que marcar. El **art. 84** enumera la resolución, el desistimiento, la renuncia, la caducidad y la imposibilidad material sobrevenida, pero no la prescripción.",
+    "Es verdadera, así que no se marca. El art. 84.1 incluye la renuncia al derecho en que se funde la solicitud, cuando no esté prohibida por el ordenamiento jurídico.",
+    "Es verdadera, así que no se marca. Es el art. 84.2: la imposibilidad material de continuar por causas sobrevenidas, con resolución motivada en todo caso.",
+    "Es verdadera, así que no se marca. El art. 84.1 incluye la declaración de caducidad."
+  ],
+  "ojo": "Lee bien: pide la que no está prevista. Te puede despistar que el art. 21.1 cite la prescripción junto a la renuncia y la caducidad, pero eso regula qué dice la resolución, no las causas del art. 84."
+},
+"vo-04-029": {
+  "bloque": "finalizacion",
+  "precepto": "Art. 85.3 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+    "No. Te han cambiado el porcentaje: el mínimo es del 20 %, no del 15 %.",
+    "Es esta. El **art. 85.3** dice que, cuando la sanción es solo económica y el infractor reconoce su responsabilidad o paga voluntariamente, se aplican reducciones de “al menos, el 20 %” sobre la sanción propuesta. Esas reducciones se pueden acumular entre sí y un reglamento puede aumentarlas.",
+    "No. Te han cambiado el porcentaje: el mínimo es del 20 %, no del 25 %.",
+    "No. Te han cambiado el porcentaje: el mínimo es del 20 %, no del 10 %."
+  ],
+  "ojo": "El enunciado dice “se podrá aplicar”, pero la ley dice “aplicará”. Además, para que la reducción sea efectiva hay que desistir o renunciar a cualquier acción o recurso en vía administrativa contra la sanción."
+},
+"vo-04-030": {
+  "bloque": "finalizacion",
+  "precepto": "Art. 86.5 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. Lo dice el **art. 86.5**: en responsabilidad patrimonial, el acuerdo entre las partes debe fijar la cuantía y el modo de la indemnización, con los criterios del art. 34 de la Ley 40/2015. Es decir, si pactas, queda claro cuánto te pagan y cómo.",
+    "No. Sobra el “solo”. El art. 86.1 permite acuerdos con personas “tanto de Derecho público como privado”.",
+    "No. No siempre hay que publicarlos. El art. 86.2 dice “debiendo publicarse o no según su naturaleza y las personas a las que estuvieran destinados”.",
+    "No. Ni siquiera excepcionalmente: el art. 86.4 dice que estos acuerdos “no supondrán alteración de las competencias” de los órganos administrativos."
+  ]
+},
+"vo-04-031": {
+  "bloque": "finalizacion",
+  "precepto": "Art. 87 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+    "No. Siete días es el plazo que tienen los interesados para alegar tras las actuaciones, no el de practicarlas.",
+    "Es esta. El **art. 87** dice que las actuaciones complementarias deben practicarse “en un plazo no superior a quince días”. Son pruebas o comprobaciones de última hora que el órgano considera indispensables antes de resolver.",
+    "No. El máximo de quince días está bien, pero el art. 87 no fija ningún mínimo. Ese “de diez a quince” es el plazo de la audiencia (art. 82.2).",
+    "No. El art. 87 no habla de veinte días. El máximo es de quince días."
+  ],
+  "ojo": "En el art. 87 hay dos plazos: siete días para alegar y un máximo de quince para practicar las actuaciones."
+},
+"vo-04-032": {
+  "bloque": "finalizacion",
+  "precepto": "Art. 87 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+    "No. El art. 87 no habla de veinte días. Los interesados tienen siete días para alegar.",
+    "Es esta. El **art. 87** concede a los interesados “un plazo de siete días” para formular alegaciones tras la finalización de las actuaciones complementarias. Ese plazo aparece en el mismo acuerdo que se les notifica.",
+    "No. Diez días es el plazo general de los trámites (art. 73.1), pero aquí hay uno específico de siete días.",
+    "No. Quince días es el máximo para practicar las actuaciones complementarias, no el plazo para alegar."
+  ]
+},
+"vo-04-033": {
+  "bloque": "finalizacion",
+  "precepto": "Arts. 87 y 22.2.b) de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+    "No. Con “puede” lo convierten en una posibilidad, y es obligatorio. El art. 87 dice “quedará suspendido” y el art. 22.2.b) dice “se suspenderá”.",
+    "Es esta. El **art. 87** dice que el plazo para resolver “quedará suspendido” hasta que terminen las actuaciones complementarias, y el **art. 22.2.b)** lo incluye entre las suspensiones obligatorias. No hay que decidir nada: el reloj se para.",
+    "No. Fallan dos cosas: es automático, no “puede”, y es suspensión, no interrupción. Al suspenderse, el plazo se detiene y luego sigue por donde iba.",
+    "No. La ley sí las regula: el art. 87 entero trata de las actuaciones complementarias, y el art. 22.2.b) de su efecto en el plazo."
+  ],
+  "ojo": "Art. 22.1: “se podrá suspender”, es decir, opcional. Art. 22.2: “se suspenderá”, es decir, obligatorio. Las actuaciones complementarias están en el segundo grupo."
+}
+}

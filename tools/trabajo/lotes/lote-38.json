@@ -1,0 +1,541 @@
+{
+"lote": 38,
+"casos": {
+"caso-29": {
+"id": "caso-29",
+"titulo": "Mini supuesto nº 1",
+"texto": "D. Martín Juncal, de 16 años, acudió a la oficina de asistencia en materia de registros del Ministerio de Consumo el pasado día 4 de noviembre de 2025, donde presentó, de forma presencial, una solicitud dirigida a la Consejería de Juventud y Familia de la Comunidad Autónoma de Andalucía para la obtención de la tarjeta “Carné Joven Europeo en Andalucía.”\nSegún la normativa reguladora del procedimiento administrativo, el órgano competente para autorizar la expedición del Carné Joven es el Director General de Infancia, Adolescencia y Juventud de la Consejería de Juventud y Familia, sin que se establezca de forma expresa el plazo máximo para resolver y notificar, ni los efectos de la falta de resolución expresa en plazo. Según dicha normativa, este procedimiento se rige por lo establecido en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.\nLa solicitud presentada por D. Martín tuvo entrada en el Registro Electrónico General de la Junta de Andalucía el 11 de noviembre de 2025. Con fecha 13 de noviembre de 2025, el órgano competente comunicó al interesado la recepción de la solicitud y el inicio de su tramitación.\nEn relación con el supuesto planteado se formulan las siguientes preguntas:"
+}
+},
+"calendarios": {},
+"preguntas": [
+{
+"id": "pr-29-001",
+"origen": "practicas",
+"test": "Mini supuesto nº 1",
+"n": 1,
+"enunciado": "¿Actuó correctamente D. Martín Juncal, al presentar su solicitud de forma presencial en la oficina de asistencia en materia de registros del Ministerio de Consumo?",
+"opciones": [
+"No, dado que estaba obligado a su presentación a través de medios electrónicos.",
+"Sí, puesto que las personas físicas deben presentar sus solicitudes presencialmente en soporte papel.",
+"No, ya que los menores de edad deben, en todo caso, actuar por medio de representante.",
+"Sí, aunque también podría haber optado por su presentación a través de medios electrónicos."
+],
+"caso": "caso-29"
+},
+{
+"id": "pr-29-002",
+"origen": "practicas",
+"test": "Mini supuesto nº 1",
+"n": 2,
+"enunciado": "¿Cuál será el plazo máximo para dictar y notificar la resolución expresa en el procedimiento iniciado a solicitud de D. Martín?",
+"opciones": [
+"1 mes.",
+"3 meses.",
+"6 meses.",
+"6 meses, salvo que una norma con rango de ley o el Derecho de la Unión Europea establezca uno mayor."
+],
+"caso": "caso-29"
+},
+{
+"id": "pr-29-003",
+"origen": "practicas",
+"test": "Mini supuesto nº 1",
+"n": 3,
+"enunciado": "¿Qué fecha debe tomarse como referencia para el inicio del cómputo del plazo máximo para dictar y notificar la resolución expresa?",
+"opciones": [
+"4 de noviembre de 2025.",
+"5 de noviembre de 2025.",
+"11 de noviembre de 2025.",
+"13 de noviembre de 2025."
+],
+"caso": "caso-29"
+},
+{
+"id": "pr-29-004",
+"origen": "practicas",
+"test": "Mini supuesto nº 1",
+"n": 4,
+"enunciado": "¿Cuál será la fecha límite para dictar y notificar la resolución expresa en el citado procedimiento?",
+"opciones": [
+"4 de febrero de 2026.",
+"11 de febrero de 2026.",
+"4 de mayo de 2026.",
+"11 de mayo de 2026."
+],
+"caso": "caso-29"
+},
+{
+"id": "pr-29-005",
+"origen": "practicas",
+"test": "Mini supuesto nº 1",
+"n": 5,
+"enunciado": "Si durante la tramitación del procedimiento se requiriera a D. Martín Juncal para subsanar deficiencias de su solicitud, ¿qué ocurriría con el plazo máximo para resolver y notificar?",
+"opciones": [
+"Podría suspenderse hasta que D. Martín subsanara las deficiencias.",
+"Se suspendería hasta que D. Martín subsanara las deficiencias.",
+"No podría suspenderse, sin perjuicio de tener por desistido de su petición a D. Martín si no subsanase las deficiencias.",
+"No podría suspenderse, sin perjuicio de que pudiera acordarse la caducidad si D. Martín no subsanase las deficiencias."
+],
+"caso": "caso-29"
+},
+{
+"id": "pr-29-006",
+"origen": "practicas",
+"test": "Mini supuesto nº 1",
+"n": 6,
+"enunciado": "Debido al elevado número de solicitudes presentadas para la obtención del Carné Joven Europeo en Andalucía, y una vez agotados los medios personales y materiales disponibles, el órgano competente se plantea ampliar el plazo máximo para dictar y notificar la resolución sobre la concesión de dicho carné. En tal caso, ¿cuál podría ser la duración máxima de dicha ampliación?",
+"opciones": [
+"Un mes y quince días.",
+"Tres meses.",
+"Seis meses.",
+"El plazo máximo para resolver y notificar no puede ser objeto de ampliación."
+],
+"caso": "caso-29"
+},
+{
+"id": "pr-29-007",
+"origen": "practicas",
+"test": "Mini supuesto nº 1",
+"n": 7,
+"enunciado": "Transcurrido el plazo máximo para resolver y notificar sin que se haya notificado resolución expresa, ¿qué sentido tendrá el silencio administrativo producido y qué efectos desplegará?",
+"opciones": [
+"Tendrá sentido estimatorio y, a todos los efectos, la consideración de acto administrativo finalizador del procedimiento.",
+"Tendrá sentido estimatorio, si bien sus efectos se limitarán a permitir a D. Martín la interposición de los recursos que procedan.",
+"Tendrá sentido desestimatorio y, a todos los efectos, la consideración de acto administrativo finalizador del procedimiento.",
+"Tendrá sentido desestimatorio, si bien sus efectos se limitarán a permitir a D. Martín la interposición de los recursos que procedan."
+],
+"caso": "caso-29"
+},
+{
+"id": "pr-29-008",
+"origen": "practicas",
+"test": "Mini supuesto nº 1",
+"n": 8,
+"enunciado": "Producido el silencio administrativo al que se refiere la pregunta anterior, ¿podría la Administración dictar resolución expresa posterior?",
+"opciones": [
+"No, porque el silencio tiene, a todos los efectos, la consideración de acto administrativo finalizador del procedimiento.",
+"Sí, pero únicamente si la resolución expresa fuese confirmatoria del sentido del silencio.",
+"Sí, sin vinculación alguna al sentido del silencio.",
+"No, porque el silencio extingue la obligación de resolver y notificar."
+],
+"caso": "caso-29",
+"sigueA": "pr-29-007"
+},
+{
+"id": "pr-31-001",
+"origen": "practicas",
+"test": "Ejercicio nº 23 - Los plazos y sus circunstancias.",
+"n": 1,
+"enunciado": "La falta o insuficiente acreditación de la representación no impedirá que se tenga por realizado el acto de que se trate, siempre que se aporte aquélla o se subsane el defecto dentro del plazo que deberá conceder al efecto el órgano administrativo. Dicho plazo será de:",
+"opciones": [
+"Diez días, o superior cuando las circunstancias del caso así lo requieran.",
+"Diez días, que podrá ser ampliado prudencialmente, hasta cinco días.",
+"Quince días, o superior cuando las circunstancias del caso así lo requieran.",
+"Quince días, que podrá ser ampliado prudencialmente, hasta cinco días."
+]
+},
+{
+"id": "pr-31-002",
+"origen": "practicas",
+"test": "Ejercicio nº 23 - Los plazos y sus circunstancias.",
+"n": 2,
+"enunciado": "En el caso de los procedimientos de responsabilidad patrimonial, la solicitud del informe del servicio cuyo funcionamiento haya ocasionado la presunta lesión indemnizable:",
+"opciones": [
+"Será preceptivo, no pudiendo exceder de quince días el plazo de su emisión.",
+"Será facultativo, no pudiendo exceder de quince días el plazo de su emisión.",
+"Será preceptivo, no pudiendo exceder de diez días el plazo de su emisión.",
+"Será facultativo, no pudiendo exceder de diez días el plazo de su emisión."
+]
+},
+{
+"id": "pr-31-003",
+"origen": "practicas",
+"test": "Ejercicio nº 23 - Los plazos y sus circunstancias.",
+"n": 3,
+"enunciado": "En los procedimientos de responsabilidad patrimonial, será preceptivo solicitar dictamen del Consejo de Estado cuando las indemnizaciones reclamadas sean de cuantía:",
+"opciones": [
+"Igual o superior a 30.000 euros. El dictamen se emitirá en el plazo de dos meses.",
+"Igual o superior a 50.000 euros. El dictamen se emitirá en el plazo de dos meses.",
+"Igual o superior a 30.000 euros. El dictamen se emitirá en el plazo de tres meses.",
+"Igual o superior a 50.000 euros. El dictamen se emitirá en el plazo de tres meses."
+]
+},
+{
+"id": "pr-31-004",
+"origen": "practicas",
+"test": "Ejercicio nº 23 - Los plazos y sus circunstancias.",
+"n": 4,
+"enunciado": "Instruidos los procedimientos, e inmediatamente antes de redactar la propuesta de resolución, se pondrán de manifiesto a los interesados, quienes podrán alegar y presentar los documentos y justificaciones que estimen pertinentes:",
+"opciones": [
+"En un plazo no inferior a diez días ni superior a treinta. En determinados casos se podrá prescindir del trámite de audiencia.",
+"En un plazo no inferior a diez días ni superior a quince. En determinados casos se podrá prescindir del trámite de audiencia.",
+"En un plazo no inferior a diez días ni superior a treinta. En ningún caso se podrá prescindir del trámite de audiencia.",
+"En un plazo no inferior a diez días ni superior a quince. En ningún caso se podrá prescindir del trámite de audiencia."
+]
+},
+{
+"id": "pr-31-005",
+"origen": "practicas",
+"test": "Ejercicio nº 23 - Los plazos y sus circunstancias.",
+"n": 5,
+"enunciado": "El acuerdo de realización de actuaciones complementarias se notificará a los interesados, quienes podrá formular las alegaciones que tengan por pertinentes:",
+"opciones": [
+"En un plazo de quince días, tras la finalización de las mismas.",
+"En un plazo de quince días, con carácter previo a la realización de las mismas.",
+"En un plazo de siete días, tras la finalización de las mismas.",
+"En un plazo de siete días, con carácter previo a la realización de las mismas."
+]
+},
+{
+"id": "pr-31-006",
+"origen": "practicas",
+"test": "Ejercicio nº 23 - Los plazos y sus circunstancias.",
+"n": 6,
+"enunciado": "En caso de desistimiento o renuncia de los interesados, la Administración aceptará de plano el desistimiento o la renuncia, y declarará concluso el procedimiento salvo que, habiéndose personado en el mismo terceros interesados, instasen éstos su continuación en el plazo de:",
+"opciones": [
+"Quince días desde que la fecha en que se produjera el desistimiento o la renuncia.",
+"Diez días desde que la fecha en que se produjera el desistimiento o la renuncia.",
+"Quince días desde que fueron notificados del desistimiento o renuncia.",
+"Diez días desde que fueron notificados del desistimiento o renuncia."
+]
+},
+{
+"id": "pr-31-007",
+"origen": "practicas",
+"test": "Ejercicio nº 23 - Los plazos y sus circunstancias.",
+"n": 7,
+"enunciado": "En los procedimientos tramitados de manera simplificada en los que resulte preceptivo el Dictamen del Consejo de Estado, si así lo solicita el órgano competente:",
+"opciones": [
+"El Dictamen podrá ser emitido en el plazo de diez días.",
+"El Dictamen podrá ser emitido en el plazo de quince días.",
+"El Dictamen deberá ser emitido en el plazo de diez días.",
+"El Dictamen deberá ser emitido en el plazo de quince días."
+]
+},
+{
+"id": "pr-31-008",
+"origen": "practicas",
+"test": "Ejercicio nº 23 - Los plazos y sus circunstancias.",
+"n": 8,
+"enunciado": "Durante la tramitación de los recursos administrativos, cuando hayan de tenerse en cuenta nuevos hechos o documentos no recogidos en el expediente originario, se pondrán de manifiesto a los interesados para que formulen las alegaciones y presenten los documentos y justificantes que estimen procedentes:",
+"opciones": [
+"En un plazo no inferior a diez días ni superior a quince.",
+"En un plazo no inferior a diez días ni superior a treinta.",
+"En un plazo no inferior a quince días ni superior a treinta.",
+"En un plazo no inferior a quince días."
+]
+},
+{
+"id": "pr-31-009",
+"origen": "practicas",
+"test": "Ejercicio nº 23 - Los plazos y sus circunstancias.",
+"n": 9,
+"enunciado": "Si el recurso de alzada se hubiera interpuesto ante el órgano que dictó el acto impugnado, éste deberá:",
+"opciones": [
+"Remitirlo al competente en el plazo de diez días, con su informe y con una copia completa y ordenada del expediente.",
+"Remitirlo al competente en el plazo de quince días, con su informe y con una copia completa y ordenada del expediente.",
+"Remitirlo al competente en el plazo de veinte días, con su informe y con una copia completa y ordenada del expediente.",
+"Inadmitirlo, sin perjuicio de su deber de remitirlo al competente en el plazo de quince días."
+]
+},
+{
+"id": "pr-31-010",
+"origen": "practicas",
+"test": "Ejercicio nº 23 - Los plazos y sus circunstancias.",
+"n": 10,
+"enunciado": "El plazo máximo en el que debe notificarse la resolución expresa será el fijado por la norma reguladora del correspondiente procedimiento. Este plazo no podrá exceder de:",
+"opciones": [
+"3 meses, salvo que una norma con rango de Ley establezca uno mayor o así venga previsto en el Derecho de la Unión Europea.",
+"6 meses, salvo que una norma con rango de Ley establezca uno mayor o así venga previsto en el Derecho de la Unión Europea.",
+"12 meses, salvo que una norma con rango de Ley establezca uno mayor o así venga previsto en el Derecho de la Unión Europea.",
+"24 meses, salvo que una norma con rango de Ley establezca uno mayor o así venga previsto en el Derecho de la Unión Europea."
+]
+},
+{
+"id": "pr-31-011",
+"origen": "practicas",
+"test": "Ejercicio nº 23 - Los plazos y sus circunstancias.",
+"n": 11,
+"enunciado": "Señale la respuesta correcta en relación con los efectos del silencio en los procedimientos de responsabilidad patrimonial:",
+"opciones": [
+"Transcurridos seis meses podrá entenderse que la resolución es contraria a la indemnización del particular.",
+"Transcurridos tres meses podrá entenderse que la resolución es contraria a la indemnización del particular.",
+"Transcurridos seis meses podrá entenderse que la resolución es favorables a la indemnización del particular.",
+"Transcurridos tres meses podrá entenderse que la resolución es favorables a la indemnización del particular."
+]
+},
+{
+"id": "pr-31-012",
+"origen": "practicas",
+"test": "Ejercicio nº 23 - Los plazos y sus circunstancias.",
+"n": 12,
+"enunciado": "Señale la respuesta correcta en relación con los efectos de la falta de resolución expresa en los procedimientos de declaración de lesividad de actos anulables:",
+"opciones": [
+"Transcurridos tres meses desde su inicio, se producirá la caducidad del procedimiento.",
+"Transcurridos seis meses desde su inicio, se producirá la caducidad del procedimiento.",
+"Transcurridos tres meses desde su inicio, se podrá entender desestimada la solicitud.",
+"Transcurridos seis meses desde su inicio, podrá entenderse desestimada la solicitud."
+]
+},
+{
+"id": "pr-31-013",
+"origen": "practicas",
+"test": "Ejercicio nº 23 - Los plazos y sus circunstancias.",
+"n": 13,
+"enunciado": "El plazo para la interposición de los recursos administrativos ordinarios contra actos expresos será de:",
+"opciones": [
+"Tres meses, en el caso de recurso de alzada, y un mes, en el caso de recurso de reposición.",
+"Un mes, en el caso de recurso de alzada, y tres meses, en el caso de recurso de reposición.",
+"Tres meses, tanto en el caso de recurso de alzada, como en el de reposición.",
+"Un mes, tanto en el caso de recurso de alzada, como en el de reposición."
+]
+},
+{
+"id": "pr-31-014",
+"origen": "practicas",
+"test": "Ejercicio nº 23 - Los plazos y sus circunstancias.",
+"n": 14,
+"enunciado": "El plazo máximo para dictar y notificar la resolución de los recursos ordinarios será de:",
+"opciones": [
+"Tres meses, en el caso de recurso de alzada, y un mes, en el caso de recurso de reposición.",
+"Un mes, en el caso de recurso de alzada, y tres meses, en el caso de recurso de reposición.",
+"Tres meses, tanto en el caso de recurso de alzada, como en el de reposición.",
+"Un mes, tanto en el caso de recurso de alzada, como en el de reposición."
+]
+},
+{
+"id": "pr-31-015",
+"origen": "practicas",
+"test": "Ejercicio nº 23 - Los plazos y sus circunstancias.",
+"n": 15,
+"enunciado": "Señale la respuesta correcta en relación con los plazos del recurso extraordinario de revisión:",
+"opciones": [
+"El plazo para su interposición será, en todo caso, de cuatro años desde que se produzca la circunstancia habilitante.",
+"El plazo para su interposición será, en todo caso, de tres meses desde que se produzca la circunstancia habilitante.",
+"El plazo máximo para notificar la resolución del recurso será de tres meses, cualquiera que sea la causa en la que se funde.",
+"El plazo máximo para notificar la resolución del recurso será de cuatro años o de tres meses, según sea la causa en que se funde."
+]
+},
+{
+"id": "pr-32-001",
+"origen": "practicas",
+"test": "Ejercicio nº 24 - Fin de la vía administrativa (1)",
+"n": 1,
+"enunciado": "Con carácter general, atendiendo a lo dispuesto en la Ley 39/2015, indique si los siguientes actos ponen, o no, fin a la vía administrativa:\nLas resoluciones de los recursos de alzada:",
+"opciones": [
+"SI",
+"NO"
+]
+},
+{
+"id": "pr-32-002",
+"origen": "practicas",
+"test": "Ejercicio nº 24 - Fin de la vía administrativa (1)",
+"n": 2,
+"enunciado": "Con carácter general, atendiendo a lo dispuesto en la Ley 39/2015, indique si los siguientes actos ponen, o no, fin a la vía administrativa:\nLas resoluciones dictadas por órganos administrativos que dependen de un superior jerárquico:",
+"opciones": [
+"SI",
+"NO"
+]
+},
+{
+"id": "pr-32-003",
+"origen": "practicas",
+"test": "Ejercicio nº 24 - Fin de la vía administrativa (1)",
+"n": 3,
+"enunciado": "Con carácter general, atendiendo a lo dispuesto en la Ley 39/2015, indique si los siguientes actos ponen, o no, fin a la vía administrativa:\nLos acuerdos, pactos, convenios o contratos que no tengan la consideración de finalizadores del procedimiento:",
+"opciones": [
+"SI",
+"NO"
+]
+},
+{
+"id": "pr-32-004",
+"origen": "practicas",
+"test": "Ejercicio nº 24 - Fin de la vía administrativa (1)",
+"n": 4,
+"enunciado": "Con carácter general, atendiendo a lo dispuesto en la Ley 39/2015, indique si los siguientes actos ponen, o no, fin a la vía administrativa:\nLas resoluciones administrativas recaídas en procedimientos de responsabilidad patrimonial:",
+"opciones": [
+"SI",
+"NO"
+]
+},
+{
+"id": "pr-32-005",
+"origen": "practicas",
+"test": "Ejercicio nº 24 - Fin de la vía administrativa (1)",
+"n": 5,
+"enunciado": "Con carácter general, atendiendo a lo dispuesto en la Ley 39/2015, indique si los siguientes actos ponen, o no, fin a la vía administrativa:\nLas resoluciones de los procedimientos sancionadores:",
+"opciones": [
+"SI",
+"NO"
+]
+},
+{
+"id": "pr-32-006",
+"origen": "practicas",
+"test": "Ejercicio nº 24 - Fin de la vía administrativa (1)",
+"n": 6,
+"enunciado": "Con carácter general, atendiendo a lo dispuesto en la Ley 39/2015, indique si los siguientes actos ponen, o no, fin a la vía administrativa:\nLas resoluciones de los procedimientos complementarios en materia sancionadora:",
+"opciones": [
+"SI",
+"NO"
+]
+},
+{
+"id": "pr-32-007",
+"origen": "practicas",
+"test": "Ejercicio nº 24 - Fin de la vía administrativa (1)",
+"n": 7,
+"enunciado": "Con carácter general, atendiendo a lo dispuesto en la Ley 39/2015, indique si los siguientes actos ponen, o no, fin a la vía administrativa:\nLos actos administrativos de los miembros y órganos del Gobierno:",
+"opciones": [
+"SI",
+"NO"
+]
+},
+{
+"id": "pr-32-008",
+"origen": "practicas",
+"test": "Ejercicio nº 24 - Fin de la vía administrativa (1)",
+"n": 8,
+"enunciado": "Con carácter general, atendiendo a lo dispuesto en la Ley 39/2015, indique si los siguientes actos ponen, o no, fin a la vía administrativa:\nLos actos administrativos de los Secretarios de Estado:",
+"opciones": [
+"SI",
+"NO"
+]
+},
+{
+"id": "pr-32-009",
+"origen": "practicas",
+"test": "Ejercicio nº 24 - Fin de la vía administrativa (1)",
+"n": 9,
+"enunciado": "Con carácter general, atendiendo a lo dispuesto en la Ley 39/2015, indique si los siguientes actos ponen, o no, fin a la vía administrativa:\nLos actos administrativos de órganos directivos con nivel de Director general o superior, en relación con las competencias que tengan atribuidas en materia de personal:",
+"opciones": [
+"SI",
+"NO"
+]
+},
+{
+"id": "pr-32-010",
+"origen": "practicas",
+"test": "Ejercicio nº 24 - Fin de la vía administrativa (1)",
+"n": 10,
+"enunciado": "Con carácter general, atendiendo a lo dispuesto en la Ley 39/2015, indique si los siguientes actos ponen, o no, fin a la vía administrativa:\nLos actos administrativos emanados de un Director general en el ejercicio de las competencias atribuidas en materia de fomento:",
+"opciones": [
+"SI",
+"NO"
+]
+},
+{
+"id": "pr-33-001",
+"origen": "practicas",
+"test": "Ejercicio nº 25 - Fin de la vía administrativa (2)",
+"n": 1,
+"enunciado": "Con carácter general, atendiendo a lo dispuesto en la Ley 39/2015, indique si los siguientes actos ponen, o no, fin a la vía administrativa:\nUna resolución dictada por un Secretario General de un Departamento Ministerial por la que se deniega la concesión de una autorización administrativa en materia de sanidad:",
+"opciones": [
+"SI",
+"NO"
+]
+},
+{
+"id": "pr-33-002",
+"origen": "practicas",
+"test": "Ejercicio nº 25 - Fin de la vía administrativa (2)",
+"n": 2,
+"enunciado": "Con carácter general, atendiendo a lo dispuesto en la Ley 39/2015, indique si los siguientes actos ponen, o no, fin a la vía administrativa:\nUna resolución desestimatoria de una reclamación en materia de responsabilidad patrimonial:",
+"opciones": [
+"SI",
+"NO"
+]
+},
+{
+"id": "pr-33-003",
+"origen": "practicas",
+"test": "Ejercicio nº 25 - Fin de la vía administrativa (2)",
+"n": 3,
+"enunciado": "Con carácter general, atendiendo a lo dispuesto en la Ley 39/2015, indique si los siguientes actos ponen, o no, fin a la vía administrativa:\nUna resolución en materia sancionadora dictada por el Director General de Política Interior:",
+"opciones": [
+"SI",
+"NO"
+]
+},
+{
+"id": "pr-33-004",
+"origen": "practicas",
+"test": "Ejercicio nº 25 - Fin de la vía administrativa (2)",
+"n": 4,
+"enunciado": "Con carácter general, atendiendo a lo dispuesto en la Ley 39/2015, indique si los siguientes actos ponen, o no, fin a la vía administrativa:\nUna resolución dictada por el Subsecretario del Ministerio de Agricultura, Pesca y Alimentación por la que se reconoce la consolidación del grado personal a un funcionario que presta servicios en el Departamento:",
+"opciones": [
+"SI",
+"NO"
+]
+},
+{
+"id": "pr-33-005",
+"origen": "practicas",
+"test": "Ejercicio nº 25 - Fin de la vía administrativa (2)",
+"n": 5,
+"enunciado": "Con carácter general, atendiendo a lo dispuesto en la Ley 39/2015, indique si los siguientes actos ponen, o no, fin a la vía administrativa:\nLa resolución de un recurso de alzada interpuesto contra una resolución sancionadora dictada por un Director General:",
+"opciones": [
+"SI",
+"NO"
+]
+},
+{
+"id": "pr-33-006",
+"origen": "practicas",
+"test": "Ejercicio nº 25 - Fin de la vía administrativa (2)",
+"n": 6,
+"enunciado": "Con carácter general, atendiendo a lo dispuesto en la Ley 39/2015, indique si los siguientes actos ponen, o no, fin a la vía administrativa:\nUna resolución de la Dirección General de Política Energética por la que se publica la tarifa de último recurso de gas natural:",
+"opciones": [
+"SI",
+"NO"
+]
+},
+{
+"id": "pr-33-007",
+"origen": "practicas",
+"test": "Ejercicio nº 25 - Fin de la vía administrativa (2)",
+"n": 7,
+"enunciado": "Con carácter general, atendiendo a lo dispuesto en la Ley 39/2015, indique si los siguientes actos ponen, o no, fin a la vía administrativa:\nUna resolución sancionadora dictada por el Secretario de Estado de Ciencia, Innovación y Universidades:",
+"opciones": [
+"SI",
+"NO"
+]
+},
+{
+"id": "pr-33-008",
+"origen": "practicas",
+"test": "Ejercicio nº 25 - Fin de la vía administrativa (2)",
+"n": 8,
+"enunciado": "Con carácter general, atendiendo a lo dispuesto en la Ley 39/2015, indique si los siguientes actos ponen, o no, fin a la vía administrativa:\nUna resolución complementaria en materia sancionadora dictada por el Director General de Derechos Culturales, por la que se fija la cuantía de la indemnización por los daños causados a la Administración como consecuencia de la comisión de una infracción administrativa:",
+"opciones": [
+"SI",
+"NO"
+]
+},
+{
+"id": "pr-33-009",
+"origen": "practicas",
+"test": "Ejercicio nº 25 - Fin de la vía administrativa (2)",
+"n": 9,
+"enunciado": "Con carácter general, atendiendo a lo dispuesto en la Ley 39/2015, indique si los siguientes actos ponen, o no, fin a la vía administrativa:\nUna resolución en materia de responsabilidad patrimonial dictada por el Director General del Libro, del Cómic y de la Lectura, actuando por delegación del Ministro de Cultura:",
+"opciones": [
+"SI",
+"NO"
+]
+},
+{
+"id": "pr-33-010",
+"origen": "practicas",
+"test": "Ejercicio nº 25 - Fin de la vía administrativa (2)",
+"n": 10,
+"enunciado": "Con carácter general, atendiendo a lo dispuesto en la Ley 39/2015, indique si los siguientes actos ponen, o no, fin a la vía administrativa:\nUn convenio suscrito entre el Director General de Medio Ambiente y la Comunidad de Regantes Piedras-Guadiana por el que se pone fin a un procedimiento sancionador seguido contra esta última:",
+"opciones": [
+"SI",
+"NO"
+]
+}
+]
+}

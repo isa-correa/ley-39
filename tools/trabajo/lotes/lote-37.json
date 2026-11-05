@@ -1,0 +1,567 @@
+{
+"lote": 37,
+"casos": {
+"caso-23": {
+"id": "caso-23",
+"titulo": "Ejercicio nº 17- Desistimiento y renuncia",
+"texto": "El 18 de febrero de 2026, Ruta del Olivar, S. L., empresa jiennense dedicada al transporte de aceite de oliva, envió tres camiones de su flota hacia Madrid. Cuando circulaban en convoy por la autovía A-4, a la altura de Santa Elena (Jaén), cedió un pórtico metálico de señalización y cayó sobre la calzada. Los tres vehículos sufrieron daños y una de sus conductoras resultó lesionada. Un informe técnico posterior atribuyó el desprendimiento al avanzado deterioro de los anclajes de la estructura. A raíz del accidente se presentaron ante el Ministerio de Transportes y Movilidad Sostenible tres reclamaciones de responsabilidad patrimonial, que fueron tramitadas en expedientes separados:\n1.- Por los daños sufridos en el vehículo RO-4, cuyo conductor resultó ileso, la reclamación se presentó únicamente por Ruta del Olivar, S. L.\n2.- Respecto del vehículo RO-27, la empresa reclamó por los desperfectos del camión y su conductora, Nuria Galán, por las lesiones sufridas. Nuria permaneció de baja médica hasta el 30 de abril de 2026, fecha en la que recibió el alta médica por curación, sin secuelas. La empresa y la conductora presentaron y firmaron un único escrito, en el que cuantificaron separadamente sus respectivas indemnizaciones.\n3.- En relación con el vehículo RO-32, Ruta del Olivar, S. L., presentó una reclamación por los daños materiales sufridos. El camión había quedado inmovilizado bajo parte de la estructura y fue retirado por Rescate Vial del Sur, S. A., contratista del servicio de auxilio de la autovía."
+},
+"caso-24": {
+"id": "caso-24",
+"titulo": "Ejercicio nº 18 - Tramitación simplificada",
+"texto": "El 3 de agosto de 2026, Luz de Sierra Producciones, S. L., presentó, a través del Registro Electrónico General de la Administración General del Estado, una solicitud dirigida a la Confederación Hidrográfica del Guadalquivir para grabar durante dos mañanas un anuncio en la orilla del embalse del Tranco (Jaén). El rodaje se realizaría con un equipo reducido y un pequeño decorado desmontable, sin utilizar drones ni embarcaciones. El plazo máximo establecido para resolver el procedimiento y notificar la resolución es de tres meses.\nDurante las semanas siguientes, el procedimiento permaneció en tramitación ordinaria, aunque el expediente quedó pendiente de examen, sin que la Confederación practicara trámite alguno.\nEn esta situación, el 2 de octubre de 2026, la empresa solicitó que el procedimiento se tramitara de forma simplificada. El 9 de octubre de 2026, la Confederación estimó la solicitud y, ese mismo día, notificó a la empresa el correspondiente acuerdo de tramitación simplificada.\nEn relación con el supuesto planteado, conteste a las siguientes cuestiones:"
+}
+},
+"calendarios": {},
+"preguntas": [
+{
+"id": "pr-23-001",
+"origen": "practicas",
+"test": "Ejercicio nº 17- Desistimiento y renuncia",
+"n": 1,
+"enunciado": "Al sostener Ruta del Olivar que algunos desperfectos se habían agravado durante esa maniobra, la contratista se personó en el procedimiento y alegó que la totalidad de los desperfectos del RO-32 procedía de la caída del pórtico.\nEn relación con el supuesto planteado, conteste a las siguientes cuestiones:\nConforme al artículo 92 de la LPACAP, ¿a quién corresponde resolver los procedimientos de responsabilidad patrimonial planteados en el supuesto?",
+"opciones": [
+"A la persona titular del Ministerio de Transportes y Movilidad Sostenible.",
+"A la persona titular de la Secretaría de Estado de Transportes y Movilidad Sostenible.",
+"A la persona titular de la Secretaría General Técnica del Ministerio de Transportes y Movilidad Sostenible.",
+"Al Consejo de Ministros."
+],
+"caso": "caso-23"
+},
+{
+"id": "pr-23-002",
+"origen": "practicas",
+"test": "Ejercicio nº 17- Desistimiento y renuncia",
+"n": 2,
+"enunciado": "Al sostener Ruta del Olivar que algunos desperfectos se habían agravado durante esa maniobra, la contratista se personó en el procedimiento y alegó que la totalidad de los desperfectos del RO-32 procedía de la caída del pórtico.\nEn relación con el supuesto planteado, conteste a las siguientes cuestiones:\n¿Hasta qué fecha podían presentar sus respectivas reclamaciones Ruta del Olivar, S. L., por los daños materiales sufridos en sus vehículos, y Nuria Galán, por sus lesiones?",
+"opciones": [
+"Ambas podían presentar sus respectivas reclamaciones hasta el 18 de febrero de 2027.",
+"Ambas podían presentar sus respectivas reclamaciones hasta el 18 de agosto de 2026.",
+"Ruta del Olivar, S. L., podía reclamar hasta el 18 de agosto de 2026, y Nuria Galán, hasta el 30 de octubre de 2026.",
+"Ruta del Olivar, S. L., podía reclamar hasta el 18 de febrero de 2027, y Nuria Galán, hasta el 30 de abril de 2027."
+],
+"caso": "caso-23"
+},
+{
+"id": "pr-23-003",
+"origen": "practicas",
+"test": "Ejercicio nº 17- Desistimiento y renuncia",
+"n": 3,
+"enunciado": "Al sostener Ruta del Olivar que algunos desperfectos se habían agravado durante esa maniobra, la contratista se personó en el procedimiento y alegó que la totalidad de los desperfectos del RO-32 procedía de la caída del pórtico.\nEn relación con el supuesto planteado, conteste a las siguientes cuestiones:\n¿De qué plazo dispone la Administración para resolver y notificar la resolución de estos procedimientos de responsabilidad patrimonial y qué efectos tendrá el transcurso de dicho plazo sin que se haya notificado resolución expresa?",
+"opciones": [
+"Tres meses, transcurridos los cuales las reclamaciones podrán entenderse estimadas.",
+"Tres meses, transcurridos los cuales las reclamaciones podrán entenderse desestimadas.",
+"Seis meses, transcurridos los cuales las reclamaciones podrán entenderse estimadas.",
+"Seis meses, transcurridos los cuales las reclamaciones podrán entenderse desestimadas."
+],
+"caso": "caso-23"
+},
+{
+"id": "pr-23-004",
+"origen": "practicas",
+"test": "Ejercicio nº 17- Desistimiento y renuncia",
+"n": 4,
+"enunciado": "Al sostener Ruta del Olivar que algunos desperfectos se habían agravado durante esa maniobra, la contratista se personó en el procedimiento y alegó que la totalidad de los desperfectos del RO-32 procedía de la caída del pórtico.\nEn relación con el supuesto planteado, conteste a las siguientes cuestiones:\nDurante la tramitación del procedimiento correspondiente al vehículo RO-4, Ruta del Olivar, S. L., manifiesta su voluntad de desistir de la solicitud de indemnización por responsabilidad patrimonial. Conforme a la LPACAP, ¿cuál de las siguientes opciones describe correctamente el régimen aplicable a dicho desistimiento?",
+"opciones": [
+"Solo será admisible cuando no esté prohibido por el ordenamiento jurídico.",
+"Deberá formularse antes del trámite de audiencia.",
+"Su eficacia quedará condicionada a que la Administración decida aceptarlo.",
+"Podrá formularse por cualquier medio que permita su constancia e incorpore las firmas que correspondan."
+],
+"caso": "caso-23"
+},
+{
+"id": "pr-23-005",
+"origen": "practicas",
+"test": "Ejercicio nº 17- Desistimiento y renuncia",
+"n": 5,
+"enunciado": "Al sostener Ruta del Olivar que algunos desperfectos se habían agravado durante esa maniobra, la contratista se personó en el procedimiento y alegó que la totalidad de los desperfectos del RO-32 procedía de la caída del pórtico.\nEn relación con el supuesto planteado, conteste a las siguientes cuestiones:\nEl 5 de octubre de 2026, la Administración acepta el desistimiento formulado por Ruta del Olivar, S. L., y declara concluso el procedimiento correspondiente al vehículo RO-4. ¿Podría la empresa presentar una nueva reclamación de responsabilidad patrimonial por los mismos daños?",
+"opciones": [
+"Sí, siempre que, al presentar la nueva reclamación, no haya prescrito su derecho a reclamar.",
+"Sí, siempre que mantenga la misma cuantía indemnizatoria solicitada en el procedimiento anterior.",
+"No, porque el desistimiento de la solicitud implica la renuncia al derecho a ser indemnizada.",
+"No, salvo que la Administración deje previamente sin efecto la resolución que declaró concluso el procedimiento anterior."
+],
+"caso": "caso-23"
+},
+{
+"id": "pr-23-006",
+"origen": "practicas",
+"test": "Ejercicio nº 17- Desistimiento y renuncia",
+"n": 6,
+"enunciado": "Al sostener Ruta del Olivar que algunos desperfectos se habían agravado durante esa maniobra, la contratista se personó en el procedimiento y alegó que la totalidad de los desperfectos del RO 32 procedía de la caída del pórtico.\nEn relación con el supuesto planteado, conteste a las siguientes cuestiones:\nDurante la tramitación del procedimiento correspondiente al vehículo RO-27, Ruta del Olivar, S.L. desiste de su solicitud de indemnización. Aceptado el desistimiento, ¿debe la Administración declarar concluso el procedimiento?",
+"opciones": [
+"Sí, pues la aceptación del desistimiento determina la terminación del procedimiento.",
+"Sí, salvo que Nuria Galán inste su continuación en el plazo de diez días desde que le sea notificado el desistimiento.",
+"No, porque el desistimiento únicamente producirá efectos respecto de Ruta del Olivar, S. L., que es quien lo ha formulado.",
+"Sí, salvo que la cuestión entrañe interés general o conviniera sustanciarla para su definición y esclarecimiento."
+],
+"caso": "caso-23"
+},
+{
+"id": "pr-23-007",
+"origen": "practicas",
+"test": "Ejercicio nº 17- Desistimiento y renuncia",
+"n": 7,
+"enunciado": "Al sostener Ruta del Olivar que algunos desperfectos se habían agravado durante esa maniobra, la contratista se personó en el procedimiento y alegó que la totalidad de los desperfectos del RO-32 procedía de la caída del pórtico.\nEn relación con el supuesto planteado, conteste a las siguientes cuestiones:\nEn relación con la reclamación correspondiente al vehículo RO-32, Ruta del Olivar, S.L. renuncia a su derecho a ser indemnizada por los daños sufridos. Formulada la renuncia, ¿podrá la Administración declarar concluso el procedimiento?",
+"opciones": [
+"No, salvo que Rescate Vial del Sur, S.A. manifieste expresamente su conformidad con la renuncia.",
+"No, al haberse personado Rescate Vial del Sur, S.A. el procedimiento deberá continuar respecto de esta.",
+"Sí, salvo que Rescate Vial del Sur, S.A., inste su continuación en el plazo de diez días desde que le sea notificada la renuncia.",
+"Sí, pues la renuncia del solicitante determina necesariamente la terminación del procedimiento."
+],
+"caso": "caso-23"
+},
+{
+"id": "pr-23-008",
+"origen": "practicas",
+"test": "Ejercicio nº 17- Desistimiento y renuncia",
+"n": 8,
+"enunciado": "Al sostener Ruta del Olivar que algunos desperfectos se habían agravado durante esa maniobra, la contratista se personó en el procedimiento y alegó que la totalidad de los desperfectos del RO-32 procedía de la caída del pórtico.\nEn relación con el supuesto planteado, conteste a las siguientes cuestiones:\nFinalmente, la Administración acepta la renuncia de Ruta del Olivar, S. L., y declara concluso el procedimiento correspondiente al vehículo RO-32. ¿Podrá la empresa presentar una nueva reclamación de responsabilidad patrimonial por los mismos daños?",
+"opciones": [
+"Sí, siempre que, al presentar la nueva reclamación, no haya prescrito su derecho a reclamar.",
+"Sí, siempre que mantenga la misma cuantía indemnizatoria solicitada en el procedimiento anterior.",
+"No, porque la renuncia recae sobre el derecho a ser indemnizada e impide volver a ejercitarlo por los mismos daños.",
+"Sí, porque la renuncia solo produce efectos en el procedimiento en el que se formula y no impide iniciar uno nuevo."
+],
+"caso": "caso-23"
+},
+{
+"id": "pr-24-001",
+"origen": "practicas",
+"test": "Ejercicio nº 18 - Tramitación simplificada",
+"n": 1,
+"enunciado": "¿Cuál era el último día del plazo de que disponía la Confederación Hidrográfica del Guadalquivir para pronunciarse sobre la solicitud de tramitación simplificada que Luz de Sierra Producciones, S. L., presentó el viernes 2 de octubre de 2026?",
+"opciones": [
+"El miércoles 7 de octubre de 2026.",
+"El viernes 9 de octubre de 2026.",
+"El martes 13 de octubre de 2026.",
+"El lunes 19 de octubre de 2026."
+],
+"caso": "caso-24"
+},
+{
+"id": "pr-24-002",
+"origen": "practicas",
+"test": "Ejercicio nº 18 - Tramitación simplificada",
+"n": 2,
+"enunciado": "¿Qué consecuencias habría tenido el transcurso del plazo legalmente establecido sin que la Confederación se hubiera pronunciado sobre la solicitud de tramitación simplificada presentada por Luz de Sierra Producciones, S.L.?",
+"opciones": [
+"La solicitud se habría entendido estimada y el procedimiento habría pasado automáticamente a tramitarse de forma simplificada.",
+"La solicitud se habría entendido desestimada, sin que exisitiera posibilidad de recurso.",
+"La solicitud se habría entendido desestimada, pudiendo la interesada interponer recurso administrativo contra ella.",
+"La solicitud se habría entendido desestimada, pudiendo la interesada impugnarla directamente en vía contencioso-administrativa."
+],
+"caso": "caso-24"
+},
+{
+"id": "pr-24-003",
+"origen": "practicas",
+"test": "Ejercicio nº 18 - Tramitación simplificada",
+"n": 3,
+"enunciado": "¿Cuál de las siguientes circunstancias podría haber justificado, conforme a la LPACAP, que la Confederación Hidrográfica estimara la solicitud de tramitación simplificada?",
+"opciones": [
+"El interés particular de la empresa en obtener una resolución con mayor rapidez.",
+"La proximidad del vencimiento del plazo máximo para resolver.",
+"La falta de complejidad del procedimiento.",
+"La libre apreciación del órgano tramitador, al no establecer la ley causas concretas para acordarla."
+],
+"caso": "caso-24"
+},
+{
+"id": "pr-24-004",
+"origen": "practicas",
+"test": "Ejercicio nº 18 - Tramitación simplificada",
+"n": 4,
+"enunciado": "Una vez notificado el 9 de octubre de 2026 el acuerdo de tramitación simplificada, ¿cuál era el último día del plazo de que disponía la Confederación para resolver el procedimiento y notificar la resolución?",
+"opciones": [
+"El martes 3 de noviembre de 2026.",
+"El domingo 8 de noviembre de 2026.",
+"El lunes 9 de noviembre de 2026.",
+"El martes 24 de noviembre de 2026."
+],
+"caso": "caso-24"
+},
+{
+"id": "pr-24-005",
+"origen": "practicas",
+"test": "Ejercicio nº 18 - Tramitación simplificada",
+"n": 5,
+"enunciado": "Durante la tramitación simplificada, la Confederación advirtió que en la solicitud no constaba la firma de la persona que actuaba en representación de la empresa ni quedaba acreditada por ningún otro medio la autenticidad de su voluntad. ¿Cuál de las siguientes actuaciones debía realizar ante dicho defecto?",
+"opciones": [
+"Requerir a la empresa para que subsanara la solicitud en cinco días hábiles.",
+"Requerir a la empresa para que subsanara la solicitud en siete días hábiles.",
+"Requerir a la empresa para que subsanara la solicitud en diez días hábiles.",
+"Continuar por la tramitación ordinaria, ya que la subsanación no está prevista entre los trámites del procedimiento simplificado."
+],
+"caso": "caso-24"
+},
+{
+"id": "pr-24-006",
+"origen": "practicas",
+"test": "Ejercicio nº 18 - Tramitación simplificada",
+"n": 6,
+"enunciado": "Durante la tramitación simplificada, la Confederación considera la posibilidad de practicar distintos trámites. ¿Cuál de los siguientes podría realizarse sin que el procedimiento tuviera que continuar por la vía ordinaria?",
+"opciones": [
+"La apertura de un período de prueba.",
+"La apertura de un período de información pública.",
+"El trámite de audiencia, cuando la resolución vaya a ser desfavorable para Luz de Sierra Producciones, S.L.",
+"La realización de actuaciones complementarias."
+],
+"caso": "caso-24"
+},
+{
+"id": "pr-24-007",
+"origen": "practicas",
+"test": "Ejercicio nº 18 - Tramitación simplificada",
+"n": 7,
+"enunciado": "Si durante la tramitación simplificada resultara preceptivo el dictamen del Consejo de Estado, ¿cuál de las siguientes afirmaciones sería correcta?",
+"opciones": [
+"El procedimiento debería continuar necesariamente con arreglo a la tramitación ordinaria.",
+"El plazo para emitir el dictamen quedaría automáticamente reducido a quince días.",
+"El plazo para emitir el dictamen quedaría automáticamente reducido a un mes.",
+"El plazo máximo para resolver quedaría suspendido automáticamente desde la solicitud del dictamen hasta su emisión."
+],
+"caso": "caso-24"
+},
+{
+"id": "pr-24-008",
+"origen": "practicas",
+"test": "Ejercicio nº 18 - Tramitación simplificada",
+"n": 8,
+"enunciado": "Emitido el dictamen del Consejo de Estado, si resultara contrario al fondo de la propuesta de resolución, ¿qué actuación debería adoptar el órgano competente para resolver?",
+"opciones": [
+"Resolver necesariamente de acuerdo con el criterio expresado por el Consejo de Estado.",
+"Acordar la continuación del procedimiento con arreglo a la tramitación ordinaria.",
+"Declarar concluido el procedimiento e iniciar uno nuevo por el cauce ordinario.",
+"Este supuesto no podría producirse, porque en la tramitación simplificada no se formula propuesta de resolución."
+],
+"caso": "caso-24"
+},
+{
+"id": "pr-25-001",
+"origen": "practicas",
+"test": "Ejercicio nº 19 - Revisión de oficio (1)",
+"n": 1,
+"enunciado": "Atendiendo a lo dispuesto en la Ley 39/2015, si la Administración General del Estado pretendiera revisar de oficio sus actos administrativos, ¿qué mecanismo de revisión debería utilizar en cada uno de los siguientes casos?\nCuando pretenda dejar sin efecto actos favorables para los interesados que incurran en vicio de anulabilidad:",
+"opciones": [
+"Revisión de disposiciones y actos nulos (art. 106).",
+"Declaración de lesividad de actos anulables (art. 107).",
+"Revocación de actos (art. 109.1).",
+"Rectificación de errores (art. 109.2)."
+]
+},
+{
+"id": "pr-25-002",
+"origen": "practicas",
+"test": "Ejercicio nº 19 - Revisión de oficio (1)",
+"n": 2,
+"enunciado": "Atendiendo a lo dispuesto en la Ley 39/2015, si la Administración General del Estado pretendiera revisar de oficio sus actos administrativos, ¿qué mecanismo de revisión debería utilizar en cada uno de los siguientes casos?\nCuando pretenda dejar sin efecto actos favorables para los interesados que incurran en vicio de nulidad:",
+"opciones": [
+"Revisión de disposiciones y actos nulos (art. 106).",
+"Declaración de lesividad de actos anulables (art. 107).",
+"Revocación de actos (art. 109.1).",
+"Rectificación de errores (art. 109.2)."
+]
+},
+{
+"id": "pr-25-003",
+"origen": "practicas",
+"test": "Ejercicio nº 19 - Revisión de oficio (1)",
+"n": 3,
+"enunciado": "Atendiendo a lo dispuesto en la Ley 39/2015, si la Administración General del Estado pretendiera revisar de oficio sus actos administrativos, ¿qué mecanismo de revisión debería utilizar en cada uno de los siguientes casos?\nCuando pretenda dejar sin efecto sus actos de gravamen o desfavorables:",
+"opciones": [
+"Revisión de disposiciones y actos nulos (art. 106).",
+"Declaración de lesividad de actos anulables (art. 107).",
+"Revocación de actos (art. 109.1).",
+"Rectificación de errores (art. 109.2)."
+]
+},
+{
+"id": "pr-25-004",
+"origen": "practicas",
+"test": "Ejercicio nº 19 - Revisión de oficio (1)",
+"n": 4,
+"enunciado": "Atendiendo a lo dispuesto en la Ley 39/2015, si la Administración General del Estado pretendiera revisar de oficio sus actos administrativos, ¿qué mecanismo de revisión debería utilizar en cada uno de los siguientes casos?\nCuando pretenda corregir errores materiales, de hecho o aritméticos, existentes en actos desfavorables para el interesado:",
+"opciones": [
+"Revisión de disposiciones y actos nulos (art. 106).",
+"Declaración de lesividad de actos anulables (art. 107).",
+"Revocación de actos (art. 109.1).",
+"Rectificación de errores (art. 109.2)."
+]
+},
+{
+"id": "pr-25-005",
+"origen": "practicas",
+"test": "Ejercicio nº 19 - Revisión de oficio (1)",
+"n": 5,
+"enunciado": "Atendiendo a lo dispuesto en la Ley 39/2015, si la Administración General del Estado pretendiera revisar de oficio sus actos administrativos, ¿qué mecanismo de revisión debería utilizar en cada uno de los siguientes casos?\nCuando pretenda corregir errores materiales, de hecho o aritméticos, existentes en actos favorables para el interesado:",
+"opciones": [
+"Revisión de disposiciones y actos nulos (art. 106).",
+"Declaración de lesividad de actos anulables (art. 107).",
+"Revocación de actos (art. 109.1).",
+"Rectificación de errores (art. 109.2)."
+]
+},
+{
+"id": "pr-26-001",
+"origen": "practicas",
+"test": "Ejercicio nº 20 - Revisión de oficio (2)",
+"n": 1,
+"enunciado": "A continuación se describen una serie de actos administrativos que incurren en irregularidades, por lo que la Administración ha decidido proceder a su revisión de oficio. Atendiendo a lo dispuesto en la Ley 39/2015, ¿qué mecanismo de revisión deberá utilizar en cada caso?\nD.ª Florencia ha obtenido por silencio administrativo una autorización, pese a carecer de los requisitos esenciales para adquirirla:",
+"opciones": [
+"Revisión de disposiciones y actos nulos (art. 106).",
+"Declaración de lesividad de actos anulables (art. 107).",
+"Revocación de actos (art. 109.1).",
+"Rectificación de errores (art. 109.2)."
+]
+},
+{
+"id": "pr-26-002",
+"origen": "practicas",
+"test": "Ejercicio nº 20 - Revisión de oficio (2)",
+"n": 2,
+"enunciado": "A continuación se describen una serie de actos administrativos que incurren en irregularidades, por lo que la Administración ha decidido proceder a su revisión de oficio. Atendiendo a lo dispuesto en la Ley 39/2015, ¿qué mecanismo de revisión deberá utilizar en cada caso?\nFernandito ha sido sancionado por la comisión de una infracción grave en materia de telecomunicaciones. La resolución incurre en un defecto de forma que le ha causado indefensión:",
+"opciones": [
+"Revisión de disposiciones y actos nulos (art. 106).",
+"Declaración de lesividad de actos anulables (art. 107).",
+"Revocación de actos (art. 109.1).",
+"Rectificación de errores (art. 109.2)."
+]
+},
+{
+"id": "pr-26-003",
+"origen": "practicas",
+"test": "Ejercicio nº 20 - Revisión de oficio (2)",
+"n": 3,
+"enunciado": "A continuación se describen una serie de actos administrativos que incurren en irregularidades, por lo que la Administración ha decidido proceder a su revisión de oficio. Atendiendo a lo dispuesto en la Ley 39/2015, ¿qué mecanismo de revisión deberá utilizar en cada caso?\nD. Valentín ha recibido la notificación de una resolución administrativa por la que, debido a un error aritmético, se le concede una subvención de 75.000 euros en lugar de los 7.500 euros solicitados y justificados:",
+"opciones": [
+"Revisión de disposiciones y actos nulos (art. 106).",
+"Declaración de lesividad de actos anulables (art. 107).",
+"Revocación de actos (art. 109.1).",
+"Rectificación de errores (art. 109.2)."
+]
+},
+{
+"id": "pr-26-004",
+"origen": "practicas",
+"test": "Ejercicio nº 20 - Revisión de oficio (2)",
+"n": 4,
+"enunciado": "A continuación se describen una serie de actos administrativos que incurren en irregularidades, por lo que la Administración ha decidido proceder a su revisión de oficio. Atendiendo a lo dispuesto en la Ley 39/2015, ¿qué mecanismo de revisión deberá utilizar en cada caso?\nDon Bonifacio ha obtenido una subvención otorgada en régimen de concurrencia competitiva después de que se valorara a su favor una circunstancia que las bases reguladoras no contemplaban como mérito puntuable:",
+"opciones": [
+"Revisión de disposiciones y actos nulos (art. 106).",
+"Declaración de lesividad de actos anulables (art. 107).",
+"Revocación de actos (art. 109.1).",
+"Rectificación de errores (art. 109.2)."
+]
+},
+{
+"id": "pr-26-005",
+"origen": "practicas",
+"test": "Ejercicio nº 20 - Revisión de oficio (2)",
+"n": 5,
+"enunciado": "A continuación se describen una serie de actos administrativos que incurren en irregularidades, por lo que la Administración ha decidido proceder a su revisión de oficio. Atendiendo a lo dispuesto en la Ley 39/2015, ¿qué mecanismo de revisión deberá utilizarse en cada caso?\nDon Casimiro ha obtenido una ayuda económica para adquirir unas gafas ortopédicas. La resolución de concesión fue dictada como consecuencia de un delito de falsedad documental:",
+"opciones": [
+"Revisión de disposiciones y actos nulos (art. 106).",
+"Declaración de lesividad de actos anulables (art. 107).",
+"Revocación de actos (art. 109.1).",
+"Rectificación de errores (art. 109.2)."
+]
+},
+{
+"id": "pr-27-001",
+"origen": "practicas",
+"test": "Ejercicio nº 21- Revisión de oficio (3)",
+"n": 1,
+"enunciado": "A continuación se describen una serie de actos administrativos que incurren en irregularidades, por lo que la Administración ha decidido proceder a su revisión de oficio. Atendiendo a lo dispuesto en la Ley 39/2015, ¿qué mecanismo de revisión deberá utilizarse en cada caso?\nDoña Abelina ha obtenido del presidente de la Confederación Hidrográfica del Miño-Sil una autorización para extraer áridos en terrenos de dominio público. La resolución fue dictada incurriendo en desviación de poder:",
+"opciones": [
+"Revisión de disposiciones y actos nulos (art. 106).",
+"Declaración de lesividad de actos anulables (art. 107).",
+"Revocación de actos (art. 109.1).",
+"Rectificación de errores (art. 109.2)."
+]
+},
+{
+"id": "pr-27-002",
+"origen": "practicas",
+"test": "Ejercicio nº 21- Revisión de oficio (3)",
+"n": 2,
+"enunciado": "A continuación se describen una serie de actos administrativos que incurren en irregularidades, por lo que la Administración ha decidido proceder a su revisión de oficio. Atendiendo a lo dispuesto en la Ley 39/2015, ¿qué mecanismo de revisión deberá utilizar en cada caso?\nD. Gregorio ha recibido una resolución administrativa por la que se le reconoce una indemnización de 250.000 euros por responsabilidad patrimonial de la Administración, pese a que la cantidad reclamada y justificada ascendía a 250 euros:",
+"opciones": [
+"Revisión de disposiciones y actos nulos (art. 106).",
+"Declaración de lesividad de actos anulables (art. 107).",
+"Revocación de actos (art. 109.1).",
+"Rectificación de errores (art. 109.2)."
+]
+},
+{
+"id": "pr-27-003",
+"origen": "practicas",
+"test": "Ejercicio nº 21- Revisión de oficio (3)",
+"n": 3,
+"enunciado": "A continuación se describen una serie de actos administrativos que incurren en irregularidades, por lo que la Administración ha decidido proceder a su revisión de oficio. Atendiendo a lo dispuesto en la Ley 39/2015, ¿qué mecanismo de revisión deberá utilizar en cada caso?\nD.ª Ana ha sido sancionada en materia de caza mediante resolución dictada por órgano incompetente por razón de la jerarquía:",
+"opciones": [
+"Revisión de disposiciones y actos nulos (art. 106).",
+"Declaración de lesividad de actos anulables (art. 107).",
+"Revocación de actos (art. 109.1).",
+"Rectificación de errores (art. 109.2)."
+]
+},
+{
+"id": "pr-27-004",
+"origen": "practicas",
+"test": "Ejercicio nº 21- Revisión de oficio (3)",
+"n": 4,
+"enunciado": "A continuación se describen una serie de actos administrativos que incurren en irregularidades, por lo que la Administración ha decidido proceder a su revisión de oficio. Atendiendo a lo dispuesto en la Ley 39/2015, ¿qué mecanismo de revisión deberá utilizar en cada caso?\nManolito ha obtenido una beca para fines de investigación mediante una resolución dictada prescindiendo total y absolutamente del procedimiento legalmente establecido:",
+"opciones": [
+"Revisión de disposiciones y actos nulos (art. 106).",
+"Declaración de lesividad de actos anulables (art. 107).",
+"Revocación de actos (art. 109.1).",
+"Rectificación de errores (art. 109.2)."
+]
+},
+{
+"id": "pr-27-005",
+"origen": "practicas",
+"test": "Ejercicio nº 21- Revisión de oficio (3)",
+"n": 5,
+"enunciado": "A continuación se describen una serie de actos administrativos que incurren en irregularidades, por lo que la Administración ha decidido proceder a su revisión de oficio. Atendiendo a lo dispuesto en la Ley 39/2015, ¿qué mecanismo de revisión deberá utilizar en cada caso?\nDoña Hermenegilda y don Saturnino han recibido una resolución por la que se deniega su inscripción en el Registro de Parejas de Hecho de Andalucía por no acreditar un periodo mínimo de convivencia que la normativa aplicable no exige:",
+"opciones": [
+"Revisión de disposiciones y actos nulos (art. 106).",
+"Declaración de lesividad de actos anulables (art. 107).",
+"Revocación de actos (art. 109.1).",
+"Rectificación de errores (art. 109.2)."
+]
+},
+{
+"id": "pr-28-001",
+"origen": "practicas",
+"test": "Ejercicio nº 22 - Revisión de oficio (4)",
+"n": 1,
+"enunciado": "En marzo de 2026, doña Laura Valdés, funcionaria destinada en la Dirección General de Transporte por Carretera y Ferrocarril del Ministerio de Transportes y Movilidad Sostenible, recibe el encargo de examinar dos resoluciones dictadas por dicho centro directivo y de preparar, en cada caso, la actuación necesaria para dejarlas sin efecto.\nLos actos examinados son los siguientes:\n1. Autorización de transporte escolar.\nEl 15 de junio de 2024 se concedió a Autocares Sierra Norte, S. L., una autorización para prestar servicios de transporte escolar. Posteriormente, una sentencia penal firme declaró que el certificado técnico determinante para obtenerla había sido falsificado y que la autorización se concedió como consecuencia directa de dicha falsedad.\n2. Subvención para la renovación de vehículos.\nEl 20 de septiembre de 2023 se concedió a Movilidad Verde, S. A., una subvención de 300.000 euros, en régimen de concurrencia competitiva, para renovar parte de su flota. Durante la valoración se le atribuyeron quince puntos por una circunstancia que las bases reguladoras no contemplaban como criterio puntuable. Sin esos puntos, la empresa no habría resultado beneficiaria.\nEn relación con el supuesto planteado, conteste a las siguientes cuestiones:\n¿Qué vía deberá seguir la Administración para dejar sin efecto la autorización para prestar servicios de transporte escolar concedida a Autocares Sierra Norte, S. L.?",
+"opciones": [
+"La revisión de oficio de actos nulos.",
+"La declaración de lesividad de actos anulables.",
+"La revocación de actos.",
+"La rectificación de errores."
+]
+},
+{
+"id": "pr-28-002",
+"origen": "practicas",
+"test": "Ejercicio nº 22 - Revisión de oficio (4)",
+"n": 2,
+"enunciado": "En marzo de 2026, doña Laura Valdés, funcionaria destinada en la Dirección General de Transporte por Carretera y Ferrocarril del Ministerio de Transportes y Movilidad Sostenible, recibe el encargo de examinar tres resoluciones dictadas por dicho centro directivo y de preparar, en cada caso, la actuación necesaria para dejarlas sin efecto.\nLos actos examinados son los siguientes:\n1. Autorización de transporte escolar.\nEl 15 de junio de 2024 se concedió a Autocares Sierra Norte, S. L., una autorización para prestar servicios de transporte escolar. Posteriormente, una sentencia penal firme declaró que el certificado técnico determinante para obtenerla había sido falsificado y que la autorización se concedió como consecuencia directa de dicha falsedad.\n2. Subvención para la renovación de vehículos.\nEl 20 de septiembre de 2023 se concedió a Movilidad Verde, S. A., una subvención de 300.000 euros, en régimen de concurrencia competitiva, para renovar parte de su flota. Durante la valoración se le atribuyeron quince puntos por una circunstancia que las bases reguladoras no contemplaban como criterio puntuable. Sin esos puntos, la empresa no habría resultado beneficiaria.\nEn relación con el supuesto planteado, conteste a las siguientes cuestiones:\nUna vez determinada la vía procedente, se pone en marcha el procedimiento dirigido a dejar sin efecto la autorización concedida a Autocares Sierra Norte, S. L. ¿Cómo habrá podido iniciarse?",
+"opciones": [
+"De oficio, únicamente.",
+"A solicitud de interesado, únicamente.",
+"De oficio o a solicitud de interesado.",
+"De oficio o a solicitud del Consejo de Estado."
+]
+},
+{
+"id": "pr-28-003",
+"origen": "practicas",
+"test": "Ejercicio nº 22 - Revisión de oficio (4)",
+"n": 3,
+"enunciado": "En marzo de 2026, doña Laura Valdés, funcionaria destinada en la Dirección General de Transporte por Carretera y Ferrocarril del Ministerio de Transportes y Movilidad Sostenible, recibe el encargo de examinar tres resoluciones dictadas por dicho centro directivo y de preparar, en cada caso, la actuación necesaria para dejarlas sin efecto.\nLos actos examinados son los siguientes:\n1. Autorización de transporte escolar.\nEl 15 de junio de 2024 se concedió a Autocares Sierra Norte, S. L., una autorización para prestar servicios de transporte escolar. Posteriormente, una sentencia penal firme declaró que el certificado técnico determinante para obtenerla había sido falsificado y que la autorización se concedió como consecuencia directa de dicha falsedad.\n2. Subvención para la renovación de vehículos.\nEl 20 de septiembre de 2023 se concedió a Movilidad Verde, S. A., una subvención de 300.000 euros, en régimen de concurrencia competitiva, para renovar parte de su flota. Durante la valoración se le atribuyeron quince puntos por una circunstancia que las bases reguladoras no contemplaban como criterio puntuable. Sin esos puntos, la empresa no habría resultado beneficiaria.\nEn relación con el supuesto planteado, conteste a las siguientes cuestiones:\n¿Cuál es la finalidad del procedimiento iniciado respecto de la autorización concedida a Autocares Sierra Norte, S. L.?",
+"opciones": [
+"Declararla nula.",
+"Declararla nula como requisito previo a su impugnación ante la jurisdicción contencioso-administrativa.",
+"Declarar su anulabilidad como requisito previo a su impugnación ante la jurisdicción contencioso-administrativa.",
+"Declararla lesiva para el interés público como requisito previo a su impugnación ante la jurisdicción contencioso-administrativa."
+]
+},
+{
+"id": "pr-28-004",
+"origen": "practicas",
+"test": "Ejercicio nº 22 - Revisión de oficio (4)",
+"n": 4,
+"enunciado": "En marzo de 2026, doña Laura Valdés, funcionaria destinada en la Dirección General de Transporte por Carretera y Ferrocarril del Ministerio de Transportes y Movilidad Sostenible, recibe el encargo de examinar tres resoluciones dictadas por dicho centro directivo y de preparar, en cada caso, la actuación necesaria para dejarlas sin efecto.\nLos actos examinados son los siguientes:\n1. Autorización de transporte escolar.\nEl 15 de junio de 2024 se concedió a Autocares Sierra Norte, S. L., una autorización para prestar servicios de transporte escolar. Posteriormente, una sentencia penal firme declaró que el certificado técnico determinante para obtenerla había sido falsificado y que la autorización se concedió como consecuencia directa de dicha falsedad.\n2. Subvención para la renovación de vehículos.\nEl 20 de septiembre de 2023 se concedió a Movilidad Verde, S. A., una subvención de 300.000 euros, en régimen de concurrencia competitiva, para renovar parte de su flota. Durante la valoración se le atribuyeron quince puntos por una circunstancia que las bases reguladoras no contemplaban como criterio puntuable. Sin esos puntos, la empresa no habría resultado beneficiaria.\nEn relación con el supuesto planteado, conteste a las siguientes cuestiones:\n¿Hasta cuándo podrá adoptarse la declaración correspondiente respecto de la autorización concedida a Autocares Sierra Norte S.L.?",
+"opciones": [
+"Hasta el 15 de junio de 2025.",
+"Hasta el 15 de junio de 2028.",
+"Hasta el 15 de junio de 2029.",
+"Podrá adoptarse en cualquier momento."
+]
+},
+{
+"id": "pr-28-005",
+"origen": "practicas",
+"test": "Ejercicio nº 22 - Revisión de oficio (4)",
+"n": 5,
+"enunciado": "En marzo de 2026, doña Laura Valdés, funcionaria destinada en la Dirección General de Transporte por Carretera y Ferrocarril del Ministerio de Transportes y Movilidad Sostenible, recibe el encargo de examinar tres resoluciones dictadas por dicho centro directivo y de preparar, en cada caso, la actuación necesaria para dejarlas sin efecto.\nLos actos examinados son los siguientes:\n1. Autorización de transporte escolar.\nEl 15 de junio de 2024 se concedió a Autocares Sierra Norte, S. L., una autorización para prestar servicios de transporte escolar. Posteriormente, una sentencia penal firme declaró que el certificado técnico determinante para obtenerla había sido falsificado y que la autorización se concedió como consecuencia directa de dicha falsedad.\n2. Subvención para la renovación de vehículos.\nEl 20 de septiembre de 2023 se concedió a Movilidad Verde, S. A., una subvención de 300.000 euros, en régimen de concurrencia competitiva, para renovar parte de su flota. Durante la valoración se le atribuyeron quince puntos por una circunstancia que las bases reguladoras no contemplaban como criterio puntuable. Sin esos puntos, la empresa no habría resultado beneficiaria.\nEn relación con el supuesto planteado, conteste a las siguientes cuestiones:\nSi el procedimiento hubiera sido iniciado a solicitud de otra empresa de transporte escolar directamente afectada por la autorización, ¿cuál sería el plazo máximo para resolverlo y qué efecto produciría su transcurso sin dictarse resolución?",
+"opciones": [
+"Tres meses, transcurridos los cuales la solicitud podría entenderse desestimada por silencio administrativo.",
+"Seis meses, transcurridos los cuales se produciría la caducidad del procedimiento.",
+"Seis meses, transcurridos los cuales la solicitud podría entenderse desestimada por silencio administrativo.",
+"El procedimiento dirigido a dejar sin efecto la autorización únicamente podría haberse iniciado de oficio."
+]
+},
+{
+"id": "pr-28-006",
+"origen": "practicas",
+"test": "Ejercicio nº 22 - Revisión de oficio (4)",
+"n": 6,
+"enunciado": "En marzo de 2026, doña Laura Valdés, funcionaria destinada en la Dirección General de Transporte por Carretera y Ferrocarril del Ministerio de Transportes y Movilidad Sostenible, recibe el encargo de examinar tres resoluciones dictadas por dicho centro directivo y de preparar, en cada caso, la actuación necesaria para dejarlas sin efecto.\nLos actos examinados son los siguientes:\n1. Autorización de transporte escolar.\nEl 15 de junio de 2024 se concedió a Autocares Sierra Norte, S. L., una autorización para prestar servicios de transporte escolar. Posteriormente, una sentencia penal firme declaró que el certificado técnico determinante para obtenerla había sido falsificado y que la autorización se concedió como consecuencia directa de dicha falsedad.\n2. Subvención para la renovación de vehículos.\nEl 20 de septiembre de 2023 se concedió a Movilidad Verde, S. A., una subvención de 300.000 euros, en régimen de concurrencia competitiva, para renovar parte de su flota. Durante la valoración se le atribuyeron quince puntos por una circunstancia que las bases reguladoras no contemplaban como criterio puntuable. Sin esos puntos, la empresa no habría resultado beneficiaria.\nEn relación con el supuesto planteado, conteste a las siguientes cuestiones:\n¿Qué vía deberá seguir la Administración para dejar sin efecto la resolución por la que se concedió a Movilidad Verde, S.A. la subvención para la renovación de vehículos?",
+"opciones": [
+"La revisión de oficio de actos nulos.",
+"La declaración de lesividad de actos anulables.",
+"La revocación de actos.",
+"La rectificación de errores."
+]
+},
+{
+"id": "pr-28-007",
+"origen": "practicas",
+"test": "Ejercicio nº 22 - Revisión de oficio (4)",
+"n": 7,
+"enunciado": "En marzo de 2026, doña Laura Valdés, funcionaria destinada en la Dirección General de Transporte por Carretera y Ferrocarril del Ministerio de Transportes y Movilidad Sostenible, recibe el encargo de examinar tres resoluciones dictadas por dicho centro directivo y de preparar, en cada caso, la actuación necesaria para dejarlas sin efecto.\nLos actos examinados son los siguientes:\n1. Autorización de transporte escolar.\nEl 15 de junio de 2024 se concedió a Autocares Sierra Norte, S. L., una autorización para prestar servicios de transporte escolar. Posteriormente, una sentencia penal firme declaró que el certificado técnico determinante para obtenerla había sido falsificado y que la autorización se concedió como consecuencia directa de dicha falsedad.\n2. Subvención para la renovación de vehículos.\nEl 20 de septiembre de 2023 se concedió a Movilidad Verde, S. A., una subvención de 300.000 euros, en régimen de concurrencia competitiva, para renovar parte de su flota. Durante la valoración se le atribuyeron quince puntos por una circunstancia que las bases reguladoras no contemplaban como criterio puntuable. Sin esos puntos, la empresa no habría resultado beneficiaria.\nEn relación con el supuesto planteado, conteste a las siguientes cuestiones:\nUna vez determinada la vía procedente, se pone en marcha el procedimiento dirigido a dejar sin efecto la resolución por la que se concedió a Movilidad Verde, S. A., la subvención para la renovación de vehículos. ¿Cómo habrá podido iniciarse?",
+"opciones": [
+"De oficio, únicamente.",
+"A solicitud de interesado, únicamente.",
+"De oficio o a solicitud de interesado.",
+"De oficio o a solicitud del Consejo de Estado."
+]
+},
+{
+"id": "pr-28-008",
+"origen": "practicas",
+"test": "Ejercicio nº 22 - Revisión de oficio (4)",
+"n": 8,
+"enunciado": "En marzo de 2026, doña Laura Valdés, funcionaria destinada en la Dirección General de Transporte por Carretera y Ferrocarril del Ministerio de Transportes y Movilidad Sostenible, recibe el encargo de examinar tres resoluciones dictadas por dicho centro directivo y de preparar, en cada caso, la actuación necesaria para dejarlas sin efecto.\nLos actos examinados son los siguientes:\n1. Autorización de transporte escolar.\nEl 15 de junio de 2024 se concedió a Autocares Sierra Norte, S. L., una autorización para prestar servicios de transporte escolar. Posteriormente, una sentencia penal firme declaró que el certificado técnico determinante para obtenerla había sido falsificado y que la autorización se concedió como consecuencia directa de dicha falsedad.\n2. Subvención para la renovación de vehículos.\nEl 20 de septiembre de 2023 se concedió a Movilidad Verde, S. A., una subvención de 300.000 euros, en régimen de concurrencia competitiva, para renovar parte de su flota. Durante la valoración se le atribuyeron quince puntos por una circunstancia que las bases reguladoras no contemplaban como criterio puntuable. Sin esos puntos, la empresa no habría resultado beneficiaria.\nEn relación con el supuesto planteado, conteste a las siguientes cuestiones:\n¿Cuál es la finalidad del procedimiento iniciado respecto de la resolución por la que se concedió a Movilidad Verde, S. A., la subvención para la renovación de vehículos?",
+"opciones": [
+"Declararla nula.",
+"Declararla nula como requisito previo a su impugnación ante la jurisdicción contencioso-administrativa.",
+"Declarar su anulabilidad como requisito previo a su impugnación ante la jurisdicción contencioso-administrativa.",
+"Declararla lesiva para el interés público como requisito previo a su impugnación ante la jurisdicción contencioso-administrativa."
+]
+},
+{
+"id": "pr-28-009",
+"origen": "practicas",
+"test": "Ejercicio nº 22 - Revisión de oficio (4)",
+"n": 9,
+"enunciado": "En marzo de 2026, doña Laura Valdés, funcionaria destinada en la Dirección General de Transporte por Carretera y Ferrocarril del Ministerio de Transportes y Movilidad Sostenible, recibe el encargo de examinar tres resoluciones dictadas por dicho centro directivo y de preparar, en cada caso, la actuación necesaria para dejarlas sin efecto.\nLos actos examinados son los siguientes:\n1. Autorización de transporte escolar.\nEl 15 de junio de 2024 se concedió a Autocares Sierra Norte, S. L., una autorización para prestar servicios de transporte escolar. Posteriormente, una sentencia penal firme declaró que el certificado técnico determinante para obtenerla había sido falsificado y que la autorización se concedió como consecuencia directa de dicha falsedad.\n2. Subvención para la renovación de vehículos.\nEl 20 de septiembre de 2023 se concedió a Movilidad Verde, S. A., una subvención de 300.000 euros, en régimen de concurrencia competitiva, para renovar parte de su flota. Durante la valoración se le atribuyeron quince puntos por una circunstancia que las bases reguladoras no contemplaban como criterio puntuable. Sin esos puntos, la empresa no habría resultado beneficiaria.\nEn relación con el supuesto planteado, conteste a las siguientes cuestiones:\n¿Hasta qué fecha podrá adoptarse la declaración correspondiente respecto de la resolución por la que se concedió la subvención a Movilidad Verde S.A.?",
+"opciones": [
+"Hasta el 20 de septiembre de 2024.",
+"Hasta el 20 de septiembre de 2027.",
+"Hasta el 20 de septiembre de 2028.",
+"Podrá revisarse en cualquier momento."
+]
+},
+{
+"id": "pr-28-010",
+"origen": "practicas",
+"test": "Ejercicio nº 22 - Revisión de oficio (4)",
+"n": 10,
+"enunciado": "En marzo de 2026, doña Laura Valdés, funcionaria destinada en la Dirección General de Transporte por Carretera y Ferrocarril del Ministerio de Transportes y Movilidad Sostenible, recibe el encargo de examinar tres resoluciones dictadas por dicho centro directivo y de preparar, en cada caso, la actuación necesaria para dejarlas sin efecto.\nLos actos examinados son los siguientes:\n1. Autorización de transporte escolar.\nEl 15 de junio de 2024 se concedió a Autocares Sierra Norte, S. L., una autorización para prestar servicios de transporte escolar. Posteriormente, una sentencia penal firme declaró que el certificado técnico determinante para obtenerla había sido falsificado y que la autorización se concedió como consecuencia directa de dicha falsedad.\n2. Subvención para la renovación de vehículos.\nEl 20 de septiembre de 2023 se concedió a Movilidad Verde, S. A., una subvención de 300.000 euros, en régimen de concurrencia competitiva, para renovar parte de su flota. Durante la valoración se le atribuyeron quince puntos por una circunstancia que las bases reguladoras no contemplaban como criterio puntuable. Sin esos puntos, la empresa no habría resultado beneficiaria.\nEn relación con el supuesto planteado, conteste a las siguientes cuestiones:\nIniciado de oficio el procedimiento dirigido a dejar sin efecto la resolución por la que se concedió la subvención a Movilidad Verde S.A., ¿cuál es el plazo máximo para resolverlo y qué efecto producirá su transcurso sin que se haya notificado resolución expresa?",
+"opciones": [
+"Tres meses, transcurridos los cuales se producirá el silencio, que tendrá efectos desestimatorios.",
+"Tres meses, transcurridos los cuales se producirá la caducidad del procedimiento.",
+"Seis meses, transcurridos los cuales se producirá el silencio, que tendrá efectos desestimatorios.",
+"Seis meses, transcurridos los cuales se producirá la caducidad del procedimiento."
+]
+}
+]
+}

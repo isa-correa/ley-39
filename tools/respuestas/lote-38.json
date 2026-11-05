@@ -1,0 +1,452 @@
+{
+"pr-29-001": {
+  "bloque": "actividad",
+  "precepto": "Arts. 14.1 y 16.4.d) de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+    "No. D. Martín es una persona física, y no está en la lista de obligados del **art. 14.2** (personas jurídicas, profesionales colegiados en su actividad, empleados públicos, etc.). Tener 16 años no le obliga a usar medios electrónicos.",
+    "No. Sobra el “deben”. El art. 14.1 dice que las personas físicas pueden elegir: presencial o electrónico. El papel es una opción, no una obligación.",
+    "No. El “en todo caso” es lo que falla. Según el **art. 3.b)**, un menor puede actuar por sí mismo en los derechos que el ordenamiento le deja ejercer sin padres ni tutor. Sacarse un carné joven encaja en esa idea.",
+    "Es esta. Como persona física, D. Martín puede elegir en todo momento cómo se comunica con la Administración (**art. 14.1**). Y puede presentar su solicitud en una oficina de asistencia en materia de registros (**art. 16.4.d**), aunque sea de un ministerio y la solicitud vaya dirigida a la Junta de Andalucía."
+  ],
+  "ojo": "Presentar en la oficina de otra Administración es válido, pero el plazo para resolver no empieza ese día. Lo verás en las preguntas siguientes."
+},
+"pr-29-002": {
+  "bloque": "actividad",
+  "precepto": "Art. 21.3 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+    "No. Un mes no es ningún plazo supletorio para resolver. Un mes es, por ejemplo, el plazo para resolver el recurso de reposición (art. 124.2).",
+    "Es esta. El caso dice que la norma del procedimiento no fija plazo máximo. Para ese hueco, el **art. 21.3** da la respuesta: cuando la norma no fija plazo, son **tres meses**.",
+    "No. Seis meses es el tope que puede fijar una norma reglamentaria (art. 21.2), no el plazo que se aplica cuando la norma no dice nada.",
+    "No. Esta frase describe el límite máximo del art. 21.2, que sirve para las normas que sí fijan plazo. Aquí la norma calla, así que se aplica el art. 21.3: tres meses."
+  ],
+  "ojo": "No confundas: 6 meses es el techo de lo que puede fijar la norma (art. 21.2). 3 meses es lo que se aplica si la norma no fija nada (art. 21.3)."
+},
+"pr-29-003": {
+  "bloque": "actividad",
+  "precepto": "Art. 21.3.b) de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+    "No. El 4 de noviembre es cuando D. Martín presenta la solicitud en la oficina del Ministerio de Consumo. Ese no es todavía el registro de la Administración competente, que es la Junta de Andalucía.",
+    "No. El plazo no arranca el día siguiente a la presentación en la oficina. Además, la ley toma como referencia la fecha de entrada en el registro del órgano competente, y esa no es el 4 ni el 5 de noviembre.",
+    "Es esta. En los procedimientos iniciados a solicitud del interesado, el plazo se cuenta desde que la solicitud **entra en el registro electrónico de la Administración competente** para tramitarla (**art. 21.3.b**). Como aquí es la Junta de Andalucía, la fecha es el 11 de noviembre de 2025.",
+    "No. El 13 de noviembre es el día en que se comunica a D. Martín la recepción de la solicitud (art. 21.4). Esa comunicación informa, pero no marca el inicio del plazo."
+  ],
+  "ojo": "Tres fechas en el caso, cada una con su papel: 4 de noviembre, presentación; 11 de noviembre, entrada en el registro competente (la que cuenta); 13 de noviembre, comunicación al interesado."
+},
+"pr-29-004": {
+  "bloque": "actividad",
+  "precepto": "Arts. 21.3.b) y 30.4 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+    "No. Sale de contar 3 meses desde el 4 de noviembre, que es la presentación en la oficina del Ministerio. El plazo se cuenta desde la entrada en el registro de la Junta, el 11 de noviembre.",
+    "Es esta. Son **3 meses** (art. 21.3) desde el **11 de noviembre de 2025** (art. 21.3.b). Los meses se cuentan de fecha a fecha (**art. 30.4**), así que el plazo acaba el 11 de febrero de 2026, que es miércoles y por tanto hábil.",
+    "No. Tiene dos fallos: aplica 6 meses en lugar de 3 y cuenta desde el 4 de noviembre en lugar del 11.",
+    "No. La fecha de partida es buena, pero aplica 6 meses. Como la norma no fija plazo, son 3 meses (art. 21.3)."
+  ]
+},
+"pr-29-005": {
+  "bloque": "actividad",
+  "precepto": "Art. 22.1.a) de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. El **art. 22.1.a)** dice que el plazo “se podrá suspender” cuando haya que requerir a un interesado para subsanar deficiencias. Es decir, corregir lo que falta o está mal. La suspensión dura desde que se le notifica el requerimiento hasta que cumple o, si no cumple, lo que dure el plazo concedido.",
+    "No. Te han cambiado “podrá” por “se suspendería”, como si fuera automático. La subsanación es un caso de suspensión voluntaria (art. 22.1). Las obligatorias son solo las tres del art. 22.2.",
+    "No. Sí puede suspenderse (art. 22.1.a). Lo de tener por desistido a quien no subsana es cierto (art. 68.1), pero no impide la suspensión.",
+    "No. Sí puede suspenderse (art. 22.1.a). Y si no subsana, la consecuencia del art. 68.1 es tenerle por desistido, no la caducidad."
+  ],
+  "ojo": "Se podrá suspender: 7 casos del art. 22.1. Se suspenderá: 3 casos del art. 22.2 (requerimiento entre Administraciones, actuaciones complementarias y recusación)."
+},
+"pr-29-006": {
+  "bloque": "actividad",
+  "precepto": "Art. 23.1 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+    "No. Un mes y quince días sería la mitad de tres meses, que es la regla general de ampliación de plazos del art. 32.1. Pero el plazo para resolver tiene su regla propia en el art. 23.1, que permite más.",
+    "Es esta. Agotados los medios disponibles, el **art. 23.1** permite ampliar el plazo para resolver sin superar **el establecido para tramitar el procedimiento**. Aquí ese plazo es de 3 meses, así que la ampliación puede llegar a 3 meses como máximo.",
+    "No. Seis meses duplicaría el plazo del procedimiento, que es de 3 meses. La ampliación no puede ser mayor que ese plazo (art. 23.1).",
+    "No. Sí puede ampliarse, de forma excepcional y motivada, cuando se han agotado los medios personales y materiales (art. 23.1). El caso dice justo eso."
+  ],
+  "ojo": "Art. 32: la ampliación llega hasta la mitad del plazo. Art. 23: la ampliación del plazo para resolver puede ser igual que el plazo. Es la confusión que busca esta pregunta."
+},
+"pr-29-007": {
+  "bloque": "actividad",
+  "precepto": "Art. 24.1 y 24.2 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. La regla general es el silencio **estimatorio** (**art. 24.1**) y ninguna norma dice lo contrario para el Carné Joven. Tampoco es una de las excepciones de la ley, como el derecho de petición o la responsabilidad patrimonial. Y la estimación por silencio es, a todos los efectos, un acto que termina el procedimiento (**art. 24.2**): D. Martín puede considerar concedido su carné.",
+    "No. El sentido es bueno, pero el efecto no. Limitarse a permitir recurrir es lo propio de la desestimación por silencio, no de la estimación (art. 24.2).",
+    "No. Falla el sentido: en este caso el silencio es estimatorio (art. 24.1). Además, el efecto de “acto finalizador” corresponde a la estimación, no a la desestimación.",
+    "No. Los efectos descritos son los de la desestimación por silencio (art. 24.2), pero aquí no hay desestimación: ninguna norma ni excepción legal la impone."
+  ],
+  "ojo": "Para recordarlo: estimado por silencio, tienes un acto de verdad. Desestimado por silencio, solo tienes la puerta abierta para recurrir."
+},
+"pr-29-008": {
+  "bloque": "actividad",
+  "precepto": "Art. 24.3.a) de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+    "No. Es cierto que el silencio estimatorio vale como acto finalizador (art. 24.2), pero eso no impide resolver después. Sí se puede dictar resolución si confirma el silencio (art. 24.3.a).",
+    "Es esta. Como el silencio de D. Martín fue estimatorio, la resolución expresa posterior **solo puede dictarse si confirma** ese resultado (**art. 24.3.a**). Es decir, la Administración podría confirmarle el carné, pero no denegárselo.",
+    "No. “Sin vinculación alguna” es el régimen de la desestimación por silencio (art. 24.3.b). Aquí el silencio fue estimatorio, así que la Administración queda vinculada.",
+    "No. El silencio no borra la obligación de resolver: el art. 24.1 dice “sin perjuicio de la resolución que la Administración debe dictar”, y el art. 21.1 obliga a resolver siempre."
+  ]
+},
+"pr-31-001": {
+  "bloque": "interesados",
+  "precepto": "Art. 5.6 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. El **art. 5.6** da **diez días** para aportar la representación o corregir el defecto, “o un plazo superior” si las circunstancias lo requieren. El acto se tiene por realizado siempre que se subsane en ese plazo.",
+    "No. Los diez días son correctos, pero la ampliación “hasta cinco días” es del art. 68.2, que se refiere a la subsanación de solicitudes. No es la regla de la representación.",
+    "No. Te han cambiado los diez días por quince. La parte del plazo superior sí es correcta (art. 5.6).",
+    "No. Tiene dos fallos: son diez días, no quince, y la ampliación hasta cinco días es del art. 68.2."
+  ]
+},
+"pr-31-002": {
+  "bloque": "instruccion",
+  "precepto": "Art. 81.1 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+    "No. Preceptivo es correcto, pero el plazo no es de quince días, sino de diez (art. 81.1).",
+    "No. Tiene dos fallos: el informe no es facultativo, sino obligatorio, y el plazo es de diez días (art. 81.1).",
+    "Es esta. El **art. 81.1** dice que es **preceptivo** (obligatorio) pedir informe al servicio que causó la presunta lesión, y que el plazo para emitirlo **no puede pasar de diez días**. Tiene lógica: nadie conoce mejor lo ocurrido que el propio servicio.",
+    "No. El plazo de diez días es correcto, pero el informe no es facultativo: es obligatorio pedirlo (art. 81.1)."
+  ]
+},
+"pr-31-003": {
+  "bloque": "instruccion",
+  "precepto": "Art. 81.2 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+    "No. El plazo de dos meses es correcto, pero la cuantía es de 50.000 euros, no de 30.000 (art. 81.2).",
+    "Es esta. El **art. 81.2** exige el dictamen cuando la indemnización reclamada es igual o superior a **50.000 euros** (o la cuantía de la legislación autonómica), y fija que se emita en **dos meses**.",
+    "No. Fallan los dos datos: son 50.000 euros, no 30.000, y dos meses, no tres (art. 81.2).",
+    "No. La cuantía es correcta, pero el plazo del dictamen es de dos meses, no de tres (art. 81.2)."
+  ]
+},
+"pr-31-004": {
+  "bloque": "instruccion",
+  "precepto": "Art. 82.2 y 82.4 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+    "No. El plazo máximo no es de treinta días, sino de quince (art. 82.2). La parte final, sobre prescindir del trámite, sí es correcta.",
+    "Es esta. El **art. 82.2** da entre **10 y 15 días** para alegar en la audiencia. Y el **art. 82.4** permite prescindir de ella cuando solo se tengan en cuenta los hechos y alegaciones del propio interesado: no hay nada nuevo que enseñarle.",
+    "No. Tiene dos fallos: el máximo es de quince días, no de treinta, y sí se puede prescindir de la audiencia en el caso del art. 82.4.",
+    "No. El plazo es correcto, pero el “en ningún caso” es falso: el art. 82.4 permite prescindir del trámite."
+  ],
+  "ojo": "El plazo de audiencia de 10 a 15 días se repite en los recursos (art. 118.1)."
+},
+"pr-31-005": {
+  "bloque": "finalizacion",
+  "precepto": "Art. 87 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+    "No. El plazo de alegaciones es de siete días, no de quince. Los quince días son el tope para practicar las actuaciones complementarias (art. 87).",
+    "No. Fallan el plazo y el momento: son siete días, no quince, y las alegaciones se hacen tras terminar las actuaciones.",
+    "Es esta. El **art. 87** da **siete días** para alegar **tras la finalización** de las actuaciones complementarias. Lo lógico es opinar sobre su resultado cuando ya se conoce.",
+    "No. El plazo es correcto, pero el momento no: las alegaciones se hacen tras la finalización de las actuaciones, no antes (art. 87)."
+  ],
+  "ojo": "En el art. 87 hay dos plazos: 7 días para alegar y 15 días como máximo para practicar las actuaciones. La pregunta juega con esa mezcla."
+},
+"pr-31-006": {
+  "bloque": "finalizacion",
+  "precepto": "Art. 94.4 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+    "No. Fallan el plazo y el punto de partida: son diez días, no quince, y se cuentan desde la notificación, no desde el desistimiento o la renuncia (art. 94.4).",
+    "No. Los diez días son correctos, pero se cuentan desde que los terceros fueron notificados, no desde que se produjo el desistimiento o la renuncia (art. 94.4).",
+    "No. El punto de partida es correcto, pero el plazo es de diez días, no de quince (art. 94.4).",
+    "Es esta. Según el **art. 94.4**, los terceros personados tienen **diez días desde que se les notifica** el desistimiento o la renuncia para pedir que el procedimiento siga. Tiene lógica: no podrían reaccionar a algo que todavía no conocen."
+  ]
+},
+"pr-31-007": {
+  "bloque": "finalizacion",
+  "precepto": "Art. 96.6.g) de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+    "No. El verbo “podrá” es correcto, pero el plazo es de quince días, no de diez (art. 96.6.g).",
+    "Es esta. El **art. 96.6.g)** dice literalmente que el Dictamen “podrá ser emitido en el plazo de quince días” si lo solicita el órgano competente. Es un plazo que se puede pedir, no una obligación del Consejo de Estado.",
+    "No. Fallan el verbo y el plazo: la ley dice “podrá”, no “deberá”, y son quince días, no diez.",
+    "No. Los quince días son correctos, pero te han cambiado “podrá” por “deberá”. El art. 96.6.g) no impone esa obligación."
+  ],
+  "ojo": "La trampa está en una sola palabra: “podrá” frente a “deberá”."
+},
+"pr-31-008": {
+  "bloque": "recursos",
+  "precepto": "Art. 118.1 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. El **art. 118.1** da un plazo **no inferior a diez días ni superior a quince** para alegar sobre hechos o documentos nuevos durante el recurso. Es la misma horquilla que la audiencia del art. 82.2.",
+    "No. El mínimo de diez días es correcto, pero el máximo es de quince, no de treinta (art. 118.1).",
+    "No. Fallan los dos extremos: el mínimo es de diez días, no de quince, y el máximo es de quince, no de treinta (art. 118.1).",
+    "No. El mínimo es de diez días, no de quince, y además la ley sí pone tope: quince días (art. 118.1)."
+  ]
+},
+"pr-31-009": {
+  "bloque": "recursos",
+  "precepto": "Art. 121.2 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. El **art. 121.2** permite presentar la alzada ante quien dictó el acto. Ese órgano debe enviarlo al competente **en diez días**, con su informe y una copia completa y ordenada del expediente.",
+    "No. Te han cambiado el plazo: son diez días, no quince (art. 121.2).",
+    "No. Te han cambiado el plazo: son diez días, no veinte (art. 121.2).",
+    "No. No puede inadmitirlo: el art. 121.2 permite expresamente presentar el recurso ante el órgano que dictó el acto. Lo que debe hacer es remitirlo, y en diez días, no en quince."
+  ]
+},
+"pr-31-010": {
+  "bloque": "actividad",
+  "precepto": "Art. 21.2 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+    "No. Tres meses es el plazo que se aplica cuando la norma no fija ninguno (art. 21.3), no el tope que puede fijar la norma.",
+    "Es esta. El **art. 21.2** dice que la norma del procedimiento fija el plazo, pero **no puede pasar de seis meses**, salvo que una norma con rango de ley establezca uno mayor o lo prevea el Derecho de la Unión Europea.",
+    "No. El tope es de seis meses, no de doce (art. 21.2).",
+    "No. El tope es de seis meses, no de veinticuatro (art. 21.2)."
+  ]
+},
+"pr-31-011": {
+  "bloque": "finalizacion",
+  "precepto": "Art. 91.3 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. El **art. 91.3** dice que, pasados **seis meses** desde el inicio sin resolución ni acuerdo, puede entenderse que la resolución es **contraria** a la indemnización. Encaja con el art. 24.1, que da silencio desestimatorio en responsabilidad patrimonial.",
+    "No. El sentido es correcto, pero el plazo es de seis meses, no de tres (art. 91.3).",
+    "No. El plazo es correcto, pero el sentido no: es contraria a la indemnización, no favorable (arts. 91.3 y 24.1).",
+    "No. Fallan el plazo y el sentido: son seis meses, y el silencio es contrario a la indemnización (art. 91.3)."
+  ]
+},
+"pr-31-012": {
+  "bloque": "revision",
+  "precepto": "Art. 107.3 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+    "No. La consecuencia es correcta, pero el plazo es de seis meses, no de tres (art. 107.3).",
+    "Es esta. El **art. 107.3** dice que, pasados **seis meses** desde el inicio sin declarar la lesividad, se produce la **caducidad** del procedimiento. Tiene lógica: lo inicia la propia Administración, y si no acaba a tiempo, decae.",
+    "No. Fallan el plazo y la consecuencia: son seis meses, y lo que hay es caducidad, no desestimación. La lesividad la inicia la Administración, no hay una solicitud de un particular que desestimar.",
+    "No. El plazo es correcto, pero la consecuencia no: se produce la caducidad, no se entiende desestimada ninguna solicitud (art. 107.3)."
+  ]
+},
+"pr-31-013": {
+  "bloque": "recursos",
+  "precepto": "Arts. 122.1 y 124.1 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+    "No. Ese reparto de tres meses y un mes corresponde al plazo para resolver esos recursos, no para interponerlos. Para interponer, en acto expreso, los dos tienen un mes.",
+    "No. Mezcla los plazos: la reposición también se interpone en un mes (art. 124.1), no en tres.",
+    "No. Son un mes para ambos, no tres. Tres meses es el plazo para resolver la alzada (art. 122.2).",
+    "Es esta. Contra un acto expreso, tanto la alzada (**art. 122.1**) como la reposición (**art. 124.1**) se interponen en **un mes**. Interponer es presentar el recurso."
+  ],
+  "ojo": "Compárala con la siguiente: interponer, un mes en ambos; resolver, tres meses la alzada y un mes la reposición."
+},
+"pr-31-014": {
+  "bloque": "recursos",
+  "precepto": "Arts. 122.2 y 124.2 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. La alzada se resuelve y notifica en **tres meses** (**art. 122.2**) y la reposición en **un mes** (**art. 124.2**). Para recordarlo: la alzada va a otro órgano, que tiene que estudiar el asunto; la reposición vuelve al mismo que dictó el acto.",
+    "No. Los plazos están cambiados: la alzada tiene tres meses y la reposición uno.",
+    "No. La alzada sí tiene tres meses, pero la reposición tiene un mes (art. 124.2).",
+    "No. La reposición sí tiene un mes, pero la alzada tiene tres meses (art. 122.2)."
+  ]
+},
+"pr-31-015": {
+  "bloque": "recursos",
+  "precepto": "Art. 126.3 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+    "No. El “en todo caso” es falso. Cuatro años es solo para la causa a), el error de hecho, y se cuentan desde la notificación de la resolución (art. 125.2).",
+    "No. El “en todo caso” es falso. Tres meses es para las causas b), c) y d), desde que se conocen los documentos o la sentencia queda firme. La causa a) tiene cuatro años (art. 125.2).",
+    "Es esta. El **art. 126.3** da **tres meses** para dictar y notificar la resolución, sin distinguir la causa. Si pasan sin resolución, el recurso se entiende desestimado y queda abierta la vía contencioso-administrativa.",
+    "No. Mezcla interponer con resolver. Cuatro años o tres meses, según la causa, es el plazo para interponer (art. 125.2). Para resolver son siempre tres meses (art. 126.3)."
+  ],
+  "ojo": "Lo que depende de la causa es el plazo para presentar el recurso. El plazo para resolverlo es siempre el mismo."
+},
+"pr-32-001": {
+  "bloque": "recursos",
+  "precepto": "Art. 114.1.a) de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. El **art. 114.1.a)** lo dice expresamente. Tiene lógica: tras la alzada no cabe otro recurso ordinario (art. 122.3), así que solo queda el contencioso o, en sus casos, el extraordinario de revisión.",
+    "No. El art. 114.1.a) las incluye expresamente entre los actos que ponen fin a la vía administrativa."
+  ]
+},
+"pr-32-002": {
+  "bloque": "recursos",
+  "precepto": "Art. 114.1.c) de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+    "No. Te han dado la vuelta a la regla: las que ponen fin a la vía administrativa son las de órganos que **carecen** de superior jerárquico (art. 114.1.c).",
+    "Es esta. El **art. 114.1.c)** habla de los órganos que **carecen de superior jerárquico**. Si el órgano depende de un superior, por regla general cabe recurso de alzada ante él (art. 121.1), así que la vía administrativa sigue abierta."
+  ]
+},
+"pr-32-003": {
+  "bloque": "recursos",
+  "precepto": "Art. 114.1.d) de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+    "No. Te han añadido un “no”: el art. 114.1.d) solo incluye los acuerdos que **sí** tienen la consideración de finalizadores del procedimiento.",
+    "Es esta. El **art. 114.1.d)** se refiere a los acuerdos, pactos, convenios o contratos que **tengan** la consideración de finalizadores. Si no terminan el procedimiento, este sigue su curso, y difícilmente pueden cerrar la vía administrativa."
+  ]
+},
+"pr-32-004": {
+  "bloque": "recursos",
+  "precepto": "Art. 114.1.e) de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. El **art. 114.1.e)** incluye la resolución de los procedimientos de responsabilidad patrimonial, sea cual sea la relación, pública o privada, de la que derive.",
+    "No. El art. 114.1.e) las incluye expresamente, sin distinguir qué órgano resuelve ni de qué relación derivan."
+  ]
+},
+"pr-32-005": {
+  "bloque": "recursos",
+  "precepto": "Art. 114 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+    "No. El art. 114 no incluye las resoluciones sancionadoras como grupo. Solo incluye la del procedimiento complementario del art. 90.4, que es otra cosa: fija la indemnización por los daños causados a la Administración.",
+    "Es esta. El **art. 114** no las menciona, así que dependerá de quién las dicte: si ese órgano tiene superior jerárquico, cabe recurso de alzada. Por ejemplo, la sanción de un Director general se recurre en alzada, mientras que la de un Ministro sí agota la vía por ser de quien es, no por ser una sanción."
+  ],
+  "ojo": "Trampa clásica: ponen fin a la vía las resoluciones de los procedimientos **complementarios** sancionadores (arts. 90.4 y 114.1.f), no las sancionadoras en general."
+},
+"pr-32-006": {
+  "bloque": "recursos",
+  "precepto": "Arts. 114.1.f) y 90.4 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. Lo dice el **art. 114.1.f)**, que remite al **art. 90.4**. Es el procedimiento que fija cuánto se paga por los daños causados a la Administración cuando esa cuantía no quedó fijada en el expediente sancionador.",
+    "No. Los arts. 114.1.f) y 90.4 dicen expresamente que esta resolución pone fin a la vía administrativa."
+  ]
+},
+"pr-32-007": {
+  "bloque": "recursos",
+  "precepto": "Art. 114.2.a) de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. Lo dice el **art. 114.2.a)** para el ámbito estatal: los actos administrativos de los miembros y órganos del Gobierno agotan la vía administrativa. Tiene lógica: no hay nadie por encima a quien recurrir.",
+    "No. El art. 114.2.a) los incluye expresamente en la lista del ámbito estatal."
+  ]
+},
+"pr-32-008": {
+  "bloque": "recursos",
+  "precepto": "Art. 114.2.b) de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. El **art. 114.2.b)** incluye los actos de Ministros y Secretarios de Estado cuando ejercen las competencias propias de sus órganos. No importa la materia.",
+    "No. El art. 114.2.b) incluye a los Secretarios de Estado, aunque dependan del Ministro. Es una regla especial del ámbito estatal."
+  ],
+  "ojo": "El Secretario de Estado tiene al Ministro por encima, pero aun así sus actos agotan la vía. Por eso es una regla especial."
+},
+"pr-32-009": {
+  "bloque": "recursos",
+  "precepto": "Art. 114.2.c) de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. El **art. 114.2.c)** lo dice para el ámbito estatal: los actos de los órganos directivos con nivel de Director general o superior ponen fin a la vía, pero solo **en materia de personal**.",
+    "No. El art. 114.2.c) los incluye expresamente, porque la materia es de personal."
+  ]
+},
+"pr-32-010": {
+  "bloque": "recursos",
+  "precepto": "Art. 114.2.c) de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+    "No. El Director general solo agota la vía en materia de personal (art. 114.2.c). Fomento, es decir, ayudas y subvenciones, no entra ahí.",
+    "Es esta. La regla especial del **art. 114.2.c)** se limita a **personal**. En fomento, los actos de un Director general no ponen fin a la vía por regla general, así que cabe recurso de alzada ante su superior (art. 121.1)."
+  ],
+  "ojo": "Director general: agota la vía en personal, no en lo demás. Fíjate siempre en la materia."
+},
+"pr-33-001": {
+  "bloque": "recursos",
+  "precepto": "Art. 114.2.c) de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+    "No. El Secretario General es un órgano directivo y solo agota la vía en materia de personal (art. 114.2.c). Una autorización en sanidad no es materia de personal.",
+    "Es esta. El Secretario General es un órgano directivo (art. 55.3 de la Ley 40/2015), no un Secretario de Estado. Según el **art. 114.2.c)**, solo pondría fin a la vía en **materia de personal**, y aquí la materia es sanidad. Así que cabe alzada ante su superior."
+  ],
+  "ojo": "No confundas Secretario de Estado (agota la vía en todas sus competencias) con Secretario General (solo en personal)."
+},
+"pr-33-002": {
+  "bloque": "recursos",
+  "precepto": "Art. 114.1.e) de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. El **art. 114.1.e)** incluye la resolución de los procedimientos de responsabilidad patrimonial. Da igual que sea estimatoria o, como aquí, desestimatoria.",
+    "No. El art. 114.1.e) no distingue por el resultado: tanto si se concede la indemnización como si se deniega, se pone fin a la vía administrativa."
+  ]
+},
+"pr-33-003": {
+  "bloque": "recursos",
+  "precepto": "Art. 114.2.c) de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+    "No. Un Director general solo agota la vía en materia de personal (art. 114.2.c), y las resoluciones sancionadoras tampoco están en la lista del art. 114 como grupo.",
+    "Es esta. Hay dos razones. La materia es sancionadora, no de personal, así que no entra en el **art. 114.2.c)**. Y el art. 114 no incluye las sanciones en general. Por tanto, cabe alzada ante el superior del Director General de Política Interior."
+  ]
+},
+"pr-33-004": {
+  "bloque": "recursos",
+  "precepto": "Art. 114.2.c) de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. El Subsecretario es un órgano directivo de nivel superior a Director general (art. 55.3 de la Ley 40/2015). Y reconocer el grado personal a un funcionario es materia de **personal**. Se cumplen los dos requisitos del **art. 114.2.c)**.",
+    "No. Se cumplen los dos requisitos del art. 114.2.c): nivel de Director general o superior, y materia de personal."
+  ]
+},
+"pr-33-005": {
+  "bloque": "recursos",
+  "precepto": "Art. 114.1.a) de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. Lo que cuenta aquí es que se trata de la resolución de una **alzada**, y esas ponen fin a la vía (**art. 114.1.a**). La sanción del Director general no agotaba la vía, por eso cabía el recurso. Pero la resolución del recurso sí la agota.",
+    "No. La sanción inicial no agotaba la vía, pero aquí se pregunta por la resolución del recurso de alzada, que sí la agota (art. 114.1.a)."
+  ]
+},
+"pr-33-006": {
+  "bloque": "recursos",
+  "precepto": "Art. 114.2.c) de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+    "No. La Dirección General solo agotaría la vía en materia de personal (art. 114.2.c), y publicar una tarifa de gas no lo es.",
+    "Es esta. Es una resolución de un órgano con nivel de Director general en materia de **energía**, no de personal, así que no entra en el **art. 114.2.c)**. Tampoco encaja en ningún otro caso del art. 114. Por tanto, cabe alzada ante su superior."
+  ]
+},
+"pr-33-007": {
+  "bloque": "recursos",
+  "precepto": "Art. 114.2.b) de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. Lo que cuenta es quién la dicta. El **art. 114.2.b)** incluye los actos de los **Secretarios de Estado** en sus competencias, sin limitarlos a una materia. Aunque sea una sanción, la vía se agota.",
+    "No. El dato clave es el órgano: un Secretario de Estado agota la vía en sus competencias (art. 114.2.b), también en materia sancionadora."
+  ],
+  "ojo": "Compárala con la sanción de un Director general: la misma materia, otro órgano y resultado contrario."
+},
+"pr-33-008": {
+  "bloque": "recursos",
+  "precepto": "Arts. 114.1.f) y 90.4 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. Fijar la indemnización por los daños causados a la Administración con la infracción es justo el procedimiento complementario del **art. 90.4**. Su resolución pone fin a la vía (**art. 114.1.f**), aunque la dicte un Director general.",
+    "No. Aunque un Director general no suela agotar la vía en sanciones, esta es la resolución complementaria de los arts. 90.4 y 114.1.f), que sí la agota."
+  ]
+},
+"pr-33-009": {
+  "bloque": "recursos",
+  "precepto": "Art. 114.1.e) de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. La responsabilidad patrimonial pone fin a la vía sea cual sea el órgano (**art. 114.1.e**). Además, al actuar por delegación, la resolución se considera dictada por el Ministro (art. 9.4 de la Ley 40/2015), que es quien resuelve estos procedimientos en el Estado (art. 92).",
+    "No. El art. 114.1.e) incluye toda resolución de responsabilidad patrimonial. Y la delegación no cambia nada: se entiende dictada por el Ministro (art. 9.4 de la Ley 40/2015), cuyos actos también agotan la vía."
+  ],
+  "ojo": "No te dejes engañar por el Director general: por la materia y por la delegación, la respuesta es sí."
+},
+"pr-33-010": {
+  "bloque": "recursos",
+  "precepto": "Art. 114.1.d) de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. El enunciado dice que el convenio “pone fin” al procedimiento sancionador, así que es finalizador. El **art. 114.1.d)** incluye los convenios que tienen esa consideración, aunque lo firme un Director general.",
+    "No. Lo decisivo es que el convenio termina el procedimiento (art. 114.1.d). Solo no pondría fin a la vía si no fuera finalizador."
+  ]
+}
+}

@@ -1,0 +1,295 @@
+{
+"au-26-001": {
+ "bloque": "iniciativa",
+ "precepto": "Art. 131 de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "No. “Complementarios” son los otros medios de publicidad que cada Administración puede añadir de forma voluntaria (art. 131, párrafo primero). El BOE en la sede electrónica no es un añadido: es la publicación oficial.",
+  "No. Nada de provisional: esa publicación produce ya sus efectos, los del título preliminar del Código Civil. No hay que esperar a ninguna versión posterior.",
+  "No. La ley no le da carácter “extraordinario”. Es la forma normal de publicar el BOE, no una salida para casos excepcionales.",
+  "Es esta. El **art. 131, párrafo tercero**, dice que el BOE publicado en la sede electrónica tiene carácter “oficial y auténtico”. Dicho fácil: el BOE electrónico es el BOE de verdad, con todos sus efectos legales."
+ ]
+},
+"au-26-002": {
+ "bloque": "iniciativa",
+ "precepto": "Art. 131 de la Ley 39/2015 y art. 6.1 de la Ley 40/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "Es verdadera, así que no se marca. Los reglamentos sí aparecen en la lista del art. 131: tienen que publicarse en el diario oficial para entrar en vigor.",
+  "Es verdadera, así que no se marca. Las disposiciones administrativas también están en la lista del art. 131.",
+  "Esta es la falsa, y por eso es la que hay que marcar. Las instrucciones y órdenes de servicio no están en el **art. 131**: sirven para que un órgano dirija a los que dependen de él (**art. 6.1 de la Ley 40/2015**). Solo se publican si una disposición concreta lo manda o si se considera conveniente por sus destinatarios o sus efectos.",
+  "Es verdadera, así que no se marca. Las normas con rango de ley abren la lista del art. 131: sin publicación no entran en vigor."
+ ],
+ "ojo": "Truco para recordarlo: la lista del art. 131 es ley, reglamento y disposición administrativa. Las instrucciones son órdenes internas de un superior a sus órganos dependientes."
+},
+"au-26-003": {
+ "bloque": "iniciativa",
+ "precepto": "Art. 129.5 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. “Libre acceso” suena bien, pero no es uno de los principios de buena regulación del art. 129.1. El acceso a la normativa se incluye dentro de la transparencia.",
+  "Es esta. El **art. 129.5** lo pone dentro del principio de transparencia: acceso “sencillo, universal y actualizado” a las normas en vigor y a los documentos de su elaboración. Es lógico: ser transparente es dejar ver lo que hay y cómo se ha hecho.",
+  "No. “Participación” no es un principio propio del art. 129.1. Además, el enunciado habla de acceder a la información, no de intervenir en la elaboración de la norma.",
+  "No. La eficacia va junto con la necesidad (art. 129.2) y exige una razón de interés general, fines claros y el instrumento más adecuado. No trata del acceso a las normas."
+ ]
+},
+"au-26-004": {
+ "bloque": "iniciativa",
+ "precepto": "Art. 129.5 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. Es la trampa: se habla de participar, pero “participación” no es un principio de la lista del art. 129.1. La participación activa es una de las cosas que exige la transparencia.",
+  "No. “Libre acceso” no figura entre los principios del art. 129.1. Además, el enunciado no habla de acceder a las normas, sino de intervenir en su elaboración.",
+  "Es esta. El **art. 129.5** incluye en la transparencia que los potenciales destinatarios tengan una “participación activa” en la elaboración de las normas. La transparencia reúne tres cosas: acceso a las normas, objetivos claros y participación.",
+  "No. La eficacia (art. 129.2) mira a que la norma tenga un interés general, fines claros y sea el instrumento adecuado. No trata de la participación de los ciudadanos."
+ ],
+ "ojo": "La palabra “participación” del enunciado te empuja a la opción A, pero los seis principios son: necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia."
+},
+"au-26-005": {
+ "bloque": "iniciativa",
+ "precepto": "Art. 129.6 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. Es la confusión típica entre eficacia y eficiencia. La eficacia (art. 129.2) es conseguir el fin con el instrumento adecuado; lo de evitar cargas y gestionar bien los recursos es eficiencia.",
+  "No. “Participación” ni siquiera es un principio de la lista del art. 129.1. Y el enunciado habla de cargas y recursos, no de intervenir en la elaboración de la norma.",
+  "Es esta. El **art. 129.6** dice que, por el principio de eficiencia, la iniciativa debe evitar cargas “innecesarias o accesorias” y racionalizar la gestión de los recursos públicos. Dicho fácil: conseguir lo mismo gastando y molestando lo menos posible.",
+  "No. La transparencia (art. 129.5) trata de acceso a las normas, objetivos claros y participación. No habla de cargas ni de recursos."
+ ],
+ "ojo": "Para no confundirlos: eficacia es llegar al objetivo; eficiencia es llegar con el menor coste posible."
+},
+"au-26-006": {
+ "bloque": "iniciativa",
+ "precepto": "Art. 132.1 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. El art. 132.1 no habla de tres años. El plan se hace público cada año, y por eso se llama Plan Anual Normativo.",
+  "No. Nada de mensual. Además, adaptar las normas es otra cosa: la revisión periódica de la normativa vigente del art. 130.1.",
+  "Es esta. El **art. 132.1** empieza con la palabra “Anualmente”: las Administraciones hacen público un Plan Normativo con las iniciativas que se elevarán para su aprobación el año siguiente. El propio nombre te da la pista: Plan Anual Normativo.",
+  "No. Es anual, no semestral. El plazo cubre un año entero, no seis meses."
+ ],
+ "ojo": "Según nota del BOE, la STC 55/2018 declaró este artículo contrario al orden constitucional de competencias en los términos que fija. La respuesta del test sale de la literalidad del art. 132.1."
+},
+"au-26-007": {
+ "bloque": "iniciativa",
+ "precepto": "Art. 133.1 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "Es verdadera, así que no se marca. Los objetivos de la norma son materia de la consulta pública: art. 133.1.c).",
+  "Es verdadera, así que no se marca. La necesidad y oportunidad de aprobarla también se consulta: art. 133.1.b).",
+  "Esta es la falsa, y por eso es la que hay que marcar. El impacto de género no está en la lista del **art. 133.1**, que tiene cuatro puntos: problemas, necesidad y oportunidad, objetivos y alternativas. Ese impacto se analiza en otro documento, la Memoria del Análisis de Impacto Normativo (art. 26.3.f de la Ley 50/1997).",
+  "Es verdadera, así que no se marca. Los problemas que se quieren solucionar son el primer punto de la lista: art. 133.1.a)."
+ ],
+ "ojo": "No basta con que algo suene importante: lo que no está entre los cuatro puntos del art. 133.1 no se pregunta en la consulta previa."
+},
+"au-26-008": {
+ "bloque": "iniciativa",
+ "precepto": "Art. 132.1 de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. El **art. 132.1** dice que el plan contiene las iniciativas que “vayan a ser elevadas para su aprobación en el año siguiente”. Elevar es llevarlas al órgano que tiene que aprobarlas, y eso se hace el año siguiente.",
+  "No. Te han cambiado “ser elevadas para su aprobación” por “aprobarse”. Son cosas distintas: la ley habla de llevar la iniciativa al órgano que aprueba, sin garantizar que se apruebe ese año.",
+  "No. El horizonte es de un año, “el año siguiente”, no de 5 años.",
+  "No. Tampoco son 3 años: el plan es anual y se refiere solo al año siguiente."
+ ],
+ "ojo": "La palabra clave es “elevadas”. La opción B se parece mucho, pero cambia lo que dice la ley."
+},
+"au-26-009": {
+ "bloque": "iniciativa",
+ "precepto": "Art. 133.1 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. El BOE se usa para publicar las normas ya aprobadas (art. 131). La consulta se hace antes incluso de redactar el proyecto, y a través de un portal web.",
+  "Es esta. El **art. 133.1** dice que la consulta pública se hace “a través del portal web de la Administración competente”. Es lo más práctico: cualquiera puede entrar y opinar.",
+  "No. El diario oficial es para publicar las normas (art. 131), no para recoger opiniones antes de redactarlas.",
+  "No. El Portal de la Transparencia es donde se publica el Plan Anual Normativo una vez aprobado (art. 132.2). Te han cambiado un portal por otro."
+ ],
+ "ojo": "Dos portales distintos: la consulta pública va en el portal web de la Administración competente; el Plan Anual Normativo, en el Portal de la Transparencia."
+},
+"au-26-010": {
+ "bloque": "iniciativa",
+ "precepto": "Art. 129.6 de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. El **art. 129.6** dice que, por el principio de eficiencia, la iniciativa debe evitar cargas administrativas “innecesarias o accesorias” y racionalizar la gestión de los recursos públicos. Por ejemplo, no pedir un papel que no aporta nada.",
+  "No. Esa coherencia con el resto del ordenamiento, nacional y de la Unión Europea, es el principio de seguridad jurídica (art. 129.4).",
+  "No. La “regulación imprescindible” es el principio de proporcionalidad (art. 129.3).",
+  "No. Identificar los fines y ser el instrumento más adecuado corresponde a los principios de necesidad y eficacia (art. 129.2)."
+ ],
+ "ojo": "Las cuatro opciones son frases reales del art. 129, pero solo la primera es de eficiencia. Aquí se pregunta qué principio corresponde a cada frase."
+},
+"au-26-011": {
+ "bloque": "iniciativa",
+ "precepto": "Art. 128.2 de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. El **art. 128.2** habla de “su función de desarrollo o colaboración con respecto a la ley”. Es decir, el reglamento completa a la ley y baja al detalle, pero no puede ir contra ella.",
+  "No. Es al revés: los reglamentos no pueden regular materias que la Constitución o los Estatutos de Autonomía reconocen de la competencia de las Cortes Generales o de las Asambleas Legislativas (art. 128.2).",
+  "No. Falta el “no”. Los reglamentos no pueden tipificar infracciones administrativas (art. 128.2), sin perjuicio de su función de desarrollo o colaboración con la ley.",
+  "No. Tampoco pueden establecer tributos: están en la lista de lo prohibido del art. 128.2."
+ ]
+},
+"au-26-012": {
+ "bloque": "iniciativa",
+ "precepto": "Art. 128.1 de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. El **art. 128.1** nombra a tres: el Gobierno de la Nación, los órganos de Gobierno de las Comunidades Autónomas y los órganos de gobierno locales. Recuérdalo como los tres niveles: Estado, Comunidad Autónoma y ente local.",
+  "No. El “exclusivamente” lo estropea: deja fuera a los órganos de gobierno locales, que también tienen esta potestad.",
+  "No. Las Cortes Generales aprueban leyes: es el poder legislativo. La potestad reglamentaria, es decir, el poder de dictar reglamentos, corresponde a los órganos de gobierno que nombra el art. 128.1.",
+  "No. Tampoco es solo del Gobierno de la Nación: deja fuera a los órganos de Gobierno autonómicos y a los locales."
+ ],
+ "ojo": "Desconfía de “exclusivamente” y “de forma exclusiva”: aquí esas palabras hacen falsas tres opciones."
+},
+"au-26-013": {
+ "bloque": "iniciativa",
+ "precepto": "Art. 128.2 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. Falta el “no”. Establecer tributos está entre lo que el art. 128.2 prohíbe a los reglamentos.",
+  "Es esta. El **art. 128.2** dice que los reglamentos no pueden establecer “exacciones parafiscales”. Son cobros obligatorios parecidos a un tributo, aunque no se llamen así. Crearlos, como crear tributos, no es cosa de un reglamento.",
+  "No. Establecer penas o sanciones también está prohibido a los reglamentos por el art. 128.2.",
+  "No. Tipificar, es decir, definir qué conductas son delitos, faltas o infracciones administrativas, tampoco lo puede hacer un reglamento (art. 128.2)."
+ ],
+ "ojo": "Lista de lo que un reglamento no puede hacer: tipificar delitos, faltas o infracciones, poner penas o sanciones, y crear tributos, exacciones parafiscales u otras cargas o prestaciones personales o patrimoniales de carácter público."
+},
+"au-26-014": {
+ "bloque": "iniciativa",
+ "precepto": "Art. 129.5 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. La eficacia (art. 129.2) pide identificar con claridad los fines, sí, pero lo de definir objetivos y justificarlos en el preámbulo o exposición de motivos está en el apartado de la transparencia.",
+  "No. “Participación” no es uno de los principios del art. 129.1. La participación activa es solo una parte de la transparencia.",
+  "Es esta. El **art. 129.5** incluye en la transparencia definir “claramente los objetivos” de las iniciativas y justificarlos en el preámbulo o exposición de motivos. Tiene sentido: explicar para qué se hace la norma es ser transparente.",
+  "No. “Libre acceso” no es un principio de la lista del art. 129.1. Y el enunciado habla de explicar los objetivos, no de acceder a las normas."
+ ]
+},
+"au-26-015": {
+ "bloque": "iniciativa",
+ "precepto": "Art. 129.7 de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "No. Te han cambiado las palabras: no es “sostenibilidad presupuestaria y equilibrio financiero”, sino estabilidad presupuestaria y sostenibilidad financiera.",
+  "No. Acierta con “estabilidad presupuestaria”, pero “prudencia contable” no aparece en el art. 129.7. El segundo principio es sostenibilidad financiera.",
+  "No. Acierta con “sostenibilidad financiera”, pero vuelve a colar “prudencia contable”. El otro principio es estabilidad presupuestaria.",
+  "Es esta. El **art. 129.7** dice que, si la iniciativa afecta a gastos o ingresos públicos, hay que cuantificar y valorar sus efectos y supeditarse a la “estabilidad presupuestaria y sostenibilidad financiera”. Es el mismo nombre de la Ley Orgánica 2/2012, que cita el preámbulo de la Ley 39/2015, y así es fácil de recordar."
+ ]
+},
+"au-27-001": {
+ "bloque": "iniciativa",
+ "precepto": "Art. 128.2 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. Falta el “no”. El art. 128.2 prohíbe a los reglamentos establecer tributos.",
+  "No. Tampoco pueden tipificar delitos o faltas: es lo primero de la lista de prohibiciones del art. 128.2.",
+  "Es esta. El **art. 128.2** dice que, “sin perjuicio de su función de desarrollo o colaboración”, los reglamentos no pueden tipificar delitos, faltas o infracciones administrativas. Tipificar es definir qué conducta se castiga.",
+  "No. Establecer penas o sanciones también está prohibido por el art. 128.2."
+ ]
+},
+"au-27-002": {
+ "bloque": "iniciativa",
+ "precepto": "Art. 129.1 de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "No. Empieza por “legalidad” en vez de necesidad, y cuela “publicidad” en lugar de eficiencia. Ni la legalidad ni la publicidad están en esta lista.",
+  "No. Cambia “necesidad” por “legalidad” y “seguridad jurídica” por “contradicción”.",
+  "No. Solo aciertan “eficacia” y “transparencia”. Legalidad, celeridad, contradicción e igualdad no están en la lista del art. 129.1.",
+  "Es esta. El **art. 129.1** enumera seis: necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia. Son los principios de buena regulación, y cada apartado siguiente del artículo explica uno o dos de ellos."
+ ],
+ "ojo": "Si te viene bien una regla: los seis de buena regulación empiezan por necesidad y acaban en eficiencia."
+},
+"au-27-003": {
+ "bloque": "iniciativa",
+ "precepto": "Art. 129.3 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. La necesidad y la eficacia (art. 129.2) exigen una razón de interés general, fines claros y el instrumento más adecuado. La frase del enunciado no es de ahí, aunque mencione la palabra “necesidad”.",
+  "Es esta. El **art. 129.3** dice que, por proporcionalidad, la iniciativa contendrá “la regulación imprescindible” para cubrir la necesidad, tras comprobar que no hay medidas menos restrictivas. Dicho fácil: regular solo lo justo, ni más ni menos.",
+  "No. La seguridad jurídica (art. 129.4) pide coherencia con el resto del ordenamiento y un marco estable, claro y predecible.",
+  "No. La transparencia (art. 129.5) trata de acceso a las normas, objetivos claros y participación."
+ ],
+ "ojo": "El enunciado dice “la necesidad a cubrir”, y eso empuja a la opción A. La clave es “imprescindible”: esa palabra es de proporcionalidad."
+},
+"au-27-004": {
+ "bloque": "iniciativa",
+ "precepto": "Art. 26.2 de la Ley 50/1997",
+ "correcta": 3,
+ "justificaciones": [
+  "Es verdadera, así que no se marca. Las soluciones alternativas, regulatorias y no regulatorias, se consultan: art. 26.2.d).",
+  "Es verdadera, así que no se marca. Los problemas que se quieren solucionar se consultan: art. 26.2.a).",
+  "Es verdadera, así que no se marca. La necesidad y oportunidad de aprobarla se consultan: art. 26.2.b).",
+  "Esta es la falsa, y por eso es la que hay que marcar. La consulta pública del **art. 26.2** se hace “con carácter previo a la elaboración del texto”, así que todavía no hay texto articulado que enseñar. El texto se publica después, en la audiencia e información públicas (art. 26.6)."
+ ],
+ "ojo": "Orden fácil de recordar: primero la consulta, sin texto; después la audiencia, ya con el texto."
+},
+"au-27-005": {
+ "bloque": "iniciativa",
+ "precepto": "Art. 26.2 de la Ley 50/1997",
+ "correcta": 1,
+ "justificaciones": [
+  "No. Es justo al revés: si la propuesta regula aspectos parciales de una materia, se puede prescindir de la consulta (art. 26.2, supuesto e).",
+  "Es esta. El **art. 26.2** dice que la consulta se hace “a través del portal web del departamento competente”. El departamento es el ministerio que lleva la norma.",
+  "No. “En cualquier caso” es demasiado. El art. 26.2 enumera seis casos en los que se puede prescindir de la consulta, como las normas presupuestarias u organizativas o la tramitación urgente.",
+  "No. Te han cambiado la clase de días. El art. 26.2 dice que el tiempo no será inferior a quince días **naturales**, no hábiles."
+ ],
+ "ojo": "Confusión típica: la consulta pública previa dura al menos 15 días naturales (art. 26.2); la audiencia e información públicas, al menos 15 días hábiles (art. 26.6)."
+},
+"au-27-006": {
+ "bloque": "iniciativa",
+ "precepto": "Art. 26.3 de la Ley 50/1997",
+ "correcta": 0,
+ "justificaciones": [
+  "Esta es la falsa, y por eso es la que hay que marcar. El **art. 26.3.g)** pide un resumen de las aportaciones recibidas en el trámite de **consulta pública** (art. 26.2). Te han cambiado ese trámite por el de “audiencia e información pública”, que es otro distinto (art. 26.6).",
+  "Es verdadera, así que no se marca. La adecuación de la norma al reparto de competencias es el apartado c) del art. 26.3.",
+  "Es verdadera, así que no se marca. La oportunidad de la propuesta y las alternativas estudiadas son el apartado a) del art. 26.3.",
+  "Es verdadera, así que no se marca. El impacto económico y presupuestario es el apartado d) del art. 26.3."
+ ],
+ "ojo": "La opción falsa solo cambia el nombre del trámite. Por eso conviene distinguir bien consulta pública y audiencia e información públicas."
+},
+"au-27-007": {
+ "bloque": "iniciativa",
+ "precepto": "Art. 25.4 de la Ley 50/1997",
+ "correcta": 2,
+ "justificaciones": [
+  "No. El art. 25.4 no menciona a este ministerio para coordinar el plan. Es un distractor con el nombre de otro ministerio.",
+  "No. El Consejo de Ministros no coordina el plan: lo recibe para aprobarlo (art. 25.4).",
+  "Es esta. El **art. 25.4** dice que el plan estará coordinado por el Ministerio de la Presidencia. Su objetivo es asegurar la congruencia de las iniciativas y evitar cambios sucesivos de la regulación de un sector en poco tiempo.",
+  "No. Al Gobierno le toca aprobar el plan (art. 25.1), no coordinarlo."
+ ],
+ "ojo": "Quién hace qué: coordina el Ministerio de la Presidencia, eleva su Ministro antes del 30 de abril, y lo aprueba el Gobierno en Consejo de Ministros."
+},
+"au-27-008": {
+ "bloque": "iniciativa",
+ "precepto": "Art. 25.4 de la Ley 50/1997",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. El **art. 25.4** dice que “el Ministro de la Presidencia elevará el Plan al Consejo de Ministros para su aprobación antes del 30 de abril”. Tiene lógica: su ministerio es también el que coordina el plan.",
+  "No. El art. 25.4 no le da ningún papel al Ministro de Economía. Te cambian de ministro aprovechando que el plan puede afectar a la economía.",
+  "No. Tampoco es el Ministro de Hacienda. El art. 25.4 nombra al Ministro de la Presidencia.",
+  "No. Parecido engañoso: “Presidente del Gobierno” no es lo mismo que “Ministro de la Presidencia”. Quien eleva el plan es este último."
+ ],
+ "ojo": "Cuidado con confundir “Presidente” y “de la Presidencia”: son dos cargos distintos."
+},
+"au-27-009": {
+ "bloque": "iniciativa",
+ "precepto": "Art. 25.1 de la Ley 50/1997",
+ "correcta": 3,
+ "justificaciones": [
+  "No. Acierta en “anualmente”, pero el art. 25.1 dice que lo aprueba el Gobierno, no su Presidente.",
+  "No. Las Cortes Generales aprueban leyes, pero este plan es un instrumento del Gobierno: lo aprueba él (art. 25.1).",
+  "No. Acierta en el órgano, pero falla en la frecuencia: es anual, no semestral.",
+  "Es esta. El **art. 25.1 de la Ley 50/1997** dice: “El Gobierno aprobará anualmente un Plan Normativo” con las iniciativas que se elevarán para su aprobación el año siguiente. Ya lo dice su nombre: Plan Anual Normativo."
+ ]
+},
+"au-27-010": {
+ "bloque": "iniciativa",
+ "precepto": "Art. 26.6 de la Ley 50/1997",
+ "correcta": 2,
+ "justificaciones": [
+  "No. Te han cambiado el plazo y la clase de días: no son 20 días naturales, sino 15 días hábiles (art. 26.6).",
+  "No. La urgencia no permite omitir este trámite: lo que hace es acortarlo, hasta un mínimo de siete días hábiles (arts. 26.6 y 27.2.b). Lo que sí se puede saltar por urgencia es la consulta pública previa.",
+  "Es esta. El **art. 26.6** fija un plazo mínimo de 15 días hábiles para la audiencia e información públicas. Puede reducirse hasta siete días hábiles si hay razones motivadas o se aplica la tramitación urgente.",
+  "No. Ese motivo sirve para prescindir de la consulta pública previa (art. 26.2), no de la audiencia. La audiencia solo puede omitirse por graves razones de interés público, y no se aplica a ciertas disposiciones presupuestarias u organizativas (art. 26.6)."
+ ],
+ "ojo": "Dos trámites, dos regímenes: la urgencia y la falta de impacto económico permiten saltarse la consulta previa, pero no la audiencia."
+}
+}

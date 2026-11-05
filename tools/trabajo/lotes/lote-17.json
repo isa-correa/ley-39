@@ -1,0 +1,267 @@
+{
+"lote": 17,
+"casos": {},
+"calendarios": {},
+"preguntas": [
+{
+"id": "vo-01-008",
+"origen": "votaciones",
+"test": "Clase 1 - Bloque III",
+"n": 8,
+"enunciado": "En la Administración General del Estado, de conformidad con el artículo 24.1 de la Ley 50/1997, las decisiones del Gobierno de la Nación y de sus miembros revisten las formas siguientes: (ADVO-LI 2017)",
+"opciones": [
+"Reales Decretos Legislativos y Reales Decretos-Leyes, las decisiones que aprueban normas reglamentarias.",
+"Órdenes Ministeriales, las disposiciones y resoluciones de los Ministros y Secretarios de Estado.",
+"Reales Decretos acordados en Consejo de Ministros, las que aprueben normas reglamentarias de la competencia del Consejo de Ministros y las resoluciones que deban adoptar dicha forma jurídica.",
+"Reales Decretos del Ministro de Presidencia, las decisiones de las Comisiones Delegadas cuando la competencia corresponda a distintos Ministros."
+]
+},
+{
+"id": "vo-01-009",
+"origen": "votaciones",
+"test": "Clase 1 - Bloque III",
+"n": 9,
+"enunciado": "Según la Ley del Gobierno, las disposiciones y resoluciones de los Ministros revisten la forma de Órdenes Ministeriales. Cuando la disposición o resolución afecte a varios Departamentos revestirá la forma de: (GACE-LI 2017)",
+"opciones": [
+"Orden del Ministro de la Presidencia, dictada a propuesta de los Ministros interesados.",
+"Real Decreto del Ministro de la Presidencia.",
+"Real Decreto, dictado a propuesta de los Ministros interesados.",
+"Acuerdo del Consejo de Ministros, dictada a propuesta de los Ministros interesados."
+]
+},
+{
+"id": "vo-01-010",
+"origen": "votaciones",
+"test": "Clase 1 - Bloque III",
+"n": 10,
+"enunciado": "Señale, por favor, la afirmación correcta. La jerarquía entre Reglamentos: (GACE-LI 2008)",
+"opciones": [
+"No existe. La jerarquía se plantea entre leyes y reglamentos, pero no entre estos.",
+"Existe. En este sentido, los Reales Decretos Leyes y los Reales Decretos Legislativos están por encima del resto de reglamentos.",
+"Existe. Así, las disposiciones aprobadas por Real Decreto del Presidente del Gobierno están por encima de los Reales Decretos del Consejo de Ministros.",
+"Existe. Por ello, las disposiciones aprobadas por Real Decreto son jerárquicamente superiores a las Órdenes Ministeriales."
+]
+},
+{
+"id": "vo-01-011",
+"origen": "votaciones",
+"test": "Clase 1 - Bloque III",
+"n": 11,
+"enunciado": "Según el artículo 23 de la Ley 50/1997, del Gobierno, los reglamentos se ajustarán a las siguientes normas de jerarquía: (GACE-LI 2013)",
+"opciones": [
+"1º Disposiciones aprobadas por Reales Decretos Legislativos y Reales Decretos Leyes. 2º Disposiciones aprobadas por Reales Decretos del Presidente del Gobierno. 3º Disposiciones aprobadas por Reales Decretos acordados en Consejo de Ministros.",
+"1º Disposiciones aprobadas por Real Decreto del Presidente del Gobierno o del Consejo de Ministros. 2º Disposiciones aprobadas por Orden Ministerial.",
+"1º Disposiciones aprobadas por Reales Decretos Legislativos y Reales Decretos Leyes. 2º Disposiciones aprobadas por Real Decreto del Presidente del Gobierno o del Consejo de Ministros.",
+"Todos los reglamentos tendrán el mismo rango jerárquico."
+]
+},
+{
+"id": "vo-01-012",
+"origen": "votaciones",
+"test": "Clase 1 - Bloque III",
+"n": 12,
+"enunciado": "El principio de inderogabilidad singular de los reglamento implica que: (ADMVO P.I. 2015)",
+"opciones": [
+"Un reglamento no puede vulnerar las disposiciones de otro reglamento de superior jerarquía.",
+"Un reglamento no puede excepcionar singularmente las disposiciones de otro reglamento anterior.",
+"Un reglamento no puede derogar otro anterior para personas o supuestos concretos.",
+"Las resoluciones administrativas de carácter particular no podrán vulnerar lo establecido en una disposición de carácter general."
+]
+},
+{
+"id": "vo-01-013",
+"origen": "votaciones",
+"test": "Clase 1 - Bloque III",
+"n": 13,
+"enunciado": "Según la CE, la autorización de las Cortes para la redacción de un texto refundido de ley mediante Decreto Legislativo: (GACE-LI 2015)",
+"opciones": [
+"Se otorga mediante Ley de Bases y debe circunscribirse a la mera formulación de un texto único.",
+"Se otorga mediante Ley de Bases y puede incluir la regularización, aclaración y armonización los textos legales que han de ser refundidos.",
+"Se otorga mediante Ley ordinaria y puede incluir la regularización, aclaración y armonización los textos legales que han de ser refundidos.",
+"Se otorga mediante Ley ordinaria y debe circunscribirse a la mera formulación de un texto único."
+]
+},
+{
+"id": "vo-01-014",
+"origen": "votaciones",
+"test": "Clase 1 - Bloque III",
+"n": 14,
+"enunciado": "De conformidad con el artículo 82 de la Constitución Española, ¿qué caracteriza a una ley de bases? (ADMVO-PI 2016)",
+"opciones": [
+"Que fija la normativa básica del Estado.",
+"Que es de rango superior a una ley ordinaria.",
+"Que su objeto es la formación de textos articulados.",
+"Que tiene que ser convalidada por el Congreso de los Diputados."
+]
+},
+{
+"id": "vo-01-015",
+"origen": "votaciones",
+"test": "Clase 1 - Bloque III",
+"n": 15,
+"enunciado": "Indique la respuesta correcta en relación con los Decretos Legislativos: (GACE-LI 2014)",
+"opciones": [
+"Cuando una proposición de ley fuere contraria a una delegación legislativa en vigor, el Gobierno está facultado para oponerse a su tramitación.",
+"La delegación legislativa deberá otorgarse mediante una ley de bases cuando su objeto sea refundir varios textos legales.",
+"La delegación legislativa no se agota por el uso que de ella haga el Gobierno mediante la publicación de la norma correspondiente.",
+"Las leyes de delegación no podrán establecer formulas adicionales de control por ser competencia única de los Tribunales."
+]
+},
+{
+"id": "vo-01-016",
+"origen": "votaciones",
+"test": "Clase 1 - Bloque III",
+"n": 16,
+"enunciado": "Conforme a lo previsto en la Constitución Española, ¿qué órgano convalida los decretos-leyes? (GACE-LI 2014)",
+"opciones": [
+"El Gobierno.",
+"Las Cortes Generales.",
+"El Congreso.",
+"El Senado."
+]
+},
+{
+"id": "vo-01-017",
+"origen": "votaciones",
+"test": "Clase 1 - Bloque III",
+"n": 17,
+"enunciado": "De conformidad con lo establecido en el artículo 86 de la Constitución Española, el Real Decreto-Ley: (ADMVO-LI 2019)",
+"opciones": [
+"Se aprueba por el Gobierno, previa delegación del Congreso de las Diputados, en un plazo máximo de 30 días.",
+"Tiene el mismo rango jerárquico normativo que el Real Decreto del Consejo de Ministros.",
+"Debe ser inmediatamente sometido a debate y votación de totalidad al Congreso de las Diputados.",
+"Se convalida por el Congreso de las Diputados y por el Senado."
+]
+},
+{
+"id": "vo-01-018",
+"origen": "votaciones",
+"test": "Clase 1 - Bloque III",
+"n": 18,
+"enunciado": "¿En qué se diferencia un decreto-ley de un decreto legislativo? (ADMVO-PI 2021)",
+"opciones": [
+"En que el decreto legislativo no puede versar sobre materias reservadas a una ley orgánica y el decreto-ley sí.",
+"En que el decreto legislativo está previsto para redacción de textos articulados y el decreto-ley para refundir varios textos legales en uno solo.",
+"En que el decreto-ley necesita de una ley de bases que determine el alcance de su regulación y el decreto legislativo una ley ordinaria.",
+"En que el decreto-ley es una disposición legislativa provisional que se dicta por el Gobierno en caso de extraordinaria y urgente necesidad; y el decreto legislativo es fruto de una delegación expresa de las Cortes Generales en el Gobierno para dictar normas con rango de ley sobre materias determinadas."
+]
+},
+{
+"id": "vo-01-019",
+"origen": "votaciones",
+"test": "Clase 1 - Bloque III",
+"n": 19,
+"enunciado": "Según la Disposición final séptima de la Ley 39/2015 ¿cuándo producen efectos las previsiones relativas al registro electrónico y el punto de acceso general electrónico de la Administración? (Administrativos 2021 Junta Andalucía)",
+"opciones": [
+"A partir del día 2 de abril de 2021.",
+"A partir del día 2 de octubre de 2020.",
+"A los dos años de la entrada en vigor de la Ley.",
+"A partir del día 2 de octubre de 2017."
+]
+},
+{
+"id": "vo-01-020",
+"origen": "votaciones",
+"test": "Clase 1 - Bloque III",
+"n": 20,
+"enunciado": "Según el artículo 1 de la Ley 39/15, cuando resulte eficaz, proporcionado y necesario para la consecución de los fines propios del procedimiento, y de manera motivada, podrán incluirse trámites adicionales o distintos a los contemplados en esta Ley: (AUX-LI 2016)",
+"opciones": [
+"Solo mediante Ley.",
+"Reglamentariamente",
+"Por Real Decreto del Consejo de Ministros.",
+"En ningún caso."
+]
+},
+{
+"id": "vo-01-021",
+"origen": "votaciones",
+"test": "Clase 1 - Bloque III",
+"n": 21,
+"enunciado": "De acuerdo con lo previsto en el artículo 2.3 de la Ley 39/2015, no tienen la consideración de Administración Pública:",
+"opciones": [
+"La Administración General del Estado, las Administraciones de las Comunidades Autónomas y las Entidades que integran la Administración Local.",
+"Las entidades de derecho privado vinculadas o dependientes de las Administraciones Públicas.",
+"Los organismos públicos y entidades de derecho público vinculados o dependientes de las Administraciones Públicas.",
+"Ninguna de las entidades integrantes del Sector Público Institucional."
+]
+},
+{
+"id": "vo-01-022",
+"origen": "votaciones",
+"test": "Clase 1 - Bloque III",
+"n": 22,
+"enunciado": "Tendrán capacidad de obrar ante las Administraciones Públicas, de conformidad con el artículo 3 de la Ley 39/2015: (AUX-LI 2017)",
+"opciones": [
+"Solo las personas que la ostenten con arreglo a las normas civiles.",
+"Los menores de edad para el ejercicio y defensa de sus derechos e intereses, pero únicamente con la asistencia de la persona que ejerza la patria potestad, tutela o curatela.",
+"Los menores de edad para el ejercicio de aquellos de sus derechos cuya actuación esté permitida por el ordenamiento jurídico sin la asistencia de la persona que ejerza la patria potestad, tutela o curatela.",
+"Los menores incapacitados, aun cuando la extensión de la incapacitación afecte al ejercicio y defensa de los derechos o intereses de que se trate."
+]
+},
+{
+"id": "vo-01-023",
+"origen": "votaciones",
+"test": "Clase 1 - Bloque III",
+"n": 23,
+"enunciado": "Señala la respuesta incorrecta. Tendrán capacidad de obrar, de acuerdo con el artículo 3 de la Ley 39/2015:",
+"opciones": [
+"Los patrimonios independientes o autónomos cuando así lo declare expresamente la ley.",
+"Las personas físicas que la ostenten con arreglo a las normas civiles.",
+"Los grupos de afectados, cuando así se determine mediante norma reglamentaria.",
+"Las personas jurídicas que la ostenten con arreglo a las normas civiles."
+]
+},
+{
+"id": "vo-01-024",
+"origen": "votaciones",
+"test": "Clase 1 - Bloque III",
+"n": 24,
+"enunciado": "Según lo dispuesto en el artículo 4 de la Ley 39/2015, no se considerarán interesados en el procedimiento administrativo:",
+"opciones": [
+"Los que sin haberlo iniciado, tengan derechos que puedan resultar afectados por la decisión que en el mismo se adopte.",
+"Aquellos cuyos intereses legítimos, individuales o colectivos, puedan resultar afectados como consecuencia de la resolución que en el mismo se adopte y se personen en el mismo en tanto no haya recaído resolución definitiva.",
+"Quienes lo promuevan como titulares de derechos o intereses legítimos individuales o colectivos.",
+"Los que sin haberlo iniciado, tengan intereses legítimos que puedan resultar afectados por la resolución, aun cuando no se personen en el mismo."
+]
+},
+{
+"id": "vo-01-025",
+"origen": "votaciones",
+"test": "Clase 1 - Bloque III",
+"n": 25,
+"enunciado": "En relación con el régimen de representación previsto en la Ley 39/2015, de 1 de octubre, indique cuál es la respuesta correcta: (GACE-PI 2019)",
+"opciones": [
+"Para formular solicitudes, presentar declaraciones responsables, interponer recursos y actos de mero trámite deberá acreditarse la representación.",
+"La falta de acreditación de la representación no impedirá que se tenga por realizado el acto, siempre que se subsane el defecto en el plazo de 5 días.",
+"Las AA.PP podrán habilitar a personas físicas o jurídicas para la realización de determinadas transacciones electrónicas en representación del interesado.",
+"La representación deberá acreditarse mediante título notarial o resolución judicial."
+]
+},
+{
+"id": "vo-01-026",
+"origen": "votaciones",
+"test": "Clase 1 - Bloque III",
+"n": 26,
+"enunciado": "Señale la respuesta correcta en relación con la actuación en un procedimiento administrativo por medio de representante:",
+"opciones": [
+"El interesado solo puede comparecer en el procedimiento por sí mismo.",
+"Para formular solicitudes no es necesario acreditar la representación.",
+"Para presentar declaraciones responsables deberá acreditarse la representación.",
+"La falta o insuficiente acreditación de la representación impide, en todo caso, que se tenga por realizado el acto de que se trate."
+]
+},
+{
+"id": "vo-01-027",
+"origen": "votaciones",
+"test": "Clase 1 - Bloque III",
+"n": 27,
+"enunciado": "Cuando en una solicitud, escrito o comunicación figuren varios interesados, ¿con quién se efectuarán las actuaciones a que den lugar?",
+"opciones": [
+"Con el que figure en primer término.",
+"Con todos y cada uno de los interesados.",
+"Con el que figure en último término.",
+"Con el representante o interesado que expresamente hayan señalado y en su defecto, con el que figure en primer término."
+]
+}
+]
+}

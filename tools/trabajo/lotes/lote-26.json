@@ -1,0 +1,345 @@
+{
+"lote": 26,
+"casos": {},
+"calendarios": {},
+"preguntas": [
+{
+"id": "vo-12-001",
+"origen": "votaciones",
+"test": "Clase de Repaso 6 - Bloque III",
+"n": 1,
+"enunciado": "De conformidad con el artículo 112 de la Ley 39/2015, no podrán interponerse por los interesados los recursos de alzada y potestativo de reposición: (Castilla y León A2 - 2020)",
+"opciones": [
+"Contra las resoluciones.",
+"Contra los actos de trámite que deciden directa o indirectamente el fondo del asunto.",
+"Contra los actos de trámite que determinan la imposibilidad de continuar el procedimiento.",
+"Contra los actos de trámite que producen indefensión o perjuicio reparable a derechos e intereses legítimos."
+]
+},
+{
+"id": "vo-12-002",
+"origen": "votaciones",
+"test": "Clase de Repaso 6 - Bloque III",
+"n": 2,
+"enunciado": "Contra los actos firmes en vía administrativa:",
+"opciones": [
+"Se podrá interponer recurso de alzada o potestativo de reposición.",
+"Solo procederá el recurso potestativo de reposición.",
+"Solo procederá el recurso extraordinario de revisión cuando concurra alguna de las circunstancias previstas en el artículo 125.1.",
+"Solo procederá el recurso de alzada."
+]
+},
+{
+"id": "vo-12-003",
+"origen": "votaciones",
+"test": "Clase de Repaso 6 - Bloque III",
+"n": 3,
+"enunciado": "De conformidad con el artículo 114 de la LPACAP, ponen fin a la vía administrativa: (Diputación de Soria A2 – 2025)",
+"opciones": [
+"Las resoluciones de los recursos de alzada.",
+"Las resoluciones de los órganos administrativos que carezcan de superior jerárquico.",
+"Los acuerdos, pactos, convenios o contratos que tengan la consideración de finalizadores del procedimiento.",
+"Todas las respuestas anteriores son correctas."
+]
+},
+{
+"id": "vo-12-004",
+"origen": "votaciones",
+"test": "Clase de Repaso 6 - Bloque III",
+"n": 4,
+"enunciado": "De conformidad con el artículo 114 de la LPACAP, ponen fin a la vía administrativa, señale la respuesta CORRECTA:",
+"opciones": [
+"Los actos administrativos de los miembros y órganos del Gobierno.",
+"Los emanados de los Ministros y Secretarios Generales.",
+"Los emanados de los órganos directivos con nivel de Subdirector General o superior, en materia de personal.",
+"En los Organismos Públicos y entidades de derecho público vinculados o dependientes de la AGE, los emanados de los máximos órganos de dirección, salvo que por reglamentos se establezca otra cosa."
+]
+},
+{
+"id": "vo-12-005",
+"origen": "votaciones",
+"test": "Clase de Repaso 6 - Bloque III",
+"n": 5,
+"enunciado": "De acuerdo con la ley 39/2015, ¿Qué sucede si una persona recurre un acto administrativo, pero al interponer el recurso comete el error de no calificarlo o denominarlo como tal?: (Castilla la Mancha C1 – 2025)",
+"opciones": [
+"Será inadmitido por el órgano receptor del escrito.",
+"No será obstáculo para su tramitación, siempre que se deduzca su verdadero carácter.",
+"Será desestimado por el órgano competente para resolver.",
+"No se puede resolver hasta que lo denomine correctamente, concediendo al interesado un plazo de subsanación para ello."
+]
+},
+{
+"id": "vo-12-006",
+"origen": "votaciones",
+"test": "Clase de Repaso 6 - Bloque III",
+"n": 6,
+"enunciado": "Según el artículo 116 de la Ley 39/2015, NO será causa de inadmisión de un recurso administrativo: (Diputación de Valladolid A1 – 2023)",
+"opciones": [
+"Carecer el recurso manifiestamente de fundamento.",
+"Ausencia de calificación del recurso por parte del recurrente",
+"Carecer de legitimación el recurrente.",
+"Tratarse de un acto no susceptible de recurso."
+]
+},
+{
+"id": "vo-12-007",
+"origen": "votaciones",
+"test": "Clase de Repaso 6 - Bloque III",
+"n": 7,
+"enunciado": "Según el art. 117 de la LPACAP, en relación con la suspensión de la ejecución, señale la respuesta CORRECTA: (CARM C1 – 2026)",
+"opciones": [
+"El órgano superior jerárquico del competente para resolver el recurso, suspenderá la ejecución del acto impugnado cuando la ejecución pudiera causar perjuicios de imposible o difícil reparación.",
+"La ejecución del acto impugnado se entenderá suspendida si transcurrido tres meses desde que la solicitud haya tenido entrada en el registro electrónico competente, el órgano a quien competa resolver no ha dictado y notificado resolución expresa.",
+"El órgano competente para resolver podrá suspender la ejecución del acto impugnado cuando la impugnación se fundamente en alguna de las causas de anulabilidad.",
+"Cuando el interesado lo solicite previamente, la suspensión se prolongará después de agotada la vía administrativa, cuando exista medida cautelar y los efectos de esta se extiendan a la vía contencioso- administrativa."
+]
+},
+{
+"id": "vo-12-008",
+"origen": "votaciones",
+"test": "Clase de Repaso 6 - Bloque III",
+"n": 8,
+"enunciado": "No tienen carácter de documentos nuevos a los efectos del artículo 118 LPAC:",
+"opciones": [
+"El recurso, los informes y las resoluciones.",
+"El recurso, las pruebas y las propuestas.",
+"La solicitud, los informes y las resoluciones.",
+"El recurso, los informes y las propuestas."
+]
+},
+{
+"id": "vo-12-009",
+"origen": "votaciones",
+"test": "Clase de Repaso 6 - Bloque III",
+"n": 9,
+"enunciado": "De acuerdo con la Ley 39/2015, el órgano que resuelva un recurso administrativo decidirá: (GVA C1 – 2026)",
+"opciones": [
+"Únicamente sobre las cuestiones que planteen los interesados, tanto si son de forma como de fondo.",
+"Cuantas cuestiones, tanto de forma como de fondo, plantee el procedimiento, hayan sido o no alegadas por los interesados.",
+"Únicamente sobre las cuestiones de fondo que planteen los interesados, sin perjuicio de poder decidir también sobre cualquier cuestión de forma que plantee el procedimiento.",
+"Únicamente sobre las cuestiones de fondo que planteen los interesados."
+]
+},
+{
+"id": "vo-12-010",
+"origen": "votaciones",
+"test": "Clase de Repaso 6 - Bloque III",
+"n": 10,
+"enunciado": "Según la Ley 39/2015, cuando deban resolverse una pluralidad de recursos administrativos que traigan causa de un mismo acto administrativo y se hubiera interpuesto un recurso judicial contra una resolución administrativa o bien contra el correspondiente acto presunto desestimatorio, el órgano administrativo: (Castilla la Mancha A2 – 2025)",
+"opciones": [
+"Podrá acordar la suspensión del plazo para resolver hasta que recaiga pronunciamiento judicial, únicamente si ha sido solicitado por algún interesado.",
+"Deberá acordar, en todo caso, la suspensión del plazo para resolver hasta que recaiga pronunciamiento judicial.",
+"Deberá acordar la suspensión del plazo para resolver hasta que recaiga pronunciamiento judicial, siempre que lo solicite algún interesado.",
+"Podrá acordar la suspensión del plazo para resolver hasta que recaiga pronunciamiento judicial."
+]
+},
+{
+"id": "vo-12-011",
+"origen": "votaciones",
+"test": "Clase de Repaso 6 - Bloque III",
+"n": 11,
+"enunciado": "De acuerdo con el artículo 121 de la Ley 39/2015, el recurso de alzada se podrá interponer contra resoluciones y actos que no pongan fin a la vía administrativa: (Girona A2 – 2023)",
+"opciones": [
+"Únicamente ante el órgano competente para resolverlo.",
+"Ante el órgano competente para resolverlo o ante el órgano que dictó el acto que se impugna, debiendo resolverlo en todo caso el órgano competente.",
+"Únicamente ante el órgano que dictó el acto que se impugna y este deberá remitirlo al competente en el plazo de 10 días, con su informe y con una copia completa y ordenada del expediente.",
+"Únicamente ante el órgano que dictó el acto que se impugna, que en todo caso es el mismo que el competente para resolver."
+]
+},
+{
+"id": "vo-12-012",
+"origen": "votaciones",
+"test": "Clase de Repaso 6 - Bloque III",
+"n": 12,
+"enunciado": "En virtud del artículo 122 de la Ley 39/2015: (Seguridad Social C1 – 2023)",
+"opciones": [
+"El plazo para la interposición del recurso de alzada será de un mes, si el acto fuera expreso.",
+"Si el acto no fuera expreso, no se podrá interponer recurso de alzada.",
+"El plazo para la interposición del recurso de alzada será de tres meses, si el acto no fuera expreso.",
+"El plazo para la interposición del recurso de alzada será de tres meses, si el acto fuera expreso."
+]
+},
+{
+"id": "vo-12-013",
+"origen": "votaciones",
+"test": "Clase de Repaso 6 - Bloque III",
+"n": 13,
+"enunciado": "De conformidad con el artículo 122 de la Ley 39/2015, el plazo máximo para notificar la resolución de un recurso de alzada será: (Seguridad Social C1 – 2025)",
+"opciones": [
+"Un mes y contra su resolución no cabrá ningún otro recurso administrativo, salvo el recurso extraordinario de revisión, en los casos establecidos en el artículo 125.1.",
+"Tres meses y contra su resolución no cabrá ningún otro recurso administrativo, salvo el recurso extraordinario de revisión, en los casos establecidos en el artículo 125.1.",
+"Dos meses y contra su resolución no cabrá ningún otro recurso administrativo.",
+"Tres meses y contra su resolución no cabrá ningún otro recurso administrativo."
+]
+},
+{
+"id": "vo-12-014",
+"origen": "votaciones",
+"test": "Clase de Repaso 6 - Bloque III",
+"n": 14,
+"enunciado": "De acuerdo con el artículo 123 de la Ley 39/2015, los actos que ponen fin a la vía administrativa podrán ser recurridos potestativamente en reposición o impugnados directamente en vía contencioso-administrativo. En todo caso: (Girona A2 – 2023)",
+"opciones": [
+"No se podrá interponer recurso contencioso-administrativo hasta que sea resuelto expresamente el recurso de reposición interpuesto, o hasta que se haya producido su desestimación presunta.",
+"En caso de interponerse los dos al mismo tiempo, se deberá suspender la resolución del recurso potestativo de reposición hasta que se resuelva el recurso contencioso-administrativo.",
+"No se podrá interponer recurso de reposición si no se ha resuelto el recurso contencioso-administrativo.",
+"En caso de interponerse los dos al mismo tiempo, prevalecerá el que se resuelva en primer lugar."
+]
+},
+{
+"id": "vo-12-015",
+"origen": "votaciones",
+"test": "Clase de Repaso 6 - Bloque III",
+"n": 15,
+"enunciado": "Señale la opción CORRECTA. Según la Ley 39/2015, cabe la interposición de recurso de reposición: (GVA A1 – 2025)",
+"opciones": [
+"Ante los actos que no pongan fin a la vía administrativa.",
+"Ante los actos que sean firmes.",
+"Solo ante resoluciones, nunca ante actos de trámite.",
+"En el plazo de un mes."
+]
+},
+{
+"id": "vo-12-016",
+"origen": "votaciones",
+"test": "Clase de Repaso 6 - Bloque III",
+"n": 16,
+"enunciado": "El plazo máximo para dictar y notificar la resolución del recurso potestativo de reposición será de: (Ayuntamiento Vall d´Uixó A2 – 2023)",
+"opciones": [
+"1 mes.",
+"3 meses.",
+"No hay plazo.",
+"Ninguna de las tres es correcta."
+]
+},
+{
+"id": "vo-12-017",
+"origen": "votaciones",
+"test": "Clase de Repaso 6 - Bloque III",
+"n": 17,
+"enunciado": "Según la Ley 39/2015, contra los actos firmes en vía administrativa podrá interponerse el recurso extraordinario de revisión ante el órgano administrativo que los dictó, que también será el competente para su resolución, cuando concurra alguna de las circunstancias siguientes: (Ayuntamiento Arredondo A2 – 2024)",
+"opciones": [
+"Que al dictarlos se hubiera incurrido en error de derecho, que resulte de los propios documentos incorporados al expediente o no incorporados.",
+"Que aparezcan documentos de valor esencial para la resolución del asunto que, aunque sean posteriores, evidencien el error de la resolución recurrida.",
+"Que en la resolución hayan influido testimonios, sean o no, declarados falsos por sentencia judicial firme, anterior o posterior a aquella resolución.",
+"Que la resolución se hubiese dictado como consecuencia de malversación y maquinación fraudulenta y se haya declarado así en virtud de sentencia judicial firme."
+]
+},
+{
+"id": "vo-12-018",
+"origen": "votaciones",
+"test": "Clase de Repaso 6 - Bloque III",
+"n": 18,
+"enunciado": "El recurso extraordinario de revisión (señale la respuesta INCORRECTA): (Murcia A1 – 2020)",
+"opciones": [
+"Se interpone ante el órgano administrativo que dictó el acto recurrido que será también el competente para su resolución.",
+"Transcurrido el plazo de tres meses desde la interposición sin haberse dictado y notificado la resolución, se entenderá desestimado, quedando expedita la vía jurisdiccional contencioso-administrativa.",
+"Cabe contra actos firmes en vía administrativa.",
+"El plazo de interposición del recurso extraordinario de revisión será de tres meses, cuando al dictar el acto recurrido se hubiera incurrido en error de hecho, que resulte de los propios documentos incorporados al expediente."
+]
+},
+{
+"id": "vo-12-019",
+"origen": "votaciones",
+"test": "Clase de Repaso 6 - Bloque III",
+"n": 19,
+"enunciado": "En cuanto al recurso extraordinario de revisión: (Castilla y León A2 - 2020)",
+"opciones": [
+"Una vez transcurrido el plazo legal para resolver, sin que se haya dictado y notificado la resolución, se entenderá que el silencio administrativo es negativo.",
+"Una vez transcurrido el plazo legal para resolver, sin que se haya dictado y notificado la resolución, cabe el recurso de reposición.",
+"Una vez transcurrido el plazo legal para resolver, sin que se haya dictado y notificado la resolución, se entenderá que el silencio administrativo es positivo.",
+"Una vez transcurrido el plazo legal para resolver, sin que se haya dictado y notificado la resolución, cabe el recurso de alzada."
+]
+},
+{
+"id": "vo-12-020",
+"origen": "votaciones",
+"test": "Clase de Repaso 6 - Bloque III",
+"n": 20,
+"enunciado": "Señale la respuesta correcta en relación a las disposiciones de carácter general: (Castilla La Mancha A1 – 2025)",
+"opciones": [
+"Las disposiciones administrativas podrán vulnerar los preceptos de otra de rango superior, siempre que produzcan efectos favorables a los interesados.",
+"Los reglamentos no podrán establecer exacciones parafiscales.",
+"Los reglamentos podrán tipificar infracciones y sanciones en los términos establecidos por las leyes.",
+"Los reglamentos son el instrumento jurídico adecuado para establecer tributos."
+]
+},
+{
+"id": "vo-12-021",
+"origen": "votaciones",
+"test": "Clase de Repaso 6 - Bloque III",
+"n": 21,
+"enunciado": "Según el artículo 129 de la Ley 39/2015, ¿Cuál de los siguientes NO es un principio de buena regulación relativo al ejercicio de la potestad reglamentaria?: (GVA A2 – 2026)",
+"opciones": [
+"Principio de proporcionalidad.",
+"Principio de transparencia.",
+"Principio de seguridad jurídica.",
+"Principio de integridad."
+]
+},
+{
+"id": "vo-12-022",
+"origen": "votaciones",
+"test": "Clase de Repaso 6 - Bloque III",
+"n": 22,
+"enunciado": "En la elaboración de los reglamentos, la consulta pública debe efectuarse según el artículo 133.1 de la Ley 39/2015: (Diputación Palencia A2 – 2025)",
+"opciones": [
+"Con carácter previo a la elaboración del anteproyecto de reglamento.",
+"Tras la audiencia a las entidades afectadas.",
+"Tras la elaboración de la memoria de análisis de impacto normativo.",
+"Una vez se ha emitido el dictamen del Consejo de Estado y órgano consultivo autonómico."
+]
+},
+{
+"id": "vo-12-023",
+"origen": "votaciones",
+"test": "Clase de Repaso 6 - Bloque III",
+"n": 23,
+"enunciado": "En la consulta pública, deberá proporcionarse un tiempo suficiente, no inferior a:",
+"opciones": [
+"15 días naturales.",
+"15 días hábiles",
+"10 días naturales.",
+"10 días hábiles."
+]
+},
+{
+"id": "vo-12-024",
+"origen": "votaciones",
+"test": "Clase de Repaso 6 - Bloque III",
+"n": 24,
+"enunciado": "El plazo mínimo para la audiencia e información pública es:",
+"opciones": [
+"15 días naturales.",
+"15 días hábiles.",
+"10 días naturales.",
+"10 días hábiles."
+]
+},
+{
+"id": "vo-12-025",
+"origen": "votaciones",
+"test": "Clase de Repaso 6 - Bloque III",
+"n": 25,
+"enunciado": "El plan anual normativo:",
+"opciones": [
+"Lo coordina el Ministro de la Presidencia y lo eleva la Consejo de Ministros para su aprobación antes del 30 de abril.",
+"Lo coordina el Ministro de la Presidencia y lo eleva la Consejo de Ministros para su aprobación antes del 30 de junio.",
+"Lo coordina el Ministro correspondiente y lo eleva la Consejo de Ministros para su aprobación antes del 30 de abril.",
+"Lo coordina el Ministro de la Presidencia y lo eleva la Comisión Delegada del Gobierno para su aprobación antes del 30 de abril."
+]
+},
+{
+"id": "vo-12-026",
+"origen": "votaciones",
+"test": "Clase de Repaso 6 - Bloque III",
+"n": 26,
+"enunciado": "El informe anual de evaluación refleja:",
+"opciones": [
+"El grado de cumplimiento del informe anual de evaluación del año anterior.",
+"El grado de cumplimiento del Plan Anual Normativo del año anterior.",
+"El grado de cumplimiento del Plan Anual Normativo del año corriente.",
+"Los compromisos del Plan Anual Normativo del año anterior."
+]
+}
+]
+}

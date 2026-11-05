@@ -1,0 +1,527 @@
+{
+"lote": 2,
+"casos": {},
+"calendarios": {},
+"preguntas": [
+{
+"id": "au-03-001",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (3) - Ley 39/2015 (arts. 21 a 25)",
+"n": 1,
+"enunciado": "Según la Ley 39/2015, en procedimientos iniciados a solicitud del interesado, la desestimación por silencio administrativo:",
+"opciones": [
+"Tiene los solos efectos de permitir a los interesados la interposición del recurso administrativo o contencioso-administrativo que resulte procedente.",
+"Tiene a todos los efectos la consideración de acto administrativo finalizador del procedimiento.",
+"No permite a los interesados la interposición de ningún tipo de recurso.",
+"Exime a la Administración Pública de la obligación de dictar resolución expresa y notificarla."
+]
+},
+{
+"id": "au-03-002",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (3) - Ley 39/2015 (arts. 21 a 25)",
+"n": 2,
+"enunciado": "El certificado acreditativo del silencio producido se ha de emitir por el órgano competente para resolver, de acuerdo con el artículo 24.4 de la Ley 39/2015:",
+"opciones": [
+"A instancia de parte, cuando se solicite como prueba del acto presunto, en el plazo improrrogable de un mes.",
+"En todo caso, a instancia de parte.",
+"De oficio, en el plazo de quince días desde que expire el plazo máximo para resolver el procedimiento.",
+"De oficio, en el plazo de diez días desde que expire el plazo máximo para resolver el procedimiento."
+]
+},
+{
+"id": "au-03-003",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (3) - Ley 39/2015 (arts. 21 a 25)",
+"n": 3,
+"enunciado": "En los casos de prescripción, renuncia del derecho, caducidad del procedimiento o desistimiento de la solicitud, así como de desaparición sobrevenida del objeto del procedimiento, el artículo 21.1 de la Ley 39/2015 indica que:",
+"opciones": [
+"Se resolverá declarando la circunstancia que concurra en cada caso, indicando los hechos producidos y las normas aplicables.",
+"No hace falta resolver expresamente el procedimiento.",
+"Se emitirá un certificado de acto presunto desestimatorio por silencio.",
+"Se declarará el archivo del procedimiento sin necesidad de dictar resolución expresa."
+]
+},
+{
+"id": "au-03-004",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (3) - Ley 39/2015 (arts. 21 a 25)",
+"n": 4,
+"enunciado": "Según la Ley 39/2015, en relación con el silencio administrativo en los procedimientos iniciados a solicitud del interesado:",
+"opciones": [
+"En caso de estimación por silencio, la resolución expresa posterior solo podrá dictarse de ser confirmatoria del mismo.",
+"La desestimación tiene a todos los efectos la consideración de acto administrativo finalizador del procedimiento.",
+"Los actos producidos por silencio surten efectos desde que se expide el certificado acreditativo del mismo.",
+"El silencio tendrá efecto estimatorio en los procedimientos relativos al ejercicio del derecho de petición."
+]
+},
+{
+"id": "au-03-005",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (3) - Ley 39/2015 (arts. 21 a 25)",
+"n": 5,
+"enunciado": "Dispone el artículo 21 de la Ley 39/2015 que no será obligatorio dictar resolución expresa y notificarla:",
+"opciones": [
+"En los procedimientos relativos al ejercicio de derechos sometidos únicamente al deber de declaración responsable.",
+"En los supuestos de caducidad del procedimiento.",
+"En los supuestos de desistimiento de la solicitud.",
+"En todo caso será obligatorio dictar resolución expresa y notificarla."
+]
+},
+{
+"id": "au-03-006",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (3) - Ley 39/2015 (arts. 21 a 25)",
+"n": 6,
+"enunciado": "El transcurso del plazo máximo legal para resolver un procedimiento y notificar la resolución, cuando deban realizarse pruebas técnicas o análisis contradictorios o dirimentes propuestas por los interesados:",
+"opciones": [
+"Se suspenderá durante el tiempo necesario para la realización de dichas pruebas.",
+"No podrá suspenderse en ningún caso.",
+"Se podrá suspender, durante el tiempo necesario para la incorporación de los resultados al expediente.",
+"Se suspenderá durante el tiempo necesario para la incorporación de los resultados al expediente."
+]
+},
+{
+"id": "au-03-007",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (3) - Ley 39/2015 (arts. 21 a 25)",
+"n": 7,
+"enunciado": "En procedimientos iniciados a solicitud del interesado, el vencimiento del plazo máximo sin haberse notificado la resolución:",
+"opciones": [
+"Legitima al interesado para entenderla estimada por silencio administrativo, excepto en los supuestos en que una norma con rango de ley, de Derecho de la Unión Europea, o de Derecho internacional aplicable en España, establezcan lo contrario.",
+"Legitima al interesado para entenderla desestimada por silencio administrativo, excepto en los supuestos en que una norma con rango de ley, de Derecho de la Unión Europea, o de Derecho internacional aplicable en España, establezcan lo contrario.",
+"Legitima al interesado para entenderla estimada por silencio administrativo en cualquier caso.",
+"Legitima al interesado para entenderla desestimada por silencio administrativo en cualquier caso."
+]
+},
+{
+"id": "au-03-008",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (3) - Ley 39/2015 (arts. 21 a 25)",
+"n": 8,
+"enunciado": "Cuando las normas reguladoras de un procedimiento no fijen plazo máximo para notificar una resolución expresa, este será de:",
+"opciones": [
+"Tres meses.",
+"Seis meses.",
+"Doce meses.",
+"Dos meses."
+]
+},
+{
+"id": "au-03-009",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (3) - Ley 39/2015 (arts. 21 a 25)",
+"n": 9,
+"enunciado": "Según el artículo 23 de la Ley 39/2015, contra el acuerdo que resuelva sobre la ampliación del plazo máximo para resolver y notificar:",
+"opciones": [
+"Podrá interponerse recurso de alzada.",
+"Podrá interponerse recurso extraordinario de revisión.",
+"Podrá interponerse recurso potestativo de reposición.",
+"No cabrá recurso alguno."
+]
+},
+{
+"id": "au-03-010",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (3) - Ley 39/2015 (arts. 21 a 25)",
+"n": 10,
+"enunciado": "Según el artículo 21 de la Ley 39/2015, el plazo máximo en el que debe notificarse la resolución expresa:",
+"opciones": [
+"No podrá exceder en ningún caso de seis meses.",
+"No podrá exceder en ningún caso de doce meses.",
+"No podrá exceder en ningún caso de tres meses.",
+"Es el fijado por la norma reguladora del correspondiente procedimiento."
+]
+},
+{
+"id": "au-03-011",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (3) - Ley 39/2015 (arts. 21 a 25)",
+"n": 11,
+"enunciado": "En relación con el certificado acreditativo del silencio administrativo, dispone el artículo 24 de la Ley 39/2015 que:",
+"opciones": [
+"Podrá pedirlo el interesado en cualquier momento.",
+"Se expedirá siempre de oficio por el órgano competente para resolver, en el plazo de diez días.",
+"Podrá pedirlo el interesado, siempre y cuando haya expirado el plazo para expedirlo por el órgano competente para resolver.",
+"Podrá pedirse por el interesado en el plazo de treinta días desde el vencimiento del plazo para resolver."
+]
+},
+{
+"id": "au-03-012",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (3) - Ley 39/2015 (arts. 21 a 25)",
+"n": 12,
+"enunciado": "Según el artículo 24 de la Ley 39/2015, ¿qué efecto tendrá el silencio administrativo en procedimientos que impliquen el ejercicio de actividades que puedan dañar el medio ambiente?",
+"opciones": [
+"Desestimatorio.",
+"Estimatorio.",
+"El que establezca una norma de Derecho internacional.",
+"El que establezca una norma de Derecho de la Unión Europea."
+]
+},
+{
+"id": "au-03-013",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (3) - Ley 39/2015 (arts. 21 a 25)",
+"n": 13,
+"enunciado": "Indique la opción correcta. A tenor de lo establecido en el artículo 24.3.b de la Ley 39/2015, en los casos de desestimación por silencio administrativo, la resolución posterior al vencimiento del plazo:",
+"opciones": [
+"Sólo podrá dictarse en caso de ser desestimatoria de la solicitud.",
+"Sólo podrá dictarse en caso de ser estimatoria de la solicitud.",
+"Se adoptará por la Administración con un contenido vinculado al silencio administrativo.",
+"Se adoptará por la Administración sin vinculación alguna al sentido del silencio."
+]
+},
+{
+"id": "au-03-014",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (3) - Ley 39/2015 (arts. 21 a 25)",
+"n": 14,
+"enunciado": "Según el artículo 21 de la Ley 39/2015, en procedimientos iniciados de oficio, el plazo máximo en el que debe notificarse la resolución expresa se contará:",
+"opciones": [
+"Desde la fecha de la notificación del acuerdo de inicio al interesado.",
+"Desde la fecha en que el acuerdo de iniciación haya tenido salida del registro electrónico de la Administración competente.",
+"Desde la fecha de la denuncia administrativa.",
+"Desde la fecha del acuerdo de iniciación."
+]
+},
+{
+"id": "au-03-015",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (3) - Ley 39/2015 (arts. 21 a 25)",
+"n": 15,
+"enunciado": "El transcurso del plazo máximo legal para resolver un procedimiento y notificar la resolución se suspenderá, de acuerdo con el artículo 22.2 de la Ley 39/2015:",
+"opciones": [
+"Cuando se acuerde la ampliación de los plazos para resolver.",
+"Cuando se acuerde un periodo extraordinario de prueba.",
+"Cuando los interesados promuevan la recusación en cualquier momento de la tramitación de un procedimiento.",
+"Mientras se acuerda la tramitación simplificada del procedimiento."
+]
+},
+{
+"id": "au-03-016",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (3) - Ley 39/2015 (arts. 21 a 25)",
+"n": 16,
+"enunciado": "De acuerdo con el artículo 21.1 de la Ley 39/2015, la Administración está obligada a dictar resolución expresa y a notificarla en todos los procedimientos:",
+"opciones": [
+"Salvo en aquellos que se inicien de oficio.",
+"Salvo en aquellos que se inicien en virtud de denuncia.",
+"Salvo en aquellos que se inicien por solicitud del interesado.",
+"Cualquiera que sea su forma de iniciación."
+]
+},
+{
+"id": "au-03-017",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (3) - Ley 39/2015 (arts. 21 a 25)",
+"n": 17,
+"enunciado": "Se exceptúan de la obligación de resolver y notificar los supuestos de terminación del procedimiento por:",
+"opciones": [
+"Pacto o convenio.",
+"Desaparición sobrevenida del objeto del procedimiento.",
+"Caducidad del procedimiento o desistimiento de la solicitud.",
+"Renuncia del derecho."
+]
+},
+{
+"id": "au-03-018",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (3) - Ley 39/2015 (arts. 21 a 25)",
+"n": 18,
+"enunciado": "Cuando el plazo máximo en el que debe notificarse la resolución expresa venga fijado por una norma de rango reglamentario, dicho plazo no podrá exceder de:",
+"opciones": [
+"Seis meses.",
+"Un año.",
+"Doce meses.",
+"Tres meses."
+]
+},
+{
+"id": "au-03-019",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (3) - Ley 39/2015 (arts. 21 a 25)",
+"n": 19,
+"enunciado": "Señale la respuesta correcta en relación con los procedimientos relativos al ejercicio de derechos sometidos únicamente al deber de declaración responsable o comunicación a la Administración:",
+"opciones": [
+"La Administración está obligada a dictar resolución expresa, pero no será precisa su notificación.",
+"La Administración está obligada a dictar resolución expresa y a notificarla.",
+"La resolución consistirá en la declaración de la circunstancia que concurra en cada caso, con indicación de los hechos producidos y las normas aplicables.",
+"Se exceptúan de la obligación de dictar y notificar resolución expresa."
+]
+},
+{
+"id": "au-03-020",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (3) - Ley 39/2015 (arts. 21 a 25)",
+"n": 20,
+"enunciado": "En los procedimientos iniciados a solicitud del interesado, el plazo máximo en el que debe notificarse la resolución expresa se contará:",
+"opciones": [
+"Desde la fecha en que la solicitud haya tenido entrada en el registro electrónico de la Administración u Organismo competente para su tramitación.",
+"Desde la fecha del acuerdo de iniciación.",
+"Desde la fecha en que la solicitud haya tenido entrada en el registro electrónico de la Administración u Organismo competente para su resolución.",
+"Desde la fecha de la solicitud."
+]
+},
+{
+"id": "au-04-001",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (4) - Ley 39/2015 (arts. 21 a 25)",
+"n": 1,
+"enunciado": "Señale la respuesta correcta en relación con los actos administrativos producidos por silencio administrativo:",
+"opciones": [
+"Solo se podrán hacer valer ante la Administración.",
+"Producen efectos desde el vencimiento del plazo máximo en el que debe dictarse y notificarse la resolución expresa sin que la misma se haya expedido.",
+"Producen efectos desde el día en que se expida el certificado acreditativo del silencio producido.",
+"Producen efectos desde el día siguiente a aquel en que se expida el certificado acreditativo del silencio producido."
+]
+},
+{
+"id": "au-04-002",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (4) - Ley 39/2015 (arts. 21 a 25)",
+"n": 2,
+"enunciado": "El plazo máximo en el que la Administración debe notificar la resolución expresa, salvo que una norma con rango de Ley establezca uno mayor o así venga previsto en el Derecho de la Unión Europea, no podrá exceder de:",
+"opciones": [
+"Seis meses.",
+"Doce meses",
+"Nueve meses.",
+"Tres meses."
+]
+},
+{
+"id": "au-04-003",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (4) - Ley 39/2015 (arts. 21 a 25)",
+"n": 3,
+"enunciado": "Según el artículo 22 de la Ley 39/2015, “se suspenderá” el transcurso del plazo máximo legal para resolver un procedimiento y notificar la resolución del mismo:",
+"opciones": [
+"Cuando se soliciten informes preceptivos a un órgano de la misma o distinta Administración.",
+"Cuando deban realizarse pruebas técnicas o análisis contradictorios o dirimentes propuestos por los interesados.",
+"Cuando para la resolución del procedimiento sea indispensable la obtención de un previo pronunciamiento judicial.",
+"Cuando el órgano competente para resolver decida realizar alguna actuación complementaria de las previstas en el artículo 87."
+]
+},
+{
+"id": "au-04-004",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (4) - Ley 39/2015 (arts. 21 a 25)",
+"n": 4,
+"enunciado": "De acuerdo con el artículo 24 de la Ley 39/2015, la obligación de dictar resolución expresa a que se refiere el apartado primero del artículo 21, se sujetará al siguiente régimen:",
+"opciones": [
+"En los casos de estimación por silencio administrativo, no es necesario dictar la resolución expresa posterior a la producción del acto.",
+"En los casos de estimación por silencio administrativo, la resolución expresa posterior a la producción del acto podrá dictarse sin vinculación alguna al sentido del silencio.",
+"En los casos de desestimación por silencio administrativo, la resolución expresa posterior al vencimiento del plazo se adoptará por la Administración confirmando la desestimación.",
+"En los casos de desestimación por silencio administrativo, la resolución expresa posterior al vencimiento del plazo se adoptará por la Administración sin vinculación alguna al sentido del silencio."
+]
+},
+{
+"id": "au-04-005",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (4) - Ley 39/2015 (arts. 21 a 25)",
+"n": 5,
+"enunciado": "Según el artículo 25 de la Ley 39/2015, ¿qué efecto produce la falta de resolución expresa en procedimientos sancionadores?",
+"opciones": [
+"La caducidad del procedimiento.",
+"La prescripción de la infracción.",
+"Los interesados que hubieren comparecido podrán entender desestimadas sus pretensiones por silencio administrativo.",
+"El interesado podrá entender estimadas sus pretensiones por silencio administrativo."
+]
+},
+{
+"id": "au-04-006",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (4) - Ley 39/2015 (arts. 21 a 25)",
+"n": 6,
+"enunciado": "La estimación por silencio administrativo en procedimientos iniciados a solicitud del interesado:",
+"opciones": [
+"Tiene los solos efectos de permitir a los interesados la interposición del recurso que resulte procedente.",
+"Tiene a todos los efectos la consideración de resolución expresa.",
+"Tiene a todos los efectos la consideración de acto administrativo finalizador del procedimiento.",
+"No podrá producirse en ningún caso."
+]
+},
+{
+"id": "au-04-007",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (4) - Ley 39/2015 (arts. 21 a 25)",
+"n": 7,
+"enunciado": "Indique cuál de las siguientes afirmaciones relativas a la obligación de resolver es conforme con lo dispuesto en la Ley 39/2015:",
+"opciones": [
+"Contra el acuerdo que resuelva sobre la ampliación de plazos, que deberá notificarse a los interesados, no cabrá recurso alguno.",
+"El transcurso del plazo máximo legal para resolver un procedimiento y notificar la resolución no se podrá suspender cuando se inicien negociaciones con vistas a la conclusión de un pacto o convenio.",
+"El plazo máximo en el que debe notificarse la resolución expresa será el fijado por la norma reguladora del correspondiente procedimiento. Este plazo nunca podrá exceder de seis meses.",
+"La Administración está obligada a dictar resolución expresa en todos los procedimientos, sin excepción."
+]
+},
+{
+"id": "au-04-008",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (4) - Ley 39/2015 (arts. 21 a 25)",
+"n": 8,
+"enunciado": "Según la Ley de Procedimiento Administrativo, en relación con los procedimientos iniciados de oficio, el vencimiento del plazo máximo para resolver y notificar:",
+"opciones": [
+"Producirá la caducidad del mismo, cuando se trate del ejercicio de la potestad sancionadora.",
+"Legitima a los interesados para entender estimada su solicitud.",
+"Produce por sí sola la prescripción de los derechos y las obligaciones.",
+"Producirá la caducidad del mismo cuando pudiera derivarse el reconocimiento o constitución de derechos."
+]
+},
+{
+"id": "au-04-009",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (4) - Ley 39/2015 (arts. 21 a 25)",
+"n": 9,
+"enunciado": "De acuerdo con el artículo 25 de la Ley 39/2015, en el caso de procedimientos de los que pudiera derivarse el reconocimiento o, en su caso, la constitución de derechos u otras situaciones jurídicas favorables, el vencimiento del plazo máximo establecido sin que se haya dictado y notificado resolución expresa, produce el siguiente efecto:",
+"opciones": [
+"Los interesados que hubieren comparecido podrán entender estimadas sus pretensiones por silencio administrativo.",
+"Los interesados que hubieren comparecido podrán entender desestimadas sus pretensiones por silencio administrativo.",
+"La prescripción del derecho.",
+"La caducidad del procedimiento."
+]
+},
+{
+"id": "au-04-010",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (4) - Ley 39/2015 (arts. 21 a 25)",
+"n": 10,
+"enunciado": "Según la Ley 39/2015 de procedimiento administrativo común de las Administraciones públicas, el transcurso del plazo máximo legal para resolver un procedimiento y notificar la resolución se podrá suspender:",
+"opciones": [
+"Cuando deba requerirse a cualquier interesado para la subsanación de deficiencias.",
+"Cuando deba obtenerse un pronunciamiento previo y preceptivo de un órgano de la Unión Europea.",
+"Cuando deban realizarse pruebas técnicas o análisis contradictorios o dirimentes propuestos por los interesados.",
+"Todas las respuestas anteriores son correctas."
+]
+},
+{
+"id": "au-04-011",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (4) - Ley 39/2015 (arts. 21 a 25)",
+"n": 11,
+"enunciado": "De acuerdo con el artículo 23 de la Ley 39/2015, la ampliación del plazo máximo para resolver y notificar:",
+"opciones": [
+"Podrá acordarse a petición de los interesados.",
+"Es susceptible de recurso en vía administrativa.",
+"No podrá ser superior al establecido para la tramitación del procedimiento.",
+"No podrá exceder de la mitad del establecido para la tramitación del procedimiento."
+]
+},
+{
+"id": "au-04-012",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (4) - Ley 39/2015 (arts. 21 a 25)",
+"n": 12,
+"enunciado": "Se exceptúan de la obligación de resolver y notificar los supuestos de terminación del procedimiento por:",
+"opciones": [
+"Pacto o convenio.",
+"Renuncia del derecho.",
+"Caducidad del procedimiento.",
+"Desaparición sobrevenida del objeto del procedimiento."
+]
+},
+{
+"id": "au-04-013",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (4) - Ley 39/2015 (arts. 21 a 25)",
+"n": 13,
+"enunciado": "De acuerdo con el artículo 22 de la Ley 39/2015, el transcurso del plazo máximo legal para resolver un procedimiento y notificar la resolución no se suspenderá de forma obligatoria:",
+"opciones": [
+"Cuando los interesados promuevan la recusación en cualquier momento de la tramitación de un procedimiento.",
+"Cuando el órgano competente para resolver decida realizar alguna actuación complementaria.",
+"Cuando una Administración Pública requiera a otra para que anule o revise un acto que entienda que es ilegal y que constituya la base para el que la primera haya de dictar en el ámbito de sus competencias.",
+"Cuando deban realizarse pruebas técnicas o análisis contradictorios o dirimentes propuestos por los interesados."
+]
+},
+{
+"id": "au-04-014",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (4) - Ley 39/2015 (arts. 21 a 25)",
+"n": 14,
+"enunciado": "Señale la respuesta correcta en caso de suspensión del plazo máximo para resolver y notificar como consecuencia de la solicitud de informes preceptivos a un órgano de la misma o distinta Administración:",
+"opciones": [
+"La suspensión se extenderá hasta la emisión del informe, sin que dicho plazo pueda exceder de 2 meses.",
+"La suspensión se extenderá durante el tiempo que medie entre la petición y la recepción del informe, sin que sea precisa su comunicación a los interesados.",
+"El procedimiento se mantendrá suspendido hasta la recepción del informe.",
+"El plazo de suspensión no podrá exceder en ningún caso de 3 meses."
+]
+},
+{
+"id": "au-04-015",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (4) - Ley 39/2015 (arts. 21 a 25)",
+"n": 15,
+"enunciado": "¿Puede ampliarse el plazo máximo para resolver un procedimiento administrativo?",
+"opciones": [
+"Excepcionalmente, de forma motivada.",
+"Solo en caso de procedimientos administrativos de naturaleza sancionadora.",
+"No, el plazo máximo para resolver no puede ampliarse.",
+"Con carácter general, cuando el órgano competente lo considere necesario."
+]
+},
+{
+"id": "au-04-016",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (4) - Ley 39/2015 (arts. 21 a 25)",
+"n": 16,
+"enunciado": "Conforme al artículo 24 de la Ley 39/2015, cuando el procedimiento tenga por objeto el acceso a actividades o su ejercicio, la ley que disponga el carácter desestimatorio del silencio:",
+"opciones": [
+"Será nula de pleno derecho.",
+"Deberá fundarse en la concurrencia de razones imperiosas de interés general.",
+"Deberá fundarse en la concurrencia de razones imperiosas de seguridad nacional.",
+"Deberá fundarse en la concurrencia de razones imperiosas de interés cultural."
+]
+},
+{
+"id": "au-04-017",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (4) - Ley 39/2015 (arts. 21 a 25)",
+"n": 17,
+"enunciado": "Señale la respuesta incorrecta. De acuerdo con lo dispuesto en el artículo 24 de la Ley 39/2015, de 1 de octubre, en procedimientos iniciados a solicitud del interesado, el silencio administrativo tendrá efecto desestimatorio:",
+"opciones": [
+"En los procedimientos de impugnación de actos y disposiciones.",
+"En los procedimientos de revisión de oficio.",
+"En los procedimientos que tengan por objeto el acceso a actividades o su ejercicio.",
+"En los procedimientos relativos al ejercicio del derecho de petición, a que se refiere el artículo 29 de la Constitución."
+]
+},
+{
+"id": "au-04-018",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (4) - Ley 39/2015 (arts. 21 a 25)",
+"n": 18,
+"enunciado": "Señale la respuesta correcta en relación con el régimen jurídico del silencio administrativo:",
+"opciones": [
+"La desestimación por silencio administrativo tiene a todos los efectos la consideración de acto administrativo finalizador del procedimiento.",
+"La estimación por silencio administrativo tiene los solos efectos de permitir a los interesados la interposición del recurso administrativo o contencioso-administrativo que resulte procedente.",
+"En los casos de estimación por silencio administrativo, la resolución expresa posterior al vencimiento del plazo se adoptará por la Administración sin vinculación alguna al sentido del silencio.",
+"Los actos administrativos producidos por silencio administrativo se podrán hacer valer tanto ante la Administración como ante cualquier persona física o jurídica, pública o privada."
+]
+},
+{
+"id": "au-04-019",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (4) - Ley 39/2015 (arts. 21 a 25)",
+"n": 19,
+"enunciado": "Conforme al artículo 22.1 de la Ley 39/2015, el transcurso del plazo máximo legal para resolver un procedimiento y notificar la resolución se podrá suspender:",
+"opciones": [
+"Cuando el órgano competente para resolver decida abrir un periodo de información previa.",
+"Cuando los interesados promuevan la recusación en cualquier momento de la tramitación de un procedimiento.",
+"Cuando deba obtenerse un pronunciamiento previo y preceptivo de un órgano de la Unión Europea.",
+"Cuando el órgano competente para resolver decida realizar alguna actuación complementaria de las previstas en el artículo 87."
+]
+},
+{
+"id": "au-04-020",
+"origen": "autoevaluacion",
+"test": "Temas 2-3 (4) - Ley 39/2015 (arts. 21 a 25)",
+"n": 20,
+"enunciado": "En los procedimientos iniciados por solicitud de los interesados, las Administraciones Públicas informarán a estos del plazo máximo establecido para la resolución de los procedimientos y para la notificación de los actos que les pongan término, así como de los efectos que pueda producir el silencio administrativo. Dicha mención se incluirá en la comunicación que se dirigirá al efecto al interesado dentro del plazo de:",
+"opciones": [
+"Los diez días siguientes a la recepción de la solicitud iniciadora del procedimiento en el registro electrónico de la Administración u Organismo competente para su tramitación.",
+"Los quince días siguientes a la recepción de la solicitud iniciadora del procedimiento en el registro electrónico de la Administración u Organismo competente para su tramitación.",
+"Los treinta días siguientes a la recepción de la solicitud iniciadora del procedimiento en el registro electrónico de la Administración u Organismo competente para su tramitación.",
+"Los tres meses siguientes a la recepción de la solicitud iniciadora del procedimiento en el registro electrónico de la Administración u Organismo competente para su tramitación."
+]
+}
+]
+}

@@ -1,0 +1,527 @@
+{
+"lote": 25,
+"casos": {},
+"calendarios": {},
+"preguntas": [
+{
+"id": "vo-10-001",
+"origen": "votaciones",
+"test": "Clase de repaso 4 - Bloque III",
+"n": 1,
+"enunciado": "Indique la incorrecta, en virtud del artículo 66 de la Ley 39/2015:",
+"opciones": [
+"Cuando la Administración en un procedimiento concreto establezca expresamente modelos específicos de presentación de solicitudes, éstos serán de uso potestativo por los interesados.",
+"Las Administraciones Públicas deberán establecer modelos y sistemas de presentación masiva que permitan a los interesados presentar simultáneamente varias solicitudes.",
+"Cuando las pretensiones correspondientes a una pluralidad de personas tengan un contenido y fundamento idéntico o sustancialmente similar, podrán ser formuladas en una única solicitud.",
+"De las solicitudes, comunicaciones y escritos que presenten los interesados electrónicamente o en las oficinas de asistencia en materia de registros de la Administración, podrán éstos exigir el correspondiente recibo que acredite la fecha y hora de presentación."
+]
+},
+{
+"id": "vo-10-002",
+"origen": "votaciones",
+"test": "Clase de repaso 4 - Bloque III",
+"n": 2,
+"enunciado": "Los interesados sólo podrán solicitar el inicio de un procedimiento de responsabilidad patrimonial, cuando no haya prescrito su derecho a reclamar. El derecho a reclamar prescribirá: (Girona A1 – 2024)",
+"opciones": [
+"Al mes de producido el hecho o el acto que motive la indemnización o se manifieste su efecto lesivo.",
+"Al año de producido el hecho o el acto que motive la indemnización o se manifieste su efecto lesivo.",
+"A los 6 meses de producido el hecho o el acto que motive la indemnización o se manifieste su efecto lesivo.",
+"A los 2 años de producido el hecho o el acto que motive la indemnización o se manifieste su efecto lesivo."
+]
+},
+{
+"id": "vo-10-003",
+"origen": "votaciones",
+"test": "Clase de repaso 4 - Bloque III",
+"n": 3,
+"enunciado": "El plazo que se da al solicitante para subsanar los defectos de la solicitud presentada: (GVA A2 – 2016)",
+"opciones": [
+"Será de veinte días, sin posibilidades de ampliación.",
+"Será de quince días pudiendo ser ampliado prudencialmente hasta cinco días más.",
+"Podrá ser ampliado prudencialmente, hasta cinco días, siempre que no se trate de procedimientos selectivos o de concurrencia competitiva, y la aportación de los documentos requeridos presente dificultades especiales",
+"Podrá ser ampliado prudencialmente, hasta cinco días, en todo caso."
+]
+},
+{
+"id": "vo-10-004",
+"origen": "votaciones",
+"test": "Clase de repaso 4 - Bloque III",
+"n": 4,
+"enunciado": "Según el art. 69 de la ley 39/2015, de 1 de octubre, señale la afirmación correcta: (Salamanca A2 – 2023)",
+"opciones": [
+"La declaración responsable es un documento en el que el interesado pone en conocimiento de la Administración sus datos identificativos para el ejercicio de una actividad.",
+"La declaración responsable es el documento en el que el interesado manifiesta que cumple con los requisitos establecidos en la normativa para obtener el reconocimiento de un derecho.",
+"La declaración responsable requiere necesariamente acompañarse de una comunicación para iniciar una misma actividad u obtener el reconocimiento de un mismo derecho.",
+"Tras una declaración responsable la Administración no podrá exigir al interesado que presente la documentación preceptiva que acredite el cumplimiento de la normativa."
+]
+},
+{
+"id": "vo-10-005",
+"origen": "votaciones",
+"test": "Clase de repaso 4 - Bloque III",
+"n": 5,
+"enunciado": "No formará parte del expediente administrativo: (Ayuntamiento Elche A2 – 2023)",
+"opciones": [
+"La copia electrónica certificada de la resolución adoptada.",
+"El índice numerado de los documentos que lo integran.",
+"Los informes facultativos solicitados antes de la resolución.",
+"Los ficheros informáticos."
+]
+},
+{
+"id": "vo-10-006",
+"origen": "votaciones",
+"test": "Clase de repaso 4 - Bloque III",
+"n": 6,
+"enunciado": "Según el artículo 71.1 de la Ley 39/2015, el procedimiento sometido al principio de celeridad, se impulsará de oficio en todos sus trámites y a través de medios electrónicos, respetando los principios de: (Comunidad de Madrid C1 – 2023)",
+"opciones": [
+"Eficacia y publicidad.",
+"Eficacia y transparencia.",
+"Unidad y celeridad.",
+"Transparencia y publicidad."
+]
+},
+{
+"id": "vo-10-007",
+"origen": "votaciones",
+"test": "Clase de repaso 4 - Bloque III",
+"n": 7,
+"enunciado": "En relación con el cumplimiento de trámites del artículo 73 LPAC:",
+"opciones": [
+"Los trámites que deban ser cumplimentados por interesados deberán realizarse en el plazo de 10 días a partir del día de la notificación del correspondiente acto, salvo en el caso de que en la norma correspondiente se fije plazo distinto.",
+"A los interesados que no cumplan lo dispuesto en los aportados anteriores se les podrá declarar desistido en su derecho al trámite correspondiente.",
+"Se admitirá la actuación del interesado y producirá sus efectos legales, si se produjera antes o dentro del día que se notifique la resolución en la que se tenga por transcurrido el plazo.",
+"Cuando la Administración considere que alguno de los actos de los interesados no reúne los requisitos necesarios lo pondrá en conocimiento de su autor concediéndole un plazo de 15 días para cumplimentarlo."
+]
+},
+{
+"id": "vo-10-008",
+"origen": "votaciones",
+"test": "Clase de repaso 4 - Bloque III",
+"n": 8,
+"enunciado": "De acuerdo con la Ley 39/2015, las cuestiones incidentales que se susciten en el procedimiento, incluso las que se refieran a la nulidad de actuaciones:",
+"opciones": [
+"Podrán suspender la tramitación del mismo, salvo la recusación.",
+"Suspenderán la tramitación del mismo, salvo la recusación.",
+"Podrán suspender la tramitación del mismo, incluso la recusación.",
+"No suspenderán la tramitación del mismo, salvo la recusación."
+]
+},
+{
+"id": "vo-10-009",
+"origen": "votaciones",
+"test": "Clase de repaso 4 - Bloque III",
+"n": 9,
+"enunciado": "Según el art. 75.2 de la Ley 39/2015, las aplicaciones y sistemas de información utilizados para la instrucción de los procedimientos, facilitarán:",
+"opciones": [
+"La identidad de los funcionarios actuantes.",
+"La simplificación y la publicidad de los procedimientos.",
+"La contradicción y la igualdad de los interesados en el procedimiento.",
+"Ninguna de las anteriores."
+]
+},
+{
+"id": "vo-10-010",
+"origen": "votaciones",
+"test": "Clase de repaso 4 - Bloque III",
+"n": 10,
+"enunciado": "Con respecto a la alegación de defectos de tramitación por parte de los interesados, de acuerdo con el art. 76 de la LPAC: (CARM C1 – 2026)",
+"opciones": [
+"Se pueden alegar en todo momento.",
+"Se pueden alegar en cualquier momento del procedimiento anterior al trámite de audiencia.",
+"Se pueden alegar en el plazo de 15 días siguientes al acuerdo de inicio del procedimiento.",
+"Se pueden alegar en cualquier momento antes de la práctica de la prueba."
+]
+},
+{
+"id": "vo-10-011",
+"origen": "votaciones",
+"test": "Clase de repaso 4 - Bloque III",
+"n": 11,
+"enunciado": "Conforme al artículo 77.2 de la Ley 39/2015, cuando la Administración no tenga por ciertos los hechos alegados por los interesados o la naturaleza del procedimiento lo exija, el instructor del mismo acordará la apertura de un período de prueba por un plazo: (Diputación Cáceres A1 – 2025)",
+"opciones": [
+"No superior a 10 días ni inferior a 5 días.",
+"No inferior a 15 días.",
+"No inferior a 30 días.",
+"No superior a 30 ni inferior a 10 días."
+]
+},
+{
+"id": "vo-10-012",
+"origen": "votaciones",
+"test": "Clase de repaso 4 - Bloque III",
+"n": 12,
+"enunciado": "Según el art. 77 de la LPACAP, con respecto a los medios de prueba, si el interesado alega discriminación y aporta indicios fundados sobre su existencia, señale la respuesta CORRECTA: (CARM C1 – 2026)",
+"opciones": [
+"Corresponderá al órgano instructor aportar los medios de prueba de las medias adoptadas y de su proporcionalidad.",
+"El órgano administrativo debe enviar copia electrónica del expediente a los organismos públicos competentes en materia de igualdad.",
+"Corresponderá a la persona a quien se impute la situación discriminatoria la aportación de una justificación objetiva y razonable, suficientemente probada, de las medidas adoptadas y de su proporcionalidad.",
+"La LPACAP no contempla alegaciones por discriminación en fase de prueba."
+]
+},
+{
+"id": "vo-10-013",
+"origen": "votaciones",
+"test": "Clase de repaso 4 - Bloque III",
+"n": 13,
+"enunciado": "En relación al artículo 80 de la Ley 39/2015, emisión de informes: (GVA A2 – 2025)",
+"opciones": [
+"Si debiera ser emitido por una Administración Pública distinta de la que tramita el procedimiento en orden a expresar el punto de vista correspondiente a sus competencias respectivas, y transcurriera el plazo sin que aquél se hubiera emitido, se deberán suspender las actuaciones.",
+"El informe emitido fuera de plazo no será tenido en cuenta al adoptar la correspondiente resolución.",
+"Salvo disposición expresa en contrario, los informes serán facultativos y vinculantes.",
+"De no emitirse el informe en el plazo señalado, se podrán proseguir las actuaciones salvo cuando se trate de un informe preceptivo, en cuyo caso se podrá suspender el transcurso del plazo máximo legal para resolver el procedimiento en los términos establecidos en artículo 22.1.d)."
+]
+},
+{
+"id": "vo-10-014",
+"origen": "votaciones",
+"test": "Clase de repaso 4 - Bloque III",
+"n": 14,
+"enunciado": "En relación con la solicitud de informes y dictámenes en los procedimientos de responsabilidad patrimonial, (señale la respuesta INCORRECTA):",
+"opciones": [
+"Será preceptivo solicitar informe al servicio cuyo funcionamiento haya ocasionado la presunta lesión indemnizable, no pudiendo exceder de diez días el plazo de su emisión.",
+"Cuando las indemnizaciones reclamadas sean de cuantía igual o superior a 50.000 euros, será preceptivo solicitar el dictamen del Consejo de Estado.",
+"Será preceptivo solicitar el dictamen del Consejo de Estado en las reclamaciones que, en concepto de responsabilidad patrimonial, se formulen ante la Administración General del Estado.",
+"Con carácter general, el dictamen se emitirá en el plazo máximo de dos meses."
+]
+},
+{
+"id": "vo-10-015",
+"origen": "votaciones",
+"test": "Clase de repaso 4 - Bloque III",
+"n": 15,
+"enunciado": "El trámite de audiencia en el procedimiento administrativo tendrá lugar, según el art .82 de la LPACAP:",
+"opciones": [
+"En la fase de instrucción y en un plazo no inferior a 10 días ni superior a 30 días.",
+"Iniciado el procedimiento e inmediatamente antes de la instrucción del procedimiento, y en un plazo no inferior a 20 días.",
+"Instruido el procedimiento e inmediatamente antes de redactar la propuesta de resolución, y en un plazo no inferior a 10 días ni superior a 15 días.",
+"Instruido el procedimiento y en un plazo no inferior a 15 días."
+]
+},
+{
+"id": "vo-10-016",
+"origen": "votaciones",
+"test": "Clase de repaso 4 - Bloque III",
+"n": 16,
+"enunciado": "¿Qué efectos tiene la comparecencia en el trámite de información pública, según el artículo 83 de la Ley 39/2015?: (Seguridad Social C1 – 2026)",
+"opciones": [
+"Otorga automáticamente la condición de interesado.",
+"Impide interponer recursos contra la resolución final.",
+"No otorga, por sí misma, la condición de interesado.",
+"Obliga a la Administración a suspender el procedimiento."
+]
+},
+{
+"id": "vo-10-017",
+"origen": "votaciones",
+"test": "Clase de repaso 4 - Bloque III",
+"n": 17,
+"enunciado": "Ponen fin al procedimiento administrativo: (Girona A1 – 2024)",
+"opciones": [
+"Únicamente la resolución y el desistimiento.",
+"La resolución, el desistimiento y la renuncia al derecho, únicamente.",
+"La resolución, el desistimiento, la renuncia al derecho y la declaración de caducidad.",
+"La resolución y la renuncia y cualquier otro mecanismo que determine la Administración Pública."
+]
+},
+{
+"id": "vo-10-018",
+"origen": "votaciones",
+"test": "Clase de repaso 4 - Bloque III",
+"n": 18,
+"enunciado": "Según la legislación de procedimiento administrativo común, en un procedimiento sancionador con posibilidad de imposición de una sanción pecuniaria el presunto responsable puede beneficiarse de una reducción: (Junta Andalucía A1 – 2023)",
+"opciones": [
+"Del 50% de su importe si paga voluntariamente en el plazo de 20 días naturales a contar desde el siguiente a la recepción de la correspondiente notificación de la denuncia.",
+"De al menos el 20% si el infractor desiste o renuncia a cualquier acción o recurso contra la sanción.",
+"De al menos el 40% siempre que la reducción este determinada en la notificación de la iniciación del procedimiento y el presunto responsable pague voluntariamente.",
+"De al menos el 20% si se produce el pago voluntario en cualquier momento anterior a la resolución."
+]
+},
+{
+"id": "vo-10-019",
+"origen": "votaciones",
+"test": "Clase de repaso 4 - Bloque III",
+"n": 19,
+"enunciado": "En virtud del artículo 86 de la LPAC:",
+"opciones": [
+"Los acuerdos que se suscriban no supondrán alteración de las competencias, pero sí de las responsabilidades, relativas al funcionamiento de los servicios públicos.",
+"Las Administraciones Públicas podrán celebrar acuerdos, pactos, convenios o contratos con personas únicamente de Derecho Público.",
+"En los casos de procedimientos sancionadores, el acuerdo alcanzado entre las partes deberá fijar la cuantía y el modo de indemnización.",
+"Requerirán aprobación expresa del Consejo de Ministros, los acuerdos que versen sobre materias de su competencia directa."
+]
+},
+{
+"id": "vo-10-020",
+"origen": "votaciones",
+"test": "Clase de repaso 4 - Bloque III",
+"n": 20,
+"enunciado": "Según el artículo 87 de la LPAC, indique el órgano competente y el plazo en el que deberán practicarse las actuaciones complementarias:",
+"opciones": [
+"Órgano competente para resolver y 7 días, respectivamente.",
+"Órgano competente para instruir y 15 días, respectivamente.",
+"Órgano competente para resolver y 15 días, respectivamente.",
+"Órgano competente para instruir y 7 días, respectivamente."
+]
+},
+{
+"id": "vo-11-001",
+"origen": "votaciones",
+"test": "Clase de Repaso 5 - Bloque III",
+"n": 1,
+"enunciado": "Según la Ley 39/2015, ¿Qué debe incluir una resolución administrativa que ponga fin a un procedimiento?: (SIAL – 2023)",
+"opciones": [
+"Todas las cuestiones de forma planteadas.",
+"La decisión adoptada, los recursos que contra la misma procedan, órgano ante el que hubieran de interponerse y el plazo para ello.",
+"Solo la decisión adoptada y los fundamentos jurídicos.",
+"Los antecedentes del procedimiento y la decisión adoptada."
+]
+},
+{
+"id": "vo-11-002",
+"origen": "votaciones",
+"test": "Clase de Repaso 5 - Bloque III",
+"n": 2,
+"enunciado": "Según lo dispuesto en el artículo 88.7 de la Ley 39/2015, será necesario que el instructor eleve al órgano competente para resolver una propuesta de resolución: (SEAL – 2023)",
+"opciones": [
+"En los procedimientos en los que se haya emitido informe preceptivo.",
+"En los procedimientos en los que se haya emitido informe facultativo.",
+"En los procedimientos en los que el criterio del órgano competente para resolver difiera del criterio del instructor.",
+"Cuando la competencia para instruir y resolver un procedimiento no recaiga en un mismo órgano."
+]
+},
+{
+"id": "vo-11-003",
+"origen": "votaciones",
+"test": "Clase de Repaso 5 - Bloque III",
+"n": 3,
+"enunciado": "Cuando se trate de cuestiones conexas que no hubieran sido planteadas por los interesados, el órgano competente podrá pronunciarse sobre las mismas, poniéndolo antes de manifiesto a aquéllos por un plazo no superior a:",
+"opciones": [
+"15 días, para que formulen las alegaciones que estimen pertinentes y aporten, en su caso, los medios de prueba.",
+"10 días, para que formulen las alegaciones que estimen pertinentes y aporten, en su caso, los medios de prueba.",
+"15 días, para que formulen la audiencia y aporten, en su caso, los medios de prueba.",
+"10 días, para que formulen la audiencia que estimen pertinentes y aporten, en su caso, los medios de prueba."
+]
+},
+{
+"id": "vo-11-004",
+"origen": "votaciones",
+"test": "Clase de Repaso 5 - Bloque III",
+"n": 4,
+"enunciado": "De conformidad con la Ley 39/2015, cuando la instrucción concluya la inexistencia de infracción o responsabilidad en un procedimiento sancionador, el instructor debe: (Castilla la Mancha A1 – 2025)",
+"opciones": [
+"Resolver la finalización del procedimiento, con archivo de las actuaciones, en todo caso.",
+"Continuar el procedimiento, en todo caso.",
+"Conceder trámite de alegaciones.",
+"Puede dictar propuesta de resolución que declarará esa circunstancia, si no hace uso de la facultad de resolver y archivar."
+]
+},
+{
+"id": "vo-11-005",
+"origen": "votaciones",
+"test": "Clase de Repaso 5 - Bloque III",
+"n": 5,
+"enunciado": "De acuerdo con el artículo 90 de la Ley 39/2015, la resolución en los procedimientos sancionadores: (Girona A2 – 2023)",
+"opciones": [
+"Será ejecutiva desde el momento en que es dicta.",
+"Será ejecutiva cuando no quepa contra ella ningún recurso ordinario en vía administrativa.",
+"Será ejecutiva cuando no quepa contra ella ningún recurso en vía judicial.",
+"Será ejecutiva cuando no quepa contra ella ningún recurso en vía administrativa o judicial."
+]
+},
+{
+"id": "vo-11-006",
+"origen": "votaciones",
+"test": "Clase de Repaso 5 - Bloque III",
+"n": 6,
+"enunciado": "Respecto a las especialidades de la resolución en los procedimientos, de la Ley 39/2015, en materia de responsabilidad patrimonial podríamos afirmar que: (Junta Andalucía A2 – 2023)",
+"opciones": [
+"Transcurridos seis meses desde que se inició el procedimiento sin que haya recaído y se notifique resolución expresa o, en su caso, se haya formalizado el acuerdo, podrá entenderse que la resolución es contraria a la indemnización del particular.",
+"No siempre será necesario que la resolución se pronuncia sobre la existencia o no de la relación de causalidad entre el funcionamiento del servicio público y la lesión producida.",
+"Previo al trámite de audiencia, el órgano competente resolverá o someterá la propuesta de acuerdo para su formalización por el interesado y por el órgano administrativo competente para suscribirlo.",
+"La indemnización, cuando proceda, se calcula de conformidad con los criterios acordados entre las partes."
+]
+},
+{
+"id": "vo-11-007",
+"origen": "votaciones",
+"test": "Clase de Repaso 5 - Bloque III",
+"n": 7,
+"enunciado": "En el ámbito de la Administración General del Estado, los procedimientos de responsabilidad patrimonial se resolverán por:",
+"opciones": [
+"El Ministro respectivo o por el Consejo de Ministros en los casos del artículo 33.2 de la Ley de Régimen Jurídico del Sector Público o cuando una ley así lo disponga.",
+"El Ministro respectivo o por el Consejo de Ministros en los casos del artículo 32.3 de la Ley de Régimen Jurídico del Sector Público o cuando una ley así lo disponga.",
+"El Ministro de la Presidencia o por el Consejo de Ministros en los casos del artículo 32.3 de la Ley de Régimen Jurídico del Sector Público o cuando una ley así lo disponga.",
+"El Ministro respectivo o por el Comisión Delegada del Gobierno en los casos del artículo 32.3 de la Ley de Régimen Jurídico del Sector Público o cuando una ley así lo disponga."
+]
+},
+{
+"id": "vo-11-008",
+"origen": "votaciones",
+"test": "Clase de Repaso 5 - Bloque III",
+"n": 8,
+"enunciado": "En los procedimientos iniciados de oficio, de acuerdo con la Ley 39/2015: (Ayuntamiento Canet d´en Berenguer C2 – 2025)",
+"opciones": [
+"La Administración no podrá desistir en ningún supuesto.",
+"La Administración podrá desistir, motivadamente, en los supuestos y con los requisitos previstos en las leyes.",
+"La Administración podrá desistir sin necesidad de motivación.",
+"No procede hablar de desistimiento en los procedimientos iniciados de oficio."
+]
+},
+{
+"id": "vo-11-009",
+"origen": "votaciones",
+"test": "Clase de Repaso 5 - Bloque III",
+"n": 9,
+"enunciado": "Señale la correcta en virtud del artículo 94 de la Ley 39/2015:",
+"opciones": [
+"Todo interesado podrá desistir de su derecho, o renunciar a su solicitud, cuando ello no esté prohibido por el ordenamiento jurídico.",
+"La Administración aceptará de plano el desistimiento o la renuncia, y declarará caduco el procedimiento salvo que, habiéndose personado en el mismo terceros interesados, estos instasen su continuación en el plazo de 10 días desde que fueron iniciados.",
+"Tanto el desistimiento como la renuncia podrán hacerse por cualquier medio que permita su constancia, siempre que incorpore la identificación que corresponda de acuerdo con la normativa aplicable.",
+"Si el escrito de iniciación se hubiera formulado por dos o más interesados, el desistimiento o la renuncia solo afectará a aquellos que la hubiesen formulado."
+]
+},
+{
+"id": "vo-11-010",
+"origen": "votaciones",
+"test": "Clase de Repaso 5 - Bloque III",
+"n": 10,
+"enunciado": "En virtud de lo dispuesto en el artículo 95 de la Ley 39/2015, señale la respuesta INCORRECTA: (Albacete A1 – 2023)",
+"opciones": [
+"No podrá acordarse la caducidad por la simple inactividad del interesado en la cumplimentación de trámites, siempre que no sean indispensables para dictar resolución.",
+"Podrá no ser aplicable la caducidad en el supuesto de que la cuestión suscitada afecte al interés general, o fuera conveniente sustanciarla para su definición y esclarecimiento.",
+"La caducidad no producirá por sí sola la prescripción de las acciones del particular o de la Administración, pero los procedimientos caducados no interrumpirán el plazo de prescripción.",
+"En los procedimientos iniciados a solicitud del interesado, cuando se produzca su paralización por causa imputable al mismo, la Administración le advertirá que, transcurridos dos meses, se producirá la caducidad del procedimiento."
+]
+},
+{
+"id": "vo-11-011",
+"origen": "votaciones",
+"test": "Clase de Repaso 5 - Bloque III",
+"n": 11,
+"enunciado": "Según la Ley 39/2015, ¿Cuál es el plazo máximo para la resolución de un procedimiento administrativo que se tramite por la vía simplificada?: (SIAL – 2023)",
+"opciones": [
+"Seis meses, a contar desde el inicio del procedimiento.",
+"Tres meses, a contar desde el inicio del procedimiento.",
+"Dos meses, a contar desde el siguiente al que se notifique al interesado el acuerdo de tramitación simplificada del procedimiento.",
+"Treinta días, a contar desde el siguiente al que se notifique al interesado el acuerdo de tramitación simplificada del procedimiento."
+]
+},
+{
+"id": "vo-11-012",
+"origen": "votaciones",
+"test": "Clase de Repaso 5 - Bloque III",
+"n": 12,
+"enunciado": "Señale la opción CORRECTA. Según el artículo 96 de la ley 39/2015, en el caso del procedimiento sancionador, se podrá adoptar la tramitación simplificada: (GVA A1 – 2025)",
+"opciones": [
+"Cuando el órgano competente para iniciar el procedimiento considere que, de acuerdo con lo previsto en su normativa reguladora, existen elementos de juicio suficientes para calificar la infracción como leve, sin que quepa la oposición expresa por parte del interesado.",
+"Cuando se haya producido el pago voluntario por el presunto responsable.",
+"Cuando el presunto responsable haya reconocido su responsabilidad.",
+"Siempre que se produzca con anterioridad al trámite de audiencia."
+]
+},
+{
+"id": "vo-11-013",
+"origen": "votaciones",
+"test": "Clase de Repaso 5 - Bloque III",
+"n": 13,
+"enunciado": "Según el artículo 96 de la Ley 39/2015, la tramitación simplificada del procedimiento constará únicamente de los siguientes trámites. Indique la correcta:",
+"opciones": [
+"Subsanación, formuladas al inicio del procedimiento durante el plazo de 5 días.",
+"Alegaciones, únicamente cuando la resolución vaya a ser desfavorable para el interesado.",
+"Dictamen del Consejo de Estado, en los casos en que sea preceptivo, que podrá producir la suspensión del plazo para resolver.",
+"Informe del servicio jurídico cuando sea preceptivo."
+]
+},
+{
+"id": "vo-11-014",
+"origen": "votaciones",
+"test": "Clase de Repaso 5 - Bloque III",
+"n": 14,
+"enunciado": "Los actos de las Administraciones Públicas sujetos al Derecho Administrativo serán, conforme al artículo 98 de la Ley 39/2015: (Ayuntamiento Zaragoza A2 – 2025)",
+"opciones": [
+"Inmediatamente ejecutorios.",
+"Inmediatamente firmes salvo que se haya presentado recurso contencioso-administrativo.",
+"Inmediatamente ejecutivos, salvo que se trate de una resolución de un procedimiento de naturaleza patrimonial, contra la que quepa algún recurso en vía administrativa, incluido el potestativo de reposición.",
+"Inmediatamente ejecutivos, salvo que una disposición establezca lo contrario."
+]
+},
+{
+"id": "vo-11-015",
+"origen": "votaciones",
+"test": "Clase de Repaso 5 - Bloque III",
+"n": 15,
+"enunciado": "Cuando la Administración dispone de varios medios de ejecución forzosa legalmente admisibles, ¿Qué criterio debe aplicar conforme al artículo 100 de la Ley 39/2015?: (Seguridad Social C1 – 2025)",
+"opciones": [
+"El medio que permita una ejecución más rápida del acto.",
+"El que garantice una mayor eficacia administrativa.",
+"El medio menos restrictivo de la libertad individual.",
+"El apremio sobre el patrimonio, por ser el que sitúa la Ley en primer lugar."
+]
+},
+{
+"id": "vo-11-016",
+"origen": "votaciones",
+"test": "Clase de Repaso 5 - Bloque III",
+"n": 16,
+"enunciado": "El artículo 104.1 de la Ley 39/2015, establece que los actos administrativos que impongan una obligación personalísima de no hacer o soportar podrán ser ejecutados por compulsión directa sobre las personas: (SEAL – 2023)",
+"opciones": [
+"En los casos en que una norma legal o reglamentaria lo autorice y no hubiera otro medio de ejecución admisible.",
+"En los casos en que la ley expresamente lo autorice, y dentro siempre del respeto debido a su dignidad y a los derechos reconocidos en la Constitución.",
+"En los casos en que sean conformes a la buena fe y al principio de proporcionalidad.",
+"En los casos en que normal legal o reglamentaria lo autorice, y dentro siempre del respeto debido a su dignidad y a los derechos reconocidos en la Constitución."
+]
+},
+{
+"id": "vo-11-017",
+"origen": "votaciones",
+"test": "Clase de Repaso 5 - Bloque III",
+"n": 17,
+"enunciado": "Señale la opción INCORRECTA. Según la Ley 39/2015, con relación a la revisión de disposiciones y actos nulos, las Administraciones Públicas: (GVA A1 – 2026)",
+"opciones": [
+"Podrán establecer, en la misma resolución que declare la nulidad de una disposición o acto, las indemnizaciones que proceda reconocer a los interesados.",
+"Deberán dictar resolución en el plazo de 6 meses desde el inicio del procedimiento de revisión, iniciado de oficio, para que no caduque.",
+"Podrán acordar motivadamente la inadmisión a trámite de las solicitudes de revisión de actos nulos formuladas por los interesados cuando se hubieran desestimado en cuanto al fondo otras solicitudes sustancialmente iguales.",
+"Suspenderán la ejecución de los actos objeto de un procedimiento de revisión de oficio por causa de nulidad."
+]
+},
+{
+"id": "vo-11-018",
+"origen": "votaciones",
+"test": "Clase de Repaso 5 - Bloque III",
+"n": 18,
+"enunciado": "Qué afirmación es cierta respecto a la declaración de lesividad: (Girona A1 – 2024)",
+"opciones": [
+"Se pueden declarar lesivos para el interés público los actos nulos.",
+"Se puede adoptar pasados los cinco años desde que se dictó el acto.",
+"La declaración de lesividad no necesita el dictamen del Consejo de Estado u órgano análogo de la Comunidad Autónoma.",
+"El procedimiento para la declaración de lesividad caduca a los tres meses de su iniciación."
+]
+},
+{
+"id": "vo-11-019",
+"origen": "votaciones",
+"test": "Clase de Repaso 5 - Bloque III",
+"n": 19,
+"enunciado": "Según el art. 109 de la LPACAP, las Administraciones Públicas podrán: (CARM C1 – 2026)",
+"opciones": [
+"Revocar sus actos de gravamen o desfavorables, siempre que tal revocación constituya dispensa o exención no permitida por las leyes.",
+"Rectificar los errores materiales, de hecho o aritméticos existentes en sus actos mientras no haya transcurrido el plazo de prescripción.",
+"Revocar, en cualquier momento, sus actos de gravamen o desfavorables.",
+"Rectificar en cualquier momento, los errores materiales, de hecho o aritméticos existentes en sus actos, de oficio o a instancia de los interesados."
+]
+},
+{
+"id": "vo-11-020",
+"origen": "votaciones",
+"test": "Clase de Repaso 5 - Bloque III",
+"n": 20,
+"enunciado": "En el ámbito estatal, serán competentes para la revisión de oficio de las disposiciones y los actos administrativos nulos y anulables:",
+"opciones": [
+"El Consejo de Ministros, respecto de sus propios actos y disposiciones y de los actos y disposiciones dictados por los Ministros.",
+"El Consejo de Ministros, respecto de los actos y disposiciones de los Secretarios de Estado y de los dictados por órganos directivos de su Departamento no dependientes de una Secretaría de Estado.",
+"Los Secretarios de Estado, respecto de los actos y disposiciones dictados por los órganos superiores de ellos dependientes.",
+"Los Secretarios de Estado, respecto de los actos y disposiciones de los Subsecretarios de Estado y de los dictados por órganos directivos de su Departamento dependientes de una Secretaría de Estado."
+]
+}
+]
+}

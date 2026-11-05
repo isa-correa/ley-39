@@ -1,0 +1,615 @@
+{
+"lote": 39,
+"casos": {},
+"calendarios": {
+"cal2023": {
+"titulo": "Calendario 2023 (enero a junio)",
+"year": 2023,
+"meses": [
+1,
+2,
+3,
+4,
+5,
+6
+],
+"festivos": [
+"2023-01-06",
+"2023-03-20",
+"2023-04-06",
+"2023-04-07",
+"2023-05-01",
+"2023-05-02"
+],
+"nota": "Los domingos también van en rojo."
+}
+},
+"preguntas": [
+{
+"id": "pr-34-001",
+"origen": "practicas",
+"test": "Ejercicio nº 26 - Recursos administrativos (1)",
+"n": 1,
+"enunciado": "Atendiendo a lo dispuesto en la Ley 39/2015, señale qué recurso administrativo cabría interponer frente a los siguientes actos administrativos:\nResolución desestimatoria dictada en un procedimiento de responsabilidad patrimonial iniciado de oficio:",
+"opciones": [
+"Recurso potestativo de reposición.",
+"Recurso de alzada.",
+"No cabe recurso administrativo."
+]
+},
+{
+"id": "pr-34-002",
+"origen": "practicas",
+"test": "Ejercicio nº 26 - Recursos administrativos (1)",
+"n": 2,
+"enunciado": "Atendiendo a lo dispuesto en la Ley 39/2015, señale qué recurso administrativo cabría interponer frente a los siguientes actos administrativos:\nResolución del Subsecretario de Ciencia, Innovación y Universidades por la que se impone sanción disciplinaria a un funcionario del Departamento por la comisión de una falta grave:",
+"opciones": [
+"Recurso potestativo de reposición.",
+"Recurso de alzada.",
+"No cabe recurso administrativo."
+]
+},
+{
+"id": "pr-34-003",
+"origen": "practicas",
+"test": "Ejercicio nº 26 - Recursos administrativos (1)",
+"n": 3,
+"enunciado": "Atendiendo a lo dispuesto en la Ley 39/2015, señale qué recurso administrativo cabría interponer frente a los siguientes actos administrativos:\nAcuerdo del Director General de Carreteras por el que se amplía en tres meses el plazo máximo para resolver y notificar en un procedimiento de concesión de autorizaciones administrativas:",
+"opciones": [
+"Recurso potestativo de reposición.",
+"Recurso de alzada.",
+"No cabe recurso administrativo."
+]
+},
+{
+"id": "pr-34-004",
+"origen": "practicas",
+"test": "Ejercicio nº 26 - Recursos administrativos (1)",
+"n": 4,
+"enunciado": "Atendiendo a lo dispuesto en la Ley 39/2015, señale qué recurso administrativo cabría interponer frente a los siguientes actos administrativos:\nResolución de la Ministra de Ciencia, Innovación y Universidades por el que se resuelve un recurso potestativo de reposición interpuesto frente a una resolución dictada por la propia Ministra:",
+"opciones": [
+"Recurso potestativo de reposición.",
+"Recurso de alzada.",
+"No cabe recurso administrativo."
+]
+},
+{
+"id": "pr-34-005",
+"origen": "practicas",
+"test": "Ejercicio nº 26 - Recursos administrativos (1)",
+"n": 5,
+"enunciado": "Atendiendo a lo dispuesto en la Ley 39/2015, señale qué recurso administrativo cabría interponer frente a los siguientes actos administrativos:\nResolución del Director General de Carreteras por la que se acuerda denegar una solicitud de colocación de carteles informativos en la zona de servidumbre de la carretera N-111:",
+"opciones": [
+"Recurso potestativo de reposición.",
+"Recurso de alzada.",
+"No cabe recurso administrativo."
+]
+},
+{
+"id": "pr-34-006",
+"origen": "practicas",
+"test": "Ejercicio nº 26 - Recursos administrativos (1)",
+"n": 6,
+"enunciado": "Atendiendo a lo dispuesto en la Ley 39/2015, señale qué recurso administrativo cabría interponer frente a los siguientes actos administrativos:\nResolución del Director General de Pesca, dictada en un procedimiento complementario en materia sancionadora, por la que se fija la cuantía de la indemnización que el presunto infractor debe abonar a la Administración en concepto de daños y perjuicios:",
+"opciones": [
+"Recurso potestativo de reposición.",
+"Recurso de alzada.",
+"No cabe recurso administrativo."
+]
+},
+{
+"id": "pr-34-007",
+"origen": "practicas",
+"test": "Ejercicio nº 26 - Recursos administrativos (1)",
+"n": 7,
+"enunciado": "Atendiendo a lo dispuesto en la Ley 39/2015, señale qué recurso administrativo cabría interponer frente a los siguientes actos administrativos:\nResolución del Secretario de Estado de Telecomunicaciones por la que se conceden subvenciones en régimen de concurrencia competitiva:",
+"opciones": [
+"Recurso potestativo de reposición.",
+"Recurso de alzada.",
+"No cabe recurso administrativo."
+]
+},
+{
+"id": "pr-34-008",
+"origen": "practicas",
+"test": "Ejercicio nº 26 - Recursos administrativos (1)",
+"n": 8,
+"enunciado": "Atendiendo a lo dispuesto en la Ley 39/2015, señale qué recurso administrativo cabría interponer frente a los siguientes actos administrativos:\nAcuerdo del Subdirector General de Políticas Transversales por el que se desestima una solicitud de tramitación simplificada presentada en un procedimiento administrativo de su competencia:",
+"opciones": [
+"Recurso potestativo de reposición.",
+"Recurso de alzada.",
+"No cabe recurso administrativo."
+]
+},
+{
+"id": "pr-34-009",
+"origen": "practicas",
+"test": "Ejercicio nº 26 - Recursos administrativos (1)",
+"n": 9,
+"enunciado": "Atendiendo a lo dispuesto en la Ley 39/2015, señale qué recurso administrativo cabría interponer frente a los siguientes actos administrativos:\nResolución del Director General de Políticas Agrarias por la que se declara la caducidad de un procedimiento administrativo iniciado por solicitud del interesado que tiene por objeto la concesión de una autorización administrativa:",
+"opciones": [
+"Recurso potestativo de reposición.",
+"Recurso de alzada.",
+"No cabe recurso administrativo."
+]
+},
+{
+"id": "pr-34-010",
+"origen": "practicas",
+"test": "Ejercicio nº 26 - Recursos administrativos (1)",
+"n": 10,
+"enunciado": "Atendiendo a lo dispuesto en la Ley 39/2015, señale qué recurso administrativo cabría interponer frente a los siguientes actos administrativos:\nResolución dictada por el Director General de Actividades Culturales por la que se resuelve un recurso de alzada interpuesto frente a una resolución desestimatoria dictada por el Subdirector General del Circo:",
+"opciones": [
+"Recurso potestativo de reposición.",
+"Recurso de alzada.",
+"No cabe recurso administrativo."
+]
+},
+{
+"id": "pr-35-001",
+"origen": "practicas",
+"test": "Ejercicio nº 27 - Recursos administrativos (2)",
+"n": 1,
+"enunciado": "Atendiendo a lo dispuesto en la Ley 39/2015, señale qué recurso administrativo cabría interponer frente a los siguientes actos administrativos:\nResolución sancionadora en materia de medio ambiente dictada por un Director General:",
+"opciones": [
+"Recurso potestativo de reposición.",
+"Recurso de alzada.",
+"Recurso extraordinario de revisión.",
+"No cabe recurso administrativo."
+]
+},
+{
+"id": "pr-35-002",
+"origen": "practicas",
+"test": "Ejercicio nº 27 - Recursos administrativos (2)",
+"n": 2,
+"enunciado": "Atendiendo a lo dispuesto en la Ley 39/2015, señale qué recurso administrativo cabría interponer frente a los siguientes actos administrativos:\nResolución desestimatoria de un procedimiento de responsabilidad patrimonial en el que se reclama un importe de 1.000 euros:",
+"opciones": [
+"Recurso potestativo de reposición.",
+"Recurso de alzada.",
+"Recurso extraordinario de revisión.",
+"No cabe recurso administrativo."
+]
+},
+{
+"id": "pr-35-003",
+"origen": "practicas",
+"test": "Ejercicio nº 27 - Recursos administrativos (2)",
+"n": 3,
+"enunciado": "Atendiendo a lo dispuesto en la Ley 39/2015, señale qué recurso administrativo cabría interponer frente a los siguientes actos administrativos:\nResolución del Subsecretario del Ministerio Cultura denegando una comisión de servicios a personal de su Departamento:",
+"opciones": [
+"Recurso potestativo de reposición.",
+"Recurso de alzada.",
+"Recurso extraordinario de revisión.",
+"No cabe recurso administrativo."
+]
+},
+{
+"id": "pr-35-004",
+"origen": "practicas",
+"test": "Ejercicio nº 27 - Recursos administrativos (2)",
+"n": 4,
+"enunciado": "Atendiendo a lo dispuesto en la Ley 39/2015, señale qué recurso administrativo cabría interponer frente a los siguientes actos administrativos:\nDeclaración de lesividad acordada por un Secretario de Estado respecto a un acto dictado por un Director General:",
+"opciones": [
+"Recurso potestativo de reposición.",
+"Recurso de alzada.",
+"Recurso extraordinario de revisión.",
+"No cabe recurso administrativo."
+]
+},
+{
+"id": "pr-35-005",
+"origen": "practicas",
+"test": "Ejercicio nº 27 - Recursos administrativos (2)",
+"n": 5,
+"enunciado": "Atendiendo a lo dispuesto en la Ley 39/2015, señale qué recurso administrativo cabría interponer frente a los siguientes actos administrativos:\nResolución firme desestimatoria de una autorización administrativa, tras la aparición de documentos de valor esencial que evidencian el error de la resolución recurrida:",
+"opciones": [
+"Recurso potestativo de reposición.",
+"Recurso de alzada.",
+"Recurso extraordinario de revisión.",
+"No cabe recurso administrativo."
+]
+},
+{
+"id": "pr-35-006",
+"origen": "practicas",
+"test": "Ejercicio nº 27 - Recursos administrativos (2)",
+"n": 6,
+"enunciado": "Atendiendo a lo dispuesto en la Ley 39/2015, señale qué recurso administrativo cabría interponer frente a los siguientes actos administrativos:\nResolución dictada por el Ministro de Universidades declarando la caducidad de un procedimiento de reintegro de una beca:",
+"opciones": [
+"Recurso potestativo de reposición.",
+"Recurso de alzada.",
+"Recurso extraordinario de revisión.",
+"No cabe recurso administrativo."
+]
+},
+{
+"id": "pr-35-007",
+"origen": "practicas",
+"test": "Ejercicio nº 27 - Recursos administrativos (2)",
+"n": 7,
+"enunciado": "Atendiendo a lo dispuesto en la Ley 39/2015, señale qué recurso administrativo cabría interponer frente a los siguientes actos administrativos:\nAcuerdo de iniciación dictado por el Director General de Pesca, confirmando las medidas provisionales previamente adoptadas:",
+"opciones": [
+"Recurso potestativo de reposición.",
+"Recurso de alzada.",
+"Recurso extraordinario de revisión.",
+"No cabe recurso administrativo."
+]
+},
+{
+"id": "pr-35-008",
+"origen": "practicas",
+"test": "Ejercicio nº 27 - Recursos administrativos (2)",
+"n": 8,
+"enunciado": "Atendiendo a lo dispuesto en la Ley 39/2015, señale qué recurso administrativo cabría interponer frente a los siguientes actos administrativos:\nAcuerdo del Secretario de Estado de Función Pública por el que se amplía el plazo de presentación de solicitudes en un proceso selectivo como consecuencia de una incidencia técnica que ha imposibilitado el funcionamiento ordinario del Registro Electrónico:",
+"opciones": [
+"Recurso potestativo de reposición.",
+"Recurso de alzada.",
+"Recurso extraordinario de revisión.",
+"No cabe recurso administrativo."
+]
+},
+{
+"id": "pr-35-009",
+"origen": "practicas",
+"test": "Ejercicio nº 27 - Recursos administrativos (2)",
+"n": 9,
+"enunciado": "Atendiendo a lo dispuesto en la Ley 39/2015, señale qué recurso administrativo cabría interponer frente a los siguientes actos administrativos:\nResolución dictada por el Director General del Libro en un procedimiento complementario en materia sancionadora:",
+"opciones": [
+"Recurso potestativo de reposición.",
+"Recurso de alzada.",
+"Recurso extraordinario de revisión.",
+"No cabe recurso administrativo."
+]
+},
+{
+"id": "pr-35-010",
+"origen": "practicas",
+"test": "Ejercicio nº 27 - Recursos administrativos (2)",
+"n": 10,
+"enunciado": "Atendiendo a lo dispuesto en la Ley 39/2015, señale qué recurso administrativo cabría interponer frente a los siguientes actos administrativos:\nResolución en materia de personal dictada por el Subdirector General de un Departamento Ministerial:",
+"opciones": [
+"Recurso potestativo de reposición.",
+"Recurso de alzada.",
+"Recurso extraordinario de revisión.",
+"No cabe recurso administrativo."
+]
+},
+{
+"id": "pr-36-001",
+"origen": "practicas",
+"test": "Ejercicio nº 28 - Los plazos y su cómputo.",
+"n": 1,
+"enunciado": "El 28 de febrero, D. Pancracio accedió, a través de la Dirección Electrónica Habilitada única, al contenido de la notificación de una resolución que ponía fin a la vía administrativa. ¿Qué recurso administrativo podrá interponer y cuál será el último día del plazo para hacerlo?",
+"opciones": [
+"Recurso de alzada: 28 de marzo.",
+"Recurso de reposición: 28 de marzo.",
+"Recurso de alzada: 28 de mayo.",
+"Recurso de reposición: 28 de mayo."
+],
+"calendario": "cal2023"
+},
+{
+"id": "pr-36-002",
+"origen": "practicas",
+"test": "Ejercicio nº 28 - Los plazos y su cómputo.",
+"n": 2,
+"enunciado": "El 3 de marzo tuvo entrada en el Registro Electrónico de la Administración General del Estado un recurso administrativo interpuesto frente a una resolución que no ponía fin a la vía administrativa. ¿Qué día finaliza el plazo para dictar y notificar la resolución del recurso?",
+"opciones": [
+"El 3 de abril.",
+"El 3 de mayo.",
+"El 3 de junio.",
+"El 5 de junio."
+],
+"calendario": "cal2023"
+},
+{
+"id": "pr-36-003",
+"origen": "practicas",
+"test": "Ejercicio nº 28 - Los plazos y su cómputo.",
+"n": 3,
+"enunciado": "Con fecha 3 de enero, D. Luis, que no está obligado a relacionarse por medios electrónicos, accede desde el Punto de Acceso General electrónico al contenido de una resolución sancionadora dictada por el Ministro de Consumo. Posteriormente, el 9 de enero, la misma resolución le es notificada en soporte papel. ¿Hasta qué día dispondrá para interponer recurso administrativo contra ella?",
+"opciones": [
+"Hasta el 3 de febrero.",
+"Hasta el 9 de febrero.",
+"Hasta el 3 de abril.",
+"Hasta el 10 de abril."
+],
+"calendario": "cal2023"
+},
+{
+"id": "pr-36-004",
+"origen": "practicas",
+"test": "Ejercicio nº 28 - Los plazos y su cómputo.",
+"n": 4,
+"enunciado": "El 15 de febrero tuvo entrada en el Registro Electrónico de la Administración General del Estado un recurso administrativo interpuesto por D.ª Laura frente a una resolución dictada por la Dirección General de Patrimonio en un procedimiento complementario en materia sancionadora. ¿Qué día finaliza el plazo máximo para dictar y notificar la resolución del recurso?",
+"opciones": [
+"15 de marzo.",
+"15 de mayo.",
+"16 de marzo.",
+"16 de mayo."
+],
+"calendario": "cal2023"
+},
+{
+"id": "pr-36-005",
+"origen": "practicas",
+"test": "Ejercicio nº 28 - Los plazos y su cómputo.",
+"n": 5,
+"enunciado": "El 8 de marzo, D. Hipólito accede a través de la DEHú al contenido de una resolución que no pone fin a la vía administrativa. La misma resolución ya le había sido notificada por medios no electrónicos el 2 de marzo. ¿Qué día finaliza el plazo para interponer recurso en vía administrativa y cuál es el recurso procedente?",
+"opciones": [
+"8 de abril. Recurso de alzada.",
+"10 de abril. Recurso de reposición.",
+"3 de abril. Recurso de reposición.",
+"3 de abril. Recurso de alzada."
+],
+"calendario": "cal2023"
+},
+{
+"id": "pr-36-006",
+"origen": "practicas",
+"test": "Ejercicio nº 28 - Los plazos y su cómputo.",
+"n": 6,
+"enunciado": "El 4 de abril, D. Higinio interpone un recurso de alzada ante el órgano que dictó la resolución impugnada. ¿Cuál es el último día del plazo de que dispone dicho órgano para remitirlo al competente para resolver, junto con su informe y una copia completa y ordenada del expediente?",
+"opciones": [
+"14 de abril.",
+"19 de abril.",
+"20 de abril.",
+"27 de abril."
+],
+"calendario": "cal2023"
+},
+{
+"id": "pr-36-007",
+"origen": "practicas",
+"test": "Ejercicio nº 28 - Los plazos y su cómputo.",
+"n": 7,
+"enunciado": "En relación con el recurso de alzada de la pregunta anterior, ¿cuál es el último día del plazo máximo para dictar y notificar su resolución?",
+"opciones": [
+"4 de mayo.",
+"4 de julio.",
+"19 de mayo.",
+"20 de julio."
+],
+"calendario": "cal2023",
+"sigueA": "pr-36-006"
+},
+{
+"id": "pr-36-008",
+"origen": "practicas",
+"test": "Ejercicio nº 28 - Los plazos y su cómputo.",
+"n": 8,
+"enunciado": "El 29 de junio, D.ª Mar accedió en la DEHú a la resolución de un recurso de alzada interpuesto frente a una resolución que no ponía fin a la vía administrativa. La resolución del recurso había sido puesta a su disposición el día anterior. Si desea interponer un nuevo recurso administrativo ordinario, ¿qué recurso procederá y cuál será el último día para interponerlo?",
+"opciones": [
+"Recurso de alzada: 29 de julio.",
+"Recurso de reposición: 28 de julio.",
+"Recurso de reposición: 29 de julio.",
+"No cabe otro recurso administrativo ordinario."
+],
+"calendario": "cal2023"
+},
+{
+"id": "pr-36-009",
+"origen": "practicas",
+"test": "Ejercicio nº 28 - Los plazos y su cómputo.",
+"n": 9,
+"enunciado": "D. Florencio accedió el 11 de abril, a través de la DEHú, al contenido de una resolución dictada el 3 de abril que no ponía fin a la vía administrativa y que había sido puesta a su disposición el 5 de abril. ¿Qué recurso administrativo procede y cuál es el último día del plazo para interponerlo?",
+"opciones": [
+"Recurso de alzada: 3 de mayo.",
+"Recurso de alzada: 5 de mayo.",
+"Recurso de reposición: 11 de mayo.",
+"Recurso de alzada: 11 de mayo."
+],
+"calendario": "cal2023"
+},
+{
+"id": "pr-36-010",
+"origen": "practicas",
+"test": "Ejercicio nº 28 - Los plazos y su cómputo.",
+"n": 10,
+"enunciado": "El 14 de enero quedó firme una sentencia que declaró falso un testimonio que había influido esencialmente en la resolución desestimatoria de una reclamación de responsabilidad patrimonial formulada por D.ª María Victoria. Dicha resolución le había sido notificada más de cuatro años antes. ¿Qué recurso administrativo podrá interponer y cuál será el último día para hacerlo?",
+"opciones": [
+"Potestativo de reposición: 14 de febrero.",
+"Extraordinario de revisión: 14 de febrero.",
+"Extraordinario de revisión: 14 de abril.",
+"No cabría recurso en vía administrativa."
+],
+"calendario": "cal2023"
+},
+{
+"id": "pr-37-001",
+"origen": "practicas",
+"test": "Examen nº 4",
+"n": 1,
+"enunciado": "Aplicada la tramitación de urgencia a un procedimiento administrativo, ¿qué recurso cabría interponer contra una resolución expresa que no pone fin a la vía administrativa y en qué plazo?",
+"opciones": [
+"Recurso de alzada, en el plazo de un mes.",
+"Recurso potestativo de reposición, en el plazo de un mes.",
+"Recurso de alzada, en el plazo de quince días.",
+"Recurso potestativo de reposición, en el plazo de quince días."
+]
+},
+{
+"id": "pr-37-002",
+"origen": "practicas",
+"test": "Examen nº 4",
+"n": 2,
+"enunciado": "El director general de Pesca Marítima es competente para tramitar y resolver dos procedimientos administrativos. Al apreciar que existe identidad sustancial entre ambos, acuerda su acumulación. ¿Qué recurso administrativo cabe interponer contra dicho acuerdo?",
+"opciones": [
+"Recurso de alzada ante el superior jerárquico del director general.",
+"Recurso potestativo de reposición ante el propio director general.",
+"Recurso extraordinario de revisión.",
+"No cabe interponer recurso administrativo alguno."
+]
+},
+{
+"id": "pr-37-003",
+"origen": "practicas",
+"test": "Examen nº 4",
+"n": 3,
+"enunciado": "En un concurso para la provisión de puestos de trabajo entre funcionarios, el subsecretario acuerda la exclusión definitiva de uno de los participantes por no reunir los requisitos exigidos. ¿Qué recurso administrativo procede contra dicho acuerdo?",
+"opciones": [
+"Recurso de alzada ante el ministro.",
+"Recurso potestativo de reposición ante el propio subsecretario.",
+"Recurso extraordinario de revisión ante el ministro.",
+"No cabe interponer recurso administrativo alguno."
+]
+},
+{
+"id": "pr-37-004",
+"origen": "practicas",
+"test": "Examen nº 4",
+"n": 4,
+"enunciado": "El ministro del Interior dicta una orden ministerial por la que regula una materia reservada a la ley. ¿En qué vicio incurre dicha disposición de carácter general y qué recurso cabría interponer directamente contra ella en vía administrativa?",
+"opciones": [
+"Incurriría en anulabilidad y cabría interponer recurso de alzada ante el Consejo de Ministros.",
+"Incurriría en anulabilidad y cabría interponer recurso potestativo de reposición ante el ministro del Interior.",
+"Incurriría en nulidad de pleno derecho y cabría interponer recurso potestativo de reposición ante el ministro del Interior.",
+"Incurriría en nulidad de pleno derecho y no cabría interponer contra ella recurso alguno en vía administrativa."
+]
+},
+{
+"id": "pr-37-005",
+"origen": "practicas",
+"test": "Examen nº 4",
+"n": 5,
+"enunciado": "Un secretario de Estado dicta resolución desestimatoria de una solicitud aplicando un reglamento aprobado por el Consejo de Ministros. El interesado pretende interponer recurso potestativo de reposición contra dicha resolución, fundamentándolo únicamente en la nulidad de la disposición administrativa de carácter general. ¿Ante qué órgano podrá interponer el recurso?",
+"opciones": [
+"Ante el secretario de Estado que dictó la resolución recurrida o, directamente, ante el Consejo de Ministros.",
+"Exclusivamente ante el secretario de Estado que dictó la resolución recurrida.",
+"Ante el secretario de Estado que dictó la resolución recurrida o, directamente, ante el ministro del que depende.",
+"Exclusivamente ante el Consejo de Ministros."
+]
+},
+{
+"id": "pr-37-006",
+"origen": "practicas",
+"test": "Examen nº 4",
+"n": 6,
+"enunciado": "Cuando concurra alguna de las circunstancias previstas en el artículo 125.1 de la Ley 39/2015, ¿qué recurso podrá interponerse contra un acto firme en vía administrativa?",
+"opciones": [
+"Recurso de alzada.",
+"Recurso potestativo de reposición.",
+"Recurso extraordinario de revisión.",
+"Contra los actos firmes en vía administrativa no cabe interponer recurso administrativo alguno."
+]
+},
+{
+"id": "pr-37-007",
+"origen": "practicas",
+"test": "Examen nº 4",
+"n": 7,
+"enunciado": "Un interesado interpone un recurso de alzada, que posteriormente es inadmitido. ¿Cuál de las siguientes circunstancias ha podido constituir legalmente la causa de inadmisión del recurso?",
+"opciones": [
+"Ser incompetente el órgano administrativo al que se dirigió, cuando el competente perteneciera a la misma Administración pública.",
+"Haberse desestimado en cuanto al fondo otros recursos sustancialmente iguales.",
+"Carecer el recurso manifiestamente de fundamento.",
+"Haber incurrido el interesado en un error en la calificación del recurso, aunque de su escrito se deducía su verdadero carácter."
+]
+},
+{
+"id": "pr-37-008",
+"origen": "practicas",
+"test": "Examen nº 4",
+"n": 8,
+"enunciado": "Interpuesto un recurso administrativo contra un acto que afecta a una pluralidad indeterminada de personas, se acuerda la suspensión de su ejecución. ¿Cómo deberá darse publicidad a dicha suspensión?",
+"opciones": [
+"Mediante su publicación en el Boletín Oficial del Estado.",
+"Mediante su publicación en el mismo periódico oficial en el que se insertó el acto impugnado.",
+"Mediante su notificación individual a todas las personas que pudieran resultar afectadas.",
+"Mediante su publicación en la sede electrónica y en el tablón de anuncios de la Administración competente."
+]
+},
+{
+"id": "pr-37-009",
+"origen": "practicas",
+"test": "Examen nº 4",
+"n": 9,
+"enunciado": "Cuando, para resolver un recurso administrativo, hayan de tenerse en cuenta nuevos hechos o documentos no recogidos en el expediente originario, ¿qué plazo se concederá a los interesados para formular alegaciones y presentar los documentos y justificantes que estimen procedentes?",
+"opciones": [
+"Diez días.",
+"Quince días.",
+"Un plazo no inferior a veinte días.",
+"Un plazo no inferior a diez días ni superior a quince."
+]
+},
+{
+"id": "pr-37-010",
+"origen": "practicas",
+"test": "Examen nº 4",
+"n": 10,
+"enunciado": "Un interesado pretende impugnar ante la jurisdicción contencioso-administrativa una resolución que no pone fin a la vía administrativa. ¿Qué deberá hacer previamente?",
+"opciones": [
+"Interponer recurso potestativo de reposición y esperar a su resolución expresa o desestimación presunta.",
+"Interponer recurso de alzada y esperar a su resolución expresa o desestimación presunta.",
+"Dejar transcurrir el plazo para recurrir, de modo que la resolución adquiera firmeza.",
+"No se precisa actuación previa en vía administrativa, pudiendo interponerse directamente recurso contencioso-administrativo."
+]
+},
+{
+"id": "pr-37-011",
+"origen": "practicas",
+"test": "Examen nº 4",
+"n": 11,
+"enunciado": "El 1 de septiembre de 2026 se notificó a Prudencio una resolución expresa que no ponía fin a la vía administrativa. El 20 de octubre de 2026 decide impugnarla. ¿Qué recurso podrá interponer?",
+"opciones": [
+"Recurso de alzada.",
+"Recurso potestativo de reposición.",
+"Recurso contencioso-administrativo.",
+"No cabría interponer ninguno de los recursos anteriores, pues la resolución habría adquirido firmeza a todos los efectos."
+]
+},
+{
+"id": "pr-37-012",
+"origen": "practicas",
+"test": "Examen nº 4",
+"n": 12,
+"enunciado": "El 1 de septiembre de 2026 se notificó a Prudencio una resolución expresa que ponía fin a la vía administrativa. El 20 de octubre de 2026 decide impugnarla. ¿Qué recurso podrá interponer?",
+"opciones": [
+"Recurso de alzada.",
+"Recurso potestativo de reposición.",
+"Recurso contencioso-administrativo.",
+"No cabría interponer ninguno de los recursos anteriores, pues la resolución habría adquirido firmeza a todos los efectos."
+]
+},
+{
+"id": "pr-37-013",
+"origen": "practicas",
+"test": "Examen nº 4",
+"n": 13,
+"enunciado": "El recurso extraordinario de revisión podrá interponerse contra los actos firmes en vía administrativa cuando concurra alguna de las circunstancias previstas en el artículo 125.1 de la LPACAP. Indique cuál de las siguientes no constituye una de ellas:",
+"opciones": [
+"Que al dictarse el acto se hubiera incurrido en error de derecho que resulte de los propios documentos incorporados al expediente.",
+"Que aparezcan documentos de valor esencial para la resolución del asunto que evidencien el error de la resolución recurrida.",
+"Que en la resolución hayan influido esencialmente documentos o testimonios declarados falsos por sentencia judicial firme.",
+"Que la resolución se hubiese dictado como consecuencia de una conducta punible declarada mediante sentencia judicial firme."
+]
+},
+{
+"id": "pr-37-014",
+"origen": "practicas",
+"test": "Examen nº 4",
+"n": 14,
+"enunciado": "Señale cuál de las siguientes afirmaciones relativas al recurso extraordinario de revisión es incorrecta:",
+"opciones": [
+"Su inadmisión a trámite requerirá, en todo caso, el previo dictamen del Consejo de Estado u órgano consultivo equivalente.",
+"Se interpondrá ante el órgano administrativo que dictó el acto.",
+"Se resolverá por el órgano administrativo que dictó el acto.",
+"Su interposición no perjudica el derecho de los interesados a instar la revisión de oficio de actos nulos ni la rectificación de errores."
+]
+},
+{
+"id": "pr-37-015",
+"origen": "practicas",
+"test": "Examen nº 4",
+"n": 15,
+"enunciado": "Conforme al artículo 126.3 de la LPACAP, ¿cuál es el plazo máximo para dictar y notificar la resolución del recurso extraordinario de revisión y qué efecto produce su transcurso sin resolución expresa?",
+"opciones": [
+"Un mes, transcurrido el cual se entenderá estimado.",
+"Tres meses, transcurridos los cuales se entenderá estimado.",
+"Un mes, transcurrido el cual se entenderá desestimado.",
+"Tres meses, transcurridos los cuales se entenderá desestimado."
+]
+}
+]
+}

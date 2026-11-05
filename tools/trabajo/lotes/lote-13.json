@@ -1,0 +1,540 @@
+{
+"lote": 13,
+"casos": {},
+"calendarios": {},
+"preguntas": [
+{
+"id": "of-04-001",
+"origen": "oficiales",
+"test": "Temas 2-3 (4) - Ley 39/2015 (arts. 34 a 46)",
+"n": 1,
+"enunciado": "Según el artículo 43 de la Ley 39/2015, cuando la notificación por medios electrónicos sea de carácter obligatorio, o haya sido expresamente elegida por el interesado, se entenderá rechazada cuando hayan transcurrido:",
+"opciones": [
+"10 días hábiles desde la puesta a disposición de la notificación sin que se acceda a su contenido.",
+"10 días naturales desde la puesta a disposición de la notificación sin que se acceda a su contenido.",
+"7 días naturales desde la puesta a disposición de la notificación sin que se acceda a su contenido.",
+"7 días hábiles desde la puesta a disposición de la notificación sin que se acceda a su contenido."
+]
+},
+{
+"id": "of-04-002",
+"origen": "oficiales",
+"test": "Temas 2-3 (4) - Ley 39/2015 (arts. 34 a 46)",
+"n": 2,
+"enunciado": "De conformidad con el artículo 39.1 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas, los actos de las Administraciones Públicas sujetos al Derecho Administrativo producirán efectos:",
+"opciones": [
+"Desde la fecha en que se aprueben por el superior jerárquico del que dictó el acto, salvo que en ellos se disponga otra cosa.",
+"Desde la fecha en que se publiquen, descontados los días inhábiles.",
+"Desde la fecha en que se publiquen, salvo que en ellos se disponga otra cosa.",
+"Desde la fecha en que se dicten, salvo que en ellos se disponga otra cosa."
+]
+},
+{
+"id": "of-04-003",
+"origen": "oficiales",
+"test": "Temas 2-3 (4) - Ley 39/2015 (arts. 34 a 46)",
+"n": 3,
+"enunciado": "De acuerdo con la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, ¿cuándo se puede otorgar eficacia retroactiva a un acto administrativo?",
+"opciones": [
+"Sólo cuando se dicte como consecuencia de un procedimiento administrativo iniciado a instancia del interesado.",
+"Cuando se dicte en sustitución de actos anulados.",
+"Sólo cuando se dicte en sustitución de actos reformados o revocados si son desfavorables.",
+"Sólo cuando produzca efectos favorables al interesado, siempre que los supuestos de hecho necesarios no existieran ya en la fecha del acto."
+]
+},
+{
+"id": "of-04-004",
+"origen": "oficiales",
+"test": "Temas 2-3 (4) - Ley 39/2015 (arts. 34 a 46)",
+"n": 4,
+"enunciado": "De conformidad con lo dispuesto en la Ley 39/2015, cuando la notificación en papel de un acto administrativo se practique en el domicilio indicado por el interesado, no se halle éste presente en el momento de entregarse dicha notificación y nadie se haga cargo de la misma, se hará constar esta circunstancia en el expediente, junto con el día y la hora en que se intentó la notificación, intento que se repetirá:",
+"opciones": [
+"Por una sola vez y en una hora distinta dentro de los tres días siguientes.",
+"Hasta dos veces máximo y en una hora distinta dentro de los tres días siguientes.",
+"Hasta dos veces máximo y en una hora distinta dentro de los dos días siguientes.",
+"Por una sola vez y en una hora distinta dentro de los cuatro días siguientes."
+]
+},
+{
+"id": "of-04-005",
+"origen": "oficiales",
+"test": "Temas 2-3 (4) - Ley 39/2015 (arts. 34 a 46)",
+"n": 5,
+"enunciado": "Respecto a la forma de los actos administrativos, ¿contempla la Ley 39/2015 la posibilidad de materializarlos de forma verbal?",
+"opciones": [
+"Sí, está contemplado en el artículo 36 de la Ley.",
+"Sí, pero se exigirá en todo caso la constancia escrita del mismo.",
+"No, los actos administrativos se producirán exclusivamente por escrito a través de medios electrónicos.",
+"No, por seguridad jurídica."
+]
+},
+{
+"id": "of-04-006",
+"origen": "oficiales",
+"test": "Temas 2-3 (4) - Ley 39/2015 (arts. 34 a 46)",
+"n": 6,
+"enunciado": "De acuerdo con la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas, ¿pueden los actos administrativos separarse del dictamen de órganos consultivos?",
+"opciones": [
+"No, salvo modificación legal o reglamentaria de la normativa de aplicación al acto del que se trate.",
+"Sólo en el caso de los actos favorables y mediante adecuada indemnización a los afectados.",
+"Sí, pero se requiere la motivación del acto, con sucinta referencia de hechos y fundamentos de derecho.",
+"Sólo en el caso de los actos de gravamen y siempre que se motive dicha separación."
+]
+},
+{
+"id": "of-04-007",
+"origen": "oficiales",
+"test": "Temas 2-3 (4) - Ley 39/2015 (arts. 34 a 46)",
+"n": 7,
+"enunciado": "Señale la respuesta correcta, de acuerdo con lo previsto en la Ley 39/2015, del Procedimiento Administrativo Común:",
+"opciones": [
+"Serán motivados los actos que se dicten en el ejercicio de potestades regladas.",
+"Serán motivados los actos que se dicten en el ejercicio de potestades discrecionales.",
+"Sólo puede hacerse cargo de las notificaciones, de no hallarse presente el interesado en su domicilio en el momento de la entrega, una persona mayor de edad que se encuentre en el domicilio y haga constar su identidad.",
+"Las resoluciones administrativas de carácter particular podrán vulnerar lo establecido en una disposición de carácter general."
+]
+},
+{
+"id": "of-04-008",
+"origen": "oficiales",
+"test": "Temas 2-3 (4) - Ley 39/2015 (arts. 34 a 46)",
+"n": 8,
+"enunciado": "Según lo establecido en el artículo 43 de la Ley 39/2015, de 1 de octubre, cuando la notificación por medios electrónicos sea de carácter obligatorio, se entenderá rechazada cuando hayan transcurrido desde la puesta a disposición de la notificación sin que se acceda a su contenido:",
+"opciones": [
+"10 días hábiles.",
+"15 días hábiles.",
+"10 días naturales.",
+"15 días naturales."
+]
+},
+{
+"id": "of-04-009",
+"origen": "oficiales",
+"test": "Temas 2-3 (4) - Ley 39/2015 (arts. 34 a 46)",
+"n": 9,
+"enunciado": "De conformidad con el artículo 41 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, cuando el interesado o su representante rechace la notificación de una actuación administrativa:",
+"opciones": [
+"Se hará constar en el expediente, especificándose las circunstancias del intento de notificación y el medio, dando por efectuado el trámite y siguiéndose el procedimiento.",
+"La notificación se hará por medio de anuncio publicado en el Boletín Oficial del Estado.",
+"Habrá de intentarse una segunda notificación en una hora distinta dentro de los tres días siguientes.",
+"La notificación se hará por medio de anuncio en el tablón de edictos del Ayuntamiento de su domicilio."
+]
+},
+{
+"id": "of-04-010",
+"origen": "oficiales",
+"test": "Temas 2-3 (4) - Ley 39/2015 (arts. 34 a 46)",
+"n": 10,
+"enunciado": "Según lo establecido en el artículo 41 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, en los procedimientos iniciados a solicitud de interesado que no esté obligado a recibir notificaciones electrónicas, la notificación se practicará:",
+"opciones": [
+"En el domicilio del interesado.",
+"Por escrito a través de medios electrónicos.",
+"Por el medio señalado al efecto por aquel.",
+"Desde el Punto de Acceso General Electrónico de la Administración."
+]
+},
+{
+"id": "of-04-011",
+"origen": "oficiales",
+"test": "Temas 2-3 (4) - Ley 39/2015 (arts. 34 a 46)",
+"n": 11,
+"enunciado": "Según el artículo 35 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas, uno de los siguientes actos administrativos NO tiene que ser obligatoriamente motivado:",
+"opciones": [
+"Los acuerdos de aplicación de la tramitación de urgencia, de ampliación de plazos y de realización de actuaciones complementarias.",
+"Los actos que confirmen el criterio seguido en actuaciones precedentes.",
+"Las propuestas de resolución en los procedimientos de carácter sancionador, así como los actos que resuelvan procedimientos de carácter sancionador o de responsabilidad patrimonial.",
+"Los actos que rechacen pruebas propuestas por los interesados."
+]
+},
+{
+"id": "of-04-012",
+"origen": "oficiales",
+"test": "Temas 2-3 (4) - Ley 39/2015 (arts. 34 a 46)",
+"n": 12,
+"enunciado": "De acuerdo con el artículo 44 de la Ley 39/2015, cuando los interesados en un procedimiento sean desconocidos, se ignore el lugar de la notificación o bien, intentada ésta, no se hubiese podido practicar, la notificación se hará por medio de un anuncio publicado en:",
+"opciones": [
+"El boletín oficial de la Provincia donde el interesado tuviera su último domicilio conocido.",
+"El Boletín Oficial del Estado.",
+"El tablón de edictos del Ayuntamiento del último domicilio del interesado.",
+"El boletín oficial de la Comunidad Autónoma donde el interesado tuviera su último domicilio conocido."
+]
+},
+{
+"id": "of-04-013",
+"origen": "oficiales",
+"test": "Temas 2-3 (4) - Ley 39/2015 (arts. 34 a 46)",
+"n": 13,
+"enunciado": "Conforme al artículo 45 de la Ley 39/2015, la publicación de los actos administrativos se realizará:",
+"opciones": [
+"En el diario oficial que corresponda, según donde el interesado tenga su domicilio oficial.",
+"En el diario oficial que corresponda, según cual sea la Administración de la que proceda el acto a notificar.",
+"En el tablón de edictos del Ayuntamiento del último domicilio del interesado.",
+"El Boletín Oficial del Estado."
+]
+},
+{
+"id": "of-04-014",
+"origen": "oficiales",
+"test": "Temas 2-3 (4) - Ley 39/2015 (arts. 34 a 46)",
+"n": 14,
+"enunciado": "En lo que respecta a la notificación en papel y, de conformidad con el artículo 42 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, cuando la notificación se practique en el domicilio del interesado, de no hallarse presente, podrá hacerse cargo de la misma:",
+"opciones": [
+"Cualquier persona mayor de dieciséis años que se encuentre en el domicilio sin ser necesario hacer constar su identidad.",
+"Cualquier persona mayor de catorce años que se encuentre en el domicilio y haga constar su identidad.",
+"Cualquier persona mayor de dieciocho años que se encuentre en el domicilio sin ser necesario hacer constar su identidad.",
+"Cualquier persona mayor de doce años que se encuentre en el domicilio y haga constar su identidad."
+]
+},
+{
+"id": "of-04-015",
+"origen": "oficiales",
+"test": "Temas 2-3 (4) - Ley 39/2015 (arts. 34 a 46)",
+"n": 15,
+"enunciado": "La Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas establece que las notificaciones:",
+"opciones": [
+"Cuando la notificación por medios electrónicos sea de carácter obligatorio, se entenderá rechazada cuando hayan transcurrido tres días naturales desde la puesta a disposición de la notificación sin que se acceda a su contenido.",
+"Se podrán practicar por medios electrónicos las que contengan medios de pago a favor de los obligados, tales como cheques.",
+"Se practicarán, en todo caso, por medios electrónicos.",
+"Se practicarán preferentemente por medios electrónicos y, en todo caso, cuando el interesado resulte obligado a recibirlas por esta vía."
+]
+},
+{
+"id": "of-04-016",
+"origen": "oficiales",
+"test": "Temas 2-3 (4) - Ley 39/2015 (arts. 34 a 46)",
+"n": 16,
+"enunciado": "De acuerdo con la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la respuesta correcta en relación con los actos administrativos:",
+"opciones": [
+"Los actos administrativos se producirán por escrito a través de medios electrónicos, a menos que su naturaleza exija otra forma más adecuada de expresión y constancia.",
+"Los actos administrativos se producirán, en todo caso, por escrito a través de medios electrónicos.",
+"Podrá otorgarse eficacia retroactiva a los actos cuando produzcan efectos favorables al interesado, independientemente de que el supuesto de hecho existiera o no en la fecha a que se retrotraiga la eficacia del acto.",
+"Serán obligatoriamente motivados los actos que confirmen el criterio seguido en actuaciones precedentes."
+]
+},
+{
+"id": "of-04-017",
+"origen": "oficiales",
+"test": "Temas 2-3 (4) - Ley 39/2015 (arts. 34 a 46)",
+"n": 17,
+"enunciado": "En base a lo recogido en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, en relación con los actos administrativos, ¿cuál de las siguientes respuestas es correcta?",
+"opciones": [
+"Los actos de las Administraciones Públicas sujetos al Derecho Administrativo se presumirán válidos y producirán efectos desde el día siguiente a la fecha en que se dicten, salvo que en ellos se disponga otra cosa.",
+"La eficacia quedará demorada cuando así lo exija el contenido del acto o esté supeditada a su notificación, publicación o aprobación superior.",
+"No podrá otorgarse eficacia retroactiva a los actos cuando se dicten en sustitución de actos anulados.",
+"Cuando la notificación por medios electrónicos sea de carácter obligatorio, o haya sido expresamente elegida por el interesado, se entenderá rechazada cuando hayan transcurrido diez días hábiles desde la puesta a disposición de la notificación sin que se acceda a su contenido."
+]
+},
+{
+"id": "of-04-018",
+"origen": "oficiales",
+"test": "Temas 2-3 (4) - Ley 39/2015 (arts. 34 a 46)",
+"n": 18,
+"enunciado": "Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, cuando se practique una notificación en papel:",
+"opciones": [
+"Si el primer intento de notificación se ha realizado antes de las quince horas, el resto deberá realizarse después de las quince horas, dejando en todo caso al menos un margen de diferencia de cinco horas entre los intentos de notificación.",
+"Si nadie se hiciera cargo de la notificación, se hará constar esta circunstancia en el expediente, junto con el día y la hora en que se intentó la notificación, intento que se repetirá tres veces.",
+"Si se practica en el domicilio del interesado, y este no está presente en el momento de la entrega, podrá hacerse cargo de la misma cualquier persona mayor de trece años que se encuentre en el domicilio y haga constar su identidad.",
+"Deberán ser puestas a disposición del interesado en la sede electrónica de la Administración u Organismo actuante para que pueda acceder al contenido de las mismas de forma voluntaria."
+]
+},
+{
+"id": "of-04-019",
+"origen": "oficiales",
+"test": "Temas 2-3 (4) - Ley 39/2015 (arts. 34 a 46)",
+"n": 19,
+"enunciado": "De conformidad con el artículo 41 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas, ¿qué fecha se debe tomar en consideración cuando la notificación a un interesado sea practicada por diversos cauces?",
+"opciones": [
+"La de aquella que se hubiera producido en último lugar.",
+"La de aquella que se hubiera producido por correo postal.",
+"La de aquella que se hubiera producido por medios electrónicos.",
+"La de aquella que se hubiera producido en primer lugar."
+]
+},
+{
+"id": "of-04-020",
+"origen": "oficiales",
+"test": "Temas 2-3 (4) - Ley 39/2015 (arts. 34 a 46)",
+"n": 20,
+"enunciado": "De conformidad con la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la afirmación correcta respecto a la práctica de las notificaciones:",
+"opciones": [
+"Las notificaciones se practicarán preferentemente por medios electrónicos y, en todo caso, cuando el interesado resulte obligado a recibirlas por esta vía.",
+"Cuando el interesado o su representante rechace la notificación de una actuación administrativa se hará constar en el expediente paralizando los plazos de resolución.",
+"Cuando la notificación por medios electrónicos sea de carácter obligatorio o haya sido expresamente elegida por el interesado, se entenderá rechazada cuando hayan transcurrido 15 días hábiles desde la puesta a disposición de la notificación sin que se acceda a su contenido.",
+"El interesado en un procedimiento podrá identificar un dispositivo electrónico que servirá para la práctica de las notificaciones."
+]
+},
+{
+"id": "of-05-005",
+"origen": "oficiales",
+"test": "Temas 2-3 (5) - Ley 39/2015 (arts. 47 a 52)",
+"n": 5,
+"enunciado": "De conformidad con lo establecido en el artículo 52 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la respuesta correcta en relación con la convalidación de actos:",
+"opciones": [
+"Los actos anulables que contengan los elementos constitutivos de otro distinto producirán los efectos de éste.",
+"Si el vicio consistiese en falta de alguna autorización, podrá ser convalidado el acto mediante el otorgamiento de la misma por el órgano competente.",
+"El acto de convalidación producirá efecto desde su fecha, en todo caso.",
+"La Administración podrá convalidar los actos nulos, subsanando los vicios de los que adolezcan."
+]
+},
+{
+"id": "of-05-006",
+"origen": "oficiales",
+"test": "Temas 2-3 (5) - Ley 39/2015 (arts. 47 a 52)",
+"n": 6,
+"enunciado": "De conformidad con la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Pública, los defectos de forma en un acto administrativo, que den lugar a indefensión de los interesados:",
+"opciones": [
+"Provocan la inexistencia del acto administrativo.",
+"Provocan una irregularidad no invalidante.",
+"Provocan la nulidad de pleno derecho del acto administrativo.",
+"Provocan la anulabilidad del acto administrativo."
+]
+},
+{
+"id": "of-05-007",
+"origen": "oficiales",
+"test": "Temas 2-3 (5) - Ley 39/2015 (arts. 47 a 52)",
+"n": 7,
+"enunciado": "Conforme al artículo 48.3 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la realización de actuaciones administrativas fuera del tiempo establecido para ellas:",
+"opciones": [
+"En ningún caso implicará la anulabilidad del acto.",
+"Implicará siempre la anulabilidad del acto.",
+"Implicará en todo caso la nulidad del acto.",
+"Solo implicará la anulabilidad del acto cuando así lo imponga la naturaleza del término o plazo."
+]
+},
+{
+"id": "of-05-008",
+"origen": "oficiales",
+"test": "Temas 2-3 (5) - Ley 39/2015 (arts. 47 a 52)",
+"n": 8,
+"enunciado": "Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, son nulos de pleno derecho:",
+"opciones": [
+"Los actos que tengan un contenido imposible.",
+"Los actos dictados por órgano manifiestamente competente por razón de la materia o del territorio.",
+"Las disposiciones administrativas que establezcan la retroactividad de disposiciones sancionadoras favorables.",
+"Las disposiciones administrativas que vulneren otras disposiciones administrativas de rango inferior."
+]
+},
+{
+"id": "of-05-009",
+"origen": "oficiales",
+"test": "Temas 2-3 (5) - Ley 39/2015 (arts. 47 a 52)",
+"n": 9,
+"enunciado": "Respecto a la nulidad y anulabilidad de los actos regulados en el capítulo III del Título III de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas:",
+"opciones": [
+"La nulidad y anulabilidad de un acto implicará la de los sucesivos en el procedimiento aún cuando sean independientes del primero.",
+"Son anulables los actos expresos o presuntos contrarios al ordenamiento jurídico por los que se adquieren facultades o derechos cuando carezca de los requisitos esenciales para su adquisición.",
+"El defecto de forma solo determinará la anulabilidad cuando el acto carezca de los requisitos formales indispensables para alcanzar su fin o de lugar a la indefensión del interesado.",
+"Son nulos de pleno derecho los actos de la Administración que incurren en cualquier infracción del ordenamiento jurídico, incluso la desviación de poder."
+]
+},
+{
+"id": "of-05-010",
+"origen": "oficiales",
+"test": "Temas 2-3 (5) - Ley 39/2015 (arts. 47 a 52)",
+"n": 10,
+"enunciado": "Señale la respuesta correcta en relación con la validez de los actos administrativos:",
+"opciones": [
+"Son nulas de pleno derecho las disposiciones administrativas que establezcan la irretroactividad de disposiciones sancionadoras no favorables o restrictivas de derechos individuales.",
+"La Administración podrá convalidar los actos anulables, subsanando los vicios de que adolezcan.",
+"Si el vicio consistiera en incompetencia no determinante de nulidad, la convalidación podrá realizarse por el órgano competente, que podrá ser superior jerárquico del que dictó el acto viciado.",
+"La nulidad o anulabilidad de un acto implicará la de los sucesivos en el procedimiento que sean independientes del primero."
+]
+},
+{
+"id": "of-06-001",
+"origen": "oficiales",
+"test": "Temas 2-3 (6) - Ley 39/2015 (arts. 53 a 65)",
+"n": 1,
+"enunciado": "De acuerdo con el artículo 57 de la Ley 39/2015, de Procedimiento Administrativo Común de las Administraciones Públicas, contra el acuerdo de acumulación de procedimientos:",
+"opciones": [
+"Cabe recurso extraordinario de revisión.",
+"No cabe recurso alguno.",
+"Cabe recurso de alzada.",
+"Cabe recurso potestativo de reposición."
+]
+},
+{
+"id": "of-06-002",
+"origen": "oficiales",
+"test": "Temas 2-3 (6) - Ley 39/2015 (arts. 53 a 65)",
+"n": 2,
+"enunciado": "¿Cuáles son las formas de iniciación de los procedimientos administrativos, según establece la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Publicas?",
+"opciones": [
+"Siempre será necesario una instancia por escrito del ciudadano ante el órgano correspondiente.",
+"De oficio, en todo caso.",
+"De oficio, a instancia de parte o mediante denuncia.",
+"De oficio o a solicitud del interesado."
+]
+},
+{
+"id": "of-06-003",
+"origen": "oficiales",
+"test": "Temas 2-3 (6) - Ley 39/2015 (arts. 53 a 65)",
+"n": 3,
+"enunciado": "Según el artículo 62 de la Ley 39/2015, señale la respuesta correcta en relación con el inicio de un procedimiento administrativo por denuncia:",
+"opciones": [
+"Las denuncias expresarán la identidad de la persona pero su presentación no confiere, por sí sola, la condición de interesado en el procedimiento.",
+"Las denuncias expresarán la identidad de la persona y su presentación confiere, por sí sola, la condición de interesado en el procedimiento.",
+"Las denuncias serán anónimas pero su presentación no confiere, por sí sola, la condición de interesado en el procedimiento.",
+"No cabe en el ordenamiento administrativo español."
+]
+},
+{
+"id": "of-06-004",
+"origen": "oficiales",
+"test": "Temas 2-3 (6) - Ley 39/2015 (arts. 53 a 65)",
+"n": 4,
+"enunciado": "La Ley 39/2015 indica en su artículo 63 que el inicio del procedimiento sancionador se caracteriza por lo siguiente:",
+"opciones": [
+"Se encomiendan a distintos órganos la fase instructora y la fase sancionadora.",
+"Se iniciará de oficio o a instancia de parte por acuerdo del órgano competente.",
+"Si el inculpado al inicio del procedimiento presenta un pliego de cargos, la posible multa se le reduce a la mitad.",
+"Se podrá imponer una sanción económica con carácter previo al inicio del procedimiento."
+]
+},
+{
+"id": "of-06-005",
+"origen": "oficiales",
+"test": "Temas 2-3 (6) - Ley 39/2015 (arts. 53 a 65)",
+"n": 5,
+"enunciado": "Respecto a la acumulación de procedimientos, el artículo 57 de la Ley 39/2015 establece que:",
+"opciones": [
+"La acumulación tiene lugar en procedimientos en que un órgano tramita y su superior jerárquico es el encargado de resolver.",
+"La acumulación puede decretarse por el órgano administrativo tanto de oficio como a instancia de parte.",
+"Si un interesado está inmerso en una pluralidad de procedimientos ante distintos órganos, es posible acumularlos para que los resuelva un único órgano.",
+"El acuerdo de acumulación puede ser objeto de recurso de reposición ante el órgano que decretó la acumulación."
+]
+},
+{
+"id": "of-06-006",
+"origen": "oficiales",
+"test": "Temas 2-3 (6) - Ley 39/2015 (arts. 53 a 65)",
+"n": 6,
+"enunciado": "Según el artículo 56 de la ley 39/2015, NO es una medida provisional que puede acordarse en el procedimiento administrativo:",
+"opciones": [
+"La consignación o constitución de depósito de las cantidades que se reclamen.",
+"El depósito, retención o inmovilización de cosa mueble.",
+"La que pueda causar perjuicio de difícil o imposible reparación a los interesados.",
+"La retención de ingresos a cuenta que deban abonar las Administraciones Públicas."
+]
+},
+{
+"id": "of-06-007",
+"origen": "oficiales",
+"test": "Temas 2-3 (6) - Ley 39/2015 (arts. 53 a 65)",
+"n": 7,
+"enunciado": "En relación con la iniciación de un procedimiento administrativo, la Ley 39/2015 establece que:",
+"opciones": [
+"En los procedimientos de naturaleza sancionadora la petición razonada de otros órganos vincula al órgano competente para la iniciación del correspondiente procedimiento.",
+"En el inicio de un procedimiento por denuncia, cuando esta invocara un perjuicio en el patrimonio de las Administraciones Públicas, la no iniciación del procedimiento deberá ser motivada.",
+"Podrá formular el interesado recurso administrativo contra la decisión de acumulación a otros procedimientos con los que guarde identidad sustancial o intima conexión.",
+"Los procedimientos de naturaleza sancionadora se iniciarán de oficio o a solicitud de parte interesada."
+]
+},
+{
+"id": "of-06-008",
+"origen": "oficiales",
+"test": "Temas 2-3 (6) - Ley 39/2015 (arts. 53 a 65)",
+"n": 8,
+"enunciado": "De acuerdo con lo establecido en el artículo 63 de la Ley 39/2015, los procedimientos de naturaleza sancionadora:",
+"opciones": [
+"Se iniciarán siempre a instancia de parte y establecerán la debida separación entre la fase instructora y la sancionadora, salvo acuerdo motivado del órgano competente para resolver.",
+"Se iniciarán siempre de oficio por acuerdo del órgano competente y establecerán la debida separación entre la fase instructora y la sancionadora, salvo acuerdo motivado del órgano competente para resolver.",
+"Se iniciarán de oficio o a instancia de parte y establecerán la debida separación entre la fase instructora y la sancionadora, que se encomendará a órganos distintos.",
+"Se iniciarán siempre de oficio por acuerdo del órgano competente y establecerán la debida separación entre la fase instructora y la sancionadora, que se encomendará a órganos distintos."
+]
+},
+{
+"id": "of-06-009",
+"origen": "oficiales",
+"test": "Temas 2-3 (6) - Ley 39/2015 (arts. 53 a 65)",
+"n": 9,
+"enunciado": "De acuerdo con el artículo 65 de la Ley 39/2015, las Administraciones Públicas pueden iniciar de oficio un procedimiento de responsabilidad patrimonial:",
+"opciones": [
+"Una vez que haya prescrito la acción de reclamación de responsabilidad que corresponde al interesado.",
+"En cualquier momento.",
+"Siempre que no haya prescrito el derecho a la reclamación del interesado.",
+"El procedimiento de responsabilidad patrimonial no puede iniciarse de oficio."
+]
+},
+{
+"id": "of-06-010",
+"origen": "oficiales",
+"test": "Temas 2-3 (6) - Ley 39/2015 (arts. 53 a 65)",
+"n": 10,
+"enunciado": "Señale la respuesta correcta sobre las medidas provisionales del procedimiento administrativo común:",
+"opciones": [
+"Se adoptarán antes del inicio del procedimiento por el órgano administrativo competente para resolver.",
+"Si se adoptan antes del inicio del procedimiento deben confirmarse en el acuerdo de inicio del mismo, en un plazo de 5 días.",
+"Pueden consistir en la suspensión definitiva de la actividad.",
+"No pueden adoptarse si causan un perjuicio de difícil o imposible reparación a los interesados."
+]
+},
+{
+"id": "of-06-011",
+"origen": "oficiales",
+"test": "Temas 2-3 (6) - Ley 39/2015 (arts. 53 a 65)",
+"n": 11,
+"enunciado": "El artículo 65 de la Ley 39/2015 establece que el acuerdo de iniciación del procedimiento de responsabilidad patrimonial se notificará a los presuntamente lesionados, concediéndoles para que aporten cuantas alegaciones, documentos o información estimen conveniente a su derecho y propongan cuantas pruebas sean pertinentes, un plazo de:",
+"opciones": [
+"5 días.",
+"10 días.",
+"15 días.",
+"20 días."
+]
+},
+{
+"id": "of-06-012",
+"origen": "oficiales",
+"test": "Temas 2-3 (6) - Ley 39/2015 (arts. 53 a 65)",
+"n": 12,
+"enunciado": "En relación con el inicio del procedimiento administrativo mediante denuncia, indique la respuesta correcta según la Ley 39/2015:",
+"opciones": [
+"La denuncia deberá ser anónima.",
+"La denuncia supone la obligación de iniciar un procedimiento administrativo.",
+"Cuando la denuncia invoque un perjuicio en el patrimonio de las Administraciones Publicas la no iniciación del procedimiento deberá ser motivada.",
+"El denunciante tendrá la condición de interesado en el procedimiento."
+]
+},
+{
+"id": "of-06-013",
+"origen": "oficiales",
+"test": "Temas 2-3 (6) - Ley 39/2015 (arts. 53 a 65)",
+"n": 13,
+"enunciado": "¿Cuál de los siguientes NO es un derecho del interesado en el procedimiento administrativo, según el artículo 53 de la Ley 39/2015?",
+"opciones": [
+"Actuar asistido de asesor cuando lo considere conveniente para la defensa de sus intereses.",
+"Acceder y obtener los documentos contenidos en los procedimientos.",
+"No presentar documentos originales salvo que, de manera excepcional, la normativa aplicable establezca lo contrario.",
+"Obtener información y orientación acerca de los requisitos jurídicos o técnicos que las disposiciones vigentes impongan a los proyectos, actuaciones o solicitudes que se propongan realizar."
+]
+},
+{
+"id": "of-06-014",
+"origen": "oficiales",
+"test": "Temas 2-3 (6) - Ley 39/2015 (arts. 53 a 65)",
+"n": 14,
+"enunciado": "¿Cuáles de los siguientes son derechos específicos del interesado en el procedimiento administrativo, según el artículo 53 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas?",
+"opciones": [
+"Conocer, en cualquier momento, el estado de la tramitación del procedimiento e identificar a las autoridades y personal responsables del mismo.",
+"Acceder a la información pública, archivos y registros, y no presentar datos y documentos que ya se hallen en poder de las Administraciones Públicas.",
+"Conocer, en cualquier momento, el estado de la tramitación del procedimiento, y ser tratado con respeto y deferencia por las autoridades y personal responsables del mismo.",
+"Acceder a la información pública, archivos y registros, y tener la protección de datos de carácter personal."
+]
+},
+{
+"id": "of-06-015",
+"origen": "oficiales",
+"test": "Temas 2-3 (6) - Ley 39/2015 (arts. 53 a 65)",
+"n": 15,
+"enunciado": "De acuerdo con el artículo 65 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, las Administraciones Públicas pueden iniciar de oficio un procedimiento de responsabilidad patrimonial:",
+"opciones": [
+"En cualquier momento.",
+"Siempre que no haya prescrito el derecho a la reclamación del interesado.",
+"El procedimiento de responsabilidad patrimonial no puede iniciarse de oficio.",
+"Una vez que prescribe la acción de reclamación de responsabilidad que corresponde al interesado."
+]
+}
+]
+}

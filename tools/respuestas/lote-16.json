@@ -1,0 +1,96 @@
+{
+ "of-14-001": {
+  "bloque": "iniciativa",
+  "precepto": "Art. 128.2 de la Ley 39/2015 y art. 27.1 de la Ley 40/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Una Orden ministerial es un reglamento, y el **art. 128.2 de la Ley 39/2015** dice que los reglamentos “no podrán tipificar” infracciones administrativas (tipificar es definir qué conducta es infracción). Además, el **art. 27.1 de la Ley 40/2015** exige que las infracciones estén previstas “por una Ley”. Lo máximo que puede hacer un reglamento es concretar las que ya fija la ley, sin crear otras nuevas (art. 27.3 de la Ley 40/2015).",
+   "No. Las sanciones tampoco pueden crearse por reglamento: el art. 128.2 prohíbe igualmente “establecer penas o sanciones”, y el art. 27.2 de la Ley 40/2015 exige que las delimite la ley.",
+   "No. No hay excepción para las leves. El art. 27.1 de la Ley 40/2015 dice que la ley define las infracciones y que también es ella quien las clasifica en leves, graves y muy graves.",
+   "No. Sí se vulnerarían normas, y con rango de ley: el art. 128.2 de la Ley 39/2015 y el art. 27.1 de la Ley 40/2015."
+  ],
+  "ojo": "Aquí el “en ningún caso” es correcto, aunque las respuestas tan absolutas suelan ser sospechosas. El reglamento puede concretar o graduar lo que dice la ley, pero no crear infracciones ni sanciones nuevas."
+ },
+ "of-14-002": {
+  "bloque": "iniciativa",
+  "precepto": "Art. 129.5 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. La eficacia va junto con la necesidad en el art. 129.2: pide una razón de interés general, fines claros y que la norma sea el instrumento más adecuado. No habla de explicar los objetivos en el preámbulo.",
+   "Es esta. El **art. 129.5** incluye en la transparencia tres cosas: dar acceso fácil a las normas y a sus documentos, “definir claramente los objetivos” y su justificación en el preámbulo o exposición de motivos, y permitir que los destinatarios participen. Para recordarlo: transparente es quien explica lo que quiere conseguir y por qué.",
+   "No. La necesidad está en el art. 129.2, junto con la eficacia. Ahí se habla de “fines perseguidos”, que suena parecido, pero la definición de objetivos en el preámbulo es del apartado 5.",
+   "No. La seguridad jurídica (art. 129.4) pide que la norma sea coherente con el resto del ordenamiento y cree un marco estable, predecible y claro."
+  ],
+  "ojo": "La trampa es confundir los “fines perseguidos” del art. 129.2 (necesidad y eficacia) con los “objetivos” y su justificación en el preámbulo del art. 129.5 (transparencia)."
+ },
+ "of-14-003": {
+  "bloque": "iniciativa",
+  "precepto": "Art. 129.4 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. A órganos dependientes o subordinados solo se les puede dar esta habilitación de forma excepcional, y justificándolo en la ley que la concede. No es la regla general.",
+   "Es esta. El **art. 129.4** dice que, “con carácter general”, la habilitación para desarrollar una ley se da al Gobierno o Consejo de Gobierno respectivo. Habilitar es dar permiso para dictar el reglamento que desarrolle esa ley.",
+   "No. Le sobra la segunda parte. Los titulares de ministerios o consejerías no están al mismo nivel que el Gobierno: su habilitación directa es excepcional y debe justificarse en la ley habilitante.",
+   "No. Sería el caso excepcional presentado como regla. Lo general es habilitar al Gobierno o Consejo de Gobierno, no a los ministros o consejeros."
+  ],
+  "ojo": "Regla: Gobierno. Excepción justificada en la ley: ministros, consejeros u órganos dependientes. El BOE avisa de que la STC 55/2018 anuló incisos de este párrafo, los referidos a las comunidades autónomas, pero eso no cambia la respuesta porque la opción sigue señalando al Gobierno."
+ },
+ "of-14-004": {
+  "bloque": "iniciativa",
+  "precepto": "Art. 128.1 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. La palabra “exclusivamente” lo estropea. También tienen esta potestad los órganos de gobierno autonómicos y locales.",
+   "No. Las Cortes Generales hacen leyes, no reglamentos, y el art. 128.1 no las menciona. Además, deja fuera a las comunidades autónomas y a las entidades locales.",
+   "No. Ese reparto por materias (transversales para el Estado y fiscales para las comunidades) no existe en el art. 128.1, que no distribuye la potestad de esa manera.",
+   "Es esta. El **art. 128.1** se la da a tres niveles: Gobierno de la Nación, órganos de Gobierno de las Comunidades Autónomas y órganos de gobierno locales. La potestad reglamentaria es el poder de dictar reglamentos, y por eso una orden, un decreto autonómico o una ordenanza municipal son ejemplos de ella."
+  ],
+  "ojo": "Para recordarlo: Estado, comunidades autónomas y entes locales, los tres niveles territoriales."
+ },
+ "of-14-005": {
+  "bloque": "iniciativa",
+  "precepto": "Art. 133.4 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Regular aspectos parciales de una materia solo permite omitir la consulta pública previa (art. 133.4, párrafo segundo), no la audiencia e información pública.",
+   "No. Que no haya impacto significativo en la actividad económica solo permite omitir la consulta pública previa (art. 133.4, párrafo segundo). La audiencia e información pública se mantienen.",
+   "No. No imponer obligaciones relevantes a los destinatarios solo permite omitir la consulta pública previa (art. 133.4, párrafo segundo). No sirve para saltarse la audiencia e información pública.",
+   "Es esta. El **art. 133.4, párrafo primero**, permite prescindir de todos los trámites (consulta, audiencia e información públicas) en las normas presupuestarias u organizativas. También cuando hay razones graves de interés público, aunque esa opción no aparece aquí."
+  ],
+  "ojo": "Distingue los dos párrafos: presupuestarias, organizativas o razones graves permiten quitar todos los trámites. Sin impacto económico, sin obligaciones relevantes o aspectos parciales solo permiten quitar la consulta previa."
+ },
+ "of-14-006": {
+  "bloque": "iniciativa",
+  "precepto": "Art. 25.4 de la Ley 50/1997",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Te han cambiado la fecha: es antes del 30 de abril, no del 1 de junio.",
+   "No. El 31 de diciembre suena lógico por ser un plan anual, pero no es la fecha de la ley. El límite es el 30 de abril.",
+   "No. El 31 de octubre no aparece en el art. 25.4. La fecha buena es mucho antes: el 30 de abril.",
+   "Es esta. El **art. 25.4 de la Ley 50/1997** dice que el Ministro de la Presidencia elevará el Plan al Consejo de Ministros “antes del 30 de abril”. Elevar significa llevarlo a ese órgano para que lo apruebe. El Plan recoge las iniciativas que se aprobarán el año siguiente (art. 25.1)."
+  ]
+ },
+ "of-14-007": {
+  "bloque": "iniciativa",
+  "precepto": "Art. 25.3 de la Ley 50/1997",
+  "correcta": 3,
+  "justificaciones": [
+   "No. El art. 25.3 no pide un informe motivado de la Secretaría General Técnica. Este órgano sí informa los proyectos de norma (art. 26.5), pero la justificación de que no estaba en el Plan va en otro documento.",
+   "No. No hay que comparecer ante el Congreso. Es un trámite interno de elaboración de la norma, y la justificación queda por escrito en la Memoria.",
+   "No. El art. 25.3 no prevé justificarlo oralmente en la sesión del Consejo de Ministros. Además, habla del “órgano competente”, que no siempre es el Consejo de Ministros.",
+   "Es esta. El **art. 25.3 de la Ley 50/1997** exige justificarlo “en la correspondiente Memoria del Análisis de Impacto Normativo”. Esa Memoria es el documento que acompaña a la propuesta y explica por qué hace falta y qué efectos tendrá (art. 26.3)."
+  ]
+ },
+ "of-14-008": {
+  "bloque": "iniciativa",
+  "precepto": "Art. 25.4 de la Ley 50/1997",
+  "correcta": 3,
+  "justificaciones": [
+   "No. La Secretaría General Técnica informa los proyectos de norma de su ministerio (art. 26.5), pero no eleva el Plan. Además, el art. 25.4 sitúa la coordinación en el Ministerio de la Presidencia, no en el de Justicia.",
+   "No. El art. 25 no da ningún papel en el Plan al Abogado General del Estado.",
+   "No. El art. 25 no da este papel a Hacienda. Este ministerio aparece en otro momento: la aprobación previa de normas que afecten a la organización, al personal o a los procedimientos (art. 26.5).",
+   "Es esta. El **art. 25.4 de la Ley 50/1997** lo dice de forma literal: “El Ministro de la Presidencia elevará el Plan al Consejo de Ministros”. Encaja con que el Ministerio de la Presidencia sea quien coordina el Plan."
+  ],
+  "ojo": "El enunciado pide “el literal” del artículo: responde “Ministro de la Presidencia” aunque el nombre del ministerio cambie de un Gobierno a otro."
+ }
+}

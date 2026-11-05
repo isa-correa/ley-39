@@ -1,0 +1,483 @@
+{
+"lote": 29,
+"casos": {
+"caso-07": {
+"id": "caso-07",
+"titulo": "Supuesto Práctico 1",
+"texto": "D. Carlos Hidalgo, funcionario de carrera del Cuerpo General Administrativo de la Administración General del Estado, desempeña un puesto de trabajo en régimen de especial dedicación en la Oficina de Asistencia en Materia de Registro del Ministerio de Defensa, con sede en Paseo de la Castellana, 109 (Madrid), desempeñando las funciones propias de dicho órgano administrativo, que se describen en el Real Decreto 203/2021, de 30 de marzo, por el que se aprueba el Reglamento de actuación y funcionamiento del sector público por medios electrónicos.\nDurante la ajetreada mañana del viernes 23 de enero de 2026, acudieron a la Oficina de Asistencia en Materia de Registro numerosos ciudadanos con intención de realizar gestiones administrativas de diversa índole. Entre otros, se personaron los siguientes:\n- D. Andrés Olalla, gerente de “Ecoeventos S.L.”, quien, actuando en representación de la sociedad, tenía intención de presentar una solicitud dirigida a la Confederación Hidrográfica del Júcar, a fin de obtener una autorización para la instalación de un escenario temporal junto al cauce del río Turia.\n- Dª Ana Atencia, en representación de su hija Marta, de 13 años de edad, al objeto de reclamar la responsabilidad patrimonial de la Administración por los daños sufridos por su hija durante una visita escolar al Museo del Prado.\n- D. José Ramón Sánchez, andaluz de nacimiento, residente en Guadalajara y ordenanza de la Universidad Complutense, presentó un escrito dirigido al Archivo de la Corona de Aragón, con sede en Barcelona y dependiente del Ministerio de Cultura, solicitando la reproducción digital de varios documentos históricos para utilizarlos como material de investigación en su obra literaria «Sueños de Gaudí».\n- D. Pau Martí, programador informático residente en Tarragona, que desempeña su actividad profesional en régimen de trabajador autónomo, presentó escrito dirigido a la Secretaría de Estado de Industria en respuesta a un requerimiento de subsanación relativo a una solicitud que había formulado previamente.\n- Dª. Salud Fuerte, médica colegiada, presentó escrito dirigido al Ministerio para la Transición Ecológica y el Reto Demográfico solicitando su personación en un procedimiento administrativo iniciado a solicitud de \"Centrales Nucleares Trillo S.L\", que tiene por objeto la instalación de una central radiactiva en unos terrenos colindantes a la parcela en que se ubica su vivienda habitual.\nResponda a las siguientes cuestiones que se le plantean:"
+}
+},
+"calendarios": {
+"cal2023": {
+"titulo": "Calendario 2023 (enero a junio)",
+"year": 2023,
+"meses": [
+1,
+2,
+3,
+4,
+5,
+6
+],
+"festivos": [
+"2023-01-06",
+"2023-03-20",
+"2023-04-06",
+"2023-04-07",
+"2023-05-01",
+"2023-05-02"
+],
+"nota": "Los domingos también van en rojo."
+}
+},
+"preguntas": [
+{
+"id": "pr-07-001",
+"origen": "practicas",
+"test": "Supuesto Práctico 1",
+"n": 1,
+"enunciado": "D. Carlos Hidalgo indica a D. Andrés Olalla que debe presentar la solicitud a través de medios electrónicos. ¿Es correcta tal advertencia según el artículo 14 de la Ley 39/2015?",
+"opciones": [
+"No, puesto que las personas físicas pueden elegir en todo momento la forma en que se comunican con la Administración Pública.",
+"Sí, dado que D. Andrés actúa en representación de una persona jurídica.",
+"No, salvo que D. Andrés ejerciera una actividad profesional para la que se requiera colegiación obligatoria.",
+"Sí, siempre que quede debidamente acreditado que D. Andrés tiene acceso y disponibilidad de los medios electrónicos necesarios."
+],
+"caso": "caso-07"
+},
+{
+"id": "pr-07-002",
+"origen": "practicas",
+"test": "Supuesto Práctico 1",
+"n": 2,
+"enunciado": "Si la normativa reguladora del procedimiento para el otorgamiento de la autorización administrativa solicitada por D. Andrés Olalla, en representación de Ecoeventos, S.L., no estableciera plazo máximo para resolver y notificar, este será de:",
+"opciones": [
+"Un mes.",
+"Dos meses.",
+"Tres meses.",
+"Seis meses."
+],
+"caso": "caso-07"
+},
+{
+"id": "pr-07-003",
+"origen": "practicas",
+"test": "Supuesto Práctico 1",
+"n": 3,
+"enunciado": "Conforme al artículo 5 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas, ¿debe D. Andrés acreditar la representación con la que actúa para formular una solicitud en nombre de Ecoeventos, S.L.?",
+"opciones": [
+"Sí, mediante cualquier medio válido en Derecho que deje constancia fidedigna de su existencia.",
+"Sí, deberá acreditar necesariamente su representación mediante apoderamiento apud acta.",
+"No, la representación solo debe acreditarse para desistir de acciones y renunciar a derechos.",
+"No, para los actos y gestiones de mero trámite se presumirá la representación."
+],
+"caso": "caso-07"
+},
+{
+"id": "pr-07-004",
+"origen": "practicas",
+"test": "Supuesto Práctico 1",
+"n": 4,
+"enunciado": "Según el artículo 5.6 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas, en caso de resultar necesaria, ¿qué sucedería ante la falta o insuficiente acreditación de la representación de D. Andrés?",
+"opciones": [
+"Se tendría el acto por no realizado, debiendo D. Andrés formular una nueva solicitud.",
+"Se tiene el acto por realizado, aunque la Administración, si lo estima oportuno, podría requerirle que acredite la representación.",
+"La Administración le deberá conceder un plazo de diez días, o superior, para que aporte la representación o subsane el defecto.",
+"La Administración le deberá conceder un plazo de cinco días, o superior, para que aporte la representación o subsane el defecto."
+],
+"caso": "caso-07"
+},
+{
+"id": "pr-07-005",
+"origen": "practicas",
+"test": "Supuesto Práctico 1",
+"n": 5,
+"enunciado": "En relación con la autorización solicitada por D. Andrés para instalar un escenario temporal junto al cauce del río Turia, concretamente en la margen derecha del río, el vencimiento del plazo máximo sin haberse notificado resolución expresa, legitima al interesado para entenderla:",
+"opciones": [
+"Estimada por silencio administrativo, excepto que una norma con rango de ley establezca lo contrario.",
+"Desestimada por silencio administrativo, excepto que una norma con rango legal o reglamentario establezca lo contrario.",
+"Estimada por silencio administrativo.",
+"Desestimada por silencio administrativo."
+],
+"caso": "caso-07"
+},
+{
+"id": "pr-07-006",
+"origen": "practicas",
+"test": "Supuesto Práctico 1",
+"n": 6,
+"enunciado": "D. Carlos Hidalgo indica a Dª Ana Atencia que debe presentar la reclamación de responsabilidad patrimonial a través de medios electrónicos. ¿Es correcta tal advertencia según el artículo 14 de la Ley 39/2015?",
+"opciones": [
+"Sí, dado que actúa en representación de una persona física.",
+"Sí, al tratarse de una reclamación de responsabilidad patrimonial.",
+"No, Dª Ana puede elegir si se comunica con la Administración a través de medios electrónicos o no.",
+"No, al actuar en representación de una menor, Dª Ana está obligada a relacionarse a través de medios no electrónicos."
+],
+"caso": "caso-07"
+},
+{
+"id": "pr-07-007",
+"origen": "practicas",
+"test": "Supuesto Práctico 1",
+"n": 7,
+"enunciado": "Según el artículo 3 de la Ley 39/2015, ¿en qué caso podría Marta, siendo menor de edad, formular la reclamación de responsabilidad patrimonial sin la asistencia de quien ejerza la patria potestad, tutela o curatela?",
+"opciones": [
+"En todo caso, por ser la perjudicada.",
+"Cuando el ordenamiento jurídico le permita actuar por sí misma para formular dicha reclamación.",
+"Siempre que no estuviera incapacitada.",
+"En ningún caso, pues los menores de edad carecen de capacidad de obrar ante las Administraciones Públicas."
+],
+"caso": "caso-07"
+},
+{
+"id": "pr-07-008",
+"origen": "practicas",
+"test": "Supuesto Práctico 1",
+"n": 8,
+"enunciado": "Durante la tramitación del procedimiento de responsabilidad patrimonial, el órgano instructor solicita informe preceptivo del servicio cuyo funcionamiento ha ocasionado la presunta lesión indemnizable. ¿Puede suspenderse por este motivo el plazo máximo para resolver y notificar?",
+"opciones": [
+"Sí, sin que el plazo de suspensión pueda exceder en ningún caso de tres meses.",
+"Sí, sin que el plazo de suspensión pueda exceder en ningún caso de dos meses.",
+"Sí, solicitado el informe, el transcurso del plazo máximo para resolver y notificar la resolución se suspenderá automáticamente.",
+"No, la suspensión del plazo para resolver y notificar solo es posible cuando el informe que se solicita tiene carácter facultativo."
+],
+"caso": "caso-07"
+},
+{
+"id": "pr-07-009",
+"origen": "practicas",
+"test": "Supuesto Práctico 1",
+"n": 9,
+"enunciado": "¿En cuál de los siguientes supuestos no estaría obligada la Administración a dictar resolución expresa en el procedimiento de responsabilidad patrimonial derivado del accidente sufrido por Marta?",
+"opciones": [
+"En los casos de prescripción, renuncia del derecho, caducidad del procedimiento o desistimiento de la solicitud.",
+"En caso de terminación del procedimiento por pacto o convenio.",
+"En caso de desaparición sobrevenida del objeto del procedimiento.",
+"La Administración está obligada a dictar resolución expresa y a notificarla en todos los procedimientos, sin excepción."
+],
+"caso": "caso-07"
+},
+{
+"id": "pr-07-010",
+"origen": "practicas",
+"test": "Supuesto Práctico 1",
+"n": 10,
+"enunciado": "En el procedimiento de responsabilidad patrimonial, transcurrido el plazo máximo sin haberse notificado resolución expresa:",
+"opciones": [
+"La resolución expresa posterior sólo podrá dictarse de ser confirmatoria del silencio.",
+"La resolución expresa posterior se adoptará por la Administración sin vinculación alguna al sentido del silencio.",
+"La resolución expresa posterior sólo podrá dictarse de ser desestimatoria.",
+"La Administración queda eximida de su deber legal de resolver y notificar."
+],
+"caso": "caso-07"
+},
+{
+"id": "pr-07-011",
+"origen": "practicas",
+"test": "Supuesto Práctico 1",
+"n": 11,
+"enunciado": "D. Carlos Hidalgo indica a D. José Ramón Sánchez que debe presentar su solicitud a través de medios electrónicos. ¿Es correcta tal advertencia según el artículo 14 de la Ley 39/2015?",
+"opciones": [
+"No, dado que actúa como persona física y puede elegir si se comunica con la Administración por medios electrónicos o no.",
+"Sí, dada su condición de empleado público de la Universidad Complutense.",
+"Sí, dada su condición de escritor literario.",
+"No, puesto que las personas físicas deben comunicarse con las Administraciones Públicas a través de medios no electrónicos."
+],
+"caso": "caso-07"
+},
+{
+"id": "pr-07-012",
+"origen": "practicas",
+"test": "Supuesto Práctico 1",
+"n": 12,
+"enunciado": "Conforme al artículo 15 de la Ley 39/2015, ¿podría D. José Ramón Sánchez redactar en catalán el escrito dirigido al Archivo de la Corona de Aragón, solicitando la reproducción digital de varios documentos históricos?",
+"opciones": [
+"No, ya que el escrito se dirige a un órgano de la Administración General del Estado.",
+"No, dado que D. José Ramón Sánchez es andaluz y reside en Guadalajara.",
+"No, dado que la Oficina de Asistencia en Materia de Registro tiene su sede en Madrid.",
+"Sí, ya que el escrito se dirige a un órgano de la Administración General del Estado con sede en Cataluña."
+],
+"caso": "caso-07"
+},
+{
+"id": "pr-07-013",
+"origen": "practicas",
+"test": "Supuesto Práctico 1",
+"n": 13,
+"enunciado": "El plazo máximo para resolver y notificar el procedimiento iniciado a solicitud del señor Sánchez ha sido establecido mediante Real Decreto 1708/2011, de 18 de noviembre, por el que se establece el Sistema Español de Archivos y se regula el Sistema de Archivos de la Administración General del Estado. De conformidad con el artículo 21 de la Ley 39/2015, dicho plazo:",
+"opciones": [
+"No podrá exceder de tres meses.",
+"No podrá exceder de seis meses.",
+"No podrá exceder de doce meses.",
+"Será de tres meses."
+],
+"caso": "caso-07"
+},
+{
+"id": "pr-07-014",
+"origen": "practicas",
+"test": "Supuesto Práctico 1",
+"n": 14,
+"enunciado": "Conforme al artículo 21.3 de la Ley 39/2015, ¿desde qué fecha debe computarse el plazo máximo para resolver y notificar en el procedimiento de acceso y reproducción digital de documentos históricos iniciado a solicitud del señor Sánchez?",
+"opciones": [
+"Desde la fecha en que la solicitud tenga entrada en el registro electrónico de la Administración competente para su tramitación.",
+"Desde la fecha en que se dicte el acuerdo de iniciación.",
+"Desde la fecha en que se notifique el acuerdo de iniciación al interesado.",
+"Desde el día siguiente a aquel en que se notifique el acuerdo de iniciación al interesado."
+],
+"caso": "caso-07"
+},
+{
+"id": "pr-07-015",
+"origen": "practicas",
+"test": "Supuesto Práctico 1",
+"n": 15,
+"enunciado": "De acuerdo con lo establecido en el artículo 24 de la Ley 39/2015, de 1 de octubre, el vencimiento del plazo máximo sin haberse notificado resolución expresa, legitimaría al Señor Sánchez para entender su solicitud:",
+"opciones": [
+"Estimada por silencio administrativo.",
+"Desestimada por silencio administrativo.",
+"Caducada.",
+"Prescrita."
+],
+"caso": "caso-07"
+},
+{
+"id": "pr-07-016",
+"origen": "practicas",
+"test": "Supuesto Práctico 1",
+"n": 16,
+"enunciado": "D. Carlos Hidalgo indicó a D. Pau Martí y a Dª. Salud Fuerte, quienes coincidieron en la oficina de asistencia en materia de registro, que ambos deben presentar sus escritos a través de medios electrónicos. ¿Es correcta tal advertencia conforme a la Ley 39/2015?",
+"opciones": [
+"Sí, tanto el señor Martí como la señora Fuerte deben presentar sus escritos por medios electrónicos.",
+"No, solo el señor Martí está obligado a presentar su escrito por medios electrónicos.",
+"No, solo la señora Fuerte está obligada a presentar su escrito por medios electrónicos.",
+"No, tanto el señor Martí como la señora Fuerte pueden optar por presentar sus escritos por medios electrónicos o no."
+],
+"caso": "caso-07"
+},
+{
+"id": "pr-07-017",
+"origen": "practicas",
+"test": "Supuesto Práctico 1",
+"n": 17,
+"enunciado": "¿Podría el señor Martí utilizar el catalán para dirigirse a la Secretaría de Estado de Industria, cuya sede se encuentra en Madrid?",
+"opciones": [
+"No, dado que la Administración General del Estado tramita todos sus procedimientos en castellano.",
+"Sí, pero en tal caso debería presentar la documentación a través de medios electrónicos.",
+"No, dado que la Secretaría de Estado tiene su sede en una Comunidad Autónoma en la que el catalán no es lengua cooficial.",
+"Sí, dado que el señor Martí reside en una Comunidad Autónoma en la que el catalán es lengua cooficial."
+],
+"caso": "caso-07"
+},
+{
+"id": "pr-07-018",
+"origen": "practicas",
+"test": "Supuesto Práctico 1",
+"n": 18,
+"enunciado": "De acuerdo con la Ley 39/2015, al haber sido requerido el señor Martí para la subsanación de las deficiencias que presentaba su solicitud, el plazo máximo legal para resolver y notificar la resolución en el procedimiento iniciado a instancia de este:",
+"opciones": [
+"Se suspenderá.",
+"Podrá ampliarse por un plazo que no podrá ser superior al establecido para la tramitación del procedimiento.",
+"Se podrá suspender.",
+"Podrá ampliarse por un plazo que no podrá exceder de la mitad del establecido para la tramitación del procedimiento."
+],
+"caso": "caso-07"
+},
+{
+"id": "pr-07-019",
+"origen": "practicas",
+"test": "Supuesto Práctico 1",
+"n": 19,
+"enunciado": "Si el requerimiento dirigido al señor Martí le concedía un plazo de subsanación de diez días y este presentó su escrito de subsanación el viernes 23 de enero de 2026, último día del plazo concedido al efecto, ¿qué día debió notificársele el citado requerimiento?",
+"opciones": [
+"El jueves 8 de enero.",
+"El viernes 9 de enero",
+"El lunes 12 de enero.",
+"El martes 13 de enero."
+],
+"caso": "caso-07"
+},
+{
+"id": "pr-07-020",
+"origen": "practicas",
+"test": "Supuesto Práctico 1",
+"n": 20,
+"enunciado": "La señora Fuerte reside en una parcela colindante a los terrenos en que “Centrales Nucleares Trillo, S.L.” pretende instalar una central radiactiva, por lo que tiene intereses legítimos que pueden resultar afectados por la resolución que se dicte. Según la Ley 39/2015, ¿tiene la señora Fuerte la condición de interesada en dicho procedimiento?",
+"opciones": [
+"No, ya que solo quienes lo promueven ostentan la condición de interesados en el procedimiento.",
+"No, ya que no tiene derechos que puedan resultar afectados por la decisión que se adopte en el procedimiento.",
+"Sí, siempre que se persone en el procedimiento en tanto no haya recaído resolución definitiva.",
+"Sí, siempre que se persone en el procedimiento antes de que adquiera firmeza la resolución que se dicte en el mismo."
+],
+"caso": "caso-07"
+},
+{
+"id": "pr-08-001",
+"origen": "practicas",
+"test": "Ejercicio nº 6 - Cómputo de plazos.",
+"n": 1,
+"enunciado": "El 10 de mayo, D. Evaristo recibe notificación de una resolución que no pone fin a la vía administrativa. ¿Qué día finaliza el plazo para interponer recurso de alzada?\nNota: el plazo de interposición del recurso de alzada es 1 mes (art. 122 Ley 39/2015).",
+"opciones": [
+"10 de junio.",
+"11 de junio.",
+"12 de junio.",
+"9 de junio."
+],
+"calendario": "cal2023"
+},
+{
+"id": "pr-08-002",
+"origen": "practicas",
+"test": "Ejercicio nº 6 - Cómputo de plazos.",
+"n": 2,
+"enunciado": "El 3 de abril Dª Filomena recibió un requerimiento para subsanar su solicitud de beca de estudios, concediéndole un plazo de 10 días. ¿Qué día finaliza el plazo de subsanación?",
+"opciones": [
+"20 de abril.",
+"19 de abril.",
+"13 de abril.",
+"17 de abril."
+],
+"calendario": "cal2023"
+},
+{
+"id": "pr-08-003",
+"origen": "practicas",
+"test": "Ejercicio nº 6 - Cómputo de plazos.",
+"n": 3,
+"enunciado": "El 17 de marzo, D. Bartolomé, que actúa en nombre de D.ª Benita, recibe un requerimiento para acreditar la representación. Se le concede un plazo de 10 días. ¿Qué día finaliza el plazo concedido?",
+"opciones": [
+"27 de marzo.",
+"31 de marzo.",
+"1 de abril.",
+"3 de abril."
+],
+"calendario": "cal2023"
+},
+{
+"id": "pr-08-004",
+"origen": "practicas",
+"test": "Ejercicio nº 6 - Cómputo de plazos.",
+"n": 4,
+"enunciado": "El 10 de marzo se publica en el BOE la convocatoria del proceso selectivo para el ingreso en el Cuerpo General Administrativo de la Administración del Estado. El plazo de presentación de solicitudes es de veinte días. ¿Cuál es el último día para presentar la solicitud?",
+"opciones": [
+"10 de abril.",
+"11 de abril.",
+"12 de abril.",
+"13 de abril."
+],
+"calendario": "cal2023"
+},
+{
+"id": "pr-08-005",
+"origen": "practicas",
+"test": "Ejercicio nº 6 - Cómputo de plazos.",
+"n": 5,
+"enunciado": "El 1 de marzo, D.ª Águeda presenta un escrito solicitando la tramitación simplificada de un procedimiento en el que tiene la condición de interesada. Si el órgano competente para la tramitación del procedimiento no se pronuncia sobre dicha solicitud, ¿a partir de qué día podrá entenderla desestimada?\nNota: Los interesados podrán solicitar la tramitación simplificada del procedimiento.\nTranscurridos cinco días desde la presentación de la solicitud sin que el órgano competente para la tramitación del procedimiento se pronuncie sobre la misma, esta se entenderá desestimada (artículo 96.3 Ley 39/2015).",
+"opciones": [
+"6 de marzo.",
+"7 de marzo.",
+"8 de marzo.",
+"9 de marzo."
+],
+"calendario": "cal2023"
+},
+{
+"id": "pr-08-006",
+"origen": "practicas",
+"test": "Ejercicio nº 6 - Cómputo de plazos.",
+"n": 6,
+"enunciado": "En un procedimiento sancionador seguido contra D. Fabián, el órgano competente para resolver considera que la sanción procedente reviste mayor gravedad que la determinada en la propuesta de resolución. Por ello, el 27 de enero se le pone de manifiesto esta circunstancia y se le concede un plazo de quince días para formular las alegaciones que estime convenientes. ¿Qué día finaliza el plazo concedido?",
+"opciones": [
+"17 de febrero.",
+"20 de febrero.",
+"16 de febrero.",
+"15 de febrero."
+],
+"calendario": "cal2023"
+},
+{
+"id": "pr-08-007",
+"origen": "practicas",
+"test": "Ejercicio nº 6 - Cómputo de plazos.",
+"n": 7,
+"enunciado": "Con fecha 23 de enero, D. Raúl presenta en el registro electrónico de la Administración competente para su tramitación una solicitud de concesión de una autorización administrativa. El 25 de enero se dicta acuerdo de iniciación del procedimiento. La norma reguladora establece que el plazo máximo para resolver y notificar es de dos meses. En ausencia de resolución expresa, ¿a partir de qué día se producirían los efectos del silencio administrativo?",
+"opciones": [
+"23 de marzo.",
+"24 de marzo.",
+"25 de marzo.",
+"27 de marzo."
+],
+"calendario": "cal2023"
+},
+{
+"id": "pr-08-008",
+"origen": "practicas",
+"test": "Ejercicio nº 6 - Cómputo de plazos.",
+"n": 8,
+"enunciado": "Mediante acuerdo de iniciación de 3 de febrero, notificado a D.ª Marta el 13 de febrero, se incoa contra ella un procedimiento sancionador por la recolección de especies protegidas. Teniendo en cuenta que la norma reguladora no establece plazo máximo de resolución, ¿cuál es el último día para notificar la resolución que ponga fin al procedimiento?",
+"opciones": [
+"3 de mayo.",
+"13 de mayo.",
+"15 de mayo.",
+"13 de agosto."
+],
+"calendario": "cal2023"
+},
+{
+"id": "pr-08-009",
+"origen": "practicas",
+"test": "Ejercicio nº 6 - Cómputo de plazos.",
+"n": 9,
+"enunciado": "D. Torcuato accede el 10 de abril, a través de la DEHú, a una resolución de fecha 5 de abril, puesta a su disposición el 8 de abril, que no pone fin a la vía administrativa. ¿Qué día finaliza el plazo para interponer recurso de alzada?\nNota: El plazo de interposición del recurso de alzada es de 1 mes (art. 122 Ley 39/2015).",
+"opciones": [
+"5 de mayo.",
+"8 de mayo.",
+"10 de mayo.",
+"11 de mayo."
+],
+"calendario": "cal2023"
+},
+{
+"id": "pr-08-010",
+"origen": "practicas",
+"test": "Ejercicio nº 6 - Cómputo de plazos.",
+"n": 10,
+"enunciado": "El 3 de abril se pone a disposición de D.ª Lucía, abogada colegiada que actúa en representación de D. Fernando, una notificación de resolución administrativa en la DEHú. Si D.ª Lucía no accede a su contenido, ¿a partir de qué día se entendería rechazada la notificación?",
+"opciones": [
+"13 de abril.",
+"14 de abril.",
+"19 de abril.",
+"20 de abril."
+],
+"calendario": "cal2023"
+},
+{
+"id": "pr-08-011",
+"origen": "practicas",
+"test": "Ejercicio nº 6 - Cómputo de plazos.",
+"n": 11,
+"enunciado": "El miércoles 10 de mayo, a las 9:30 horas, se publica en la sede electrónica de un organismo público el listado provisional de aspirantes admitidos y excluidos en un proceso selectivo. La resolución establece que podrán formularse alegaciones en el plazo de doce horas siguientes a su publicación. Conforme a la LPACAP, ¿cuándo finalizará dicho plazo?",
+"opciones": [
+"A las 21:00 horas del 10 de mayo.",
+"A las 21:30 horas del 10 de mayo.",
+"A las 22:00 horas del 10 de mayo.",
+"A las 9:00 horas del 11 de mayo."
+],
+"calendario": "cal2023"
+},
+{
+"id": "pr-08-012",
+"origen": "practicas",
+"test": "Ejercicio nº 6 - Cómputo de plazos.",
+"n": 12,
+"enunciado": "El miércoles 5 de abril, a las 18:00 horas, una asociación deportiva accede en la sede electrónica de la Administración al contenido de un requerimiento por el que se le solicita una aclaración sobre el plan de seguridad presentado para la autorización de una carrera popular. Se le concede un plazo de doce horas. Conforme a la LPACAP y al calendario que se muestra, ¿cuándo finalizará dicho plazo?",
+"opciones": [
+"A las 6:00 horas del 6 de abril.",
+"A las 6:00 horas del 8 de abril.",
+"A las 6:00 horas del 10 de abril.",
+"A las 18:00 horas del 10 de abril."
+],
+"calendario": "cal2023"
+}
+]
+}

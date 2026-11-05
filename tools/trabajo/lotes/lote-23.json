@@ -1,0 +1,527 @@
+{
+"lote": 23,
+"casos": {},
+"calendarios": {},
+"preguntas": [
+{
+"id": "vo-07-001",
+"origen": "votaciones",
+"test": "Clase de repaso 1- Bloque III",
+"n": 1,
+"enunciado": "Según el artículo 1 del Código Civil, señale la incorrecta:",
+"opciones": [
+"Carecerán de validez las disposiciones que contradigan otra de rango superior.",
+"La costumbre solo regirá en defecto de ley, siempre que no sea contraria a la moral o al orden público y que resulte probada.",
+"Los usos jurídicos que sean meramente interpretativos de una declaración de voluntad tendrán la consideración de costumbre.",
+"Los principios generales del derecho se aplicarán en defecto de ley o costumbre, sin perjuicio de su carácter informador del ordenamiento jurídico."
+]
+},
+{
+"id": "vo-07-002",
+"origen": "votaciones",
+"test": "Clase de repaso 1- Bloque III",
+"n": 2,
+"enunciado": "Según el Código Civil, la jurisprudencia: (Castilla la Mancha A2 – 2025)",
+"opciones": [
+"Siempre que proceda de la doctrina establecida por el Tribunal Supremo tendrá la consideración de fuente del ordenamiento jurídico español.",
+"Complementará el ordenamiento jurídico con la doctrina que, de modo reiterado, establezca el Tribunal Supremo al interpretar y aplicar la Ley, la costumbre y los principios generales del derecho.",
+"Complementará el ordenamiento jurídico con la doctrina que establezca cualquier órgano jurisdiccional colegiado.",
+"Complementará el ordenamiento jurídico con la doctrina que, de modo reiterado, establezca el Tribunal Supremo al modificar la Ley, la costumbre y los principios generales del derecho."
+]
+},
+{
+"id": "vo-07-003",
+"origen": "votaciones",
+"test": "Clase de repaso 1- Bloque III",
+"n": 3,
+"enunciado": "De conformidad con el artículo 2 del Código Civil, las leyes entrarán en vigor:",
+"opciones": [
+"El día de su publicación en el BOE.",
+"Al día siguiente de su publicación en el BOE, salvo que dispongan otra cosa.",
+"A los 20 días de su firma, salvo que dispongan otra cosa.",
+"A los 20 días de su publicación en el BOE, salvo que dispongan otra cosa."
+]
+},
+{
+"id": "vo-07-004",
+"origen": "votaciones",
+"test": "Clase de repaso 1- Bloque III",
+"n": 4,
+"enunciado": "En relación con la jerarquía de las normas reglamentarias:",
+"opciones": [
+"Real Decreto-Ley es superior a una Orden Ministerial.",
+"Real Decreto del Consejo de Ministros es superior a una Orden Ministerial.",
+"Real Decreto del Presidente del Gobierno es superior al Real Decreto del Consejo de Ministros.",
+"Todos los reglamentos tienen el mismo nivel de jerarquía."
+]
+},
+{
+"id": "vo-07-005",
+"origen": "votaciones",
+"test": "Clase de repaso 1- Bloque III",
+"n": 5,
+"enunciado": "Las leyes o reglamentos que impongan nuevas obligaciones a las personas que desempeñen una actividad económica o profesional, ¿cuándo preverán el comienzo de su vigencia?",
+"opciones": [
+"A los 20 días de su completa publicación en el BOE, si en ellas no se dispone otra cosa.",
+"Si se aprobó el Reglamento el 03/01/2025, entrará en vigor el 02/01/2026.",
+"Si se aprobó el Reglamento el 03/01/2025, entrará en vigor el 01/07/2025.",
+"El 1 de enero o el 2 de julio siguientes a su aprobación."
+]
+},
+{
+"id": "vo-07-006",
+"origen": "votaciones",
+"test": "Clase de repaso 1- Bloque III",
+"n": 6,
+"enunciado": "La inderogabilidad singular de los reglamentos significa que: (Junta Andalucía A1 OEP 2015)",
+"opciones": [
+"Un reglamento no puede derogar parcialmente a otro reglamento.",
+"Las resoluciones administrativas de carácter particular no pueden vulnerar lo establecido en una disposición de carácter general, aunque aquellas procedan de un órgano de igual o superior jerarquía al que dictó la disposición general.",
+"Las resoluciones administrativas de carácter particular no pueden vulnerar lo establecido en una disposición de carácter general, salvo que aquellas procedan de un órgano de igual o superior jerarquía al que dictó la disposición general.",
+"Un reglamento no puede derogar singularmente a otro reglamento."
+]
+},
+{
+"id": "vo-07-007",
+"origen": "votaciones",
+"test": "Clase de repaso 1- Bloque III",
+"n": 7,
+"enunciado": "¿Cuándo podrá una ley de bases autorizar a la modificación de la propia ley de bases? (GVA A1 – 2025)",
+"opciones": [
+"Siempre que la modificación no tenga carácter retroactivo.",
+"En aquellos casos en que el objeto de la ley de bases no sea la refundición de varios textos legales en uno solo.",
+"Cuando el objeto de la ley de bases sea la refundición de textos legales que previsiblemente pudieran resultar afectados por la tramitación de iniciativas legislativas en curso.",
+"En ningún caso."
+]
+},
+{
+"id": "vo-07-008",
+"origen": "votaciones",
+"test": "Clase de repaso 1- Bloque III",
+"n": 8,
+"enunciado": "De conformidad con el artículo 86 de la Constitución Española de 1978, los Decretos-leyes deberán ser inmediatamente sometidos a debate y votación de totalidad al Congreso de los Diputados: (La Rioja A2 – 2022)",
+"opciones": [
+"En el plazo de los quince días siguientes a su promulgación.",
+"En el plazo de los treinta días siguientes a su promulgación.",
+"En el plazo de los veinte días siguientes a su promulgación.",
+"En el plazo de los diez días siguientes a su promulgación."
+]
+},
+{
+"id": "vo-07-009",
+"origen": "votaciones",
+"test": "Clase de repaso 1- Bloque III",
+"n": 9,
+"enunciado": "Señale la respuesta correcta en relación con el Decreto Legislativos y el Decreto Ley:",
+"opciones": [
+"El Decreto Ley deberá ser inmediatamente sometido a debate y votación de totalidad al Congreso de los Diputados, convocado al efecto si no estuviere reunido, en el plazo de 20 días siguientes a su promulgación.",
+"El Decreto Legislativo es dictado por el gobierno, debido a la situación de extraordinaria y urgente necesidad.",
+"El Decreto Ley es una disposición reglamentaria.",
+"El Decreto Legislativo se agota por el uso que haga el gobierno mediante la publicación de la norma."
+]
+},
+{
+"id": "vo-07-010",
+"origen": "votaciones",
+"test": "Clase de repaso 1- Bloque III",
+"n": 10,
+"enunciado": "Según la Ley 39/2015, cuando resulte eficaz, proporcionado y necesario para la consecución de los fines propios del procedimiento, y de manera motivada, podrán incluir trámites adicionales o distintos a los contemplados en este Ley: (Aragón C1 – 2026)",
+"opciones": [
+"Reglamentariamente.",
+"Motivadamente.",
+"Mediante Ley.",
+"Mediante Decreto Legislativo."
+]
+},
+{
+"id": "vo-07-011",
+"origen": "votaciones",
+"test": "Clase de repaso 1- Bloque III",
+"n": 11,
+"enunciado": "De acuerdo con el artículo 2.1 de la Ley 39/2015, el sector público comprende: (Murcia A1 – 2020)",
+"opciones": [
+"La Administración General del Estado, las Administraciones de las Comunidades Autónomas, las entidades que integran la Administración Local y el sector público institucional.",
+"La Administración General del Estado, las Administraciones de las Comunidades Autónomas y las entidades que integran la Administración Local.",
+"La Administración General del Estado y las Administraciones de las Comunidades Autónomas.",
+"Todas son incorrectas."
+]
+},
+{
+"id": "vo-07-012",
+"origen": "votaciones",
+"test": "Clase de repaso 1- Bloque III",
+"n": 12,
+"enunciado": "La Ley 39/2015 establece expresamente que se aplica a: (GVA A2 – 2016)",
+"opciones": [
+"Las universidades públicas en todo caso y a las universidades privadas de forma supletoria.",
+"Las universidades públicas, que se regirán por su normativa específica y supletoriamente por las previsiones de esta Ley.",
+"Las universidades públicas cuando así lo prevean sus Estatutos.",
+"Las universidades, salvo lo dispuesto en el Título V de esta Ley."
+]
+},
+{
+"id": "vo-07-013",
+"origen": "votaciones",
+"test": "Clase de repaso 1- Bloque III",
+"n": 13,
+"enunciado": "Según el artículo 3 de la Ley 39/2015, los menores de edad tienen capacidad de obrar ante las AA.PP: (GVA A1 – 2026)",
+"opciones": [
+"Solo para el ejercicio y defensa de aquellos de sus derechos e intereses cuya actuación esté permitida por el ordenamiento jurídico sin la asistencia de la persona que ejerza la patria potestad, tutela o curatela.",
+"Salvo que estén incapacitados, total o parcialmente.",
+"En ningún caso.",
+"En todo caso."
+]
+},
+{
+"id": "vo-07-014",
+"origen": "votaciones",
+"test": "Clase de repaso 1- Bloque III",
+"n": 14,
+"enunciado": "Según la Ley 39/2015, tendrán capacidad de obrar ante las Administraciones Públicas: (GVA A2 – 2016)",
+"opciones": [
+"Cuando la Ley así lo declare expresamente, los grupos de afectados.",
+"Cuando una Ley o un reglamento así lo declare expresamente, los grupos de afectados.",
+"Las personas físicas mayores de dieciocho años que estén inscritas en el registro electrónico general de apoderamientos.",
+"Las personas físicas mayores de dieciséis años que estén inscritas en el registro electrónico general de apoderamientos."
+]
+},
+{
+"id": "vo-07-015",
+"origen": "votaciones",
+"test": "Clase de repaso 1- Bloque III",
+"n": 15,
+"enunciado": "¿Quién está legitimado para actuar como interesado en un procedimiento administrativo? (Girona A1 – 2024)",
+"opciones": [
+"Los que, sin haber iniciado el procedimiento, tengan derechos que puedan resultar afectados por la decisión que en el mismo se adopte.",
+"Quienes lo promuevan como titulares de derechos o intereses legítimos individuales o colectivos.",
+"Las asociaciones y organizaciones representativas de intereses económicos y sociales serán titulares de intereses legítimos colectivos en los términos que la Ley reconozca.",
+"Todas las respuestas son correctas."
+]
+},
+{
+"id": "vo-07-016",
+"origen": "votaciones",
+"test": "Clase de repaso 1- Bloque III",
+"n": 16,
+"enunciado": "De acuerdo con la Ley 39/2015, en relación con la representación, señale la respuesta correcta: (Castilla La Macha A1 – 2025)",
+"opciones": [
+"Las personas jurídicas no pueden actuar como representantes ante la Administración.",
+"La falta de acreditación de la representación no impedirá que se tenga por realizado el acto de que se trate, siempre que se subsane el defecto dentro del plazo de diez días.",
+"No se admite la representación apud acta efectuada por comparecencia personal.",
+"Para realizar una mera gestión de trámite también se necesitará acreditar la representación."
+]
+},
+{
+"id": "vo-07-017",
+"origen": "votaciones",
+"test": "Clase de repaso 1- Bloque III",
+"n": 17,
+"enunciado": "Según establece el artículo 5 de la Ley 39/2015, NO deberá acreditarse la representación para actuar en nombre de otra persona ante las Administraciones Públicas: (Diputación Valladolid A1 – 2023)",
+"opciones": [
+"Para interponer recursos",
+"Para desistir de acciones.",
+"Para gestiones de mero trámite",
+"Para formular solicitudes."
+]
+},
+{
+"id": "vo-07-018",
+"origen": "votaciones",
+"test": "Clase de repaso 1- Bloque III",
+"n": 18,
+"enunciado": "Según la Ley 39/2015, cuando en una solicitud, escrito o comunicación figuren varios interesados, las actuaciones a que den lugar se efectuarán: (GVA C2 – 2025)",
+"opciones": [
+"Con el representante o el interesado que expresamente hayan señalado, y, en su defecto, con el que figure en primer término.",
+"Expresamente con el representante o el interesado que figuren en primer término.",
+"Con cualesquiera interesados o sus representantes.",
+"Con el representante o interesado que figuren en primer término o, en su defecto, con el que se señale expresamente."
+]
+},
+{
+"id": "vo-07-019",
+"origen": "votaciones",
+"test": "Clase de repaso 1- Bloque III",
+"n": 19,
+"enunciado": "De acuerdo con la Ley 39/2015, si durante la instrucción de un procedimiento que no haya tenido publicidad, se advierte la existencia de personas que sean titulares de derechos o intereses legítimos y directos cuya identificación resulte del expediente y que puedan resultar afectados por la resolución que se dicte, ¿cómo deberá actuar la Administración?: (GVA C1 – 2026)",
+"opciones": [
+"Se comunicará a dichas personas la tramitación del procedimiento.",
+"Se requerirá a quien haya iniciado el procedimiento para que mejore la solicitud en plazo de diez días hábiles.",
+"Se publicará la iniciación del procedimiento y la lista de las personas identificadas como titulares de derechos o intereses legítimos y directos.",
+"Se someterá el procedimiento a audiencia pública durante un plazo diez días hábiles."
+]
+},
+{
+"id": "vo-08-001",
+"origen": "votaciones",
+"test": "Clase de repaso 2- Bloque III",
+"n": 1,
+"enunciado": "Según el artículo 13 de la Ley 39/2015, ¿Cuál de los siguientes NO es un derecho de las personas en sus relaciones con las Administraciones Públicas?: (GVA A1 – 2026)",
+"opciones": [
+"El derecho a ser tratados con respeto y deferencia por las autoridades y empleados públicos, que habrán de facilitarles el ejercicio de sus derechos y el cumplimiento de sus obligaciones.",
+"El derecho a comunicarse con las Administraciones Públicas a través de un Punto de Acceso General electrónico de la Administración.",
+"El derecho a utilizar las lenguas oficiales en el territorio de su Comunidad Autónoma, de acuerdo con lo previsto en esta Ley y en el resto del ordenamiento jurídico.",
+"El derecho a la obtención de medios electrónicos por parte de las Administraciones Públicas para sus relaciones con estas."
+]
+},
+{
+"id": "vo-08-002",
+"origen": "votaciones",
+"test": "Clase de repaso 2- Bloque III",
+"n": 2,
+"enunciado": "Señale la opción correcta sobre el derecho y obligación de relacionarse electrónicamente con las Administraciones Públicas previsto en el artículo 14.3 de la Ley 39/2015: (SEAL – 2023)",
+"opciones": [
+"Las personas jurídicas estarán obligadas a relacionarse a través de medios electrónicos con las Administraciones Públicas salvo que reglamentariamente se disponga otra cosa.",
+"Las entidades sin personalidad jurídica podrán elegir si se comunican con las Administraciones Públicas a través de medios electrónicos o no.",
+"Reglamentariamente las Administraciones podrán establecer la obligación de relacionarse con ellas a través de medios electrónicos.",
+"Las personas físicas deberán relacionarse electrónicamente con la Administración cuando su capacidad económica, técnica, dedicación profesional u otros motivos así lo permita."
+]
+},
+{
+"id": "vo-08-003",
+"origen": "votaciones",
+"test": "Clase de repaso 2- Bloque III",
+"n": 3,
+"enunciado": "En los procedimientos administrativos tramitados por la Administración General del Estado, en el territorio de una comunidad autónoma con lengua cooficial, si concurren varios interesados y existiera discrepancia en cuanto a la lengua de tramitación: (Ayuntamiento Castellón A1 – 2024)",
+"opciones": [
+"El procedimiento se tramitará en castellano, si bien los documentos o testimonios que requieran los interesados se expedirán en la lengua elegida por los mismos.",
+"El procedimiento se tramitará en castellano y en otra lengua oficial de la comunidad autónoma, si bien los documentos o testimonios que requieran los interesados se expedirán en castellano.",
+"El procedimiento se tramitará en la lengua que elijan la mayoría de los interesados, si bien los documentos o testimonios que requieran los interesados se expedirán en la lengua elegida por los mismos.",
+"El procedimiento se tramitará en la lengua cooficial propia de la comunidad autónoma, si bien los documentos o testimonios que requieran los interesados se expedirán en castellano."
+]
+},
+{
+"id": "vo-08-004",
+"origen": "votaciones",
+"test": "Clase de repaso 2- Bloque III",
+"n": 4,
+"enunciado": "Señale la correcta. Según el artículo 18 de la Ley 39/2015, colaboración de las personas, los interesados en un procedimiento que conozcan datos que permitan identificar a otros interesados:",
+"opciones": [
+"Que hayan comparecido en él tienen el deber de proporcionárselos a la Administración actuante.",
+"Que no hayan comparecido en él tienen el deber de proporcionárselos a la Administración actuante.",
+"Que no hayan comparecido en él tienen el deber de comunicárselo a la persona interesada.",
+"Que hayan comparecido en él tienen el deber de presentar documentación conjuntamente."
+]
+},
+{
+"id": "vo-08-005",
+"origen": "votaciones",
+"test": "Clase de repaso 2- Bloque III",
+"n": 5,
+"enunciado": "Conforme lo dispuesto en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la comparecencia de las personas ante las oficinas públicas, ya sea presencialmente o por medios electrónicos: (Junta Andalucía A1 – 2016)",
+"opciones": [
+"Sólo será obligatoria cuando así esté previsto en una norma con rango de ley.",
+"Sólo será obligatoria cuando lo disponga una disposición de carácter reglamentario.",
+"Será potestativa, y a instancia de la unidad administrativa.",
+"En todo caso será discrecional del órgano superior jerárquico que adopte la decisión."
+]
+},
+{
+"id": "vo-08-006",
+"origen": "votaciones",
+"test": "Clase de repaso 2- Bloque III",
+"n": 6,
+"enunciado": "Según el artículo 20 de la Ley 39/2015, responsabilidad de la tramitación, los titulares de las unidades administrativas y el personal al servicio de las Administraciones Públicas que tuviesen a su cargo la resolución o el despacho de los asuntos:",
+"opciones": [
+"Serán responsables indirectos de su tramitación, en los trámites electrónicos.",
+"No serán responsables directos de su tramitación.",
+"Adoptarán las medidas oportunas para remover los obstáculos que impidan, dificulten o retrasen el ejercicio pleno de los derechos de los interesados.",
+"No adoptarán las medidas oportunas para remover los obstáculos que impidan, faciliten o retrasen el ejercicio parcial de los derechos de los interesados."
+]
+},
+{
+"id": "vo-08-007",
+"origen": "votaciones",
+"test": "Clase de repaso 2- Bloque III",
+"n": 7,
+"enunciado": "De acuerdo con la Ley 39/2015, el plazo máximo en que debe notificarse la resolución expresa será: (SIAL – 2023)",
+"opciones": [
+"De tres meses",
+"De seis meses.",
+"De doce meses.",
+"El fijado por la norma reguladora del correspondiente procedimiento."
+]
+},
+{
+"id": "vo-08-008",
+"origen": "votaciones",
+"test": "Clase de repaso 2- Bloque III",
+"n": 8,
+"enunciado": "Conforme al artículo 21.2 de la Ley 39/2015, el plazo máximo en el que debe notificarse la resolución expresa será el fijado por la norma reguladora del correspondiente procedimiento. Este plazo no podrá exceder de: (Diputación Cáceres A1 – 2025)",
+"opciones": [
+"Seis meses salvo que una norma con rango de Ley establezca uno mayor o así venga previsto en el Derecho de la Unión Europea.",
+"Dos meses salvo que una norma con rango de Ley establezca uno mayor o así venga previsto en el Derecho de la Unión Europea.",
+"En ningún caso puede ser superior a tres meses.",
+"Tres meses salvo que una norma con rango de Ley establezca uno mayor o así venga previsto en el Derecho de la Unión Europea."
+]
+},
+{
+"id": "vo-08-009",
+"origen": "votaciones",
+"test": "Clase de repaso 2- Bloque III",
+"n": 9,
+"enunciado": "De conformidad con la Ley 39/2015, la Administración está obligada a dictar resolución y notificarla en todos los procedimientos, salvo: (Extremadura A2 – 2021)",
+"opciones": [
+"Que se produzca la renuncia del derecho.",
+"Que haya operado el silencio administrativo de carácter positivo.",
+"Que termine el procedimiento por pacto o convenio.",
+"Que el interesado haya desistido del procedimiento."
+]
+},
+{
+"id": "vo-08-010",
+"origen": "votaciones",
+"test": "Clase de repaso 2- Bloque III",
+"n": 10,
+"enunciado": "Según el artículo 21.3 de la Ley 39/2015, el plazo de tres meses en que la Administración está obligada a dictar resolución expresa y a notificarla en los casos en que las normas reguladoras de los procedimientos no fijen el plazo máximo, se contará: (Canarias C1 PI – 2022)",
+"opciones": [
+"En los procedimientos iniciados de oficio, desde la fecha de la notificación del acuerdo de incoación al interesado.",
+"En los procedimientos iniciados de oficio, desde el día siguiente a la fecha del acuerdo de iniciación.",
+"En los procedimientos iniciados de oficio, desde la fecha del acuerdo de iniciación.",
+"Los iniciados a solicitud del interesado, desde el día siguiente a la fecha en la que la solicitud haya tenido entrada en el registro electrónico de la Administración u Organismo competente para su tramitación."
+]
+},
+{
+"id": "vo-08-011",
+"origen": "votaciones",
+"test": "Clase de repaso 2- Bloque III",
+"n": 11,
+"enunciado": "Según la Ley 39/2015, cuando los interesados promuevan la recusación en la tramitación de un procedimiento, el transcurso del plazo máximo legal para resolver y notificar: (Castilla La Mancha A2 Extraordinario – 2025)",
+"opciones": [
+"Se suspenderá hasta un máximo de quince días.",
+"Se suspenderá desde que la recusación se plantee hasta que sea resuelta por el superior jerárquico del recusado.",
+"Se podrá suspender cuando así sea decidido por el superior jerárquico del recusado.",
+"En ningún caso, se suspenderá."
+]
+},
+{
+"id": "vo-08-012",
+"origen": "votaciones",
+"test": "Clase de repaso 2- Bloque III",
+"n": 12,
+"enunciado": "Se podrá suspender el plazo máximo legal para resolver un procedimiento y notificar, en los siguientes casos:",
+"opciones": [
+"Cuando se soliciten informes preceptivos a un órgano de la misma o distinta Administración. Este plazo de suspensión no podrá exceder, salvo determinados casos, de 3 meses.",
+"Cuando deban realizarse pruebas técnicas o análisis contradictorios o dirimentes de oficio.",
+"Cuando el órgano competente para resolver decida realizar alguna actuación complementaria de las previstas en el artículo 87.",
+"Cuando deba obtenerse pronunciamiento previo y preceptivo de órgano de la Unión Europea."
+]
+},
+{
+"id": "vo-08-013",
+"origen": "votaciones",
+"test": "Clase de repaso 2- Bloque III",
+"n": 13,
+"enunciado": "El artículo 23.2 de la Ley 39/2015, establece que contra el acuerdo que resuelva sobre la ampliación de plazos, que deberá ser notificado a los interesados: (Canarias C1 PI – 2022)",
+"opciones": [
+"Cabrá recurso extraordinario de revisión.",
+"Cabrá recurso potestativo de revisión.",
+"No cabrá recurso alguno.",
+"Cabrá recurso de alzada."
+]
+},
+{
+"id": "vo-08-014",
+"origen": "votaciones",
+"test": "Clase de repaso 2- Bloque III",
+"n": 14,
+"enunciado": "De acuerdo con la Ley 39/2015, ¿Cuál es la regla general del sentido del silencio administrativo en los procedimientos iniciados a solicitud del interesado?: (SIAL – 2023)",
+"opciones": [
+"El silencio administrativo siempre es positivo, estimatorio de la solicitud.",
+"El silencio administrativo será negativo, desestimatorio, en todos los casos.",
+"El silencio administrativo es positivo, excepto en los casos en los que una norma con rango de Ley o de Derecho de la Unión Europea o de Derecho internacional aplicable en España establezcan lo contrario.",
+"El silencio administrativo es siempre positivo, salvo en los procedimientos sancionadores o de responsabilidad patrimonial."
+]
+},
+{
+"id": "vo-08-015",
+"origen": "votaciones",
+"test": "Clase de repaso 2- Bloque III",
+"n": 15,
+"enunciado": "Según la Ley 39/2015, en los casos de desestimación de una solicitud por silencio administrativo, la resolución expresa posterior al vencimiento del plazo: (ITAL -2023)",
+"opciones": [
+"Solo podrá ser desestimatoria.",
+"Será nula de pleno derecho.",
+"Será anulable.",
+"Se adoptará sin vinculación alguna al sentido del silencio administrativo."
+]
+},
+{
+"id": "vo-08-016",
+"origen": "votaciones",
+"test": "Clase de repaso 2- Bloque III",
+"n": 16,
+"enunciado": "Según lo establecido en el artículo 24 de la ley 39/2015, el sentido del silencio administrativo tendrá carácter: (Salamanca A2 – 2023)",
+"opciones": [
+"Siempre estimatorio.",
+"Un Real Decreto puede disponer el carácter desestimatorio del silencio.",
+"El silencio tendrá efectos desestimatorios cuando se transfieran facultades relativas al dominio público.",
+"El sentido del silencio será estimatorio en los procedimientos relativos al ejercicio del derecho de petición."
+]
+},
+{
+"id": "vo-08-017",
+"origen": "votaciones",
+"test": "Clase de repaso 2- Bloque III",
+"n": 17,
+"enunciado": "La falta de resolución expresa en los procedimientos administrativos en que la Administración ejercite de oficio potestades sancionadoras tendrá como efecto: (Ayuntamiento Vall d´Uixó A2 – 2023)",
+"opciones": [
+"El silencio positivo.",
+"El silencio negativo.",
+"La caducidad.",
+"Ninguna de las tres es correcta."
+]
+},
+{
+"id": "vo-08-018",
+"origen": "votaciones",
+"test": "Clase de repaso 2- Bloque III",
+"n": 18,
+"enunciado": "De conformidad con la Ley 39/2015, ¿Cuál es la regla general para el cómputo de plazos cuando estos se expresan en días?: (SIAL – 2023)",
+"opciones": [
+"Se excluyen los sábados y los domingos, computando los días festivos nacionales.",
+"Se excluyen los sábados, los domingos y los declarados festivos.",
+"Se excluyen los días festivos nacionales, computando los autonómicos y locales.",
+"Computan todos los días del calendario, incluidos sábados, domingos y festivos."
+]
+},
+{
+"id": "vo-08-019",
+"origen": "votaciones",
+"test": "Clase de repaso 2- Bloque III",
+"n": 19,
+"enunciado": "Según el artículo 30 de la Ley 39/2015, que regula el cómputo de plazos, cuando estos se fijan en meses, el plazo concluirá: (Diputación Valladolid A1 – 2023)",
+"opciones": [
+"El día siguiente al que se produjo la notificación, publicación o silencio administrativo en el mes de vencimiento.",
+"El mismo día en que se produjo la notificación, publicación o silencio administrativo en el mes de vencimiento.",
+"A los treinta días contados a partir del día siguiente en que se produjo la notificación o publicación.",
+"El primer martes del mes siguiente a la notificación o publicación."
+]
+},
+{
+"id": "vo-08-020",
+"origen": "votaciones",
+"test": "Clase de repaso 2- Bloque III",
+"n": 20,
+"enunciado": "¿Cuál de las siguientes afirmaciones es FALSA de acuerdo con la regulación sobre ampliación de términos y plazos contenida en la Ley 39/2015?: (Aragón C1 – 2026)",
+"opciones": [
+"La ampliación podrá concederse de oficio o a petición de los interesados.",
+"Tanto la petición de los interesados como la decisión sobre la ampliación deberán producirse, en todo caso, antes del vencimiento del plazo de que se trate.",
+"La ampliación concedida no podrá exceder de la mitad del plazo establecido.",
+"Los interesados podrán recurrir el acuerdo que deniegue la ampliación en un plazo de diez días desde su notificación."
+]
+},
+{
+"id": "vo-08-021",
+"origen": "votaciones",
+"test": "Clase de repaso 2- Bloque III",
+"n": 21,
+"enunciado": "El acuerdo de tramitación de urgencia de un procedimiento, según la Ley 39/2015, implica: (IIPP – 2026)",
+"opciones": [
+"Que todos los plazos del procedimiento de reducirán a la mitad.",
+"Que los plazos establecidos para el procedimiento ordinario se reducirán a la mitad, salvo los relativos a la presentación de solicitudes y recursos.",
+"Que el procedimiento tendrá prioridad en su tramitación, pero los plazos no se alteran.",
+"Que los plazos establecidos para el procedimiento ordinario se reducirán a la mitad, salvo los relativos al trámite de audiencia y actuaciones complementarias."
+]
+}
+]
+}

@@ -1,0 +1,527 @@
+{
+"lote": 35,
+"casos": {},
+"calendarios": {},
+"preguntas": [
+{
+"id": "pr-19-001",
+"origen": "practicas",
+"test": "Examen nº 3",
+"n": 1,
+"enunciado": "Según el artículo 1.2 de la Ley 39/2015, cuando resulte eficaz, proporcionado y necesario para la consecución de los fines propios del procedimiento, y de manera motivada, la inclusión de trámites adicionales o distintos a los contemplados en dicha Ley podrá realizarse:",
+"opciones": [
+"Mediante ley.",
+"Mediante ley o reglamento.",
+"Mediante reglamento.",
+"Mediante acuerdo del órgano competente para iniciar o tramitar los procedimientos."
+]
+},
+{
+"id": "pr-19-002",
+"origen": "practicas",
+"test": "Examen nº 3",
+"n": 2,
+"enunciado": "Según el artículo 4 de la Ley 39/2015, las personas que tengan derechos que puedan resultar afectados por la decisión que se adopte:",
+"opciones": [
+"Tendrán la consideración de interesados en el procedimiento.",
+"Tendrán la consideración de interesados únicamente cuando promuevan el procedimiento.",
+"Tendrán la consideración de interesados únicamente cuando se personen en el procedimiento.",
+"Tendrán la consideración de interesados únicamente si se personan en el procedimiento antes de que recaiga resolución definitiva."
+]
+},
+{
+"id": "pr-19-003",
+"origen": "practicas",
+"test": "Examen nº 3",
+"n": 3,
+"enunciado": "De acuerdo con la Ley 39/2015, cuando la condición de interesado derivase de alguna relación jurídica transmisible, el derecho-habiente sucederá en tal condición:",
+"opciones": [
+"Siempre que el procedimiento se encuentre en una fase anterior al trámite de audiencia.",
+"Siempre que el procedimiento se encuentre en una fase anterior a la de finalización.",
+"Siempre que el procedimiento se encuentre en una fase anterior a la de instrucción.",
+"Cualquiera que sea el estado del procedimiento."
+]
+},
+{
+"id": "pr-19-004",
+"origen": "practicas",
+"test": "Examen nº 3",
+"n": 4,
+"enunciado": "Según el artículo 13 de la Ley 39/2015, entre los derechos de las personas en sus relaciones con las Administraciones Públicas se reconoce el derecho a:",
+"opciones": [
+"Actuar asistidas de asesor cuando lo consideren conveniente en defensa de sus intereses.",
+"Comunicarse con las Administraciones Públicas a través de un Punto de Acceso General electrónico de la Administración.",
+"Identificar al personal al servicio de las Administraciones Públicas bajo cuya responsabilidad se tramiten los procedimientos.",
+"Conocer, en cualquier momento, el estado de tramitación de los procedimientos administrativos que afecten al interés general."
+]
+},
+{
+"id": "pr-19-005",
+"origen": "practicas",
+"test": "Examen nº 3",
+"n": 5,
+"enunciado": "De acuerdo con el artículo 21.1 de la Ley 39/2015, y sin perjuicio de las excepciones previstas en dicho precepto, la Administración está obligada a dictar resolución expresa y a notificarla:",
+"opciones": [
+"En todos los procedimientos, salvo desistimiento de la solicitud.",
+"En todos los procedimientos, salvo en los casos de prescripción o renuncia del derecho.",
+"En todos los procedimientos, salvo en caso de desaparición sobrevenida del objeto del procedimiento.",
+"En todos los procedimientos, cualquiera que sea su forma de iniciación."
+]
+},
+{
+"id": "pr-19-006",
+"origen": "practicas",
+"test": "Examen nº 3",
+"n": 6,
+"enunciado": "En los procedimientos iniciados de oficio en que la Administración ejerza potestades sancionadoras o, en general, de intervención, susceptibles de producir efectos desfavorables o de gravamen, el vencimiento del plazo máximo sin que se haya dictado y notificado resolución expresa:",
+"opciones": [
+"Produce el silencio administrativo, que tendrá efectos desestimatorios.",
+"Determina la prescripción de las acciones.",
+"Determina la caducidad del procedimiento.",
+"Produce el silencio administrativo, que tendrá efectos estimatorios."
+]
+},
+{
+"id": "pr-19-007",
+"origen": "practicas",
+"test": "Examen nº 3",
+"n": 7,
+"enunciado": "De acuerdo con el artículo 35 de la Ley 39/2015, de 1 de octubre, ¿cuál de los siguientes actos ha de ser motivado?",
+"opciones": [
+"La propuesta de resolución de un procedimiento de responsabilidad patrimonial.",
+"La inadmisión a trámite de las solicitudes de revisión de actos nulos formuladas por los interesados.",
+"La aceptación de pruebas propuestas por los interesados.",
+"La aceptación del desistimiento de una solicitud de responsabilidad patrimonial."
+]
+},
+{
+"id": "pr-19-008",
+"origen": "practicas",
+"test": "Examen nº 3",
+"n": 8,
+"enunciado": "Según el artículo 47 de la Ley 39/2015, ¿cuál de los siguientes supuestos NO determina la nulidad de pleno derecho del acto administrativo?",
+"opciones": [
+"Que tenga un contenido imposible.",
+"Que se haya dictado prescindiendo total y absolutamente del procedimiento legalmente establecido.",
+"Que haya sido dictado por órgano manifiestamente incompetente por razón de la jerarquía.",
+"Que lesione derechos y libertades susceptibles de amparo constitucional."
+]
+},
+{
+"id": "pr-19-009",
+"origen": "practicas",
+"test": "Examen nº 3",
+"n": 9,
+"enunciado": "Según el artículo 47.2 de la Ley 39/2015, una disposición administrativa que regule una materia reservada a la Ley:",
+"opciones": [
+"Puede ser convalidada.",
+"Es nula de pleno derecho.",
+"Es anulable.",
+"Es anulable si da lugar a la indefensión de los interesados."
+]
+},
+{
+"id": "pr-19-010",
+"origen": "practicas",
+"test": "Examen nº 3",
+"n": 10,
+"enunciado": "Según el artículo 48 de la ley 39/2015, los actos de la Administración que incurran en cualquier infracción del ordenamiento jurídico son:",
+"opciones": [
+"Nulos de pleno derecho, incluso los que incurran en desviación de poder.",
+"Nulos de pleno derecho, salvo los que incurran en desviación de poder.",
+"Anulables, incluso los que incurran en desviación de poder.",
+"Anulables, salvo los que incurran en desviación de poder."
+]
+},
+{
+"id": "pr-19-011",
+"origen": "practicas",
+"test": "Examen nº 3",
+"n": 11,
+"enunciado": "De acuerdo con el artículo 48.3 de la Ley 39/2015, la realización de actuaciones administrativas fuera del tiempo establecido para ellas:",
+"opciones": [
+"Determinará, en todo caso, la nulidad del acto.",
+"Determinará, en todo caso, la anulabilidad del acto.",
+"Solo implicará la nulidad del acto cuando así lo imponga la naturaleza del término o plazo.",
+"Solo implicará la anulabilidad del acto cuando así lo imponga la naturaleza del término o plazo."
+]
+},
+{
+"id": "pr-19-012",
+"origen": "practicas",
+"test": "Examen nº 3",
+"n": 12,
+"enunciado": "Según el artículo 66.1 de la Ley 39/2015, ¿cuál de los siguientes extremos no debe figurar necesariamente en una solicitud de iniciación?",
+"opciones": [
+"La dirección de correo electrónico y/o dispositivo electrónico a fin de recibir el aviso de la puesta a disposición de la notificación.",
+"Los hechos, razones y petición en que se concrete, con toda claridad, la solicitud.",
+"La firma del solicitante o acreditación de la autenticidad de su voluntad expresada por cualquier medio.",
+"El código de identificación del órgano, centro o unidad administrativa a la que se dirige la solicitud."
+]
+},
+{
+"id": "pr-19-013",
+"origen": "practicas",
+"test": "Examen nº 3",
+"n": 13,
+"enunciado": "Según el artículo 66.4 de la Ley 39/2015, en relación con los modelos y sistemas de presentación masiva que permitan a los interesados presentar simultáneamente varias solicitudes, las Administraciones Públicas:",
+"opciones": [
+"Podrán establecerlos y, en caso de hacerlo, serán de uso obligatorio.",
+"Podrán establecerlos y, en caso de hacerlo, serán de uso voluntario.",
+"Deberán establecerlos y serán de uso obligatorio.",
+"Deberán establecerlos y serán de uso voluntario."
+]
+},
+{
+"id": "pr-19-014",
+"origen": "practicas",
+"test": "Examen nº 3",
+"n": 14,
+"enunciado": "Conforme al artículo 67.1 de la Ley 39/2015, en caso de daños de carácter físico o psíquico a las personas, ¿desde cuándo comenzará a computarse el plazo de prescripción del derecho a reclamar responsabilidad patrimonial?",
+"opciones": [
+"Desde que se determine la relación de causalidad entre las lesiones producidas y el funcionamiento del servicio público.",
+"Desde que se manifieste efecto lesivo del acto que motive la indemnización.",
+"Desde la curación o la determinación del alcance de las secuelas.",
+"Desde el día en que la lesión efectivamente se produjo."
+]
+},
+{
+"id": "pr-19-015",
+"origen": "practicas",
+"test": "Examen nº 3",
+"n": 15,
+"enunciado": "Conforme al artículo 68.1 de la Ley 39/2015, si la solicitud de iniciación no reúne los requisitos exigidos y se requiere al interesado para que subsane la falta o acompañe los documentos preceptivos, ¿qué plazo tendrá para atender el requerimiento y qué consecuencia producirá no hacerlo?",
+"opciones": [
+"Tendrá un plazo de diez días y, si no lo atiende, perderá el derecho al trámite correspondiente.",
+"Tendrá un plazo de diez días y, si no lo atiende, se le tendrá por desistido de su petición, previa resolución.",
+"Tendrá un plazo de quince días y, si no lo atiende, perderá el derecho al trámite correspondiente.",
+"Tendrá un plazo de quince días y, si no lo atiende, se le tendrá por desistido de su petición, previa resolución."
+]
+},
+{
+"id": "pr-19-016",
+"origen": "practicas",
+"test": "Examen nº 3",
+"n": 16,
+"enunciado": "Según el artículo 69.2 de la Ley 39/2015, el documento mediante el que los interesados ponen en conocimiento de la Administración Pública competente sus datos identificativos o cualquier otro dato relevante para el inicio de una actividad o el ejercicio de un derecho se denomina:",
+"opciones": [
+"Certificación.",
+"Solicitud.",
+"Comunicación.",
+"Declaración responsable."
+]
+},
+{
+"id": "pr-19-017",
+"origen": "practicas",
+"test": "Examen nº 3",
+"n": 17,
+"enunciado": "De acuerdo con la Ley 39/2015, en relación con las declaraciones responsables y las comunicaciones, señale la afirmación incorrecta:",
+"opciones": [
+"Permiten el reconocimiento o ejercicio de un derecho, o bien el inicio de una actividad, desde el día de su presentación.",
+"Cuando la legislación correspondiente lo prevea expresamente, podrán presentarse con posterioridad al inicio de la actividad.",
+"Para iniciar una misma actividad, únicamente será exigible, bien una declaración responsable, bien una comunicación.",
+"No existe obligación de resolver cuando el ejercicio del derecho esté sujeto únicamente a declaración responsable o comunicación."
+]
+},
+{
+"id": "pr-19-018",
+"origen": "practicas",
+"test": "Examen nº 3",
+"n": 18,
+"enunciado": "Conforme al artículo 70 de la Ley 39/2015, en relación con el expediente administrativo, señale la afirmación incorrecta:",
+"opciones": [
+"Tendrá formato electrónico.",
+"En él constará copia electrónica certificada de la resolución adoptada.",
+"Cuando deba remitirse, contendrá un índice numerado de todos los documentos que lo integren.",
+"Incluirá información de carácter auxiliar o de apoyo, así como juicios de valor emitidos por las Administraciones Públicas."
+]
+},
+{
+"id": "pr-19-019",
+"origen": "practicas",
+"test": "Examen nº 3",
+"n": 19,
+"enunciado": "Conforme al artículo 71.1 de la Ley 39/2015, el procedimiento administrativo, sometido al principio de celeridad, se impulsará:",
+"opciones": [
+"De oficio, en todos sus trámites.",
+"A instancia de parte, en todos sus trámites.",
+"De oficio o a instancia de parte, según la forma de iniciación del procedimiento.",
+"A instancia de parte en los trámites que deban cumplimentar los interesados y de oficio en los demás."
+]
+},
+{
+"id": "pr-19-020",
+"origen": "practicas",
+"test": "Examen nº 3",
+"n": 20,
+"enunciado": "Conforme al artículo 72.1 de la Ley 39/2015, la concentración en un solo acto de todos los trámites que admitan impulso simultáneo y no exijan cumplimiento sucesivo responde al principio de:",
+"opciones": [
+"Simplificación administrativa.",
+"Impulso de oficio.",
+"Celeridad.",
+"Buena administración."
+]
+},
+{
+"id": "pr-19-021",
+"origen": "practicas",
+"test": "Examen nº 3",
+"n": 21,
+"enunciado": "Conforme a la Ley 39/2015, cuando el interesado no cumplimente en plazo un trámite que no sea indispensable para dictar resolución, dicha inactividad:",
+"opciones": [
+"Determinará que se le tenga por desistido de su petición, previa resolución.",
+"Determinará la caducidad del procedimiento.",
+"Impedirá la continuación del procedimiento hasta que el trámite sea cumplimentado.",
+"No tendrá otro efecto que la pérdida de su derecho al referido trámite."
+]
+},
+{
+"id": "pr-19-022",
+"origen": "practicas",
+"test": "Examen nº 3",
+"n": 22,
+"enunciado": "De acuerdo con el artículo 74 de la Ley 39/2015, las cuestiones incidentales que se susciten en el procedimiento:",
+"opciones": [
+"No suspenderán la tramitación del mismo, salvo las que se refieran a la nulidad de actuaciones.",
+"No suspenderán la tramitación del mismo, salvo la recusación.",
+"Suspenderán en todo caso la tramitación del mismo.",
+"No suspenderán en ningún caso la tramitación del mismo."
+]
+},
+{
+"id": "pr-19-023",
+"origen": "practicas",
+"test": "Examen nº 3",
+"n": 23,
+"enunciado": "Conforme al artículo 76 de la Ley 39/2015, durante el procedimiento administrativo, los interesados podrán aducir alegaciones y aportar documentos u otros elementos de juicio:",
+"opciones": [
+"En todo momento.",
+"En cualquier momento anterior a la resolución definitiva.",
+"En cualquier momento anterior al trámite de audiencia.",
+"En cualquier momento anterior al trámite de información pública."
+]
+},
+{
+"id": "pr-19-024",
+"origen": "practicas",
+"test": "Examen nº 3",
+"n": 24,
+"enunciado": "Conforme al artículo 76 de la Ley 39/2015, los interesados en un procedimiento administrativo podrán alegar los defectos de tramitación:",
+"opciones": [
+"En todo momento.",
+"En cualquier momento del procedimiento anterior a la propuesta de resolución.",
+"En cualquier momento del procedimiento anterior al trámite de información pública.",
+"En cualquier momento del procedimiento anterior al trámite de audiencia."
+]
+},
+{
+"id": "pr-19-025",
+"origen": "practicas",
+"test": "Examen nº 3",
+"n": 25,
+"enunciado": "Conforme a la Ley 39/2015, en relación con la práctica de la prueba en el procedimiento administrativo, señale la afirmación correcta:",
+"opciones": [
+"El instructor del procedimiento admitirá todas las pruebas propuestas por los interesados.",
+"Cuando la prueba consista en la emisión de un informe por órgano administrativo, este se considerará de carácter preceptivo.",
+"La administración comunicará a los interesados, con una antelación mínima de diez días, el inicio de las mismas.",
+"Se rechazarán las pruebas propuestas por los interesados cuya realización implique gastos que la Administración no deba soportar."
+]
+},
+{
+"id": "pr-19-026",
+"origen": "practicas",
+"test": "Examen nº 3",
+"n": 26,
+"enunciado": "Según el artículo 77 de la Ley 39/2015, cuando la Administración no tenga por ciertos los hechos alegados por los interesados o la naturaleza del procedimiento lo exija, el instructor acordará la apertura de un período de prueba por un plazo:",
+"opciones": [
+"No superior a quince días ni inferior a diez.",
+"No superior a treinta días ni inferior a diez.",
+"No superior a veinte días ni inferior a diez.",
+"No superior a treinta días ni inferior a veinte."
+]
+},
+{
+"id": "pr-19-027",
+"origen": "practicas",
+"test": "Examen nº 3",
+"n": 27,
+"enunciado": "Según el artículo 80.1 de la Ley 39/2015, los informes emitidos en el procedimiento administrativo, salvo disposición expresa en contario, serán:",
+"opciones": [
+"Facultativos y vinculantes.",
+"Preceptivos y vinculantes.",
+"Facultativos y no vinculantes.",
+"Preceptivos y no vinculantes."
+]
+},
+{
+"id": "pr-19-028",
+"origen": "practicas",
+"test": "Examen nº 3",
+"n": 28,
+"enunciado": "Según el artículo 80.2 y 3 de la Ley 39/2015, salvo que una disposición o el cumplimiento del resto de los plazos del procedimiento permita o exija otro distinto, los informes deberán emitirse en el plazo de:",
+"opciones": [
+"Quince días; y, si no se emiten en plazo, no podrán proseguirse las actuaciones.",
+"Quince días; y, si no se emiten en plazo, podrán proseguirse las actuaciones, salvo cuando se trate de un informe preceptivo.",
+"Diez días; y, si no se emiten en plazo, no podrán proseguirse las actuaciones.",
+"Diez días; y, si no se emiten en plazo, podrán proseguirse las actuaciones, salvo cuando se trate de un informe preceptivo."
+]
+},
+{
+"id": "pr-19-029",
+"origen": "practicas",
+"test": "Examen nº 3",
+"n": 29,
+"enunciado": "Según el artículo 80.4 de la Ley 39/2015, si el informe debe emitirlo una Administración Pública distinta de la que tramita el procedimiento, para expresar su punto de vista sobre sus competencias, y transcurre el plazo sin que se emita:",
+"opciones": [
+"Podrán proseguirse las actuaciones y, si el informe se emite fuera de plazo, podrá no ser tenido en cuenta al adoptar la resolución.",
+"Podrán proseguirse las actuaciones y, si el informe se emite fuera de plazo, no podrá ser tenido en cuenta al adoptar la resolución.",
+"Podrán proseguirse las actuaciones y, si el informe se emite fuera de plazo, deberá ser tenido en cuenta al adoptar la resolución.",
+"No podrán proseguirse las actuaciones hasta que se emita el informe, al tener este carácter suspensivo."
+]
+},
+{
+"id": "pr-19-030",
+"origen": "practicas",
+"test": "Examen nº 3",
+"n": 30,
+"enunciado": "De acuerdo con el artículo 81 de la Ley 39/2015, en los procedimientos de responsabilidad patrimonial, ¿en qué plazo deben emitirse, respectivamente, el informe del servicio cuyo funcionamiento haya ocasionado la presunta lesión indemnizable y el dictamen del Consejo de Estado, cuando este sea preceptivo?",
+"opciones": [
+"Diez días y un mes.",
+"Quince días y un mes.",
+"Diez días y dos meses.",
+"Quince días y dos meses."
+]
+},
+{
+"id": "pr-19-031",
+"origen": "practicas",
+"test": "Examen nº 3",
+"n": 31,
+"enunciado": "De acuerdo con el artículo 81.2 de la Ley 39/2015, en los procedimientos de responsabilidad patrimonial será preceptivo solicitar dictamen del Consejo de Estado o, en su caso, del órgano consultivo de la Comunidad Autónoma, cuando la indemnización reclamada sea de cuantía igual o superior a:",
+"opciones": [
+"10.000 euros.",
+"30.000 euros.",
+"40.000 euros.",
+"50.000 euros."
+]
+},
+{
+"id": "pr-19-032",
+"origen": "practicas",
+"test": "Examen nº 3",
+"n": 32,
+"enunciado": "De acuerdo con el artículo 81.3 de la Ley 39/2015, en las reclamaciones de responsabilidad patrimonial del Estado por funcionamiento anormal de la Administración de Justicia, el informe del Consejo General del Poder Judicial:",
+"opciones": [
+"Deberá evacuarse en el plazo de dos meses; el plazo para resolver quedará suspendido hasta un máximo de dos meses.",
+"Deberá evacuarse en el plazo de dos meses; el plazo para resolver quedará suspendido hasta un máximo de tres meses.",
+"Deberá evacuarse en el plazo de un mes; el plazo para resolver quedará suspendido hasta un máximo de dos meses.",
+"Deberá evacuarse en el plazo de un mes; el plazo para resolver quedará suspendido hasta un máximo de tres meses."
+]
+},
+{
+"id": "pr-19-033",
+"origen": "practicas",
+"test": "Examen nº 3",
+"n": 33,
+"enunciado": "Conforme al artículo 82.1 de la Ley 39/2015, ¿en qué momento se pondrán de manifiesto las actuaciones a los interesados o, en su caso, a sus representantes, a efectos del trámite de audiencia?",
+"opciones": [
+"Inmediatamente después de solicitar el dictamen del Consejo de Estado u órgano consultivo equivalente.",
+"Una vez iniciado el procedimiento e inmediatamente antes de abrir el período de prueba.",
+"Una vez redactada la propuesta de resolución e inmediatamente antes de dictar resolución.",
+"Una vez instruido el procedimiento e inmediatamente antes de redactar la propuesta de resolución."
+]
+},
+{
+"id": "pr-19-034",
+"origen": "practicas",
+"test": "Examen nº 3",
+"n": 34,
+"enunciado": "Conforme al artículo 82.2 de la Ley 39/2015, en el trámite de audiencia, los interesados dispondrán, para alegar y presentar los documentos y justificaciones que estimen pertinentes, de un plazo:",
+"opciones": [
+"No inferior a diez días ni superior a quince.",
+"No inferior a diez días ni superior a treinta.",
+"No inferior a quince días ni superior a treinta.",
+"No superior a diez días ni inferior a cinco."
+]
+},
+{
+"id": "pr-19-035",
+"origen": "practicas",
+"test": "Examen nº 3",
+"n": 35,
+"enunciado": "Conforme al artículo 83 de la Ley 39/2015, en relación con el período de información pública, señale la afirmación correcta:",
+"opciones": [
+"Su apertura será acordada por el órgano instructor del procedimiento.",
+"El anuncio deberá publicarse, en todo caso, en el Boletín Oficial del Estado.",
+"La comparecencia en este trámite no otorga, por sí misma, la condición de interesado.",
+"La incomparecencia en este trámite impedirá a los interesados interponer recurso contra la resolución definitiva."
+]
+},
+{
+"id": "pr-19-036",
+"origen": "practicas",
+"test": "Examen nº 3",
+"n": 36,
+"enunciado": "Según la Ley 39/2015, el plazo para efectuar alegaciones en un periodo de información pública:",
+"opciones": [
+"En ningún caso podrá ser superior a 15 días.",
+"En ningún caso podrá ser inferior a 20 días.",
+"No será inferior a 10 días, ni superior a 15.",
+"En ningún caso podrá ser superior a 20 días."
+]
+},
+{
+"id": "pr-19-037",
+"origen": "practicas",
+"test": "Examen nº 3",
+"n": 37,
+"enunciado": "Según el artículo 85.1 de la Ley 39/2015, si, iniciado un procedimiento sancionador, el infractor reconoce su responsabilidad:",
+"opciones": [
+"Deberán aplicarse reducciones de un 40 % sobre el importe de la sanción propuesta.",
+"Terminará el procedimiento, salvo en lo relativo a la reposición de la situación alterada.",
+"El acuerdo de inicio podrá ser considerado propuesta de resolución.",
+"Se podrá resolver el procedimiento con la imposición de la sanción que proceda."
+]
+},
+{
+"id": "pr-19-038",
+"origen": "practicas",
+"test": "Examen nº 3",
+"n": 38,
+"enunciado": "Conforme al artículo 86.1 de la Ley 39/2015, los acuerdos, pactos, convenios o contratos que celebren las Administraciones Públicas, ¿pueden insertarse en el procedimiento con carácter previo a la resolución que le ponga fin?",
+"opciones": [
+"Sí, pudiendo tener carácter vinculante o no.",
+"Sí, y en tal caso tendrán carácter vinculante.",
+"Sí, pero en tal caso tendrán carácter no vinculante.",
+"No, solo podrán tener la consideración de finalizadores del procedimiento."
+]
+},
+{
+"id": "pr-19-039",
+"origen": "practicas",
+"test": "Examen nº 3",
+"n": 39,
+"enunciado": "Conforme al artículo 87.1 de la Ley 39/2015, antes de dictar resolución, la realización de actuaciones complementarias indispensables para resolver el procedimiento podrá ser acordada:",
+"opciones": [
+"Por el órgano competente para tramitar, mediante acuerdo motivado.",
+"Por el órgano competente para resolver, mediante acuerdo motivado.",
+"Por el órgano competente para tramitar, sin necesidad de motivación.",
+"Por el órgano competente para resolver, sin necesidad de motivación."
+]
+},
+{
+"id": "pr-19-040",
+"origen": "practicas",
+"test": "Examen nº 3",
+"n": 40,
+"enunciado": "Conforme al artículo 87 de la Ley 39/2015, acordada la realización de actuaciones complementarias, ¿qué plazo se concederá a los interesados para formular alegaciones y en qué momento?",
+"opciones": [
+"Quince días, tras la finalización de las actuaciones complementarias.",
+"Quince días, antes de la realización de las actuaciones complementarias.",
+"Siete días, tras la finalización de las actuaciones complementarias.",
+"Siete días, antes de la realización de las actuaciones complementarias."
+]
+}
+]
+}

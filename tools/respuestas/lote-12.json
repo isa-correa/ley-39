@@ -1,0 +1,497 @@
+{
+ "of-02-001": {
+  "bloque": "actividad",
+  "precepto": "Art. 21.3.a) de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El **art. 21.3.a)** dice que, si el procedimiento se inicia de oficio (lo arranca la propia Administración), el plazo cuenta desde la fecha del acuerdo de iniciación. Es decir, desde que la Administración decide empezar, aunque tú te enteres más tarde.",
+   "No. Te han cambiado la fecha del acuerdo por la de su notificación. El plazo empieza cuando se acuerda iniciar, no cuando te lo comunican.",
+   "No. La ley no toma como referencia ningún primer contacto con el interesado. El punto de partida es el acuerdo de iniciación.",
+   "No. Una denuncia no inicia el procedimiento por sí sola: solo avisa a la Administración de unos hechos. El plazo cuenta desde el acuerdo que abre el procedimiento."
+  ],
+  "ojo": "Si el procedimiento lo pide el interesado, la fecha es otra: la entrada de la solicitud en el registro electrónico del órgano competente (art. 21.3.b)."
+ },
+ "of-02-002": {
+  "bloque": "actividad",
+  "precepto": "Art. 21.3 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El **art. 21.3** dice que, cuando la norma del procedimiento no fija plazo, este es de **tres meses**. Es el plazo “de reserva”, el que se aplica si nadie ha dicho otra cosa.",
+   "No. Dos meses no aparece en el art. 21 como plazo de reserva. Si la norma calla, son tres meses.",
+   "No. Seis meses es otra cosa: el tope que no puede superar la norma cuando sí fija un plazo (art. 21.2). Si no lo fija, son tres.",
+   "No. Un mes no es el plazo que da el art. 21.3. Te lo han reducido: son tres meses."
+  ],
+  "ojo": "No confundas: 3 meses si la norma no dice nada, y 6 meses como máximo si la norma lo fija."
+ },
+ "of-02-003": {
+  "bloque": "plazos",
+  "precepto": "Art. 30.2 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Los sábados también se excluyen. Esta regla, con el sábado como día que cuenta, ya no es la vigente.",
+   "Es esta. El **art. 30.2** dice que los plazos por días son hábiles, y que no se cuentan sábados, domingos ni festivos. Solo serían naturales si lo dijera una ley o el Derecho de la Unión Europea.",
+   "No. Falla dos veces: los días son hábiles, no naturales, y el sábado también queda fuera.",
+   "No. Los días excluidos están bien, pero te han cambiado “hábiles” por “naturales”. Si son naturales, se cuentan todos, sin excluir ninguno."
+  ]
+ },
+ "of-02-004": {
+  "bloque": "actividad",
+  "precepto": "Art. 19.1 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. No basta con que lo decida la autoridad o el personal que tramita. Solo una norma con rango de ley puede obligarte a comparecer.",
+   "No. La regla es la contraria: comparecer “sólo” es obligatorio en el caso que prevé la ley, no siempre.",
+   "No. Te han bajado el rango: un reglamento no basta. Tiene que ser una norma con rango de ley.",
+   "Es esta. El **art. 19.1** dice que comparecer ante las oficinas públicas, en persona o por medios electrónicos, solo es obligatorio cuando lo prevé una **norma con rango de ley**. Es una garantía: no te pueden obligar a ir con una simple orden o reglamento."
+  ],
+  "ojo": "Vigila la palabra “reglamento”: es el cambio típico en esta pregunta."
+ },
+ "of-02-005": {
+  "bloque": "actividad",
+  "precepto": "Art. 24.3.a) de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Te han cambiado “estimación” por “desestimación”. La que vale como acto que termina el procedimiento es la estimación (art. 24.2). La desestimación solo sirve para poder recurrir.",
+   "Es esta. El **art. 24.3.a)** dice que, si ya has ganado por silencio, la resolución que llegue después solo puede ser **confirmatoria**. Es decir, la Administración llega tarde y ya no puede decirte que no.",
+   "No. Es al revés: en el derecho de petición del art. 29 de la Constitución el silencio es desestimatorio (art. 24.1, párrafo segundo).",
+   "No. Producen efectos desde que vence el plazo máximo para resolver, no desde el certificado (art. 24.4). El certificado solo es una forma de probarlo."
+  ],
+  "ojo": "Comparación rápida: tras un silencio estimatorio, la resolución tardía solo puede confirmar. Tras uno desestimatorio, la Administración resuelve con libertad (art. 24.3.b)."
+ },
+ "of-02-006": {
+  "bloque": "actividad",
+  "precepto": "Art. 21.2 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. El art. 21.2 no da ninguna cifra de un mes. El plazo lo marca la norma de cada procedimiento.",
+   "No. Dos meses no es un plazo general del art. 21. Lo primero es mirar qué dice la norma del procedimiento.",
+   "No. Quince días tampoco es un plazo del art. 21.2. La referencia es la norma de cada procedimiento.",
+   "Es esta. El **art. 21.2** dice que el plazo máximo es el que fija la norma reguladora de cada procedimiento. Esa norma no puede pasar de seis meses, salvo ley o Derecho de la Unión Europea, y si no dice nada son tres meses."
+  ]
+ },
+ "of-02-007": {
+  "bloque": "actividad",
+  "precepto": "Art. 25.1.b) de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. El silencio estimatorio es propio de los procedimientos iniciados a solicitud del interesado (art. 24). Aquí la Administración quería sancionar, así que no hay ninguna pretensión que estimar.",
+   "Es esta. El **art. 25.1.b)** dice que, si la Administración ejerce potestades sancionadoras y se pasa de plazo, el procedimiento **caduca**. Se archivan las actuaciones. Es la consecuencia lógica: quería perjudicarte y ha llegado tarde.",
+   "No. La desestimación por silencio se da en los procedimientos de oficio de los que pueden salir derechos o ventajas para el interesado (art. 25.1.a), no en los sancionadores.",
+   "No. La prescripción es otra figura: afecta a la infracción o a la sanción por el paso del tiempo. Lo que produce el vencimiento del plazo aquí es la caducidad del procedimiento."
+  ],
+  "ojo": "De oficio, dos salidas: si puede favorecerte, silencio desestimatorio. Si puede perjudicarte, caducidad."
+ },
+ "of-02-008": {
+  "bloque": "actividad",
+  "precepto": "Art. 21.2 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. La salvedad es la buena, pero te han cambiado la cifra: son seis meses, no dos.",
+   "No. Tres meses es el plazo cuando la norma no fija ninguno (art. 21.3). El tope máximo del art. 21.2 es de seis.",
+   "No. La salvedad es la buena, pero cinco meses no es el tope. Son seis.",
+   "Es esta. El **art. 21.2** fija el tope en **seis meses**: la norma del procedimiento no puede pasar de ahí. Solo se admite más si lo dice una norma con rango de ley o lo prevé el Derecho de la Unión Europea."
+  ]
+ },
+ "of-02-009": {
+  "bloque": "actividad",
+  "precepto": "Art. 21.3 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Falla el plazo: son tres meses, no seis. Y además el registro no es “cualquiera”, sino el de la Administración u Organismo competente.",
+   "Es esta. El **art. 21.3** da tres meses si la norma no fija plazo, y en los procedimientos de oficio se cuentan desde la **fecha del acuerdo de iniciación** (letra a).",
+   "No. La fecha de inicio es la buena, pero el plazo no. Si la norma no fija plazo, son tres meses, no seis.",
+   "No. El plazo es el bueno, pero te han cambiado el registro. Cuenta desde la entrada en el registro electrónico de la Administración u Organismo competente para tramitar, no en “cualquier” registro (art. 21.3.b)."
+  ],
+  "ojo": "La trampa está en “cualquier registro electrónico”. Si presentas en un registro que no es el del órgano competente, el plazo aún no corre."
+ },
+ "of-02-010": {
+  "bloque": "plazos",
+  "precepto": "Art. 32.2 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Te han cambiado el límite: la ampliación no puede pasar de **la mitad** del plazo (art. 32.1), no de un mes.",
+   "No. Los acuerdos sobre ampliación o su denegación no se pueden recurrir (art. 32.3). Podrás quejarte al recurrir la resolución que ponga fin al procedimiento.",
+   "Es esta. El **art. 32.2** dice que la ampliación por el tiempo máximo se aplica “en todo caso” a los procedimientos de misiones diplomáticas y consulados. Tiene sentido: al tramitar desde el extranjero todo tarda más.",
+   "No. El art. 32.3 es tajante: “en ningún caso” se puede ampliar un plazo ya vencido. No hay excepción, ni con justificación."
+  ],
+  "ojo": "Tres ideas del art. 32: hasta la mitad del plazo, antes de que venza y sin recurso."
+ },
+ "of-02-011": {
+  "bloque": "plazos",
+  "precepto": "Art. 30.1 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Te han doblado la cifra. El tope son 24 horas: lo que pase de ahí se expresa en días.",
+   "Es esta. El **art. 30.1** dice que los plazos por horas “no podrán tener una duración superior a veinticuatro horas, en cuyo caso se expresarán en días”. Si necesitas más de 24 horas, el plazo se pone en días.",
+   "No. La ley sí regula los plazos por horas, y es lo primero que trata el art. 30: son hábiles y se cuentan de hora en hora y de minuto en minuto.",
+   "No. Añade una excepción al tope que el artículo no pone en esa frase. La salvedad por ley o Derecho de la Unión Europea está al principio del art. 30.1 y se refiere a “otro cómputo”, no a superar las 24 horas."
+  ],
+  "ojo": "La salvedad “salvo que por Ley o en el Derecho de la Unión Europea” va al principio del art. 30.1 y se refiere a que las horas sean hábiles. El tope de 24 horas no lleva excepción."
+ },
+ "of-02-012": {
+  "bloque": "actividad",
+  "precepto": "Art. 24.1 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. La caducidad es para procedimientos de oficio que pueden perjudicar (art. 25.1.b). Aquí el procedimiento lo inicia el interesado con su reclamación.",
+   "No. Aunque la regla general a solicitud es el silencio estimatorio, la responsabilidad patrimonial es una de las excepciones del art. 24.1.",
+   "No. Te han inventado un límite. En el art. 24.1 no hay ninguna cantidad. Los 50.000 euros salen del art. 81.2, que trata de cuándo hay que pedir dictamen al Consejo de Estado.",
+   "Es esta. El párrafo segundo del **art. 24.1** dice que en responsabilidad patrimonial el silencio es **desestimatorio**. Si reclamas una indemnización y no te contestan, se entiende que te han dicho que no, y podrás recurrir."
+  ],
+  "ojo": "Los 50.000 euros son un cebo: esa cifra existe, pero para otra cosa (art. 81.2)."
+ },
+ "of-02-013": {
+  "bloque": "actividad",
+  "precepto": "Art. 19.1 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Te han bajado el rango. Un reglamento no basta: tiene que ser una norma con rango de ley.",
+   "No. El órgano que tramita no puede imponerlo por su cuenta. La obligación tiene que venir de una ley.",
+   "Es esta. El **art. 19.1** dice que comparecer, en persona o por medios electrónicos, “sólo” es obligatorio si lo prevé una **norma con rango de ley**.",
+   "No. Se pasa de larga: sí puede ser obligatoria, en el caso de que una ley lo prevea."
+  ]
+ },
+ "of-02-014": {
+  "bloque": "actividad",
+  "precepto": "Art. 21.2 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Si la norma no fija plazo, son tres meses (art. 21.3). Seis es el tope cuando la norma sí lo fija.",
+   "No. Te han cambiado los casos. El acuerdo de iniciación es para los procedimientos de oficio. A solicitud, cuenta desde la entrada en el registro electrónico del órgano competente (art. 21.3.b).",
+   "Es esta. El **art. 21.2** pone el tope en seis meses, salvo que una ley fije más o “así venga previsto en el Derecho de la Unión Europea”. Por eso, si el Derecho de la Unión lo prevé, el plazo puede pasar de seis meses.",
+   "No. El tope que te han puesto es falso: son seis meses, no tres (art. 21.2). Tres es el plazo si la norma no dice nada."
+  ]
+ },
+ "of-02-015": {
+  "bloque": "actividad",
+  "precepto": "Art. 23.2 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. La alzada no cabe aquí. El art. 23.2 dice que contra este acuerdo no hay recurso alguno.",
+   "No. Tampoco cabe reposición. El art. 23.2 no deja ninguna vía de recurso contra este acuerdo.",
+   "No. El recurso extraordinario de revisión es para casos muy concretos contra actos firmes (art. 125), y aquí está excluido por el art. 23.2.",
+   "Es esta. El **art. 23.2** dice que contra el acuerdo que resuelve sobre la ampliación, que debe notificarse a los interesados, “no cabrá recurso alguno”. Da igual que se conceda o se deniegue."
+  ],
+  "ojo": "Lo mismo pasa con la ampliación de plazos del art. 32.3 y con la tramitación de urgencia del art. 33.2: sin recurso."
+ },
+ "of-02-016": {
+  "bloque": "actividad",
+  "precepto": "Art. 14.2.c) de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Te han metido un “no”. Está obligado quien representa a un interesado que **sí** esté obligado (art. 14.2.d).",
+   "No. Las personas físicas pueden elegir si se relacionan por medios electrónicos o no (art. 14.1), salvo que estén en alguno de los casos de obligación.",
+   "No. Los empleados públicos están obligados para los trámites “por razón de su condición de empleado público” (art. 14.2.e), no para sus asuntos personales.",
+   "Es esta. El **art. 14.2.c)** obliga a quienes ejercen una profesión con colegiación obligatoria, para los trámites que hagan en ejercicio de esa profesión. Por ejemplo, una abogada que presenta un escrito para su cliente, y también notarios y registradores."
+  ]
+ },
+ "of-02-017": {
+  "bloque": "plazos",
+  "precepto": "Art. 33.2 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Contra este acuerdo no cabe alzada. El art. 33.2 no admite ningún recurso contra él.",
+   "No. Tampoco cabe reposición. Lo que se recurre, en su caso, es la resolución final.",
+   "No. El recurso extraordinario de revisión tampoco cabe. El art. 33.2 excluye cualquier recurso contra este acuerdo.",
+   "Es esta. El **art. 33.2** dice que no cabe recurso alguno contra el acuerdo que declara la urgencia. Si no estás de acuerdo, puedes alegarlo al recurrir la resolución que ponga fin al procedimiento."
+  ]
+ },
+ "of-02-018": {
+  "bloque": "plazos",
+  "precepto": "Art. 30.1 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Sí hay límite. El art. 30.1 lo fija en 24 horas.",
+   "Es esta. El **art. 30.1** dice que los plazos por horas no pueden durar más de **veinticuatro horas**. Si hace falta más tiempo, el plazo se expresa en días.",
+   "No. Te han doblado la cifra. El tope son 24 horas, no 48.",
+   "No. Te han triplicado la cifra. Pasadas las 24 horas, el plazo se expresa en días."
+  ]
+ },
+ "of-02-019": {
+  "bloque": "actividad",
+  "precepto": "Art. 21.2 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Tres meses es el plazo cuando la norma del procedimiento no fija ninguno (art. 21.3). El tope del art. 21.2 es otro.",
+   "Es esta. El **art. 21.2** dice que el plazo “no podrá exceder de seis meses”, salvo ley o Derecho de la Unión Europea. Fíjate en que es un **máximo**: la norma puede fijar menos.",
+   "No. Parece igual, pero no lo es. “Será de seis meses” suena a plazo fijo, y la ley dice “no podrá exceder”: seis meses es el techo, no el plazo de todos.",
+   "No. La ley no prevé esa ampliación automática de tres meses. La ampliación del art. 23 es excepcional, y no puede superar el plazo establecido para tramitar el procedimiento."
+  ],
+  "ojo": "La diferencia entre “será de” y “no podrá exceder de” es lo que decide esta pregunta."
+ },
+ "of-02-020": {
+  "bloque": "actividad",
+  "precepto": "Art. 19.1 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. La regla es la contraria: solo es obligatoria en el caso que prevea una ley.",
+   "No. Se pasa de larga: sí puede ser obligatoria, si lo prevé una norma con rango de ley.",
+   "No. Tener o no tener representante no es lo que decide. El art. 19.1 solo mira si hay una norma con rango de ley.",
+   "Es esta. El **art. 19.1** dice que comparecer solo es obligatorio cuando así lo prevé una **norma con rango de ley**, sea en persona o por medios electrónicos."
+  ]
+ },
+ "of-02-021": {
+  "bloque": "actividad",
+  "precepto": "Art. 21.3 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Seis meses es el tope cuando la norma sí fija plazo (art. 21.2). Si no lo fija, son tres.",
+   "No. Un mes no es el plazo que da el art. 21.3. Si la norma calla, son tres meses.",
+   "Es esta. El **art. 21.3** dice que, cuando la norma del procedimiento no fija un plazo máximo, este es de **tres meses**.",
+   "No. Dos meses no aparece en el art. 21.3. El plazo de reserva es de tres meses."
+  ]
+ },
+ "of-02-022": {
+  "bloque": "actividad",
+  "precepto": "Art. 19.2 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El **art. 19.2** dice que la citación debe decir el lugar, la fecha, la hora, los medios disponibles, el objeto y los efectos de no atender la cita. Así sabes adónde vas, a qué y qué pasa si no vas.",
+   "No. La ley no pide pactar la cita con el ciudadano. Lo que exige es que la citación te dé toda la información.",
+   "No. El art. 19 no exige ir con abogado. Actuar con abogado es una opción, no una obligación general.",
+   "No. El art. 19 vale para todas las Administraciones Públicas, no solo para la Agencia Tributaria."
+  ],
+  "ojo": "La opción correcta se salta la “fecha”, que el art. 19.2 sí nombra, pero sigue siendo la única que recoge lo que dice la ley."
+ },
+ "of-02-023": {
+  "bloque": "plazos",
+  "precepto": "Art. 30.2 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Los días excluidos están bien, pero te han cambiado “hábiles” por “naturales”. Si fueran naturales, contarían todos.",
+   "Es esta. El **art. 30.2** dice que, salvo que una ley o el Derecho de la Unión Europea digan otra cosa, los días son hábiles. Quedan fuera sábados, domingos y festivos.",
+   "No. Los sábados se excluyen, no se incluyen. La palabra “hábiles” está bien, pero el sábado es inhábil.",
+   "No. Falla dos veces: son hábiles y no naturales, y además también quedan fuera domingos y festivos."
+  ]
+ },
+ "of-03-001": {
+  "bloque": "actos",
+  "precepto": "Art. 39.1 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El **art. 39.1** dice que los actos administrativos se presumen válidos y producen efectos **desde la fecha en que se dicten**, salvo que en ellos se diga otra cosa. Se llama presunción de validez: valen mientras nadie demuestre lo contrario.",
+   "No. Sobra “en todo caso”. A veces la eficacia depende de la notificación (art. 39.2), pero la regla general es la fecha en que se dictan.",
+   "No. Te han sumado un día. La ley dice “desde la fecha”, no desde el día siguiente. Lo del día siguiente es para contar plazos (art. 30).",
+   "No. Es al revés: la retroactividad excepcional cabe para actos con efectos favorables, y para los que sustituyen a actos anulados (art. 39.3). Nunca por ser desfavorables."
+  ]
+ },
+ "of-03-002": {
+  "bloque": "actos",
+  "precepto": "Art. 36.1 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Te han cambiado “inferior” por “superior”. Lo escribe y lo firma el titular del órgano inferior o el funcionario que recibe la orden de palabra (art. 36.2).",
+   "No. Te han metido un “no”. Si son actos de la misma naturaleza, como nombramientos o licencias, sí pueden refundirse en un único acto (art. 36.3).",
+   "Es esta. El **art. 36.1** dice que los actos se producen por escrito a través de medios electrónicos, salvo que su naturaleza exija otra forma más adecuada. Es la regla general de la Administración digital.",
+   "No. Sí se puede ejercer la competencia de forma verbal. Lo prevé el art. 36.2, y regula cómo dejar constancia escrita cuando haga falta."
+  ]
+ },
+ "of-03-003": {
+  "bloque": "actos",
+  "precepto": "Art. 43.3 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Sobra “de cualquier Administración”. Tiene que ser la sede de la Administración u Organismo que actúa, o la dirección electrónica habilitada única.",
+   "Es esta. El **art. 43.3** dice que la obligación se cumple con la **puesta a disposición** de la notificación en la sede electrónica de la Administración u Organismo actuante o en la dirección electrónica habilitada única. Basta con que la Administración la deje accesible a tiempo, aunque no la abras ese día.",
+   "No. Eso es una notificación en papel, no electrónica. La pregunta va del art. 43, que solo trata de la vía electrónica.",
+   "No. Dejarla en Correos no es poner a disposición en sede electrónica. Son la sede o la dirección electrónica habilitada única."
+  ],
+  "ojo": "Esta regla sirve para saber si la Administración notificó dentro de su plazo máximo (art. 40.4). Otra cosa es cuándo se entiende practicada: al acceder al contenido (art. 43.2)."
+ },
+ "of-03-004": {
+  "bloque": "actos",
+  "precepto": "Art. 40.2 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Los diez días están bien, pero no son naturales. Si la ley dice “días” sin más, son hábiles (art. 30.2).",
+   "No. Te han subido la cifra: son diez días, no quince.",
+   "No. Fallan las dos cosas: son diez días, y son hábiles.",
+   "Es esta. El **art. 40.2** dice que toda notificación debe cursarse en **diez días** desde que se dictó el acto. Como no dice qué tipo de días son, se aplica la regla general del art. 30.2: son hábiles."
+  ],
+  "ojo": "El art. 40.2 solo dice “diez días”. Lo de “hábiles” sale de sumarle el art. 30.2."
+ },
+ "of-03-005": {
+  "bloque": "actos",
+  "precepto": "Art. 35.1.c) de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Es al revés. Separarse del criterio anterior es justo uno de los casos en que hay que explicar el porqué.",
+   "Es esta. El **art. 35.1.c)** obliga a motivar (explicar las razones) los actos que se separan del criterio seguido antes, con “sucinta referencia de hechos y fundamentos de derecho”. Si la Administración cambia de criterio, tiene que decir por qué.",
+   "No. Se queda corta: hay que citar los hechos además de los fundamentos de derecho.",
+   "No. Potestativa quiere decir voluntaria, y aquí es obligatoria: el art. 35.1 dice “serán motivados”."
+  ]
+ },
+ "of-03-006": {
+  "bloque": "actos",
+  "precepto": "Art. 37.2 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Es la trampa de la regla general del art. 48. Para este caso concreto, el art. 37.2 dice nulas, no anulables.",
+   "Es esta. El **art. 37.2** dice que son **nulas** las resoluciones que vulneren lo establecido en una disposición reglamentaria. Es decir, un acto concreto no puede saltarse un reglamento, aunque lo dicte el mismo órgano o uno superior.",
+   "No. Una resolución así no es válida. Se presume válida solo mientras no se declare lo contrario (art. 39.1), pero la ley la considera nula.",
+   "No. Un acto nulo no se arregla con subsanación. Convalidar solo es posible en los actos anulables (art. 52)."
+  ]
+ },
+ "of-03-007": {
+  "bloque": "actos",
+  "precepto": "Art. 35.1.h) de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El **art. 35.1.h)** obliga a motivar las propuestas de resolución en los procedimientos sancionadores. Tiene sentido: el presunto infractor debe saber por qué le proponen una sanción para poder defenderse.",
+   "No. El requerimiento de subsanación (art. 68) no está en la lista del art. 35. Solo te pide que corrijas o completes tu solicitud.",
+   "No. Es justo lo contrario: lo que se motiva es el acto que **se separa** del criterio anterior (art. 35.1.c). Si sigue el mismo criterio, no entra por este motivo.",
+   "No. Se motivan los actos que **rechazan** pruebas (art. 35.1.f), no los que las admiten. Si te aceptan la prueba, no hay nada que justificar."
+  ]
+ },
+ "of-03-008": {
+  "bloque": "actos",
+  "precepto": "Art. 37.1 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El **art. 37.1** dice que una resolución particular no puede vulnerar una disposición general, “aunque” venga de un órgano de igual o superior jerarquía. Es decir, ni el que hizo la norma puede saltársela para un caso concreto: tiene que cambiar la norma.",
+   "No. Le da la vuelta a la ley. Esa jerarquía igual o superior aparece en el art. 37.1 con un “aunque”, para decir que ni siquiera así es posible.",
+   "No. Ni siquiera un órgano superior puede hacerlo (art. 37.1).",
+   "No. Tampoco uno de igual jerarquía puede hacerlo (art. 37.1)."
+  ],
+  "ojo": "Si el órgano quiere otra cosa, tiene que cambiar la norma general. No puede hacer una excepción para un caso suelto."
+ },
+ "of-03-009": {
+  "bloque": "actos",
+  "precepto": "Art. 42.1 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El **art. 42.1** dice que todas las notificaciones en papel deben ponerse también a disposición en la sede electrónica de la Administración u Organismo que actúa. Así puedes verlas en internet si quieres, de forma voluntaria.",
+   "No. Te han cambiado el plazo: el segundo intento es dentro de los **tres días** siguientes, no de 48 horas (art. 42.2).",
+   "No. Infructuosa (no se pudo entregar) y rechazada no son lo mismo. Si el segundo intento falla, se publica un anuncio en el BOE (arts. 42.2 y 44).",
+   "No. Te han bajado la edad: es cualquier persona mayor de **14 años**, no de 13 (art. 42.2)."
+  ]
+ },
+ "of-03-010": {
+  "bloque": "actos",
+  "precepto": "Art. 41.2.b) de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Aquí la Administración “podrá” notificar por otro medio si tú lo pides en la oficina (art. 41.1.a), pero no está prohibida la vía electrónica “en ningún caso”.",
+   "Es esta. El **art. 41.2.b)** prohíbe notificar por medios electrónicos cuando la notificación lleva medios de pago a favor del obligado, como un cheque. Un cheque en papel no se puede mandar por internet.",
+   "No. La entrega directa por un empleado público es otro caso en que se “podrá” usar un medio no electrónico (art. 41.1.b). Es una posibilidad, no una prohibición.",
+   "No. Enviar el aviso es algo que se hace siempre, sea en papel o electrónica (art. 41.6). No impide nada y no es un caso de prohibición."
+  ],
+  "ojo": "Art. 41.1: casos en que se “podrá” usar el papel. Art. 41.2: casos en que “en ningún caso” cabe lo electrónico. La pregunta juega a mezclarlos."
+ },
+ "of-03-011": {
+  "bloque": "actos",
+  "precepto": "Art. 37.1 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El art. 37 no compara resoluciones entre sí, sino una resolución particular con una disposición general. Y además la consecuencia es la nulidad, no la anulabilidad.",
+   "No. No habla de contradecir resoluciones anteriores. Habla de vulnerar una disposición de carácter general o reglamentaria.",
+   "Es esta. Esto es lo que dice el **art. 37.1**: una resolución de carácter particular (para un caso concreto) no puede vulnerar una disposición general. “Inderogabilidad singular” significa que no se puede inaplicar la norma solo para un caso.",
+   "No. Te han cambiado “nulas” por “anulables”. El art. 37.2 dice que son nulas."
+  ]
+ },
+ "of-03-012": {
+  "bloque": "actos",
+  "precepto": "Art. 45.1.a) de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El **art. 45.1.a)** obliga a publicar cuando el acto va dirigido a una **pluralidad indeterminada** de personas. Si no se sabe quiénes son todos los destinatarios, no se puede notificar uno a uno, así que se publica.",
+   "No. El art. 45 no menciona la responsabilidad patrimonial. Estos actos se notifican a los interesados, como regla general (art. 40.1).",
+   "No. Que un acto sea desfavorable no obliga a publicarlo. Se notifica al interesado.",
+   "No. Esa es la razón para **notificar** (art. 40.1), no para publicar. Es lo que diferencia las dos figuras."
+  ],
+  "ojo": "El otro caso en que se publica siempre son los actos de procedimientos selectivos o de concurrencia competitiva, como las oposiciones (art. 45.1.b)."
+ },
+ "of-03-013": {
+  "bloque": "actos",
+  "precepto": "Art. 43.1 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El **art. 43.1** define la comparecencia en sede electrónica como el acceso del interesado **o su representante**, debidamente identificado, al contenido de la notificación. Vamos, entrar en la web con tu identificación y abrirla.",
+   "No. Se entienden practicadas cuando se accede al contenido, no cuando se envían (art. 43.2).",
+   "No. Te han cambiado el lugar. Tiene que ser la sede electrónica de la Administración u Organismo actuante o la dirección electrónica habilitada única (art. 43.3), no un tablón de la web.",
+   "No. Te han cambiado el tipo de día: son diez días **naturales**, no hábiles (art. 43.2)."
+  ]
+ },
+ "of-03-014": {
+  "bloque": "actos",
+  "precepto": "Art. 39.3 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Sobra “en todo caso”. Para los actos favorables, los hechos necesarios ya tenían que existir en la fecha a la que se retrotrae, y no se puede perjudicar a otras personas (art. 39.3).",
+   "No. Es al revés. La retroactividad se admite para efectos favorables, no desfavorables.",
+   "No. La nulidad absoluta no aparece en el art. 39.3. Lo que nombra es dictarse en sustitución de actos anulados.",
+   "Es esta. El **art. 39.3** permite excepcionalmente la eficacia retroactiva (que el acto cuente desde antes de dictarse) cuando el acto sustituye a otro anulado. Por ejemplo, si se anula una adjudicación y la nueva tiene que cubrir el mismo periodo."
+  ]
+ },
+ "of-03-015": {
+  "bloque": "actos",
+  "precepto": "Art. 41.1.b) de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Los datos personales no aparecen entre estos supuestos. La protección de datos se trata en el art. 40.5, y con otro fin.",
+   "No. No está entre los dos casos del art. 41.1, que son la comparecencia espontánea y la entrega directa por un empleado público. Lo más parecido es el art. 41.3, y solo trata del medio señalado en la solicitud cuando no se puede usar.",
+   "Es esta. El **art. 41.1.b)** lo recoge tal cual: se puede usar un medio no electrónico cuando, para asegurar la eficacia de la actuación, haga falta que un empleado público la entregue directamente. El otro caso es la comparecencia espontánea en la oficina (art. 41.1.a).",
+   "No. Las personas jurídicas están obligadas a relacionarse por vía electrónica (art. 14.2.a). Pedirlo no cambia nada, y este supuesto no está en el art. 41.1."
+  ]
+ },
+ "of-03-016": {
+  "bloque": "actos",
+  "precepto": "Art. 41.2.a) de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. La comparecencia espontánea es un caso en que se “podrá” usar el papel (art. 41.1.a), pero no está prohibida la vía electrónica.",
+   "No. La entrega directa por un empleado público es otro “podrá” del art. 41.1.b), no una prohibición.",
+   "Es esta. El **art. 41.2.a)** prohíbe la vía electrónica cuando el acto va con elementos que no se pueden pasar a formato electrónico. Por ejemplo, un objeto físico que acompañe a la notificación.",
+   "No. Sí hay límites: el art. 41.2 recoge dos casos, los elementos no convertibles y los medios de pago."
+  ],
+  "ojo": "Los dos casos de “en ningún caso” son los elementos no convertibles a formato electrónico y los medios de pago, como los cheques."
+ },
+ "of-03-017": {
+  "bloque": "actos",
+  "precepto": "Art. 39.5 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El art. 39.5 no habla de dictamen del Consejo de Estado. El art. 81 trata de otra cosa: los informes y dictámenes en responsabilidad patrimonial.",
+   "No. Entre Administraciones no cabe recurso en vía administrativa (art. 44.1 de la Ley 29/1998). El recurso extraordinario de revisión no pinta nada aquí.",
+   "Es esta. El **art. 39.5** dice que puede requerir a la otra Administración para que anule o revise el acto, según el art. 44 de la Ley 29/1998, y si esta lo rechaza, ir al contencioso-administrativo (los tribunales). Mientras, el procedimiento queda suspendido.",
+   "No. Se ha inventado esta vía. No hay dictamen, ni plazo de 2 meses para seguir adelante, ni se puede prescindir del acto por las buenas. El cauce es el requerimiento y, si falla, el juez."
+  ],
+  "ojo": "Esta suspensión también aparece en el art. 22.2.a). Es uno de los casos en que el plazo para resolver se suspende obligatoriamente."
+ },
+ "of-03-018": {
+  "bloque": "actos",
+  "precepto": "Art. 43.2 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Falla el número y el tipo de día: son diez días, y naturales.",
+   "Es esta. El **art. 43.2** dice que se entiende rechazada cuando pasan **diez días naturales** desde que se pone a disposición sin que accedas. Se aplica si la notificación electrónica es obligatoria o la has elegido tú. Naturales significa que cuentan también sábados, domingos y festivos.",
+   "No. El número es bueno, pero el tipo de día no: son naturales, no hábiles.",
+   "No. El tipo de día es bueno, pero te han cambiado el número: son diez días, no cinco."
+  ],
+  "ojo": "Es de los pocos plazos de la ley en días naturales. Si la ley no lo dijera, serían hábiles (art. 30.2)."
+ },
+ "of-03-019": {
+  "bloque": "actos",
+  "precepto": "Art. 41.5 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El anuncio en el BOE es para la notificación infructuosa (art. 44): cuando no se puede practicar. Aquí sí se pudo, y el interesado la rechazó.",
+   "No. El boletín autonómico es un anuncio voluntario y previo al del BOE, y también es para notificaciones infructuosas (art. 44). No es lo que se hace ante un rechazo.",
+   "Es esta. El **art. 41.5** dice que el rechazo se hace constar en el expediente, con las circunstancias del intento y el medio, y se da por hecho el trámite. Rechazarla no frena nada: el procedimiento sigue adelante.",
+   "No. El segundo intento en tres días es para cuando nadie se hace cargo en el domicilio (art. 42.2), no para quien la rechaza."
+  ],
+  "ojo": "Rechazada: se sigue adelante. Nadie en casa: segundo intento y, si falla, BOE."
+ },
+ "of-03-020": {
+  "bloque": "actos",
+  "precepto": "Art. 35.1.e) de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Te han cambiado la palabra: se motivan los actos que **rechazan** pruebas (art. 35.1.f), no los que las aceptan.",
+   "No. El desistimiento que el art. 35.1.g) manda motivar es el de la Administración en procedimientos iniciados de oficio. Si desiste el interesado, la Administración lo acepta “de plano”, es decir, sin más (art. 94.4).",
+   "Es esta. El **art. 35.1.e)** obliga a motivar los acuerdos de tramitación de urgencia, de ampliación de plazos y de **realización de actuaciones complementarias**. El art. 87 lo repite al hablar de “acuerdo motivado”.",
+   "No. El art. 35.1.h) solo pide motivar las propuestas de resolución en los procedimientos sancionadores. En responsabilidad patrimonial, lo que nombra es el acto que resuelve, no la propuesta."
+  ],
+  "ojo": "Lee bien la letra h): propuestas solo en sancionador; resoluciones en sancionador y en responsabilidad patrimonial."
+ }
+}

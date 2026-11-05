@@ -1,0 +1,455 @@
+{
+"au-05-003": {
+  "bloque": "plazos",
+  "precepto": "Art. 30.4 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+    "No. Falla dos veces: el cómputo no empieza el mismo día de la notificación ni el mismo día del silencio, sino el día siguiente a cada uno.",
+    "No. La primera mitad está bien, pero la segunda no: desde el silencio también se cuenta desde el día siguiente, no desde el mismo día.",
+    "Es esta. El **art. 30.4** dice que los meses o años se computan a partir del día siguiente a la notificación o publicación, y desde el siguiente a aquel en que se produce el silencio. La regla es igual para los dos casos: siempre el día siguiente.",
+    "No. La segunda mitad está bien, pero la primera no: desde la notificación o publicación se cuenta desde el día siguiente, no desde el mismo día."
+  ],
+  "ojo": "No confundas cuándo empieza con cuándo acaba: empieza el día siguiente, pero termina el mismo número de día del mes de vencimiento."
+},
+"au-05-004": {
+  "bloque": "plazos",
+  "precepto": "Art. 30.1 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. El **art. 30.1** dice que los plazos por horas son hábiles, y que son hábiles todas las horas del día que formen parte de un **día hábil**. Por ejemplo, las 23:00 de un martes hábil cuentan, aunque la oficina esté cerrada.",
+    "No. Por defecto los días son hábiles, no naturales (art. 30.2). Solo son naturales si lo dice una ley o el Derecho de la Unión Europea, y es entonces cuando hay que hacerlo constar en la notificación.",
+    "No. Es verdad que los días son hábiles por defecto, pero no hace falta avisarlo en la notificación. Lo que hay que hacer constar es que el plazo se ha señalado por días **naturales** (art. 30.2).",
+    "No. Sobra “o inhábil”. Solo son hábiles las horas de un día hábil, así que las horas de un domingo, por ejemplo, no cuentan."
+  ]
+},
+"au-05-005": {
+  "bloque": "plazos",
+  "precepto": "Art. 32.2 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+    "No. Es al revés: los acuerdos sobre ampliación o sobre su denegación **no** admiten recurso. Lo que puedes recurrir es la resolución que ponga fin al procedimiento (art. 32.3).",
+    "No. El art. 32.3 es tajante: “en ningún caso” se puede ampliar un plazo ya vencido. No hay excepción por casos excepcionales.",
+    "No. Te han cambiado el límite. La ampliación no puede exceder de **la mitad** del plazo (art. 32.1), no del plazo entero.",
+    "Es esta. El **art. 32.2** dice que la ampliación por el tiempo máximo se aplica “en todo caso” a los procedimientos con interesados residentes fuera de España. También a los de misiones diplomáticas y oficinas consulares, y a los que exijan un trámite en el extranjero."
+  ],
+  "ojo": "Ampliación: hasta la mitad del plazo. Tramitación de urgencia: los plazos se reducen a la mitad. Es fácil cruzarlas."
+},
+"au-05-006": {
+  "bloque": "plazos",
+  "precepto": "Art. 30.4 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+    "No. Es la confusión de restar un día. El plazo no acaba el día anterior, sino el mismo número de día.",
+    "Es esta. El **art. 30.4** dice que el plazo concluye el mismo día en que se produjo la notificación, publicación o silencio, pero en el mes o año de vencimiento. Es lo que se conoce como “de fecha a fecha”: si te notifican un 10 de enero y tienes un mes, acaba el 10 de febrero.",
+    "No. Si en el mes de vencimiento no hay día equivalente, el plazo expira el **último día de ese mes**, no el primer día hábil del mes siguiente. Por ejemplo, un mes desde el 31 de enero acaba a final de febrero.",
+    "No. Es la confusión de sumar un día por empezar a contar al día siguiente. El final es el mismo número de día, no el siguiente."
+  ]
+},
+"au-05-007": {
+  "bloque": "plazos",
+  "precepto": "Art. 30.2 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+    "No. Por defecto los días son hábiles, no naturales. Además, un plazo por días naturales no excluye los festivos: precisamente los cuenta todos.",
+    "No. Es casi correcta, pero le faltan los **sábados**. También se excluyen del cómputo, desde la reforma que hizo la Ley 39/2015.",
+    "No. Los días son hábiles, no naturales, y aquí además se olvidan de los sábados.",
+    "Es esta. El **art. 30.2** dice que, si la ley o el Derecho de la Unión Europea no dicen otra cosa, los días son hábiles, y quedan fuera los sábados, los domingos y los festivos."
+  ],
+  "ojo": "La trampa clásica es dejar fuera los sábados. Recuerda los tres: sábados, domingos y festivos."
+},
+"au-05-008": {
+  "bloque": "plazos",
+  "precepto": "Art. 33.1 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+    "No. Sobra “solo”: se puede acordar **de oficio o a petición del interesado** (art. 33.1). De oficio significa por iniciativa de la propia Administración.",
+    "No. La palabra “todos” lo estropea. Hay dos plazos que no se reducen: el de presentar solicitudes y el de presentar recursos.",
+    "Es esta. El **art. 33.1** dice que los plazos del procedimiento ordinario se reducen a la mitad, salvo los de presentación de solicitudes y recursos. Tiene lógica: no se recorta el tiempo que tienes para pedir algo o para defenderte con un recurso.",
+    "No. Es al revés: contra el acuerdo de urgencia no cabe recurso alguno. Podrás recurrir la resolución que ponga fin al procedimiento (art. 33.2)."
+  ]
+},
+"au-05-009": {
+  "bloque": "plazos",
+  "precepto": "Art. 32.3 y 32.5 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+    "Es verdadera, así que no se marca. Es lo que dice literalmente el art. 32.3: “en ningún caso” se amplía un plazo ya vencido.",
+    "Es verdadera, así que no se marca. Lo dice el art. 32.3. Lo único que puedes recurrir es la resolución que ponga fin al procedimiento.",
+    "Esta es la falsa, y por eso es la que hay que marcar. El **art. 32.5** permite una ampliación general de plazos si un ciberincidente afecta gravemente a los sistemas, pero no dice que alcance a plazos ya vencidos. Y el art. 32.3 prohíbe ampliar un plazo vencido “en ningún caso”.",
+    "Es verdadera, así que no se marca. Es el art. 32.3: tanto la petición como la decisión tienen que llegar antes de que venza el plazo."
+  ],
+  "ojo": "Han añadido “ya vencidos” a la regla del ciberincidente. El art. 32.5 habla de ampliación general de plazos y no menciona los vencidos."
+},
+"au-05-010": {
+  "bloque": "plazos",
+  "precepto": "Art. 30.2 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. Es el **art. 30.2**: los plazos por días son hábiles, salvo que una ley o el Derecho de la Unión Europea digan otra cosa, y se excluyen sábados, domingos y festivos.",
+    "No. Es al revés: cuando el plazo es por días naturales, **sí** hay que hacerlo constar en la notificación (art. 30.2, párrafo segundo). Así sabes que cuentan también sábados y festivos.",
+    "No. Te han quitado “siguiente” en la primera parte. Los meses y años se cuentan desde el día **siguiente** a la notificación o publicación (art. 30.4).",
+    "No. Igual que en la anterior: los días se cuentan desde el día **siguiente** a la notificación o publicación, no desde el mismo día (art. 30.3)."
+  ]
+},
+"au-05-011": {
+  "bloque": "plazos",
+  "precepto": "Art. 33.2 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+    "No. Te han cambiado la excepción. Los plazos que no se reducen son los de presentación de **solicitudes y recursos**, no el de audiencia (art. 33.1).",
+    "No. Sobra “solo”: se puede acordar de oficio o a petición del interesado (art. 33.1). Lo de las razones de interés público sí es cierto.",
+    "Es esta. Lo dice el **art. 33.2**: contra el acuerdo de urgencia no cabe recurso alguno, aunque sí contra la resolución que ponga fin al procedimiento. Tu derecho a recurrir no se pierde: solo se traslada al final.",
+    "No. El art. 33 no pide ningún informe del Consejo de Estado. Basta con que lo aconsejen razones de interés público."
+  ]
+},
+"au-05-012": {
+  "bloque": "plazos",
+  "precepto": "Art. 30.5 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+    "No. La prórroga no depende de que nadie la acuerde. Es automática: “se entenderá prorrogado”, sin que la Administración tenga que decidir nada.",
+    "No. Falta “primer” y “hábil”. Si el plazo acaba en sábado y pasara al día siguiente, caería en domingo, que también es inhábil. Tiene que pasar al primer día **hábil** siguiente.",
+    "Es esta. El **art. 30.5** dice que, si el último día es inhábil, el plazo se entiende prorrogado al primer día hábil siguiente. Si acaba en sábado, por ejemplo, pasa al lunes, siempre que el lunes sea hábil.",
+    "No. No hace falta ni que lo pidas ni que lo acuerde la Administración. La prórroga es automática y no es algo que “podrá” ocurrir, sino que ocurre siempre."
+  ]
+},
+"au-05-013": {
+  "bloque": "plazos",
+  "precepto": "Art. 30.6 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+    "No. Sobra “salvo manifestación en contra del interesado”. El interesado no puede cambiarlo: es inhábil “en todo caso”.",
+    "Es esta. El **art. 30.6** dice que, si un día es hábil en un sitio e inhábil en el otro, se considera inhábil “en todo caso”. Si es festivo en cualquiera de los dos lugares, no cuenta, y eso protege al ciudadano.",
+    "No. Es justo lo contrario: se considera inhábil, no hábil. Y la voluntad del interesado no influye.",
+    "No. Se considera inhábil, no hábil. Lo de “en todo caso” sí está bien, pero acompaña a “inhábil”."
+  ]
+},
+"au-05-014": {
+  "bloque": "plazos",
+  "precepto": "Art. 30.7 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+    "Es verdadera, así que no se marca. Lo dice el art. 30.7: el calendario de cada Comunidad Autónoma incluye los días inhábiles de sus Entidades Locales.",
+    "Es verdadera, así que no se marca. El art. 30.7 exige publicarlo antes de que empiece cada año en el diario oficial que corresponda, y también en otros medios de difusión.",
+    "Esta es la falsa, y por eso es la que hay que marcar. Según el **art. 30.7**, el calendario que comprende los días inhábiles de las Entidades Locales es el que aprueban las **Comunidades Autónomas**, no el del Estado.",
+    "Es verdadera, así que no se marca. El art. 30.7 dice que el calendario se fija “con sujeción al calendario laboral oficial”."
+  ],
+  "ojo": "Compara las opciones primera y tercera: solo cambia “Comunidades Autónomas” por “Estado”. Los ayuntamientos no aprueban calendario propio: sus días van en el de su Comunidad."
+},
+"au-05-015": {
+  "bloque": "plazos",
+  "precepto": "Art. 32.3 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+    "No. Pedirlo antes del vencimiento no basta. El art. 32.3 exige que también la **decisión** se tome antes de que venza el plazo. Y una vez vencido, ya no se puede ampliar.",
+    "No. El art. 32.5 permite en este caso una ampliación general de plazos, pero no dice que alcance a plazos ya vencidos.",
+    "No. Te han cambiado la palabra clave: el art. 32.4 permite, por incidencia técnica, ampliar plazos **no vencidos**, no los vencidos.",
+    "Es esta. El **art. 32.3** es tajante: “en ningún caso” podrá ampliarse un plazo ya vencido. Ampliar supone que el plazo sigue vivo; si ya ha terminado, no hay nada que ampliar."
+  ],
+  "ojo": "Ni la incidencia técnica ni el ciberincidente son una excepción. El art. 32.4 dice expresamente “no vencidos”; el art. 32.5 no lo aclara, pero tampoco contradice el “en ningún caso”."
+},
+"au-06-001": {
+  "bloque": "actos",
+  "precepto": "Art. 36.1 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+    "No. La regla general no permite elegir: es por escrito y electrónico. Lo verbal solo cabe si la naturaleza del acto exige otra forma.",
+    "Es esta. El **art. 36.1** dice que los actos se producen “por escrito a través de medios electrónicos”, salvo que su naturaleza exija otra forma más adecuada. Por ejemplo, un policía que da una orden verbal en la calle sería esa excepción.",
+    "No. Es demasiado amplia. La ley fija una forma concreta: escrita y electrónica. Dejar constancia es lo que se pide en cualquier caso, pero no es la regla de la forma.",
+    "No. Lo verbal es la excepción, no la regla. Se regula en el art. 36.2 para los casos en que un órgano ejerce su competencia de forma verbal."
+  ]
+},
+"au-06-002": {
+  "bloque": "actos",
+  "precepto": "Art. 35.1.h) de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+    "No. El requerimiento de subsanación (pedirte que corrijas o completes tu solicitud) no está en la lista del art. 35.1.",
+    "Es esta. El **art. 35.1.h)** exige motivar las propuestas de resolución en los procedimientos sancionadores. Motivar es explicar por qué se decide algo, y aquí la persona necesita saberlo para poder defenderse.",
+    "No. Lo que se motiva es **rechazar** las pruebas (art. 35.1.f), no admitirlas. Si te admiten la prueba, no hay nada que explicarte.",
+    "No. Se motivan los actos que se **separan** del criterio anterior (art. 35.1.c). Si sigue el mismo criterio, la ley no lo incluye."
+  ]
+},
+"au-06-003": {
+  "bloque": "actos",
+  "precepto": "Art. 35.1.h) de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+    "Es verdadera, así que no se marca. Estos actos sí se motivan: lo dice el art. 35.1.f).",
+    "Es verdadera, así que no se marca. Estos actos sí se motivan: lo dice el art. 35.1.a).",
+    "Es verdadera, así que no se marca. Estos acuerdos sí se motivan: lo dice el art. 35.1.e).",
+    "Esta es la falsa, y por eso es la que hay que marcar: es la única que no aparece en la lista. El **art. 35.1.h)** pide motivar las **propuestas** en los procedimientos sancionadores. En los de responsabilidad patrimonial solo menciona los actos que los **resuelven**."
+  ],
+  "ojo": "Sancionador: se motivan la propuesta y la resolución. Responsabilidad patrimonial: solo se menciona la resolución."
+},
+"au-06-004": {
+  "bloque": "actos",
+  "precepto": "Art. 34.2 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+    "Es verdadera, así que no se marca. El art. 34.2 dice que el contenido se ajustará a lo dispuesto por el ordenamiento jurídico.",
+    "Es verdadera, así que no se marca. El art. 34.1 dice que los actos se ajustarán a los requisitos y al procedimiento establecido.",
+    "Esta es la falsa, y por eso es la que hay que marcar. El **art. 34.2** exige que el contenido sea **determinado** y adecuado a los fines del acto. Tiene que quedar claro qué se decide: “o indeterminado” es lo añadido.",
+    "Es verdadera, así que no se marca. El art. 34.1 dice que los actos se producen por el órgano competente."
+  ]
+},
+"au-06-005": {
+  "bloque": "actos",
+  "precepto": "Art. 35.1.i) de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. El **art. 35.1.i)** exige motivar los actos dictados en ejercicio de potestades discrecionales, es decir, cuando la Administración puede elegir entre varias soluciones legales. Si puede elegir, tiene que explicar por qué elige esa.",
+    "No. Te han cambiado la palabra: se motivan los actos que **limitan** derechos o intereses (art. 35.1.a), no los que los amplían.",
+    "No. El art. 35.1 no menciona en ningún punto si el acto se notifica o no. No es un criterio para motivar.",
+    "No. Se motivan los que se **separan** del criterio anterior o del dictamen (art. 35.1.c), no los que lo siguen."
+  ]
+},
+"au-06-006": {
+  "bloque": "actos",
+  "precepto": "Art. 35.1.b) de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. El **art. 35.1.b)** exige motivar los actos que resuelven procedimientos de revisión de oficio, además de recursos administrativos y arbitrajes. La revisión de oficio es cuando la Administración revisa por su cuenta sus propios actos o disposiciones.",
+    "No. Es al revés: los actos que rechazan pruebas sí se motivan (art. 35.1.f). Si te rechazan una prueba, tienen que decirte por qué.",
+    "No. “Todos” y “afecten” lo hacen demasiado amplio. El art. 35.1.a) habla de actos que **limiten** derechos o intereses legítimos, no de cualquiera que les afecte.",
+    "No. Las exenciones tributarias no aparecen en la lista del art. 35.1. Solo habría que motivarlas si lo pidiera expresamente otra norma (art. 35.1.i)."
+  ]
+},
+"au-06-007": {
+  "bloque": "actos",
+  "precepto": "Art. 35.1.d) de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. El **art. 35.1.d)** exige motivar los acuerdos de suspensión de actos, “cualquiera que sea el motivo”, y también la adopción de medidas provisionales del art. 56.",
+    "No. En responsabilidad patrimonial se motivan los actos que resuelven, no las propuestas. Las propuestas que se motivan son las de los procedimientos sancionadores (art. 35.1.h).",
+    "No. Te han cambiado la palabra: son las potestades **discrecionales** (art. 35.1.i), no las regladas. En las regladas la ley ya marca la única solución posible.",
+    "No. “En todo caso” lo estropea. El art. 35.1 solo cita a los que resuelven ciertos procedimientos, como la revisión de oficio, los recursos, el arbitraje, los sancionadores o los de responsabilidad patrimonial."
+  ]
+},
+"au-06-008": {
+  "bloque": "actos",
+  "precepto": "Art. 35.1.g) de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+    "No. El art. 35.1 no incluye sin más a todos los actos que ponen fin al procedimiento: solo cita algunos, como los que resuelven recursos o procedimientos sancionadores.",
+    "No. En el silencio la Administración no dicta nada, así que no hay un texto que motivar. Además, no está en la lista del art. 35.1.",
+    "No. Te han cambiado la palabra: la ley dice actos que **limiten** derechos subjetivos o intereses legítimos (art. 35.1.a), no que los lesionen.",
+    "Es esta. Lo dice el **art. 35.1.g)**. Si la propia Administración abre un procedimiento y luego desiste (renuncia a seguirlo), tiene que explicar por qué."
+  ],
+  "ojo": "“Lesionen” parece sinónimo de “limiten”, pero la palabra de la ley es “limiten”."
+},
+"au-06-009": {
+  "bloque": "actos",
+  "precepto": "Art. 35.2 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. El **art. 35.2** dice que esa motivación se hace según lo que dispongan las normas de la convocatoria. Además, tienen que quedar acreditados en el procedimiento los fundamentos de la resolución. Piensa en unas oposiciones: las bases marcan cómo se justifica el resultado.",
+    "No. El art. 35.2 no distingue entre estimatorios (los que te dan la razón) y desestimatorios. Se motivan según la convocatoria, con independencia del resultado.",
+    "No. Le da la vuelta a la regla. La motivación existe siempre conforme a la convocatoria, y “en todo caso” deben quedar acreditados los fundamentos de la resolución.",
+    "No. Tampoco se limita a los desestimatorios. El art. 35.2 no hace depender la motivación del resultado."
+  ]
+},
+"au-06-010": {
+  "bloque": "actos",
+  "precepto": "Art. 36.3 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+    "No. Te han cambiado “podrán” por “deberán”. Refundirlos es una posibilidad, no una obligación.",
+    "No. La ley no obliga a dictar una resolución por interesado. Al contrario, permite juntarlas todas en un único acto.",
+    "Es esta. El **art. 36.3** dice que estos actos “podrán refundirse” en uno solo, acordado por el órgano competente. Ese acto debe especificar las personas o circunstancias que individualicen los efectos para cada interesado. Por ejemplo, una única resolución con todos los nombramientos.",
+    "No. No hay obligación de resolución individual para cada acto. El art. 36.3 permite refundirlos."
+  ]
+},
+"au-06-011": {
+  "bloque": "actos",
+  "precepto": "Art. 36.2 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+    "No. Te han cambiado “inferior” por “superior”. Quien ejerce la competencia de forma verbal es el superior, y la constancia la deja quien recibe la orden.",
+    "No. Falla “superior” y falla “en todo caso”. Lo hace el titular del órgano inferior o el funcionario que recibe la orden oralmente.",
+    "Es esta. El **art. 36.2** dice que lo efectúa y firma el titular del órgano inferior o el funcionario que la reciba oralmente, indicando de qué autoridad procede. Tiene lógica: quien oye la orden la pone por escrito.",
+    "No. “En todo caso” lo estropea. El funcionario es solo una de las dos posibilidades: también puede hacerlo el titular del órgano inferior."
+  ],
+  "ojo": "Si son resoluciones verbales, el titular de la competencia además debe autorizar una relación de las que haya dictado, con su contenido."
+},
+"au-06-012": {
+  "bloque": "actos",
+  "precepto": "Art. 35.1.h) de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. El **art. 35.1.h)** incluye los actos que resuelven procedimientos sancionadores o de responsabilidad patrimonial. La responsabilidad patrimonial es cuando reclamas a la Administración una indemnización por un daño que te ha causado.",
+    "No. Se motivan los que se **separan** del criterio seguido (art. 35.1.c), no los que lo confirman.",
+    "No. Los acuerdos de iniciación no aparecen en la lista del art. 35.1.",
+    "No. Se motiva el desistimiento **por la Administración** en procedimientos iniciados **de oficio** (art. 35.1.g), no el de un procedimiento iniciado a solicitud del interesado."
+  ]
+},
+"au-07-001": {
+  "bloque": "actos",
+  "precepto": "Art. 39.4 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+    "No. “Solo” lo estropea. Tienen que observarlos el resto de los órganos administrativos, no únicamente aquellos a los que se dirigen.",
+    "No. La regla del art. 39.4 se refiere a los órganos administrativos, no a los interesados en el procedimiento.",
+    "No. Te han cambiado el final. La obligación no se queda dentro de la misma Administración: alcanza también a los órganos que pertenezcan a otra.",
+    "Es esta. El **art. 39.4** dice que deben ser observados por el resto de los órganos, aunque no dependan jerárquicamente entre sí “o pertenezcan a otra Administración”. Por ejemplo, un ayuntamiento debe respetar lo que dicte su Comunidad Autónoma en el ejercicio de su propia competencia."
+  ]
+},
+"au-07-002": {
+  "bloque": "actos",
+  "precepto": "Art. 37.2 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. El **art. 37.2** dice que son nulas las resoluciones administrativas que vulneren lo establecido en una disposición reglamentaria. Una resolución no puede saltarse un reglamento, y si lo hace, es el vicio más grave.",
+    "No. La anulabilidad es un vicio menos grave que la nulidad, y aquí la ley dice expresamente “nulas”.",
+    "No. Una mera irregularidad no invalidante no anula el acto, y aquí el art. 37.2 dice que la resolución es nula.",
+    "No. La caducidad es otra figura: un procedimiento termina porque se ha pasado el tiempo. No tiene nada que ver con este vicio."
+  ]
+},
+"au-07-003": {
+  "bloque": "actos",
+  "precepto": "Art. 37.1 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+    "No. Aunque venga de un órgano superior, no puede vulnerarla. El art. 37.1 lo dice expresamente.",
+    "Es esta. El **art. 37.1** prohíbe que una resolución particular vulnere una disposición general, aunque venga de un órgano de igual o superior jerarquía. Ni siquiera quien aprobó el reglamento puede saltárselo para un caso concreto: tendría que cambiarlo para todos.",
+    "No. Tampoco un órgano de igual jerarquía puede hacerlo. El “aunque” del art. 37.1 lo incluye dentro de la prohibición.",
+    "No. Le da la vuelta a la frase: “igual o superior jerarquía” es lo que la ley dice que **no** salva la resolución."
+  ],
+  "ojo": "La ley usa “aunque”: la jerarquía del órgano no sirve de excusa."
+},
+"au-07-004": {
+  "bloque": "actos",
+  "precepto": "Art. 37.1 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+    "No. Está al revés. Lo prohibido es que la resolución particular vulnere la disposición general, no a la inversa.",
+    "No. Un reglamento sí puede derogar a otro. “Singular” se refiere a que no se puede inaplicar el reglamento para un caso concreto.",
+    "Es esta. El **art. 37.1** recoge justo esto: las resoluciones particulares no pueden vulnerar una disposición de carácter general. Por ejemplo, no se puede dar una licencia a una sola persona dejando de aplicar para ella el reglamento que obliga a todos.",
+    "No. No es lo que dice el art. 37. La inderogabilidad singular habla de resoluciones que vulneran disposiciones generales, no de reglamentos que derogan actos."
+  ]
+},
+"au-07-005": {
+  "bloque": "actos",
+  "precepto": "Art. 39.2 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+    "Es verdadera, así que no se marca. La notificación es uno de los supuestos del art. 39.2 en que la eficacia queda demorada.",
+    "Es verdadera, así que no se marca. Que lo exija el contenido del acto es otro de los supuestos del art. 39.2.",
+    "Esta es la falsa, y por eso es la que hay que marcar. El **art. 39.2** habla de aprobación **superior**, no de un órgano inferior. Tiene lógica: el inferior no controla lo que dicta su superior.",
+    "Es verdadera, así que no se marca. La publicación también aparece en el art. 39.2."
+  ]
+},
+"au-07-006": {
+  "bloque": "actos",
+  "precepto": "Art. 39.3 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+    "No. Sí se puede en ciertos casos. El art. 39.3 lo admite de forma excepcional.",
+    "No. No es la regla general, sino la excepción. La regla es que el acto produce efectos desde que se dicta (art. 39.1).",
+    "Es esta. El **art. 39.3** empieza por “Excepcionalmente”. Cabe cuando el acto sustituye a otro anulado o cuando produce efectos favorables al interesado. Para eso, los hechos necesarios tienen que existir ya en la fecha a la que se retrotrae y no se pueden lesionar derechos de otras personas.",
+    "No. “Solo” lo estropea. Hay un segundo caso: cuando el acto produce efectos favorables al interesado."
+  ]
+},
+"au-07-007": {
+  "bloque": "actos",
+  "precepto": "Art. 39.5 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+    "No. Una Administración no puede revisar de oficio el acto de otra. Lo que puede hacer es pedirle a la otra que lo anule o revise.",
+    "No. No es “deberá” ni “directamente”. Primero puede requerir a la otra Administración y, si rechaza el requerimiento, podrá acudir al recurso contencioso-administrativo.",
+    "No. No está obligada a acatarlo sin más. El art. 39.5 le da una salida precisamente porque entiende que el acto es ilegal.",
+    "Es esta. El **art. 39.5** dice que podrá requerir antes a la otra Administración para que anule o revise el acto. Si esta lo rechaza, podrá interponer recurso contencioso-administrativo (ir a los tribunales), y mientras tanto queda suspendido el procedimiento para dictar resolución."
+  ]
+},
+"au-07-008": {
+  "bloque": "actos",
+  "precepto": "Art. 39.1 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+    "No. La regla general es la fecha en que se dictan. La notificación solo retrasa los efectos si el acto está supeditado a ella (art. 39.2).",
+    "No. Tampoco es la publicación, que también es un caso de demora si el acto depende de ella (art. 39.2).",
+    "Es esta. El **art. 39.1** dice que los actos se presumen válidos y producen efectos “desde la fecha en que se dicten”, salvo que ellos mismos dispongan otra cosa.",
+    "No. Es la confusión con los plazos, que sí empiezan al día siguiente. Los efectos del acto empiezan en la misma fecha en que se dicta."
+  ]
+},
+"au-07-009": {
+  "bloque": "actos",
+  "precepto": "Art. 42.2 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. Según el **art. 42.2**, si nadie se hace cargo de la notificación, se repite el intento “por una sola vez” y en una hora distinta, dentro de los tres días siguientes. Si el primer intento fue antes de las 15:00, el segundo será después, y viceversa, con al menos tres horas de margen.",
+    "No. La edad está cambiada: tiene que ser una persona mayor de **catorce** años, no de 12, y además debe hacer constar su identidad.",
+    "No. El art. 42.2 no prevé pasar a medios electrónicos. Si el segundo intento también falla, se publica un anuncio en el BOE (art. 44).",
+    "No. Es un solo intento más, no dos. Un primer intento y un segundo: si este falla, se va al BOE."
+  ],
+  "ojo": "La opción correcta simplifica un poco: antes del segundo intento, puede recoger la notificación cualquier mayor de 14 años que esté en el domicilio. El segundo intento solo se hace si nadie se hace cargo."
+},
+"au-07-010": {
+  "bloque": "actos",
+  "precepto": "Art. 40.2 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+    "No. No hay plazo de un mes para esto. Son diez días.",
+    "No. Tampoco son quince días. Son diez.",
+    "Es esta. El **art. 40.2** dice que toda notificación debe cursarse en diez días desde la fecha en que se dictó el acto. “Cursar” es enviarla: el plazo es para enviarla, no para que te llegue.",
+    "No. Son diez días, no cinco."
+  ]
+},
+"au-07-011": {
+  "bloque": "actos",
+  "precepto": "Art. 45.1.a) de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+    "No. “Solo” lo estropea. Es uno de los casos del art. 45.1.a), pero hay más, como los procedimientos selectivos o las normas de cada procedimiento.",
+    "No. “Solo” vuelve a fallar. Es el caso del art. 45.1.b), pero no el único.",
+    "Es esta. El **art. 45.1.a)** incluye el caso en que la Administración estima insuficiente notificar a un solo interesado para garantizar la notificación a todos. La publicación se suma entonces a la notificación individual. El “entre otros casos” hace que la opción sea exacta.",
+    "No. “Únicamente” es falso. También se publican cuando lo aconsejan razones de interés público y en los casos del art. 45.1.a) y b)."
+  ],
+  "ojo": "Desconfía de “solo” y “únicamente”: aquí tres opciones caen por esa palabra."
+},
+"au-07-012": {
+  "bloque": "actos",
+  "precepto": "Art. 41.7 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+    "No. El medio no importa. Lo que cuenta es cuál llegó antes, sea en papel o electrónica.",
+    "No. Tampoco tiene preferencia la electrónica. Solo importa el orden en el tiempo.",
+    "Es esta. El **art. 41.7** dice que se toma como fecha la de la notificación que se hubiera producido en primer lugar. Si te llega el papel el día 5 y abres la electrónica el día 8, el plazo se cuenta desde el 5.",
+    "No. Es justo lo contrario: la primera, no la última. Así no se puede alargar el plazo esperando a la segunda notificación."
+  ]
+},
+"au-07-013": {
+  "bloque": "actos",
+  "precepto": "Art. 40.2 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+    "Es verdadera, así que no se marca. El art. 40.2 exige expresar los recursos que procedan, en vía administrativa y judicial.",
+    "Es verdadera, así que no se marca. El art. 40.2 exige el texto íntegro y decir si pone fin o no a la vía administrativa.",
+    "Es verdadera, así que no se marca. El art. 40.2 pide indicar el órgano ante el que se presentan y el plazo para interponerlos.",
+    "Esta es la falsa, y por eso es la que hay que marcar. El **art. 40.2** pide decir ante qué órgano se presenta el recurso, pero no quién lo resuelve. Fíjate en la diferencia entre “presentar” y “resolver”."
+  ]
+},
+"au-07-014": {
+  "bloque": "actos",
+  "precepto": "Art. 40.3 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+    "No. No son nulas de pleno derecho. El art. 40.3 les da efecto en cuanto se cumple una condición.",
+    "No. No surten efecto desde que se notifican. Hay que esperar a que el interesado actúe conociendo el contenido o recurra.",
+    "No. El problema no se resuelve con la anulabilidad. El art. 40.3 dice que sí pueden surtir efecto, y además aquí el defecto es de la notificación, no del acto.",
+    "Es esta. Es casi literal del **art. 40.3**: surten efecto desde que el interesado realiza actuaciones que suponen conocer el contenido y alcance del acto, o interpone el recurso que proceda. Si, por ejemplo, no te dicen qué recurso cabe pero tú recurres igualmente, el defecto queda salvado desde entonces."
+  ],
+  "ojo": "Solo se aplica si la notificación trae el texto íntegro. Si falta el texto íntegro, este apartado no sirve."
+},
+"au-07-015": {
+  "bloque": "actos",
+  "precepto": "Art. 40.2 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+    "No. Te han cambiado “preferentemente” por “necesariamente” (art. 41.1). Además, el art. 41.2 prevé casos en que no se pueden hacer por vía electrónica, como las que llevan cheques.",
+    "No. Si el interesado rechaza la notificación, no se intenta por otro medio: se hace constar en el expediente, se da por efectuado el trámite y el procedimiento sigue (art. 41.5).",
+    "No. “En todo caso” lo estropea. El medio señalado por el interesado vale en los procedimientos iniciados a solicitud suya (art. 41.3), y aun así hay excepciones si está obligado a la vía electrónica o si ese medio no es posible.",
+    "Es esta. El **art. 40.2** dice que toda notificación debe cursarse dentro de diez días desde la fecha en que se dictó el acto. Son días hábiles, porque la ley no dice que sean naturales (art. 30.2)."
+  ]
+}
+}

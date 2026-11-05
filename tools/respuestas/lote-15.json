@@ -1,0 +1,517 @@
+{
+"of-10-003": {
+  "bloque": "revision",
+  "precepto": "Art. 109.2 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+    "No. El dictamen favorable del Consejo de Estado se pide para declarar nulo un acto (art. 106), no para corregir una cuenta mal hecha. El art. 109.2 no exige ningún dictamen.",
+    "No. No hay plazo de 3 meses: los errores se pueden rectificar “en cualquier momento” (art. 109.2).",
+    "No. El art. 109.2 no pide el consentimiento de nadie. Corregir una errata no cambia el fondo del acto, así que el Ayuntamiento puede hacerlo sin ese permiso.",
+    "Es esta. El **art. 109.2** permite rectificar los errores materiales, de hecho o aritméticos “de oficio o a instancia de los interesados”. De oficio significa que lo hace el propio Ayuntamiento sin que nadie se lo pida; a instancia, que lo pide el interesado."
+  ],
+  "ojo": "Rectificar errores es la vía más sencilla de la revisión: en cualquier momento, sin dictamen y sin consentimiento."
+},
+"of-10-004": {
+  "bloque": "revision",
+  "precepto": "Art. 107.5 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+    "No. Te han cambiado el Pleno por el Alcalde. En la Administración Local la ley atribuye esta declaración al Pleno, no al Alcalde-Presidente.",
+    "No. El órgano competente por la materia es la regla para la Administración General del Estado y las Comunidades Autónomas (art. 107.4), no para los Ayuntamientos.",
+    "Es esta. El **art. 107.5** dice que, si el acto viene de una entidad local, declara la lesividad el Pleno de la Corporación o, si no lo hay, el órgano colegiado superior de la entidad.",
+    "No. Los jueces de lo contencioso resuelven después la impugnación del acto, pero no declaran la lesividad. Esa declaración es un paso previo que hace la propia Administración (art. 107.1)."
+  ],
+  "ojo": "Estado y Comunidades Autónomas: el órgano competente por la materia. Entidades locales: el Pleno."
+},
+"of-10-005": {
+  "bloque": "revision",
+  "precepto": "Art. 109.1 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+    "No. Te han cambiado “prescripción” por “caducidad”. El límite temporal de la revocación es el plazo de prescripción.",
+    "No. Se pueden revocar los actos de gravamen o desfavorables. Si el acto favorece al interesado y es anulable, la vía es la declaración de lesividad (art. 107).",
+    "No. Dice justo lo contrario: los actos de gravamen son precisamente los que sí se pueden revocar.",
+    "Es esta. El **art. 109.1** permite revocar “mientras no haya transcurrido el plazo de prescripción”. Revocar es dejar sin efecto un acto que perjudica al interesado, por ejemplo una sanción."
+  ]
+},
+"of-10-006": {
+  "bloque": "revision",
+  "precepto": "Art. 111.b).1.º de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+    "No. Los Secretarios de Estado revisan lo que dictan los órganos directivos que dependen de ellos, no sus propios actos (art. 111.b.2.º).",
+    "Es esta. Según el **art. 111.b).1.º**, los Ministros revisan los actos y disposiciones de los Secretarios de Estado y de los órganos directivos de su Departamento que no dependan de una Secretaría de Estado. La idea general: revisa el de arriba.",
+    "No. Los máximos órganos rectores de los Organismos públicos revisan lo que dictan los órganos que dependen de ellos, no lo suyo (art. 111.c.2.º). Lo suyo lo revisa el órgano al que esté adscrito el Organismo.",
+    "No. La parte de los Secretarios de Estado está bien, pero la de “sus propios actos” no. Los actos de los Ministros los revisa el Consejo de Ministros (art. 111.a)."
+  ],
+  "ojo": "En el art. 111 solo el Consejo de Ministros revisa sus propios actos. Todos los demás órganos que cita el artículo revisan los de quien está por debajo."
+},
+"of-10-007": {
+  "bloque": "revision",
+  "precepto": "Art. 107.1 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+    "No. La Administración no puede anular por sí misma un acto favorable que solo es anulable. Tiene que acudir al juez.",
+    "No. La declaración de nulidad (art. 106) es para actos nulos de pleno derecho (art. 47.1). Aquí el acto es anulable (art. 48).",
+    "No. La revocación es para actos de gravamen o desfavorables (art. 109.1). Este acto favorece al interesado.",
+    "Es esta. El **art. 107.1** lo dice así: la Administración declara el acto lesivo para el interés público y después lo impugna ante la jurisdicción contencioso-administrativa. Lesivo significa que perjudica al interés de todos."
+  ],
+  "ojo": "Favorable y anulable: primero lesividad, luego juez."
+},
+"of-10-008": {
+  "bloque": "revision",
+  "precepto": "Art. 109.1 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+    "No. La lesividad es para los actos favorables anulables (art. 107), no para los desfavorables.",
+    "No. Dejar sin efecto un acto desfavorable no exige declarar su anulabilidad. La ley da para eso una vía más sencilla: la revocación.",
+    "Es esta. El **art. 109.1** permite revocar los actos de gravamen o desfavorables, siempre que eso no sea una dispensa o exención no permitida por las leyes. Tampoco puede ir contra la igualdad, el interés público o el ordenamiento jurídico.",
+    "No. La declaración de nulidad exige que el acto incurra en una causa de nulidad del art. 47.1 (art. 106), y el enunciado solo dice que es desfavorable."
+  ]
+},
+"of-10-009": {
+  "bloque": "revision",
+  "precepto": "Art. 111.a) de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+    "No. Los Ministros no revisan sus propios actos. Revisan los de los Secretarios de Estado y los de ciertos órganos directivos (art. 111.b.1.º).",
+    "No. Sería al revés. Los Secretarios de Estado están por debajo del Ministro y solo revisan lo de sus órganos directivos dependientes (art. 111.b.2.º).",
+    "No. El art. 111 no da ninguna competencia de revisión al Presidente del Gobierno.",
+    "Es esta. El **art. 111.a)** dice que el Consejo de Ministros revisa sus propios actos y disposiciones y los dictados por los Ministros."
+  ]
+},
+"of-10-010": {
+  "bloque": "revision",
+  "precepto": "Art. 106.1 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+    "No. No hay plazo de cuatro años: la nulidad se declara “en cualquier momento”. Los cuatro años son de la declaración de lesividad (art. 107.2).",
+    "No. Falla por dos lados. Para los actos, los supuestos son los de nulidad del art. 47.1. Y el art. 47.2 no trata de anulabilidad, sino de disposiciones nulas; la anulabilidad está en el art. 48.",
+    "Es esta. El **art. 106.1** dice que la revisión puede empezar “por iniciativa propia o a solicitud de interesado”. Aunque se llame “de oficio”, el ciudadano puede pedirla.",
+    "No. Es justo al revés: hace falta dictamen favorable del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma, si lo hubiere."
+  ],
+  "ojo": "Actos nulos: de oficio o a solicitud (art. 106.1). Disposiciones nulas: solo de oficio (art. 106.2)."
+},
+"of-10-011": {
+  "bloque": "revision",
+  "precepto": "Art. 111.b).1.º de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. El **art. 111.b).1.º** atribuye a los Ministros la revisión de los actos y disposiciones de los Secretarios de Estado. Es el órgano que está justo por encima.",
+    "No. Los Tribunales Superiores de Justicia son jueces. La revisión de oficio la hace la propia Administración.",
+    "No. El art. 111 no menciona a las Comisiones Delegadas del Gobierno.",
+    "No. El Consejo de Ministros revisa sus propios actos y los de los Ministros (art. 111.a), no los de los Secretarios de Estado."
+  ]
+},
+"of-10-012": {
+  "bloque": "revision",
+  "precepto": "Art. 106.3 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+    "No. El art. 106.3 permite inadmitir sin dictamen. Además, quien inadmite no tiene que “impugnar” la solicitud ante los jueces.",
+    "No. Se inventa la consecuencia. Los 6 meses de caducidad son para los procedimientos iniciados de oficio (art. 106.5), y no obligan a acudir al Consejo de Estado ni a los jueces para impugnar una solicitud.",
+    "No. El dictamen es necesario para declarar la nulidad, pero el art. 106.3 permite inadmitir la solicitud sin pedirlo.",
+    "Es esta. El **art. 106.3** permite inadmitir sin dictamen en tres casos: la solicitud no se basa en una causa de nulidad del art. 47.1, carece manifiestamente de fundamento, o ya se han desestimado en cuanto al fondo otras sustancialmente iguales. La decisión debe ser motivada, es decir, explicando sus razones."
+  ],
+  "ojo": "La opción correcta resume el artículo y se deja el “manifiestamente”. Aun así, es la única que recoge bien los tres casos."
+},
+"of-10-013": {
+  "bloque": "revision",
+  "precepto": "Art. 109.1 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. El **art. 109.1** permite revocar los actos de gravamen o desfavorables mientras no haya transcurrido el plazo de prescripción. Por ejemplo, retirar una sanción, si con ello no se incumple ninguno de los límites del artículo.",
+    "No. Mezcla figuras. Lesionar derechos susceptibles de amparo es una causa de nulidad (art. 47.1.a), y se resuelve con la revisión de oficio (art. 106), no con la revocación.",
+    "No. Eso es la rectificación de errores (art. 109.2), que además se puede hacer en cualquier momento, sin hablar de prescripción.",
+    "No. El “nunca” lo estropea. La ley da varias vías, y el art. 109.1 permite expresamente revocar."
+  ],
+  "ojo": "Revocar: actos desfavorables y con límite de prescripción. Rectificar: errores y en cualquier momento."
+},
+"of-10-014": {
+  "bloque": "revision",
+  "precepto": "Art. 106.5 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+    "No. La caducidad se produce cuando el procedimiento se inició de oficio y pasan seis meses sin resolución.",
+    "No. Te han cambiado el sentido del silencio: es desestimatorio, no estimatorio. También lo dice el art. 24.1 para la revisión de oficio iniciada a solicitud.",
+    "No. La “invalidez del procedimiento” no es una consecuencia que recoja el art. 106.5.",
+    "Es esta. El **art. 106.5** dice que, si lo inició el interesado, “se podrá entender la misma desestimada por silencio administrativo”. Si no contestan, puede dar por rechazada su solicitud y seguir adelante con el recurso que proceda."
+  ],
+  "ojo": "De oficio: caducidad. A solicitud: silencio desestimatorio."
+},
+"of-10-015": {
+  "bloque": "revision",
+  "precepto": "Art. 106.5 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+    "No. La estructura es buena, pero el plazo no: son seis meses, no dos.",
+    "No. Tiene el plazo mal (un mes) y las formas de inicio cambiadas: la caducidad es de los iniciados de oficio y el silencio, de los iniciados a solicitud.",
+    "No. Tiene el plazo mal (tres meses) y también cambiadas las formas de inicio. Solo un interesado presenta una solicitud que pueda desestimarse por silencio.",
+    "Es esta. Es casi literal el **art. 106.5**: de oficio, seis meses sin resolución producen la caducidad; a solicitud de interesado, se puede entender desestimada por silencio."
+  ]
+},
+"of-11-001": {
+  "bloque": "revision",
+  "precepto": "Art. 106.5 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+    "No. El paso de los seis meses no suspende nada: termina con el procedimiento por caducidad.",
+    "Es esta. El **art. 106.5** dice que en el procedimiento iniciado de oficio, pasados seis meses sin resolución, se produce la caducidad. Caducar significa que el procedimiento se acaba por haberse pasado el tiempo.",
+    "No. El silencio desestimatorio es para el procedimiento iniciado a solicitud de interesado.",
+    "No. Lo que caduca es el procedimiento. La prescripción afecta a derechos y acciones, no a la tramitación de un procedimiento."
+  ]
+},
+"of-11-002": {
+  "bloque": "revision",
+  "precepto": "Art. 107.2 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+    "No. El plazo no es de dos años, sino de cuatro.",
+    "Es esta. El **art. 107.2** dice que la lesividad no se puede declarar “una vez transcurridos cuatro años desde que se dictó el acto administrativo”. Fíjate: desde que se dictó, no desde que se notificó.",
+    "No. El plazo no es de un año, sino de cuatro.",
+    "No. El plazo no es de tres años, sino de cuatro."
+  ],
+  "ojo": "No confundas los cuatro años para declarar la lesividad con los seis meses para terminar su procedimiento antes de que caduque (art. 107.3)."
+},
+"of-11-003": {
+  "bloque": "revision",
+  "precepto": "Art. 107.2 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+    "No. La declaración de lesividad no admite recurso de ningún tipo, tampoco de alzada.",
+    "No. No cabe recurso, tampoco el potestativo de reposición.",
+    "No. No se puede recurrir por separado ante los jueces. Lo que sí pueden hacer es examinarla como requisito previo dentro del proceso contra el acto.",
+    "Es esta. El **art. 107.2** dice que “no será susceptible de recurso” y que puede notificarse a los interesados solo para informarles. Se explica porque es un paso previo: la discusión de verdad se hará ante el juez."
+  ]
+},
+"of-11-004": {
+  "bloque": "revision",
+  "precepto": "Art. 107.3 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+    "No. Sí exige la previa audiencia de cuantos aparezcan como interesados (art. 107.2).",
+    "No. No es susceptible de recurso, y la notificación es una posibilidad a efectos informativos, no una obligación (art. 107.2).",
+    "Es esta. El **art. 107.3** dice que, pasados seis meses desde que se inició el procedimiento sin declarar la lesividad, se produce la caducidad.",
+    "No. Dice lo contrario: “no podrá” adoptarse una vez transcurridos cuatro años desde que se dictó el acto (art. 107.2)."
+  ]
+},
+"of-11-005": {
+  "bloque": "revision",
+  "precepto": "Art. 107.1 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+    "No. El “recurso potestativo de revisión” no existe. El potestativo es el de reposición, y el de revisión es extraordinario.",
+    "No. El recurso extraordinario de revisión es para impugnar actos firmes en los casos del art. 125.1. No es el paso previo para que la Administración vaya a los tribunales.",
+    "No. El trámite previo no es declarar la anulabilidad, sino la lesividad. Es el juez quien anula el acto, si procede.",
+    "Es esta. El **art. 107.1** exige la declaración de lesividad para el interés público antes de impugnar ante lo contencioso-administrativo. Sin esa declaración, la Administración no puede ir a juicio contra su propio acto."
+  ]
+},
+"of-11-006": {
+  "bloque": "revision",
+  "precepto": "Art. 109.2 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+    "No. Te han cambiado “aritméticos” por “de derecho”. Un error de derecho no es una errata: exige otra vía de revisión.",
+    "No. Los actos favorables anulables no se rectifican, sino que se declaran lesivos y se impugnan ante el juez (art. 107).",
+    "Es esta. El **art. 109.2** recoge los errores materiales, de hecho o aritméticos, “en cualquier momento, de oficio o a instancia de los interesados”. Por ejemplo, una suma mal hecha o un nombre mal escrito.",
+    "No. Los actos de gravamen o desfavorables se revocan (art. 109.1), y además eso tiene el límite de la prescripción."
+  ],
+  "ojo": "La palabra trampa es “de derecho”: la lista buena es materiales, de hecho o aritméticos."
+},
+"of-11-007": {
+  "bloque": "revision",
+  "precepto": "Art. 107.1 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. El **art. 107.1** se refiere a los actos favorables para los interesados que sean anulables. Las dos condiciones tienen que darse a la vez.",
+    "No. Falla en las dos cosas: la lesividad es para actos favorables y anulables. Un acto nulo va por la revisión del art. 106.",
+    "No. Sobra “y desfavorables”. Los desfavorables se pueden revocar (art. 109.1) sin ir al juez.",
+    "No. Sobra “nulos de pleno derecho”. Los nulos se revisan de oficio por la propia Administración (art. 106)."
+  ]
+},
+"of-11-008": {
+  "bloque": "revision",
+  "precepto": "Art. 106.5 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. Lo dice el **art. 106.5**: si lo inició el interesado, se podrá entender su solicitud desestimada por silencio. Es la regla que también recoge el art. 24.1 para estas revisiones.",
+    "No. Te han cambiado “desestimada” por “estimada”. Si callando se estimara, un acto nulo podría anularse sin dictamen ni resolución.",
+    "No. Te han cambiado el plazo: la caducidad se produce a los seis meses, no a los tres.",
+    "No. El plazo está bien, pero la consecuencia no. En el iniciado de oficio hay caducidad, no silencio desestimatorio."
+  ]
+},
+"of-11-009": {
+  "bloque": "revision",
+  "precepto": "Art. 107.1 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+    "No. Tiene dos cambios: dice “desfavorables” en lugar de favorables e “interés general” en lugar de interés público.",
+    "No. Los actos han de ser favorables y anulables. Esta opción dice desfavorables y nulos.",
+    "No. Los actos han de ser anulables, no nulos, y la declaración es de lesividad para el “interés público”.",
+    "Es esta. Coincide con el **art. 107.1**: actos favorables, anulables y con declaración previa de lesividad para el interés público."
+  ],
+  "ojo": "Fíjate en la expresión exacta: el art. 107 habla de “interés público”, no de “interés general”."
+},
+"of-11-010": {
+  "bloque": "revision",
+  "precepto": "Art. 109.2 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. Es el **art. 109.2**: “en cualquier momento, de oficio o a instancia de los interesados”. No hay límite de tiempo y lo puede pedir el interesado o hacerlo la propia Administración.",
+    "No. El “solo de oficio” sobra: también se puede rectificar a petición de los interesados.",
+    "No. El límite de la prescripción es de la revocación (art. 109.1). La rectificación se puede hacer en cualquier momento.",
+    "No. Falla dos veces: no hay límite de prescripción y tampoco es “solo de oficio”."
+  ]
+},
+"of-12-004": {
+  "bloque": "recursos",
+  "precepto": "Art. 95.1 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+    "No. El art. 33.2 dice que no cabe recurso contra el acuerdo que aplica la tramitación de urgencia, sin perjuicio del que proceda contra la resolución final.",
+    "Es esta. El **art. 95.1** dice que “contra la resolución que declare la caducidad procederán los recursos pertinentes”. Tiene sentido: esa resolución termina el procedimiento del interesado, así que debe poder impugnarla.",
+    "No. El art. 32.3 dice que los acuerdos sobre ampliación de plazos o su denegación no son susceptibles de recurso, sin perjuicio del que proceda contra la resolución final.",
+    "No. El art. 23.2 dice que contra el acuerdo sobre la ampliación del plazo máximo de resolución y notificación “no cabrá recurso alguno”."
+  ],
+  "ojo": "Urgencia y ampliación de plazos son decisiones de trámite sin recurso. La caducidad cierra el procedimiento, por eso sí lo tiene."
+},
+"of-12-005": {
+  "bloque": "recursos",
+  "precepto": "Art. 112.2 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. El **art. 112.2** empieza “Las leyes podrán sustituir el recurso de alzada”. Como cambia una garantía de los ciudadanos, hace falta una norma con rango de ley.",
+    "No. Una instrucción es una orden interna de un órgano a sus subordinados. El art. 112.2 exige una ley.",
+    "No. Una disposición administrativa general es una norma de rango reglamentario, y el art. 112.2 exige una ley.",
+    "No. Una Orden Ministerial es un reglamento, y el art. 112.2 exige una ley."
+  ]
+},
+"of-12-006": {
+  "bloque": "recursos",
+  "precepto": "Art. 112.3 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. El **art. 112.3** dice que contra las disposiciones administrativas de carácter general “no cabrá recurso en vía administrativa”. Estas disposiciones son los reglamentos: se impugnan directamente ante los tribunales, no ante la Administración.",
+    "No. El recurso extraordinario de revisión se dirige contra actos firmes (art. 125.1), no contra disposiciones generales.",
+    "No. La alzada se dirige contra resoluciones y ciertos actos de trámite (arts. 112.1 y 121.1), no contra disposiciones generales.",
+    "No. La reposición se dirige contra actos que ponen fin a la vía administrativa (art. 123.1), no contra disposiciones generales."
+  ],
+  "ojo": "Sí cabe recurrir un acto concreto alegando solo que la disposición en que se apoya es nula: ese recurso puede presentarse directamente ante el órgano que la dictó (art. 112.3, segundo párrafo)."
+},
+"of-12-007": {
+  "bloque": "recursos",
+  "precepto": "Art. 114.1.a) de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. Lo dice el **art. 114.1.a)**. Por eso, después de resolverse una alzada, el camino normal es ir a los tribunales.",
+    "No. No está en la lista del art. 114. La reposición se usa contra actos que ya ponían fin a la vía administrativa (art. 123.1), así que no es su resolución la que la cierra.",
+    "No. Te han añadido un “no”. Ponen fin a la vía los que “tengan” la consideración de finalizadores del procedimiento (art. 114.1.d).",
+    "No. Le falta el dato clave: “que carezcan de superior jerárquico” (art. 114.1.c). Si tiene superior, normalmente cabe alzada ante él."
+  ]
+},
+"of-12-008": {
+  "bloque": "recursos",
+  "precepto": "Art. 115.2 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+    "No. Calificar mal el recurso no es una causa de inadmisión (art. 116), y el art. 115.2 ordena tramitarlo si se deduce su verdadero carácter.",
+    "No. La caducidad depende del paso del tiempo o de la paralización del procedimiento, no de un error de nombre en el recurso.",
+    "No. El art. 115.2 dice que el error “no será obstáculo para su tramitación”, de modo que no se archiva por eso.",
+    "Es esta. El **art. 115.2** dice que el error o la falta de calificación no impide tramitar, “siempre que se deduzca su verdadero carácter”. Si pones “recurso de reposición” y en realidad es de alzada, se tramita como alzada."
+  ]
+},
+"of-12-009": {
+  "bloque": "recursos",
+  "precepto": "Art. 116 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+    "Es verdadera, así que no se marca. Es la causa del art. 116.e): carecer el recurso manifiestamente de fundamento.",
+    "Es verdadera, así que no se marca. Es la causa del art. 116.b): carecer de legitimación el recurrente.",
+    "Es verdadera, así que no se marca. Es la causa del art. 116.d): haber transcurrido el plazo para interponerlo.",
+    "Esta es la falsa, y por eso es la que hay que marcar. No aparece en el **art. 116**. La “identidad sustancial o íntima conexión” es una expresión del art. 57 sobre acumulación: sirve para unir procedimientos, no para rechazarlos."
+  ],
+  "ojo": "Las otras dos causas del art. 116 son la incompetencia del órgano si el competente es de otra Administración y que el acto no se pueda recurrir."
+},
+"of-12-010": {
+  "bloque": "recursos",
+  "precepto": "Art. 114.1.a) de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+    "No. Dice lo contrario: las resoluciones de los recursos de alzada sí ponen fin a la vía administrativa (art. 114.1.a).",
+    "No. El art. 122.3 dice que contra la resolución de una alzada no cabe ningún otro recurso administrativo, salvo el extraordinario de revisión. Por tanto, no cabe reposición.",
+    "Es esta. Está expresamente en el **art. 114.1.a)**. Agotada la vía, normalmente toca ir a lo contencioso-administrativo.",
+    "No. Es demasiado tajante: el art. 122.3 deja a salvo el recurso extraordinario de revisión, que es un recurso administrativo."
+  ],
+  "ojo": "La trampa es la palabra “ningún”: siempre queda el extraordinario de revisión en los casos del art. 125.1."
+},
+"of-13-001": {
+  "bloque": "recursos",
+  "precepto": "Art. 123.1 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. Es el **art. 123.1**. Si el acto pone fin a la vía administrativa, tienes dos caminos: la reposición ante el mismo órgano, que es voluntaria (eso significa “potestativa”), o directamente los tribunales.",
+    "No. Si el acto no pone fin a la vía, cabe alzada (art. 121.1), pero no se puede ir directamente a los tribunales. Primero hay que agotar la vía administrativa.",
+    "No. Si el acto pone fin a la vía administrativa, no cabe alzada. La alzada es justamente para los que no la agotan (art. 121.1).",
+    "No. La reposición se presenta ante el mismo órgano, no ante el superior, y solo cabe contra actos que ponen fin a la vía (art. 123.1)."
+  ],
+  "ojo": "Regla para recordar: no pone fin, alzada. Pone fin, reposición o tribunales."
+},
+"of-13-002": {
+  "bloque": "recursos",
+  "precepto": "Art. 125.2 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. El error de hecho que resulta del propio expediente es la causa a) del art. 125.1. Para ella, el **art. 125.2** da cuatro años desde la notificación de la resolución impugnada.",
+    "No. El plazo no es de dos años, sino de cuatro.",
+    "No. Los tres meses son para las demás causas (b, c y d), y se cuentan desde el conocimiento de los documentos o desde que la sentencia quedó firme, no desde la notificación.",
+    "No. El plazo no es de un año, sino de cuatro."
+  ]
+},
+"of-13-003": {
+  "bloque": "recursos",
+  "precepto": "Art. 122.2 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. El **art. 122.2** fija tres meses para dictar y notificar la resolución de la alzada. No lo confundas con el plazo para presentarla, que es de un mes si el acto es expreso.",
+    "No. El art. 122.2 no habla de quince días: son tres meses.",
+    "No. El plazo no es de dos meses, sino de tres.",
+    "No. Un mes es el plazo para presentar la alzada contra un acto expreso (art. 122.1) y para resolver la reposición (art. 124.2), no para resolver la alzada."
+  ]
+},
+"of-13-004": {
+  "bloque": "recursos",
+  "precepto": "Art. 122.1 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. Es el **art. 122.1, segundo párrafo**. Si la Administración no ha contestado, no hay un plazo que se agote: se puede recurrir en cualquier momento desde el día siguiente a que se produzcan los efectos del silencio.",
+    "No. Un mes es el plazo para interponerla contra un acto expreso. Para resolverla, el plazo máximo es de tres meses (art. 122.2).",
+    "No. El art. 122.3 lo excluye: tras la alzada no cabe otro recurso administrativo, salvo el extraordinario de revisión.",
+    "No. El art. 117.2 también permite suspender si la ejecución pudiera causar perjuicios de imposible o difícil reparación, y no exige que lo permita una disposición. Por eso sobra el “sólo”."
+  ]
+},
+"of-13-005": {
+  "bloque": "recursos",
+  "precepto": "Art. 122.1 de la Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+    "No. No son 2 meses, sino 1. Dos meses es el plazo general para ir a lo contencioso-administrativo contra un acto expreso, según la Ley 29/1998.",
+    "No. El plazo no es de 4 meses, sino de 1.",
+    "Es esta. El **art. 122.1** fija un mes si el acto fuera expreso. Pasado ese mes sin recurrir, la resolución es firme a todos los efectos.",
+    "No. Tres meses es el plazo máximo para resolverla (art. 122.2), no para presentarla."
+  ],
+  "ojo": "Presentar la alzada: un mes. Resolverla: tres meses."
+},
+"of-13-006": {
+  "bloque": "recursos",
+  "precepto": "Art. 126.2 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. Lo dice el **art. 126.2**: el órgano se pronuncia sobre si procede el recurso y, en su caso, sobre el fondo de la cuestión. O sea, no solo anula: también puede decidir de nuevo el asunto.",
+    "No. Es justo al revés en el último dato: se puede inadmitir “sin necesidad de recabar dictamen” del Consejo de Estado (art. 126.1).",
+    "No. Pasados 3 meses se entiende desestimado, no estimado, y queda abierta la vía contencioso-administrativa (art. 126.3).",
+    "No. Se interpone ante el mismo órgano que dictó el acto, no ante el superior jerárquico, y ese mismo órgano lo resuelve (art. 125.1)."
+  ]
+},
+"of-13-007": {
+  "bloque": "recursos",
+  "precepto": "Art. 124.3 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+    "No. El art. 123.2 no permite ir a lo contencioso-administrativo hasta que la reposición se resuelva expresamente o se desestime por silencio. Hay que esperar.",
+    "Es esta. Lo dice el **art. 124.3**: contra la resolución de una reposición “no podrá interponerse de nuevo dicho recurso”. Es decir, no se puede repetir una y otra vez.",
+    "No. Se interpone ante el mismo órgano que dictó el acto (art. 123.1). El superior jerárquico es el de la alzada.",
+    "No. El plazo máximo para dictar y notificar la resolución es de un mes, no de dos (art. 124.2)."
+  ]
+},
+"of-13-008": {
+  "bloque": "recursos",
+  "precepto": "Art. 122.3 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. Es el **art. 122.3**: tras la alzada no cabe otro recurso administrativo, salvo el extraordinario de revisión en los casos del art. 125.1.",
+    "No. La regla general es la contraria: se puede entender desestimado (art. 122.2). Y el “en todos los casos” no vale, porque la estimación solo se da en el supuesto concreto del art. 24.1, tercer párrafo.",
+    "No. Va bien hasta el “en todos los casos”. Hay una excepción: si la alzada se presentó contra una desestimación por silencio y tampoco se resuelve, se entiende estimada, salvo en determinadas materias (art. 24.1, tercer párrafo).",
+    "No. El plazo máximo es de tres meses (art. 122.2), no de un mes."
+  ],
+  "ojo": "Es el “doble silencio”: la Administración calla ante la solicitud y vuelve a callar ante la alzada. Entonces se estima, salvo en las materias del segundo párrafo del art. 24.1."
+},
+"of-13-009": {
+  "bloque": "recursos",
+  "precepto": "Art. 125.1 de la Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. Lo dice el **art. 125.1**: se interpone ante el órgano que dictó el acto, “que también será el competente para su resolución”. Presentar y resolver: el mismo órgano.",
+    "No. No hay plazo de 1 mes. Son cuatro años desde la notificación para la causa a) y tres meses desde el conocimiento de los documentos o la firmeza de la sentencia para las demás (art. 125.2).",
+    "No. Se dirige contra actos firmes en vía administrativa (art. 125.1), no contra los que dejan abierta esa vía.",
+    "No. Se entiende desestimado a los 3 meses, no a los 6 (art. 126.3)."
+  ]
+},
+"of-13-010": {
+  "bloque": "recursos",
+  "precepto": "Art. 125.1 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+    "No. El Consejo de Estado es un órgano consultivo y el art. 125.1 no lo menciona como destinatario de este recurso.",
+    "Es esta. Lo dice el **art. 125.1**: el recurso se presenta “ante el órgano administrativo que los dictó”, que además es quien lo resuelve.",
+    "No. Ante el superior jerárquico se presenta o se dirige la alzada (art. 121). La revisión va ante el mismo órgano.",
+    "No. Es un recurso administrativo, no judicial. A lo contencioso-administrativo se acude después, si se desestima (art. 126.3)."
+  ]
+},
+"of-13-011": {
+  "bloque": "recursos",
+  "precepto": "Art. 125.2 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+    "No. Los tres meses están bien, pero no se cuentan desde la notificación. Se cuentan desde el conocimiento de los documentos.",
+    "No. Mezcla plazos: los cuatro años son para la causa a), el error de hecho. Y además se cuentan desde la notificación, no desde el conocimiento.",
+    "No. Ese plazo y ese inicio son para la causa a), el error de hecho, no para la aparición de documentos.",
+    "Es esta. La aparición de documentos es la causa b) del art. 125.1. Para ella, el **art. 125.2** da tres meses “a contar desde el conocimiento de los documentos”. Es lógico: no puedes usar lo que aún no conocías."
+  ],
+  "ojo": "Causa a): cuatro años desde la notificación. Causas b, c y d: tres meses desde el conocimiento de los documentos o la firmeza de la sentencia."
+},
+"of-13-012": {
+  "bloque": "recursos",
+  "precepto": "Art. 114.1.a) de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+    "No. Tras una alzada no cabe reposición. El único recurso administrativo posible es el extraordinario de revisión (art. 122.3).",
+    "No. Es lo contrario: el art. 114.1.a) las incluye entre las que ponen fin a la vía administrativa.",
+    "No. Se pasa de tajante: el art. 122.3 deja a salvo el recurso extraordinario de revisión.",
+    "Es esta. Lo dice el **art. 114.1.a)**. Después de la alzada, lo normal es acudir a los tribunales de lo contencioso-administrativo."
+  ]
+},
+"of-13-013": {
+  "bloque": "recursos",
+  "precepto": "Art. 125.1 de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+    "No. El superior jerárquico resuelve la alzada (art. 121.1). La revisión la resuelve el propio órgano que dictó el acto.",
+    "Es esta. Lo dice el **art. 125.1**: se presenta ante el órgano que dictó el acto, “que también será el competente para su resolución”.",
+    "No. No hay ningún superior por medio: el órgano que debe resolver es el mismo que dictó el acto.",
+    "No. Un órgano jurisdiccional es un tribunal y este recurso es administrativo. La frase, además, no responde a nada que diga la ley."
+  ]
+},
+"of-13-014": {
+  "bloque": "recursos",
+  "precepto": "Art. 122.2 de la Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+    "No. Un mes es el plazo para presentar la alzada contra un acto expreso (art. 122.1), no para resolverla.",
+    "No. El plazo máximo no es de dos meses, sino de tres.",
+    "No. Seis meses es el tope general del plazo de resolución (art. 21.2), pero para la alzada se fijan tres.",
+    "Es esta. El **art. 122.2** fija tres meses para dictar y notificar la resolución. Si pasan sin respuesta, se puede entender desestimado el recurso, salvo el caso del art. 24.1, tercer párrafo."
+  ]
+},
+"of-13-015": {
+  "bloque": "recursos",
+  "precepto": "Art. 125.1.b) de la Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+    "No. Prescindir total y absolutamente del procedimiento es una causa de nulidad (art. 47.1.e), no una de las cuatro causas del recurso extraordinario.",
+    "Es esta. Es literal el **art. 125.1.b)**: documentos de valor esencial que, aunque sean posteriores, evidencien el error de la resolución recurrida.",
+    "No. Tiene tres cambios: dice “parcialmente” en vez de “esencialmente”, “auto judicial” en vez de “sentencia judicial firme”, y solo “anterior” cuando la ley dice “anterior o posterior” (art. 125.1.c).",
+    "No. Te añaden “o de derecho”, y solo vale el error de hecho. Además, la coletilla final sobre documentos incorporados “únicamente con posterioridad” no está en el art. 125.1.a)."
+  ],
+  "ojo": "Mira bien las palabras que cambian: “esencialmente” y “sentencia judicial firme” son las de la ley."
+}
+}

@@ -1,0 +1,436 @@
+{
+"lote": 20,
+"casos": {},
+"calendarios": {},
+"preguntas": [
+{
+"id": "vo-04-001",
+"origen": "votaciones",
+"test": "Clase 4 - Bloque III",
+"n": 1,
+"enunciado": "De acuerdo con el artículo 67.1 de la Ley 39/2015, en los procedimientos de responsabilidad patrimonial, cuando no se trate de daños de carácter físico o psíquico a las personas, el derecho a reclamar prescribirá: (GACE-LI 2021)",
+"opciones": [
+"A los seis meses de producido el hecho o el acto que motive la indemnización o se manifieste su efecto lesivo.",
+"Al año de producido el hecho o el acto que motive la indemnización o se manifieste su efecto lesivo.",
+"A los nueve meses de producido el hecho o el acto que motive la indemnización o se manifieste su efecto lesivo.",
+"A los dieciocho meses de producido el hecho o el acto que motive la indemnización o se manifieste su efecto lesivo."
+]
+},
+{
+"id": "vo-04-002",
+"origen": "votaciones",
+"test": "Clase 4 - Bloque III",
+"n": 2,
+"enunciado": "De acuerdo con lo establecido en la Ley 39/2015, el derecho a reclamar, en los casos en que proceda reconocer derecho a indemnización por anulación en vía contencioso-administrativa de un acto o disposición de carácter general, prescribirá al año de haberse: (GACE-PI 2023)",
+"opciones": [
+"Interpuesto la demanda.",
+"Notificado la sentencia declarativa.",
+"Notificado la sentencia definitiva.",
+"Admitido a trámite la demanda."
+]
+},
+{
+"id": "vo-04-003",
+"origen": "votaciones",
+"test": "Clase 4 - Bloque III",
+"n": 3,
+"enunciado": "Según el artículo 66 de la Ley 39/2015, cuando la Administración en un procedimiento concreto establezca expresamente modelos específicos de presentación de solicitudes:",
+"opciones": [
+"Estos serán de uso obligatorio por los interesados.",
+"Estos serán de uso voluntario por los interesados.",
+"Estos serán de uso voluntario por los interesados, salvo en caso de procedimientos selectivos o de concurrencia competitiva.",
+"Estos serán de uso voluntario por los interesados, salvo que la normativa reguladora establezca lo contrario."
+]
+},
+{
+"id": "vo-04-004",
+"origen": "votaciones",
+"test": "Clase 4 - Bloque III",
+"n": 4,
+"enunciado": "Siempre que no se trate de procesos selectivos o de concurrencia competitiva y conforme al artículo 68.2 de la Ley 39/2015, del Procedimiento Administrativo Común, el plazo de subsanación en la iniciación de un procedimiento administrativo podrá ser ampliado:",
+"opciones": [
+"Hasta 10 días.",
+"Hasta 5 días.",
+"Hasta 30 días.",
+"Hasta 15 días."
+]
+},
+{
+"id": "vo-04-005",
+"origen": "votaciones",
+"test": "Clase 4 - Bloque III",
+"n": 5,
+"enunciado": "Si no hubiera prescrito su derecho a reclamar pero su solicitud de responsabilidad patrimonial adoleciera de alguno de los requisitos establecidos en la normativa para este tipo de solicitudes: (ADVO-LI 2021 - Supuesto II)",
+"opciones": [
+"Se requerirá al interesado para que, en un plazo no superior a 15 días, subsane la falta o acompañe los documentos.",
+"Se le tendrá por desistido de su petición, previa resolución.",
+"Deberá otorgarse un plazo no inferior a 15 días para que subsane la falta o acompañe los documentos preceptivos.",
+"Se requerirá al interesado para que, en un plazo de 10 días, subsane la falta o acompañe los documentos preceptivos."
+]
+},
+{
+"id": "vo-04-006",
+"origen": "votaciones",
+"test": "Clase 4 - Bloque III",
+"n": 6,
+"enunciado": "Conforme a lo establecido en el artículo 68 de la Ley 39/2015, ¿qué consecuencias tendría para el interesado no subsanar en plazo la solicitud?",
+"opciones": [
+"Se le tendrá por desistido de su petición, previa resolución que deberá ser dictada en los términos previstos en el artículo 21.",
+"Su solicitud caducará.",
+"Su derecho prescribirá.",
+"Se entenderá que ha renunciado a su derecho, previa resolución que deberá ser dictada en los términos previstos en el artículo 21."
+]
+},
+{
+"id": "vo-04-007",
+"origen": "votaciones",
+"test": "Clase 4 - Bloque III",
+"n": 7,
+"enunciado": "Indique la opción correcta respecto a las declaraciones responsables y las comunicaciones, según el artículo 69 de la Ley 39/2015: (ADVO-PI 2021)",
+"opciones": [
+"Para iniciar una actividad podrá exigirse acumulativamente una declaración responsable y una comunicación.",
+"La comunicación podrá presentarse dentro de un plazo posterior al inicio de la actividad cuando la legislación correspondiente lo prevea expresamente.",
+"Permitirán el reconocimiento o ejercicio de un derecho o bien el inicio de una actividad, desde el día siguiente al de su presentación.",
+"Es potestativo para las Administraciones públicas la publicación y actualización de los modelos de declaración responsable y de comunicación."
+]
+},
+{
+"id": "vo-04-008",
+"origen": "votaciones",
+"test": "Clase 4 - Bloque III",
+"n": 8,
+"enunciado": "De acuerdo con el artículo 69 de la Ley 39/2015, las declaraciones responsables y las comunicaciones permitirán el reconocimiento o ejercicio de un derecho o bien el inicio de una actividad: (GACE-PI 2021)",
+"opciones": [
+"Desde el día en que las Administraciones Públicas hayan ejercido su facultad de comprobación, control e inspección.",
+"Desde el día de su aprobación por el órgano competente.",
+"Desde el día de su presentación.",
+"Desde el día siguiente al de su presentación."
+]
+},
+{
+"id": "vo-04-009",
+"origen": "votaciones",
+"test": "Clase 4 - Bloque III",
+"n": 9,
+"enunciado": "De acuerdo con la Ley 39/2015, el documento mediante el que los interesados ponen en conocimiento de la Administración Pública competente sus datos identificativos o cualquier otro dato relevante para el inicio de una actividad o el ejercicio de un derecho se denomina: (ADVO-LI 2019)",
+"opciones": [
+"Denuncia.",
+"Solicitud de iniciación del procedimiento.",
+"Declaración responsable.",
+"Comunicación."
+]
+},
+{
+"id": "vo-04-010",
+"origen": "votaciones",
+"test": "Clase 4 - Bloque III",
+"n": 10,
+"enunciado": "NO forman parte del expediente administrativo, conforme al artículo 70 de la Ley 39/2015: (AUX-LI 2017)",
+"opciones": [
+"Las alegaciones del interesado.",
+"Los informes preceptivos.",
+"La información de carácter auxiliar.",
+"Los informes solicitados antes de la resolución definitiva."
+]
+},
+{
+"id": "vo-04-011",
+"origen": "votaciones",
+"test": "Clase 4 - Bloque III",
+"n": 11,
+"enunciado": "De acuerdo con la Ley 39/2015, señale la respuesta correcta sobre el expediente administrativo: (ADMVO-PI 2017)",
+"opciones": [
+"Un mismo documento administrativo solo puede formar parte de un expediente electrónico.",
+"Cuando haya que remitir el expediente a otro órgano se incluirá un índice autentificado de los documentos que contiene.",
+"Si el titular del órgano administrativo lo estima oportuno, el expediente contendrá copia electrónica certificada de la resolución adoptada.",
+"En el expediente debe constar el borrador de la resolución adoptada y un breve resumen de la misma."
+]
+},
+{
+"id": "vo-04-012",
+"origen": "votaciones",
+"test": "Clase 4 - Bloque III",
+"n": 12,
+"enunciado": "Conforme al artículo 70 de la Ley 39/2015, se entiende como expediente administrativo: (AUX CASTILLA LEÓN 2021)",
+"opciones": [
+"El conjunto ordenado de documentos generados o recibidos por una unidad u oficina en la resolución administrativa de un mismo asunto.",
+"Todos aquellos documentos conservados o grabados de manera escrita, óptica, acústica o de cualquier otra forma, que cumplan fines u objetivos de carácter público.",
+"La serie de actuaciones administrativas debidamente documentadas que reflejan el procedimiento del que el acto o disposición trae causa.",
+"El conjunto ordenado de documentos y actuaciones que sirven de antecedente y fundamento a la resolución administrativa, así como las diligencias encaminadas a ejecutarla."
+]
+},
+{
+"id": "vo-04-013",
+"origen": "votaciones",
+"test": "Clase 4 - Bloque III",
+"n": 13,
+"enunciado": "Según la Ley 39/2015, de 1 de octubre, salvo que en la norma correspondiente se fije plazo distinto, los trámites que deban ser cumplimentados por los interesados deberán realizarse en el plazo de: (GACE-LI 2023)",
+"opciones": [
+"Quince días a partir del día de notificación del correspondiente acto.",
+"Diez días a partir del siguiente al de la notificación del correspondiente acto.",
+"Quince días a partir del siguiente al de la notificación del correspondiente acto.",
+"Diez días a partir del día de la notificación del correspondiente acto."
+]
+},
+{
+"id": "vo-04-014",
+"origen": "votaciones",
+"test": "Clase 4 - Bloque III",
+"n": 14,
+"enunciado": "Según el artículo 71 de la Ley 39/2015, el impulso del procedimiento tendrá lugar respetando: (ADMVO-PI 2017)",
+"opciones": [
+"Los principios de simplicidad y urgencia.",
+"Los principios de jerarquía y celeridad.",
+"Los principios de eficacia e irretroactividad.",
+"Los principios de transparencia y publicidad."
+]
+},
+{
+"id": "vo-04-015",
+"origen": "votaciones",
+"test": "Clase 4 - Bloque III",
+"n": 15,
+"enunciado": "El artículo 72 de la Ley 39/2015, de 1 de octubre, establece que se acordarán en un solo acto todos los tramites que, por su naturaleza, admitan un impulso simultaneo y no sea obligado su cumplimiento sucesivo de acuerdo con el principio de: (GACE-PI 2019)",
+"opciones": [
+"Simplificación administrativa.",
+"Homogeneidad administrativa.",
+"Celeridad.",
+"Agregación ordenada."
+]
+},
+{
+"id": "vo-04-016",
+"origen": "votaciones",
+"test": "Clase 4 - Bloque III",
+"n": 16,
+"enunciado": "De acuerdo con el artículo 76.1 de la Ley 39/2015, los interesados podrán, en cualquier momento del procedimiento administrativo, aducir alegaciones y aportar documentos u otros elementos de juicio, siempre que lo hagan: (AUX-LI 2017)",
+"opciones": [
+"Con posterioridad al trámite de audiencia, pero antes de que se realice la propuesta de resolución.",
+"Con anterioridad al trámite de audiencia.",
+"Solo con la solicitud o, en su caso, con la subsanación y mejora de la solicitud.",
+"Con anterioridad a la propuesta de resolución."
+]
+},
+{
+"id": "vo-04-017",
+"origen": "votaciones",
+"test": "Clase 4 - Bloque III",
+"n": 17,
+"enunciado": "En relación con la instrucción del procedimiento administrativo, de acuerdo con la Ley 39/2015, los interesados: (ADMVO-PI 2021)",
+"opciones": [
+"Únicamente podrán alegar defectos de tramitación durante el trámite de audiencia.",
+"Únicamente podrán alegar defectos de tramitación en cualquier momento del procedimiento anterior al trámite de audiencia.",
+"Únicamente podrán alegar defectos de tramitación en el trámite de audiencia y después de este trámite.",
+"Podrán alegar defectos de tramitación en todo momento."
+]
+},
+{
+"id": "vo-04-018",
+"origen": "votaciones",
+"test": "Clase 4 - Bloque III",
+"n": 18,
+"enunciado": "Según el artículo 75 de la Ley 39/2015, el órgano instructor adoptará las medidas necesarias para lograr el pleno respeto a los principios de:",
+"opciones": [
+"Contradicción y de coordinación de los interesados en el procedimiento.",
+"Eficacia y participación de los interesados en el procedimiento.",
+"Eficiencia y participación de los interesados en el procedimiento.",
+"Contradicción y de igualdad de los interesados en el procedimiento."
+]
+},
+{
+"id": "vo-04-019",
+"origen": "votaciones",
+"test": "Clase 4 - Bloque III",
+"n": 19,
+"enunciado": "Según el artículo 77 de la Ley 39/2015, cuando la Administración no tenga por ciertos los hechos alegados por los interesados o la naturaleza del procedimiento lo exija, el instructor del mismo acordará la apertura de un período de prueba por un plazo: (GACE-EXT 2021)",
+"opciones": [
+"No superior a treinta días ni inferior a diez.",
+"No superior a treinta días ni inferior a veinte.",
+"No superior a sesenta días ni inferior a treinta.",
+"No superior a treinta días ni inferior a quince."
+]
+},
+{
+"id": "vo-04-020",
+"origen": "votaciones",
+"test": "Clase 4 - Bloque III",
+"n": 20,
+"enunciado": "De acuerdo con el artículo 77 de la Ley 39/2015, cuando la prueba consista en la emisión de un informe de un órgano administrativo, organismo público o Entidad de derecho público, se entenderá que este tiene: (ADMVO-LI 2019)",
+"opciones": [
+"Carácter preceptivo.",
+"Carácter vinculante.",
+"Carácter preceptivo y vinculante.",
+"Carácter potestativo y no vinculante."
+]
+},
+{
+"id": "vo-04-021",
+"origen": "votaciones",
+"test": "Clase 4 - Bloque III",
+"n": 21,
+"enunciado": "Señale la respuesta correcta en cuanto a los medios y periodos de prueba en el procedimiento administrativo: (ADMVO-PI 2017)",
+"opciones": [
+"Cuando la prueba consista en la emisión de un informe de un órgano administrativo, se entenderá que este tiene carácter facultativo.",
+"Todo documento formalizado por funcionarios en que se recojan hechos constatados por aquellos hará prueba de estos salvo que se acredite lo contrario.",
+"Cuando la valoración de las pruebas practicadas pueda constituir el fundamento básico de la decisión que se adopte en el procedimiento, por ser pieza imprescindible para la correcta evaluación de los hechos, deberá incluirse en la propuesta de resolución.",
+"El instructor del procedimiento podrá rechazar cualquiera de las pruebas propuestas por los interesados mediante resolución motivada."
+]
+},
+{
+"id": "vo-04-022",
+"origen": "votaciones",
+"test": "Clase 4 - Bloque III",
+"n": 22,
+"enunciado": "De acuerdo con lo establecido en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los informes emitidos en el procedimiento administrativo, salvo disposición expresa en contrario, serán: (GACE-EST 2023)",
+"opciones": [
+"Preceptivos y vinculantes.",
+"Preceptivos y no vinculantes.",
+"Facultativos y vinculantes.",
+"Facultativos y no vinculantes."
+]
+},
+{
+"id": "vo-04-023",
+"origen": "votaciones",
+"test": "Clase 4 - Bloque III",
+"n": 23,
+"enunciado": "Según la Ley 39/2015, señale la respuesta correcta en relación con los procedimientos de responsabilidad patrimonial: (ADMVO-LI 2019)",
+"opciones": [
+"El dictamen del Consejo de Estado se emitirá en el plazo de dos meses y se pronunciará únicamente sobre la existencia o no de relación de causalidad.",
+"Se podrá solicitar informe al servicio cuyo funcionamiento, haya ocasionado la presunta lesión indemnizable.",
+"Cuando las indemnizaciones reclamadas sean de cuantía superior a 30.000 euros será preceptivo solicitar dictamen del Consejo de Estado.",
+"En caso de reclamaciones por funcionamiento anormal de la Administración de Justicia, será preceptivo informe del Consejo General del Poder Judicial."
+]
+},
+{
+"id": "vo-04-024",
+"origen": "votaciones",
+"test": "Clase 4 - Bloque III",
+"n": 24,
+"enunciado": "En relación con la emisión de informes, la Ley 39/2015 señala que: (ADMVO-PI 2017)",
+"opciones": [
+"Salvo disposición expresa en contrario, los informes serán preceptivos y no vinculantes.",
+"Si un informe se emite fuera de plazo, podrá no ser tenido en cuenta al adoptar la correspondiente resolución.",
+"Los informes serán emitidos en papel, salvo que una norma exija que sea a través de medios electrónicos.",
+"El procedimiento queda paralizado hasta que no se recaben todos los informes que deban emitirse."
+]
+},
+{
+"id": "vo-04-025",
+"origen": "votaciones",
+"test": "Clase 4 - Bloque III",
+"n": 25,
+"enunciado": "Según la Ley 39/2015, de 1 de octubre, ¿en qué momento del procedimiento tendrá lugar el trámite de audiencia a los interesados?",
+"opciones": [
+"Antes de instruir los procedimientos e inmediatamente después de redactar la propuesta de resolución.",
+"Una vez instruidos los procedimientos e inmediatamente antes de redactar la propuesta de resolución.",
+"Una vez instruidos los procedimientos e inmediatamente antes de la apertura del plazo de recursos.",
+"Una vez instruidos los procedimientos e inmediatamente antes de redactar la resolución."
+]
+},
+{
+"id": "vo-04-026",
+"origen": "votaciones",
+"test": "Clase 4 - Bloque III",
+"n": 26,
+"enunciado": "Según el artículo 83 de la Ley 39/2015, cuando se acuerde la apertura de un periodo de información pública, ¿de qué plazo dispondrán las personas físicas o jurídicas para formular alegaciones?",
+"opciones": [
+"No superior a 15 días ni inferior a 10.",
+"En el trámite de información pública solo podrán formular alegaciones los interesados en el procedimiento.",
+"No superior a 20 días ni inferior a 10.",
+"No inferior a 20 días."
+]
+},
+{
+"id": "vo-04-027",
+"origen": "votaciones",
+"test": "Clase 4 - Bloque III",
+"n": 27,
+"enunciado": "La Ley 39/2015, regula el trámite de audiencia en el procedimiento administrativo y establece que: (ADMVO-PI 2017)",
+"opciones": [
+"Los interesados, en un plazo no inferior a 10 días ni superior a 30, podrán alegar y presentar los documentos y justificaciones que estimen pertinentes.",
+"Antes del vencimiento del plazo, el órgano competente puede tener por realizado el trámite si considera que los interesados no podrán efectuar alegaciones ni aportar nuevos documentos o justificaciones.",
+"Será anterior a la solicitud del informe del órgano competente para el asesoramiento jurídico o a la solicitud del Dictamen del Consejo de Estado.",
+"En ningún caso se podrá prescindir del trámite de audiencia."
+]
+},
+{
+"id": "vo-04-028",
+"origen": "votaciones",
+"test": "Clase 4 - Bloque III",
+"n": 28,
+"enunciado": "De acuerdo con el artículo 84 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, no está prevista como causa de terminación del procedimiento administrativo: (TÉCNICOS CASTILLA LEÓN 2021)",
+"opciones": [
+"La prescripción.",
+"La renuncia al derecho en que se funde la solicitud.",
+"La imposibilidad material de continuarlo por causas sobrevenidas.",
+"La declaración de caducidad."
+]
+},
+{
+"id": "vo-04-029",
+"origen": "votaciones",
+"test": "Clase 4 - Bloque III",
+"n": 29,
+"enunciado": "En los procedimientos sancionadores, el artículo 85 de la Ley 39/2015 establece que si el infractor reconoce su responsabilidad se podrá aplicar reducciones de, al menos, el: (ADMVO-LI 2017)",
+"opciones": [
+"15 % sobre el importe de la sanción pecuniaria propuesta.",
+"20 % sobre el importe de la sanción pecuniaria propuesta.",
+"25 % sobre el importe de la sanción pecuniaria propuesta.",
+"10 % sobre el importe de la sanción pecuniaria propuesta."
+]
+},
+{
+"id": "vo-04-030",
+"origen": "votaciones",
+"test": "Clase 4 - Bloque III",
+"n": 30,
+"enunciado": "Señale la respuesta correcta en relación con la terminación convencional a que se refiere el artículo 86 de la Ley 39/2015:",
+"opciones": [
+"En los casos de procedimientos de responsabilidad patrimonial, el acuerdo alcanzado entre las partes deberá fijar la cuantía y modo de indemnización.",
+"Las Administraciones Públicas podrán celebrar acuerdos, pactos, convenios o contratos solo con personas de Derecho público.",
+"Los acuerdos celebrados por las Administraciones Públicas, para producir sus efectos, deberán publicarse en el Diario Oficial correspondiente.",
+"Excepcionalmente, los acuerdos que se suscriban podrán suponer alteración de las competencias atribuidas a los órganos administrativos."
+]
+},
+{
+"id": "vo-04-031",
+"origen": "votaciones",
+"test": "Clase 4 - Bloque III",
+"n": 31,
+"enunciado": "De acuerdo con el artículo 87 de la Ley 39/2015, antes de dictar resolución, el órgano competente para resolver podrá decidir la realización de actuaciones complementarias indispensables para resolver el procedimiento, que deberán practicarse en un plazo: (GACE-PI 2021)",
+"opciones": [
+"De siete días.",
+"No superior a quince días.",
+"No inferior a diez días ni superior a quince.",
+"De veinte días."
+]
+},
+{
+"id": "vo-04-032",
+"origen": "votaciones",
+"test": "Clase 4 - Bloque III",
+"n": 32,
+"enunciado": "De acuerdo con el artículo 87 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas, ¿qué plazo se concede a los interesados para formular alegaciones tras la finalización de las actuaciones complementarias? (Administrativos Castilla-León 2017)",
+"opciones": [
+"20 días.",
+"7 días.",
+"10 días.",
+"15 días."
+]
+},
+{
+"id": "vo-04-033",
+"origen": "votaciones",
+"test": "Clase 4 - Bloque III",
+"n": 33,
+"enunciado": "Según lo establecido en el artículo 87 de la Ley 39/2015, de 1 de octubre, de Procedimiento Administrativo Común, y en relación a las actuaciones complementarias, el plazo para resolver el procedimiento hasta la terminación de las mismas: (Auxiliares Extremadura 2023)",
+"opciones": [
+"Puede quedar suspendido.",
+"Se suspenderá.",
+"Puede quedar interrumpido.",
+"La ley de procedimiento no hace ninguna referencia a dichas actuaciones."
+]
+}
+]
+}

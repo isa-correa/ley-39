@@ -1,0 +1,488 @@
+{
+"lote": 14,
+"casos": {},
+"calendarios": {},
+"preguntas": [
+{
+"id": "of-07-004",
+"origen": "oficiales",
+"test": "Temas 2-3 (7) - Ley 39/2015 (arts. 66 a 74)",
+"n": 4,
+"enunciado": "Según la Ley 39/2015, de 1 de octubre, el documento mediante el que los interesados ponen en conocimiento de la Administración Pública competente sus datos identificativos o cualquier otro dato relevante para el inicio de una actividad o para el ejercicio de un derecho, se denomina:",
+"opciones": [
+"Denuncia.",
+"Declaración responsable.",
+"Solicitud de iniciación del procedimiento.",
+"Comunicación."
+]
+},
+{
+"id": "of-07-005",
+"origen": "oficiales",
+"test": "Temas 2-3 (7) - Ley 39/2015 (arts. 66 a 74)",
+"n": 5,
+"enunciado": "Según el artículo 71 de la Ley 39/2015, el impulso del procedimiento tendrá lugar respetando:",
+"opciones": [
+"Los principios de jerarquía y celeridad.",
+"Los principios de simplicidad y urgencia.",
+"Los principios de eficacia e irretroactividad.",
+"Los principios de transparencia y publicidad."
+]
+},
+{
+"id": "of-07-006",
+"origen": "oficiales",
+"test": "Temas 2-3 (7) - Ley 39/2015 (arts. 66 a 74)",
+"n": 6,
+"enunciado": "De acuerdo con la Ley 39/2015, en los procedimientos de responsabilidad patrimonial iniciados por un interesado, en caso de daños de carácter físico o psíquico a las personas, el plazo para ejercer el derecho a reclamar empezará a computarse:",
+"opciones": [
+"Transcurrido un mes desde el hecho causante.",
+"Desde la curación o la determinación del alcance de las secuelas.",
+"El derecho a reclamar no prescribe.",
+"Desde el momento en el que se produjo el hecho causante."
+]
+},
+{
+"id": "of-07-007",
+"origen": "oficiales",
+"test": "Temas 2-3 (7) - Ley 39/2015 (arts. 66 a 74)",
+"n": 7,
+"enunciado": "De acuerdo con la Ley 39/2015, señale la respuesta correcta sobre el expediente administrativo:",
+"opciones": [
+"Cuando haya que remitir el expediente a otro órgano se incluirá un índice autentificado de los documentos que contiene.",
+"En el expediente debe constar el borrador de la resolución adoptada y un breve resumen de la misma.",
+"Un mismo documento administrativo solo puede formar parte de un expediente electrónico.",
+"Si el instructor lo estima oportuno, el expediente contendrá copia electrónica certificada de la resolución adoptada."
+]
+},
+{
+"id": "of-07-008",
+"origen": "oficiales",
+"test": "Temas 2-3 (7) - Ley 39/2015 (arts. 66 a 74)",
+"n": 8,
+"enunciado": "El artículo 72 de la Ley 39/2015, de 1 de octubre, establece que se acordaran en un solo acto todos los tramites que, por su naturaleza, admitan un impulso simultaneo y no sea obligado su cumplimiento sucesivo de acuerdo con el principio de:",
+"opciones": [
+"Agregación ordenada.",
+"Homogeneidad administrativa.",
+"Simplificación administrativa.",
+"Celeridad."
+]
+},
+{
+"id": "of-07-009",
+"origen": "oficiales",
+"test": "Temas 2-3 (7) - Ley 39/2015 (arts. 66 a 74)",
+"n": 9,
+"enunciado": "De conformidad con lo dispuesto en la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas, salvo que en la norma correspondiente se fije plazo distinto, los trámites que deban cumplimentarse por los interesados deberán realizarse en el plazo de:",
+"opciones": [
+"Quince días a partir del día de notificación del correspondiente acto.",
+"Quince días a partir del siguiente al de la notificación del correspondiente acto.",
+"Diez días a partir del día de la notificación del correspondiente acto.",
+"Diez días a partir del siguiente al de la notificación del correspondiente acto."
+]
+},
+{
+"id": "of-07-010",
+"origen": "oficiales",
+"test": "Temas 2-3 (7) - Ley 39/2015 (arts. 66 a 74)",
+"n": 10,
+"enunciado": "Según la Ley 39/2015, el derecho a reclamar, en los casos en que proceda reconocer derecho a indemnización por anulación en vía contencioso-administrativa de un acto o disposición de carácter general, prescribirá al año de haberse:",
+"opciones": [
+"Admitido a trámite la demanda.",
+"Notificado la sentencia declarativa.",
+"Interpuesto la demanda.",
+"Notificado la sentencia definitiva."
+]
+},
+{
+"id": "of-07-011",
+"origen": "oficiales",
+"test": "Temas 2-3 (7) - Ley 39/2015 (arts. 66 a 74)",
+"n": 11,
+"enunciado": "Conforme a lo señalado en el artículo 74 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, las cuestiones incidentales que se susciten en un procedimiento:",
+"opciones": [
+"Suspenderán la tramitación del procedimiento.",
+"No suspenderán la tramitación del procedimiento en ningún caso.",
+"Suspenderán la tramitación del procedimiento, salvo la recusación, que no lo suspenderá.",
+"No suspenderán la tramitación del procedimiento, salvo la recusación."
+]
+},
+{
+"id": "of-07-012",
+"origen": "oficiales",
+"test": "Temas 2-3 (7) - Ley 39/2015 (arts. 66 a 74)",
+"n": 12,
+"enunciado": "Según el artículo 67 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, para el derecho a reclamar en procedimientos de responsabilidad patrimonial en caso de daños de carácter físico o psíquico a las personas, el plazo empezará a computarse desde:",
+"opciones": [
+"La fecha en que se sufrió el accidente.",
+"La fecha que se determine en las diligencias policiales y/o judiciales.",
+"La fecha de la primera revisión médica.",
+"La curación o la determinación del alcance de las secuelas."
+]
+},
+{
+"id": "of-07-013",
+"origen": "oficiales",
+"test": "Temas 2-3 (7) - Ley 39/2015 (arts. 66 a 74)",
+"n": 13,
+"enunciado": "¿Qué consecuencia establece el artículo 68.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, cuando un interesado no responde al requerimiento administrativo de subsanación o mejora de su solicitud?",
+"opciones": [
+"El procedimiento continúa en sus siguientes fases.",
+"La Administración notifica un segundo requerimiento de subsanación o mejora de la solicitud.",
+"Se resuelve el desistimiento de la solicitud.",
+"La Administración declara el archivo de las actuaciones."
+]
+},
+{
+"id": "of-07-014",
+"origen": "oficiales",
+"test": "Temas 2-3 (7) - Ley 39/2015 (arts. 66 a 74)",
+"n": 14,
+"enunciado": "De acuerdo con lo establecido en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, ¿cuál de las siguientes afirmaciones sobre la iniciación, ordenación e instrucción de los procedimientos administrativos es correcta?",
+"opciones": [
+"Se entenderá por declaración responsable aquel documento mediante el que los interesados ponen en conocimiento de la Administración Pública competente sus datos identificativos o cualquier otro dato relevante para el inicio de una actividad o el ejercicio de un derecho.",
+"Tanto las declaraciones responsables como las comunicaciones permitirán, el reconocimiento o ejercicio de un derecho o bien el inicio de una actividad, desde el día de su presentación. No obstante, las comunicaciones podrán presentarse dentro de un plazo posterior al inicio de la actividad cuando la legislación correspondiente lo prevea expresamente.",
+"Las declaraciones responsables y las comunicaciones permitirán el reconocimiento o ejercicio de un derecho o bien el inicio de una actividad, desde el día siguiente al de su presentación.",
+"Excepcionalmente, se exigirán de forma acumulada, tanto una declaración responsable, como una comunicación para iniciar una misma actividad."
+]
+},
+{
+"id": "of-07-015",
+"origen": "oficiales",
+"test": "Temas 2-3 (7) - Ley 39/2015 (arts. 66 a 74)",
+"n": 15,
+"enunciado": "De acuerdo con el artículo 71 de la Ley 39/2015, en el despacho de los expedientes se guardará el orden riguroso de incoación en asuntos de homogénea naturaleza:",
+"opciones": [
+"Salvo que por el titular de la unidad administrativa se dé orden motivada en contrario, de la que quede constancia.",
+"Salvo que por el instructor del procedimiento se dé orden motivada en contrario, de la que quede constancia.",
+"Salvo que por el titular de la unidad administrativa se dé orden en contrario, que no deberá ser motivada.",
+"Salvo que por el instructor del procedimiento se dé orden en contrario, que no deberá ser motivada."
+]
+},
+{
+"id": "of-08-001",
+"origen": "oficiales",
+"test": "Temas 2-3 (8) - Ley 39/2015 (arts. 75 a 87)",
+"n": 1,
+"enunciado": "Según el artículo 76.1 de la Ley 39/2015, los interesados podrán, en cualquier momento del procedimiento administrativo, aducir alegaciones y aportar documentos u otros elementos de juicio, siempre que lo hagan:",
+"opciones": [
+"Solo con la solicitud o, en su caso, con la subsanación y mejora de la solicitud.",
+"Con posterioridad al trámite de audiencia, pero antes de que se realice la propuesta de resolución.",
+"Con anterioridad al trámite de audiencia.",
+"Con anterioridad a la propuesta de resolución."
+]
+},
+{
+"id": "of-08-002",
+"origen": "oficiales",
+"test": "Temas 2-3 (8) - Ley 39/2015 (arts. 75 a 87)",
+"n": 2,
+"enunciado": "De acuerdo con el artículo 77 de la Ley 39/2015, en un procedimiento administrativo cuando la prueba consista en la emisión de un informe de un órgano administrativo, organismo público o Entidad de derecho público, se entenderá que este tiene:",
+"opciones": [
+"Carácter vinculante.",
+"Carácter potestativo y no vinculante.",
+"Carácter preceptivo.",
+"Carácter preceptivo y vinculante."
+]
+},
+{
+"id": "of-08-003",
+"origen": "oficiales",
+"test": "Temas 2-3 (8) - Ley 39/2015 (arts. 75 a 87)",
+"n": 3,
+"enunciado": "De conformidad con la Ley 39/2015, señale la respuesta correcta respecto a los procedimientos de responsabilidad patrimonial:",
+"opciones": [
+"En el caso de reclamaciones por el funcionamiento anormal de la Administración de Justicia, será preceptivo el informe del Consejo General del Poder Judicial.",
+"Cuando la indemnización reclamada sea de cuantía superior a 30.000 euros será preceptivo dictamen del Consejo de Estado.",
+"En el caso de los procedimientos de responsabilidad patrimonial se podrá solicitar informe al servicio cuyo funcionamiento, haya ocasionado la presunta lesión indemnizable.",
+"En caso de emitirse, el dictamen del Consejo de Estado se emitirá en el plazo de dos meses y se pronunciará únicamente sobre la existencia o no de relación de causalidad."
+]
+},
+{
+"id": "of-08-004",
+"origen": "oficiales",
+"test": "Temas 2-3 (8) - Ley 39/2015 (arts. 75 a 87)",
+"n": 4,
+"enunciado": "La Ley 39/2015, regula el trámite de audiencia en el procedimiento administrativo y establece que:",
+"opciones": [
+"Los interesados, en un plazo no inferior a 10 días ni superior a 30, podrán alegar y presentar los documentos y justificaciones que estimen pertinentes.",
+"Será anterior a la solicitud del informe del órgano competente para el asesoramiento jurídico o a la solicitud del Dictamen del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma, cuando estos formen parte del procedimiento.",
+"Antes del vencimiento del plazo, el órgano competente puede tener por realizado el trámite si considera que los interesados no podrán efectuar alegaciones ni aportar nuevos documentos o justificaciones.",
+"No se podrá prescindir del trámite de audiencia aun cuando no figuren en el procedimiento ni sean tenidos en cuenta en la resolución otros hechos ni otras alegaciones y pruebas que las aducidas por el interesado."
+]
+},
+{
+"id": "of-08-005",
+"origen": "oficiales",
+"test": "Temas 2-3 (8) - Ley 39/2015 (arts. 75 a 87)",
+"n": 5,
+"enunciado": "Según la Ley 39/2015, señale la respuesta correcta en cuanto a los medios y periodos de prueba en el procedimiento:",
+"opciones": [
+"El instructor del procedimiento podrá rechazar cualquiera de las pruebas propuestas por los interesados mediante resolución motivada.",
+"Cuando la prueba consista en la emisión de un informe de un órgano administrativo, organismo público o Entidad de derecho público, se entenderá que este tiene carácter facultativo.",
+"Todo documento formalizado por funcionarios en el que se recoja los hechos constatados por aquellos hará prueba de estos salvo que se acredite lo contrario.",
+"Cuando la valoración de las pruebas pueda constituir el fundamento básico de la decisión que se adopte en el procedimiento, por ser pieza imprescindible para la correcta evaluación de los hechos, deberá incluirse en la propuesta de resolución."
+]
+},
+{
+"id": "of-08-006",
+"origen": "oficiales",
+"test": "Temas 2-3 (8) - Ley 39/2015 (arts. 75 a 87)",
+"n": 6,
+"enunciado": "En relación con la emisión de informes, la Ley 39/2015 señala que:",
+"opciones": [
+"El procedimiento queda paralizado hasta que no se recaben todos los informes que deban emitirse.",
+"Si un informe se emite fuera de plazo, podrá no ser tenido en cuenta al adoptar la correspondiente resolución.",
+"Los informes serán emitidos en papel, salvo que una norma exija que sea a través de medios electrónicos.",
+"Salvo disposición expresa en contrario, los informes serán preceptivos y no vinculantes."
+]
+},
+{
+"id": "of-08-007",
+"origen": "oficiales",
+"test": "Temas 2-3 (8) - Ley 39/2015 (arts. 75 a 87)",
+"n": 7,
+"enunciado": "Según el artículo 81 de la Ley 39/2015, de 1 de octubre, en el caso de reclamaciones en materia de responsabilidad patrimonial del Estado por el funcionamiento anormal de la Administración de Justicia, será preceptivo el informe del Consejo General del Poder Judicial que será evacuado en el plazo máximo de:",
+"opciones": [
+"3 meses.",
+"1 mes.",
+"2 meses.",
+"6 meses."
+]
+},
+{
+"id": "of-08-008",
+"origen": "oficiales",
+"test": "Temas 2-3 (8) - Ley 39/2015 (arts. 75 a 87)",
+"n": 8,
+"enunciado": "De acuerdo con el artículo 81 de la Ley 39/2015, en el caso de reclamaciones en materia de responsabilidad patrimonial del Estado por el funcionamiento anormal de la Administración de Justicia:",
+"opciones": [
+"Será preceptivo el informe del Consejo General del Poder Judicial que será evacuado en el plazo máximo de 2 meses.",
+"Será preceptivo el informe del Defensor del Pueblo que será evacuado en el plazo máximo de 2 meses.",
+"Será preceptivo el informe del Defensor del Pueblo que será evacuado en el plazo máximo de 3 meses.",
+"Será preceptivo el informe del Consejo General del Poder Judicial que será evacuado en el plazo máximo de 3 meses."
+]
+},
+{
+"id": "of-08-009",
+"origen": "oficiales",
+"test": "Temas 2-3 (8) - Ley 39/2015 (arts. 75 a 87)",
+"n": 9,
+"enunciado": "En los procedimientos de responsabilidad patrimonial será preceptivo solicitar dictamen del Consejo de Estado, según el artículo 81 de la Ley 39/2015, de 1 de octubre:",
+"opciones": [
+"Cuando las indemnizaciones reclamadas sean de cuantía igual o superior a 50.000 euros y el dictamen se emitirá en el plazo de un mes.",
+"Cuando las indemnizaciones reclamadas sean de cuantía igual o superior a 30.000 euros y el dictamen se emitirá en el plazo de un mes.",
+"Cuando las indemnizaciones reclamadas sean de cuantía igual o superior a 30.000 euros y el dictamen se emitirá en el plazo de dos meses.",
+"Cuando las indemnizaciones reclamadas sean de cuantía igual o superior a 50.000 euros y el dictamen se emitirá en el plazo de dos meses."
+]
+},
+{
+"id": "of-08-010",
+"origen": "oficiales",
+"test": "Temas 2-3 (8) - Ley 39/2015 (arts. 75 a 87)",
+"n": 10,
+"enunciado": "Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, si un informe debiera ser emitido por una Administración Pública distinta de la que tramita el procedimiento en orden a expresar el punto de vista correspondiente a sus competencias respectivas y transcurriera el plazo sin que aquel se hubiera emitido:",
+"opciones": [
+"Deberán proseguir las actuaciones, salvo que se trate de un informe preceptivo, en cuyo caso podrá suspenderse el transcurso del plazo máximo legal para resolver el procedimiento.",
+"Deberán proseguir las actuaciones, y el informe emitido fuera de plazo deberá tenerse en cuenta al adoptar la correspondiente resolución.",
+"Podrán proseguirse las actuaciones y el informe emitido fuera de plazo podrá no ser tenido en cuenta al adoptar la resolución.",
+"Podrán proseguirse las actuaciones, salvo que se trate de un informe preceptivo, en cuyo caso se podrá suspender el transcurso del plazo máximo legal para resolver el procedimiento."
+]
+},
+{
+"id": "of-08-011",
+"origen": "oficiales",
+"test": "Temas 2-3 (8) - Ley 39/2015 (arts. 75 a 87)",
+"n": 11,
+"enunciado": "De acuerdo con la Ley 39/2015, los informes emitidos en el procedimiento administrativo, salvo disposición expresa en contrario, serán:",
+"opciones": [
+"Preceptivos y no vinculantes.",
+"Facultativos y no vinculantes.",
+"Preceptivos y vinculantes.",
+"Facultativos y vinculantes."
+]
+},
+{
+"id": "of-08-012",
+"origen": "oficiales",
+"test": "Temas 2-3 (8) - Ley 39/2015 (arts. 75 a 87)",
+"n": 12,
+"enunciado": "En los procedimientos sancionadores, el artículo 85 de la Ley 39/2015 establece que si el infractor reconoce su responsabilidad se podrá aplicar reducciones de, al menos, el:",
+"opciones": [
+"25 % sobre el importe de la sanción pecuniaria propuesta.",
+"20 % sobre el importe de la sanción pecuniaria propuesta.",
+"15 % sobre el importe de la sanción pecuniaria propuesta.",
+"10 % sobre el importe de la sanción pecuniaria propuesta."
+]
+},
+{
+"id": "of-08-013",
+"origen": "oficiales",
+"test": "Temas 2-3 (8) - Ley 39/2015 (arts. 75 a 87)",
+"n": 13,
+"enunciado": "De acuerdo con el artículo 87 de la Ley 39/2015, antes de dictar resolución, el órgano competente para resolver podrá decidir, mediante acuerdo motivado, la realización de las actuaciones complementarias indispensables para resolver el procedimiento. Dichas actuaciones complementarias deberán practicarse en un plazo:",
+"opciones": [
+"De siete días.",
+"No inferior a diez días ni superior a quince.",
+"De veinte días.",
+"No superior a quince días."
+]
+},
+{
+"id": "of-08-014",
+"origen": "oficiales",
+"test": "Temas 2-3 (8) - Ley 39/2015 (arts. 75 a 87)",
+"n": 14,
+"enunciado": "Cuando la Administración no tenga por ciertos los hechos alegados por los interesados o la naturaleza del procedimiento así lo exija, el instructor del mismo acordará la apertura de un período de prueba por un plazo:",
+"opciones": [
+"No superior a treinta días ni inferior a quince.",
+"No inferior a veinte días.",
+"No inferior a diez días ni superior a quince.",
+"No superior a treinta días ni inferior a diez."
+]
+},
+{
+"id": "of-08-015",
+"origen": "oficiales",
+"test": "Temas 2-3 (8) - Ley 39/2015 (arts. 75 a 87)",
+"n": 15,
+"enunciado": "De acuerdo con la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, en el caso de procedimientos de responsabilidad patrimonial, el servicio cuyo funcionamiento haya ocasionado la presunta lesión indemnizable, deberá emitir un informe:",
+"opciones": [
+"No pudiendo exceder de 1 mes el plazo de su emisión.",
+"No pudiendo exceder de 30 días el plazo de su emisión.",
+"No pudiendo exceder de 10 días el plazo de su emisión.",
+"No pudiendo exceder de 15 días el plazo de su emisión."
+]
+},
+{
+"id": "of-09-001",
+"origen": "oficiales",
+"test": "Temas 2-3 (9) - Ley 39/2015 (arts. 88 a 105)",
+"n": 1,
+"enunciado": "De acuerdo con el artículo 96 de la Ley 39/2015, señale el plazo en que los procedimientos administrativos tramitados de manera simplificada deberán estar resueltos:",
+"opciones": [
+"Salvo que reste menos para su tramitación ordinaria, en sesenta días a contar desde el día siguiente al que se notifique al interesado el acuerdo de tramitación simplificada del procedimiento.",
+"En sesenta días a contar desde el día siguiente al que se notifique al interesado el acuerdo de tramitación simplificada del procedimiento.",
+"En treinta días a contar desde el día siguiente al que se notifique al interesado el acuerdo de tramitación simplificada del procedimiento.",
+"Salvo que reste menos para su tramitación ordinaria, en treinta días a contar desde el día siguiente al que se notifique al interesado el acuerdo de tramitación simplificada del procedimiento."
+]
+},
+{
+"id": "of-09-002",
+"origen": "oficiales",
+"test": "Temas 2-3 (9) - Ley 39/2015 (arts. 88 a 105)",
+"n": 2,
+"enunciado": "En el ámbito de la Administración General del Estado, y de conformidad con el artículo 92 de la Ley 39/2015, los procedimientos de responsabilidad patrimonial se resolverán por:",
+"opciones": [
+"El Ministro respectivo o por el Consejo de Ministros.",
+"El órgano que incurrió en la acción u omisión a la que se imputa la producción del daño.",
+"El superior jerárquico del órgano que incurrió en la acción u omisión a la que se imputa la producción del daño.",
+"El Subsecretario de Presidencia."
+]
+},
+{
+"id": "of-09-003",
+"origen": "oficiales",
+"test": "Temas 2-3 (9) - Ley 39/2015 (arts. 88 a 105)",
+"n": 3,
+"enunciado": "De conformidad con el artículo 93 de la Ley 39/2015, en los procedimientos iniciados de oficio, la Administración podrá desistir:",
+"opciones": [
+"Motivadamente y solo en los procedimientos sancionadores.",
+"Motivadamente en los supuestos y con los requisitos previstos en las leyes.",
+"Discrecionalmente, pero motivando su decisión.",
+"Discrecionalmente, sin más requisitos."
+]
+},
+{
+"id": "of-09-004",
+"origen": "oficiales",
+"test": "Temas 2-3 (9) - Ley 39/2015 (arts. 88 a 105)",
+"n": 4,
+"enunciado": "De acuerdo con la Ley 39/2015, el órgano instructor resolverá la finalización de un procedimiento de carácter sancionador, con archivo de las actuaciones, sin que sea necesaria la formulación de la propuesta de resolución:",
+"opciones": [
+"Cuando se concluyera, en cualquier momento, que ha prescrito la infracción.",
+"Cuando la persona o personas interesadas hayan celebrado un acuerdo con la Administración.",
+"Cuando los hechos pudiesen constituir una infracción de carácter leve.",
+"Cuando el infractor reconozca su responsabilidad."
+]
+},
+{
+"id": "of-09-005",
+"origen": "oficiales",
+"test": "Temas 2-3 (9) - Ley 39/2015 (arts. 88 a 105)",
+"n": 5,
+"enunciado": "De acuerdo con el artículo 91 de la Ley 39/2015, el plazo máximo para resolver y notificar la resolución expresa recaída en el procedimiento para exigir responsabilidad patrimonial a la Administración es de:",
+"opciones": [
+"6 meses desde que se inició el procedimiento, entendiéndose, a falta de resolución expresa, estimada la reclamación del particular.",
+"6 meses desde que se inició el procedimiento, entendiéndose, a falta de resolución expresa, desestimada la reclamación del particular.",
+"3 meses desde que se inició el procedimiento, entendiéndose, a falta de resolución expresa, desestimada la reclamación del particular.",
+"3 meses desde que se inició el procedimiento, entendiéndose, a falta de resolución expresa, estimada la reclamación del particular."
+]
+},
+{
+"id": "of-09-006",
+"origen": "oficiales",
+"test": "Temas 2-3 (9) - Ley 39/2015 (arts. 88 a 105)",
+"n": 6,
+"enunciado": "Respecto a la resolución de un procedimiento administrativo, señala la Ley 39/2015 que:",
+"opciones": [
+"La resolución que ponga fin al procedimiento decidirá todas las cuestiones planteadas por los interesados, sin que puedan valorarse las derivadas del mismo.",
+"En el caso de procedimientos sancionadores, en la resolución no se podrán aceptar hechos distintos de los determinados en el curso del procedimiento, con independencia de su diferente valoración jurídica.",
+"En los procedimientos en materia de responsabilidad patrimonial, si transcurren 3 meses desde que se inició el procedimiento sin que haya recaído resolución expresa, podrá entenderse que la resolución es contraria a la indemnización del particular.",
+"En el caso de procedimientos sancionadores, el órgano instructor formulará necesariamente una propuesta de resolución cuando los hechos no pudieran constituir infracción, declarando en la misma el archivo de las actuaciones."
+]
+},
+{
+"id": "of-09-007",
+"origen": "oficiales",
+"test": "Temas 2-3 (9) - Ley 39/2015 (arts. 88 a 105)",
+"n": 7,
+"enunciado": "Es un medio de ejecución forzosa de los actos administrativos:",
+"opciones": [
+"La multa coercitiva.",
+"La desviación de poder.",
+"La compulsa de documentos administrativos.",
+"La sanción subsidiaria."
+]
+},
+{
+"id": "of-09-008",
+"origen": "oficiales",
+"test": "Temas 2-3 (9) - Ley 39/2015 (arts. 88 a 105)",
+"n": 8,
+"enunciado": "Según el artículo 96 de la Ley 39/2015, en el caso del procedimientos sancionadores, se podrá adoptar la tramitación simplificada del procedimiento cuando:",
+"opciones": [
+"El órgano competente para iniciarlo considere que existen elementos de juicio suficientes para calificar la infracción como leve.",
+"Se haya producido el pago voluntario por el presunto responsable en cualquier momento anterior a la resolución.",
+"No se hayan formulado alegaciones por parte del presunto infractor en el trámite de audiencia.",
+"Exista reconocimiento de la responsabilidad por parte del presunto infractor."
+]
+},
+{
+"id": "of-09-009",
+"origen": "oficiales",
+"test": "Temas 2-3 (9) - Ley 39/2015 (arts. 88 a 105)",
+"n": 9,
+"enunciado": "Con arreglo a lo dispuesto en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, salvo que reste menos para su tramitación ordinaria, ¿en qué tiempo deberán ser resueltos los procedimientos administrativos tramitados de manera simplificada?",
+"opciones": [
+"Diez días, a contar desde el siguiente al que se notifique al interesado el acuerdo de tramitación simplificada del procedimiento.",
+"Treinta días, a contar desde el siguiente al que se notifique al interesado el acuerdo de tramitación simplificada del procedimiento.",
+"Diez días, a contar desde la notificación al interesado del acuerdo de tramitación simplificada del procedimiento.",
+"Treinta días, a contar desde la notificación al interesado del acuerdo de tramitación simplificada del procedimiento."
+]
+},
+{
+"id": "of-09-010",
+"origen": "oficiales",
+"test": "Temas 2-3 (9) - Ley 39/2015 (arts. 88 a 105)",
+"n": 10,
+"enunciado": "Según lo dispuesto en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, en los procedimientos iniciados a solicitud del interesado cuando se produzca su paralización por causa imputable al mismo, ¿cuántos meses deben transcurrir para que se produzca la caducidad del procedimiento?",
+"opciones": [
+"2 meses.",
+"3 meses.",
+"6 meses.",
+"12 meses."
+]
+}
+]
+}
