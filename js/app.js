@@ -235,7 +235,7 @@
       t.bloques.forEach(function (b) {
         if (propios.indexOf(b.id) < 0) return;
         var cuantas = todas.filter(function (p) { return p.bloque === b.id && ajustes.origenes.indexOf(p.origen) >= 0; }).length;
-        h += '<label class="check"><input type="checkbox" data-a="bloque" value="' + b.id + '"' + (ajustes.bloques.indexOf(b.id) >= 0 ? " checked" : "") + "><span>" + esc(b.nombre) + "</span><b>" + cuantas + "</b></label>";
+        h += '<label class="check' + (ajustes.bloques.indexOf(b.id) >= 0 ? " marcado" : "") + '"><input type="checkbox" data-a="bloque" value="' + b.id + '"' + (ajustes.bloques.indexOf(b.id) >= 0 ? " checked" : "") + "><span>" + esc(b.nombre) + "</span><b>" + cuantas + "</b></label>";
       });
       h += "</div></div>";
     });
@@ -243,13 +243,13 @@
     h += '<div class="panel"><fieldset><legend>Procedencia</legend><p class="nota">Se aplica a todos los temas que elijas.</p>';
     ORIGENES.forEach(function (o) {
       var cuantas = todas.filter(function (p) { return p.origen === o[0] && (!ajustes.bloques.length || ajustes.bloques.indexOf(p.bloque) >= 0); }).length;
-      h += '<label class="check"><input type="checkbox" data-a="origen" value="' + o[0] + '"' + (ajustes.origenes.indexOf(o[0]) >= 0 ? " checked" : "") + "><span>" + o[1] + "</span><b>" + cuantas + "</b></label>";
+      h += '<label class="check' + (ajustes.origenes.indexOf(o[0]) >= 0 ? " marcado" : "") + '"><input type="checkbox" data-a="origen" value="' + o[0] + '"' + (ajustes.origenes.indexOf(o[0]) >= 0 ? " checked" : "") + "><span>" + o[1] + "</span><b>" + cuantas + "</b></label>";
     });
     h += "</fieldset></div>";
     h += '<div class="panel"><fieldset><legend>Número de preguntas</legend><div class="rejilla">';
     LONGITUDES.forEach(function (l) {
       var off = l > maxN;
-      h += '<label class="chip"><input type="radio" name="n" data-a="n" value="' + l + '"' + (ajustes.n === l && !off ? " checked" : "") + (off ? " disabled" : "") + "><span>" + l + "</span></label>";
+      h += '<label class="chip' + (ajustes.n === l && !off ? " marcado" : "") + '"><input type="radio" name="n" data-a="n" value="' + l + '"' + (ajustes.n === l && !off ? " checked" : "") + (off ? " disabled" : "") + "><span>" + l + "</span></label>";
     });
     h += '</div><p class="nota">Hay ' + maxN + " preguntas con estos filtros. Si marcas varios temas, se reparten en proporción a las preguntas de cada uno.</p></fieldset></div>";
     h += panelTiempo(ajustes.n);
@@ -264,8 +264,8 @@
 
   function panelTiempo(n) {
     var h = '<div class="panel"><fieldset><legend>Tiempo</legend>';
-    h += '<label class="check"><input type="radio" name="tiempo" data-a="tiempo" value="libre"' + (ajustes.tiempo === "libre" ? " checked" : "") + "><span>Cronómetro libre, sin límite</span><b></b></label>";
-    h += '<label class="check"><input type="radio" name="tiempo" data-a="tiempo" value="ritmo"' + (ajustes.tiempo === "ritmo" ? " checked" : "") + "><span>Ritmo de examen: 1 min 7 s por pregunta</span><b>" + (n ? duracion(n) : "") + "</b></label>";
+    h += '<label class="check' + (ajustes.tiempo === "libre" ? " marcado" : "") + '"><input type="radio" name="tiempo" data-a="tiempo" value="libre"' + (ajustes.tiempo === "libre" ? " checked" : "") + "><span>Cronómetro libre, sin límite</span><b></b></label>";
+    h += '<label class="check' + (ajustes.tiempo === "ritmo" ? " marcado" : "") + '"><input type="radio" name="tiempo" data-a="tiempo" value="ritmo"' + (ajustes.tiempo === "ritmo" ? " checked" : "") + "><span>Ritmo de examen: 1 min 7 s por pregunta</span><b>" + (n ? duracion(n) : "") + "</b></label>";
     return h + "</fieldset></div>";
   }
 
@@ -291,7 +291,7 @@
         if (!g[1].length) return;
         h += '<p class="grupo-titulo">' + g[0] + "</p>";
         g[1].forEach(function (c) {
-          h += '<label class="check"><input type="radio" name="caso" data-a="caso" value="' + c.id + '"' + (ajustes.caso === c.id ? " checked" : "") + "><span>" + esc(titulo(c)) + "</span><b>" + idsCaso(c.id).length + "</b></label>";
+          h += '<label class="check' + (ajustes.caso === c.id ? " marcado" : "") + '"><input type="radio" name="caso" data-a="caso" value="' + c.id + '"' + (ajustes.caso === c.id ? " checked" : "") + "><span>" + esc(titulo(c)) + "</span><b>" + idsCaso(c.id).length + "</b></label>";
         });
       });
       h += "</div></div>";
@@ -325,7 +325,18 @@
     h += '<div class="col-preg" data-scroll><div class="etiqueta"><span>' + esc(BLOQUES[p.bloque]) + "</span></div>";
     h += '<h1 class="enunciado" id="enunciado" tabindex="-1">' + esc(p.enunciado) + "</h1>";
     if (p.calendario) h += '<button class="btn-apoyo" data-a="calendario" data-v="' + p.calendario + '">' + ICONOS.calendario + "Ver calendario</button>";
-    h += '</div><div class="col-opc" data-scroll><div class="opciones" role="group" aria-label="Opciones de respuesta">';
+    h += '</div><div class="col-opc" data-scroll>' + htmlOpciones(p, r, respondida);
+    h += '</div></div></div><div class="pista-scroll" id="pista" hidden aria-hidden="true">Desliza para ver más</div></div></div>';
+    h += '<div class="pie"><button class="btn btn-secundario" data-a="blanco"' + (respondida ? " disabled" : "") + ">Dejar en blanco</button>";
+    h += '<button class="btn btn-principal" data-a="siguiente"' + (respondida ? "" : " disabled") + ">" + (ultima ? "Ver resultados" : "Siguiente") + "</button></div>";
+    h += "</div>";
+    raiz.innerHTML = h;
+    prepararPista();
+    var e = document.getElementById("enunciado"); if (e) e.focus({ preventScroll: true });
+  }
+
+  function htmlOpciones(p, r, respondida) {
+    var h = '<div class="opciones" role="group" aria-label="Opciones de respuesta">';
     p.opciones.forEach(function (o, i) {
       var cl = "opcion", icono = "", sr = "";
       if (respondida && r !== null) {
@@ -334,13 +345,7 @@
       }
       h += '<button class="' + cl + '" data-a="responder" data-v="' + i + '"' + (respondida ? " disabled" : "") + '><span class="letra">' + LETRAS[i] + ")</span><span>" + esc(o) + sr + "</span>" + icono + "</button>";
     });
-    h += '</div></div></div><div class="pista-scroll" id="pista" hidden aria-hidden="true">Desliza para ver más</div></div></div>';
-    h += '<div class="pie"><button class="btn btn-secundario" data-a="blanco"' + (respondida ? " disabled" : "") + ">Dejar en blanco</button>";
-    h += '<button class="btn btn-principal" data-a="siguiente"' + (respondida ? "" : " disabled") + ">" + (ultima ? "Ver resultados" : "Siguiente") + "</button></div>";
-    h += "</div>";
-    raiz.innerHTML = h;
-    prepararPista();
-    var e = document.getElementById("enunciado"); if (e) e.focus({ preventScroll: true });
+    return h + "</div>";
   }
 
   /* Solo las preguntas que no caben hacen scroll, y avisan de que hay más abajo. */
@@ -377,7 +382,16 @@
   function responder(i) {
     var id = ses.ids[ses.pos], p = PREGUNTAS[id];
     if (ses.resp[id] !== undefined) return;
-    ses.resp[id] = i; guardarSesion(); pintar();
+    ses.resp[id] = i; guardarSesion();
+    /* Se actualiza en su sitio: repintar toda la pantalla hacía saltar el scroll arriba y se notaba lento. */
+    var cont = raiz.querySelector(".opciones"), cuerpo = raiz.querySelector(".tarjeta-cuerpo");
+    if (cont && cuerpo) {
+      var y = cuerpo.scrollTop;
+      cont.outerHTML = htmlOpciones(p, i, true);
+      cuerpo.scrollTop = y;
+      var bl = raiz.querySelector('[data-a="blanco"]'); if (bl) bl.disabled = true;
+      var sg = raiz.querySelector('[data-a="siguiente"]'); if (sg) sg.disabled = false;
+    } else pintar();
     anunciar(i === p.correcta ? "Correcta." : "Incorrecta. La correcta es la " + LETRAS[p.correcta] + ".");
     var b = raiz.querySelector('[data-a="siguiente"]'); if (b) b.focus({ preventScroll: true });
   }
@@ -671,7 +685,12 @@
     else if (a === "caso") ajustes.caso = c.value;
     else return;
     guardarAjustes();
-    repintarInicio('input[data-a="' + a + '"][value="' + c.value + '"]');
+    /* Primero se marca en el momento (sin depender de :has) y los contadores se repintan después del toque. */
+    var cj = c.closest(".check, .chip");
+    if (c.type === "radio") raiz.querySelectorAll('input[name="' + c.name + '"]').forEach(function (r) { var q = r.closest(".check, .chip"); if (q) q.classList.toggle("marcado", r.checked); });
+    else if (cj) cj.classList.toggle("marcado", c.checked);
+    var sel = 'input[data-a="' + a + '"][value="' + c.value + '"]';
+    setTimeout(function () { repintarInicio(sel); }, 0);
   }
   function teclas(e) {
     if (!ses || ses.fin || ses.parado || ses.modo !== "examen" || dialogo.open) return;

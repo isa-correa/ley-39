@@ -114,9 +114,9 @@ legend{padding:0;margin-bottom:var(--e2);font-size:var(--t-l);font-weight:700}
 .enlace{border:0;background:none;padding:var(--e1) 0;color:var(--violeta-oscuro);font-weight:600;font-size:var(--t-s);text-decoration:underline;text-underline-offset:3px}
 .check{display:grid;grid-template-columns:24px 1fr auto;gap:var(--e3);align-items:center;min-height:48px;padding:var(--e2) var(--e3);border:2px solid var(--borde);border-radius:var(--r-s);cursor:pointer;font-size:var(--t-s);line-height:1.3}
 .check input{width:20px;height:20px;margin:0;accent-color:var(--violeta)}
-.check:has(input:checked){border-color:var(--violeta-oscuro);background:var(--violeta-oscuro);color:var(--blanco);font-weight:600}
-.check:has(input:checked) input{accent-color:var(--blanco)}
-.check:has(input:checked) b{color:var(--blanco)}
+.check.marcado{border-color:var(--violeta-oscuro);background:var(--violeta-oscuro);color:var(--blanco);font-weight:600}
+.check.marcado input{accent-color:var(--blanco)}
+.check.marcado b{color:var(--blanco)}
 .check:has(input:focus-visible){outline:3px solid var(--tinta);outline-offset:2px}
 .check input:focus-visible{outline:none}
 .check.apagado{opacity:.5;cursor:not-allowed}
@@ -124,7 +124,7 @@ legend{padding:0;margin-bottom:var(--e2);font-size:var(--t-l);font-weight:700}
 .rejilla{display:grid;grid-template-columns:repeat(5,1fr);gap:var(--e2)}
 .chip{position:relative;display:grid;place-items:center;min-height:48px;border:2px solid var(--borde);border-radius:var(--r-s);font-weight:600;cursor:pointer}
 .chip input{position:absolute;inset:0;opacity:0;margin:0;cursor:inherit}
-.chip:has(input:checked){background:var(--violeta-oscuro);border-color:var(--violeta-oscuro);color:var(--blanco)}
+.chip.marcado{background:var(--violeta-oscuro);border-color:var(--violeta-oscuro);color:var(--blanco)}
 .chip:has(input:focus-visible){outline:3px solid var(--tinta);outline-offset:2px}
 .chip:has(input:disabled){opacity:.4;cursor:not-allowed;text-decoration:line-through}
 .acciones{display:grid;gap:var(--e4);padding-top:var(--e2)}
@@ -224,8 +224,8 @@ legend{padding:0;margin-bottom:var(--e2);font-size:var(--t-l);font-weight:700}
 /* ---------- Hover: solo donde hay ratón, para que no se quede pegado en el móvil ---------- */
 @media (hover:hover){
   .opcion:not(:disabled):not(.elegida):hover,
-  .check:not(.apagado):not(:has(input:checked)):hover,
-  .chip:not(:has(input:disabled)):not(:has(input:checked)):hover,
+  .check:not(.apagado):not(.marcado):hover,
+  .chip:not(:has(input:disabled)):not(.marcado):hover,
   .filtro[aria-pressed="false"]:hover{border-color:var(--violeta-oscuro);background:var(--lila-claro)}
   .tema-abrir:hover,.acordeon:hover{background:var(--lila-claro)}
   .btn-cuadrado:not(:disabled):hover,.btn-pausa:hover{background:var(--violeta)}
@@ -248,6 +248,14 @@ legend{padding:0;margin-bottom:var(--e2);font-size:var(--t-l);font-weight:700}
   .reparto.solo{grid-template-columns:minmax(0,1fr)}
   .plegar{display:none}
   .caso-texto{font-size:var(--t-m)}
+}
+/* Móvil: cabecera más compacta para que el contador no choque con el reloj. */
+@media (max-width:430px){
+  .cabecera{gap:var(--e1)}
+  .cuenta{font-size:var(--t-s)}
+  .reloj{padding:0 var(--e2)}
+  #reloj-t{min-width:2.6em}
+  #reloj-t.largo{min-width:3.4em}
 }
 @media (max-width:379px){
   .reloj svg{display:none}
