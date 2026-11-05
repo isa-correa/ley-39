@@ -12,8 +12,22 @@ BLOQUES = [("fuentes", "Fuentes del Derecho"), ("interesados", "Interesados y re
            ("nulidad", "Nulidad y anulabilidad (arts. 47 a 52)"), ("iniciacion", "Iniciación (arts. 53 a 69)"),
            ("instruccion", "Ordenación e instrucción (arts. 70 a 83)"),
            ("finalizacion", "Finalización y ejecución (arts. 84 a 105)"), ("revision", "Revisión de oficio (arts. 106 a 111)"),
-           ("recursos", "Recursos administrativos (arts. 112 a 126)"), ("iniciativa", "Iniciativa legislativa (arts. 127 a 133)")]
-validos = {b for b, _ in BLOQUES}
+           ("recursos", "Recursos administrativos (arts. 112 a 126)"), ("iniciativa", "Iniciativa legislativa (arts. 127 a 133)"),
+           ("organos", "Órganos y competencia (Ley 40/2015, arts. 5 a 22)"),
+           ("responsabilidad", "Potestad sancionadora y responsabilidad patrimonial (Ley 40/2015, arts. 25 a 37)"),
+           ("sector", "Sector público institucional y convenios (Ley 40/2015)")]
+# Segundo tema: Ley 9/2017 de Contratos del Sector Público y materias afines.
+BLOQUES_C = [("lcsp-general", "Contratos: objeto, ámbito y tipos (LCSP, arts. 1 a 27)"),
+             ("lcsp-disposiciones", "Contratos: disposiciones generales, invalidez y recurso especial (LCSP, arts. 28 a 60)"),
+             ("lcsp-preparacion", "Contratos: partes, objeto, precio y garantías (LCSP, arts. 61 a 130)"),
+             ("lcsp-adjudicacion", "Contratos: adjudicación y procedimientos (LCSP, arts. 131 a 187)"),
+             ("lcsp-ejecucion", "Contratos: efectos, ejecución y extinción (LCSP, arts. 188 a 230)"),
+             ("lcsp-tipos", "Contratos: obras, concesiones, suministros y servicios (LCSP, arts. 231 a 315)"),
+             ("lcsp-otros", "Contratos: organización administrativa (LCSP, arts. 316 a 347)"),
+             ("subvenciones", "Ley General de Subvenciones (Ley 38/2003)"),
+             ("social", "Discapacidad, dependencia e igualdad")]
+CASOS_C = {"caso-43"}  # Supuesto mixto de Ley 39 y Contratos: va con el tema de Contratos
+validos = {b for b, _ in BLOQUES + BLOQUES_C}
 err, salida = [], []
 for p in D["preguntas"]:
     r = R.get(p["id"])
@@ -55,8 +69,20 @@ for p in salida:
 casos = [c for k, c in D["casos"].items() if hechas.get(k) == total.get(k)]
 ok = {c["id"] for c in casos}
 salida = [p for p in salida if "caso" not in p or p["caso"] in ok]
-tema = {"id": "ley39", "nombre": "Ley 39/2015 + Fuentes del Derecho", "bloques": [{"id": a, "nombre": b} for a, b in BLOQUES],
-        "calendarios": D["calendarios"], "casos": casos, "preguntas": salida}
-with open("data/ley39-fuentes.js", "w", encoding="utf8") as f:
-    f.write("window.BANCO = window.BANCO || [];\nwindow.BANCO.push(" + json.dumps(tema, ensure_ascii=False, separators=(",", ":")) + ");\n")
+def tema(id_, nombre, bloques, pred):
+    ps = [p for p in salida if pred(p)]
+    cs = [c for c in casos if pred({"caso": c["id"], "bloque": None})]
+    return {"id": id_, "nombre": nombre, "bloques": [{"id": a, "nombre": b} for a, b in bloques],
+            "calendarios": D["calendarios"], "casos": cs, "preguntas": ps}
+bc = {b for b, _ in BLOQUES_C}
+def es_c(p):
+    return p["caso"] in CASOS_C if p.get("caso") else p["bloque"] in bc
+def es_l(p):
+    return not es_c(p)
+def escribir(t, ruta):
+    with open(ruta, "w", encoding="utf8") as f:
+        f.write("window.BANCO = window.BANCO || [];\nwindow.BANCO.push(" + json.dumps(t, ensure_ascii=False, separators=(",", ":")) + ");\n")
+    print(len(t["preguntas"]), "preguntas ·", len(t["casos"]), "casos ·", ruta)
+escribir(tema("ley39", "Ley 39/2015, Ley 40/2015 y Fuentes del Derecho", BLOQUES, es_l), "data/ley39-fuentes.js")
+escribir(tema("contratos", "Contratos, subvenciones y políticas sociales", BLOQUES_C, es_c), "data/contratos.js")
 print(len(salida), "preguntas en la app de", len(D["preguntas"]), "·", len(casos), "casos")
