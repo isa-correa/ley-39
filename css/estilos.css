@@ -105,7 +105,7 @@ legend{padding:0;margin-bottom:var(--e2);font-size:var(--t-l);font-weight:700}
 .tema{border:2px solid var(--borde);border-radius:var(--r-s);overflow:hidden}
 .tema-cab{display:grid;grid-template-columns:auto 1fr;align-items:stretch}
 .tema-cab.sin-check{grid-template-columns:1fr}
-.tema-cab input{width:20px;height:20px;margin:var(--e4) 0 var(--e4) var(--e3);align-self:center;accent-color:var(--violeta)}
+.tema-cab input{margin:var(--e4) 0 var(--e4) var(--e3);align-self:center}
 .tema-abrir{display:flex;justify-content:space-between;align-items:center;gap:var(--e3);min-height:56px;padding:var(--e2) var(--e3);border:0;background:none;text-align:left;font-weight:600;font-size:var(--t-m);line-height:1.3}
 .tema-abrir small{display:block;font-size:var(--t-xs);font-weight:500;color:var(--tinta-2);margin-top:var(--e1)}
 .tema-abrir svg{width:20px;height:20px;flex:none}
@@ -113,9 +113,16 @@ legend{padding:0;margin-bottom:var(--e2);font-size:var(--t-l);font-weight:700}
 .tema-dentro{display:grid;gap:var(--e2);padding:var(--e1) var(--e3) var(--e3)}
 .enlace{border:0;background:none;padding:var(--e1) 0;color:var(--violeta-oscuro);font-weight:600;font-size:var(--t-s);text-decoration:underline;text-underline-offset:3px}
 .check{display:grid;grid-template-columns:24px 1fr auto;gap:var(--e3);align-items:center;min-height:48px;padding:var(--e2) var(--e3);border:2px solid var(--borde);border-radius:var(--r-s);cursor:pointer;font-size:var(--t-s);line-height:1.3}
-.check input{width:20px;height:20px;margin:0;accent-color:var(--violeta)}
+/* Casillas y círculos dibujados a mano: el control nativo con accent-color blanco sobre violeta perdía la marca en el móvil. */
+.check input,.tema-cab input{-webkit-appearance:none;appearance:none;flex:none;width:22px;height:22px;margin:0;border:2px solid var(--violeta-oscuro);border-radius:6px;background:var(--blanco) center/16px 16px no-repeat}
+.tema-cab input{margin:var(--e4) 0 var(--e4) var(--e3)}
+.check input[type="radio"]{border-radius:50%}
+.check input:checked,.tema-cab input:checked{background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath d='M3 8.5l3.2 3.2L13 4.5' fill='none' stroke='%233A1496' stroke-width='2.6' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E")}
+.check input[type="radio"]:checked{background-image:radial-gradient(circle,var(--violeta-oscuro) 0 5px,transparent 5.5px)}
+.tema-cab input:indeterminate{background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath d='M3.5 8h9' fill='none' stroke='%233A1496' stroke-width='2.8' stroke-linecap='round'/%3E%3C/svg%3E")}
+@media (forced-colors:active){.check input,.tema-cab input{-webkit-appearance:auto;appearance:auto}}
 .check.marcado{border-color:var(--violeta-oscuro);background:var(--violeta-oscuro);color:var(--blanco);font-weight:600}
-.check.marcado input{accent-color:var(--blanco)}
+.check.marcado input{border-color:var(--blanco)}
 .check.marcado b{color:var(--blanco)}
 .check:has(input:focus-visible){outline:3px solid var(--tinta);outline-offset:2px}
 .check input:focus-visible{outline:none}
