@@ -59,7 +59,13 @@
   var ajustes = Object.assign({
     modo: "examen", bloques: null, origenes: ORIGENES.map(function (o) { return o[0]; }), n: 10, tiempo: "libre", caso: null
   }, leer(K_AJUSTES, {}));
+  /* Temas que solo se practican en Supuestos: no aparecen en Examen ni entran en sus preguntas. */
+  var SOLO_SUPUESTOS = { contratos: 1 };
   if (!ajustes.bloques) ajustes.bloques = [];
+  /* Si en una sesión anterior se marcó algún bloque de esos temas, se quita. */
+  BANCO.forEach(function (t) {
+    if (SOLO_SUPUESTOS[t.id]) ajustes.bloques = ajustes.bloques.filter(function (b) { return !t.bloques.some(function (x) { return x.id === b; }); });
+  });
   ajustes.caso = null; /* Al abrir la app no hay ningún supuesto elegido. */
 
   var ses = null;        /* examen en curso o corregido */
@@ -84,7 +90,7 @@
   function poolExamen() {
     var ya = {}; /* Si la misma pregunta está en dos tests, solo cuenta una vez. */
     return Object.keys(PREGUNTAS).map(function (id) { return PREGUNTAS[id]; }).filter(function (p) {
-      if (p.caso || ajustes.bloques.indexOf(p.bloque) < 0 || ajustes.origenes.indexOf(p.origen) < 0) return false;
+      if (p.caso || SOLO_SUPUESTOS[p.tema] || ajustes.bloques.indexOf(p.bloque) < 0 || ajustes.origenes.indexOf(p.origen) < 0) return false;
       var k = p.dup || p.id;
       if (ya[k]) return false;
       ya[k] = 1;
@@ -216,7 +222,7 @@
   }
 
   function formExamen() {
-    var todas = Object.keys(PREGUNTAS).map(function (id) { return PREGUNTAS[id]; }).filter(function (p) { return !p.caso; });
+    var todas = Object.keys(PREGUNTAS).map(function (id) { return PREGUNTAS[id]; }).filter(function (p) { return !p.caso && !SOLO_SUPUESTOS[p.tema]; });
     var pool = poolExamen();
     var maxN = pool.length;
     if (ajustes.n > maxN) {
@@ -225,6 +231,7 @@
     }
     var h = '<div class="panel"><fieldset><legend>Temas</legend>';
     BANCO.forEach(function (t) {
+      if (SOLO_SUPUESTOS[t.id]) return;
       var propios = bloquesDe(t);
       var marcados = propios.filter(function (b) { return ajustes.bloques.indexOf(b) >= 0; }).length;
       var abierto = temasAbiertos[t.id];
