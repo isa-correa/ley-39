@@ -24,7 +24,7 @@ button{font:inherit;color:inherit;cursor:pointer}
 button:disabled{cursor:not-allowed}
 :focus-visible{outline:3px solid var(--tinta);outline-offset:2px}
 .sobre-violeta :focus-visible,.cabecera :focus-visible,.pie :focus-visible{outline-color:var(--blanco)}
-.solo-lector{position:absolute;width:1px;height:1px;overflow:hidden;clip-path:inset(50%);white-space:nowrap}
+.solo-lector{position:absolute;width:1px;height:1px;margin:-1px;padding:0;border:0;overflow:hidden;clip-path:inset(50%);white-space:nowrap}
 
 /* ---------- Fondo de dos tonos, como la foto ---------- */
 .fondo{position:fixed;inset:0;z-index:-1;background:var(--violeta-oscuro)}

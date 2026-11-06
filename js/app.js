@@ -333,7 +333,7 @@
     h += '<h1 class="enunciado" id="enunciado" tabindex="-1">' + esc(p.enunciado) + "</h1>";
     if (p.calendario) h += '<button class="btn-apoyo" data-a="calendario" data-v="' + p.calendario + '">' + ICONOS.calendario + "Ver calendario</button>";
     h += '</div><div class="col-opc" data-scroll>' + htmlOpciones(p, r, respondida);
-    h += '</div></div></div><div class="pista-scroll" id="pista" hidden aria-hidden="true">Desliza para ver más</div></div></div>';
+    h += '</div></div></div><div class="pista-scroll" id="pista" hidden aria-hidden="true">Desliza para ver más</div></div>';
     h += '<div class="pie"><button class="btn btn-secundario" data-a="blanco"' + (respondida ? " disabled" : "") + ">Dejar en blanco</button>";
     h += '<button class="btn btn-principal" data-a="siguiente"' + (respondida ? "" : " disabled") + ">" + (ultima ? "Ver resultados" : "Siguiente") + "</button></div>";
     h += "</div>";
