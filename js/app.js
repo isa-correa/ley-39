@@ -497,6 +497,7 @@
     var rotulo = { acierto: ["estado-ok", "Acertada"], fallo: ["estado-ko", "Fallada"], blanco: ["estado-nu", "En blanco"] }[e];
     var h = '<article class="resultado" data-estado="' + e + '"><div class="resultado-cab"><span>Pregunta ' + (n + 1) + " · " + esc(NOMBRE_ORIGEN[p.origen] || "") + '</span><span class="' + rotulo[0] + '">' + rotulo[1] + "</span></div>";
     h += '<p class="resultado-q">' + esc(p.enunciado) + "</p>";
+    if (p.calendario) h += '<button class="btn-apoyo" data-a="calendario" data-v="' + p.calendario + '">' + ICONOS.calendario + "Ver calendario</button>";
     p.opciones.forEach(function (o, i) {
       var cl = "", nota = "", icono = "";
       if (i === p.correcta) { cl = " bien"; icono = ICONOS.bien; nota = e === "acierto" ? "Tu respuesta, correcta" : "Respuesta correcta"; }
