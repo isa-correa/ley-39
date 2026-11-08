@@ -70,6 +70,7 @@
 
   var ses = null;        /* examen en curso o corregido */
   var verFiltro = "todas";
+  var navAbierto = false;
   var casoPlegado = false;
   var scrollCaso = { lista: 0, texto: 0 };
   var temasAbiertos = {};
@@ -453,6 +454,10 @@
     if (c.corto) return '<div class="reparto solo">';
     return '<div class="reparto' + (casoPlegado ? " plegado" : "") + '">' + panelCaso(c);
   }
+  /* En resultados el reparto lleva dentro el acceso directo: columna izquierda en escritorio, acordeón arriba en móvil. */
+  function abrirRepartoRes(c) {
+    return '<div class="reparto res' + (c.corto ? " solo" : casoPlegado ? " plegado" : "") + '">' + htmlNavegador(ses.ids, "Volver al inicio") + (c.corto ? "" : panelCaso(c));
+  }
   function consigna(c) {
     if (!c.corto) return "";
     return '<div class="consigna"><h2>' + esc(titulo(c)) + "</h2>" + (c.texto ? "<p>" + esc(c.texto) + "</p>" : "") + "</div>";
@@ -495,7 +500,7 @@
   function htmlResultado(id, n) {
     var p = PREGUNTAS[id], r = ses.resp[id], e = estado(id);
     var rotulo = { acierto: ["estado-ok", "Acertada"], fallo: ["estado-ko", "Fallada"], blanco: ["estado-nu", "En blanco"] }[e];
-    var h = '<article class="resultado" data-estado="' + e + '"><div class="resultado-cab"><span>Pregunta ' + (n + 1) + " · " + esc(NOMBRE_ORIGEN[p.origen] || "") + '</span><span class="' + rotulo[0] + '">' + rotulo[1] + "</span></div>";
+    var h = '<article class="resultado" id="res-' + id + '" tabindex="-1" data-estado="' + e + '"><div class="resultado-cab"><span>Pregunta ' + (n + 1) + " · " + esc(NOMBRE_ORIGEN[p.origen] || "") + '</span><span class="' + rotulo[0] + '">' + rotulo[1] + "</span></div>";
     h += '<p class="resultado-q">' + esc(p.enunciado) + "</p>";
     if (p.calendario) h += '<button class="btn-apoyo" data-a="calendario" data-v="' + p.calendario + '">' + ICONOS.calendario + "Ver calendario</button>";
     p.opciones.forEach(function (o, i) {
@@ -512,6 +517,43 @@
     if (p.ojo) h += '<p class="ojo"><b>Ojo:</b> ' + rico(p.ojo) + "</p>";
     if (p.revisar) h += '<p class="revisar"><b>Por confirmar:</b> ' + rico(p.revisar) + " Comprueba esta respuesta con tu academia.</p>";
     return h + "</div></article>";
+  }
+
+  /* ---------- Acceso directo a cada pregunta ---------- */
+  /* Escritorio: columna fija a la izquierda. Móvil: acordeón pegado arriba. Es el mismo bloque; el CSS decide. */
+  var ETIQ_ESTADO = { acierto: "acertada", fallo: "fallada", blanco: "en blanco" };
+  function htmlNavegador(ids, textoBoton) {
+    var h = '<nav class="nav-res' + (navAbierto ? " abierto" : "") + '" aria-label="Ir a una pregunta">';
+    h += '<button class="nav-toggle" data-a="nav-toggle" aria-expanded="' + navAbierto + '" aria-controls="nav-cuerpo"><span>' + (navAbierto ? "Ocultar preguntas" : "Ir a una pregunta") + "</span>" + ICONOS.flecha + "</button>";
+    h += '<div class="nav-cuerpo" id="nav-cuerpo"><h2 class="nav-titulo">Ir a una pregunta</h2><div class="nav-rejilla">';
+    ids.forEach(function (id, n) {
+      var e = estado(id);
+      h += '<button class="cuadro ' + e + '" data-a="ir" data-v="' + id + '" aria-label="Pregunta ' + (n + 1) + ", " + ETIQ_ESTADO[e] + '">' + (n + 1) + (e === "acierto" ? ICONOS.bien : e === "fallo" ? ICONOS.mal : "") + "</button>";
+    });
+    h += '</div><ul class="nav-leyenda"><li><i class="cuadro acierto" aria-hidden="true"></i>Acertada</li><li><i class="cuadro fallo" aria-hidden="true"></i>Fallada</li><li><i class="cuadro blanco" aria-hidden="true"></i>En blanco</li></ul>';
+    h += '<button class="btn btn-principal" data-a="nuevo">' + textoBoton + "</button></div></nav>";
+    return h;
+  }
+  function irA(id) {
+    var a = document.getElementById("res-" + id); if (!a) return;
+    if (a.hidden) { verFiltro = "todas"; aplicarFiltro(); }
+    var suave = window.matchMedia && matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth";
+    var zona = raiz.querySelector(".lista-preg");
+    if (zona) {
+      zona.scrollTo({ top: zona.scrollTop + a.getBoundingClientRect().top - zona.getBoundingClientRect().top - 8, behavior: suave });
+    } else {
+      var nav = raiz.querySelector(".nav-res");
+      var pegado = nav && !matchMedia("(min-width: 900px)").matches; /* solo en móvil el acordeón tapa lo de debajo */
+      var arriba = pegado ? nav.getBoundingClientRect().height + 20 : 16;
+      window.scrollTo({ top: window.scrollY + a.getBoundingClientRect().top - arriba, behavior: suave });
+    }
+    a.focus({ preventScroll: true });
+  }
+  function alternarNav(b) {
+    navAbierto = b.getAttribute("aria-expanded") !== "true";
+    b.setAttribute("aria-expanded", navAbierto);
+    b.querySelector("span").textContent = navAbierto ? "Ocultar preguntas" : "Ir a una pregunta";
+    b.closest(".nav-res").classList.toggle("abierto", navAbierto);
   }
   /* Una barra por tema entero y, debajo, su desglose con lo peor primero. */
   function datosEst(ids) {
@@ -540,23 +582,24 @@
     return h + "</div></section>";
   }
   function pintarResultados() {
-    var h = '<div class="fondo"></div><main class="pagina sobre-violeta"><h1 class="pagina-titulo">Resultados</h1>';
+    var h = '<div class="fondo"></div><main class="pagina res-pag sobre-violeta"><h1 class="pagina-titulo">Resultados</h1><div class="res-cols">';
+    h += htmlNavegador(ses.ids, "Nuevo examen") + '<div class="res-contenido">';
     h += '<section class="panel">' + htmlMarcador(ses.ids) + "</section>";
     h += '<section class="panel"><h2>Tus respuestas</h2>' + htmlFiltros(ses.ids) + '<div class="lista-res">';
     ses.ids.forEach(function (id, n) { h += htmlResultado(id, n); });
     h += "</div></section>" + htmlEstadistica(ses.ids);
-    h += '<div class="acciones"><button class="btn btn-principal" data-a="nuevo">Nuevo examen</button></div></main>';
+    h += '<div class="acciones"><button class="btn btn-principal" data-a="nuevo">Nuevo examen</button></div></div></div></main>';
     raiz.innerHTML = h;
     aplicarFiltro();
   }
   function pintarResultadosCaso() {
     var c = CASOS[ses.caso];
     var h = '<div class="fondo"></div><div class="fija' + (c.corto ? " estrecha" : "") + '"><header class="cabecera"><button class="btn-cuadrado" data-a="nuevo" aria-label="Volver al inicio">' + ICONOS.atras + '</button><h1 class="cuenta">Resultados</h1><span></span></header>';
-    h += abrirReparto(c);
+    h += abrirRepartoRes(c);
     h += '<section class="lista-preg" aria-label="Resultados" tabindex="0">' + consigna(c) + '<div class="panel" style="padding:0">' + htmlMarcador(ses.ids) + htmlFiltros(ses.ids) + '</div><div class="lista-res">';
     ses.ids.forEach(function (id, n) { h += htmlResultado(id, n); });
     h += "</div>" + htmlEstadistica(ses.ids).replace('class="panel"', 'class="panel" style="padding:0"') + "</section></div>";
-    h += '<div class="pie pie-uno"><button class="btn btn-principal" data-a="nuevo">Volver al inicio</button></div></div>';
+    h += '<div class="pie pie-uno pie-res"><button class="btn btn-principal" data-a="nuevo">Volver al inicio</button></div></div>';
     raiz.innerHTML = h;
     aplicarFiltro();
   }
@@ -652,6 +695,8 @@
       case "nuevo": salirAlInicio(); break;
       case "filtro": verFiltro = v; aplicarFiltro(); break;
       case "acordeon": alternar(b); break;
+      case "nav-toggle": alternarNav(b); break;
+      case "ir": irA(v); break;
     }
   }
   /* Solo un acordeón abierto a la vez. El botón pulsado no se mueve de su sitio en la pantalla,
