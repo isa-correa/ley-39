@@ -98,7 +98,7 @@
       return true;
     });
   }
-  /* Reparto proporcional al número de preguntas de cada tema, y dentro de cada tema primero las no vistas. */
+  /* Reparto proporcional al número de preguntas de cada tema, y dentro de cada tema primero las que aún no has acertado. */
   function generar(pool, n) {
     var vistas = {}; leer(K_VISTAS, []).forEach(function (id) { vistas[id] = 1; });
     var libres = pool.filter(function (p) { return !p.sigueA; });
@@ -143,9 +143,6 @@
       modo: modo, ids: ids, caso: casoId || null, pos: 0, resp: {}, fin: false,
       tiempo: tiempo, total: tiempo === "ritmo" ? ids.length * RITMO : 0, seg: 0, parado: false, agotado: false
     };
-    var vistas = leer(K_VISTAS, []);
-    ids.forEach(function (id) { if (vistas.indexOf(id) < 0) vistas.push(id); });
-    guardar(K_VISTAS, vistas);
     casoPlegado = false; verFiltro = "todas"; scrollCaso = { lista: 0, texto: 0 };
     guardarSesion(); arrancarReloj(); pintar();
   }
@@ -178,6 +175,10 @@
   /* ---------- Fin de examen ---------- */
   function terminar() {
     ses.fin = true; clearInterval(intervalo); verFiltro = "todas";
+    /* Solo se apartan las acertadas. Las falladas y las dejadas en blanco vuelven a quedar disponibles. */
+    var dominadas = leer(K_VISTAS, []).filter(function (id) { return ses.ids.indexOf(id) < 0; });
+    ses.ids.forEach(function (id) { if (estado(id) === "acierto") dominadas.push(id); });
+    guardar(K_VISTAS, dominadas);
     guardarSesion(); pintar(); window.scrollTo(0, 0);
   }
   function salirAlInicio() { ses = null; borrar(K_SESION); clearInterval(intervalo); pintar(); window.scrollTo(0, 0); }
@@ -265,7 +266,7 @@
     h += '<div class="acciones"><button class="btn btn-principal" data-a="empezar-examen"' + (puede ? "" : " disabled") + ">Empezar examen</button>";
     if (!puede) h += '<p class="pagina-sub">' + (ajustes.bloques.length ? "Con estos filtros no llegas a 10 preguntas. Marca más temas o procedencias." : "Abre un tema y marca lo que quieres incluir.") + "</p>";
     var vistas = leer(K_VISTAS, []).length;
-    if (vistas) h += '<button class="btn btn-linea" data-a="olvidar">Olvidar las preguntas ya vistas (' + vistas + ")</button>";
+    if (vistas) h += '<button class="btn btn-linea" data-a="olvidar">Olvidar las preguntas ya acertadas (' + vistas + ")</button>";
     h += "</div>";
     return h;
   }
@@ -658,7 +659,7 @@
     switch (a) {
       case "modo": ajustes.modo = v; guardarAjustes(); pintar(); break;
       case "tema-abrir": temasAbiertos[v] = b.getAttribute("aria-expanded") !== "true"; repintarInicio('[data-a="tema-abrir"][data-v="' + v + '"]'); break;
-      case "olvidar": borrar(K_VISTAS); pintar(); anunciar("Preguntas vistas olvidadas."); break;
+      case "olvidar": borrar(K_VISTAS); pintar(); anunciar("Preguntas acertadas olvidadas."); break;
       case "empezar-examen":
         guardarAjustes();
         empezar("examen", generar(poolExamen(), ajustes.n), null, ajustes.tiempo);
