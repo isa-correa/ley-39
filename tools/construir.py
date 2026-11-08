@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Une preguntas y respuestas razonadas en data/ley39-fuentes.js.
+"""Une preguntas y respuestas razonadas en data/ley39.js, ley40.js, fuentes.js y contratos.js.
 Solo entran las preguntas con respuesta. Si algo no cuadra, avisa y para."""
 import glob, json, re, sys
 D = json.load(open("tools/preguntas.json", encoding="utf8"))
@@ -77,12 +77,21 @@ def tema(id_, nombre, bloques, pred):
 bc = {b for b, _ in BLOQUES_C}
 def es_c(p):
     return p["caso"] in CASOS_C if p.get("caso") else p["bloque"] in bc
-def es_l(p):
-    return not es_c(p)
+# Ley 39, Ley 40 y Fuentes del Derecho son tres temas (tres acordeones). Los supuestos prácticos van con la Ley 39.
+B40 = {"organos", "responsabilidad", "sector"}
+BFU = {"fuentes"}
+def es_fu(p):
+    return not p.get("caso") and p["bloque"] in BFU
+def es_40(p):
+    return not p.get("caso") and p["bloque"] in B40
+def es_39(p):
+    return not es_c(p) and not es_fu(p) and not es_40(p)
 def escribir(t, ruta):
     with open(ruta, "w", encoding="utf8") as f:
         f.write("window.BANCO = window.BANCO || [];\nwindow.BANCO.push(" + json.dumps(t, ensure_ascii=False, separators=(",", ":")) + ");\n")
     print(len(t["preguntas"]), "preguntas ·", len(t["casos"]), "casos ·", ruta)
-escribir(tema("ley39", "Ley 39/2015, Ley 40/2015 y Fuentes del Derecho", BLOQUES, es_l), "data/ley39-fuentes.js")
+escribir(tema("ley39", "Ley 39/2015, del Procedimiento Administrativo Común (LPAC)", [b for b in BLOQUES if b[0] not in B40 | BFU], es_39), "data/ley39.js")
+escribir(tema("ley40", "Ley 40/2015, de Régimen Jurídico del Sector Público (LRJSP)", [b for b in BLOQUES if b[0] in B40], es_40), "data/ley40.js")
+escribir(tema("fuentes", "Fuentes del Derecho", [b for b in BLOQUES if b[0] in BFU], es_fu), "data/fuentes.js")
 escribir(tema("contratos", "Contratos, subvenciones y políticas sociales", BLOQUES_C, es_c), "data/contratos.js")
 print(len(salida), "preguntas en la app de", len(D["preguntas"]), "·", len(casos), "casos")

@@ -15,7 +15,7 @@
   var LONGITUDES = [10, 20, 30, 40, 50, 60, 70, 80, 90, 100];
   var RITMO = 67; /* 1 min 7 s por pregunta */
   var LETRAS = "abcd";
-  var K_SESION = "test-c1-sesion", K_VISTAS = "test-c1-vistas", K_AJUSTES = "test-c1-ajustes";
+  var K_SESION = "test-c1-sesion", K_VISTAS = "test-c1-vistas", K_AJUSTES = "test-c1-ajustes", K_HIST = "test-c1-hist", K_SUP = "test-c1-supuestos";
 
   var ICONOS = {
     atras: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 12H5M11 5l-7 7 7 7"/></svg>',
@@ -26,6 +26,7 @@
     casa: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3.5 11L12 3.5 20.5 11M6 9v11h12V9M10 20v-6h4v6"/></svg>',
     pausa: '<svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><rect x="6" y="5" width="4" height="14" rx="1"/><rect x="14" y="5" width="4" height="14" rx="1"/></svg>',
     elegida: '<svg class="marca" viewBox="0 0 28 28" aria-hidden="true"><circle cx="14" cy="14" r="12" fill="none" stroke="currentColor" stroke-width="3"/><circle cx="14" cy="14" r="6" fill="currentColor"/></svg>',
+    cerrar: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg>',
     calendario: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><rect x="3.5" y="5" width="17" height="15.5" rx="2"/><path d="M3.5 10h17M8 3v4M16 3v4"/></svg>'
   };
 
@@ -179,6 +180,21 @@
     var dominadas = leer(K_VISTAS, []).filter(function (id) { return ses.ids.indexOf(id) < 0; });
     ses.ids.forEach(function (id) { if (estado(id) === "acierto") dominadas.push(id); });
     guardar(K_VISTAS, dominadas);
+    /* Historial por pregunta: a = acertada, f = fallada, b = en blanco. Una en blanco no borra un fallo anterior. */
+    var hist = leer(K_HIST, {});
+    ses.ids.forEach(function (id) {
+      var p = PREGUNTAS[id], k = p.dup || p.id, e = estado(id);
+      if (e === "acierto") hist[k] = "a";
+      else if (e === "fallo") hist[k] = "f";
+      else if (hist[k] !== "f") hist[k] = "b";
+    });
+    guardar(K_HIST, hist);
+    /* Supuestos: cuenta el último intento, así que repetir un supuesto cambia sus números. */
+    if (ses.modo === "supuesto" && ses.caso) {
+      var sup = leer(K_SUP, {}), r = calcular(ses.ids);
+      sup[ses.caso] = { a: r.a, f: r.f, b: r.b, veces: (sup[ses.caso] ? sup[ses.caso].veces : 0) + 1 };
+      guardar(K_SUP, sup);
+    }
     guardarSesion(); pintar(); window.scrollTo(0, 0);
   }
   function salirAlInicio() { ses = null; borrar(K_SESION); clearInterval(intervalo); pintar(); window.scrollTo(0, 0); }
@@ -209,7 +225,7 @@
     var guardada = leer(K_SESION, null);
     var enCurso = guardada && !guardada.fin && guardada.ids.every(function (id) { return PREGUNTAS[id]; });
     var h = '<div class="fondo"></div><main class="pagina sobre-violeta">';
-    h += '<h1 class="pagina-titulo">Test de oposición C1 AGE</h1>';
+    h += '<h1 class="pagina-titulo">Ley 39/2015</h1><p class="pagina-desc">Procedimiento Administrativo Común de las Administraciones Públicas (conocida como LPAC)</p>';
     if (enCurso) {
       h += '<div class="resumir"><button class="btn btn-principal" data-a="retomar">Retomar examen (' + guardada.ids.length + ' preguntas)</button></div>';
     }
@@ -223,7 +239,51 @@
     raiz.querySelectorAll("[data-parcial]").forEach(function (c) { c.indeterminate = true; });
   }
 
+  /* ---------- Dominadas, falladas y pendientes ---------- */
+  /* Dominada: la última vez la acertaste. Fallada: la última vez la fallaste. Pendiente: no la has hecho o la dejaste en blanco. */
+  function contexto() {
+    var v = {}; leer(K_VISTAS, []).forEach(function (id) { v[id] = 1; });
+    return { v: v, h: leer(K_HIST, {}) };
+  }
+  function estadoPreg(p, cx) {
+    var k = p.dup || p.id;
+    if (cx.v[p.id] || cx.h[k] === "a") return "a";
+    return cx.h[k] === "f" ? "f" : "p";
+  }
+  function contar(lista, cx) {
+    var c = { a: 0, f: 0, p: 0, n: 0 }, ya = {};
+    lista.forEach(function (p) {
+      var k = p.dup || p.id; if (ya[k]) return; ya[k] = 1;
+      c[estadoPreg(p, cx)]++; c.n++;
+    });
+    return c;
+  }
+  function plural(n, uno, varios) { return n + " " + (n === 1 ? uno : varios); }
+  function textoConteo(c) { return plural(c.a, "dominada", "dominadas") + " · " + plural(c.f, "fallada", "falladas") + " · " + plural(c.p, "pendiente", "pendientes"); }
+  function barraConteo(c) {
+    if (!c.n) return "";
+    var pa = Math.round(c.a / c.n * 100), pf = Math.round(c.f / c.n * 100), pp = 100 - pa - pf;
+    return '<div class="barra fina" role="img" aria-label="' + pa + " por ciento dominadas, " + pf + " por ciento falladas, " + pp + ' por ciento pendientes"><i class="a" style="width:' + pa + '%"></i><i class="f" style="width:' + pf + '%"></i><i class="b" style="width:' + pp + '%"></i></div>';
+  }
+  function textoCaso(r) {
+    if (!r) return "Sin hacer";
+    return "Última vez: " + plural(r.a, "acierto", "aciertos") + " · " + plural(r.f, "fallo", "fallos") + " · " + r.b + " en blanco" + (r.veces > 1 ? " · hecho " + r.veces + " veces" : "");
+  }
+  function hayDatos() {
+    return leer(K_VISTAS, []).length || Object.keys(leer(K_HIST, {})).length || Object.keys(leer(K_SUP, {})).length;
+  }
+  function botonReinicio() {
+    return hayDatos() ? '<button class="btn btn-linea" data-a="reiniciar">Reiniciar estadísticas</button>' : "";
+  }
+  /* Las falladas de lo que tienes marcado. Si una depende de "la pregunta anterior", entra también su pareja. */
+  function poolFalladas() {
+    var cx = contexto(), pool = poolExamen();
+    var f = pool.filter(function (p) { return estadoPreg(p, cx) === "f"; });
+    return pool.filter(function (p) { return estadoPreg(p, cx) === "f" || f.some(function (q) { return q.sigueA === p.id; }); });
+  }
+
   function formExamen() {
+    var cx = contexto();
     var todas = Object.keys(PREGUNTAS).map(function (id) { return PREGUNTAS[id]; }).filter(function (p) { return !p.caso && !SOLO_SUPUESTOS[p.tema]; });
     var pool = poolExamen();
     var maxN = pool.length;
@@ -237,14 +297,16 @@
       var propios = bloquesDe(t);
       var marcados = propios.filter(function (b) { return ajustes.bloques.indexOf(b) >= 0; }).length;
       var abierto = temasAbiertos[t.id];
-      var total = todas.filter(function (p) { return p.tema === t.id && ajustes.origenes.indexOf(p.origen) >= 0; }).length;
+      var delTema = todas.filter(function (p) { return p.tema === t.id && ajustes.origenes.indexOf(p.origen) >= 0; });
+      var total = delTema.length;
       h += '<div class="tema"><div class="tema-cab"><input type="checkbox" data-a="tema" value="' + t.id + '" aria-label="Marcar todo: ' + esc(t.nombre) + '"' + (marcados && marcados === propios.length ? " checked" : "") + (marcados && marcados < propios.length ? " data-parcial" : "") + ">";
-      h += '<button type="button" class="tema-abrir" data-a="tema-abrir" data-v="' + t.id + '" aria-expanded="' + !!abierto + '" aria-controls="t-' + t.id + '"><span>' + esc(t.nombre) + "<small>" + marcados + " de " + propios.length + " marcados · " + total + " preguntas</small></span>" + ICONOS.flecha + "</button></div>";
+      h += '<button type="button" class="tema-abrir" data-a="tema-abrir" data-v="' + t.id + '" aria-expanded="' + !!abierto + '" aria-controls="t-' + t.id + '"><span>' + esc(t.nombre) + "<small>" + marcados + " de " + propios.length + " marcados · " + total + " preguntas</small><small>" + textoConteo(contar(delTema, cx)) + "</small>" + barraConteo(contar(delTema, cx)) + "</span>" + ICONOS.flecha + "</button></div>";
       h += '<div class="tema-dentro" id="t-' + t.id + '"' + (abierto ? "" : " hidden") + ">";
       t.bloques.forEach(function (b) {
         if (propios.indexOf(b.id) < 0) return;
-        var cuantas = todas.filter(function (p) { return p.bloque === b.id && ajustes.origenes.indexOf(p.origen) >= 0; }).length;
-        h += '<label class="check' + (ajustes.bloques.indexOf(b.id) >= 0 ? " marcado" : "") + '"><input type="checkbox" data-a="bloque" value="' + b.id + '"' + (ajustes.bloques.indexOf(b.id) >= 0 ? " checked" : "") + "><span>" + esc(b.nombre) + "</span><b>" + cuantas + "</b></label>";
+        var delBloque = todas.filter(function (p) { return p.bloque === b.id && ajustes.origenes.indexOf(p.origen) >= 0; });
+        var cuantas = delBloque.length;
+        h += '<label class="check' + (ajustes.bloques.indexOf(b.id) >= 0 ? " marcado" : "") + '"><input type="checkbox" data-a="bloque" value="' + b.id + '"' + (ajustes.bloques.indexOf(b.id) >= 0 ? " checked" : "") + "><span>" + esc(b.nombre) + "<small>" + textoConteo(contar(delBloque, cx)) + "</small></span><b>" + cuantas + "</b></label>";
       });
       h += "</div></div>";
     });
@@ -264,10 +326,11 @@
     h += panelTiempo(ajustes.n);
     var puede = maxN >= 10 && ajustes.n <= maxN;
     h += '<div class="acciones"><button class="btn btn-principal" data-a="empezar-examen"' + (puede ? "" : " disabled") + ">Empezar examen</button>";
+    var falladas = poolFalladas().length;
+    h += '<button class="btn btn-secundario" data-a="empezar-falladas"' + (falladas ? "" : " disabled") + ">Repasar solo las falladas (" + falladas + ")</button>";
     if (!puede) h += '<p class="pagina-sub">' + (ajustes.bloques.length ? "Con estos filtros no llegas a 10 preguntas. Marca más temas o procedencias." : "Abre un tema y marca lo que quieres incluir.") + "</p>";
-    var vistas = leer(K_VISTAS, []).length;
-    if (vistas) h += '<button class="btn btn-linea" data-a="olvidar">Olvidar las preguntas ya acertadas (' + vistas + ")</button>";
-    h += "</div>";
+    if (maxN) h += '<p class="pagina-sub">Con estos filtros: ' + textoConteo(contar(pool, cx)) + ".</p>";
+    h += botonReinicio() + "</div>";
     return h;
   }
 
@@ -282,6 +345,7 @@
     var lista = Object.keys(CASOS).map(function (k) { return CASOS[k]; });
     if (ajustes.caso && !CASOS[ajustes.caso]) ajustes.caso = null;
     var n = ajustes.caso ? idsCaso(ajustes.caso).length : 0;
+    var sup = leer(K_SUP, {});
     /* Igual que en Examen: un desplegable por tema y, dentro, sus supuestos. */
     var h = '<div class="panel"><fieldset><legend>Temas</legend><p class="nota">Abre un tema y elige un ejercicio de clase o un supuesto. Respondes a todas y corriges al final. Si hay enunciado, lo tienes siempre a la vista.</p>';
     BANCO.forEach(function (t) {
@@ -294,20 +358,20 @@
       var abierto = !!temasAbiertos[clave]; /* Cerrado hasta que lo abras. */
       var preguntas = suyos.reduce(function (a, c) { return a + idsCaso(c.id).length; }, 0);
       h += '<div class="tema"><div class="tema-cab sin-check">';
-      h += '<button type="button" class="tema-abrir" data-a="tema-abrir" data-v="' + clave + '" aria-expanded="' + abierto + '" aria-controls="t-' + clave + '"><span>' + esc(t.nombre) + "<small>" + ejercicios.length + " ejercicios · " + otros.length + " supuestos · " + preguntas + " preguntas" + (elegido ? " · elegido: " + esc(titulo(elegido)) : "") + "</small></span>" + ICONOS.flecha + "</button></div>";
+      h += '<button type="button" class="tema-abrir" data-a="tema-abrir" data-v="' + clave + '" aria-expanded="' + abierto + '" aria-controls="t-' + clave + '"><span>' + esc(t.nombre) + "<small>" + ejercicios.length + " ejercicios · " + otros.length + " supuestos · " + preguntas + " preguntas" + (elegido ? " · elegido: " + esc(titulo(elegido)) : "") + "</small><small>" + suyos.filter(function (c) { return sup[c.id]; }).length + " de " + suyos.length + " hechos</small></span>" + ICONOS.flecha + "</button></div>";
       h += '<div class="tema-dentro" id="t-' + clave + '"' + (abierto ? "" : " hidden") + ">";
       [["Ejercicios de clase", ejercicios], ["Supuestos prácticos", otros]].forEach(function (g) {
         if (!g[1].length) return;
         h += '<p class="grupo-titulo">' + g[0] + "</p>";
         g[1].forEach(function (c) {
-          h += '<label class="check' + (ajustes.caso === c.id ? " marcado" : "") + '"><input type="radio" name="caso" data-a="caso" value="' + c.id + '"' + (ajustes.caso === c.id ? " checked" : "") + "><span>" + esc(titulo(c)) + "</span><b>" + idsCaso(c.id).length + "</b></label>";
+          h += '<label class="check' + (ajustes.caso === c.id ? " marcado" : "") + '"><input type="radio" name="caso" data-a="caso" value="' + c.id + '"' + (ajustes.caso === c.id ? " checked" : "") + "><span>" + esc(titulo(c)) + "<small>" + textoCaso(sup[c.id]) + "</small></span><b>" + idsCaso(c.id).length + "</b></label>";
         });
       });
       h += "</div></div>";
     });
     h += "</fieldset></div>";
     h += panelTiempo(n);
-    h += '<div class="acciones"><button class="btn btn-principal" data-a="empezar-caso"' + (ajustes.caso ? "" : " disabled") + ">Empezar supuesto</button></div>";
+    h += '<div class="acciones"><button class="btn btn-principal" data-a="empezar-caso"' + (ajustes.caso ? "" : " disabled") + ">Empezar supuesto</button>" + botonReinicio() + "</div>";
     return h;
   }
   function titulo(c) {
@@ -583,7 +647,7 @@
     return h + "</div></section>";
   }
   function pintarResultados() {
-    var h = '<div class="fondo"></div><main class="pagina res-pag sobre-violeta"><h1 class="pagina-titulo">Resultados</h1><div class="res-cols">';
+    var h = '<div class="fondo"></div><main class="pagina res-pag sobre-violeta"><div class="res-titulo"><button class="btn-cuadrado" data-a="nuevo" aria-label="Volver al inicio">' + ICONOS.atras + '</button><h1 class="pagina-titulo">Resultados</h1></div><div class="res-cols">';
     h += htmlNavegador(ses.ids, "Nuevo examen") + '<div class="res-contenido">';
     h += '<section class="panel">' + htmlMarcador(ses.ids) + "</section>";
     h += '<section class="panel"><h2>Tus respuestas</h2>' + htmlFiltros(ses.ids) + '<div class="lista-res">';
@@ -613,7 +677,7 @@
   /* ---------- Calendario, dibujado con los datos ---------- */
   function htmlCalendario(k) {
     var cal = CALENDARIOS[k]; if (!cal) return "";
-    var h = "<h2>" + esc(cal.titulo) + '</h2><p class="nota">En rojo y subrayado, domingos y festivos. Los sábados también son inhábiles (art. 30.2 de la Ley 39/2015).</p><div class="meses">';
+    var h = '<div class="dialogo-x"><button class="btn-cuadrado" data-a="cerrar" aria-label="Cerrar">' + ICONOS.cerrar + "</button></div><h2>" + esc(cal.titulo) + '</h2><p class="nota">En rojo y subrayado, domingos y festivos. Los sábados también son inhábiles (art. 30.2 de la Ley 39/2015).</p><div class="meses">';
     cal.meses.forEach(function (m) {
       var primero = new Date(Date.UTC(cal.year, m - 1, 1));
       var dias = new Date(Date.UTC(cal.year, m, 0)).getUTCDate();
@@ -659,7 +723,24 @@
     switch (a) {
       case "modo": ajustes.modo = v; guardarAjustes(); pintar(); break;
       case "tema-abrir": temasAbiertos[v] = b.getAttribute("aria-expanded") !== "true"; repintarInicio('[data-a="tema-abrir"][data-v="' + v + '"]'); break;
-      case "olvidar": borrar(K_VISTAS); pintar(); anunciar("Preguntas acertadas olvidadas."); break;
+      case "empezar-falladas":
+        var pf = poolFalladas(); if (!pf.length) break;
+        guardarAjustes();
+        empezar("examen", generar(pf, Math.min(ajustes.n, pf.length)), null, ajustes.tiempo);
+        break;
+      case "reiniciar":
+        abrirDialogo('<h2>¿Qué quieres reiniciar?</h2><p class="nota">Las estadísticas vuelven a cero y no se puede deshacer. Un examen o supuesto a medias no se toca.</p><div class="dialogo-acciones">' +
+          '<button class="btn btn-claro" data-a="reset" data-v="examen">Solo exámenes (dominadas, falladas y pendientes)</button>' +
+          '<button class="btn btn-claro" data-a="reset" data-v="supuestos">Solo supuestos</button>' +
+          '<button class="btn btn-claro" data-a="reset" data-v="todo">Todo</button>' +
+          '<button class="enlace" data-a="cerrar">Cancelar</button></div>');
+        break;
+      case "reset":
+        if (v !== "supuestos") { borrar(K_VISTAS); borrar(K_HIST); }
+        if (v !== "examen") borrar(K_SUP);
+        cerrarDialogo(); pintar();
+        anunciar(v === "todo" ? "Estadísticas reiniciadas." : v === "examen" ? "Estadísticas de exámenes reiniciadas." : "Estadísticas de supuestos reiniciadas.");
+        break;
       case "empezar-examen":
         guardarAjustes();
         empezar("examen", generar(poolExamen(), ajustes.n), null, ajustes.tiempo);
