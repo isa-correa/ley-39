@@ -1,7 +1,10 @@
 #!/usr/bin/env python3
 """Une preguntas y respuestas razonadas en data/ley39.js, ley40.js, fuentes.js y contratos.js.
-Solo entran las preguntas con respuesta. Si algo no cuadra, avisa y para."""
-import glob, json, re, sys
+Solo entran las preguntas con respuesta. Si algo no cuadra, avisa y para.
+Uso (desde la raíz del proyecto): python3 tools/construir.py"""
+import glob, json, os, re, sys
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from marcas import marca  # lo que el profesor marca como muy preguntado o poco preguntado
 D = json.load(open("tools/preguntas.json", encoding="utf8"))
 R = {}
 for f in sorted(glob.glob("tools/respuestas/*.json")):
@@ -28,6 +31,16 @@ BLOQUES_C = [("lcsp-general", "Contratos: objeto, ámbito y tipos (LCSP, arts. 1
              ("social", "Discapacidad, dependencia e igualdad")]
 CASOS_C = {"caso-43"}  # Supuesto mixto de Ley 39 y Contratos: va con el tema de Contratos
 validos = {b for b, _ in BLOQUES + BLOQUES_C}
+norm = lambda x: re.sub(r"\W+", "", x.lower())
+clave = lambda p: norm(p["enunciado"]) + "|" + "|".join(sorted(map(norm, p["opciones"])))
+# Una pregunta repetida en otro test hereda la respuesta de la primera que se respondió.
+primera = {}
+for p in D["preguntas"]:
+    if p["id"] in R:
+        primera.setdefault(clave(p), p["id"])
+for p in D["preguntas"]:
+    if p["id"] not in R and clave(p) in primera:
+        R[p["id"]] = R[primera[clave(p)]]
 err, salida = [], []
 for p in D["preguntas"]:
     r = R.get(p["id"])
@@ -37,16 +50,25 @@ for p in D["preguntas"]:
         err.append(f"{p['id']}: {len(r['justificaciones'])} justificaciones para {len(p['opciones'])} opciones")
     if not 0 <= r["correcta"] < len(p["opciones"]):
         err.append(f"{p['id']}: correcta fuera de rango")
+    if "correctas" in r:  # respuesta múltiple: solo se usa en supuestos concretos
+        c = r["correctas"]
+        if not (isinstance(c, list) and len(c) >= 2 and c == sorted(set(c)) and all(isinstance(i, int) and 0 <= i < len(p["opciones"]) for i in c) and r["correcta"] == c[0]):
+            err.append(f"{p['id']}: correctas no válidas")
+        if "caso" not in p:
+            err.append(f"{p['id']}: la respuesta múltiple solo vale en supuestos")
     if r["bloque"] not in validos:
         err.append(f"{p['id']}: bloque {r['bloque']}")
     if re.search("[—–]", json.dumps(r, ensure_ascii=False)):
         err.append(f"{p['id']}: lleva raya o semirraya")
-    salida.append({**p, **r})
+    q = {**p, **r}
+    m = marca(q)
+    if m:
+        q["marca"] = m
+    salida.append(q)
 # La misma pregunta en dos tests: misma respuesta, y en los exámenes solo sale una.
-norm = lambda x: re.sub(r"\W+", "", x.lower())
 grupos = {}
 for p in salida:
-    grupos.setdefault(norm(p["enunciado"]) + "|" + "|".join(sorted(map(norm, p["opciones"]))), []).append(p)
+    grupos.setdefault(clave(p), []).append(p)
 for g in grupos.values():
     if len(g) > 1:
         if len({norm(p["opciones"][p["correcta"]]) for p in g}) > 1:
@@ -58,6 +80,54 @@ if fantasma:
     err.append(f"ids desconocidos: {sorted(fantasma)}")
 if err:
     sys.exit("\n".join(err))
+
+# ---------- Formato del enunciado de los casos ----------
+# El texto original viene en una sola línea. Aquí se parte en párrafos, viñetas y apartados.
+ABREV = re.compile(r"(?:\b[A-ZÁÉÍÓÚ]|\bS\.L|\bS\.A|\bO\.A|\bS\.M\.E|\bA\.A\.I|\bF\.S\.P|\bE\.P\.E|\bart|\barts|\bnúm|\bSr|\bSra|\betc|\bnº)\.$")
+CABECERAS = ["Servicio de calibración de equipos de medida", "Adquisición de uniformes",
+             "Impresión de material educativo", "Obras de reparación de la oficina de asistencia en materia de registro"]
+ARRANQUES = ("En primer lugar", "En segundo lugar", "En tercer lugar", "Además", "En relación con el supuesto",
+             "En relación con la situación", "Otros contratos", "Por otro lado", "Finalmente", "Por último")
+
+def frases(t):
+    out, ini = [], 0
+    for m in re.finditer(r"(?<=[.!?:;]) (?=[A-ZÁÉÍÓÚÑ¿¡«“])", t):
+        if ABREV.search(t[ini:m.start()]):
+            continue
+        out.append(t[ini:m.start()]); ini = m.end()
+    out.append(t[ini:])
+    return out
+
+def trocear(p, tope=420):
+    if len(p) <= tope or p.startswith("- ") or re.match(r"[a-e]\) ", p):
+        return [p]
+    res, cur = [], ""
+    for f in frases(p):
+        if cur and len(cur) + len(f) > tope:
+            res.append(cur); cur = f
+        else:
+            cur = (cur + " " + f).strip()
+    res.append(cur)
+    return res
+
+def dar_formato(t):
+    if "\n" in t:
+        return t
+    for c in CABECERAS:
+        t = re.sub(r"(?<=\d\. )" + re.escape(c) + " ", c + "\n", t)
+    t = re.sub(r" (?=Publicación \d )", "\n", t)
+    t = re.sub(r"(Publicación \d) (?=[A-ZÁÉÍÓÚ])", r"\1\n", t)
+    t = re.sub(r"(?<=[.:]) (?=- [A-ZÁÉÍÓÚÑ¿¡])", "\n", t)
+    t = re.sub(r" (?=- [A-ZÁÉÍÓÚÑ¿¡])", "\n", t)
+    t = re.sub(r"(?<=[:.;]) (?=a\) [A-ZÁÉÍÓÚ])", "\n", t)
+    t = re.sub(r"(?<=[.;]) (?=[b-e]\) [A-ZÁÉÍÓÚ])", "\n", t)
+    t = re.sub(r"(?<=[.:]) (?=\d\. [A-ZÁÉÍÓÚ])", "\n", t)
+    t = re.sub(r"(?<=[.:]) (?=(?:" + "|".join(ARRANQUES) + r")\b)", "\n", t)
+    partes = []
+    for linea in t.split("\n"):
+        partes += trocear(linea.strip())
+    return "\n".join(x for x in partes if x)
+
 total = {}
 for p in D["preguntas"]:
     if "caso" in p:
@@ -66,9 +136,21 @@ hechas = {}
 for p in salida:
     if "caso" in p:
         hechas[p["caso"]] = hechas.get(p["caso"], 0) + 1
-casos = [c for k, c in D["casos"].items() if hechas.get(k) == total.get(k)]
+casos = [{**c, "texto": dar_formato(c.get("texto", ""))} for k, c in D["casos"].items() if hechas.get(k) == total.get(k)]
 ok = {c["id"] for c in casos}
 salida = [p for p in salida if "caso" not in p or p["caso"] in ok]
+
+# Los ejercicios de clase sin enunciado ("Ejercicio nº 11 - ...") y los "Examen nº N" salen en Examen y también en Supuestos.
+# Son las mismas preguntas, así que las estadísticas se comparten.
+def como_supuesto(t):
+    return bool(re.match(r"(Ejercicio(?: nº)? ?\d+\s*\.?-|Examen nº ?\d+)", t))
+por_test = {}
+for p in salida:
+    if "caso" not in p and p["origen"] == "practicas" and como_supuesto(p["test"]):
+        por_test.setdefault(p["test"], []).append(p)
+for t, ps in por_test.items():
+    ps.sort(key=lambda p: p["n"])
+    casos.append({"id": "test-" + ps[0]["id"].split("-")[1], "titulo": t, "texto": "", "corto": True, "ids": [p["id"] for p in ps]})
 def tema(id_, nombre, bloques, pred):
     ps = [p for p in salida if pred(p)]
     cs = [c for c in casos if pred({"caso": c["id"], "bloque": None})]

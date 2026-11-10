@@ -12,9 +12,20 @@
   });
   var ORIGENES = [["oficiales", "Oficiales"], ["votaciones", "Votaciones"], ["autoevaluacion", "Autoevaluación"], ["practicas", "Clases prácticas"]];
   var NOMBRE_ORIGEN = {}; ORIGENES.forEach(function (o) { NOMBRE_ORIGEN[o[0]] = o[1]; });
+  /* Lo que el profesor marca en sus apuntes como muy preguntado o poco preguntado (sale de tools/marcas.py). */
+  var MARCAS = { estrella: "Estrella del profesor", clave: "Clave de examen", poco: "Poco preguntado" };
+  function esClave(p) { return !!(p.marca && p.marca.nivel !== "poco"); }
+  function htmlMarca(p) {
+    if (!p.marca) return "";
+    var n = p.marca.nivel, icono = n === "estrella" ? ICONOS.estrella : n === "clave" ? ICONOS.estrellaHueca : "";
+    return '<span class="sello ' + n + '">' + icono + MARCAS[n] + "</span>";
+  }
+  function htmlNotaMarca(p) {
+    return p.marca ? '<p class="ojo nota-profe"><b>' + (p.marca.nivel === "poco" ? "Poco preguntado" : "El profesor") + ":</b> " + esc(p.marca.nota) + "</p>" : "";
+  }
   var LONGITUDES = [10, 20, 30, 40, 50, 60, 70, 80, 90, 100];
   var RITMO = 67; /* 1 min 7 s por pregunta */
-  var LETRAS = "abcd";
+  var LETRAS = "abcdef";
   var K_SESION = "test-c1-sesion", K_VISTAS = "test-c1-vistas", K_AJUSTES = "test-c1-ajustes", K_HIST = "test-c1-hist", K_SUP = "test-c1-supuestos";
 
   var ICONOS = {
@@ -27,6 +38,9 @@
     pausa: '<svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><rect x="6" y="5" width="4" height="14" rx="1"/><rect x="14" y="5" width="4" height="14" rx="1"/></svg>',
     elegida: '<svg class="marca" viewBox="0 0 28 28" aria-hidden="true"><circle cx="14" cy="14" r="12" fill="none" stroke="currentColor" stroke-width="3"/><circle cx="14" cy="14" r="6" fill="currentColor"/></svg>',
     cerrar: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg>',
+    libro: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 5.5A2.5 2.5 0 0 1 6.5 3H20v16H6.5A2.5 2.5 0 0 0 4 21.5zM4 21.5V5.5M8 7h8"/></svg>',
+    estrella: '<svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2.8l2.8 5.8 6.3.9-4.6 4.4 1.1 6.3L12 17.2l-5.6 3 1.1-6.3-4.6-4.4 6.3-.9z"/></svg>',
+    estrellaHueca: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linejoin="round" aria-hidden="true"><path d="M12 2.8l2.8 5.8 6.3.9-4.6 4.4 1.1 6.3L12 17.2l-5.6 3 1.1-6.3-4.6-4.4 6.3-.9z"/></svg>',
     calendario: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><rect x="3.5" y="5" width="17" height="15.5" rx="2"/><path d="M3.5 10h17M8 3v4M16 3v4"/></svg>'
   };
 
@@ -58,7 +72,7 @@
 
   /* ---------- Estado ---------- */
   var ajustes = Object.assign({
-    modo: "examen", bloques: null, origenes: ORIGENES.map(function (o) { return o[0]; }), n: 10, tiempo: "libre", caso: null
+    modo: "examen", bloques: null, origenes: ORIGENES.map(function (o) { return o[0]; }), n: 10, tiempo: "libre", caso: null, soloClave: false
   }, leer(K_AJUSTES, {}));
   /* Temas que solo se practican en Supuestos: no aparecen en Examen ni entran en sus preguntas. */
   var SOLO_SUPUESTOS = { contratos: 1 };
@@ -75,6 +89,8 @@
   var casoPlegado = false;
   var scrollCaso = { lista: 0, texto: 0 };
   var temasAbiertos = {};
+  /* Con un solo tema, se abre solo: no hay nada que elegir antes. */
+  if (BANCO.length === 1) { temasAbiertos[BANCO[0].id] = true; temasAbiertos["s-" + BANCO[0].id] = true; }
   var intervalo = null;
   var saliendo = false; // el reloj se para mientras está abierto el aviso de salir
   var observador = null;
@@ -89,14 +105,25 @@
   function guardarAjustes() { guardar(K_AJUSTES, ajustes); }
 
   /* ---------- Generar examen ---------- */
-  function poolExamen() {
+  /* Todas las preguntas de lo que tienes marcado, hechas o no. Sirve para contar y para sacar las falladas. */
+  function poolFiltrado() {
     var ya = {}; /* Si la misma pregunta está en dos tests, solo cuenta una vez. */
     return Object.keys(PREGUNTAS).map(function (id) { return PREGUNTAS[id]; }).filter(function (p) {
       if (p.caso || SOLO_SUPUESTOS[p.tema] || ajustes.bloques.indexOf(p.bloque) < 0 || ajustes.origenes.indexOf(p.origen) < 0) return false;
+      if (ajustes.soloClave && !esClave(p)) return false;
       var k = p.dup || p.id;
       if (ya[k]) return false;
       ya[k] = 1;
       return true;
+    });
+  }
+  /* El examen normal solo saca las pendientes: las acertadas no vuelven y las falladas solo salen en "Repasar solo las falladas".
+     Todo vuelve a salir al reiniciar las estadísticas. Si una pendiente depende de "la pregunta anterior", entra también su pareja. */
+  function poolExamen() {
+    var cx = contexto(), pool = poolFiltrado();
+    var pend = pool.filter(function (p) { return estadoPreg(p, cx) === "p"; });
+    return pool.filter(function (p) {
+      return estadoPreg(p, cx) === "p" || pend.some(function (q) { return q.sigueA === p.id; });
     });
   }
   /* Reparto proporcional al número de preguntas de cada tema, y dentro de cada tema primero las que aún no has acertado. */
@@ -125,8 +152,10 @@
     /* Las que dependen de "la pregunta anterior" siempre salen justo detrás de ella. */
     pool.filter(function (p) { return p.sigueA; }).forEach(function (p) {
       var i = elegidas.findIndex(function (x) { return x.id === p.sigueA; });
-      if (i < 0 || elegidas.length < 2) return;
-      /* Entra quitando la última que no tenga pareja, para no dejar una pregunta suelta. */
+      if (i < 0) return;
+      /* Si aún cabe (quedan pocas pendientes), entra sin más. Si no, entra quitando la última que no tenga pareja, para no dejar una pregunta suelta. */
+      if (elegidas.length < n) { elegidas.splice(i + 1, 0, p); return; }
+      if (elegidas.length < 2) return;
       var quita = -1;
       for (var k = elegidas.length - 1; k >= 0 && quita < 0; k--) {
         var x = elegidas[k], siguiente = elegidas[k + 1];
@@ -145,7 +174,7 @@
       tiempo: tiempo, total: tiempo === "ritmo" ? ids.length * RITMO : 0, seg: 0, parado: false, agotado: false
     };
     casoPlegado = false; verFiltro = "todas"; scrollCaso = { lista: 0, texto: 0 };
-    guardarSesion(); arrancarReloj(); pintar();
+    guardarSesion(); arrancarReloj(); pintar("entrar");
   }
 
   /* ---------- Reloj ---------- */
@@ -195,16 +224,25 @@
       sup[ses.caso] = { a: r.a, f: r.f, b: r.b, veces: (sup[ses.caso] ? sup[ses.caso].veces : 0) + 1 };
       guardar(K_SUP, sup);
     }
-    guardarSesion(); pintar(); window.scrollTo(0, 0);
+    guardarSesion(); window.scrollTo(0, 0); pintar("entrar");
   }
-  function salirAlInicio() { ses = null; borrar(K_SESION); clearInterval(intervalo); pintar(); window.scrollTo(0, 0); }
+  function salirAlInicio() { ses = null; borrar(K_SESION); clearInterval(intervalo); window.scrollTo(0, 0); pintar("entrar"); }
+
+  /* Respuesta múltiple (solo en algunos supuestos): p.correctas lista las válidas y la respuesta guardada es una lista. */
+  function esMulti(p) { return !!p.correctas; }
+  function marcadas(r) { return Array.isArray(r) ? r : (r === undefined || r === null ? [] : [r]); }
+  function acierta(p, r) {
+    if (!esMulti(p)) return r === p.correcta;
+    var m = marcadas(r);
+    return m.length === p.correctas.length && p.correctas.every(function (i) { return m.indexOf(i) >= 0; });
+  }
 
   function calcular(ids) {
     var c = { a: 0, f: 0, b: 0, resta: 0 };
     ids.forEach(function (id) {
       var r = ses.resp[id];
       if (r === undefined || r === null) c.b++;
-      else if (r === PREGUNTAS[id].correcta) c.a++;
+      else if (acierta(PREGUNTAS[id], r)) c.a++;
       else { c.f++; c.resta += 1 / (PREGUNTAS[id].opciones.length - 1); }
     });
     /* Cada fallo resta lo que valdría acertar al azar: un tercio con 4 respuestas, medio con 3, uno entero con 2. */
@@ -213,7 +251,21 @@
   }
 
   /* ---------- Pintado ---------- */
-  function pintar() {
+  /* tipo dice qué movimiento lleva el repintado (ver js/movimiento.js). Sin tipo es un refresco de la misma pantalla y no se anima. */
+  function pintar(tipo) {
+    var M = window.Mov, antes = M ? M.antes(raiz) : null;
+    pintarPantalla();
+    if (M) M.despues(raiz, tipo, antes);
+  }
+  /* Mientras sale la tarjeta (0,12 s) no se aceptan más clics ni teclas, para no saltarse una pregunta. */
+  var ocupado = false;
+  function conSalida(dir, hacer) {
+    if (ocupado) return;
+    ocupado = true;
+    var fin = function () { ocupado = false; if (ses && !ses.fin && !ses.parado) hacer(); };
+    if (window.Mov) window.Mov.salida(raiz.querySelector(".tarjeta-cuerpo"), dir, fin); else fin();
+  }
+  function pintarPantalla() {
     if (!ses) return pintarInicio();
     if (ses.fin) return ses.modo === "supuesto" ? pintarResultadosCaso() : pintarResultados();
     if (ses.parado) return pintarPausa();
@@ -230,10 +282,13 @@
       h += '<div class="resumir"><button class="btn btn-principal" data-a="retomar">Retomar examen (' + guardada.ids.length + ' preguntas)</button></div>';
     }
     h += '<div class="pestanas" role="tablist" aria-label="Tipo de prueba">';
+    /* El fondo blanco de la pestaña activa es una pieza aparte para poder animarlo sin tocar el texto. */
+    h += '<i class="pestana-marca" aria-hidden="true" style="grid-column:' + (ajustes.modo === "supuesto" ? 2 : ajustes.modo === "apuntes" ? 3 : 1) + '"></i>';
     h += '<button class="pestana" role="tab" aria-selected="' + (ajustes.modo === "examen") + '" data-a="modo" data-v="examen">Examen</button>';
     h += '<button class="pestana" role="tab" aria-selected="' + (ajustes.modo === "supuesto") + '" data-a="modo" data-v="supuesto">Supuestos</button>';
+    h += '<button class="pestana" role="tab" aria-selected="' + (ajustes.modo === "apuntes") + '" data-a="modo" data-v="apuntes">Apuntes</button>';
     h += "</div>";
-    h += ajustes.modo === "examen" ? formExamen() : formSupuesto();
+    h += ajustes.modo === "examen" ? formExamen() : ajustes.modo === "apuntes" ? formApuntes() : formSupuesto();
     h += "</main>";
     raiz.innerHTML = h;
     raiz.querySelectorAll("[data-parcial]").forEach(function (c) { c.indeterminate = true; });
@@ -265,7 +320,7 @@
     var pa = Math.round(c.a / c.n * 100), pf = Math.round(c.f / c.n * 100), pp = 100 - pa - pf;
     return '<div class="barra fina" role="img" aria-label="' + pa + " por ciento dominadas, " + pf + " por ciento falladas, " + pp + ' por ciento pendientes"><i class="a" style="width:' + pa + '%"></i><i class="f" style="width:' + pf + '%"></i><i class="b" style="width:' + pp + '%"></i></div>';
   }
-  function textoCaso(r) {
+  function textoUltima(r) {
     if (!r) return "Sin hacer";
     return "Última vez: " + plural(r.a, "acierto", "aciertos") + " · " + plural(r.f, "fallo", "fallos") + " · " + r.b + " en blanco" + (r.veces > 1 ? " · hecho " + r.veces + " veces" : "");
   }
@@ -277,7 +332,7 @@
   }
   /* Las falladas de lo que tienes marcado. Si una depende de "la pregunta anterior", entra también su pareja. */
   function poolFalladas() {
-    var cx = contexto(), pool = poolExamen();
+    var cx = contexto(), pool = poolFiltrado();
     var f = pool.filter(function (p) { return estadoPreg(p, cx) === "f"; });
     return pool.filter(function (p) { return estadoPreg(p, cx) === "f" || f.some(function (q) { return q.sigueA === p.id; }); });
   }
@@ -285,9 +340,9 @@
   function formExamen() {
     var cx = contexto();
     var todas = Object.keys(PREGUNTAS).map(function (id) { return PREGUNTAS[id]; }).filter(function (p) { return !p.caso && !SOLO_SUPUESTOS[p.tema]; });
-    var pool = poolExamen();
+    var pool = poolExamen(), filtrado = poolFiltrado();
     var maxN = pool.length;
-    if (ajustes.n > maxN) {
+    if (ajustes.n > maxN && maxN >= LONGITUDES[0]) {
       var valido = LONGITUDES.filter(function (l) { return l <= maxN; }).pop();
       if (valido) ajustes.n = valido;
     }
@@ -317,19 +372,26 @@
       h += '<label class="check' + (ajustes.origenes.indexOf(o[0]) >= 0 ? " marcado" : "") + '"><input type="checkbox" data-a="origen" value="' + o[0] + '"' + (ajustes.origenes.indexOf(o[0]) >= 0 ? " checked" : "") + "><span>" + o[1] + "</span><b>" + cuantas + "</b></label>";
     });
     h += "</fieldset></div>";
+    var antes = ajustes.soloClave; ajustes.soloClave = true;
+    var nClave = poolExamen().length; ajustes.soloClave = antes;
+    h += '<div class="panel"><fieldset><legend>Lo que más cae</legend><p class="nota">Solo preguntas de lo que el profesor marca en los apuntes como estrella o pregunta de examen. Se combina con los temas y la procedencia que elijas. Las marcas salen de los apuntes del profesor y se irán ampliando a medida que avance el temario.</p>';
+    h += '<label class="check' + (ajustes.soloClave ? " marcado" : "") + '"><input type="checkbox" data-a="soloClave" value="1"' + (ajustes.soloClave ? " checked" : "") + "><span>Solo estrella y clave de examen</span><b>" + nClave + "</b></label>";
+    h += "</fieldset></div>";
     h += '<div class="panel"><fieldset><legend>Número de preguntas</legend><div class="rejilla">';
     LONGITUDES.forEach(function (l) {
       var off = l > maxN;
       h += '<label class="chip' + (ajustes.n === l && !off ? " marcado" : "") + '"><input type="radio" name="n" data-a="n" value="' + l + '"' + (ajustes.n === l && !off ? " checked" : "") + (off ? " disabled" : "") + "><span>" + l + "</span></label>";
     });
-    h += '</div><p class="nota">Hay ' + maxN + " preguntas con estos filtros. Si marcas varios temas, se reparten en proporción a las preguntas de cada uno.</p></fieldset></div>";
-    h += panelTiempo(ajustes.n);
-    var puede = maxN >= 10 && ajustes.n <= maxN;
-    h += '<div class="acciones"><button class="btn btn-principal" data-a="empezar-examen"' + (puede ? "" : " disabled") + ">Empezar examen</button>";
+    var nUsar = Math.min(ajustes.n, maxN);
+    h += '</div><p class="nota">' + (maxN === 1 ? "Queda 1 pregunta pendiente" : "Quedan " + maxN + " preguntas pendientes") + " con estos filtros." + (maxN && maxN < ajustes.n ? " El examen tendrá " + plural(maxN, "pregunta", "preguntas") + "." : "") +
+      " Las que aciertas ya no vuelven a salir y las que fallas solo salen en «Repasar solo las falladas». Si marcas varios temas, se reparten en proporción a las preguntas de cada uno.</p></fieldset></div>";
+    h += panelTiempo(nUsar);
+    var puede = maxN > 0;
+    h += '<div class="acciones"><button class="btn btn-principal" data-a="empezar-examen"' + (puede ? "" : " disabled") + ">Empezar examen" + (puede && nUsar < ajustes.n ? " (" + nUsar + ")" : "") + "</button>";
     var falladas = poolFalladas().length;
     h += '<button class="btn btn-secundario" data-a="empezar-falladas"' + (falladas ? "" : " disabled") + ">Repasar solo las falladas (" + falladas + ")</button>";
-    if (!puede) h += '<p class="pagina-sub">' + (ajustes.bloques.length ? "Con estos filtros no llegas a 10 preguntas. Marca más temas o procedencias." : "Abre un tema y marca lo que quieres incluir.") + "</p>";
-    if (maxN) h += '<p class="pagina-sub">Con estos filtros: ' + textoConteo(contar(pool, cx)) + ".</p>";
+    if (!puede) h += '<p class="pagina-sub">' + (!ajustes.bloques.length ? "Abre un tema y marca lo que quieres incluir." : filtrado.length ? "Ya has hecho todas las preguntas de estos filtros. Repasa las falladas, marca otros temas o reinicia las estadísticas para que vuelvan a salir todas." : "Con estos filtros no hay preguntas. Marca más temas o procedencias.") + "</p>";
+    if (filtrado.length) h += '<p class="pagina-sub">Con estos filtros: ' + textoConteo(contar(filtrado, cx)) + ".</p>";
     h += botonReinicio() + "</div>";
     return h;
   }
@@ -352,20 +414,27 @@
       var suyos = lista.filter(function (c) { return c.tema === t.id; });
       if (!suyos.length) return;
       var ejercicios = suyos.filter(esEjercicio).sort(function (x, y) { return numero(x) - numero(y); });
-      var otros = suyos.filter(function (c) { return !esEjercicio(c); });
+      var examenes = suyos.filter(esExamenClase).sort(function (x, y) { return numero(x) - numero(y); });
+      var otros = suyos.filter(function (c) { return !esEjercicio(c) && !esExamenClase(c); });
       var clave = "s-" + t.id;
       var elegido = suyos.filter(function (c) { return c.id === ajustes.caso; })[0];
       var abierto = !!temasAbiertos[clave]; /* Cerrado hasta que lo abras. */
       var preguntas = suyos.reduce(function (a, c) { return a + idsCaso(c.id).length; }, 0);
       h += '<div class="tema"><div class="tema-cab sin-check">';
-      h += '<button type="button" class="tema-abrir" data-a="tema-abrir" data-v="' + clave + '" aria-expanded="' + abierto + '" aria-controls="t-' + clave + '"><span>' + esc(t.nombre) + "<small>" + ejercicios.length + " ejercicios · " + otros.length + " supuestos · " + preguntas + " preguntas" + (elegido ? " · elegido: " + esc(titulo(elegido)) : "") + "</small><small>" + suyos.filter(function (c) { return sup[c.id]; }).length + " de " + suyos.length + " hechos</small></span>" + ICONOS.flecha + "</button></div>";
+      h += '<button type="button" class="tema-abrir" data-a="tema-abrir" data-v="' + clave + '" aria-expanded="' + abierto + '" aria-controls="t-' + clave + '"><span>' + esc(t.nombre) + "<small>" + (ejercicios.length + examenes.length) + " ejercicios · " + otros.length + " supuestos · " + preguntas + " preguntas" + (elegido ? " · elegido: " + esc(titulo(elegido)) : "") + "</small><small>" + suyos.filter(function (c) { return sup[c.id]; }).length + " de " + suyos.length + " hechos</small></span>" + ICONOS.flecha + "</button></div>";
       h += '<div class="tema-dentro" id="t-' + clave + '"' + (abierto ? "" : " hidden") + ">";
-      [["Ejercicios de clase", ejercicios], ["Supuestos prácticos", otros]].forEach(function (g) {
+      [["Ejercicios de clase", ejercicios], ["Exámenes de clase", examenes], ["Supuestos prácticos", otros]].forEach(function (g) {
         if (!g[1].length) return;
-        h += '<p class="grupo-titulo">' + g[0] + "</p>";
+        /* Subacordeón: cerrado hasta que lo abras, salvo que dentro esté el supuesto elegido. */
+        var gk = "g-" + clave + "-" + g[0].charAt(0) + g[0].length;
+        var hechos = g[1].filter(function (c) { return sup[c.id]; }).length;
+        var gAbierto = !!temasAbiertos[gk] || g[1].some(function (c) { return c.id === ajustes.caso; });
+        h += '<div class="grupo"><button type="button" class="grupo-abrir" data-a="tema-abrir" data-v="' + gk + '" aria-expanded="' + gAbierto + '" aria-controls="' + gk + '"><span>' + g[0] + "<small>" + g[1].length + " · " + plural(hechos, "hecho", "hechos") + "</small></span>" + ICONOS.flecha + "</button>";
+        h += '<div class="grupo-dentro" id="' + gk + '"' + (gAbierto ? "" : " hidden") + ">";
         g[1].forEach(function (c) {
-          h += '<label class="check' + (ajustes.caso === c.id ? " marcado" : "") + '"><input type="radio" name="caso" data-a="caso" value="' + c.id + '"' + (ajustes.caso === c.id ? " checked" : "") + "><span>" + esc(titulo(c)) + "<small>" + textoCaso(sup[c.id]) + "</small></span><b>" + idsCaso(c.id).length + "</b></label>";
+          h += '<label class="check' + (ajustes.caso === c.id ? " marcado" : "") + '"><input type="radio" name="caso" data-a="caso" value="' + c.id + '"' + (ajustes.caso === c.id ? " checked" : "") + "><span>" + esc(titulo(c)) + "<small>" + textoUltima(sup[c.id]) + "</small></span><b>" + idsCaso(c.id).length + "</b></label>";
         });
+        h += "</div></div>";
       });
       h += "</div></div>";
     });
@@ -374,12 +443,100 @@
     h += '<div class="acciones"><button class="btn btn-principal" data-a="empezar-caso"' + (ajustes.caso ? "" : " disabled") + ">Empezar supuesto</button>" + botonReinicio() + "</div>";
     return h;
   }
+  /* ---------- Apuntes: todos los esquemas, por bloques del temario y con buscador ---------- */
+  var busqueda = "";
+  function sinTildes(t) { return String(t).toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, ""); }
+  /* "100-102,118" -> [100, 101, 102, 118] */
+  function numerosDe(spec) {
+    var r = [];
+    String(spec || "").split(",").forEach(function (t) {
+      var m = t.trim().split("-").map(Number);
+      if (isNaN(m[0])) return;
+      for (var i = m[0]; i <= (m[1] || m[0]); i++) r.push(i);
+    });
+    return r;
+  }
+  /* "100-102,118" -> "arts. 100 a 102, 118" */
+  function textoArts(spec) {
+    if (!spec) return "";
+    var t = spec.split(",").map(function (x) { return x.trim().replace("-", " a "); });
+    return (t.length === 1 && t[0].indexOf(" a ") < 0 ? "art. " : "arts. ") + t.join(", ");
+  }
+  function metaApunte(id) {
+    var e = ESQUEMAS[id], m = [];
+    if (textoArts(e.a)) m.push(textoArts(e.a));
+    if (e.paginas.length > 1) m.push(e.paginas.length + " páginas");
+    return m.join(" · ");
+  }
+  function encaja(id, bloque) {
+    if (!busqueda.trim()) return true;
+    var e = ESQUEMAS[id], texto = sinTildes(e.titulo + " " + bloque.nombre), nums = numerosDe(e.a);
+    return sinTildes(busqueda).split(/\s+/).filter(Boolean).every(function (t) {
+      return /^\d+$/.test(t) ? nums.indexOf(+t) >= 0 || new RegExp("\\b" + t + "\\b").test(texto) : texto.indexOf(t) >= 0;
+    });
+  }
+  /* Esquemas visibles, por bloque y por grupo, ya filtrados por la búsqueda. */
+  function apuntesVisibles() {
+    return (window.APUNTES || []).map(function (b) {
+      var grupos = b.grupos.map(function (g) { return { nombre: g.nombre, ids: g.ids.filter(function (id) { return encaja(id, b); }) }; })
+        .filter(function (g) { return g.ids.length; });
+      return { b: b, grupos: grupos, n: grupos.reduce(function (a, g) { return a + g.ids.length; }, 0) };
+    }).filter(function (x) { return x.n; });
+  }
+  function htmlApuntes() {
+    var vis = apuntesVisibles(), buscando = !!busqueda.trim();
+    if (!vis.length) return '<p class="nota">No hay apuntes con esa búsqueda. Prueba con una palabra o con el número de un artículo.</p>';
+    var h = "";
+    vis.forEach(function (x) {
+      var clave = "a-" + x.b.id, abierto = buscando || !!temasAbiertos[clave];
+      var num = ("0" + (parseInt(x.b.id, 10) + 1)).slice(-2);
+      h += '<div class="tema tema-ap"><div class="tema-cab sin-check"><button type="button" class="tema-abrir" data-a="tema-abrir" data-v="' + clave + '" aria-expanded="' + abierto + '" aria-controls="t-' + clave + '"><b class="ap-num" aria-hidden="true">' + num + "</b><span>" + esc(x.b.nombre) + "<small>" + plural(x.n, "apunte", "apuntes") + " · " + esc(x.b.desc) + "</small></span>" + ICONOS.flecha + "</button></div>";
+      h += '<div class="tema-dentro" id="t-' + clave + '"' + (abierto ? "" : " hidden") + ">";
+      x.grupos.forEach(function (g) {
+        if (g.nombre) h += '<h3 class="grupo-titulo">' + esc(g.nombre) + "</h3>";
+        g.ids.forEach(function (id) {
+          h += '<button type="button" class="apunte" data-a="apunte" data-v="' + id + '" data-b="' + x.b.id + '"><span>' + esc(ESQUEMAS[id].titulo) + (metaApunte(id) ? "<small>" + esc(metaApunte(id)) + "</small>" : "") + "</span></button>";
+        });
+      });
+      h += "</div></div>";
+    });
+    return h;
+  }
+  function formApuntes() {
+    if (!window.APUNTES || !window.ESQUEMAS || !Object.keys(window.ESQUEMAS).length) return '<div class="panel"><div><h2>Apuntes</h2><p class="nota">Todavía no hay apuntes. Aquí irán los esquemas del temario, ordenados por bloques y con un buscador por tema o por artículo.</p></div></div>';
+    var total = Object.keys(ESQUEMAS).length;
+    var h = '<div class="panel"><div><h2>Apuntes</h2><p class="nota">' + total + " esquemas ordenados como el temario. Se ven siempre en horizontal: arrastra para moverte y usa la rueda o los dedos para acercar.</p></div>";
+    h += '<label class="buscar"><span class="solo-lector">Buscar un apunte</span><input type="search" data-a="busca-apuntes" autocomplete="off" placeholder="Busca por tema o por artículo, por ejemplo 21 o silencio" value="' + esc(busqueda) + '"></label>';
+    h += '<p class="nota" id="apuntes-cuenta" role="status">' + (busqueda.trim() ? "" : "") + "</p>";
+    h += '<div class="temas" id="apuntes-lista">' + htmlApuntes() + "</div></div>";
+    return h;
+  }
+  function buscarApuntes(valor) {
+    busqueda = valor;
+    var lista = document.getElementById("apuntes-lista"); if (!lista) return;
+    lista.innerHTML = htmlApuntes();
+    var n = apuntesVisibles().reduce(function (a, x) { return a + x.n; }, 0);
+    var c = document.getElementById("apuntes-cuenta");
+    if (c) c.textContent = busqueda.trim() ? plural(n, "apunte encontrado", "apuntes encontrados") : "";
+  }
+  function abrirApunte(b) {
+    var id = b.getAttribute("data-v"), bid = b.getAttribute("data-b"), ids = [];
+    /* Con la ventana abierta puedes pasar al siguiente apunte: los de la búsqueda, o los de su bloque. */
+    apuntesVisibles().forEach(function (x) {
+      if (busqueda.trim() || x.b.id === bid) x.grupos.forEach(function (g) { ids = ids.concat(g.ids); });
+    });
+    window.abrirVisor(ids, b, id);
+  }
+
   function titulo(c) {
     return c.titulo.replace(/^(Ejercicio(?: nº)? \d+)\s*\.?-\s*/, "$1 · ").replace(/([a-záéíóúñ])\.$/, "$1"); /* "Motivación." pierde el punto; "AA.PP." no. */
   }
   function esEjercicio(c) { return /^Ejercicio/.test(c.titulo); }
+  function esExamenClase(c) { return /^Examen nº/.test(c.titulo); }
   function numero(c) { return parseInt((c.titulo.match(/\d+/) || [0])[0], 10); }
   function idsCaso(cid) {
+    /* Un cuestionario de clase tiene la lista de ids; sus preguntas siguen también en Examen. */
+    if (CASOS[cid] && CASOS[cid].ids) return CASOS[cid].ids.filter(function (id) { return PREGUNTAS[id]; });
     return Object.keys(PREGUNTAS).filter(function (id) { return PREGUNTAS[id].caso === cid; })
       .sort(function (a, b) { return PREGUNTAS[a].n - PREGUNTAS[b].n; });
   }
@@ -395,7 +552,7 @@
     h += '<div class="cuenta" aria-label="Pregunta ' + (ses.pos + 1) + " de " + ses.ids.length + '">' + numero + " de " + ses.ids.length + "</div>" + htmlReloj() + "</header>";
     h += '<div class="progreso" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="' + pct + '" aria-label="Avance del examen"><i style="width:' + pct + '%"></i></div>';
     h += '<div class="pila"><div class="tarjeta"><div class="tarjeta-cuerpo" data-scroll>';
-    h += '<div class="col-preg" data-scroll><div class="etiqueta"><span>' + esc(BLOQUES[p.bloque]) + "</span></div>";
+    h += '<div class="col-preg" data-scroll><div class="etiqueta"><span>' + esc(BLOQUES[p.bloque]) + "</span>" + htmlMarca(p) + "</div>";
     h += '<h1 class="enunciado" id="enunciado" tabindex="-1">' + esc(p.enunciado) + "</h1>";
     if (p.calendario) h += '<button class="btn-apoyo" data-a="calendario" data-v="' + p.calendario + '">' + ICONOS.calendario + "Ver calendario</button>";
     h += '</div><div class="col-opc" data-scroll>' + htmlOpciones(p, r, respondida);
@@ -462,6 +619,7 @@
       var y = cuerpo.scrollTop;
       cont.outerHTML = htmlOpciones(p, i, true);
       cuerpo.scrollTop = y;
+      if (window.Mov) window.Mov.respuesta(raiz.querySelector(".opciones"));
       var bl = raiz.querySelector('[data-a="blanco"]'); if (bl) bl.disabled = true;
       var sg = raiz.querySelector('[data-a="siguiente"]'); if (sg) sg.disabled = false;
     } else pintar();
@@ -470,7 +628,7 @@
   }
   function siguiente() {
     if (ses.pos >= ses.ids.length - 1) return terminar();
-    ses.pos++; guardarSesion(); pintar();
+    conSalida(1, function () { ses.pos++; guardarSesion(); pintar("adelante"); });
   }
 
   /* ---------- Pausa ---------- */
@@ -497,14 +655,16 @@
     h += '<div class="cuenta" aria-label="' + hechas + " de " + ses.ids.length + ' respondidas">' + hechas + " de " + ses.ids.length + "</div>" + htmlReloj() + "</header>";
     h += '<div class="progreso" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="' + pct + '" aria-label="Preguntas respondidas"><i style="width:' + pct + '%"></i></div>';
     h += abrirReparto(c);
-    h += '<section class="lista-preg" aria-label="Preguntas" tabindex="0">' + consigna(c);
+    h += '<section class="lista-preg" data-flip-id="lista" aria-label="Preguntas" tabindex="0">' + consigna(c);
     ses.ids.forEach(function (id, n) {
       var p = PREGUNTAS[id], r = ses.resp[id];
-      h += '<article class="preg"><h3><span>' + (n + 1) + ".</span> " + esc(p.enunciado) + "</h3>";
+      h += '<article class="preg">' + (p.marca ? '<p class="etiqueta">' + htmlMarca(p) + "</p>" : "") + "<h3><span>" + (n + 1) + ".</span> " + esc(p.enunciado) + "</h3>";
       if (p.calendario) h += '<button class="btn-apoyo" data-a="calendario" data-v="' + p.calendario + '">' + ICONOS.calendario + "Ver calendario</button>";
+      if (esMulti(p)) h += '<p class="nota">Marca todas las correctas. Solo cuenta si marcas exactamente las que son.</p>';
       h += '<div class="opciones" role="group" aria-label="Opciones de la pregunta ' + (n + 1) + '">';
       p.opciones.forEach(function (o, i) {
-        h += '<button class="opcion' + (r === i ? " elegida" : "") + '" aria-pressed="' + (r === i) + '" data-a="marcar" data-id="' + id + '" data-v="' + i + '"><span class="letra">' + LETRAS[i] + ")</span><span>" + esc(o) + "</span>" + (r === i ? ICONOS.elegida : "") + "</button>";
+        var on = marcadas(r).indexOf(i) >= 0;
+        h += '<button class="opcion' + (on ? " elegida" : "") + '" aria-pressed="' + on + '" data-a="marcar" data-id="' + id + '" data-v="' + i + '"><span class="letra">' + LETRAS[i] + ")</span><span>" + esc(o) + "</span>" + (on ? ICONOS.elegida : "") + "</button>";
       });
       h += "</div></article>";
     });
@@ -527,10 +687,24 @@
     if (!c.corto) return "";
     return '<div class="consigna"><h2>' + esc(titulo(c)) + "</h2>" + (c.texto ? "<p>" + esc(c.texto) + "</p>" : "") + "</div>";
   }
+  // Cada línea del enunciado es un párrafo. "- " abre una lista, "a) " un apartado y "Publicación 1" o "1. Título" un subtítulo.
+  function textoCaso(texto) {
+    var h = "", lista = false;
+    texto.split("\n").forEach(function (t) {
+      var punto = /^- /.test(t);
+      if (punto && !lista) { h += "<ul>"; lista = true; }
+      if (!punto && lista) { h += "</ul>"; lista = false; }
+      if (punto) h += "<li>" + esc(t.slice(2)) + "</li>";
+      else if (/^\d+\. /.test(t) && t.length < 90 || /^Publicación \d+$/.test(t)) h += '<p class="sub">' + esc(t) + "</p>";
+      else if (/^[a-e]\) /.test(t)) h += '<p class="apartado">' + esc(t) + "</p>";
+      else h += "<p>" + esc(t) + "</p>";
+    });
+    return h + (lista ? "</ul>" : "");
+  }
   function panelCaso(c) {
-    var h = '<section class="caso" aria-label="Enunciado del supuesto"><div class="caso-cab"><span>' + esc(titulo(c)) + "</span>";
+    var h = '<section class="caso" data-flip-id="caso" aria-label="Enunciado del supuesto"><div class="caso-cab"><span>' + esc(titulo(c)) + "</span>";
     h += '<button class="enlace plegar" data-a="plegar" aria-expanded="' + !casoPlegado + '">' + (casoPlegado ? "Mostrar" : "Plegar") + "</button></div>";
-    if (!casoPlegado) h += '<div class="caso-texto" tabindex="0">' + c.texto.split("\n").map(function (t) { return "<p>" + esc(t) + "</p>"; }).join("") + "</div>";
+    if (!casoPlegado) h += '<div class="caso-texto" tabindex="0">' + textoCaso(c.texto) + "</div>";
     return h + "</section>";
   }
 
@@ -538,7 +712,9 @@
   function textoResta(ids) {
     var k = {}; ids.forEach(function (id) { k[PREGUNTAS[id].opciones.length] = 1; });
     var ns = Object.keys(k);
-    if (ns.length === 1 && ns[0] === "4") return "Cada fallo resta un tercio de acierto y las preguntas en blanco no restan, como en el examen.";
+    var multi = ids.some(function (id) { return esMulti(PREGUNTAS[id]); }) ? " En las de respuesta múltiple solo se acierta marcando exactamente las correctas." : "";
+    if (ns.length === 1 && ns[0] === "6") return "Hay seis respuestas, así que cada fallo resta una quinta parte de acierto. Las preguntas en blanco no restan." + multi;
+    if (ns.length === 1 && ns[0] === "4") return "Cada fallo resta un tercio de acierto y las preguntas en blanco no restan, como en el examen." + multi;
     if (ns.length === 1 && ns[0] === "3") return "Hay tres respuestas, así que cada fallo resta medio acierto. Las preguntas en blanco no restan.";
     if (ns.length === 1 && ns[0] === "2") return "Hay dos respuestas, así que cada fallo resta un acierto entero. Las preguntas en blanco no restan.";
     return "Cada fallo resta según las respuestas que tenga la pregunta: un tercio de acierto con cuatro, medio con tres y uno entero con dos. Las preguntas en blanco no restan.";
@@ -553,6 +729,8 @@
   function htmlFiltros(ids) {
     var c = calcular(ids);
     var op = [["todas", "Todas", ids.length], ["falladas", "Falladas", c.f], ["blanco", "En blanco", c.b]];
+    var nClave = ids.filter(function (id) { return esClave(PREGUNTAS[id]); }).length;
+    if (nClave) op.push(["clave", "Estrella y clave", nClave]);
     return '<div class="filtros" role="group" aria-label="Filtrar resultados">' + op.map(function (o) {
       return '<button class="filtro" data-a="filtro" data-v="' + o[0] + '" aria-pressed="' + (verFiltro === o[0]) + '">' + o[1] + " (" + o[2] + ")</button>";
     }).join("") + "</div>";
@@ -560,27 +738,30 @@
   function estado(id) {
     var r = ses.resp[id];
     if (r === undefined || r === null) return "blanco";
-    return r === PREGUNTAS[id].correcta ? "acierto" : "fallo";
+    return acierta(PREGUNTAS[id], r) ? "acierto" : "fallo";
   }
+  function tieneApuntes(id) { return !!(window.ESQ_PREG && window.ESQ_PREG[id] && window.abrirVisor); }
   function htmlResultado(id, n) {
     var p = PREGUNTAS[id], r = ses.resp[id], e = estado(id);
     var rotulo = { acierto: ["estado-ok", "Acertada"], fallo: ["estado-ko", "Fallada"], blanco: ["estado-nu", "En blanco"] }[e];
-    var h = '<article class="resultado" id="res-' + id + '" tabindex="-1" data-estado="' + e + '"><div class="resultado-cab"><span>Pregunta ' + (n + 1) + " · " + esc(NOMBRE_ORIGEN[p.origen] || "") + '</span><span class="' + rotulo[0] + '">' + rotulo[1] + "</span></div>";
+    var h = '<article class="resultado" id="res-' + id + '" tabindex="-1" data-estado="' + e + '"' + (esClave(p) ? ' data-clave="1"' : "") + '><div class="resultado-cab"><span>Pregunta ' + (n + 1) + " · " + esc(NOMBRE_ORIGEN[p.origen] || "") + htmlMarca(p) + '</span><span class="' + rotulo[0] + '">' + rotulo[1] + "</span></div>";
     h += '<p class="resultado-q">' + esc(p.enunciado) + "</p>";
     if (p.calendario) h += '<button class="btn-apoyo" data-a="calendario" data-v="' + p.calendario + '">' + ICONOS.calendario + "Ver calendario</button>";
+    var ok = esMulti(p) ? p.correctas : [p.correcta], mias = marcadas(r);
     p.opciones.forEach(function (o, i) {
-      var cl = "", nota = "", icono = "";
-      if (i === p.correcta) { cl = " bien"; icono = ICONOS.bien; nota = e === "acierto" ? "Tu respuesta, correcta" : "Respuesta correcta"; }
-      else if (i === r) { cl = " mal"; icono = ICONOS.mal; nota = "Tu respuesta"; }
+      var cl = "", nota = "", icono = "", mia = mias.indexOf(i) >= 0;
+      if (ok.indexOf(i) >= 0) { cl = " bien"; icono = ICONOS.bien; nota = mia ? "Tu respuesta, correcta" : (esMulti(p) && e !== "blanco" ? "Correcta, no la marcaste" : "Respuesta correcta"); }
+      else if (mia) { cl = " mal"; icono = ICONOS.mal; nota = "Tu respuesta"; }
       h += '<div class="linea' + cl + '"><b>' + LETRAS[i] + ")</b><span>" + (nota ? "<small>" + nota + "</small>" : "") + esc(o) + "</span>" + icono + "</div>";
     });
     h += '<button class="acordeon" data-a="acordeon" aria-expanded="false" aria-controls="j-' + id + '"><span>Ver justificación</span>' + ICONOS.flecha + "</button>";
-    h += '<div class="justificacion" id="j-' + id + '" hidden><p class="precepto">' + esc(p.precepto) + "</p>";
+    h += '<div class="justificacion" id="j-' + id + '" hidden><p class="precepto">' + esc(p.precepto) + "</p>" + htmlNotaMarca(p);
     p.opciones.forEach(function (o, i) {
-      h += '<div class="razon' + (i === p.correcta ? " es" : "") + '"><b class="l">' + LETRAS[i] + ")</b><span>" + rico(p.justificaciones[i]) + "</span></div>";
+      h += '<div class="razon' + (ok.indexOf(i) >= 0 ? " es" : "") + '"><b class="l">' + LETRAS[i] + ")</b><span>" + rico(p.justificaciones[i]) + "</span></div>";
     });
     if (p.ojo) h += '<p class="ojo"><b>Ojo:</b> ' + rico(p.ojo) + "</p>";
     if (p.revisar) h += '<p class="revisar"><b>Por confirmar:</b> ' + rico(p.revisar) + " Comprueba esta respuesta con tu academia.</p>";
+    if (tieneApuntes(id)) h += '<button type="button" class="btn-apoyo" data-a="apuntes" data-v="' + id + '">' + ICONOS.libro + "Consultar apuntes</button>";
     return h + "</div></article>";
   }
 
@@ -613,6 +794,7 @@
       window.scrollTo({ top: window.scrollY + a.getBoundingClientRect().top - arriba, behavior: suave });
     }
     a.focus({ preventScroll: true });
+    if (window.Mov) window.Mov.resaltar(a);
   }
   function alternarNav(b) {
     navAbierto = b.getAttribute("aria-expanded") !== "true";
@@ -670,7 +852,7 @@
   }
   function aplicarFiltro() {
     var quiero = { todas: null, falladas: "fallo", blanco: "blanco" }[verFiltro];
-    raiz.querySelectorAll(".resultado").forEach(function (a) { a.hidden = quiero && a.dataset.estado !== quiero; });
+    raiz.querySelectorAll(".resultado").forEach(function (a) { a.hidden = verFiltro === "clave" ? !a.dataset.clave : quiero && a.dataset.estado !== quiero; });
     raiz.querySelectorAll(".filtro").forEach(function (b) { b.setAttribute("aria-pressed", b.dataset.v === verFiltro); });
   }
 
@@ -700,12 +882,18 @@
   }
   function abrirDialogo(html) {
     dialogo.innerHTML = html;
-    if (dialogo.showModal) dialogo.showModal(); else dialogo.setAttribute("open", "");
+    /* Si aún se está cerrando el anterior, sigue abierto: no se vuelve a abrir. */
+    if (!dialogo.open) { if (dialogo.showModal) dialogo.showModal(); else dialogo.setAttribute("open", ""); }
+    if (window.Mov) window.Mov.dialogoEntra(dialogo, true);
     var titulo = dialogo.querySelector("h2");
     if (titulo) { titulo.tabIndex = -1; titulo.focus({ preventScroll: true }); }
     dialogo.scrollTop = 0;
   }
-  function cerrarDialogo() { saliendo = false; if (dialogo.close) dialogo.close(); else dialogo.removeAttribute("open"); }
+  function cerrarDialogo() {
+    saliendo = false;
+    var cierra = function () { if (dialogo.close) dialogo.close(); else dialogo.removeAttribute("open"); };
+    if (window.Mov) window.Mov.dialogoSale(dialogo, true, cierra); else cierra();
+  }
 
   function dialogoSalir() {
     saliendo = true;
@@ -718,18 +906,18 @@
 
   /* ---------- Eventos ---------- */
   function clic(e) {
-    var b = e.target.closest("[data-a]"); if (!b || b.disabled) return;
+    var b = e.target.closest("[data-a]"); if (!b || b.disabled || ocupado) return;
     var a = b.dataset.a, v = b.dataset.v;
     switch (a) {
-      case "modo": ajustes.modo = v; guardarAjustes(); pintar(); break;
-      case "tema-abrir": temasAbiertos[v] = b.getAttribute("aria-expanded") !== "true"; repintarInicio('[data-a="tema-abrir"][data-v="' + v + '"]'); break;
+      case "modo": if (ajustes.modo === v) break; ajustes.modo = v; guardarAjustes(); pintar("pestana"); break;
+      case "tema-abrir": alternarTema(b, v); break;
       case "empezar-falladas":
         var pf = poolFalladas(); if (!pf.length) break;
         guardarAjustes();
         empezar("examen", generar(pf, Math.min(ajustes.n, pf.length)), null, ajustes.tiempo);
         break;
       case "reiniciar":
-        abrirDialogo('<h2>¿Qué quieres reiniciar?</h2><p class="nota">Las estadísticas vuelven a cero y no se puede deshacer. Un examen o supuesto a medias no se toca.</p><div class="dialogo-acciones">' +
+        abrirDialogo('<h2>¿Qué quieres reiniciar?</h2><p class="nota">Las estadísticas vuelven a cero y las preguntas que ya habías hecho vuelven a salir en Examen. No se puede deshacer. Un examen o supuesto a medias no se toca.</p><div class="dialogo-acciones">' +
           '<button class="btn btn-claro" data-a="reset" data-v="examen">Solo exámenes (dominadas, falladas y pendientes)</button>' +
           '<button class="btn btn-claro" data-a="reset" data-v="supuestos">Solo supuestos</button>' +
           '<button class="btn btn-claro" data-a="reset" data-v="todo">Todo</button>' +
@@ -743,26 +931,32 @@
         break;
       case "empezar-examen":
         guardarAjustes();
-        empezar("examen", generar(poolExamen(), ajustes.n), null, ajustes.tiempo);
+        var pe = poolExamen(); if (!pe.length) break;
+        empezar("examen", generar(pe, Math.min(ajustes.n, pe.length)), null, ajustes.tiempo);
         break;
       case "empezar-caso": guardarAjustes(); empezar("supuesto", idsCaso(ajustes.caso), ajustes.caso, ajustes.tiempo); break;
-      case "retomar": ses = leer(K_SESION, null); arrancarReloj(); pintar(); break;
+      case "retomar": ses = leer(K_SESION, null); arrancarReloj(); pintar("entrar"); break;
       case "responder": responder(+v); break;
       case "blanco": ses.resp[ses.ids[ses.pos]] = null; guardarSesion(); siguiente(); break;
       case "siguiente": siguiente(); break;
-      case "atras": if (ses.pos > 0) { ses.pos--; guardarSesion(); pintar(); } break;
+      case "atras": if (ses.pos > 0) conSalida(-1, function () { ses.pos--; guardarSesion(); pintar("atras"); }); break;
       case "salir": dialogoSalir(); break;
       case "pausar":
         if (!ses.parado) recordarScroll();
-        ses.parado = !ses.parado; guardarSesion(); pintar();
+        ses.parado = !ses.parado; guardarSesion(); pintar("entrar");
         anunciar(ses.parado ? "En pausa." : "Reanudado.");
         break;
       case "marcar":
         var id = b.dataset.id, i = +v;
-        if (ses.resp[id] === i) delete ses.resp[id]; else ses.resp[id] = i;
+        if (esMulti(PREGUNTAS[id])) {
+          var m = marcadas(ses.resp[id]).filter(function (x) { return x !== i; });
+          if (m.length === marcadas(ses.resp[id]).length) m.push(i);
+          m.sort(function (x, y) { return x - y; });
+          if (m.length) ses.resp[id] = m; else delete ses.resp[id];
+        } else if (ses.resp[id] === i) delete ses.resp[id]; else ses.resp[id] = i;
         guardarSesion(); pintar();
         break;
-      case "plegar": casoPlegado = !casoPlegado; pintar(); break;
+      case "plegar": casoPlegado = !casoPlegado; pintar("plegar"); break;
       case "corregir":
         var faltan = ses.ids.length - ses.ids.filter(function (x) { return ses.resp[x] !== undefined && ses.resp[x] !== null; }).length;
         if (faltan) {
@@ -771,12 +965,14 @@
         break;
       case "calendario": abrirDialogo(htmlCalendario(v)); break;
       case "cerrar": cerrarDialogo(); break;
-      case "guardar-salir": guardarSesion(); cerrarDialogo(); ses = null; clearInterval(intervalo); pintar(); window.scrollTo(0, 0); break;
+      case "guardar-salir": guardarSesion(); cerrarDialogo(); ses = null; clearInterval(intervalo); window.scrollTo(0, 0); pintar("entrar"); break;
       case "terminar-ya": cerrarDialogo(); terminar(); break;
       case "descartar": cerrarDialogo(); salirAlInicio(); break;
       case "nuevo": salirAlInicio(); break;
       case "filtro": verFiltro = v; aplicarFiltro(); break;
       case "acordeon": alternar(b); break;
+      case "apunte": abrirApunte(b); break;
+      case "apuntes": window.abrirVisor(window.ESQ_PREG[v], b); break;
       case "nav-toggle": alternarNav(b); break;
       case "ir": irA(v); break;
     }
@@ -786,19 +982,32 @@
   function alternar(b) {
     var abrir = b.getAttribute("aria-expanded") !== "true";
     var antes = b.getBoundingClientRect().top;
+    var M = window.Mov;
     raiz.querySelectorAll('.acordeon[aria-expanded="true"]').forEach(function (o) {
       o.setAttribute("aria-expanded", "false"); o.querySelector("span").textContent = "Ver justificación";
-      document.getElementById(o.getAttribute("aria-controls")).hidden = true;
+      var j = document.getElementById(o.getAttribute("aria-controls"));
+      /* La que se cierra por debajo del botón pulsado se anima; las de otras preguntas se cierran de golpe, para que el botón no se mueva. */
+      if (o === b && M) M.cerrar(j); else j.hidden = true;
     });
     if (abrir) {
       b.setAttribute("aria-expanded", "true"); b.querySelector("span").textContent = "Ocultar justificación";
-      document.getElementById(b.getAttribute("aria-controls")).hidden = false;
+      var dentro = document.getElementById(b.getAttribute("aria-controls"));
+      if (M) M.abrir(dentro); else dentro.hidden = false;
     }
     var dif = b.getBoundingClientRect().top - antes;
     if (!dif) return;
     var zona = b.closest(".lista-preg");
     if (zona) zona.scrollTop += dif;
     else window.scrollTo({ top: window.scrollY + dif, behavior: "instant" });
+  }
+  /* Temas, grupos y bloques de apuntes: se abren y cierran en su sitio, sin repintar la pantalla. */
+  function alternarTema(b, v) {
+    var abrir = b.getAttribute("aria-expanded") !== "true", dentro = document.getElementById(b.getAttribute("aria-controls"));
+    temasAbiertos[v] = abrir;
+    b.setAttribute("aria-expanded", abrir);
+    if (!dentro) return;
+    if (window.Mov) { if (abrir) window.Mov.abrir(dentro); else window.Mov.cerrar(dentro); }
+    else dentro.hidden = !abrir;
   }
   function repintarInicio(selector) {
     var y = window.scrollY; pintar(); window.scrollTo(0, y);
@@ -815,6 +1024,7 @@
     }
     else if (a === "bloque") ajustes.bloques = lista(ajustes.bloques, c.value, c.checked);
     else if (a === "origen") ajustes.origenes = lista(ajustes.origenes, c.value, c.checked);
+    else if (a === "soloClave") ajustes.soloClave = c.checked;
     else if (a === "n") ajustes.n = +c.value;
     else if (a === "tiempo") ajustes.tiempo = c.value;
     else if (a === "caso") ajustes.caso = c.value;
@@ -828,7 +1038,7 @@
     setTimeout(function () { repintarInicio(sel); }, 0);
   }
   function teclas(e) {
-    if (!ses || ses.fin || ses.parado || ses.modo !== "examen" || dialogo.open) return;
+    if (!ses || ses.fin || ses.parado || ses.modo !== "examen" || dialogo.open || ocupado) return;
     if (e.ctrlKey || e.metaKey || e.altKey) return;
     var k = e.key.toLowerCase(), i = LETRAS.indexOf(k);
     var p = PREGUNTAS[ses.ids[ses.pos]];
@@ -839,7 +1049,8 @@
   dialogo.addEventListener("click", clic);
   dialogo.addEventListener("close", function () { saliendo = false; });
   raiz.addEventListener("change", cambio);
+  raiz.addEventListener("input", function (e) { if (e.target.dataset && e.target.dataset.a === "busca-apuntes") buscarApuntes(e.target.value); });
   document.addEventListener("keydown", teclas);
   window.addEventListener("pagehide", guardarSesion);
-  pintar();
+  pintar("entrar");
 })();
