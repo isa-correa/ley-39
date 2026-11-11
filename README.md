@@ -32,7 +32,9 @@ Los supuestos de cada tema salen en tres grupos: Ejercicios de clase, Exámenes 
 
 ## Apuntes
 
-La pantalla principal tiene tres pestañas: Examen, Supuestos y Apuntes. Apuntes está preparada pero vacía: todavía no hay esquemas. El mecanismo es el mismo que en el test de contratos (visor con zoom y arrastre, buscador por tema o por artículo, y el botón «Consultar apuntes» en la justificación de cada pregunta). Para llenarla hace falta generar `data/esquemas.js` con `window.ESQUEMAS`, `window.APUNTES` y `window.ESQ_PREG`, las imágenes en `img/esquemas/`, y añadir su línea en `index.html`. Mientras no exista, la pestaña lo avisa y el botón no aparece.
+La pantalla principal tiene tres pestañas: Examen, Supuestos y Apuntes. Apuntes muestra los esquemas ordenados como el temario, con visor de zoom y arrastre, buscador por tema o por artículo y el botón «Consultar apuntes» en la justificación de las preguntas que tienen esquema.
+
+Los esquemas son PDF en `tools/apuntes/`. `python3 tools/esquemas.py` (necesita PyMuPDF) los pasa a imágenes en `img/esquemas/` y genera `data/esquemas.js`. Para añadir uno, se mete el PDF, se da de alta en `ESQ` (título, artículos y bloque) y se listan en `PREGUNTAS` los ids de las preguntas que lo enseñan. Hoy hay uno: el art. 85 (terminación en los sancionadores).
 
 ## Movimiento
 

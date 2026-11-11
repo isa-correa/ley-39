@@ -499,56 +499,58 @@
   "precepto": "Art. 85.1 y 85.3 de la Ley 39/2015",
   "correcta": 1,
   "justificaciones": [
-   "No. 1.800 euros sería reconocer **y** pagar (40 % menos). Don Javier solo ha reconocido.",
-   "Es esta. Su sanción es únicamente de dinero y ha reconocido su responsabilidad, así que se resuelve imponiéndola con un 20 % menos (**art. 85.1 y 85.3**). El 20 % de 3.000 son 600, y quedan 2.400 euros. El caso dice que la normativa no sube ese porcentaje.",
-   "No. Es el importe sin reducción, y reconocer su responsabilidad le da derecho a un 20 % menos.",
-   "No. Eso es lo que produce el **pago** voluntario (art. 85.2). Reconocer no termina el procedimiento: permite resolverlo."
-  ]
+   "No. 1.800 euros es lo que paga quien **reconoce y paga**: son dos reducciones del 20 % que se suman (el 40 % de 3.000 son 1.200). Don Javier solo ha hecho una de las dos cosas, reconocer.",
+   "Es esta. Piensa para qué sirve el procedimiento: para comprobar si de verdad cometiste la infracción. Si tú mismo lo admites, queda poco que comprobar. Por eso el **art. 85.1** dice que, si el infractor reconoce su responsabilidad, se podrá resolver el procedimiento imponiendo la sanción que proceda. Y como la sanción de don Javier es solo de dinero, el **art. 85.3** le da por reconocer una reducción de al menos el 20 %: el 20 % de 3.000 son 600, y quedan 2.400 euros. El caso dice que la normativa no sube ese porcentaje, así que es justo el mínimo. Fíjate en que reconocer no cierra el expediente: la Administración sigue y dicta una resolución que impone esos 2.400 euros.",
+   "No. 3.000 euros es la sanción propuesta, sin descuento. Reconocer la responsabilidad da derecho a un 20 % menos (**art. 85.3**), y la sanción de don Javier es solo de dinero, así que el descuento le corresponde.",
+   "No. Eso es lo que produce **pagar** (**art. 85.2**), no reconocer. Reconocer solo permite resolver el procedimiento imponiendo la sanción. Es la trampa del ejercicio: tres opciones hablan de resolver y esta de terminar, que son efectos distintos."
+  ],
+  "ojo": "En la ley son dos verbos distintos: al reconocer, “se podrá resolver” (el procedimiento sigue hasta la resolución). Al pagar, “implicará la terminación” (el procedimiento acaba en ese momento)."
  },
  "pr-17-002": {
   "bloque": "finalizacion",
   "precepto": "Art. 85.2 de la Ley 39/2015",
   "correcta": 3,
   "justificaciones": [
-   "No. Es el importe si hubiera reconocido y pagado, y además la pregunta no va del importe.",
-   "No. 2.400 euros es lo que acabaría pagando, pero la pregunta va de la consecuencia del pago.",
-   "No. No se resuelve con la sanción completa.",
-   "Es esta, y es casi literal del **art. 85.2**. Doña Laura paga antes de la resolución sin reconocer nada, y su sanción es solo de dinero, así que el procedimiento termina."
+   "No. 1.800 euros sería un 40 % menos, lo que consigue quien reconoce **y** paga. Doña Laura solo paga. Además, la pregunta no va del importe sino de la consecuencia del pago.",
+   "No. 2.400 euros sí es lo que paga doña Laura (3.000 menos el 20 % por pagar), pero esta opción dice que el pago permite resolver el procedimiento imponiendo una sanción. Eso es lo que ocurre al **reconocer** (**art. 85.1**). Pagar hace algo más fuerte: lo termina.",
+   "No. 3.000 euros es la sanción sin descuento, y el pago no lleva a una resolución sancionadora: la evita.",
+   "Es esta. El **art. 85.2** dice que el pago voluntario antes de la resolución implica la terminación del procedimiento. Doña Laura ha pagado sus 2.400 euros (3.000 menos el 20 % que da pagar) y ya no hace falta resolver nada: se acaba ahí. Fíjate en que no reconoce nada y aun así le sirve: se puede reconocer, pagar o hacer las dos cosas, cada una por separado. Lo único que sobrevive al pago es lo que no depende de la multa: reponer la situación alterada e indemnizar los daños y perjuicios. El profe lo explicaba con una cacería sin permiso: si se hizo un gran agujero en la tierra, hay que dejarla como estaba, y si se mataron jabalíes, hay que indemnizar el daño a la fauna. Pagar la multa no te libra de eso."
   ],
-  "ojo": "Reconocer, “se podrá resolver”. Pagar, “implicará la terminación”. Son consecuencias diferentes."
+  "ojo": "Pagar termina el procedimiento, pero no la obligación de reponer la situación alterada ni de indemnizar los daños y perjuicios."
  },
  "pr-17-003": {
   "bloque": "finalizacion",
   "precepto": "Art. 85.2 y 85.3 de la Ley 39/2015",
   "correcta": 2,
   "justificaciones": [
-   "No. Es el importe sin reducción, y a don Marcos le corresponde reducción.",
-   "No. Aplica un solo 20 %, y él ha hecho las dos cosas: reconocer y pagar.",
-   "Es esta. Aunque se valoró la suspensión, el órgano **justificó que no procedía**, así que queda como solo de dinero (art. 85.2). Reconoce y paga, y las reducciones se acumulan (**art. 85.3**): 40 % de 5.000 son 2.000, y quedan 3.000 euros.",
-   "No. Sería un 50 %, y el caso dice que no hay reducciones por encima de las mínimas."
+   "No. 5.000 euros es la propuesta sin descuento. Don Marcos sí tiene derecho a reducción: aunque se valoró una suspensión, el órgano justificó que no procedía, y la sanción se queda en solo dinero.",
+   "No. 4.000 euros sería aplicar un solo 20 %. Don Marcos ha hecho las dos cosas, reconocer y pagar, y cada una da su 20 % (**art. 85.3**: son acumulables entre sí).",
+   "Es esta. Se hace en tres pasos. **Primero, la puerta de entrada**: las reducciones solo valen si la sanción es únicamente de dinero. A don Marcos se le valoró también una suspensión, pero el órgano justificó que no procedía, así que queda como solo de dinero (**art. 85.2**). **Segundo**, reconoce (20 %) y paga (20 %), y las reducciones se acumulan (**art. 85.3**): 40 % en total. **Tercero, la cuenta**: el 40 % de 5.000 son 2.000, y 5.000 menos 2.000 son 3.000 euros. Y como ha pagado, el procedimiento termina ahí.",
+   "No. 2.500 euros sería un 50 %. La ley fija el 20 % como mínimo por cada acción, y el caso dice que la normativa no lo sube: el total es el 40 %."
   ],
-  "ojo": "Es la clave del caso: que la sanción no pecuniaria se quede fuera es lo que abre la puerta a la reducción."
+  "ojo": "La clave del caso es la suspensión que no procede: que el órgano justifique que no se impone es lo que abre la puerta a la reducción. Compáralo con don Sergio, el siguiente."
  },
  "pr-17-004": {
   "bloque": "finalizacion",
   "precepto": "Art. 85.3 de la Ley 39/2015",
   "correcta": 0,
   "justificaciones": [
-   "Es esta. A don Sergio le proponen dinero **y** suspensión, y nadie ha justificado que la suspensión no proceda. Las reducciones son solo para sanciones de carácter únicamente pecuniario (**art. 85.3**), así que paga los 6.000 euros completos.",
-   "No. Sería aplicarle un 20 % al que no tiene derecho.",
-   "No. Sería aplicarle el 40 % de quien reconoce y paga, pero su sanción no es solo de dinero.",
-   "No. Sería un 50 %, que no aparece en ningún sitio."
-  ]
+   "Es esta. A don Sergio le proponen dinero **y** una suspensión de seis meses, y nadie ha justificado que esa suspensión no proceda. Las reducciones del **art. 85.3** solo se aplican si la sanción es únicamente pecuniaria, y la suya no lo es. Por eso, aunque reconozca y pague, no hay descuento: son los 6.000 euros completos, más la suspensión. Es el ejemplo que ponía el profe: multa de 10.000 euros y seis meses sin poder cazar son dos sanciones, y mientras quede la que no es de dinero, no hay reducción. Tampoco le sirve el pago para terminar el procedimiento: sigue hasta la resolución, que impone ambas sanciones.",
+   "No. 4.800 euros sería un 20 % menos. Ese descuento es para quien tiene una sanción solo de dinero, y don Sergio tiene también suspensión.",
+   "No. 3.600 euros sería el 40 % de quien reconoce y paga, pero ese 40 % solo se da si la sanción es únicamente pecuniaria (**art. 85.3**).",
+   "No. 3.000 euros sería un 50 %, una cifra que no aparece en el **art. 85**."
+  ],
+  "ojo": "Que reconozca y pague no basta. Antes de calcular nada, mira si queda alguna sanción que no sea de dinero: si queda, cero reducciones."
  },
  "pr-17-005": {
   "bloque": "finalizacion",
   "precepto": "Art. 85.3 de la Ley 39/2015",
   "correcta": 3,
   "justificaciones": [
-   "No. La renuncia es solo en vía **administrativa**. A los tribunales se puede ir siempre.",
-   "No. Los tres que se benefician de reducción renuncian al recurso en vía administrativa.",
-   "No. Está al revés.",
-   "Es esta. La reducción está condicionada a renunciar a cualquier acción o recurso “en vía administrativa” (**art. 85.3**). Javier, Laura y Marcos tienen reducción y renuncian a ello. Sergio no tiene reducción, así que conserva el recurso administrativo. Y todos pueden ir a los tribunales."
+   "No. La renuncia solo alcanza a la vía **administrativa**, la de los recursos ante la propia Administración. La vía judicial, ante los tribunales, no se toca: el **art. 85.3** no la menciona y por eso sigue abierta para todos.",
+   "No. Tres de los cuatro tienen reducción, y la reducción tiene un precio: desistir o renunciar a cualquier acción o recurso en vía administrativa contra la sanción (**art. 85.3**). Esos tres no pueden recurrir en vía administrativa.",
+   "No. Está al revés: la vía que se cierra con la reducción es la administrativa, nunca la judicial.",
+   "Es esta. La reducción es un trato: te rebajan la multa y, a cambio, renuncias a recurrir ante la propia Administración (**art. 85.3**). Javier, Laura y Marcos reciben reducción, así que renuncian a la vía administrativa y solo les queda ir a los tribunales. Sergio no recibe reducción, no paga ese precio y conserva las dos vías. Por eso el que se lleva la rebaja se va contento, pero ya no puede presentar recurso administrativo. Lo que sí pueden todos es acudir a la vía judicial."
   ]
  },
  "pr-30-001": {
