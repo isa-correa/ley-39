@@ -470,7 +470,7 @@
   }
   function encaja(id, bloque) {
     if (!busqueda.trim()) return true;
-    var e = ESQUEMAS[id], texto = sinTildes(e.titulo + " " + bloque.nombre), nums = numerosDe(e.a);
+    var e = ESQUEMAS[id], texto = sinTildes(e.titulo + " " + bloque.nombre), nums = numerosDe(e.a).concat(numerosDe(e.mas));
     return sinTildes(busqueda).split(/\s+/).filter(Boolean).every(function (t) {
       return /^\d+$/.test(t) ? nums.indexOf(+t) >= 0 || new RegExp("\\b" + t + "\\b").test(texto) : texto.indexOf(t) >= 0;
     });
