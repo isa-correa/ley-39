@@ -4,83 +4,84 @@
  "precepto": "Art. 21.3.b) de la Ley 39/2015",
  "correcta": 1,
  "justificaciones": [
-  "No. El 4 de marzo es cuando don Álvaro presenta en el registro de la Junta. Esa presentación es válida (art. 16.4.a), pero el reloj de la Administración que debe resolver aún no corre, porque la Junta no es la competente.",
-  "Es esta. En los procedimientos a solicitud del interesado, el plazo se cuenta desde que la solicitud entra en el registro electrónico de la Administración **competente para tramitarla** (**art. 21.3.b**). La competente es la Dirección General, del Estado, y allí entró el 6 de marzo.",
-  "No. El requerimiento del 11 de marzo no pone en marcha el plazo. Lo que puede hacer es suspenderlo mientras se subsana (art. 22.1.a), pero el punto de partida sigue siendo el 6 de marzo.",
-  "No. Subsanar la falta de unos documentos no cambia la fecha de inicio del cómputo. Solo tiene ese efecto la subsanación de quien, estando obligado a ir por vía electrónica, presentó en papel (art. 68.4), y este no es el caso de la primera solicitud."
+  "No. El 4 de marzo es el día en que don Álvaro deja la solicitud en el registro de la Junta de Castilla y León. Presentar allí es válido (art. 16.4), pero la Junta no es quien tramita este procedimiento. Si lo fuera, esta sería la fecha. Como tramita el Estado, el reloj de la Administración todavía no ha arrancado.",
+  "Es esta. En un procedimiento que empieza a petición del interesado, el plazo para resolver se cuenta desde que la solicitud **entra en el registro electrónico de la Administración u organismo competente para tramitarla** (**art. 21.3.b**). Aquí quien tramita es la Dirección General de Programas Industriales, que es del Estado, y a su registro llega el **6 de marzo**. Piénsalo como una carta: sale el día 4, pero el plazo de quien tiene que contestar corre desde que la carta llega a su mesa.",
+  "No. El 11 de marzo es el día en que la Administración pide que se subsane. Ese requerimiento llega cuando la solicitud ya está dentro, así que no puede ser el punto de partida. Lo único que hace es parar el reloj mientras se subsana (art. 22.1.a), pero la fecha de inicio sigue siendo el 6 de marzo.",
+  "No. Subsanar la falta de unos documentos no cambia la fecha de inicio. Solo mueve la fecha la subsanación de quien estaba obligado a presentar por vía electrónica y lo hizo en papel (art. 68.4), y eso le pasa a la tercera solicitud, no a la primera."
  ],
- "ojo": "Dos fechas distintas: una es cuándo presentas (4 de marzo) y otra cuándo le llega a quien tiene que resolver (6 de marzo). El plazo para resolver cuenta desde la segunda."
+ "ojo": "Distingue dos fechas: cuándo la presentas (4 de marzo) y cuándo llega a quien tiene que tramitarla (6 de marzo). El plazo cuenta desde la segunda. Si la competente fuera la Junta de Castilla y León, contaría el 4."
 },
 "pr-16-002": {
  "bloque": "iniciacion",
  "precepto": "Art. 68.1 y 68.2 de la Ley 39/2015",
  "correcta": 2,
  "justificaciones": [
-  "No. Los diez días son correctos, pero “no ampliables” falla. Esta solicitud no es de un procedimiento selectivo ni de concurrencia competitiva y los documentos presentan dificultades especiales, así que se puede ampliar (art. 68.2).",
-  "No. El plazo base es de diez días, no de quince. Quince es a lo que se puede llegar como máximo: diez más los cinco de ampliación.",
-  "Es esta. El plazo para subsanar es de **diez días** (**art. 68.1**) y se puede ampliar prudencialmente **hasta cinco días** cuando aportar los documentos presente dificultades especiales (**art. 68.2**). Es justo lo que pasa con don Álvaro, y su solicitud de reconocimiento de un proyecto no es un procedimiento selectivo ni de concurrencia competitiva.",
-  "No. El art. 68 no prevé veinte días. Lo máximo que permite es diez más cinco, es decir, quince."
+  "No. Los diez días están bien, pero “no ampliables” falla. La ampliación solo se prohíbe en procedimientos selectivos y de concurrencia competitiva, y el reconocimiento de un proyecto de modernización no es ninguno de los dos. Los documentos, además, presentan dificultades especiales, así que sí se puede ampliar (art. 68.2).",
+  "No. El plazo base es de diez días, no de quince. Quince es el máximo al que se puede llegar: diez más cinco de ampliación. Esta opción confunde el tope con el plazo de partida.",
+  "Es esta. Se resuelve en dos pasos. Primero, el plazo para subsanar es de **diez días** (**art. 68.1**). Segundo, se puede ampliar **prudencialmente hasta cinco días más** (**art. 68.2**) si se cumplen dos condiciones: que aportar los documentos presente dificultades especiales (aquí sí) y que no sea un procedimiento selectivo ni de concurrencia competitiva (aquí tampoco lo es).",
+  "No. El art. 68 no prevé veinte días en ningún caso. Lo máximo que permite es diez más cinco, es decir, quince."
  ],
- "ojo": "Compárala con la pregunta de la segunda solicitud: mismas dificultades especiales, pero allí hay concurrencia competitiva y no cabe ampliar."
+ "ojo": "Cuando veas “dificultades especiales”, no marques la ampliación sin más: mira también qué tipo de procedimiento es. Compárala con la segunda solicitud, donde las dificultades son las mismas pero hay concurrencia competitiva y no se amplía."
 },
 "pr-16-003": {
  "bloque": "iniciacion",
  "precepto": "Art. 68.1 de la Ley 39/2015",
  "correcta": 3,
  "justificaciones": [
-  "No. El procedimiento no queda parado a la espera de que los documentos lleguen algún día. El plazo para resolver se puede suspender, pero como mucho por el plazo concedido para subsanar (art. 22.1.a), y si no subsana se le tiene por desistido.",
-  "No. La caducidad es otra cosa: se da cuando el procedimiento se paraliza por culpa del interesado, previa advertencia de que pasados tres meses caducará (art. 95.1). Para no subsanar la solicitud, la consecuencia es el desistimiento.",
-  "No. Decaer en el derecho al trámite es lo que pasa cuando no se cumple un trámite durante la instrucción (art. 73.3). Aquí falla la propia solicitud, así que se aplica el art. 68.",
-  "Es esta. El requerimiento avisa de que, si no subsana, se le **tendrá por desistido** de su petición, previa resolución dictada en los términos del art. 21 (**art. 68.1**). Es decir, si don Álvaro no aporta los documentos a tiempo, se entiende que abandona lo que pidió, y la Administración lo declara por escrito."
+  "No. El procedimiento no se queda esperando a que los documentos lleguen algún día. El plazo para resolver solo se para mientras dura el plazo de subsanación (art. 22.1.a), y si pasa sin que se subsane se acaba el procedimiento: se tiene al interesado por desistido.",
+  "No. La caducidad es otra cosa: se produce cuando un procedimiento ya iniciado se paraliza por culpa del interesado, y solo tras avisarle de que pasados tres meses caducará (art. 95.1). Aquí no hay un procedimiento parado: la solicitud ni siquiera está completa. La consecuencia de no completarla es el desistimiento.",
+  "No. “Decaído en su derecho al trámite” es lo que ocurre en el art. 73, cuando se deja pasar un trámite de la instrucción con la solicitud ya admitida. Aquí no falla un trámite: falla la propia solicitud, y entonces se aplica el art. 68.",
+  "Es esta. El requerimiento avisa de que, si no se subsana, **se le tendrá por desistido de su petición, previa resolución** dictada en los términos del art. 21 (**art. 68.1**). Es decir, se entiende que don Álvaro abandona lo que pidió, y la Administración tiene que decirlo por escrito en una resolución: no basta con meter el expediente en un cajón. Si su derecho no ha prescrito, podrá volver a pedirlo con una solicitud nueva."
  ],
- "ojo": "Para recordarlo: solicitud sin subsanar, desistimiento (art. 68). Trámite sin cumplir, decaimiento (art. 73)."
+ "ojo": "Lo que hay que fijar es que la solicitud es sagrada: si no está perfecta, el procedimiento no puede continuar. Hay tres caminos: está bien y se inicia, está mal y se subsana, o está mal y no se subsana (desistimiento, art. 68). Ejemplo: pides abrir un pozo en tu finca y no aportas el documento que acredita que la finca es tuya. Si no lo aportas en diez días, se acabó."
 },
 "pr-16-004": {
  "bloque": "instruccion",
  "precepto": "Art. 73.1 de la Ley 39/2015",
  "correcta": 0,
  "justificaciones": [
-  "Es esta. Los trámites que tiene que cumplir el interesado se hacen en **diez días**, contados desde el siguiente a la notificación, salvo que la norma fije otro plazo (**art. 73.1**). El supuesto no menciona ningún plazo especial, así que don Álvaro tiene diez días para sus aclaraciones.",
+  "Es esta. Los trámites que tiene que cumplir el interesado se hacen en **diez días**, contados desde el día siguiente a la notificación, salvo que la norma aplicable fije otro plazo (**art. 73.1**). El supuesto no menciona ningún plazo especial, así que don Álvaro tiene diez días para sus aclaraciones. Fíjate en que aquí ya no hablamos de la solicitud: está admitida y el expediente ha avanzado. Es un trámite más de la instrucción, como cuando te dan diez días para justificar mejor cuánta agua necesitas para tu pozo.",
   "No. El art. 73 no dice quince días. Quince es el tope del trámite de audiencia, que va de diez a quince días (art. 82.2), y aquí no estamos en ese trámite.",
   "No. El art. 73 no habla de veinte días. Su plazo general es de diez, y el supuesto no da ninguna norma especial que lo cambie.",
-  "No. El art. 73 cuenta en días, no en meses: diez días, salvo que otra norma diga algo distinto, y aquí ninguna lo dice."
- ]
+  "No. El art. 73 cuenta en días, no en meses. Un mes es un plazo que aparece en otros sitios, por ejemplo en el recurso de reposición, pero no aquí."
+ ],
+ "ojo": "Los dos plazos de diez días se parecen mucho y por eso se confunden. El del art. 68 sirve para arreglar la solicitud (y se puede ampliar). El del art. 73 sirve para cumplir un trámite cuando la solicitud ya estaba bien (y no se amplía)."
 },
 "pr-16-005": {
  "bloque": "instruccion",
  "precepto": "Art. 73.3 de la Ley 39/2015",
  "correcta": 3,
  "justificaciones": [
-  "No. No cumplir un trámite que no sea indispensable para resolver no provoca la caducidad: solo hace perder el derecho a ese trámite (art. 95.2). Además, la caducidad exige que el procedimiento se paralice y una advertencia previa de tres meses (art. 95.1).",
-  "No. Tener por desistido es la consecuencia de no subsanar la solicitud (art. 68.1). Aquí la solicitud ya está admitida y lo que no se cumple es un trámite posterior.",
+  "No. No cumplir un trámite que no sea indispensable para resolver no provoca la caducidad, solo hace perder el derecho a ese trámite (art. 95.2). Además, la caducidad exige que el procedimiento se paralice y una advertencia previa de tres meses (art. 95.1).",
+  "No. Tener por desistido es la consecuencia de no subsanar la solicitud (art. 68.1). Aquí la solicitud ya está admitida y lo que no se cumple es un trámite posterior, así que lo grave no se aplica.",
   "No. El art. 73.3 no ordena archivar nada. El procedimiento sigue adelante sin las aclaraciones de don Álvaro. El archivo va ligado a otros casos, como la caducidad (art. 95.1).",
-  "Es esta. A quien no cumple un trámite en plazo se le **podrá declarar decaído en su derecho a ese trámite** (**art. 73.3**). Dicho fácil: don Álvaro pierde la oportunidad de hacer esas aclaraciones, pero el procedimiento continúa."
+  "Es esta. A quien no cumple un trámite en plazo **se le podrá declarar decaído en su derecho a ese trámite** (**art. 73.3**). En cristiano: don Álvaro pierde la oportunidad de hacer sus aclaraciones, pero el procedimiento continúa y se resolverá igual. Es como el pozo: si no justificas por qué necesitas tanta agua, no te desisten, simplemente es probable que te concedan menos de lo que pedías."
  ],
- "ojo": "Aunque se le declare decaído, su actuación se admite y vale si la hace antes o dentro del día en que se le notifique la resolución que da por pasado el plazo (art. 73.3)."
+ "ojo": "Aunque se le declare decaído, si presenta su actuación antes o dentro del día en que se le notifique la resolución que da por pasado el plazo, se admite y produce efectos (art. 73.3). Para no mezclarlos: solicitud sin arreglar, desistimiento (art. 68). Trámite sin cumplir, decaimiento (art. 73)."
 },
 "pr-16-006": {
  "bloque": "iniciacion",
  "precepto": "Art. 68.1 y 68.2 de la Ley 39/2015",
  "correcta": 0,
  "justificaciones": [
-  "Es esta. El plazo es de **diez días** (art. 68.1), y la posibilidad de ampliarlo solo existe “siempre que no se trate de procedimientos selectivos o de concurrencia competitiva” (**art. 68.2**). Esta convocatoria de ayudas va en concurrencia competitiva, es decir, los solicitantes compiten entre sí, así que no se puede ampliar aunque haya dificultades especiales.",
+  "Es esta. El plazo es de **diez días** (art. 68.1), y la ampliación de cinco días solo existe “siempre que no se trate de procedimientos selectivos o de concurrencia competitiva” (**art. 68.2**). Esta convocatoria de ayudas se tramita en concurrencia competitiva, es decir, los solicitantes compiten entre sí, así que **no se puede ampliar** aunque aportar los documentos presente dificultades especiales. Si se diera más tiempo a uno, se le daría ventaja frente a los demás.",
   "No. El plazo base es de diez días, no de quince, y aquí no cabe ampliación alguna por ser concurrencia competitiva.",
-  "No. Esta sería la respuesta en la primera solicitud. En la segunda, la concurrencia competitiva impide la ampliación, por muchas dificultades especiales que tenga aportar los documentos (art. 68.2).",
+  "No. Esta sería la respuesta de la primera solicitud, que no es competitiva. En la segunda, la concurrencia competitiva impide ampliar el plazo, por muchas dificultades que haya (art. 68.2).",
   "No. El art. 68 no prevé veinte días. El plazo es de diez, y en este procedimiento no se puede ampliar."
  ],
- "ojo": "La trampa es que el supuesto repite “dificultades especiales” para que marques la ampliación. Lo que decide es el tipo de procedimiento: en concurrencia competitiva no se amplía, porque se daría ventaja a un solicitante frente a los demás."
+ "ojo": "La trampa es que el supuesto vuelve a decir “dificultades especiales” para que marques la ampliación. Lo que decide es el tipo de procedimiento. Primera solicitud: diez más cinco. Segunda solicitud (concurrencia competitiva): diez y nada más."
 },
 "pr-16-007": {
  "bloque": "plazos",
- "precepto": "Arts. 21.3, 68.4 y 30.4 y 30.5 de la Ley 39/2015",
+ "precepto": "Arts. 21.3, 68.4, 30.4 y 30.5 de la Ley 39/2015",
  "correcta": 2,
  "justificaciones": [
-  "No. Sale de contar tres meses desde el 4 de marzo, la fecha de la presentación en papel. Pero TecnoMotores, como persona jurídica, debe ir por vía electrónica (art. 14.2), así que esa presentación no marca la fecha: cuenta la de la subsanación, el 13 de marzo (art. 68.4).",
-  "No. El 13 de junio es el día en que acaban los tres meses, pero cae en sábado, que es inhábil. Cuando el último día es inhábil, el plazo se alarga al primer día hábil siguiente (art. 30.5).",
-  "Es esta. TecnoMotores está obligada a ir por vía electrónica (art. 14.2), así que la fecha de presentación es la de la subsanación, el 13 de marzo (**art. 68.4**). Sin plazo en la norma reguladora, son **tres meses** (**art. 21.3**), y de fecha a fecha acaban el sábado 13 de junio (art. 30.4). Como es inhábil, pasa al **lunes 15 de junio** (**art. 30.5**).",
-  "No. Sale de contar seis meses desde el 4 de marzo. Los seis meses son el tope que puede fijar una norma reguladora sin rango de ley (art. 21.2), pero si la norma no fija plazo son tres, y además la fecha de partida no es el 4 de marzo."
+  "No. Sale de contar tres meses desde el 4 de marzo, el día de la presentación en papel. Pero TecnoMotores es una persona jurídica y debe relacionarse por vía electrónica (art. 14.2), así que esa presentación en papel no vale como fecha. Se considera presentada el día en que se subsana, el 13 de marzo (art. 68.4).",
+  "No. El 13 de junio es donde acaban los tres meses contados desde el 13 de marzo, pero ese día es sábado, que es inhábil. Cuando el último día es inhábil, el plazo pasa al primer día hábil siguiente (art. 30.5).",
+  "Es esta. Se resuelve en cuatro pasos. Uno: TecnoMotores está obligada a ir por vía electrónica (art. 14.2), así que la fecha de presentación es la de la subsanación, el viernes **13 de marzo** (**art. 68.4**). Dos: la norma no fija plazo, así que son **tres meses** (**art. 21.3**). Tres: los meses se cuentan de fecha a fecha, y acaban el sábado 13 de junio (art. 30.4). Cuatro: como es inhábil, pasa al **lunes 15 de junio** (**art. 30.5**).",
+  "No. Sale de contar seis meses desde el 4 de marzo. Seis meses es el tope que puede fijar una norma reguladora sin rango de ley (art. 21.2), pero si la norma no dice nada son tres. Y la fecha de partida tampoco es el 4 de marzo."
  ],
- "ojo": "Fechas clave: en papel, 4 de marzo (no vale); subsanación, viernes 13 de marzo; tres meses, sábado 13 de junio; último día, lunes 15 de junio. No confundas esta subsanación, que sí cambia la fecha, con la de la falta de documentos, que no la cambia."
+ "ojo": "Cadena de fechas: papel el 4 de marzo (no vale), subsanación el viernes 13 de marzo, tres meses hasta el sábado 13 de junio, último día el lunes 15 de junio. No confundas esta subsanación, que sí mueve la fecha de presentación, con la de la falta de documentos de la primera solicitud, que no la mueve."
 },
 "pr-18-001": {
  "bloque": "plazos",
