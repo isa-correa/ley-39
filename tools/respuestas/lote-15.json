@@ -9,7 +9,7 @@
     "No. El art. 109.2 no pide el consentimiento de nadie. Corregir una errata no cambia el fondo del acto, así que el Ayuntamiento puede hacerlo sin ese permiso.",
     "Es esta. El **art. 109.2** permite rectificar los errores materiales, de hecho o aritméticos “de oficio o a instancia de los interesados”. De oficio significa que lo hace el propio Ayuntamiento sin que nadie se lo pida; a instancia, que lo pide el interesado."
   ],
-  "ojo": "Rectificar errores es la vía más sencilla de la revisión: en cualquier momento, sin dictamen y sin consentimiento."
+  "ojo": "Rectificar errores es la vía más sencilla de la revisión: en cualquier momento, sin dictamen y sin consentimiento. En clase: error aritmético es que la subvención es 500 + 200 y pone 7.000 en vez de 700. Error material o de hecho es que pone «Carmona» en vez de «Cardona». Tiene que ser evidente y palmario. El error de derecho (interpretaste una norma de una manera y ahora de otra) no se rectifica: hay que ir a la nulidad, la lesividad o la revocación."
 },
 "of-10-004": {
   "bloque": "revision",
@@ -21,7 +21,7 @@
     "Es esta. El **art. 107.5** dice que, si el acto viene de una entidad local, declara la lesividad el Pleno de la Corporación o, si no lo hay, el órgano colegiado superior de la entidad.",
     "No. Los jueces de lo contencioso resuelven después la impugnación del acto, pero no declaran la lesividad. Esa declaración es un paso previo que hace la propia Administración (art. 107.1)."
   ],
-  "ojo": "Estado y Comunidades Autónomas: el órgano competente por la materia. Entidades locales: el Pleno."
+  "ojo": "Estado y Comunidades Autónomas: el órgano competente por la materia. Entidades locales: el Pleno. En clase: en la Administración Local la lesividad la declara el Pleno de la Corporación (o el órgano colegiado superior de la entidad), no el alcalde."
 },
 "of-10-005": {
   "bloque": "revision",
@@ -32,7 +32,8 @@
     "No. Se pueden revocar los actos de gravamen o desfavorables. Si el acto favorece al interesado y es anulable, la vía es la declaración de lesividad (art. 107).",
     "No. Dice justo lo contrario: los actos de gravamen son precisamente los que sí se pueden revocar.",
     "Es esta. El **art. 109.1** permite revocar “mientras no haya transcurrido el plazo de prescripción”. Revocar es dejar sin efecto un acto que perjudica al interesado, por ejemplo una sanción."
-  ]
+  ],
+  "ojo": "En clase: solo actos de gravamen o desfavorables. Si te ponen una multa que no procede, la Administración la revoca ella sola, sin jueces ni Consejo de Estado. Pero no puede revocarla «porque le caes bien»: sería una dispensa no permitida y contraria a la igualdad. Un acto favorable nunca se revoca sin más: si es nulo, art. 106, y si es anulable, art. 107. Del plazo de prescripción el profesor dice que no te lo van a preguntar, pregunta la literalidad."
 },
 "of-10-006": {
   "bloque": "revision",
@@ -44,7 +45,7 @@
     "No. Los máximos órganos rectores de los Organismos públicos revisan lo que dictan los órganos que dependen de ellos, no lo suyo (art. 111.c.2.º). Lo suyo lo revisa el órgano al que esté adscrito el Organismo.",
     "No. La parte de los Secretarios de Estado está bien, pero la de “sus propios actos” no. Los actos de los Ministros los revisa el Consejo de Ministros (art. 111.a)."
   ],
-  "ojo": "En el art. 111 solo el Consejo de Ministros revisa sus propios actos. Todos los demás órganos que cita el artículo revisan los de quien está por debajo."
+  "ojo": "En el art. 111 solo el Consejo de Ministros revisa sus propios actos. Todos los demás órganos que cita el artículo revisan los de quien está por debajo. En clase: la regla general es que revisa el órgano superior al que dictó el acto. El Consejo de Ministros no tiene a nadie por encima: revisa los suyos y los de los Ministros. El Ministro revisa los de los Secretarios de Estado y los de los órganos directivos de su Departamento que no dependen de una Secretaría de Estado. El Secretario de Estado revisa los de los órganos directivos que dependen de él."
 },
 "of-10-007": {
   "bloque": "revision",
@@ -56,7 +57,7 @@
     "No. La revocación es para actos de gravamen o desfavorables (art. 109.1). Este acto favorece al interesado.",
     "Es esta. El **art. 107.1** lo dice así: la Administración declara el acto lesivo para el interés público y después lo impugna ante la jurisdicción contencioso-administrativa. Lesivo significa que perjudica al interés de todos."
   ],
-  "ojo": "Favorable y anulable: primero lesividad, luego juez."
+  "ojo": "Favorable y anulable: primero lesividad, luego juez. En clase: la paradoja es que la Administración va al juez para anular un acto que dictó ella misma. Ejemplo: te dan una subvención valorando un mérito que no te correspondía. Es anulable, no nulo, y mientras el juez no lo anule sigues con tu subvención. Si va al juez sin declararlo lesivo antes, el juez le dirá que vuelva atrás."
 },
 "of-10-008": {
   "bloque": "revision",
@@ -67,7 +68,8 @@
     "No. Dejar sin efecto un acto desfavorable no exige declarar su anulabilidad. La ley da para eso una vía más sencilla: la revocación.",
     "Es esta. El **art. 109.1** permite revocar los actos de gravamen o desfavorables, siempre que eso no sea una dispensa o exención no permitida por las leyes. Tampoco puede ir contra la igualdad, el interés público o el ordenamiento jurídico.",
     "No. La declaración de nulidad exige que el acto incurra en una causa de nulidad del art. 47.1 (art. 106), y el enunciado solo dice que es desfavorable."
-  ]
+  ],
+  "ojo": "En clase: solo actos de gravamen o desfavorables. Si te ponen una multa que no procede, la Administración la revoca ella sola, sin jueces ni Consejo de Estado. Pero no puede revocarla «porque le caes bien»: sería una dispensa no permitida y contraria a la igualdad. Un acto favorable nunca se revoca sin más: si es nulo, art. 106, y si es anulable, art. 107. Del plazo de prescripción el profesor dice que no te lo van a preguntar, pregunta la literalidad."
 },
 "of-10-009": {
   "bloque": "revision",
@@ -78,7 +80,8 @@
     "No. Sería al revés. Los Secretarios de Estado están por debajo del Ministro y solo revisan lo de sus órganos directivos dependientes (art. 111.b.2.º).",
     "No. El art. 111 no da ninguna competencia de revisión al Presidente del Gobierno.",
     "Es esta. El **art. 111.a)** dice que el Consejo de Ministros revisa sus propios actos y disposiciones y los dictados por los Ministros."
-  ]
+  ],
+  "ojo": "En clase: la regla general es que revisa el órgano superior al que dictó el acto. El Consejo de Ministros no tiene a nadie por encima: revisa los suyos y los de los Ministros. El Ministro revisa los de los Secretarios de Estado y los de los órganos directivos de su Departamento que no dependen de una Secretaría de Estado. El Secretario de Estado revisa los de los órganos directivos que dependen de él."
 },
 "of-10-010": {
   "bloque": "revision",
@@ -90,7 +93,7 @@
     "Es esta. El **art. 106.1** dice que la revisión puede empezar “por iniciativa propia o a solicitud de interesado”. Aunque se llame “de oficio”, el ciudadano puede pedirla.",
     "No. Es justo al revés: hace falta dictamen favorable del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma, si lo hubiere."
   ],
-  "ojo": "Actos nulos: de oficio o a solicitud (art. 106.1). Disposiciones nulas: solo de oficio (art. 106.2)."
+  "ojo": "Actos nulos: de oficio o a solicitud (art. 106.1). Disposiciones nulas: solo de oficio (art. 106.2). En clase: el profesor lo marca como IMP. Solo vale para actos que han puesto fin a la vía administrativa o no se recurrieron en plazo, y la nulidad no prescribe. La Administración es la única que declara la nulidad, pero necesita el dictamen favorable del Consejo de Estado: no basta con pedirlo, tiene que estar de acuerdo."
 },
 "of-10-011": {
   "bloque": "revision",
@@ -101,7 +104,8 @@
     "No. Los Tribunales Superiores de Justicia son jueces. La revisión de oficio la hace la propia Administración.",
     "No. El art. 111 no menciona a las Comisiones Delegadas del Gobierno.",
     "No. El Consejo de Ministros revisa sus propios actos y los de los Ministros (art. 111.a), no los de los Secretarios de Estado."
-  ]
+  ],
+  "ojo": "En clase: la regla general es que revisa el órgano superior al que dictó el acto. El Consejo de Ministros no tiene a nadie por encima: revisa los suyos y los de los Ministros. El Ministro revisa los de los Secretarios de Estado y los de los órganos directivos de su Departamento que no dependen de una Secretaría de Estado. El Secretario de Estado revisa los de los órganos directivos que dependen de él."
 },
 "of-10-012": {
   "bloque": "revision",
@@ -113,7 +117,7 @@
     "No. El dictamen es necesario para declarar la nulidad, pero el art. 106.3 permite inadmitir la solicitud sin pedirlo.",
     "Es esta. El **art. 106.3** permite inadmitir sin dictamen en tres casos: la solicitud no se basa en una causa de nulidad del art. 47.1, carece manifiestamente de fundamento, o ya se han desestimado en cuanto al fondo otras sustancialmente iguales. La decisión debe ser motivada, es decir, explicando sus razones."
   ],
-  "ojo": "La opción correcta resume el artículo y se deja el “manifiestamente”. Aun así, es la única que recoge bien los tres casos."
+  "ojo": "La opción correcta resume el artículo y se deja el “manifiestamente”. Aun así, es la única que recoge bien los tres casos. En clase: el profesor lo marca como IMP. Todos los días llegan solicitudes sin pie ni cabeza (alegan incompetencia jerárquica, un defecto de forma o un trámite saltado, que no son causas de nulidad). El Consejo de Estado es uno solo, así que se inadmiten motivadamente, sin dictamen."
 },
 "of-10-013": {
   "bloque": "revision",
@@ -125,7 +129,7 @@
     "No. Eso es la rectificación de errores (art. 109.2), que además se puede hacer en cualquier momento, sin hablar de prescripción.",
     "No. El “nunca” lo estropea. La ley da varias vías, y el art. 109.1 permite expresamente revocar."
   ],
-  "ojo": "Revocar: actos desfavorables y con límite de prescripción. Rectificar: errores y en cualquier momento."
+  "ojo": "Revocar: actos desfavorables y con límite de prescripción. Rectificar: errores y en cualquier momento. En clase: solo actos de gravamen o desfavorables. Si te ponen una multa que no procede, la Administración la revoca ella sola, sin jueces ni Consejo de Estado. Pero no puede revocarla «porque le caes bien»: sería una dispensa no permitida y contraria a la igualdad. Un acto favorable nunca se revoca sin más: si es nulo, art. 106, y si es anulable, art. 107. Del plazo de prescripción el profesor dice que no te lo van a preguntar, pregunta la literalidad."
 },
 "of-10-014": {
   "bloque": "revision",
@@ -137,7 +141,7 @@
     "No. La “invalidez del procedimiento” no es una consecuencia que recoja el art. 106.5.",
     "Es esta. El **art. 106.5** dice que, si lo inició el interesado, “se podrá entender la misma desestimada por silencio administrativo”. Si no contestan, puede dar por rechazada su solicitud y seguir adelante con el recurso que proceda."
   ],
-  "ojo": "De oficio: caducidad. A solicitud: silencio desestimatorio."
+  "ojo": "De oficio: caducidad. A solicitud: silencio desestimatorio. En clase: el profesor lo marca como IMP. Seis meses en los dos casos: de oficio, caducidad. A solicitud del interesado, se entiende desestimada por silencio."
 },
 "of-10-015": {
   "bloque": "revision",
@@ -148,7 +152,8 @@
     "No. Tiene el plazo mal (un mes) y las formas de inicio cambiadas: la caducidad es de los iniciados de oficio y el silencio, de los iniciados a solicitud.",
     "No. Tiene el plazo mal (tres meses) y también cambiadas las formas de inicio. Solo un interesado presenta una solicitud que pueda desestimarse por silencio.",
     "Es esta. Es casi literal el **art. 106.5**: de oficio, seis meses sin resolución producen la caducidad; a solicitud de interesado, se puede entender desestimada por silencio."
-  ]
+  ],
+  "ojo": "En clase: el profesor lo marca como IMP. Seis meses en los dos casos: de oficio, caducidad. A solicitud del interesado, se entiende desestimada por silencio."
 },
 "of-11-001": {
   "bloque": "revision",
@@ -159,7 +164,8 @@
     "Es esta. El **art. 106.5** dice que en el procedimiento iniciado de oficio, pasados seis meses sin resolución, se produce la caducidad. Caducar significa que el procedimiento se acaba por haberse pasado el tiempo.",
     "No. El silencio desestimatorio es para el procedimiento iniciado a solicitud de interesado.",
     "No. Lo que caduca es el procedimiento. La prescripción afecta a derechos y acciones, no a la tramitación de un procedimiento."
-  ]
+  ],
+  "ojo": "En clase: el profesor lo marca como IMP. Seis meses en los dos casos: de oficio, caducidad. A solicitud del interesado, se entiende desestimada por silencio."
 },
 "of-11-002": {
   "bloque": "revision",
@@ -171,7 +177,7 @@
     "No. El plazo no es de un año, sino de cuatro.",
     "No. El plazo no es de tres años, sino de cuatro."
   ],
-  "ojo": "No confundas los cuatro años para declarar la lesividad con los seis meses para terminar su procedimiento antes de que caduque (art. 107.3)."
+  "ojo": "No confundas los cuatro años para declarar la lesividad con los seis meses para terminar su procedimiento antes de que caduque (art. 107.3). En clase: los 4 años son pregunta de examen. Que la declaración de lesividad no se recurre está marcado como IMP: todavía no te quita nada, solo es el presupuesto procesal para que el juez admita el caso. Antes hay que dar audiencia a los interesados (art. 82), y se les notifica solo a efectos informativos."
 },
 "of-11-003": {
   "bloque": "revision",
@@ -182,7 +188,8 @@
     "No. No cabe recurso, tampoco el potestativo de reposición.",
     "No. No se puede recurrir por separado ante los jueces. Lo que sí pueden hacer es examinarla como requisito previo dentro del proceso contra el acto.",
     "Es esta. El **art. 107.2** dice que “no será susceptible de recurso” y que puede notificarse a los interesados solo para informarles. Se explica porque es un paso previo: la discusión de verdad se hará ante el juez."
-  ]
+  ],
+  "ojo": "En clase: los 4 años son pregunta de examen. Que la declaración de lesividad no se recurre está marcado como IMP: todavía no te quita nada, solo es el presupuesto procesal para que el juez admita el caso. Antes hay que dar audiencia a los interesados (art. 82), y se les notifica solo a efectos informativos."
 },
 "of-11-004": {
   "bloque": "revision",
@@ -193,7 +200,8 @@
     "No. No es susceptible de recurso, y la notificación es una posibilidad a efectos informativos, no una obligación (art. 107.2).",
     "Es esta. El **art. 107.3** dice que, pasados seis meses desde que se inició el procedimiento sin declarar la lesividad, se produce la caducidad.",
     "No. Dice lo contrario: “no podrá” adoptarse una vez transcurridos cuatro años desde que se dictó el acto (art. 107.2)."
-  ]
+  ],
+  "ojo": "En clase: seis meses desde la iniciación sin declarar la lesividad y el procedimiento caduca. No lo mezcles con los 4 años desde que se dictó el acto."
 },
 "of-11-005": {
   "bloque": "revision",
@@ -204,7 +212,8 @@
     "No. El recurso extraordinario de revisión es para impugnar actos firmes en los casos del art. 125.1. No es el paso previo para que la Administración vaya a los tribunales.",
     "No. El trámite previo no es declarar la anulabilidad, sino la lesividad. Es el juez quien anula el acto, si procede.",
     "Es esta. El **art. 107.1** exige la declaración de lesividad para el interés público antes de impugnar ante lo contencioso-administrativo. Sin esa declaración, la Administración no puede ir a juicio contra su propio acto."
-  ]
+  ],
+  "ojo": "En clase: la paradoja es que la Administración va al juez para anular un acto que dictó ella misma. Ejemplo: te dan una subvención valorando un mérito que no te correspondía. Es anulable, no nulo, y mientras el juez no lo anule sigues con tu subvención. Si va al juez sin declararlo lesivo antes, el juez le dirá que vuelva atrás."
 },
 "of-11-006": {
   "bloque": "revision",
@@ -216,7 +225,7 @@
     "Es esta. El **art. 109.2** recoge los errores materiales, de hecho o aritméticos, “en cualquier momento, de oficio o a instancia de los interesados”. Por ejemplo, una suma mal hecha o un nombre mal escrito.",
     "No. Los actos de gravamen o desfavorables se revocan (art. 109.1), y además eso tiene el límite de la prescripción."
   ],
-  "ojo": "La palabra trampa es “de derecho”: la lista buena es materiales, de hecho o aritméticos."
+  "ojo": "La palabra trampa es “de derecho”: la lista buena es materiales, de hecho o aritméticos. En clase: error aritmético es que la subvención es 500 + 200 y pone 7.000 en vez de 700. Error material o de hecho es que pone «Carmona» en vez de «Cardona». Tiene que ser evidente y palmario. El error de derecho (interpretaste una norma de una manera y ahora de otra) no se rectifica: hay que ir a la nulidad, la lesividad o la revocación."
 },
 "of-11-007": {
   "bloque": "revision",
@@ -227,7 +236,8 @@
     "No. Falla en las dos cosas: la lesividad es para actos favorables y anulables. Un acto nulo va por la revisión del art. 106.",
     "No. Sobra “y desfavorables”. Los desfavorables se pueden revocar (art. 109.1) sin ir al juez.",
     "No. Sobra “nulos de pleno derecho”. Los nulos se revisan de oficio por la propia Administración (art. 106)."
-  ]
+  ],
+  "ojo": "En clase: la paradoja es que la Administración va al juez para anular un acto que dictó ella misma. Ejemplo: te dan una subvención valorando un mérito que no te correspondía. Es anulable, no nulo, y mientras el juez no lo anule sigues con tu subvención. Si va al juez sin declararlo lesivo antes, el juez le dirá que vuelva atrás."
 },
 "of-11-008": {
   "bloque": "revision",
@@ -238,7 +248,8 @@
     "No. Te han cambiado “desestimada” por “estimada”. Si callando se estimara, un acto nulo podría anularse sin dictamen ni resolución.",
     "No. Te han cambiado el plazo: la caducidad se produce a los seis meses, no a los tres.",
     "No. El plazo está bien, pero la consecuencia no. En el iniciado de oficio hay caducidad, no silencio desestimatorio."
-  ]
+  ],
+  "ojo": "En clase: el profesor lo marca como IMP. Seis meses en los dos casos: de oficio, caducidad. A solicitud del interesado, se entiende desestimada por silencio."
 },
 "of-11-009": {
   "bloque": "revision",
@@ -250,7 +261,7 @@
     "No. Los actos han de ser anulables, no nulos, y la declaración es de lesividad para el “interés público”.",
     "Es esta. Coincide con el **art. 107.1**: actos favorables, anulables y con declaración previa de lesividad para el interés público."
   ],
-  "ojo": "Fíjate en la expresión exacta: el art. 107 habla de “interés público”, no de “interés general”."
+  "ojo": "Fíjate en la expresión exacta: el art. 107 habla de “interés público”, no de “interés general”. En clase: la paradoja es que la Administración va al juez para anular un acto que dictó ella misma. Ejemplo: te dan una subvención valorando un mérito que no te correspondía. Es anulable, no nulo, y mientras el juez no lo anule sigues con tu subvención. Si va al juez sin declararlo lesivo antes, el juez le dirá que vuelva atrás."
 },
 "of-11-010": {
   "bloque": "revision",
@@ -261,7 +272,8 @@
     "No. El “solo de oficio” sobra: también se puede rectificar a petición de los interesados.",
     "No. El límite de la prescripción es de la revocación (art. 109.1). La rectificación se puede hacer en cualquier momento.",
     "No. Falla dos veces: no hay límite de prescripción y tampoco es “solo de oficio”."
-  ]
+  ],
+  "ojo": "En clase: error aritmético es que la subvención es 500 + 200 y pone 7.000 en vez de 700. Error material o de hecho es que pone «Carmona» en vez de «Cardona». Tiene que ser evidente y palmario. El error de derecho (interpretaste una norma de una manera y ahora de otra) no se rectifica: hay que ir a la nulidad, la lesividad o la revocación."
 },
 "of-12-004": {
   "bloque": "recursos",

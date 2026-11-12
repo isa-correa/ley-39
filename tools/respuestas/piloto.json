@@ -381,7 +381,8 @@
    "Es esta. El **art. 107.2** fija **cuatro años** desde que se dictó el acto. Después hay otro plazo: seis meses desde que se inicia el procedimiento, o caduca (art. 107.3).",
    "No. Es menos de lo que dice la ley.",
    "No. Es menos de lo que dice la ley."
-  ]
+  ],
+  "ojo": "En clase: los 4 años son pregunta de examen. Que la declaración de lesividad no se recurre está marcado como IMP: todavía no te quita nada, solo es el presupuesto procesal para que el juez admita el caso. Antes hay que dar audiencia a los interesados (art. 82), y se les notifica solo a efectos informativos."
  },
  "of-10-002": {
   "bloque": "revision",
@@ -392,7 +393,8 @@
    "No. “Siempre” sobra, y además el plazo de prescripción sí es un límite.",
    "No. Dice lo contrario: tiene que ser **mientras no haya transcurrido** el plazo.",
    "No. Mezcla dos figuras. Los errores materiales o de hecho se rectifican en cualquier momento (art. 109.2), pero eso no es revocar."
-  ]
+  ],
+  "ojo": "En clase: solo actos de gravamen o desfavorables. Si te ponen una multa que no procede, la Administración la revoca ella sola, sin jueces ni Consejo de Estado. Pero no puede revocarla «porque le caes bien»: sería una dispensa no permitida y contraria a la igualdad. Un acto favorable nunca se revoca sin más: si es nulo, art. 106, y si es anulable, art. 107. Del plazo de prescripción el profesor dice que no te lo van a preguntar, pregunta la literalidad."
  },
  "au-21-001": {
   "bloque": "revision",
@@ -403,7 +405,8 @@
    "Es esta. Es el **art. 107.2**: cuatro años desde que se dictó el acto.",
    "No. Cinco años no es el plazo.",
    "No. Dos años no es el plazo."
-  ]
+  ],
+  "ojo": "En clase: los 4 años son pregunta de examen. Que la declaración de lesividad no se recurre está marcado como IMP: todavía no te quita nada, solo es el presupuesto procesal para que el juez admita el caso. Antes hay que dar audiencia a los interesados (art. 82), y se les notifica solo a efectos informativos."
  },
  "au-21-002": {
   "bloque": "revision",
@@ -415,7 +418,7 @@
    "No. Los Secretarios de Estado revisan los actos de sus órganos directivos, no los suyos (art. 111.b.2.º).",
    "Es esta. Lo dice el **art. 111.b).1.º**. Es una escalera: cada uno revisa lo del escalón de abajo."
   ],
-  "ojo": "Nadie revisa lo suyo, salvo el Consejo de Ministros, que no tiene a nadie por encima."
+  "ojo": "Nadie revisa lo suyo, salvo el Consejo de Ministros, que no tiene a nadie por encima. En clase: la regla general es que revisa el órgano superior al que dictó el acto. El Consejo de Ministros no tiene a nadie por encima: revisa los suyos y los de los Ministros. El Ministro revisa los de los Secretarios de Estado y los de los órganos directivos de su Departamento que no dependen de una Secretaría de Estado. El Secretario de Estado revisa los de los órganos directivos que dependen de él."
  },
  "of-12-001": {
   "bloque": "recursos",
@@ -608,6 +611,7 @@
    "No. El desistimiento lo acuerda la Administración de forma motivada (art. 93). No se entiende producido por no contestar.",
    "No. Prescribir es otra cosa. Lo que se acaba aquí es el procedimiento, y la autorización sigue viva.",
    "No. Es la autorización ya concedida, y este procedimiento lo inició la Administración, no doña Clara."
-  ]
+  ],
+  "ojo": "En clase: seis meses desde la iniciación sin declarar la lesividad y el procedimiento caduca. No lo mezcles con los 4 años desde que se dictó el acto."
  }
 }

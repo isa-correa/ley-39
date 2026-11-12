@@ -9,7 +9,7 @@
     "Es esta. El **art. 93** dice que la Administración puede desistir, de forma motivada, “en los procedimientos iniciados de oficio”, y solo en los supuestos y con los requisitos que digan las leyes. Tiene lógica: desiste de lo que ella misma puso en marcha.",
     "No. Es justo al revés. En los iniciados por solicitud, quien desiste es el interesado (art. 94), no la Administración."
   ],
-  "ojo": "Para recordarlo: la Administración desiste de lo suyo (de oficio, art. 93) y el interesado desiste de lo suyo (su solicitud, art. 94)."
+  "ojo": "Para recordarlo: la Administración desiste de lo suyo (de oficio, art. 93) y el interesado desiste de lo suyo (su solicitud, art. 94). En clase: la Administración no puede renunciar, porque no renuncia a sus potestades. Solo puede desistir, y solo de lo que ella misma inició, por ejemplo un sancionador o una revocación de subvención iniciados de oficio. El acuerdo debe motivarse (art. 35.1.g)."
 },
 "au-19-002": {
   "bloque": "finalizacion",
@@ -21,7 +21,7 @@
     "No. Están los dos verbos cambiados de sitio. Lo correcto es desistir de la solicitud y renunciar a los derechos.",
     "No. Acierta en “desistir de su solicitud”, pero falla al final: a los derechos se renuncia, no se desiste."
   ],
-  "ojo": "Solicitud con desistir, derechos con renunciar. Los cuatro textos solo se diferencian en esos dos verbos."
+  "ojo": "Solicitud con desistir, derechos con renunciar. Los cuatro textos solo se diferencian en esos dos verbos. En clase: desistir es abandonar el procedimiento, y puedes iniciar otro después si tu derecho no ha prescrito. Renunciar es abandonar el derecho, y ya no podrás pedirlo más. Hay derechos irrenunciables: la vida, los derechos de los trabajadores, la pensión de jubilación."
 },
 "au-19-003": {
   "bloque": "finalizacion",
@@ -33,7 +33,7 @@
     "No. El procedimiento no se cierra para todos: sigue para quienes no han desistido, porque el desistimiento solo afecta a quien lo formula.",
     "No. Tampoco hace falta que “alguno” de los restantes pida continuar. Esa idea de instar la continuación es para los terceros interesados personados (art. 94.4), no para los otros solicitantes."
   ],
-  "ojo": "No confundas: otros solicitantes (art. 94.2, siguen sin pedir nada) con terceros personados (art. 94.4, tienen que instar la continuación en diez días)."
+  "ojo": "No confundas: otros solicitantes (art. 94.2, siguen sin pedir nada) con terceros personados (art. 94.4, tienen que instar la continuación en diez días). En clase: el profesor lo marca como IMP. Juan y María piden juntos un vado. Si Juan desiste, a María no le afecta: el procedimiento sigue para ella, sin preguntarle nada."
 },
 "au-19-004": {
   "bloque": "finalizacion",
@@ -55,7 +55,8 @@
     "No. Se queda a medias. Eso es la regla general, pero el art. 94.4 añade una excepción: que los terceros personados pidan continuar.",
     "Es esta. Según el **art. 94.4**, a los terceros personados se les notifica el desistimiento o la renuncia, y tienen **diez días** desde la notificación para pedir que el procedimiento continúe. Si no lo piden, se acepta de plano y se declara concluso.",
     "No. Eso lo prevé el art. 94.5, para cuando la cuestión tiene interés general o conviene aclararla. Aquí el dato es que hay terceros personados, y eso lleva al art. 94.4."
-  ]
+  ],
+  "ojo": "En clase: ejemplo de los pozos a 100 metros. María tiene un pozo autorizado, Juana pide uno al lado y María se persona porque tiene interés legítimo. Si Juana desiste, María tiene 10 días desde que le notifican el desistimiento para instar la continuación y que se resuelva que ahí no cabe pozo."
 },
 "au-19-006": {
   "bloque": "finalizacion",
@@ -67,7 +68,7 @@
     "Es esta. El **art. 95.3** dice que los procedimientos caducados **no interrumpen** el plazo de prescripción. Es decir, el tiempo que duró ese procedimiento cuenta como si nada hubiera pasado para calcular si la acción ha prescrito.",
     "No. Tampoco interrumpe solo a favor de la Administración. La regla es la misma para los dos."
   ],
-  "ojo": "Dos ideas del art. 95.3 que van juntas: la caducidad no produce por sí sola la prescripción, pero el procedimiento caducado no interrumpe el plazo."
+  "ojo": "Dos ideas del art. 95.3 que van juntas: la caducidad no produce por sí sola la prescripción, pero el procedimiento caducado no interrumpe el plazo. En clase: el profesor lo marca como IMP. Ejemplo: curación el 10 de octubre de 2023, solicitud en plazo el 10 de mayo de 2024, caducidad el 10 de septiembre de 2024. El año para reclamar sigue corriendo y vence el 10 de octubre de 2024, no el de 2025. Si presentas una nueva solicitud el 8 de octubre de 2024, se puede reutilizar el informe del servicio, pero hay que repetir alegaciones, proposición de prueba y audiencia."
 },
 "au-19-007": {
   "bloque": "finalizacion",
@@ -78,7 +79,8 @@
     "No. El plazo es de tres meses, no de treinta días.",
     "No. Son tres meses, no dos.",
     "No. Son tres meses. Los diez días te suenan del plazo de los terceros para pedir la continuación (art. 94.4) o del de subsanar la solicitud (art. 68)."
-  ]
+  ],
+  "ojo": "En clase: el profesor lo marca como pregunta de examen. Ejemplo: alguien pide abrir una farmacia y no trae los documentos del local. Se le dan 10 días, no lo hace, se le advierte de que en 3 meses caducará, pasan y se archiva. Y contra la resolución que declara la caducidad sí caben recursos: es fácil fallar porque estamos acostumbrados a que los actos incidentales no se recurran."
 },
 "au-19-008": {
   "bloque": "finalizacion",
@@ -89,7 +91,8 @@
     "No. El recurso de queja no existe en la Ley 39/2015 como vía contra esta resolución. El art. 95.1 habla de los recursos pertinentes.",
     "No. Sí cabe recurso. El art. 95.1 dice expresamente que proceden los recursos pertinentes.",
     "No. No se limita al recurso extraordinario de revisión, que además es excepcional. Proceden los que sean pertinentes en cada caso."
-  ]
+  ],
+  "ojo": "En clase: el profesor lo marca como pregunta de examen. Ejemplo: alguien pide abrir una farmacia y no trae los documentos del local. Se le dan 10 días, no lo hace, se le advierte de que en 3 meses caducará, pasan y se archiva. Y contra la resolución que declara la caducidad sí caben recursos: es fácil fallar porque estamos acostumbrados a que los actos incidentales no se recurran."
 },
 "au-19-009": {
   "bloque": "finalizacion",
@@ -100,7 +103,8 @@
     "No. Ni siquiera “podrá”. La caducidad queda descartada en este caso.",
     "Es esta. El **art. 95.2** dice que esa inactividad “no tendrá otro efecto que la pérdida de su derecho al referido trámite”. Por ejemplo, si no presentas un documento que no hace falta para resolver, pierdes esa oportunidad, pero el procedimiento sigue.",
     "No. Tampoco se te tiene por desistido. El único efecto es perder el derecho a ese trámite."
-  ]
+  ],
+  "ojo": "En clase: es el «decaído en su derecho al trámite» que viste en el art. 73.3."
 },
 "au-19-010": {
   "bloque": "finalizacion",
@@ -112,7 +116,7 @@
     "No. Es la misma confusión: alegaciones y proposición de prueba deben hacerse de nuevo, y lo que se incorpora son los actos y trámites que no habrían cambiado.",
     "No. Aquí te dan la lista de los tres trámites que “en todo caso” hay que cumplimentar en el nuevo procedimiento: alegaciones, proposición de prueba y audiencia. No es lo que se incorpora, sino lo que se debe repetir."
   ],
-  "ojo": "Se incorpora lo que se hubiera mantenido igual. Se repite siempre: alegaciones, proposición de prueba y audiencia."
+  "ojo": "Se incorpora lo que se hubiera mantenido igual. Se repite siempre: alegaciones, proposición de prueba y audiencia. En clase: el profesor lo marca como IMP. Ejemplo: curación el 10 de octubre de 2023, solicitud en plazo el 10 de mayo de 2024, caducidad el 10 de septiembre de 2024. El año para reclamar sigue corriendo y vence el 10 de octubre de 2024, no el de 2025. Si presentas una nueva solicitud el 8 de octubre de 2024, se puede reutilizar el informe del servicio, pero hay que repetir alegaciones, proposición de prueba y audiencia."
 },
 "au-19-011": {
   "bloque": "finalizacion",
@@ -123,7 +127,8 @@
     "No. No es solo de oficio: el interesado también puede pedirla (art. 96.1 y 96.3).",
     "No. La tramitación simplificada no se reserva a esos dos tipos de procedimiento. Los arts. 96.4 y 96.5 traen reglas especiales para ellos, pero la regla general vale para cualquier procedimiento en que concurran esas razones.",
     "Es esta. El **art. 96.1** dice que, si hay razones de interés público o el procedimiento no es complejo, las Administraciones pueden acordar la tramitación simplificada “de oficio o a solicitud del interesado”."
-  ]
+  ],
+  "ojo": "En clase: la tramitación simplificada es una tramitación exprés: sin pruebas, sin mejora y sin actuaciones complementarias. Se usa poco en la práctica, pero en los exámenes sí aparece, incluso en el supuesto práctico. En cualquier momento antes de resolver se puede pasar a la ordinaria."
 },
 "au-19-012": {
   "bloque": "finalizacion",
@@ -134,7 +139,8 @@
     "No. No hace falta que se opongan todos. Basta con que se oponga uno.",
     "No. Sí pueden oponerse, y por eso se les notifica. La única excepción es el procedimiento sancionador por infracción leve (art. 96.5).",
     "No. No hay ninguna regla de mayoría. Basta con que se oponga uno."
-  ]
+  ],
+  "ojo": "En clase: el profesor lo marca como IMP. Como supone perder garantías (sin pruebas, sin informes, casi sin audiencia), hace falta acuerdo de todos: basta que un solo interesado se oponga expresamente para volver a la ordinaria."
 },
 "au-19-013": {
   "bloque": "finalizacion",
@@ -145,7 +151,8 @@
     "No. El art. 95.4 dice que “podrá no ser aplicable” si la cuestión afecta al interés general. Te han cambiado esa posibilidad de no aplicarla por una obligación de aplicarla.",
     "No. El art. 95.3 dice que la caducidad “no producirá por sí sola” la prescripción. Te han quitado el “no”.",
     "Es esta. El **art. 95.1** dice que contra la resolución que declara la caducidad “procederán los recursos pertinentes”. Es decir, esa resolución se puede recurrir."
-  ]
+  ],
+  "ojo": "En clase: el profesor lo marca como pregunta de examen. Ejemplo: alguien pide abrir una farmacia y no trae los documentos del local. Se le dan 10 días, no lo hace, se le advierte de que en 3 meses caducará, pasan y se archiva. Y contra la resolución que declara la caducidad sí caben recursos: es fácil fallar porque estamos acostumbrados a que los actos incidentales no se recurran."
 },
 "au-19-014": {
   "bloque": "finalizacion",
@@ -157,7 +164,7 @@
     "No. El “en todo caso” lo estropea, porque hay una excepción: en los sancionadores del art. 96.5 no cabe esa oposición.",
     "Es esta. La regla general (**art. 96.2**) es que, si un interesado se opone, se sigue la ordinaria. La excepción es el **art. 96.5**: en los sancionadores, cuando hay elementos para calificar la infracción como leve, se puede ir por la simplificada “sin que quepa la oposición expresa”."
   ],
-  "ojo": "La excepción es solo para lo sancionador, y solo cuando la infracción se puede calificar como leve. La responsabilidad patrimonial es la opción cebo."
+  "ojo": "La excepción es solo para lo sancionador, y solo cuando la infracción se puede calificar como leve. La responsabilidad patrimonial es la opción cebo. En clase: el profesor lo marca como IMP. Como supone perder garantías (sin pruebas, sin informes, casi sin audiencia), hace falta acuerdo de todos: basta que un solo interesado se oponga expresamente para volver a la ordinaria."
 },
 "au-19-015": {
   "bloque": "finalizacion",
@@ -169,7 +176,7 @@
     "No. No está obligada a aceptarla. Si no se dan las razones del art. 96.1, puede desestimarla. Lo sancionador no tiene nada que ver con esto.",
     "No. La ley no pone esa excepción para la responsabilidad patrimonial, y dice “podrá desestimar”, no “deberá rechazarse”."
   ],
-  "ojo": "Fíjate en el final del art. 96.3: si pasan los cinco días sin contestar, se entiende desestimada."
+  "ojo": "Fíjate en el final del art. 96.3: si pasan los cinco días sin contestar, se entiende desestimada. En clase: si el interesado la pide y el órgano ve que no hay razones, tiene 5 días para desestimar la solicitud, sin recurso. Pasados los 5 días se entiende desestimada (silencio negativo)."
 },
 "au-19-016": {
   "bloque": "finalizacion",
@@ -180,7 +187,8 @@
     "No. Es un plazo en días, no en meses: treinta días, que no se cuentan igual que un mes.",
     "No. Son treinta días, no veinte.",
     "Es esta. El **art. 96.6** dice que, salvo que reste menos para la tramitación ordinaria, se resuelven en “treinta días”, contados desde el siguiente a la notificación del acuerdo de tramitación simplificada."
-  ]
+  ],
+  "ojo": "En clase: 30 días «desde el siguiente» a la notificación del acuerdo, salvo que reste menos en la ordinaria (si en la ordinaria quedaban 20, se resuelve en 20). Los trámites son una lista cerrada: inicio, subsanación (10 días), alegaciones (5 días), audiencia solo si es desfavorable, informes jurídicos, dictamen del Consejo de Estado si es preceptivo y resolución."
 },
 "au-19-017": {
   "bloque": "finalizacion",
@@ -192,7 +200,7 @@
     "Es verdadera, así que no se marca. Es un trámite previsto en el art. 96.6.c), con ese plazo de cinco días.",
     "Esta es la falsa, y por eso es la que hay que marcar. La práctica de prueba no está en la lista cerrada del **art. 96.6**. Y según el **art. 96.7**, si un procedimiento exige un trámite que no está en esa lista, debe seguir la tramitación ordinaria."
   ],
-  "ojo": "El enunciado pregunta qué trámite no cabe. La lista del art. 96.6 es cerrada: “constarán únicamente” de esos trámites, y en ella no hay prueba."
+  "ojo": "El enunciado pregunta qué trámite no cabe. La lista del art. 96.6 es cerrada: “constarán únicamente” de esos trámites, y en ella no hay prueba. En clase: 30 días «desde el siguiente» a la notificación del acuerdo, salvo que reste menos en la ordinaria (si en la ordinaria quedaban 20, se resuelve en 20). Los trámites son una lista cerrada: inicio, subsanación (10 días), alegaciones (5 días), audiencia solo si es desfavorable, informes jurídicos, dictamen del Consejo de Estado si es preceptivo y resolución."
 },
 "au-19-018": {
   "bloque": "finalizacion",
@@ -203,7 +211,8 @@
     "No. Es al revés: sí se convalidan todas, y la excepción es el dictamen, no la audiencia.",
     "No. Acierta en cuál es la excepción, pero falla el “No”. La regla es que sí se convalidan.",
     "No. Falla “sin excepción”: el dictamen del Consejo de Estado no se convalida."
-  ]
+  ],
+  "ojo": "En clase: desde que se solicita hasta que se emite el dictamen, el plazo para resolver se suspende automáticamente (solo en la simplificada). Puede emitirse en 15 días si así se pide, y el expediente lleva propuesta de resolución. Si es contrario al fondo, se sigue por la ordinaria y se convalida todo menos el dictamen. Es la quinta suspensión automática: las tres del art. 22.2, el informe del CGPJ y este dictamen."
 },
 "au-19-019": {
   "bloque": "finalizacion",
@@ -214,7 +223,8 @@
     "Es esta. El **art. 96.6.d)** recoge el trámite de audiencia “únicamente cuando la resolución vaya a ser desfavorable para el interesado”. Tiene sentido: si te van a dar la razón, no hace falta oírte de nuevo.",
     "No. Te han cambiado “desfavorable” por “favorable”. Es justo lo contrario.",
     "No. En la simplificada el criterio es que la resolución vaya a ser desfavorable. Lo de los hechos o pruebas no aducidos por el interesado recuerda al art. 82.4, que regula cuándo se puede prescindir de la audiencia en general."
-  ]
+  ],
+  "ojo": "En clase: 30 días «desde el siguiente» a la notificación del acuerdo, salvo que reste menos en la ordinaria (si en la ordinaria quedaban 20, se resuelve en 20). Los trámites son una lista cerrada: inicio, subsanación (10 días), alegaciones (5 días), audiencia solo si es desfavorable, informes jurídicos, dictamen del Consejo de Estado si es preceptivo y resolución."
 },
 "au-19-020": {
   "bloque": "finalizacion",
@@ -225,7 +235,8 @@
     "Es esta. El **art. 95.2** dice que no puede acordarse la caducidad por la simple inactividad del interesado en trámites que no sean indispensables para dictar resolución. En ese caso solo pierde su derecho a ese trámite.",
     "No. El art. 95.3 dice que la caducidad “no producirá por sí sola” la prescripción. Te han quitado el “no”.",
     "No. El art. 95.1 dice que “procederán los recursos pertinentes”. Sí cabe recurso."
-  ]
+  ],
+  "ojo": "En clase: es el «decaído en su derecho al trámite» que viste en el art. 73.3."
 },
 "au-20-001": {
   "bloque": "finalizacion",
@@ -237,7 +248,7 @@
     "No. Si la obligación personalísima es de hacer y no se cumple, no se te obliga físicamente: debes resarcir los daños y perjuicios (art. 104.2).",
     "Es esta. El **art. 104.1** reserva la compulsión directa a las obligaciones personalísimas de **no hacer o soportar**, y solo si la ley lo autoriza expresamente y respetando la dignidad de la persona."
   ],
-  "ojo": "Personalísima de no hacer o soportar: compulsión (art. 104.1). Personalísima de hacer: resarcir daños (art. 104.2)."
+  "ojo": "Personalísima de no hacer o soportar: compulsión (art. 104.1). Personalísima de hacer: resarcir daños (art. 104.2). En clase: ejemplos de no hacer o soportar: abandonar una casa en ruina o una vacuna obligatoria en una epidemia grave. Si una ley lo autoriza, pueden sacarte o vacunarte a la fuerza, respetando tu dignidad y tu integridad física y moral. Si la obligación personalísima es de hacer y no se cumple, cabe multa coercitiva y hay que resarcir daños y perjuicios (art. 104.2)."
 },
 "au-20-002": {
   "bloque": "finalizacion",
@@ -249,7 +260,7 @@
     "Es verdadera, así que no se marca. Es el medio del art. 100.1.b).",
     "Es verdadera, así que no se marca. Es el medio del art. 100.1.a)."
   ],
-  "ojo": "Te cambian una sola palabra. Los cuatro medios son: apremio sobre el patrimonio, ejecución subsidiaria, multa coercitiva y compulsión sobre las personas."
+  "ojo": "Te cambian una sola palabra. Los cuatro medios son: apremio sobre el patrimonio, ejecución subsidiaria, multa coercitiva y compulsión sobre las personas. En clase: el profesor lo marca como la principal pregunta de examen del capítulo. Los cuatro medios, siempre con proporcionalidad: apremio sobre el patrimonio, ejecución subsidiaria, multa coercitiva y compulsión sobre las personas. La multa coercitiva y la compulsión requieren una ley que las autorice. El orden de menos a más restrictivo es doctrinal y no suelen preguntarlo."
 },
 "au-20-003": {
   "bloque": "finalizacion",
@@ -260,7 +271,8 @@
     "No. Ese es uno de los supuestos de la multa coercitiva (art. 103.1.c), no del apremio.",
     "No. Ese es otro supuesto de la multa coercitiva (art. 103.1.b).",
     "No. También es de la multa coercitiva (art. 103.1.a)."
-  ]
+  ],
+  "ojo": "En clase: es el medio menos restrictivo, pensado para multas y deudas (una sanción, devolver una subvención, una indemnización). Es como embargar: primero la cuenta bancaria, luego el coche y por último la casa. El apremio no necesita una ley concreta que lo autorice. Lo que tiene que venir de una norma con rango de ley es la obligación de pagar."
 },
 "au-20-004": {
   "bloque": "finalizacion",
@@ -271,7 +283,8 @@
     "Es esta. El **art. 102.1** dice que hay ejecución subsidiaria cuando el acto, por no ser personalísimo, puede hacerlo otra persona distinta del obligado. Por ejemplo, si no derribas un muro ruinoso, lo derriba la Administración y te pasa la factura.",
     "No. El apremio es para cobrar cantidades líquidas de dinero (art. 101.1).",
     "No. Además de estar mal el nombre (la ley dice “coercitiva”), la frase del enunciado es la definición literal de la ejecución subsidiaria del art. 102.1. La multa coercitiva tiene sus propios supuestos en el art. 103.1."
-  ]
+  ],
+  "ojo": "En clase: no personalísimo es, por ejemplo, pintar una fachada o sellar un pozo ilegal. Si no lo haces tú, lo hace la Administración (con operarios o contratando a una empresa) y te pasa la factura, y si no la pagas, apremio. Puede cobrarte una cantidad provisional por adelantado. Personalísimo sería ponerte una vacuna."
 },
 "au-20-005": {
   "bloque": "finalizacion",
@@ -282,7 +295,8 @@
     "Es esta. El **art. 100.1** dice que la ejecución forzosa se efectuará “respetando siempre el principio de proporcionalidad”. Es decir, los medios han de ser adecuados a lo que se quiere conseguir, sin pasarse.",
     "No. La simplificación no es el principio que cita el art. 100.1.",
     "No. La eficacia es un principio general de la Administración, pero el art. 100.1 menciona la proporcionalidad."
-  ]
+  ],
+  "ojo": "En clase: el profesor lo marca como la principal pregunta de examen del capítulo. Los cuatro medios, siempre con proporcionalidad: apremio sobre el patrimonio, ejecución subsidiaria, multa coercitiva y compulsión sobre las personas. La multa coercitiva y la compulsión requieren una ley que las autorice. El orden de menos a más restrictivo es doctrinal y no suelen preguntarlo."
 },
 "au-20-006": {
   "bloque": "finalizacion",
@@ -293,7 +307,8 @@
     "Es esta. El **art. 104.1** dice que estos actos pueden ejecutarse por compulsión directa “en los casos en que la ley expresamente lo autorice”, y siempre respetando la dignidad de la persona y sus derechos constitucionales.",
     "No. Resarcir daños y perjuicios es lo que prevé el art. 104.2 para las obligaciones personalísimas de hacer, no para las de no hacer o soportar.",
     "No. El “en todo caso” lo estropea: solo cabe si la ley lo autoriza expresamente, y además “podrán”, no “deberán”."
-  ]
+  ],
+  "ojo": "En clase: ejemplos de no hacer o soportar: abandonar una casa en ruina o una vacuna obligatoria en una epidemia grave. Si una ley lo autoriza, pueden sacarte o vacunarte a la fuerza, respetando tu dignidad y tu integridad física y moral. Si la obligación personalísima es de hacer y no se cumple, cabe multa coercitiva y hay que resarcir daños y perjuicios (art. 104.2)."
 },
 "au-20-007": {
   "bloque": "finalizacion",
@@ -304,7 +319,8 @@
     "No. Eso recuerda a la multa coercitiva, y además te han cambiado la palabra: el art. 103.1.b) habla de cuando la Administración “no” la estimara conveniente.",
     "No. En ese caso el obligado debe resarcir daños y perjuicios (art. 104.2).",
     "Es esta. El **art. 102.1** dice que hay ejecución subsidiaria en los actos que, por no ser personalísimos, puede hacer otra persona distinta del obligado. Lo hace la Administración o quien ella diga, a costa del obligado."
-  ]
+  ],
+  "ojo": "En clase: no personalísimo es, por ejemplo, pintar una fachada o sellar un pozo ilegal. Si no lo haces tú, lo hace la Administración (con operarios o contratando a una empresa) y te pasa la factura, y si no la pagas, apremio. Puede cobrarte una cantidad provisional por adelantado. Personalísimo sería ponerte una vacuna."
 },
 "au-20-008": {
   "bloque": "finalizacion",
@@ -315,7 +331,8 @@
     "No. Mezcla dos medios: el apremio es sobre el patrimonio y la compulsión es sobre las personas.",
     "Es esta. La multa coercitiva es uno de los cuatro medios del **art. 100.1**, en su letra c). Los otros son el apremio sobre el patrimonio, la ejecución subsidiaria y la compulsión sobre las personas.",
     "No. El adjetivo correcto es “coercitiva”, no “pecuniaria”."
-  ]
+  ],
+  "ojo": "En clase: el profesor lo marca como la principal pregunta de examen del capítulo. Los cuatro medios, siempre con proporcionalidad: apremio sobre el patrimonio, ejecución subsidiaria, multa coercitiva y compulsión sobre las personas. La multa coercitiva y la compulsión requieren una ley que las autorice. El orden de menos a más restrictivo es doctrinal y no suelen preguntarlo."
 },
 "au-20-009": {
   "bloque": "finalizacion",
@@ -326,7 +343,8 @@
     "No. La ley no da preferencia al apremio. El criterio es el grado de restricción de la libertad.",
     "No. El criterio no es el coste para el interesado, sino la restricción de su libertad. Te han cambiado “restrictivo” por “oneroso”.",
     "Es esta. El **art. 100.2** dice que, si son admisibles varios medios, se elige “el menos restrictivo de la libertad individual”. Es una aplicación clara del principio de proporcionalidad."
-  ]
+  ],
+  "ojo": "En clase: el profesor lo marca como la principal pregunta de examen del capítulo. Los cuatro medios, siempre con proporcionalidad: apremio sobre el patrimonio, ejecución subsidiaria, multa coercitiva y compulsión sobre las personas. La multa coercitiva y la compulsión requieren una ley que las autorice. El orden de menos a más restrictivo es doctrinal y no suelen preguntarlo."
 },
 "au-20-010": {
   "bloque": "finalizacion",
@@ -338,7 +356,7 @@
     "Es verdadera, así que no se marca. El acto se hace a costa del obligado (art. 102.2) y el importe de gastos se le exige conforme al art. 102.3.",
     "Es verdadera, así que no se marca. El art. 102.1 la prevé para actos que, por no ser personalísimos, puede realizar otra persona."
   ],
-  "ojo": "Pide la incorrecta. Te han añadido un “no”: la liquidación provisional sí es posible."
+  "ojo": "Pide la incorrecta. Te han añadido un “no”: la liquidación provisional sí es posible. En clase: no personalísimo es, por ejemplo, pintar una fachada o sellar un pozo ilegal. Si no lo haces tú, lo hace la Administración (con operarios o contratando a una empresa) y te pasa la factura, y si no la pagas, apremio. Puede cobrarte una cantidad provisional por adelantado. Personalísimo sería ponerte una vacuna."
 },
 "au-20-011": {
   "bloque": "finalizacion",
@@ -349,7 +367,8 @@
     "No. El art. 100.3 no lo limita a ese tipo de obligaciones. Vale para cualquier ejecución forzosa que requiera entrar en el domicilio.",
     "Es esta. El **art. 100.3** dice que, si hace falta entrar en el domicilio, la Administración debe obtener “el consentimiento del mismo o, en su defecto, la oportuna autorización judicial”. Primero el titular y, si no, el juez.",
     "No. Una resolución administrativa, aunque esté motivada, no basta. Hace falta el consentimiento o la autorización del juez."
-  ]
+  ],
+  "ojo": "En clase: el domicilio es inviolable (art. 18.2 de la Constitución), así que hace falta el consentimiento del titular o una autorización judicial."
 },
 "au-20-012": {
   "bloque": "finalizacion",
@@ -361,7 +380,7 @@
     "Es verdadera, así que no se marca. Es la excepción del art. 98.1.d).",
     "Es verdadera, así que no se marca. Es la excepción del art. 98.1.a)."
   ],
-  "ojo": "Una sola palabra cambia el sentido: “incluido” frente a “salvo”."
+  "ojo": "Una sola palabra cambia el sentido: “incluido” frente a “salvo”. En clase: la regla general es que los actos son inmediatamente ejecutivos aunque quepa recurso. El recurso no suspende por sí solo, pero se puede pedir la suspensión si la ejecución causa un perjuicio de imposible o difícil reparación. La excepción sancionadora es la del art. 90.3."
 },
 "au-20-013": {
   "bloque": "finalizacion",
@@ -372,7 +391,8 @@
     "No. Sí pueden reiterarse, y no como excepción: la ley lo prevé en general.",
     "Es esta. El **art. 103.1** dice que las multas coercitivas se imponen “reiteradas por lapsos de tiempo que sean suficientes para cumplir lo ordenado”. La ley no pone un número: lo que importa es dar tiempo para cumplir.",
     "No. Tampoco hay un mínimo de quince días. El criterio es que el tiempo sea suficiente para cumplir."
-  ]
+  ],
+  "ojo": "En clase: solo si una ley lo autoriza. Ejemplo: sanción de 6.000 euros por el pozo ilegal y, además, 5.000 euros cada mes hasta que lo selles. El objetivo no es castigar sino que cumplas, y el plazo entre multas debe dar tiempo real para cumplir. A un cantante contratado para las fiestas del pueblo no se le puede obligar a cantar a la fuerza: cabe multa coercitiva si una ley la autoriza."
 },
 "au-20-014": {
   "bloque": "finalizacion",
@@ -383,7 +403,8 @@
     "No. Es lo contrario. El art. 103.2 dice que es compatible con las sanciones.",
     "No. No es una alternativa: pueden imponerse las dos cosas a la vez.",
     "Es esta. El **art. 103.2** dice que la multa coercitiva es “independiente de las sanciones que puedan imponerse con tal carácter y compatible con ellas”. La razón: la sanción castiga lo que hiciste, y la multa coercitiva te presiona para que cumplas."
-  ]
+  ],
+  "ojo": "En clase: solo si una ley lo autoriza. Ejemplo: sanción de 6.000 euros por el pozo ilegal y, además, 5.000 euros cada mes hasta que lo selles. El objetivo no es castigar sino que cumplas, y el plazo entre multas debe dar tiempo real para cumplir. A un cantante contratado para las fiestas del pueblo no se le puede obligar a cantar a la fuerza: cabe multa coercitiva si una ley la autoriza."
 },
 "au-20-015": {
   "bloque": "finalizacion",
@@ -394,7 +415,8 @@
     "No. El “nunca” falla: el art. 103.1.b) la permite cuando procede la compulsión pero la Administración no la estima conveniente.",
     "No. El art. 103.2 dice lo contrario: es independiente de las sanciones y compatible con ellas.",
     "Es esta. Es uno de los tres supuestos de la multa coercitiva, el del **art. 103.1.c)**: actos cuya ejecución pueda el obligado encargar a otra persona."
-  ]
+  ],
+  "ojo": "En clase: solo si una ley lo autoriza. Ejemplo: sanción de 6.000 euros por el pozo ilegal y, además, 5.000 euros cada mes hasta que lo selles. El objetivo no es castigar sino que cumplas, y el plazo entre multas debe dar tiempo real para cumplir. A un cantante contratado para las fiestas del pueblo no se le puede obligar a cantar a la fuerza: cabe multa coercitiva si una ley la autoriza."
 },
 "au-20-016": {
   "bloque": "finalizacion",
@@ -427,7 +449,8 @@
     "Es esta. Son exactamente los cuatro medios del **art. 100.1**: apremio sobre el patrimonio, ejecución subsidiaria, multa coercitiva y compulsión sobre las personas.",
     "No. La “privación de libertad” no es un medio de ejecución forzosa. El cuarto medio es la compulsión sobre las personas.",
     "No. La responsabilidad patrimonial es otra cosa: es la obligación de la Administración de indemnizar por los daños que causa. El cuarto medio es la compulsión sobre las personas."
-  ]
+  ],
+  "ojo": "En clase: el profesor lo marca como la principal pregunta de examen del capítulo. Los cuatro medios, siempre con proporcionalidad: apremio sobre el patrimonio, ejecución subsidiaria, multa coercitiva y compulsión sobre las personas. La multa coercitiva y la compulsión requieren una ley que las autorice. El orden de menos a más restrictivo es doctrinal y no suelen preguntarlo."
 },
 "au-20-019": {
   "bloque": "finalizacion",
@@ -439,7 +462,7 @@
     "No. Se inventa un plazo de 3 días. Estas acciones no se resuelven porque no se admiten a trámite.",
     "No. Se inventa un plazo de 5 días. Estas acciones no se resuelven porque no se admiten a trámite."
   ],
-  "ojo": "La prohibición depende de que la Administración haya actuado dentro de su competencia y siguiendo el procedimiento."
+  "ojo": "La prohibición depende de que la Administración haya actuado dentro de su competencia y siguiendo el procedimiento. En clase: entre particulares, si discutís quién es el dueño de un coche, cabe un interdicto (acción posesoria) ante el juez civil. Contra la Administración, que actúa en su competencia y con el procedimiento, no: mantiene la posesión hasta que se resuelva, porque su actuación se presume válida."
 },
 "au-20-020": {
   "bloque": "finalizacion",
@@ -451,6 +474,6 @@
     "Es verdadera, así que no se marca. Es un supuesto de multa coercitiva, el del art. 103.1.a).",
     "Esta es la falsa, y por eso es la que hay que marcar. Este supuesto no está en la lista del **art. 103.1**. Si hay que pagar una cantidad líquida, la vía es el apremio sobre el patrimonio (**art. 101.1**)."
   ],
-  "ojo": "El enunciado pide en cuál no cabría. Las otras tres opciones son la lista completa del art. 103.1."
+  "ojo": "El enunciado pide en cuál no cabría. Las otras tres opciones son la lista completa del art. 103.1. En clase: es el medio menos restrictivo, pensado para multas y deudas (una sanción, devolver una subvención, una indemnización). Es como embargar: primero la cuenta bancaria, luego el coche y por último la casa. El apremio no necesita una ley concreta que lo autorice. Lo que tiene que venir de una norma con rango de ley es la obligación de pagar."
 }
 }

@@ -1,6 +1,6 @@
 """Lo que el profesor marca en Fuentes_Derecho_y_Ley39_fuente.html como muy preguntado, estrella o poco preguntado.
 
-Los apuntes del profesor todavía no están completos: llegan a Fuentes del Derecho y a la Ley 39/2015 hasta el art. 87.
+Los apuntes del profesor todavía no están completos: llegan a Fuentes del Derecho y a la Ley 39/2015 hasta el art. 111 (la revisión de oficio). Falta desde el art. 112 (recursos).
 Cuando se actualice el HTML, se añaden aquí las marcas nuevas y se vuelve a ejecutar tools/construir.py.
 
 Cada marca se ata a artículos de una norma concreta (Ley 39/2015, Código Civil, Constitución o Ley 50/1997 del Gobierno).
@@ -51,6 +51,22 @@ MARCAS = [
     ("clave", "L39", "85", "Dos trampas de supuesto práctico en la terminación de los sancionadores."),
     ("clave", "L39", "87", "Muy preguntado: las actuaciones complementarias."),
     ("clave", "L39", "75-83", "La instrucción es, según el profesor, de lo más preguntado, en la práctica y en la oposición."),
+
+    # ---------- Ley 39/2015, arts. 88 a 111 (finalización, ejecución y revisión de oficio) ----------
+    ("estrella", "L39", "91.3", "«Super IMP», pregunta clarísima de examen y de supuesto práctico: pasados seis meses desde el inicio sin resolución ni acuerdo, silencio desestimatorio. Es uno de los cuatro casos de silencio negativo del art. 24."),
+    ("clave", "L39", "92", "Marcado como IMP: resuelve el Ministro respectivo (no el Secretario de Estado). El Consejo de Ministros solo en los casos del art. 32.3 de la Ley 40/2015 o si una ley lo dispone."),
+    ("clave", "L39", "94.2", "Marcado como IMP: el desistimiento o la renuncia de uno de varios firmantes solo le afecta a él."),
+    ("clave", "L39", "95.1", "Pregunta de examen: la advertencia y los 3 meses. Y contra la resolución que declara la caducidad sí caben recursos, que es donde se falla."),
+    ("clave", "L39", "95.3", "Marcado como IMP: la caducidad no produce por sí sola la prescripción y el procedimiento caducado no la interrumpe."),
+    ("clave", "L39", "96.2", "Marcado como IMP: si alguno de los interesados se opone expresamente, se sigue la tramitación ordinaria."),
+    ("clave", "L39", "96.5", "Único caso en que no cabe oposición expresa: el sancionador que se puede calificar como leve."),
+    ("clave", "L39", "96", "La tramitación simplificada se usa poco en la práctica, pero en los exámenes sí aparece, incluso en el supuesto práctico."),
+    ("clave", "L39", "100", "La principal pregunta de examen del capítulo de ejecución: los cuatro medios de ejecución forzosa y la proporcionalidad."),
+    ("clave", "L39", "106.1", "Marcado como IMP: la nulidad se declara en cualquier momento, de oficio o a solicitud, y con dictamen favorable del Consejo de Estado."),
+    ("clave", "L39", "106.3", "Marcado como IMP: se inadmiten a trámite, motivadamente y sin dictamen, las solicitudes sin fundamento."),
+    ("clave", "L39", "106.5", "Marcado como IMP: seis meses. De oficio caduca; a solicitud del interesado se entiende desestimada."),
+    ("clave", "L39", "107.2", "Pregunta de examen: la lesividad no puede declararse pasados 4 años desde que se dictó el acto. Y la declaración de lesividad no es recurrible (marcado como IMP)."),
+    ("poco", "L39", "110", "Anotación del profesor: «No lo preguntan mucho»."),
 ]
 
 BLOQUES_L39 = {"interesados", "actividad", "plazos", "actos", "nulidad", "iniciacion", "instruccion",

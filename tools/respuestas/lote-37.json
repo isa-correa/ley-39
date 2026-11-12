@@ -9,7 +9,7 @@
    "No. La Secretaría General Técnica no aparece en el art. 92. Quien resuelve es el Ministro.",
    "No. El Consejo de Ministros solo resuelve en los casos del art. 32.3 de la Ley 40/2015 (daños causados por actos legislativos) o cuando una ley lo diga. Aquí el daño viene del mal estado de un pórtico, no de una ley."
   ],
-  "ojo": "Regla para recordar: Ministro por defecto, y Consejo de Ministros solo si el daño viene de una ley o una ley lo manda."
+  "ojo": "Regla para recordar: Ministro por defecto, y Consejo de Ministros solo si el daño viene de una ley o una ley lo manda. En clase: el profesor lo marca como IMP. En el 99,9 % de los supuestos prácticos resuelve el Ministro, nunca el Secretario de Estado. El Consejo de Ministros solo cuando lo diga una ley o en el caso rarísimo del art. 32.3 de la Ley 40/2015 (una ley que perjudica gravemente a un colectivo, por ejemplo los taxistas, y dice que hay que indemnizarlo). En las comunidades autónomas y en la Administración Local resuelven sus propios órganos, porque el Estado no puede regularlo con legislación básica."
  },
  "pr-23-002": {
   "bloque": "iniciacion",
@@ -33,7 +33,7 @@
    "No. El plazo está bien, pero el silencio no es estimatorio. El art. 24.1 lo hace desestimatorio en responsabilidad patrimonial.",
    "Es esta. El **art. 91.3** dice que, pasados seis meses desde que se inició el procedimiento sin resolución notificada, puede entenderse que la resolución es contraria a indemnizar. Es decir, silencio negativo, igual que dice el **art. 24.1**."
   ],
-  "ojo": "No confundas: un año para reclamar (art. 67.1) y seis meses para resolver (art. 91.3)."
+  "ojo": "No confundas: un año para reclamar (art. 67.1) y seis meses para resolver (art. 91.3). En clase: el profesor lo marca como «super IMP», pregunta clarísima de examen y de supuesto práctico. Es uno de los cuatro casos de silencio negativo del art. 24 (derecho de petición, dominio o servicio público, medio ambiente y responsabilidad patrimonial) y siempre es desestimatorio, incluso en el doble silencio del recurso de alzada."
  },
  "pr-23-004": {
   "bloque": "finalizacion",
@@ -57,7 +57,7 @@
    "No. Eso sería renunciar, no desistir. El desistimiento afecta solo a la solicitud y deja intacto el derecho.",
    "No. No hace falta anular nada. La resolución que declara concluso el procedimiento solo cierra ese expediente, y la empresa puede abrir otro."
   ],
-  "ojo": "Desistir es “dejo esta petición”. Renunciar es “dejo mi derecho”. Después de desistir puedes volver. Después de renunciar, no."
+  "ojo": "Desistir es “dejo esta petición”. Renunciar es “dejo mi derecho”. Después de desistir puedes volver. Después de renunciar, no. En clase: desistir es abandonar el procedimiento, y puedes iniciar otro después si tu derecho no ha prescrito. Renunciar es abandonar el derecho, y ya no podrás pedirlo más. Hay derechos irrenunciables: la vida, los derechos de los trabajadores, la pensión de jubilación."
  },
  "pr-23-006": {
   "bloque": "finalizacion",
@@ -69,7 +69,7 @@
    "Es esta. La empresa y Nuria presentaron un único escrito, y el **art. 94.2** dice que entonces el desistimiento solo afecta a quien lo formula. La reclamación de Nuria por sus lesiones sigue su curso, así que el procedimiento no se cierra.",
    "No. El interés general es otro motivo para continuar (art. 94.5), pero aquí no hace falta. El procedimiento sigue porque Nuria no ha desistido."
   ],
-  "ojo": "Fíjate en la diferencia: cosolicitante (art. 94.2) no es lo mismo que tercero personado (art. 94.4)."
+  "ojo": "Fíjate en la diferencia: cosolicitante (art. 94.2) no es lo mismo que tercero personado (art. 94.4). En clase: el profesor lo marca como IMP. Juan y María piden juntos un vado. Si Juan desiste, a María no le afecta: el procedimiento sigue para ella, sin preguntarle nada."
  },
  "pr-23-007": {
   "bloque": "finalizacion",
@@ -81,7 +81,7 @@
    "Es esta. El **art. 94.4** dice que la Administración acepta la renuncia y declara concluso el procedimiento, salvo que terceros personados pidan seguir en diez días desde que se les notifique. Rescate Vial se personó en el expediente del RO-32, así que tiene esa opción.",
    "No. La palabra “necesariamente” lo estropea. Con terceros personados, la terminación no es automática: depende de que no pidan continuar (art. 94.4)."
   ],
-  "ojo": "Compara con la pregunta anterior: Nuria firmó la solicitud y no tiene que pedir nada. Rescate Vial es un tercero personado y sí debe pedirlo."
+  "ojo": "Compara con la pregunta anterior: Nuria firmó la solicitud y no tiene que pedir nada. Rescate Vial es un tercero personado y sí debe pedirlo. En clase: ejemplo de los pozos a 100 metros. María tiene un pozo autorizado, Juana pide uno al lado y María se persona porque tiene interés legítimo. Si Juana desiste, María tiene 10 días desde que le notifican el desistimiento para instar la continuación y que se resuelva que ahí no cabe pozo."
  },
  "pr-23-008": {
   "bloque": "finalizacion",
@@ -93,7 +93,7 @@
    "Es esta. La renuncia recae sobre el derecho mismo: el **art. 84.1** habla de “renuncia al derecho en que se funde la solicitud”, y el **art. 94.1** de renunciar a sus derechos. Si Ruta del Olivar ha renunciado a ser indemnizada por el RO-32, no puede volver a reclamar por esos mismos daños.",
    "No. Eso describe mejor al desistimiento, que solo cierra ese procedimiento. La renuncia va más allá, porque hace desaparecer el derecho."
   ],
-  "ojo": "La ley no lo dice con una frase expresa: se deduce de que lo que se abandona es el derecho. Compáralo con la pregunta del RO-4, donde sí se podía volver."
+  "ojo": "La ley no lo dice con una frase expresa: se deduce de que lo que se abandona es el derecho. Compáralo con la pregunta del RO-4, donde sí se podía volver. En clase: desistir es abandonar el procedimiento, y puedes iniciar otro después si tu derecho no ha prescrito. Renunciar es abandonar el derecho, y ya no podrás pedirlo más. Hay derechos irrenunciables: la vida, los derechos de los trabajadores, la pensión de jubilación."
  },
  "pr-24-001": {
   "bloque": "finalizacion",
@@ -104,7 +104,8 @@
    "Es esta. El **art. 96.3** da cinco días desde la presentación, y son hábiles (**art. 30.2**). Desde el viernes 2 de octubre se cuentan el lunes 5, martes 6, miércoles 7, jueves 8 y viernes 9. Ese viernes 9 es el último día.",
    "No. Para llegar al martes 13 tendrías que contar seis días hábiles, saltando el fin de semana y la fiesta nacional del lunes 12. Son cinco y acaban antes del puente.",
    "No. El lunes 19 sale de contar diez días hábiles. Diez es el plazo de subsanar (art. 68.1), no el de pronunciarse sobre la tramitación simplificada, que es de cinco."
-  ]
+  ],
+  "ojo": "En clase: si el interesado la pide y el órgano ve que no hay razones, tiene 5 días para desestimar la solicitud, sin recurso. Pasados los 5 días se entiende desestimada (silencio negativo)."
  },
  "pr-24-002": {
   "bloque": "finalizacion",
@@ -116,7 +117,7 @@
    "No. El sentido del silencio está bien, pero el art. 96.3 descarta el recurso. La empresa no podría recurrir en vía administrativa.",
    "No. Tampoco cabe ir directamente al contencioso por esto. El art. 96.3 no abre esa vía: solo dice que no hay posibilidad de recurso."
   ],
-  "ojo": "El art. 24.2 dice que la desestimación por silencio permite recurrir, y por eso esta opción engaña. Aquí manda la regla especial del art. 96.3."
+  "ojo": "El art. 24.2 dice que la desestimación por silencio permite recurrir, y por eso esta opción engaña. Aquí manda la regla especial del art. 96.3. En clase: si el interesado la pide y el órgano ve que no hay razones, tiene 5 días para desestimar la solicitud, sin recurso. Pasados los 5 días se entiende desestimada (silencio negativo)."
  },
  "pr-24-003": {
   "bloque": "finalizacion",
@@ -127,7 +128,8 @@
    "No. Que se acerque el final del plazo no es una de las dos razones del art. 96.1. Además, en este caso solo quedaba un mes para que venciera.",
    "Es esta. El **art. 96.1** permite la tramitación simplificada cuando lo aconsejen razones de interés público o “la falta de complejidad del procedimiento”. Encaja con este rodaje: dos mañanas, equipo reducido, decorado desmontable, sin drones ni embarcaciones.",
    "No. La ley sí pone causas concretas: las dos del art. 96.1. El órgano no decide libremente, y si no concurre ninguna puede desestimar (art. 96.3)."
-  ]
+  ],
+  "ojo": "En clase: la tramitación simplificada es una tramitación exprés: sin pruebas, sin mejora y sin actuaciones complementarias. Se usa poco en la práctica, pero en los exámenes sí aparece, incluso en el supuesto práctico. En cualquier momento antes de resolver se puede pasar a la ordinaria."
  },
  "pr-24-004": {
   "bloque": "finalizacion",
@@ -139,7 +141,7 @@
    "No. Es el mismo error de contar 30 días naturales, pasando luego del domingo al lunes (art. 30.5). Y olvida que el plazo ordinario acaba antes, el 3 de noviembre.",
    "No. Es el resultado aproximado de contar 30 días hábiles desde el 10 de octubre. Ese sería el plazo si restara más, pero el plazo ordinario termina antes y por eso se aplica el 3 de noviembre."
   ],
-  "ojo": "La trampa está en “salvo que reste menos”. Calcula siempre los dos plazos y quédate con el que acaba antes."
+  "ojo": "La trampa está en “salvo que reste menos”. Calcula siempre los dos plazos y quédate con el que acaba antes. En clase: 30 días «desde el siguiente» a la notificación del acuerdo, salvo que reste menos en la ordinaria (si en la ordinaria quedaban 20, se resuelve en 20). Los trámites son una lista cerrada: inicio, subsanación (10 días), alegaciones (5 días), audiencia solo si es desfavorable, informes jurídicos, dictamen del Consejo de Estado si es preceptivo y resolución."
  },
  "pr-24-005": {
   "bloque": "finalizacion",
@@ -150,7 +152,8 @@
    "No. El plazo de siete días no aparece en ninguno de estos artículos. Subsanar son diez días (art. 68.1).",
    "Es esta. La firma, o acreditar de otro modo la autenticidad de la voluntad, es un requisito de la solicitud (**art. 66.1.e**). Si falta, se requiere para subsanar en diez días (**art. 68.1**), y la subsanación es uno de los trámites de la tramitación simplificada (**art. 96.6.b**).",
    "No. La subsanación sí está prevista: es la letra b) del art. 96.6. Por eso no hay que pasar a la tramitación ordinaria (art. 96.7)."
-  ]
+  ],
+  "ojo": "En clase: 30 días «desde el siguiente» a la notificación del acuerdo, salvo que reste menos en la ordinaria (si en la ordinaria quedaban 20, se resuelve en 20). Los trámites son una lista cerrada: inicio, subsanación (10 días), alegaciones (5 días), audiencia solo si es desfavorable, informes jurídicos, dictamen del Consejo de Estado si es preceptivo y resolución."
  },
  "pr-24-006": {
   "bloque": "finalizacion",
@@ -162,7 +165,7 @@
    "Es esta. El **art. 96.6.d)** incluye la audiencia “únicamente cuando la resolución vaya a ser desfavorable para el interesado”. Si la Confederación va a denegar a Luz de Sierra, hace la audiencia sin salir de la tramitación simplificada.",
    "No. Las actuaciones complementarias (art. 87) no aparecen en el art. 96.6. Si fueran necesarias, se seguiría por la vía ordinaria (art. 96.7)."
   ],
-  "ojo": "La lista del art. 96.6 es cerrada: cualquier trámite que no esté ahí obliga a la tramitación ordinaria."
+  "ojo": "La lista del art. 96.6 es cerrada: cualquier trámite que no esté ahí obliga a la tramitación ordinaria. En clase: 30 días «desde el siguiente» a la notificación del acuerdo, salvo que reste menos en la ordinaria (si en la ordinaria quedaban 20, se resuelve en 20). Los trámites son una lista cerrada: inicio, subsanación (10 días), alegaciones (5 días), audiencia solo si es desfavorable, informes jurídicos, dictamen del Consejo de Estado si es preceptivo y resolución."
  },
  "pr-24-007": {
   "bloque": "finalizacion",
@@ -174,7 +177,7 @@
    "No. Ese plazo de un mes no aparece en el art. 96.6.g). La única reducción que prevé es a quince días, y hay que pedirla.",
    "Es esta. El **art. 96.6.g)** dice que, desde que se solicita el dictamen hasta que se emite, se produce la “suspensión automática” del plazo para resolver. El reloj se para sin que nadie tenga que acordarlo."
   ],
-  "ojo": "Aquí sí es automática la suspensión. Lo que no es automático es el plazo de quince días."
+  "ojo": "Aquí sí es automática la suspensión. Lo que no es automático es el plazo de quince días. En clase: desde que se solicita hasta que se emite el dictamen, el plazo para resolver se suspende automáticamente (solo en la simplificada). Puede emitirse en 15 días si así se pide, y el expediente lleva propuesta de resolución. Si es contrario al fondo, se sigue por la ordinaria y se convalida todo menos el dictamen. Es la quinta suspensión automática: las tres del art. 22.2, el informe del CGPJ y este dictamen."
  },
  "pr-24-008": {
   "bloque": "finalizacion",
@@ -185,7 +188,8 @@
    "Es esta. El **art. 96.6.g)** manda que, si el dictamen es contrario al fondo de la propuesta, el órgano acuerde continuar con la tramitación ordinaria y lo notifique. Lo hecho hasta entonces queda convalidado (sirve), salvo el propio dictamen.",
    "No. No se cierra ni se empieza otro procedimiento. Es el mismo, que continúa por la vía ordinaria y conserva lo hecho.",
    "No. Sí se formula propuesta. El art. 96.6.g) dice que, en el expediente que se envía al Consejo de Estado, “se incluirá una propuesta de resolución”."
-  ]
+  ],
+  "ojo": "En clase: desde que se solicita hasta que se emite el dictamen, el plazo para resolver se suspende automáticamente (solo en la simplificada). Puede emitirse en 15 días si así se pide, y el expediente lleva propuesta de resolución. Si es contrario al fondo, se sigue por la ordinaria y se convalida todo menos el dictamen. Es la quinta suspensión automática: las tres del art. 22.2, el informe del CGPJ y este dictamen."
  },
  "pr-25-001": {
   "bloque": "revision",
@@ -196,7 +200,8 @@
    "Es esta. El **art. 107.1** es la vía para los actos favorables que sean anulables. La Administración no puede quitarlos sola: los declara lesivos para el interés público y los impugna ante el juez.",
    "No. La revocación sirve para actos de gravamen o desfavorables (art. 109.1), no para actos favorables.",
    "No. La rectificación solo corrige errores materiales, de hecho o aritméticos (art. 109.2). Un vicio de anulabilidad no es una errata."
-  ]
+  ],
+  "ojo": "En clase: la paradoja es que la Administración va al juez para anular un acto que dictó ella misma. Ejemplo: te dan una subvención valorando un mérito que no te correspondía. Es anulable, no nulo, y mientras el juez no lo anule sigues con tu subvención. Si va al juez sin declararlo lesivo antes, el juez le dirá que vuelva atrás."
  },
  "pr-25-002": {
   "bloque": "revision",
@@ -208,7 +213,7 @@
    "No. La revocación es para actos de gravamen o desfavorables (art. 109.1), y este es favorable.",
    "No. La rectificación corrige erratas evidentes (art. 109.2), no vicios de nulidad."
   ],
-  "ojo": "En la revisión del art. 106 da igual que el acto sea favorable: lo que cuenta es que sea nulo."
+  "ojo": "En la revisión del art. 106 da igual que el acto sea favorable: lo que cuenta es que sea nulo. En clase: el profesor lo marca como IMP. Solo vale para actos que han puesto fin a la vía administrativa o no se recurrieron en plazo, y la nulidad no prescribe. La Administración es la única que declara la nulidad, pero necesita el dictamen favorable del Consejo de Estado: no basta con pedirlo, tiene que estar de acuerdo."
  },
  "pr-25-003": {
   "bloque": "revision",
@@ -219,7 +224,8 @@
    "No. La lesividad es solo para actos favorables y anulables (art. 107.1). Este es desfavorable.",
    "Es esta. El **art. 109.1** permite revocar los actos de gravamen o desfavorables mientras no haya prescrito el plazo, siempre que no sea una dispensa no permitida ni vaya contra la igualdad, el interés público o el ordenamiento.",
    "No. La rectificación no deja sin efecto el acto: solo corrige errores materiales, de hecho o aritméticos (art. 109.2)."
-  ]
+  ],
+  "ojo": "En clase: solo actos de gravamen o desfavorables. Si te ponen una multa que no procede, la Administración la revoca ella sola, sin jueces ni Consejo de Estado. Pero no puede revocarla «porque le caes bien»: sería una dispensa no permitida y contraria a la igualdad. Un acto favorable nunca se revoca sin más: si es nulo, art. 106, y si es anulable, art. 107. Del plazo de prescripción el profesor dice que no te lo van a preguntar, pregunta la literalidad."
  },
  "pr-25-004": {
   "bloque": "revision",
@@ -230,7 +236,8 @@
    "No. La lesividad es para actos favorables anulables (art. 107). Un error de este tipo se corrige sin ir al juez.",
    "No. Que el acto sea desfavorable hace pensar en la revocación, pero aquí no se quiere dejarlo sin efecto, sino corregir un error. Para eso está el art. 109.2.",
    "Es esta. El **art. 109.2** permite rectificar en cualquier momento, de oficio o a instancia de los interesados, los errores materiales, de hecho o aritméticos. No distingue si el acto es favorable o desfavorable."
-  ]
+  ],
+  "ojo": "En clase: error aritmético es que la subvención es 500 + 200 y pone 7.000 en vez de 700. Error material o de hecho es que pone «Carmona» en vez de «Cardona». Tiene que ser evidente y palmario. El error de derecho (interpretaste una norma de una manera y ahora de otra) no se rectifica: hay que ir a la nulidad, la lesividad o la revocación."
  },
  "pr-25-005": {
   "bloque": "revision",
@@ -242,7 +249,7 @@
    "No. La revocación se limita a actos de gravamen o desfavorables (art. 109.1), y este es favorable.",
    "Es esta. El **art. 109.2** habla de errores existentes “en sus actos”, sin distinguir. Da igual que el error favorezca o perjudique al interesado: se rectifica igual, en cualquier momento."
   ],
-  "ojo": "En errores, lo favorable o desfavorable no cambia la vía. Compárala con la pregunta anterior: misma respuesta."
+  "ojo": "En errores, lo favorable o desfavorable no cambia la vía. Compárala con la pregunta anterior: misma respuesta. En clase: error aritmético es que la subvención es 500 + 200 y pone 7.000 en vez de 700. Error material o de hecho es que pone «Carmona» en vez de «Cardona». Tiene que ser evidente y palmario. El error de derecho (interpretaste una norma de una manera y ahora de otra) no se rectifica: hay que ir a la nulidad, la lesividad o la revocación."
  },
  "pr-26-001": {
   "bloque": "revision",
@@ -254,7 +261,7 @@
    "No. La revocación es para actos desfavorables (art. 109.1), y la autorización beneficia a D.ª Florencia.",
    "No. No hay ninguna errata que corregir. Falta un requisito esencial, y eso no se arregla con el art. 109.2."
   ],
-  "ojo": "Un acto presunto (por silencio) también puede ser nulo. Pista: “carecer de requisitos esenciales” lleva al art. 47.1.f)."
+  "ojo": "Un acto presunto (por silencio) también puede ser nulo. Pista: “carecer de requisitos esenciales” lleva al art. 47.1.f). En clase: el profesor lo marca como IMP. Solo vale para actos que han puesto fin a la vía administrativa o no se recurrieron en plazo, y la nulidad no prescribe. La Administración es la única que declara la nulidad, pero necesita el dictamen favorable del Consejo de Estado: no basta con pedirlo, tiene que estar de acuerdo."
  },
  "pr-26-002": {
   "bloque": "revision",
@@ -266,7 +273,7 @@
    "Es esta. La sanción es un acto desfavorable para Fernandito, y el defecto de forma con indefensión la hace anulable (art. 48.2). Para dejar sin efecto un acto de gravamen, la vía es revocarlo (**art. 109.1**).",
    "No. Un defecto de forma que causa indefensión no es un error material, de hecho o aritmético (art. 109.2)."
   ],
-  "ojo": "Método rápido: primero, ¿es nulo? Si no lo es, mira si es favorable (lesividad) o desfavorable (revocación)."
+  "ojo": "Método rápido: primero, ¿es nulo? Si no lo es, mira si es favorable (lesividad) o desfavorable (revocación). En clase: solo actos de gravamen o desfavorables. Si te ponen una multa que no procede, la Administración la revoca ella sola, sin jueces ni Consejo de Estado. Pero no puede revocarla «porque le caes bien»: sería una dispensa no permitida y contraria a la igualdad. Un acto favorable nunca se revoca sin más: si es nulo, art. 106, y si es anulable, art. 107. Del plazo de prescripción el profesor dice que no te lo van a preguntar, pregunta la literalidad."
  },
  "pr-26-003": {
   "bloque": "revision",
@@ -277,7 +284,8 @@
    "No. Aunque el acto favorece a D. Valentín, no hay que ir al juez por una cuenta mal hecha. La lesividad es para otros vicios (art. 107).",
    "No. La revocación es para actos desfavorables (art. 109.1). Además, aquí no se trata de quitar el acto, sino de corregir la cifra.",
    "Es esta. El propio enunciado dice que hay un error aritmético: 75.000 euros en lugar de los 7.500 solicitados y justificados. El **art. 109.2** permite rectificarlo en cualquier momento, aunque el error favorezca a D. Valentín."
-  ]
+  ],
+  "ojo": "En clase: error aritmético es que la subvención es 500 + 200 y pone 7.000 en vez de 700. Error material o de hecho es que pone «Carmona» en vez de «Cardona». Tiene que ser evidente y palmario. El error de derecho (interpretaste una norma de una manera y ahora de otra) no se rectifica: hay que ir a la nulidad, la lesividad o la revocación."
  },
  "pr-26-004": {
   "bloque": "revision",
@@ -288,7 +296,8 @@
    "Es esta. La subvención favorece a don Bonifacio y tiene una infracción del ordenamiento que la hace anulable (art. 48.1). Para un acto favorable y anulable, la vía es declararlo lesivo e impugnarlo ante el juez (**art. 107.1**).",
    "No. La revocación es para actos desfavorables (art. 109.1), y la subvención es favorable.",
    "No. Un error de valoración jurídica no es una errata evidente. La rectificación del art. 109.2 no sirve para volver a juzgar el fondo."
-  ]
+  ],
+  "ojo": "En clase: la paradoja es que la Administración va al juez para anular un acto que dictó ella misma. Ejemplo: te dan una subvención valorando un mérito que no te correspondía. Es anulable, no nulo, y mientras el juez no lo anule sigues con tu subvención. Si va al juez sin declararlo lesivo antes, el juez le dirá que vuelva atrás."
  },
  "pr-26-005": {
   "bloque": "revision",
@@ -299,7 +308,8 @@
    "No. Es favorable, pero nulo, no anulable. La lesividad (art. 107) no se aplica.",
    "No. La revocación es para actos desfavorables (art. 109.1), y la ayuda beneficia a don Casimiro.",
    "No. Un delito no es un error material. El art. 109.2 no puede usarse para esto."
-  ]
+  ],
+  "ojo": "En clase: el profesor lo marca como IMP. Solo vale para actos que han puesto fin a la vía administrativa o no se recurrieron en plazo, y la nulidad no prescribe. La Administración es la única que declara la nulidad, pero necesita el dictamen favorable del Consejo de Estado: no basta con pedirlo, tiene que estar de acuerdo."
  },
  "pr-27-001": {
   "bloque": "revision",
@@ -311,7 +321,7 @@
    "No. La revocación es para actos desfavorables (art. 109.1), y esta autorización beneficia a doña Abelina.",
    "No. La desviación de poder no es un error material, de hecho o aritmético (art. 109.2)."
   ],
-  "ojo": "Suena muy grave, pero la desviación de poder es anulabilidad, no nulidad."
+  "ojo": "Suena muy grave, pero la desviación de poder es anulabilidad, no nulidad. En clase: la paradoja es que la Administración va al juez para anular un acto que dictó ella misma. Ejemplo: te dan una subvención valorando un mérito que no te correspondía. Es anulable, no nulo, y mientras el juez no lo anule sigues con tu subvención. Si va al juez sin declararlo lesivo antes, el juez le dirá que vuelva atrás."
  },
  "pr-27-002": {
   "bloque": "revision",
@@ -323,7 +333,7 @@
    "No. La revocación es para actos desfavorables (art. 109.1), y este favorece a D. Gregorio.",
    "Es esta. D. Gregorio reclamó y justificó 250 euros, y la resolución dice 250.000. El fallo se ve con solo comparar las cifras, así que es un error material o aritmético que se corrige en cualquier momento por el **art. 109.2**."
   ],
-  "ojo": "Un error se rectifica por el art. 109.2 solo si es evidente y no exige interpretar normas. Aquí basta comparar dos cifras del expediente: 250 euros pedidos, 250.000 concedidos."
+  "ojo": "Un error se rectifica por el art. 109.2 solo si es evidente y no exige interpretar normas. Aquí basta comparar dos cifras del expediente: 250 euros pedidos, 250.000 concedidos. En clase: error aritmético es que la subvención es 500 + 200 y pone 7.000 en vez de 700. Error material o de hecho es que pone «Carmona» en vez de «Cardona». Tiene que ser evidente y palmario. El error de derecho (interpretaste una norma de una manera y ahora de otra) no se rectifica: hay que ir a la nulidad, la lesividad o la revocación."
  },
  "pr-27-003": {
   "bloque": "revision",
@@ -335,7 +345,7 @@
    "Es esta. La incompetencia por razón de la jerarquía queda fuera del **art. 47.1.b)**, así que el acto es anulable (art. 48.1). Como la sanción es desfavorable para D.ª Ana, la vía es revocarla (**art. 109.1**).",
    "No. Que la haya dictado un órgano sin competencia no es un error material, de hecho o aritmético (art. 109.2)."
   ],
-  "ojo": "Nulidad: incompetencia manifiesta por materia o territorio. Por jerarquía: anulabilidad."
+  "ojo": "Nulidad: incompetencia manifiesta por materia o territorio. Por jerarquía: anulabilidad. En clase: solo actos de gravamen o desfavorables. Si te ponen una multa que no procede, la Administración la revoca ella sola, sin jueces ni Consejo de Estado. Pero no puede revocarla «porque le caes bien»: sería una dispensa no permitida y contraria a la igualdad. Un acto favorable nunca se revoca sin más: si es nulo, art. 106, y si es anulable, art. 107. Del plazo de prescripción el profesor dice que no te lo van a preguntar, pregunta la literalidad."
  },
  "pr-27-004": {
   "bloque": "revision",
@@ -346,7 +356,8 @@
    "No. Aunque el acto es favorable, es nulo y no anulable. La lesividad (art. 107) no se aplica.",
    "No. La revocación es para actos desfavorables (art. 109.1), y la beca es favorable.",
    "No. Saltarse todo el procedimiento no es una errata que pueda rectificarse (art. 109.2)."
-  ]
+  ],
+  "ojo": "En clase: el profesor lo marca como IMP. Solo vale para actos que han puesto fin a la vía administrativa o no se recurrieron en plazo, y la nulidad no prescribe. La Administración es la única que declara la nulidad, pero necesita el dictamen favorable del Consejo de Estado: no basta con pedirlo, tiene que estar de acuerdo."
  },
  "pr-27-005": {
   "bloque": "revision",
@@ -357,7 +368,8 @@
    "No. La lesividad solo vale para actos favorables (art. 107.1), y una denegación no lo es.",
    "Es esta. La resolución deniega la inscripción a doña Hermenegilda y don Saturnino, así que es un acto desfavorable. Para dejarlo sin efecto, la vía es la revocación (**art. 109.1**), que permite a la Administración corregir su decisión sin ir al juez.",
    "No. No es una errata, sino una exigencia equivocada de un requisito: una mala aplicación de la norma que no corrige el art. 109.2."
-  ]
+  ],
+  "ojo": "En clase: solo actos de gravamen o desfavorables. Si te ponen una multa que no procede, la Administración la revoca ella sola, sin jueces ni Consejo de Estado. Pero no puede revocarla «porque le caes bien»: sería una dispensa no permitida y contraria a la igualdad. Un acto favorable nunca se revoca sin más: si es nulo, art. 106, y si es anulable, art. 107. Del plazo de prescripción el profesor dice que no te lo van a preguntar, pregunta la literalidad."
  },
  "pr-28-001": {
   "bloque": "revision",
@@ -368,7 +380,8 @@
    "No. La lesividad es para actos anulables (art. 107), y este es nulo.",
    "No. La revocación es para actos desfavorables (art. 109.1), y esta autorización favorece a la empresa.",
    "No. Un certificado falsificado no es un error material ni aritmético (art. 109.2)."
-  ]
+  ],
+  "ojo": "En clase: el profesor lo marca como IMP. Solo vale para actos que han puesto fin a la vía administrativa o no se recurrieron en plazo, y la nulidad no prescribe. La Administración es la única que declara la nulidad, pero necesita el dictamen favorable del Consejo de Estado: no basta con pedirlo, tiene que estar de acuerdo."
  },
  "pr-28-002": {
   "bloque": "revision",
@@ -379,7 +392,8 @@
    "No. Pueden pedirla los interesados, pero no solo ellos. La Administración también puede actuar por iniciativa propia (art. 106.1).",
    "Es esta. El **art. 106.1** dice que la Administración actúa “por iniciativa propia o a solicitud de interesado”. La nulidad de la autorización de Autocares Sierra Norte se pudo poner en marcha de cualquiera de las dos formas.",
    "No. El Consejo de Estado no inicia nada: emite un dictamen, que aquí debe ser favorable para poder declarar la nulidad (art. 106.1)."
-  ]
+  ],
+  "ojo": "En clase: el profesor lo marca como IMP. Solo vale para actos que han puesto fin a la vía administrativa o no se recurrieron en plazo, y la nulidad no prescribe. La Administración es la única que declara la nulidad, pero necesita el dictamen favorable del Consejo de Estado: no basta con pedirlo, tiene que estar de acuerdo."
  },
  "pr-28-003": {
   "bloque": "revision",
@@ -391,7 +405,7 @@
    "No. La autorización es nula, no anulable. Además, la anulabilidad la declara el juez, no la Administración como paso previo.",
    "No. Esa es la finalidad de la lesividad (art. 107.1), que se reserva para actos anulables favorables."
   ],
-  "ojo": "Nulo: la Administración lo anula sola. Anulable y favorable: lo declara lesivo y lo anula el juez."
+  "ojo": "Nulo: la Administración lo anula sola. Anulable y favorable: lo declara lesivo y lo anula el juez. En clase: el profesor lo marca como IMP. Solo vale para actos que han puesto fin a la vía administrativa o no se recurrieron en plazo, y la nulidad no prescribe. La Administración es la única que declara la nulidad, pero necesita el dictamen favorable del Consejo de Estado: no basta con pedirlo, tiene que estar de acuerdo."
  },
  "pr-28-004": {
   "bloque": "revision",
@@ -402,7 +416,8 @@
    "No. Es contar cuatro años. Esa es la lógica de la lesividad, que no puede adoptarse pasados cuatro años desde que se dictó el acto (art. 107.2). No vale para actos nulos.",
    "No. El art. 106.1 no pone límite de cinco años ni de ningún otro número.",
    "Es esta. El **art. 106.1** permite declarar la nulidad “en cualquier momento”. El único freno general es el art. 110: no se puede revisar si, por el tiempo pasado u otras circunstancias, resulta contrario a la equidad, la buena fe, el derecho de los particulares o las leyes."
-  ]
+  ],
+  "ojo": "En clase: el profesor lo marca como IMP. Solo vale para actos que han puesto fin a la vía administrativa o no se recurrieron en plazo, y la nulidad no prescribe. La Administración es la única que declara la nulidad, pero necesita el dictamen favorable del Consejo de Estado: no basta con pedirlo, tiene que estar de acuerdo."
  },
  "pr-28-005": {
   "bloque": "revision",
@@ -414,7 +429,7 @@
    "Es esta. El **art. 106.5** dice que, pasados seis meses, si el procedimiento se inició a solicitud de interesado, la solicitud se puede entender desestimada por silencio. La empresa competidora podría entonces recurrir esa desestimación.",
    "No. Los interesados pueden pedir la revisión de actos nulos (art. 106.1). Solo la lesividad queda fuera de esa posibilidad."
   ],
-  "ojo": "Misma vía, distinto efecto: de oficio, caducidad; a solicitud de interesado, silencio negativo."
+  "ojo": "Misma vía, distinto efecto: de oficio, caducidad; a solicitud de interesado, silencio negativo. En clase: el profesor lo marca como IMP. Seis meses en los dos casos: de oficio, caducidad. A solicitud del interesado, se entiende desestimada por silencio."
  },
  "pr-28-006": {
   "bloque": "revision",
@@ -426,7 +441,7 @@
    "No. La revocación es para actos desfavorables (art. 109.1), y una subvención de 300.000 euros es favorable.",
    "No. Dar quince puntos por un criterio no previsto es un error de valoración, no una errata evidente. No se corrige por el art. 109.2."
   ],
-  "ojo": "Aunque sin esos puntos la empresa no habría obtenido la subvención, el caso no habla de falta de requisitos esenciales (art. 47.1.f), sino de un mérito mal valorado."
+  "ojo": "Aunque sin esos puntos la empresa no habría obtenido la subvención, el caso no habla de falta de requisitos esenciales (art. 47.1.f), sino de un mérito mal valorado. En clase: la paradoja es que la Administración va al juez para anular un acto que dictó ella misma. Ejemplo: te dan una subvención valorando un mérito que no te correspondía. Es anulable, no nulo, y mientras el juez no lo anule sigues con tu subvención. Si va al juez sin declararlo lesivo antes, el juez le dirá que vuelva atrás."
  },
  "pr-28-007": {
   "bloque": "revision",
@@ -438,7 +453,7 @@
    "No. Esa es la fórmula de la revisión de actos nulos (art. 106.1). En la lesividad, el art. 107 no prevé la solicitud de interesado.",
    "No. El Consejo de Estado no inicia procedimientos, y en la lesividad el art. 107 ni siquiera exige su dictamen."
   ],
-  "ojo": "El art. 107 no dice literalmente “únicamente de oficio”: se deduce comparándolo con el art. 106.1."
+  "ojo": "El art. 107 no dice literalmente “únicamente de oficio”: se deduce comparándolo con el art. 106.1. En clase: la paradoja es que la Administración va al juez para anular un acto que dictó ella misma. Ejemplo: te dan una subvención valorando un mérito que no te correspondía. Es anulable, no nulo, y mientras el juez no lo anule sigues con tu subvención. Si va al juez sin declararlo lesivo antes, el juez le dirá que vuelva atrás."
  },
  "pr-28-008": {
   "bloque": "revision",
@@ -449,7 +464,8 @@
    "No. Mezcla dos vías: no es nula, y lo que se exige antes de impugnar no es declarar la nulidad, sino la lesividad.",
    "No. La Administración no declara la anulabilidad. Eso lo decide el juez, una vez que se impugna el acto.",
    "Es esta. El **art. 107.1** dice que la Administración puede impugnar ante lo contencioso-administrativo los actos favorables anulables, “previa su declaración de lesividad para el interés público”. La declaración no anula la subvención: abre la puerta al juez, que es quien decide."
-  ]
+  ],
+  "ojo": "En clase: la paradoja es que la Administración va al juez para anular un acto que dictó ella misma. Ejemplo: te dan una subvención valorando un mérito que no te correspondía. Es anulable, no nulo, y mientras el juez no lo anule sigues con tu subvención. Si va al juez sin declararlo lesivo antes, el juez le dirá que vuelva atrás."
  },
  "pr-28-009": {
   "bloque": "revision",
@@ -461,7 +477,7 @@
    "No. Eso serían cinco años. El art. 107.2 dice cuatro.",
    "No. “En cualquier momento” es de la nulidad (art. 106.1). La lesividad tiene un límite de cuatro años."
   ],
-  "ojo": "Los cuatro años cuentan desde que se dictó el acto, no desde que se notificó ni desde que se descubrió el vicio."
+  "ojo": "Los cuatro años cuentan desde que se dictó el acto, no desde que se notificó ni desde que se descubrió el vicio. En clase: los 4 años son pregunta de examen. Que la declaración de lesividad no se recurre está marcado como IMP: todavía no te quita nada, solo es el presupuesto procesal para que el juez admita el caso. Antes hay que dar audiencia a los interesados (art. 82), y se les notifica solo a efectos informativos."
  },
  "pr-28-010": {
   "bloque": "revision",
@@ -473,6 +489,6 @@
    "No. El plazo es correcto, pero el efecto no. Al iniciarse de oficio, no hay solicitud que desestimar: se produce la caducidad (art. 107.3).",
    "Es esta. El **art. 107.3** dice que, pasados seis meses desde que se inició el procedimiento sin declarar la lesividad, se produce la caducidad. Es decir, el procedimiento de Movilidad Verde se archivaría por agotar el tiempo."
   ],
-  "ojo": "La caducidad cierra el procedimiento, pero no prohíbe por sí misma empezar otro si aún no han pasado los cuatro años del art. 107.2."
+  "ojo": "La caducidad cierra el procedimiento, pero no prohíbe por sí misma empezar otro si aún no han pasado los cuatro años del art. 107.2. En clase: seis meses desde la iniciación sin declarar la lesividad y el procedimiento caduca. No lo mezcles con los 4 años desde que se dictó el acto."
  }
 }

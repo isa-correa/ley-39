@@ -239,7 +239,8 @@
    "No. Diez días es el plazo general de los trámites (art. 73.1), pero aquí la ley fija un tope distinto, de quince.",
    "Es esta. El **art. 88.1** permite pronunciarse sobre cuestiones conexas no planteadas, pero antes hay que ponerlo de manifiesto a los interesados “por un plazo no superior a quince días”. Así pueden alegar y aportar pruebas.",
    "No. Veinte días supera el tope del art. 88.1, que es de quince."
-  ]
+  ],
+  "ojo": "En clase: si pides una pensión de jubilación, una cuestión conexa es si te pagan unos meses con carácter retroactivo. El órgano puede decidirla, pero antes te da como máximo 15 días para alegar. Un viaje del IMSERSO no tiene nada que ver, así que no es conexa."
  },
  "pr-21-002": {
   "bloque": "finalizacion",
@@ -250,7 +251,8 @@
    "Es esta. El **art. 90.2** dice que, si el órgano que resuelve ve más grave la infracción o la sanción que la propuesta, lo notifica al inculpado para que alegue “en el plazo de quince días”.",
    "No. Veinte días no aparece en este supuesto. El plazo es de quince.",
    "No. Siete días no es el plazo de este trámite. Son quince días (art. 90.2)."
-  ]
+  ],
+  "ojo": "En clase: si todo el procedimiento va de un semáforo, no pueden sancionarte por no llevar la pegatina de la ITV, porque de eso no te has podido defender. Los mismos hechos sí pueden calificarse distinto: si el órgano que resuelve ve la infracción más grave que la propuesta, te da 15 días para alegar (el «incidente de mayor gravedad»)."
  },
  "pr-21-003": {
   "bloque": "finalizacion",
@@ -262,7 +264,7 @@
    "Es esta. El **art. 91.3** dice que, “transcurridos seis meses” desde que se inició el procedimiento sin resolución ni acuerdo, puede entenderse que la resolución es contraria a la indemnización. Es decir, silencio negativo.",
    "No. Un año es el plazo que la Ley da al particular para reclamar (art. 67.1), no para que la Administración resuelva."
   ],
-  "ojo": "No confundas el año para reclamar con los seis meses para resolver."
+  "ojo": "No confundas el año para reclamar con los seis meses para resolver. En clase: el profesor lo marca como «super IMP», pregunta clarísima de examen y de supuesto práctico. Es uno de los cuatro casos de silencio negativo del art. 24 (derecho de petición, dominio o servicio público, medio ambiente y responsabilidad patrimonial) y siempre es desestimatorio, incluso en el doble silencio del recurso de alzada."
  },
  "pr-21-004": {
   "bloque": "finalizacion",
@@ -273,7 +275,8 @@
    "Es esta. El **art. 94.4** dice que la Administración acepta el desistimiento o la renuncia salvo que los terceros personados pidan continuar “en el plazo de diez días” desde que fueron notificados.",
    "No. Quince días no es el plazo. Son diez (art. 94.4).",
    "No. Esa horquilla recuerda a la de la audiencia (de 10 a 15 días, art. 82.2), pero aquí el plazo es fijo: diez días."
-  ]
+  ],
+  "ojo": "En clase: ejemplo de los pozos a 100 metros. María tiene un pozo autorizado, Juana pide uno al lado y María se persona porque tiene interés legítimo. Si Juana desiste, María tiene 10 días desde que le notifican el desistimiento para instar la continuación y que se resuelva que ahí no cabe pozo."
  },
  "pr-21-005": {
   "bloque": "finalizacion",
@@ -284,7 +287,8 @@
    "No. Un mes no es suficiente. Son tres (art. 95.1).",
    "No. Dos meses tampoco es el plazo. Son tres (art. 95.1).",
    "Es esta. El **art. 95.1** dice que, si el procedimiento se paraliza por causa del interesado, se le advierte de que “transcurridos tres meses” se producirá la caducidad. Pasado ese plazo sin que actúe, se archivan las actuaciones."
-  ]
+  ],
+  "ojo": "En clase: el profesor lo marca como pregunta de examen. Ejemplo: alguien pide abrir una farmacia y no trae los documentos del local. Se le dan 10 días, no lo hace, se le advierte de que en 3 meses caducará, pasan y se archiva. Y contra la resolución que declara la caducidad sí caben recursos: es fácil fallar porque estamos acostumbrados a que los actos incidentales no se recurran."
  },
  "pr-21-006": {
   "bloque": "finalizacion",
@@ -296,7 +300,7 @@
    "No. Diez días es el plazo general de los trámites, pero aquí la ley fija cinco.",
    "No. Quince días no es el plazo. Son cinco (art. 96.3)."
   ],
-  "ojo": "En la tramitación simplificada, el silencio sobre la solicitud es negativo y sin posibilidad de recurso."
+  "ojo": "En la tramitación simplificada, el silencio sobre la solicitud es negativo y sin posibilidad de recurso. En clase: si el interesado la pide y el órgano ve que no hay razones, tiene 5 días para desestimar la solicitud, sin recurso. Pasados los 5 días se entiende desestimada (silencio negativo)."
  },
  "pr-21-007": {
   "bloque": "finalizacion",
@@ -307,7 +311,8 @@
    "Es esta. El **art. 96.6.c)** prevé las alegaciones al inicio del procedimiento simplificado “durante el plazo de cinco días”.",
    "No. Siete días no es el plazo. Son cinco (art. 96.6.c).",
    "No. Diez días es el plazo general de los trámites (art. 73.1), pero en la tramitación simplificada se reduce a cinco."
-  ]
+  ],
+  "ojo": "En clase: 30 días «desde el siguiente» a la notificación del acuerdo, salvo que reste menos en la ordinaria (si en la ordinaria quedaban 20, se resuelve en 20). Los trámites son una lista cerrada: inicio, subsanación (10 días), alegaciones (5 días), audiencia solo si es desfavorable, informes jurídicos, dictamen del Consejo de Estado si es preceptivo y resolución."
  },
  "pr-21-008": {
   "bloque": "finalizacion",
@@ -319,7 +324,7 @@
    "No. Parece lo mismo, pero no lo es. La ley dice treinta días, que se cuentan como hábiles (art. 30.2), mientras que un mes va de fecha a fecha (art. 30.4).",
    "Es esta. El **art. 96.6** dice que estos procedimientos “deberán ser resueltos en treinta días”, contados desde el siguiente a la notificación del acuerdo de tramitación simplificada, salvo que reste menos para la tramitación ordinaria."
   ],
-  "ojo": "Treinta días no es lo mismo que un mes: la diferencia entre días hábiles y meses es una trampa clásica."
+  "ojo": "Treinta días no es lo mismo que un mes: la diferencia entre días hábiles y meses es una trampa clásica. En clase: 30 días «desde el siguiente» a la notificación del acuerdo, salvo que reste menos en la ordinaria (si en la ordinaria quedaban 20, se resuelve en 20). Los trámites son una lista cerrada: inicio, subsanación (10 días), alegaciones (5 días), audiencia solo si es desfavorable, informes jurídicos, dictamen del Consejo de Estado si es preceptivo y resolución."
  },
  "pr-21-009": {
   "bloque": "finalizacion",
@@ -330,7 +335,8 @@
    "No. Treinta días es el plazo para resolver todo el procedimiento simplificado (art. 96.6), no para el dictamen.",
    "No. Un mes no es el plazo del dictamen. Son quince días (art. 96.6.g).",
    "No. Dos meses no encaja con un procedimiento que debe resolverse en treinta días. El dictamen puede emitirse en quince."
-  ]
+  ],
+  "ojo": "En clase: desde que se solicita hasta que se emite el dictamen, el plazo para resolver se suspende automáticamente (solo en la simplificada). Puede emitirse en 15 días si así se pide, y el expediente lleva propuesta de resolución. Si es contrario al fondo, se sigue por la ordinaria y se convalida todo menos el dictamen. Es la quinta suspensión automática: las tres del art. 22.2, el informe del CGPJ y este dictamen."
  },
  "pr-21-010": {
   "bloque": "revision",
@@ -341,7 +347,8 @@
    "No. Un año no es plazo de esta revisión. La nulidad se puede declarar en cualquier momento.",
    "No. Cuatro años es el plazo de la lesividad de actos anulables (art. 107.2), no de la revisión de actos nulos.",
    "No. Cinco años no aparece en esta revisión. Para actos nulos no hay plazo: en cualquier momento."
-  ]
+  ],
+  "ojo": "En clase: el profesor lo marca como IMP. Solo vale para actos que han puesto fin a la vía administrativa o no se recurrieron en plazo, y la nulidad no prescribe. La Administración es la única que declara la nulidad, pero necesita el dictamen favorable del Consejo de Estado: no basta con pedirlo, tiene que estar de acuerdo."
  },
  "pr-21-011": {
   "bloque": "revision",
@@ -353,7 +360,7 @@
    "Es esta. El **art. 107.2** dice que la declaración de lesividad no podrá adoptarse “una vez transcurridos cuatro años desde que se dictó el acto”.",
    "No. Cinco años no es el tope. Son cuatro (art. 107.2)."
   ],
-  "ojo": "Fíjate en el punto de partida: se cuenta desde que se dictó el acto, no desde que se notificó."
+  "ojo": "Fíjate en el punto de partida: se cuenta desde que se dictó el acto, no desde que se notificó. En clase: los 4 años son pregunta de examen. Que la declaración de lesividad no se recurre está marcado como IMP: todavía no te quita nada, solo es el presupuesto procesal para que el juez admita el caso. Antes hay que dar audiencia a los interesados (art. 82), y se les notifica solo a efectos informativos."
  },
  "pr-21-012": {
   "bloque": "revision",
@@ -364,7 +371,8 @@
    "No. Tres meses es el plazo supletorio general (art. 21.3), pero aquí la ley fija seis.",
    "Es esta. El **art. 106.5** dice que, si la revisión se inició de oficio, “el transcurso del plazo de seis meses” sin resolución produce la caducidad. Si la pidió el interesado, se entiende desestimada por silencio.",
    "No. Doce meses no es el plazo. Son seis (art. 106.5)."
-  ]
+  ],
+  "ojo": "En clase: el profesor lo marca como IMP. Seis meses en los dos casos: de oficio, caducidad. A solicitud del interesado, se entiende desestimada por silencio."
  },
  "pr-21-013": {
   "bloque": "revision",
@@ -376,7 +384,7 @@
    "Es esta. El **art. 107.3** dice que, “transcurrido el plazo de seis meses” desde la iniciación sin declarar la lesividad, el procedimiento caduca.",
    "No. Doce meses no es el plazo. Son seis (art. 107.3)."
   ],
-  "ojo": "Son dos plazos distintos: cuatro años para poder declarar la lesividad desde que se dictó el acto, y seis meses para tramitarla desde que se inicia."
+  "ojo": "Son dos plazos distintos: cuatro años para poder declarar la lesividad desde que se dictó el acto, y seis meses para tramitarla desde que se inicia. En clase: seis meses desde la iniciación sin declarar la lesividad y el procedimiento caduca. No lo mezcles con los 4 años desde que se dictó el acto."
  },
  "pr-21-014": {
   "bloque": "revision",
@@ -387,7 +395,8 @@
    "Es esta. El **art. 109.1** permite revocar los actos de gravamen o desfavorables “mientras no haya transcurrido el plazo de prescripción”, con los límites que recoge el propio enunciado.",
    "No. Un año no es el límite de la revocación. El límite es la prescripción.",
    "No. Cuatro años es el plazo de la lesividad (art. 107.2), no el de la revocación."
-  ]
+  ],
+  "ojo": "En clase: solo actos de gravamen o desfavorables. Si te ponen una multa que no procede, la Administración la revoca ella sola, sin jueces ni Consejo de Estado. Pero no puede revocarla «porque le caes bien»: sería una dispensa no permitida y contraria a la igualdad. Un acto favorable nunca se revoca sin más: si es nulo, art. 106, y si es anulable, art. 107. Del plazo de prescripción el profesor dice que no te lo van a preguntar, pregunta la literalidad."
  },
  "pr-21-015": {
   "bloque": "revision",
@@ -398,7 +407,8 @@
    "No. El plazo de prescripción es el límite de la revocación (art. 109.1), no el de la rectificación de errores.",
    "No. Un año no es el límite. Rectificar se puede hacer en cualquier momento.",
    "No. Cuatro años es el plazo de la lesividad (art. 107.2). La rectificación no tiene plazo."
-  ]
+  ],
+  "ojo": "En clase: error aritmético es que la subvención es 500 + 200 y pone 7.000 en vez de 700. Error material o de hecho es que pone «Carmona» en vez de «Cardona». Tiene que ser evidente y palmario. El error de derecho (interpretaste una norma de una manera y ahora de otra) no se rectifica: hay que ir a la nulidad, la lesividad o la revocación."
  },
  "pr-22-001": {
   "bloque": "actividad",
@@ -491,7 +501,7 @@
    "No. Falla “inmediatamente”. Antes hay que advertir a BioVet y dejar pasar tres meses (art. 95.1).",
    "Es esta. El procedimiento está paralizado por causa de la empresa, y el **art. 95.1** manda advertirle de que “transcurridos tres meses, se producirá la caducidad”. Solo después, si sigue sin actuar, se archivan las actuaciones."
   ],
-  "ojo": "La clave es si el trámite es indispensable para resolver. Si no lo es, decaimiento. Si lo es y el procedimiento se para, advertencia de caducidad."
+  "ojo": "La clave es si el trámite es indispensable para resolver. Si no lo es, decaimiento. Si lo es y el procedimiento se para, advertencia de caducidad. En clase: el profesor lo marca como pregunta de examen. Ejemplo: alguien pide abrir una farmacia y no trae los documentos del local. Se le dan 10 días, no lo hace, se le advierte de que en 3 meses caducará, pasan y se archiva. Y contra la resolución que declara la caducidad sí caben recursos: es fácil fallar porque estamos acostumbrados a que los actos incidentales no se recurran."
  },
  "pr-22-009": {
   "bloque": "finalizacion",
@@ -502,7 +512,8 @@
    "No. Falla el “no” del principio. Sí cabe recurso. La revisión de oficio (art. 106) es otra vía, para actos nulos, y no sustituye a los recursos.",
    "No. También falla el “no” del principio, porque sí cabe recurso. La revocación (art. 109.1) es una facultad de la Administración que no quita ese derecho a la empresa.",
    "Es esta. El **art. 95.1** termina diciendo: “Contra la resolución que declare la caducidad procederán los recursos pertinentes”. BioVet puede recurrir, con el recurso que corresponda según el órgano que la haya dictado."
-  ]
+  ],
+  "ojo": "En clase: el profesor lo marca como pregunta de examen. Ejemplo: alguien pide abrir una farmacia y no trae los documentos del local. Se le dan 10 días, no lo hace, se le advierte de que en 3 meses caducará, pasan y se archiva. Y contra la resolución que declara la caducidad sí caben recursos: es fácil fallar porque estamos acostumbrados a que los actos incidentales no se recurran."
  },
  "pr-22-010": {
   "bloque": "finalizacion",
@@ -514,6 +525,6 @@
    "No. El interés general es otro asunto: puede hacer que no se aplique la caducidad (art. 95.4), pero no condiciona que se pueda iniciar un nuevo procedimiento.",
    "No. Es al revés: la caducidad “no producirá por sí sola la prescripción” de las acciones del particular (art. 95.3). Por eso BioVet puede volver a solicitar."
   ],
-  "ojo": "Un procedimiento caducado no interrumpe la prescripción (art. 95.3), pero tampoco la causa por sí solo."
+  "ojo": "Un procedimiento caducado no interrumpe la prescripción (art. 95.3), pero tampoco la causa por sí solo. En clase: el profesor lo marca como IMP. Ejemplo: curación el 10 de octubre de 2023, solicitud en plazo el 10 de mayo de 2024, caducidad el 10 de septiembre de 2024. El año para reclamar sigue corriendo y vence el 10 de octubre de 2024, no el de 2025. Si presentas una nueva solicitud el 8 de octubre de 2024, se puede reutilizar el informe del servicio, pero hay que repetir alegaciones, proposición de prueba y audiencia."
  }
 }

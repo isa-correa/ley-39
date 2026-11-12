@@ -237,7 +237,8 @@
   "Es esta. El **art. 88.3** dice que la resolución contiene **la decisión** (motivada cuando toca) y expresa **los recursos** que proceden, el **órgano** ante el que presentarlos y el **plazo** para hacerlo. Es lo que te permite saber cómo defenderte.",
   "No. Sobra “solo”, porque faltan los recursos, el órgano y el plazo (art. 88.3).",
   "No. El art. 88.3 no pide los antecedentes del procedimiento. Lo que no puede faltar, además de la decisión, es la indicación de recursos, órgano y plazo."
- ]
+ ],
+ "ojo": "En clase: las resoluciones desestimatorias se motivan siempre (art. 35.1.a), porque limitan derechos o intereses legítimos. Además llevan pie de recurso, como en el art. 40."
 },
 "vo-11-002": {
  "bloque": "finalizacion",
@@ -248,7 +249,8 @@
   "No. Tampoco depende de que haya un informe facultativo. La condición es que instruir y resolver correspondan a órganos distintos (art. 88.7).",
   "No. El art. 88.7 no habla de que los criterios difieran. La propuesta se eleva porque son órganos diferentes, piensen lo mismo o no.",
   "Es esta. Es el **art. 88.7**: si la competencia para instruir y resolver **no recae en un mismo órgano**, el instructor debe elevar una propuesta de resolución. Es lógico: quien va a decidir no ha llevado el expediente y necesita esa propuesta."
- ]
+ ],
+ "ojo": "En clase: si instruye y resuelve el mismo órgano, no hay propuesta de resolución (no tiene sentido proponerse algo a uno mismo). En el sancionador se notifica al inculpado para que se defienda una vez más: es el derecho a la última palabra."
 },
 "vo-11-003": {
  "bloque": "finalizacion",
@@ -259,7 +261,8 @@
   "No. El contenido está bien, pero te han cambiado el plazo: son quince días, no diez (art. 88.1).",
   "No. El plazo está bien, pero te han cambiado la palabra: se formulan alegaciones, no “la audiencia”. La audiencia es un trámite distinto (art. 82).",
   "No. Fallan dos cosas: el plazo es de quince días, no de diez, y se formulan alegaciones, no “la audiencia” (art. 88.1)."
- ]
+ ],
+ "ojo": "En clase: si pides una pensión de jubilación, una cuestión conexa es si te pagan unos meses con carácter retroactivo. El órgano puede decidirla, pero antes te da como máximo 15 días para alegar. Un viaje del IMSERSO no tiene nada que ver, así que no es conexa."
 },
 "vo-11-004": {
  "bloque": "finalizacion",
@@ -270,7 +273,8 @@
   "No. Sobra “en todo caso”. Si se ve que no hay infracción, el procedimiento puede terminar con archivo (art. 89.1), sin seguir adelante.",
   "No. Conceder alegaciones no es lo que prevé la ley para este caso. Las alegaciones se abren al notificar la propuesta de resolución (art. 89.2), y primero hay que decidir entre archivar o formular esa propuesta.",
   "Es esta. El **art. 89.3** dice que, cuando la instrucción concluye que no hay infracción o responsabilidad y **no se usa la facultad de archivar** del apartado primero, la propuesta de resolución **declara esa circunstancia**. Es decir: o se archiva, o se dice así en la propuesta."
- ]
+ ],
+ "ojo": "En clase: la propuesta fija de forma motivada los hechos probados y su calificación jurídica, la valoración de las pruebas y las medidas provisionales adoptadas."
 },
 "vo-11-005": {
  "bloque": "finalizacion",
@@ -282,7 +286,7 @@
   "No. No hay que esperar a la vía judicial. Basta con que no quepa recurso ordinario en vía administrativa. Si anuncias que vas a ir al contencioso, se puede suspender cautelarmente, pero eso es otra cosa (art. 90.3).",
   "No. Sobra “o judicial”. El art. 90.3 solo mira los recursos ordinarios en vía administrativa."
  ],
- "ojo": "El art. 98.1.b) repite esta misma idea y aclara que incluye el recurso potestativo de reposición."
+ "ojo": "El art. 98.1.b) repite esta misma idea y aclara que incluye el recurso potestativo de reposición. En clase: es la excepción a la regla general de los arts. 38, 39 y 98 (los actos son ejecutivos desde que se dictan). Mientras no sea ejecutiva se pueden mantener las medidas provisionales como cautelares. Contra toda resolución administrativa cabe un recurso, y solo uno, en vía administrativa: alzada o potestativo de reposición."
 },
 "vo-11-006": {
  "bloque": "finalizacion",
@@ -293,7 +297,8 @@
   "No. Falla “no siempre”. El art. 91.2 dice que “será necesario” que la resolución se pronuncie sobre la relación de causalidad entre el servicio público y la lesión.",
   "No. Te han cambiado el momento. Se resuelve o se somete la propuesta de acuerdo una vez recibido el dictamen o, si no es preceptivo, una vez **finalizada** la audiencia, no antes (art. 91.1).",
   "No. La indemnización se calcula con los criterios del **art. 34 de la Ley 40/2015**, no con los que acuerden las partes (art. 91.2)."
- ]
+ ],
+ "ojo": "En clase: el profesor lo marca como «super IMP», pregunta clarísima de examen y de supuesto práctico. Es uno de los cuatro casos de silencio negativo del art. 24 (derecho de petición, dominio o servicio público, medio ambiente y responsabilidad patrimonial) y siempre es desestimatorio, incluso en el doble silencio del recurso de alzada."
 },
 "vo-11-007": {
  "bloque": "finalizacion",
@@ -304,7 +309,8 @@
   "Es esta. El **art. 92** dice que en la Administración General del Estado resuelve el **Ministro respectivo**, o el **Consejo de Ministros** en los casos del **art. 32.3 de la Ley 40/2015** o cuando una ley lo disponga. Ese art. 32.3 trata de los daños causados por actos legislativos.",
   "No. Resuelve el Ministro respectivo, es decir, el del área afectada, y no el Ministro de la Presidencia (art. 92).",
   "No. Te han cambiado el Consejo de Ministros por la Comisión Delegada del Gobierno, que el art. 92 no menciona."
- ]
+ ],
+ "ojo": "En clase: el profesor lo marca como IMP. En el 99,9 % de los supuestos prácticos resuelve el Ministro, nunca el Secretario de Estado. El Consejo de Ministros solo cuando lo diga una ley o en el caso rarísimo del art. 32.3 de la Ley 40/2015 (una ley que perjudica gravemente a un colectivo, por ejemplo los taxistas, y dice que hay que indemnizarlo). En las comunidades autónomas y en la Administración Local resuelven sus propios órganos, porque el Estado no puede regularlo con legislación básica."
 },
 "vo-11-008": {
  "bloque": "finalizacion",
@@ -315,7 +321,8 @@
   "Es esta. Es el **art. 93**: en los procedimientos iniciados de oficio, la Administración puede desistir **motivadamente**, en los **supuestos y con los requisitos previstos en las leyes**. Motivar significa explicar las razones de la decisión.",
   "No. El art. 93 exige lo contrario: tiene que desistir “motivadamente”.",
   "No. El art. 93 habla justamente del desistimiento en los procedimientos iniciados de oficio, así que sí procede."
- ]
+ ],
+ "ojo": "En clase: la Administración no puede renunciar, porque no renuncia a sus potestades. Solo puede desistir, y solo de lo que ella misma inició, por ejemplo un sancionador o una revocación de subvención iniciados de oficio. El acuerdo debe motivarse (art. 35.1.g)."
 },
 "vo-11-009": {
  "bloque": "finalizacion",
@@ -327,7 +334,7 @@
   "No. Parece igual pero te han cambiado una palabra: el art. 94.3 exige que incorpore **las firmas** que correspondan, no “la identificación”.",
   "Es esta. Es el **art. 94.2**: si dos o más interesados presentaron el escrito, el desistimiento o la renuncia **solo afecta a quienes lo hayan formulado**. Los demás siguen adelante con el procedimiento."
  ],
- "ojo": "Tres opciones con palabras cambiadas. Para recordarlo: desistir es abandonar este procedimiento, y puedes volver a pedirlo; renunciar es abandonar el derecho."
+ "ojo": "Tres opciones con palabras cambiadas. Para recordarlo: desistir es abandonar este procedimiento, y puedes volver a pedirlo; renunciar es abandonar el derecho. En clase: el profesor lo marca como IMP. Juan y María piden juntos un vado. Si Juan desiste, a María no le afecta: el procedimiento sigue para ella, sin preguntarle nada."
 },
 "vo-11-010": {
  "bloque": "finalizacion",
@@ -338,7 +345,8 @@
   "Es verdadera, así que no se marca. Es el art. 95.4: cuando afecta al interés general o conviene aclarar la cuestión, la caducidad puede no aplicarse.",
   "Es verdadera, así que no se marca. Es el art. 95.3: la caducidad no hace prescribir las acciones, pero el tiempo del procedimiento caducado no interrumpe la prescripción.",
   "Esta es la falsa, y por eso es la que hay que marcar. El **art. 95.1** dice **tres meses**, no dos. La Administración te avisa y, si pasan esos tres meses sin que hagas lo necesario para reanudar el procedimiento, lo archiva."
- ]
+ ],
+ "ojo": "En clase: el profesor lo marca como pregunta de examen. Ejemplo: alguien pide abrir una farmacia y no trae los documentos del local. Se le dan 10 días, no lo hace, se le advierte de que en 3 meses caducará, pasan y se archiva. Y contra la resolución que declara la caducidad sí caben recursos: es fácil fallar porque estamos acostumbrados a que los actos incidentales no se recurran."
 },
 "vo-11-011": {
  "bloque": "finalizacion",
@@ -349,7 +357,8 @@
   "No. Tres meses es el plazo supletorio del art. 21.3, cuando la norma no fija ninguno. Aquí son treinta días.",
   "No. El punto de partida está bien, pero el plazo no: son treinta días, no dos meses (art. 96.6).",
   "Es esta. El **art. 96.6** dice que la tramitación simplificada se resuelve en **treinta días**, contados **desde el siguiente** al que se notifica el acuerdo de tramitación simplificada. La excepción: si queda menos para la tramitación ordinaria, se aplica ese plazo más corto."
- ]
+ ],
+ "ojo": "En clase: 30 días «desde el siguiente» a la notificación del acuerdo, salvo que reste menos en la ordinaria (si en la ordinaria quedaban 20, se resuelve en 20). Los trámites son una lista cerrada: inicio, subsanación (10 días), alegaciones (5 días), audiencia solo si es desfavorable, informes jurídicos, dictamen del Consejo de Estado si es preceptivo y resolución."
 },
 "vo-11-012": {
  "bloque": "finalizacion",
@@ -360,7 +369,8 @@
   "No. Pagar voluntariamente no abre la tramitación simplificada, sino que termina el procedimiento (art. 85.2).",
   "No. Reconocer la responsabilidad permite resolver con la sanción que proceda (art. 85.1), pero no es el motivo de la tramitación simplificada.",
   "No. El art. 96.5 no usa el trámite de audiencia como criterio. El requisito es que la infracción se pueda calificar como leve."
- ]
+ ],
+ "ojo": "En clase: es el único caso en que no cabe la oposición expresa del interesado. En responsabilidad patrimonial (art. 96.4) sí cabe oposición, solo se puede acordar de oficio y se empieza por la vía ordinaria, porque hace falta el informe del servicio para ver si todo es inequívoco."
 },
 "vo-11-013": {
  "bloque": "finalizacion",
@@ -372,7 +382,7 @@
   "No. Falla “podrá”. Desde que se pide el dictamen hasta que se emite, “se producirá la suspensión automática” del plazo para resolver (art. 96.6.g).",
   "Es esta. Es el **art. 96.6.e)**: en la tramitación simplificada hay informe del servicio jurídico **cuando sea preceptivo**, es decir, solo cuando sea obligatorio pedirlo."
  ],
- "ojo": "La lista completa del art. 96.6: inicio, subsanación, alegaciones (5 días), audiencia (si es desfavorable), informe jurídico, informe del CGPJ, dictamen del Consejo de Estado y resolución."
+ "ojo": "La lista completa del art. 96.6: inicio, subsanación, alegaciones (5 días), audiencia (si es desfavorable), informe jurídico, informe del CGPJ, dictamen del Consejo de Estado y resolución. En clase: 30 días «desde el siguiente» a la notificación del acuerdo, salvo que reste menos en la ordinaria (si en la ordinaria quedaban 20, se resuelve en 20). Los trámites son una lista cerrada: inicio, subsanación (10 días), alegaciones (5 días), audiencia solo si es desfavorable, informes jurídicos, dictamen del Consejo de Estado si es preceptivo y resolución."
 },
 "vo-11-014": {
  "bloque": "finalizacion",
@@ -384,7 +394,7 @@
   "No. Te han cambiado “sancionadora” por “patrimonial”. La excepción del art. 98.1.b) es para los procedimientos de naturaleza **sancionadora** con recurso posible en vía administrativa.",
   "Es esta. El **art. 98.1** dice que los actos son **inmediatamente ejecutivos**, salvo varias excepciones. Una de ellas es, en su letra c), que **una disposición establezca lo contrario**. La opción solo nombra esa, pero lo que dice es correcto."
  ],
- "ojo": "Las cuatro excepciones del art. 98.1: suspensión, sanción con recurso en vía administrativa, disposición en contrario y necesidad de aprobación o autorización superior."
+ "ojo": "Las cuatro excepciones del art. 98.1: suspensión, sanción con recurso en vía administrativa, disposición en contrario y necesidad de aprobación o autorización superior. En clase: la regla general es que los actos son inmediatamente ejecutivos aunque quepa recurso. El recurso no suspende por sí solo, pero se puede pedir la suspensión si la ejecución causa un perjuicio de imposible o difícil reparación. La excepción sancionadora es la del art. 90.3."
 },
 "vo-11-015": {
  "bloque": "finalizacion",
@@ -395,7 +405,8 @@
   "No. La eficacia tampoco es el criterio. El art. 100.2 protege a la persona, no la comodidad de la Administración.",
   "Es esta. Es casi literal del **art. 100.2**: si hay varios medios admisibles, se elige “el menos restrictivo de la libertad individual”. Es una aplicación del principio de proporcionalidad que exige el art. 100.1.",
   "No. El orden de la lista del art. 100.1 no es un orden de preferencia. El apremio va primero, pero no por eso se elige siempre."
- ]
+ ],
+ "ojo": "En clase: el profesor lo marca como la principal pregunta de examen del capítulo. Los cuatro medios, siempre con proporcionalidad: apremio sobre el patrimonio, ejecución subsidiaria, multa coercitiva y compulsión sobre las personas. La multa coercitiva y la compulsión requieren una ley que las autorice. El orden de menos a más restrictivo es doctrinal y no suelen preguntarlo."
 },
 "vo-11-016": {
  "bloque": "finalizacion",
@@ -406,7 +417,8 @@
   "Es esta. Es el **art. 104.1**: la compulsión directa sobre las personas (obligar físicamente) solo cabe cuando **la ley lo autorice expresamente**, y siempre respetando la **dignidad** y los derechos reconocidos en la Constitución.",
   "No. El art. 104.1 no menciona ni la buena fe ni la proporcionalidad como condición. Exige autorización expresa de la ley.",
   "No. Parece igual, pero te han añadido “reglamentaria”. Un reglamento no basta: tiene que ser una ley, y además “expresamente”."
- ]
+ ],
+ "ojo": "En clase: ejemplos de no hacer o soportar: abandonar una casa en ruina o una vacuna obligatoria en una epidemia grave. Si una ley lo autoriza, pueden sacarte o vacunarte a la fuerza, respetando tu dignidad y tu integridad física y moral. Si la obligación personalísima es de hacer y no se cumple, cabe multa coercitiva y hay que resarcir daños y perjuicios (art. 104.2)."
 },
 "vo-11-017": {
  "bloque": "revision",
@@ -417,7 +429,8 @@
   "Es verdadera, así que no se marca. Es el art. 106.5: iniciado de oficio, si pasan seis meses sin resolución, el procedimiento caduca.",
   "Es verdadera, así que no se marca. Es el art. 106.3: se puede inadmitir a trámite, motivadamente, si ya se desestimaron en cuanto al fondo otras solicitudes sustancialmente iguales.",
   "Esta es la falsa, y por eso es la que hay que marcar. El **art. 108** dice que el órgano **podrá** suspender la ejecución, y solo cuando esta pudiera causar perjuicios de imposible o difícil reparación. “Suspenderán” lo convierte en obligatorio y automático."
- ]
+ ],
+ "ojo": "En clase: se puede suspender la ejecución del acto cuando pueda causar perjuicios de imposible o difícil reparación, por ejemplo un acto que puede llevar a derribar un edificio mientras se resuelve si es nulo."
 },
 "vo-11-018": {
  "bloque": "revision",
@@ -441,7 +454,7 @@
   "No. Otra vez cruzados. “En cualquier momento” es para rectificar errores. Revocar solo se puede mientras no haya transcurrido el plazo de prescripción (art. 109.1).",
   "Es esta. Es el **art. 109.2**: los errores materiales, de hecho o aritméticos (una errata o una cuenta mal hecha) se rectifican **en cualquier momento**, y **de oficio o a instancia de los interesados**."
  ],
- "ojo": "Revocar actos desfavorables tiene límite de tiempo: la prescripción. Rectificar errores, ninguno."
+ "ojo": "Revocar actos desfavorables tiene límite de tiempo: la prescripción. Rectificar errores, ninguno. En clase: error aritmético es que la subvención es 500 + 200 y pone 7.000 en vez de 700. Error material o de hecho es que pone «Carmona» en vez de «Cardona». Tiene que ser evidente y palmario. El error de derecho (interpretaste una norma de una manera y ahora de otra) no se rectifica: hay que ir a la nulidad, la lesividad o la revocación."
 },
 "vo-11-020": {
  "bloque": "revision",
@@ -452,6 +465,7 @@
   "No. Te han cambiado el órgano. Eso corresponde a **los Ministros**, no al Consejo de Ministros (art. 111.b.1.º).",
   "No. Te han cambiado una palabra: los Secretarios de Estado revisan lo dictado por los órganos **directivos** de ellos dependientes, no por los “superiores” (art. 111.b.2.º).",
   "No. El art. 111.b.2.º no menciona a los Subsecretarios. Los Secretarios de Estado revisan solo lo dictado por los órganos directivos que dependen de ellos."
- ]
+ ],
+ "ojo": "En clase: la regla general es que revisa el órgano superior al que dictó el acto. El Consejo de Ministros no tiene a nadie por encima: revisa los suyos y los de los Ministros. El Ministro revisa los de los Secretarios de Estado y los de los órganos directivos de su Departamento que no dependen de una Secretaría de Estado. El Secretario de Estado revisa los de los órganos directivos que dependen de él."
 }
 }

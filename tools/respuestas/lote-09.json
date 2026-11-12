@@ -9,7 +9,7 @@
    "Es esta. El **art. 107.3** dice que, pasados **seis meses** desde que empieza el procedimiento sin declarar la lesividad, este caduca. Caducar significa que el procedimiento se acaba por dejarlo pasar.",
    "No. Cuatro años es otro plazo: el límite para adoptar la declaración de lesividad, contado desde que se dictó el acto (art. 107.2). Aquí se pregunta por la caducidad del procedimiento, que son seis meses desde su inicio."
   ],
-  "ojo": "No mezcles los dos plazos del art. 107: cuatro años desde que se dictó el acto para poder declararlo lesivo, y seis meses desde el inicio para que el procedimiento no caduque."
+  "ojo": "No mezcles los dos plazos del art. 107: cuatro años desde que se dictó el acto para poder declararlo lesivo, y seis meses desde el inicio para que el procedimiento no caduque. En clase: seis meses desde la iniciación sin declarar la lesividad y el procedimiento caduca. No lo mezcles con los 4 años desde que se dictó el acto."
  },
  "au-21-004": {
   "bloque": "revision",
@@ -20,7 +20,8 @@
    "Es esta. El **art. 106.2** dice que la nulidad de las disposiciones administrativas (normas reglamentarias) del art. 47.2 se puede declarar “en cualquier momento”. Lo nulo de pleno derecho no se arregla con el paso del tiempo.",
    "No. El art. 106.2 no pone ningún límite de un año: dice “en cualquier momento”.",
    "No. El art. 106.2 no pone ningún límite de dos años: la declaración cabe “en cualquier momento”."
-  ]
+  ],
+  "ojo": "En clase: diferencia clave. Un acto nulo se revisa de oficio o a solicitud del interesado. Un reglamento nulo, solo de oficio: el interesado no puede pedírselo a la Administración, y si no está de acuerdo puede impugnarlo en la vía judicial."
  },
  "au-21-005": {
   "bloque": "revision",
@@ -32,7 +33,7 @@
    "No. El plazo es correcto, pero el efecto no. La caducidad solo se aplica si el procedimiento se inició de oficio. Si lo pidió el interesado, hay silencio.",
    "Es esta. El **art. 106.5** distingue según quién inicie. Si es de oficio, a los seis meses caduca. Si es a solicitud del interesado, pasado ese plazo sin resolver puede entender desestimada su solicitud por silencio."
   ],
-  "ojo": "De oficio: caducidad. A solicitud del interesado: silencio desestimatorio. En los dos casos, seis meses."
+  "ojo": "De oficio: caducidad. A solicitud del interesado: silencio desestimatorio. En los dos casos, seis meses. En clase: el profesor lo marca como IMP. Seis meses en los dos casos: de oficio, caducidad. A solicitud del interesado, se entiende desestimada por silencio."
  },
  "au-21-006": {
   "bloque": "revision",
@@ -44,7 +45,7 @@
    "No. Fallan las dos cosas. La lesividad es para actos favorables y anulables, no para desfavorables y nulos.",
    "No. Falla “desfavorables”. Un acto desfavorable no hace falta llevarlo al juez: se puede revocar (art. 109.1)."
   ],
-  "ojo": "Recuerda la pareja: lesividad, favorable y anulable."
+  "ojo": "Recuerda la pareja: lesividad, favorable y anulable. En clase: la paradoja es que la Administración va al juez para anular un acto que dictó ella misma. Ejemplo: te dan una subvención valorando un mérito que no te correspondía. Es anulable, no nulo, y mientras el juez no lo anule sigues con tu subvención. Si va al juez sin declararlo lesivo antes, el juez le dirá que vuelva atrás."
  },
  "au-21-007": {
   "bloque": "revision",
@@ -55,7 +56,8 @@
    "Es esta. El **art. 107.5** dice que, en la Administración Local, la lesividad la declara el **Pleno de la Corporación** o, si no hay Pleno, el órgano colegiado superior de la entidad.",
    "No. El superior jerárquico no aparece en el art. 107. En la Administración Local decide el Pleno.",
    "No. No decide quien dictó el acto. En el Estado y las Comunidades Autónomas decide el órgano competente en la materia (art. 107.4), y en la Administración Local, el Pleno."
-  ]
+  ],
+  "ojo": "En clase: en la Administración Local la lesividad la declara el Pleno de la Corporación (o el órgano colegiado superior de la entidad), no el alcalde."
  },
  "au-21-008": {
   "bloque": "revision",
@@ -66,7 +68,8 @@
    "No. Cuatro años es el límite para declarar la lesividad de actos anulables (art. 107.2), no la caducidad de este procedimiento.",
    "No. El art. 106.5 no habla de un año, sino de seis meses.",
    "No. Tres meses era el plazo de la antigua Ley 30/1992. Hoy son seis meses."
-  ]
+  ],
+  "ojo": "En clase: el profesor lo marca como IMP. Seis meses en los dos casos: de oficio, caducidad. A solicitud del interesado, se entiende desestimada por silencio."
  },
  "au-21-009": {
   "bloque": "revision",
@@ -77,7 +80,8 @@
    "No. Es justo al revés: el art. 107.2 exige la previa audiencia de todos los que aparezcan como interesados.",
    "No. El art. 107.2 dice que la declaración de lesividad no es susceptible de recurso. Solo se examina después en el juicio, y se puede notificar a título informativo.",
    "No. El plazo de caducidad es de seis meses desde el inicio del procedimiento, no de tres (art. 107.3)."
-  ]
+  ],
+  "ojo": "En clase: los 4 años son pregunta de examen. Que la declaración de lesividad no se recurre está marcado como IMP: todavía no te quita nada, solo es el presupuesto procesal para que el juez admita el caso. Antes hay que dar audiencia a los interesados (art. 82), y se les notifica solo a efectos informativos."
  },
  "au-21-010": {
   "bloque": "revision",
@@ -88,7 +92,8 @@
    "No. Esa es la rectificación de errores, que es otra figura distinta (art. 109.2).",
    "Es esta. El **art. 109.1** permite revocar los actos **de gravamen o desfavorables**, los que imponen una carga o quitan algo. Se puede hacer porque retirarlos normalmente beneficia al ciudadano.",
    "No. Es lo contrario. Para quitar un acto favorable anulable, la Administración tiene que acudir a la lesividad y al juez (art. 107)."
-  ]
+  ],
+  "ojo": "En clase: solo actos de gravamen o desfavorables. Si te ponen una multa que no procede, la Administración la revoca ella sola, sin jueces ni Consejo de Estado. Pero no puede revocarla «porque le caes bien»: sería una dispensa no permitida y contraria a la igualdad. Un acto favorable nunca se revoca sin más: si es nulo, art. 106, y si es anulable, art. 107. Del plazo de prescripción el profesor dice que no te lo van a preguntar, pregunta la literalidad."
  },
  "au-21-011": {
   "bloque": "revision",
@@ -100,7 +105,7 @@
    "No. “En cualquier momento” es para rectificar errores (art. 109.2) y para declarar la nulidad (art. 106), no para revocar.",
    "Es esta. El **art. 109.1** permite revocar actos de gravamen o desfavorables “mientras no haya transcurrido el **plazo de prescripción**”. La prescripción es el paso del tiempo que hace perder un derecho o una acción."
   ],
-  "ojo": "Fíjate en el mismo artículo: revocar, mientras no prescriba (109.1). Rectificar errores, en cualquier momento (109.2)."
+  "ojo": "Fíjate en el mismo artículo: revocar, mientras no prescriba (109.1). Rectificar errores, en cualquier momento (109.2). En clase: solo actos de gravamen o desfavorables. Si te ponen una multa que no procede, la Administración la revoca ella sola, sin jueces ni Consejo de Estado. Pero no puede revocarla «porque le caes bien»: sería una dispensa no permitida y contraria a la igualdad. Un acto favorable nunca se revoca sin más: si es nulo, art. 106, y si es anulable, art. 107. Del plazo de prescripción el profesor dice que no te lo van a preguntar, pregunta la literalidad."
  },
  "au-21-012": {
   "bloque": "revision",
@@ -111,7 +116,8 @@
    "No. El plazo de prescripción es el límite de la revocación (art. 109.1). Rectificar errores se puede en cualquier momento.",
    "Es esta. El **art. 109.2** permite rectificar estos errores “en cualquier momento, de oficio o a instancia de los interesados”. Es decir, puede corregirlos la Administración por su cuenta o porque se lo pida el ciudadano.",
    "No. Falla “únicamente a instancia del interesado”. La Administración también puede rectificar de oficio (art. 109.2)."
-  ]
+  ],
+  "ojo": "En clase: error aritmético es que la subvención es 500 + 200 y pone 7.000 en vez de 700. Error material o de hecho es que pone «Carmona» en vez de «Cardona». Tiene que ser evidente y palmario. El error de derecho (interpretaste una norma de una manera y ahora de otra) no se rectifica: hay que ir a la nulidad, la lesividad o la revocación."
  },
  "au-21-013": {
   "bloque": "revision",
@@ -123,7 +129,7 @@
    "Es esta. El **art. 106.1** exige dictamen previo y **favorable** del Consejo de Estado (o del órgano consultivo equivalente de la Comunidad Autónoma, si lo hay). Si el dictamen es contrario, la Administración no puede declarar la nulidad.",
    "No. El art. 106.1 no limita la revisión a los actos desfavorables. Habla de actos que hayan puesto fin a la vía administrativa o no se hayan recurrido en plazo, sean favorables o no."
   ],
-  "ojo": "La opción correcta no menciona el órgano consultivo autonómico, pero no por eso es falsa: el Consejo de Estado es el caso general del artículo."
+  "ojo": "La opción correcta no menciona el órgano consultivo autonómico, pero no por eso es falsa: el Consejo de Estado es el caso general del artículo. En clase: el profesor lo marca como IMP. Solo vale para actos que han puesto fin a la vía administrativa o no se recurrieron en plazo, y la nulidad no prescribe. La Administración es la única que declara la nulidad, pero necesita el dictamen favorable del Consejo de Estado: no basta con pedirlo, tiene que estar de acuerdo."
  },
  "au-21-014": {
   "bloque": "revision",
@@ -135,7 +141,7 @@
    "Es verdadera, así que no se marca. El art. 107.2 fija ese límite de cuatro años desde que se dictó el acto.",
    "Es verdadera, así que no se marca. El art. 107.2 dice que el juez la examina como “presupuesto procesal de admisibilidad”: sin declaración de lesividad, el juicio no se admite."
   ],
-  "ojo": "Pide la incorrecta. La trampa está en “cualquier acto anulable, incluso los de gravamen”."
+  "ojo": "Pide la incorrecta. La trampa está en “cualquier acto anulable, incluso los de gravamen”. En clase: la paradoja es que la Administración va al juez para anular un acto que dictó ella misma. Ejemplo: te dan una subvención valorando un mérito que no te correspondía. Es anulable, no nulo, y mientras el juez no lo anule sigues con tu subvención. Si va al juez sin declararlo lesivo antes, el juez le dirá que vuelva atrás."
  },
  "au-21-015": {
   "bloque": "revision",
@@ -146,7 +152,8 @@
    "No. Rectificar no tiene plazo. Los cuatro años son de la lesividad (art. 107.2).",
    "No. La prescripción es el límite de la revocación (art. 109.1), el apartado de al lado. La rectificación no tiene ese límite.",
    "No. El art. 109.2 no pone ningún plazo de tres meses: se puede rectificar en cualquier momento."
-  ]
+  ],
+  "ojo": "En clase: error aritmético es que la subvención es 500 + 200 y pone 7.000 en vez de 700. Error material o de hecho es que pone «Carmona» en vez de «Cardona». Tiene que ser evidente y palmario. El error de derecho (interpretaste una norma de una manera y ahora de otra) no se rectifica: hay que ir a la nulidad, la lesividad o la revocación."
  },
  "au-21-016": {
   "bloque": "revision",
@@ -158,7 +165,7 @@
    "No. “En cualquier momento” es correcto, pero la solicitud de interesado es para los actos (art. 106.1), no para las disposiciones.",
    "Es esta. El **art. 106.2** dice que la nulidad de las disposiciones se declara “en cualquier momento” y “de oficio”, con dictamen favorable del Consejo de Estado. A diferencia de los actos, aquí el interesado no puede iniciar el procedimiento con su solicitud."
   ],
-  "ojo": "Actos nulos (106.1): de oficio o a solicitud. Disposiciones nulas (106.2): solo de oficio. En ambos casos, en cualquier momento."
+  "ojo": "Actos nulos (106.1): de oficio o a solicitud. Disposiciones nulas (106.2): solo de oficio. En ambos casos, en cualquier momento. En clase: diferencia clave. Un acto nulo se revisa de oficio o a solicitud del interesado. Un reglamento nulo, solo de oficio: el interesado no puede pedírselo a la Administración, y si no está de acuerdo puede impugnarlo en la vía judicial."
  },
  "au-21-017": {
   "bloque": "revision",
@@ -170,7 +177,7 @@
    "No. Fallan las dos cosas: no es “podrá” sino “deberá”, y no se declara anulable sino lesivo.",
    "Es esta. El **art. 43 de la Ley 29/1998** (la ley de la jurisdicción contencioso-administrativa) dice que “deberá, previamente, declararlo lesivo para el interés público”. Sin ese paso, el juicio no se admite (art. 107.2 de la Ley 39/2015)."
   ],
-  "ojo": "El art. 107.1 dice que las Administraciones “podrán impugnar”, pero lo que es potestativo es ir o no al juez. Si van, la declaración de lesividad es obligatoria."
+  "ojo": "El art. 107.1 dice que las Administraciones “podrán impugnar”, pero lo que es potestativo es ir o no al juez. Si van, la declaración de lesividad es obligatoria. En clase: la paradoja es que la Administración va al juez para anular un acto que dictó ella misma. Ejemplo: te dan una subvención valorando un mérito que no te correspondía. Es anulable, no nulo, y mientras el juez no lo anule sigues con tu subvención. Si va al juez sin declararlo lesivo antes, el juez le dirá que vuelva atrás."
  },
  "au-21-018": {
   "bloque": "revision",
@@ -182,7 +189,7 @@
    "Es esta. El **art. 111.a)** da al **Consejo de Ministros** la revisión de sus propios actos y disposiciones y de los dictados por los Ministros. Dicho de otro modo, a un Ministro lo revisa un órgano por encima de él.",
    "No. Los Ministros no revisan lo suyo, sino lo de los Secretarios de Estado y los órganos directivos de su Departamento que no dependan de una Secretaría de Estado (art. 111.b.1.º)."
   ],
-  "ojo": "La única que revisa sus propios actos es el Consejo de Ministros. Los demás revisan lo que dictan los de abajo."
+  "ojo": "La única que revisa sus propios actos es el Consejo de Ministros. Los demás revisan lo que dictan los de abajo. En clase: la regla general es que revisa el órgano superior al que dictó el acto. El Consejo de Ministros no tiene a nadie por encima: revisa los suyos y los de los Ministros. El Ministro revisa los de los Secretarios de Estado y los de los órganos directivos de su Departamento que no dependen de una Secretaría de Estado. El Secretario de Estado revisa los de los órganos directivos que dependen de él."
  },
  "au-21-019": {
   "bloque": "revision",
@@ -193,7 +200,8 @@
    "No. No hay un máximo de tres meses: la rectificación se puede hacer “en cualquier momento” (art. 109.2).",
    "No. El dictamen favorable del Consejo de Estado u órgano consultivo es para declarar la nulidad (art. 106). Para corregir una cuenta mal hecha no se pide.",
    "No. El art. 109.2 no exige el consentimiento del interesado. Corregir un error aritmético no cambia el fondo del acto."
-  ]
+  ],
+  "ojo": "En clase: error aritmético es que la subvención es 500 + 200 y pone 7.000 en vez de 700. Error material o de hecho es que pone «Carmona» en vez de «Cardona». Tiene que ser evidente y palmario. El error de derecho (interpretaste una norma de una manera y ahora de otra) no se rectifica: hay que ir a la nulidad, la lesividad o la revocación."
  },
  "au-21-020": {
   "bloque": "revision",
@@ -204,7 +212,8 @@
    "No. El art. 106.3 dice “sin necesidad de recabar Dictamen”, es decir, sin tener que pedirlo.",
    "Es esta. El **art. 106.3** permite acordar “motivadamente” la inadmisión, “sin necesidad de recabar Dictamen del Consejo de Estado”, cuando la solicitud no se basa en una causa de nulidad del art. 47.1. Inadmitir significa rechazarla sin entrar a estudiar el fondo.",
    "No. No hace falta admitirla y luego desestimarla: el art. 106.3 permite cortarla desde el principio con la inadmisión."
-  ]
+  ],
+  "ojo": "En clase: el profesor lo marca como IMP. Todos los días llegan solicitudes sin pie ni cabeza (alegan incompetencia jerárquica, un defecto de forma o un trámite saltado, que no son causas de nulidad). El Consejo de Estado es uno solo, así que se inadmiten motivadamente, sin dictamen."
  },
  "au-22-001": {
   "bloque": "recursos",

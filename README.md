@@ -16,7 +16,7 @@ Sube el número `?v=` en `index.html` cuando cambien los datos, para que el móv
 
 El profesor marca en `Fuentes_Derecho_y_Ley39_fuente.html` lo que más se pregunta (recuadros «Pregunta de examen», frases como «muy preguntado», «a fuego», «clarísima») y lo que casi no cae. Esas marcas están en `tools/marcas.py`, cada una atada a sus artículos y a su norma (Ley 39/2015, Código Civil, Constitución o Ley 50/1997), y `construir.py` se las pone a las preguntas cuyo precepto los cite. Hay tres niveles: Estrella del profesor, Clave de examen y Poco preguntado.
 
-Los apuntes del profesor todavía no están completos: de momento llegan a Fuentes del Derecho y a la Ley 39/2015 hasta el art. 87. Cuando se actualice el HTML, se añaden las marcas nuevas a `MARCAS` en `tools/marcas.py` y se vuelve a ejecutar `construir.py`.
+Los apuntes del profesor todavía no están completos: de momento llegan a Fuentes del Derecho y a la Ley 39/2015 hasta el art. 111 (revisión de oficio). Faltan los recursos, desde el art. 112. Cuando se actualice el HTML, se añaden las marcas nuevas a `MARCAS` en `tools/marcas.py` y se vuelve a ejecutar `construir.py`.
 
 No es una procedencia: la pregunta sigue siendo Oficial, de Votaciones o la que sea, y además lleva la marca. En Examen, la casilla «Solo estrella y clave de examen» deja solo esas preguntas; sin marcarla, salen mezcladas con el resto. La marca se ve en la cabecera de la pregunta y en Soluciones, donde la justificación dice además qué comentó el profesor.
 

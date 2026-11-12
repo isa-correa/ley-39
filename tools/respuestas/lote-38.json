@@ -159,7 +159,8 @@
     "No. Los diez días son correctos, pero se cuentan desde que los terceros fueron notificados, no desde que se produjo el desistimiento o la renuncia (art. 94.4).",
     "No. El punto de partida es correcto, pero el plazo es de diez días, no de quince (art. 94.4).",
     "Es esta. Según el **art. 94.4**, los terceros personados tienen **diez días desde que se les notifica** el desistimiento o la renuncia para pedir que el procedimiento siga. Tiene lógica: no podrían reaccionar a algo que todavía no conocen."
-  ]
+  ],
+  "ojo": "En clase: ejemplo de los pozos a 100 metros. María tiene un pozo autorizado, Juana pide uno al lado y María se persona porque tiene interés legítimo. Si Juana desiste, María tiene 10 días desde que le notifican el desistimiento para instar la continuación y que se resuelva que ahí no cabe pozo."
 },
 "pr-31-007": {
   "bloque": "finalizacion",
@@ -171,7 +172,7 @@
     "No. Fallan el verbo y el plazo: la ley dice “podrá”, no “deberá”, y son quince días, no diez.",
     "No. Los quince días son correctos, pero te han cambiado “podrá” por “deberá”. El art. 96.6.g) no impone esa obligación."
   ],
-  "ojo": "La trampa está en una sola palabra: “podrá” frente a “deberá”."
+  "ojo": "La trampa está en una sola palabra: “podrá” frente a “deberá”. En clase: desde que se solicita hasta que se emite el dictamen, el plazo para resolver se suspende automáticamente (solo en la simplificada). Puede emitirse en 15 días si así se pide, y el expediente lleva propuesta de resolución. Si es contrario al fondo, se sigue por la ordinaria y se convalida todo menos el dictamen. Es la quinta suspensión automática: las tres del art. 22.2, el informe del CGPJ y este dictamen."
 },
 "pr-31-008": {
   "bloque": "recursos",
@@ -215,7 +216,8 @@
     "No. El sentido es correcto, pero el plazo es de seis meses, no de tres (art. 91.3).",
     "No. El plazo es correcto, pero el sentido no: es contraria a la indemnización, no favorable (arts. 91.3 y 24.1).",
     "No. Fallan el plazo y el sentido: son seis meses, y el silencio es contrario a la indemnización (art. 91.3)."
-  ]
+  ],
+  "ojo": "En clase: el profesor lo marca como «super IMP», pregunta clarísima de examen y de supuesto práctico. Es uno de los cuatro casos de silencio negativo del art. 24 (derecho de petición, dominio o servicio público, medio ambiente y responsabilidad patrimonial) y siempre es desestimatorio, incluso en el doble silencio del recurso de alzada."
 },
 "pr-31-012": {
   "bloque": "revision",
@@ -226,7 +228,8 @@
     "Es esta. El **art. 107.3** dice que, pasados **seis meses** desde el inicio sin declarar la lesividad, se produce la **caducidad** del procedimiento. Tiene lógica: lo inicia la propia Administración, y si no acaba a tiempo, decae.",
     "No. Fallan el plazo y la consecuencia: son seis meses, y lo que hay es caducidad, no desestimación. La lesividad la inicia la Administración, no hay una solicitud de un particular que desestimar.",
     "No. El plazo es correcto, pero la consecuencia no: se produce la caducidad, no se entiende desestimada ninguna solicitud (art. 107.3)."
-  ]
+  ],
+  "ojo": "En clase: seis meses desde la iniciación sin declarar la lesividad y el procedimiento caduca. No lo mezcles con los 4 años desde que se dictó el acto."
 },
 "pr-31-013": {
   "bloque": "recursos",

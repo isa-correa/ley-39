@@ -321,7 +321,8 @@
   "No. Fallan dos cosas: son treinta días, no sesenta, y falta la salvedad “salvo que reste menos para su tramitación ordinaria”.",
   "No. Los treinta días están bien, pero falta la salvedad “salvo que reste menos para su tramitación ordinaria”, y la otra opción la recoge completa.",
   "Es esta. El **art. 96.6** dice que, salvo que reste menos para su tramitación ordinaria, estos procedimientos se resuelven en treinta días, contados desde el siguiente a la notificación del acuerdo de tramitación simplificada."
- ]
+ ],
+ "ojo": "En clase: 30 días «desde el siguiente» a la notificación del acuerdo, salvo que reste menos en la ordinaria (si en la ordinaria quedaban 20, se resuelve en 20). Los trámites son una lista cerrada: inicio, subsanación (10 días), alegaciones (5 días), audiencia solo si es desfavorable, informes jurídicos, dictamen del Consejo de Estado si es preceptivo y resolución."
 },
 "of-09-002": {
  "bloque": "finalizacion",
@@ -332,7 +333,8 @@
   "No. No resuelve el propio órgano al que se imputa el daño. Lo que dice el art. 92 es que resuelve el Ministro respectivo o, en ciertos casos, el Consejo de Ministros.",
   "No. El art. 92 no habla del superior jerárquico del órgano, sino del Ministro respectivo o del Consejo de Ministros.",
   "No. El art. 92 no menciona a ningún Subsecretario, y menos al de Presidencia, para resolver estos procedimientos."
- ]
+ ],
+ "ojo": "En clase: el profesor lo marca como IMP. En el 99,9 % de los supuestos prácticos resuelve el Ministro, nunca el Secretario de Estado. El Consejo de Ministros solo cuando lo diga una ley o en el caso rarísimo del art. 32.3 de la Ley 40/2015 (una ley que perjudica gravemente a un colectivo, por ejemplo los taxistas, y dice que hay que indemnizarlo). En las comunidades autónomas y en la Administración Local resuelven sus propios órganos, porque el Estado no puede regularlo con legislación básica."
 },
 "of-09-003": {
  "bloque": "finalizacion",
@@ -343,7 +345,8 @@
   "Es esta. El **art. 93** dice que, en los procedimientos iniciados de oficio, la Administración puede desistir motivadamente, en los supuestos y con los requisitos previstos en las leyes. No puede desistir porque sí.",
   "No. Motivar no basta y “discrecionalmente” es lo que falla: solo cabe en los supuestos y con los requisitos que fijen las leyes.",
   "No. Es lo contrario de lo que dice la ley: hay que motivar, y solo cabe en los supuestos y con los requisitos previstos en las leyes."
- ]
+ ],
+ "ojo": "En clase: la Administración no puede renunciar, porque no renuncia a sus potestades. Solo puede desistir, y solo de lo que ella misma inició, por ejemplo un sancionador o una revocación de subvención iniciados de oficio. El acuerdo debe motivarse (art. 35.1.g)."
 },
 "of-09-004": {
  "bloque": "finalizacion",
@@ -354,7 +357,8 @@
   "No. Celebrar acuerdos es la terminación convencional del art. 86, y no está entre los supuestos de archivo sin propuesta del art. 89.1.",
   "No. Que la infracción sea leve no lleva al archivo: permite adoptar la tramitación simplificada (art. 96.5).",
   "No. Si el infractor reconoce su responsabilidad, no se archiva: se puede resolver imponiendo la sanción que proceda (art. 85.1)."
- ]
+ ],
+ "ojo": "En clase: un ejemplo por causa. Dicen que hay un pozo ilegal y no hay pozo. No se sabe si lo hay. Existe, pero tiene autorización. Un vertido deja los peces muertos y no se sabe quién fue. El responsable es inimputable, por ejemplo un menor. La infracción es de hace 17 años. Ojo con las letras: el profesor las separa en seis ejemplos, pero en el BOE la letra d) junta al responsable sin identificar y al exento de responsabilidad, y la prescripción es la e)."
 },
 "of-09-005": {
  "bloque": "finalizacion",
@@ -366,7 +370,7 @@
   "No. El sentido del silencio está bien, pero el plazo cambiado es tres meses. Son seis (art. 91.3).",
   "No. Fallan las dos cosas: son seis meses, y el silencio es desestimatorio, no estimatorio."
  ],
- "ojo": "El plazo de tres meses es el general cuando la norma del procedimiento no fija otro (art. 21.3), pero aquí el art. 91.3 fija seis."
+ "ojo": "El plazo de tres meses es el general cuando la norma del procedimiento no fija otro (art. 21.3), pero aquí el art. 91.3 fija seis. En clase: el profesor lo marca como «super IMP», pregunta clarísima de examen y de supuesto práctico. Es uno de los cuatro casos de silencio negativo del art. 24 (derecho de petición, dominio o servicio público, medio ambiente y responsabilidad patrimonial) y siempre es desestimatorio, incluso en el doble silencio del recurso de alzada."
 },
 "of-09-006": {
  "bloque": "finalizacion",
@@ -377,7 +381,8 @@
   "Es esta. El **art. 90.2** dice que en la resolución sancionadora no pueden aceptarse hechos distintos de los determinados durante el procedimiento, aunque sí puede cambiarse su valoración jurídica. Es decir, los hechos no se tocan, pero se pueden calificar de otra manera.",
   "No. El plazo cambiado es 3 meses. El art. 91.3 dice que son seis meses desde que se inició el procedimiento.",
   "No. Falla “necesariamente”. Si los hechos probados no constituyen, de modo manifiesto, infracción, el instructor puede archivar sin formular propuesta de resolución (art. 89.1.c)."
- ]
+ ],
+ "ojo": "En clase: si todo el procedimiento va de un semáforo, no pueden sancionarte por no llevar la pegatina de la ITV, porque de eso no te has podido defender. Los mismos hechos sí pueden calificarse distinto: si el órgano que resuelve ve la infracción más grave que la propuesta, te da 15 días para alegar (el «incidente de mayor gravedad»)."
 },
 "of-09-007": {
  "bloque": "finalizacion",
@@ -389,7 +394,7 @@
   "No. Suena a “compulsión sobre las personas”, que sí es un medio de ejecución (art. 100.1.d), pero la compulsa de documentos no lo es: es comprobar una copia con su original.",
   "No. La palabra cambiada es “sanción”. El medio de ejecución es la ejecución subsidiaria, en la que la Administración hace el acto a costa del obligado (arts. 100.1.b y 102)."
  ],
- "ojo": "Te han colado dos parecidos: “sanción subsidiaria” por “ejecución subsidiaria” y “compulsa” por “compulsión”."
+ "ojo": "Te han colado dos parecidos: “sanción subsidiaria” por “ejecución subsidiaria” y “compulsa” por “compulsión”. En clase: el profesor lo marca como la principal pregunta de examen del capítulo. Los cuatro medios, siempre con proporcionalidad: apremio sobre el patrimonio, ejecución subsidiaria, multa coercitiva y compulsión sobre las personas. La multa coercitiva y la compulsión requieren una ley que las autorice. El orden de menos a más restrictivo es doctrinal y no suelen preguntarlo."
 },
 "of-09-008": {
  "bloque": "finalizacion",
@@ -400,7 +405,8 @@
   "No. El pago voluntario antes de la resolución no abre la tramitación simplificada: implica la terminación del procedimiento (art. 85.2).",
   "No. No haber alegado en la audiencia no es un supuesto del art. 96.5. Lo que importa es que la infracción pueda calificarse como leve.",
   "No. Reconocer la responsabilidad permite resolver el procedimiento imponiendo la sanción que proceda (art. 85.1), pero no es la causa de la tramitación simplificada."
- ]
+ ],
+ "ojo": "En clase: es el único caso en que no cabe la oposición expresa del interesado. En responsabilidad patrimonial (art. 96.4) sí cabe oposición, solo se puede acordar de oficio y se empieza por la vía ordinaria, porque hace falta el informe del servicio para ver si todo es inequívoco."
 },
 "of-09-009": {
  "bloque": "finalizacion",
@@ -411,7 +417,8 @@
   "Es esta. El **art. 96.6** dice que estos procedimientos se resuelven en treinta días, contados “desde el siguiente” al que se notifique el acuerdo de tramitación simplificada.",
   "No. Fallan las dos cosas: son treinta días, no diez, y se cuentan desde el día siguiente a la notificación, no desde la notificación.",
   "No. Los treinta días están bien, pero no se cuentan desde la notificación, sino desde el día siguiente a ella."
- ]
+ ],
+ "ojo": "En clase: 30 días «desde el siguiente» a la notificación del acuerdo, salvo que reste menos en la ordinaria (si en la ordinaria quedaban 20, se resuelve en 20). Los trámites son una lista cerrada: inicio, subsanación (10 días), alegaciones (5 días), audiencia solo si es desfavorable, informes jurídicos, dictamen del Consejo de Estado si es preceptivo y resolución."
 },
 "of-09-010": {
  "bloque": "finalizacion",
@@ -423,6 +430,6 @@
   "No. Seis meses no es el plazo de esta caducidad, que el art. 95.1 fija en tres.",
   "No. Doce meses no aparece en el art. 95.1, que dice tres meses."
  ],
- "ojo": "Primero tiene que haber una advertencia al interesado: no se caduca automáticamente sin avisar. Además, el art. 95.2 dice que la simple inactividad en trámites no indispensables para resolver no produce la caducidad."
+ "ojo": "Primero tiene que haber una advertencia al interesado: no se caduca automáticamente sin avisar. Además, el art. 95.2 dice que la simple inactividad en trámites no indispensables para resolver no produce la caducidad. En clase: el profesor lo marca como pregunta de examen. Ejemplo: alguien pide abrir una farmacia y no trae los documentos del local. Se le dan 10 días, no lo hace, se le advierte de que en 3 meses caducará, pasan y se archiva. Y contra la resolución que declara la caducidad sí caben recursos: es fácil fallar porque estamos acostumbrados a que los actos incidentales no se recurran."
 }
 }
