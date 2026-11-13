@@ -240,46 +240,48 @@
   "precepto": "Art. 40.2 de la Ley 39/2015",
   "correcta": 0,
   "justificaciones": [
-   "Es esta. El **art. 40.2** dice que toda notificación debe cursarse “dentro del plazo de diez días” desde que se dicta el acto. Y como no dice otra cosa, esos días son hábiles (**art. 30.2**).",
-   "No. Falla el número: son diez días, no quince.",
-   "No. El número es bueno, pero no son naturales. Si la ley no dice “naturales”, los días son hábiles (art. 30.2).",
-   "No. Fallan las dos cosas: son diez, no quince, y son hábiles, no naturales."
-  ]
+   "Es esta. El **art. 40.2** dice que toda notificación “deberá ser cursada dentro del plazo de diez días a partir de la fecha en que el acto haya sido dictado”.\nY son **hábiles** porque la ley no dice otra cosa (art. 30.2).\nEn la práctica: el jefe firma la resolución el lunes; desde ese momento la Administración tiene diez días hábiles para enviártela. Ojo, no es que te tenga que llegar en diez días: es que tiene que salir (cursarse) en ese plazo.",
+   "No. Falla el número. Son diez días, no quince.\nEl quince te puede venir de otros plazos parecidos, como el certificado de silencio (art. 24.4) o la audiencia (hasta quince, art. 82.2), pero aquí no pinta nada.",
+   "No. El número está bien, pero no son naturales.\nSi la ley no dice “naturales”, los días son **hábiles** (art. 30.2): no cuentan sábados, domingos ni festivos.\nEsta es justo la trampa que avisa el profe: te dejan la literalidad igual y le añaden “naturales”.",
+   "No. Fallan las dos cosas: son diez días, no quince, y son hábiles, no naturales."
+  ],
+  "ojo": "Cursar no es recibir: los diez días son para que la notificación salga de la Administración, no para que te llegue."
  },
  "pr-15-002": {
   "bloque": "instruccion",
   "precepto": "Art. 77.2 de la Ley 39/2015",
   "correcta": 2,
   "justificaciones": [
-   "No. Ese es el período **ordinario** de prueba: ni más de treinta días ni menos de diez. El extraordinario es más corto.",
+   "No. Ese es el período **ordinario** de prueba: ni más de treinta días ni menos de diez (art. 77.2).\nEl extraordinario es más corto, porque se abre después, cuando ya hubo un período de prueba y surge algo nuevo.",
    "No. Falla el número: el tope son diez días, no quince.",
-   "Es esta. El **art. 77.2** permite al instructor, a petición de los interesados, abrir un período extraordinario de prueba “no superior a diez días”.",
-   "No. Ese intervalo de quince a treinta no aparece en el art. 77.2. El extraordinario solo tiene un máximo: diez días."
+   "Es esta. El **art. 77.2** permite al instructor abrir un período extraordinario de prueba “por un plazo no superior a diez días”, a petición de los interesados.\nEn la práctica: ya pasó el período ordinario y aparece un documento al que antes no podías acceder. Pides que te dejen aportarlo y el instructor abre un período extra, de diez días como mucho.",
+   "No. El intervalo de quince a treinta no existe en el art. 77.2. Mezcla el máximo del ordinario (treinta) con un mínimo inventado (quince). El extraordinario solo tiene techo: diez días."
   ],
-  "ojo": "Ordinaria: de 10 a 30 días. Extraordinaria: hasta 10."
+  "ojo": "Ordinario: de 10 a 30 días, lo acuerda el instructor. Extraordinario: hasta 10 días, y solo a petición de los interesados."
  },
  "pr-15-003": {
   "bloque": "instruccion",
   "precepto": "Art. 81.3 de la Ley 39/2015",
   "correcta": 0,
   "justificaciones": [
-   "Es esta. El **art. 81.3** dice que el plazo para resolver “quedará suspendido” desde que se pide el informe del Consejo General del Poder Judicial hasta que se recibe, con un máximo de dos meses. Es decir, la suspensión es automática.",
-   "No. El verbo es bueno, pero falla la duración: son dos meses. Los tres meses son el tope de suspensión por informes preceptivos en general (art. 22.1.d).",
-   "No. La duración es buena, pero falla el verbo: aquí no es “podrá”, sino “quedará”.",
-   "No. Fallan las dos cosas. “Podrá” y “tres meses” son la regla general del art. 22.1.d), no este caso especial."
+   "Es esta. El **art. 81.3** dice que, pedido el informe del Consejo General del Poder Judicial, el plazo para resolver “quedará suspendido” hasta que llegue, sin pasar de dos meses.\n“Quedará” significa que la suspensión es **automática**: no hay que decidirla.\nEn la práctica: tu coche se estropea en un depósito judicial porque no lo cuidaron. Reclamas, la Administración pide informe al CGPJ y el reloj del plazo para resolver se para hasta que llegue, como mucho dos meses.",
+   "No. El verbo está bien, pero falla la duración: son dos meses.\nLos tres meses son el máximo de suspensión cuando se pide un informe preceptivo en general (art. 22.1.d). Este caso especial tiene su propio tope, más corto.",
+   "No. La duración está bien, pero falla el verbo. Aquí no es “podrá” (que la Administración decide si suspende), sino “quedará” (se suspende sí o sí).",
+   "No. Fallan las dos cosas. “Podrá” y “tres meses” son la regla general de los informes preceptivos (art. 22.1.d), no este caso."
   ],
-  "ojo": "Regla general de informes preceptivos: podrá suspenderse hasta tres meses. Este informe: quedará suspendido hasta dos meses."
+  "ojo": "Regla general de informes preceptivos: podrá suspenderse, hasta tres meses (art. 22.1.d). Informe del CGPJ: quedará suspendido, hasta dos meses (art. 81.3). El profe lo cuenta como una suspensión automática más, que se suma a las del art. 22.2."
  },
  "pr-15-004": {
   "bloque": "instruccion",
   "precepto": "Art. 82.2 de la Ley 39/2015",
   "correcta": 0,
   "justificaciones": [
-   "Es esta. El **art. 82.2** da a los interesados, para alegar y presentar documentos en la audiencia, un plazo “no inferior a diez días ni superior a quince”.",
-   "No. “No inferior a 20 días” es el plazo de la información pública (art. 83.2).",
-   "No. De diez a treinta días es el período ordinario de prueba (art. 77.2).",
-   "No. El mínimo son diez días, no quince. Quince es el máximo."
-  ]
+   "Es esta. El **art. 82.2** da a los interesados un plazo “no inferior a diez días ni superior a quince” para alegar y presentar documentos en la audiencia.\nEn la práctica: la instrucción ha terminado, y antes de redactar la propuesta de resolución te enseñan el expediente completo. Tienes entre diez y quince días para decir lo que quieras.",
+   "No. “No inferior a veinte días” es el plazo de la **información pública** (art. 83.2).\nTiene sentido que sea más largo: en la información pública puede participar cualquiera, alguien que no conoce el expediente y tiene que leérselo entero. En la audiencia, en cambio, participan los interesados, que ya lo conocen.",
+   "No. De diez a treinta días es el **período ordinario de prueba** (art. 77.2). Coincide el mínimo, pero el máximo de la audiencia es quince.",
+   "No. Le han dado la vuelta: quince es el máximo de la audiencia, no el mínimo. El mínimo son diez."
+  ],
+  "ojo": "Tres trámites que se confunden mucho: audiencia de 10 a 15 días, prueba ordinaria de 10 a 30, información pública 20 como mínimo."
  },
  "pr-15-005": {
   "bloque": "instruccion",
@@ -287,44 +289,47 @@
   "correcta": 2,
   "justificaciones": [
    "No. Falla el número: el mínimo son veinte días, no quince.",
-   "No. De diez a quince días es el trámite de audiencia (art. 82.2), no la información pública.",
-   "Es esta. El **art. 83.2** dice que el plazo para formular alegaciones “en ningún caso podrá ser inferior a veinte días”. Es largo porque puede participar cualquier persona.",
-   "No. Le han dado la vuelta: veinte días es el mínimo, no el máximo."
-  ]
+   "No. De diez a quince días es el **trámite de audiencia** (art. 82.2), no la información pública.",
+   "Es esta. El **art. 83.2** dice que el plazo para alegar “en ningún caso podrá ser inferior a veinte días”.\nPor qué tan largo: el profe lo explica así, quien participa en la información pública normalmente no conoce el expediente y tiene que leérselo entero. Por eso es el plazo más largo de toda la instrucción.\nEn la práctica: el Ayuntamiento quiere aprobar un proyecto de obra y lo anuncia en el boletín oficial. Cualquier vecino puede ir a verlo y alegar durante, como mínimo, veinte días.",
+   "No. Le han dado la vuelta: veinte días es el **mínimo**, no el máximo. La ley dice “no inferior”, así que la Administración puede dar más tiempo, pero nunca menos."
+  ],
+  "ojo": "Fíjate en “inferior” y “superior”: en la información pública, veinte días es el suelo, no el techo."
  },
  "pr-15-006": {
   "bloque": "finalizacion",
   "precepto": "Art. 87 de la Ley 39/2015",
   "correcta": 2,
   "justificaciones": [
-   "No. El número es bueno, pero no son naturales. La ley dice solo “quince días”, así que son hábiles (art. 30.2).",
-   "No. Siete días es el plazo para hacer alegaciones cuando terminan las actuaciones complementarias, no para practicarlas.",
-   "Es esta. El **art. 87** dice que las actuaciones complementarias “deberán practicarse en un plazo no superior a quince días”. Son los trámites indispensables que el órgano decide hacer justo antes de resolver.",
-   "No. Es sumar los quince días de practicarlas y los siete de alegar. La ley no da ningún plazo de veintidós."
+   "No. El número está bien, pero no son naturales.\nSi la ley no dice “naturales”, los días son **hábiles** (art. 30.2): no cuentan sábados, domingos ni festivos.",
+   "No. Siete días es el otro plazo del mismo artículo: el que tienen los interesados para **alegar** cuando las actuaciones complementarias ya han terminado. No el plazo para practicarlas.",
+   "Es esta. El **art. 87** dice que las actuaciones complementarias “deberán practicarse en un plazo no superior a quince días”.\nQué son: trámites que el órgano que va a resolver considera imprescindibles y que se hacen justo antes de resolver, porque al revisar el expediente ve que falta algo.\nEn la práctica: el órgano va a resolver y se da cuenta de que necesita una inspección más del local. La acuerda, se hace en quince días como mucho, y mientras tanto el plazo para resolver se suspende (art. 22.2.b).",
+   "No. Veintidós es sumar los quince días de practicarlas y los siete de alegar. La ley no da ningún plazo de veintidós: son dos plazos distintos, cada uno con su número."
   ],
-  "ojo": "En el art. 87 hay dos plazos: 15 días para practicarlas y 7 para alegar."
+  "ojo": "En el art. 87 hay dos números: 15 días como máximo para practicarlas y 7 para alegar después. El profe insiste: no los cruces."
  },
  "pr-15-007": {
   "bloque": "instruccion",
   "precepto": "Art. 77.2 de la Ley 39/2015",
   "correcta": 3,
   "justificaciones": [
-   "No. De diez a quince días es el trámite de audiencia (art. 82.2). La prueba llega hasta treinta.",
-   "No. El art. 77.2 fija el mínimo en diez días, no en quince, y además pone un máximo de treinta.",
-   "No. “No inferior a veinte días” es la información pública (art. 83.2).",
-   "Es esta. El **art. 77.2** fija el período de prueba en un plazo “no superior a treinta días ni inferior a diez”. El extraordinario, en cambio, no pasa de diez."
-  ]
+   "No. De diez a quince días es el **trámite de audiencia** (art. 82.2). Coincide el mínimo, pero la prueba llega hasta treinta.",
+   "No. Falla el mínimo: son diez días, no quince. Y además le falta el máximo de treinta.",
+   "No. “No inferior a veinte días” es la **información pública** (art. 83.2).",
+   "Es esta. El **art. 77.2** dice que el período de prueba será “no superior a treinta días ni inferior a diez”.\nCuándo se abre: cuando la Administración no da por ciertos los hechos que alega el interesado, o cuando la naturaleza del procedimiento lo exige (por ejemplo, un sancionador, donde rige la presunción de inocencia).\nEn la práctica: te multan por un vertido y dices que no fuiste tú. El instructor abre un período de prueba de entre diez y treinta días para que se aporten análisis, testigos o documentos."
+  ],
+  "ojo": "Ordinario: de 10 a 30. Extraordinario: hasta 10. Si te sale “de 10 a 15”, eso es la audiencia."
  },
  "pr-15-008": {
   "bloque": "instruccion",
   "precepto": "Art. 81.2 de la Ley 39/2015",
   "correcta": 2,
   "justificaciones": [
-   "No. Ese plazo no aparece en el art. 81.2: el dictamen se emite en dos meses.",
-   "No. Se queda corto. El art. 81.2 da dos meses, no uno.",
-   "Es esta. El **art. 81.2** dice que el dictamen “se emitirá en el plazo de dos meses”. Es preceptivo, es decir, obligatorio pedirlo, cuando la indemnización reclamada es de 50.000 euros o más.",
-   "No. Se pasa. Tres meses es el tope general de suspensión por informes preceptivos (art. 22.1.d), no el plazo de este dictamen."
-  ]
+   "No. Veinte días no aparece en el art. 81.2. El dictamen se emite en dos meses.",
+   "No. Se queda corto: el art. 81.2 da dos meses, no uno.",
+   "Es esta. El **art. 81.2** dice que el dictamen “se emitirá en el plazo de dos meses”.\nCuándo es preceptivo (obligatorio pedirlo): cuando la indemnización reclamada es de **50.000 euros o más**. Ojo, “igual o superior”: con 50.000 justos ya hace falta.\nEn la práctica: reclamas 60.000 euros por un accidente en una carretera mal señalizada. Hace falta el informe del servicio de carreteras y, además, el dictamen del Consejo de Estado, que tarda como mucho dos meses. Si reclamaras 40.000, solo haría falta el informe del servicio.",
+   "No. Se pasa. Tres meses es el tope general de suspensión cuando se pide un informe preceptivo (art. 22.1.d), no el plazo para emitir este dictamen."
+  ],
+  "ojo": "En el art. 81 casi todo va de dos en dos: dictamen del Consejo de Estado en 2 meses, informe del CGPJ hasta 2 meses. El informe del servicio, en cambio, máximo 10 días."
  },
  "pr-15-009": {
   "bloque": "instruccion",
@@ -333,19 +338,20 @@
   "justificaciones": [
    "No. Fallan las dos cosas: son diez días, no cinco, y son hábiles, no naturales.",
    "No. Falla el número: son diez días, no cinco.",
-   "No. El número es bueno, pero no son naturales. La ley dice solo “diez días”, así que son hábiles (art. 30.2).",
-   "Es esta. El **art. 80.2** dice que los informes se emiten “en el plazo de diez días”, salvo que una disposición o los demás plazos del procedimiento permitan o exijan otro mayor o menor. Por eso la pregunta dice “con carácter general”."
-  ]
+   "No. El número está bien, pero no son naturales.\nSi la ley no dice “naturales”, los días son **hábiles** (art. 30.2): no cuentan sábados, domingos ni festivos.",
+   "Es esta. El **art. 80.2** dice que, salvo que una norma o los plazos del procedimiento permitan o exijan otro mayor o menor, los informes “serán emitidos [...] en el plazo de diez días”.\nPor eso la pregunta dice “con carácter general”: diez días es la regla, y puede haber excepciones.\nEn la práctica: el órgano que tramita tu licencia pide un informe técnico a otro departamento. Si nadie dice otra cosa, ese departamento tiene diez días hábiles para contestar."
+  ],
+  "ojo": "Diez días hábiles es el plazo “por defecto” de la Ley 39 para muchas cosas: informes (80.2), trámites de los interesados (73.1), subsanar (68.1), notificar (40.2). Si dudas y no te dicen otra cosa, piensa en diez días hábiles."
  },
  "pr-15-010": {
   "bloque": "iniciacion",
   "precepto": "Art. 65.2 de la Ley 39/2015",
   "correcta": 0,
   "justificaciones": [
-   "Es esta. El **art. 65.2** concede a los particulares presuntamente lesionados “un plazo de diez días” para aportar alegaciones, documentos e información y proponer pruebas.",
+   "Es esta. El **art. 65.2** dice que el acuerdo de iniciación se notifica a los particulares presuntamente lesionados “concediéndoles un plazo de diez días” para aportar alegaciones, documentos o información y proponer pruebas.\nEn la práctica: una rama de un árbol municipal cae sobre varios coches. El Ayuntamiento abre de oficio el procedimiento de responsabilidad patrimonial y avisa a los dueños: tienen diez días para contar sus daños y aportar facturas.",
    "No. Falla el número: son diez días, no quince.",
-   "No. Veinte días recuerda al mínimo de la información pública (art. 83.2), no a este trámite.",
-   "No. Ese intervalo de diez a quince es el trámite de audiencia (art. 82.2). Aquí el plazo es fijo: diez días."
+   "No. Veinte días recuerda al mínimo de la información pública (art. 83.2), que no tiene nada que ver con este trámite.",
+   "No. Ese intervalo de diez a quince es el **trámite de audiencia** (art. 82.2). Aquí el plazo es fijo: diez días, sin horquilla."
   ]
  },
  "pr-15-011": {
@@ -353,11 +359,12 @@
   "precepto": "Art. 43.2 de la Ley 39/2015",
   "correcta": 1,
   "justificaciones": [
-   "No. El número es bueno, pero la ley dice “naturales”. Los sábados, domingos y festivos sí cuentan aquí.",
-   "Es esta. El **art. 43.2** entiende rechazada la notificación cuando pasan “diez días naturales” desde la puesta a disposición sin acceder a su contenido. Es de los pocos plazos que la ley fija expresamente en días naturales.",
+   "No. El número está bien, pero la ley dice expresamente “naturales”.\nAquí los sábados, domingos y festivos **sí cuentan**. Es una de las pocas veces en que la Ley 39 rompe la regla de los días hábiles, y por eso lo dice con todas las letras.",
+   "Es esta. El **art. 43.2** entiende rechazada la notificación cuando pasan “diez días naturales” desde que se pone a disposición sin que se acceda a su contenido.\nSolo pasa si la notificación electrónica era **obligatoria** para ti o la habías **elegido**. Si no, no se entiende rechazada.\nEn la práctica (ejemplo del profe): te ponen la notificación en la DEHú el 16 de octubre. Cuentas 17, 18, 19... hasta el 26, todos los días seguidos. Si el 26 no has entrado, se entiende rechazada y el procedimiento sigue.",
    "No. Fallan las dos cosas: son diez, no quince, y son naturales, no hábiles.",
    "No. Acierta en lo de naturales, pero falla el número: son diez, no quince."
-  ]
+  ],
+  "ojo": "Esta es la excepción que más preguntan: 10 días NATURALES. Y aunque sean naturales, si el último día es inhábil, se pasa al siguiente hábil (art. 30.5)."
  },
  "pr-15-012": {
   "bloque": "actividad",
@@ -365,8 +372,8 @@
   "correcta": 2,
   "justificaciones": [
    "No. Se queda corto: son quince días, no cinco.",
-   "No. Falla el número: son quince días, no diez.",
-   "Es esta. El **art. 24.4** dice que el certificado acreditativo del silencio (el papel que prueba que hubo silencio) se expide de oficio por el órgano competente para resolver “en el plazo de quince días”. El interesado también puede pedirlo en cualquier momento.",
+   "No. Falla el número: son quince días, no diez.\nCuidado, porque diez días es el plazo “por defecto” de muchísimas cosas en la ley, y por eso es el que te sale solo. Este es una excepción.",
+   "Es esta. El **art. 24.4** dice que el certificado acreditativo del silencio se expide de oficio por el órgano competente para resolver “en el plazo de quince días” desde que vence el plazo máximo para resolver.\nQué es: un papel que prueba que hubo silencio. Además, el interesado puede pedirlo en cualquier momento, y entonces los quince días se cuentan desde que su petición entra en el registro.\nEn la práctica (ejemplo del profe): consigues por silencio positivo una autorización para construir y la Guardia Civil te pregunta qué haces. Puedes enseñarle el certificado, aunque también vale cualquier otra prueba, como el justificante de tu solicitud y la fecha en que venció el plazo.",
    "No. Se pasa: son quince días, no veinte."
   ]
  },
@@ -375,11 +382,12 @@
   "precepto": "Art. 87 de la Ley 39/2015",
   "correcta": 2,
   "justificaciones": [
-   "No. Quince días es el tope para practicar las actuaciones complementarias, no para alegar después.",
-   "No. Falla el número: son siete días, no diez.",
-   "Es esta. El **art. 87** concede a los interesados “un plazo de siete días” para alegar cuando terminan las actuaciones complementarias.",
+   "No. Quince días es el tope para **practicar** las actuaciones complementarias, no para alegar cuando terminan.",
+   "No. Falla el número: son siete días, no diez.\nEs fácil caer porque diez días es el plazo general para casi todo, pero aquí la ley da un número raro a propósito.",
+   "Es esta. El **art. 87** dice que el acuerdo de actuaciones complementarias se notifica a los interesados, “concediéndoseles un plazo de siete días para formular las alegaciones que tengan por pertinentes tras la finalización de las mismas”.\nEn la práctica: se ha hecho la inspección extra que pidió el órgano (en quince días como mucho). Cuando termina, tú tienes siete días para decir lo que opinas de su resultado.",
    "No. Falla el número: son siete días, no cinco."
-  ]
+  ],
+  "ojo": "Siete es un número que casi no sale en la Ley 39. Si lo ves, piensa en las alegaciones tras las actuaciones complementarias (art. 87)."
  },
  "pr-15-014": {
   "bloque": "instruccion",
@@ -387,33 +395,35 @@
   "correcta": 3,
   "justificaciones": [
    "No. Fallan las dos cosas: son diez días, no cinco, y son hábiles, no naturales.",
-   "No. El número es bueno, pero no son naturales. La ley dice solo “diez días”, así que son hábiles (art. 30.2).",
+   "No. El número está bien, pero no son naturales.\nSi la ley no dice “naturales”, los días son **hábiles** (art. 30.2): no cuentan sábados, domingos ni festivos.",
    "No. Falla el número: son diez días, no cinco.",
-   "Es esta. El **art. 73.1** dice que los trámites a cargo de los interesados se hacen “en el plazo de diez días”, a partir del siguiente a la notificación, salvo que la norma fije otro. Es decir, si no te dicen nada, tienes diez días hábiles."
-  ]
+   "Es esta. El **art. 73.1** dice que los trámites a cargo de los interesados se hacen “en el plazo de diez días a partir del siguiente al de la notificación”, salvo que la norma fije otro.\nQué pasa si no lo haces: se te puede declarar decaído en ese trámite (art. 73.3), pero el procedimiento sigue.\nEn la práctica (ejemplo del profe): te dicen que vas a tener una vivienda de protección oficial y tienes diez días para elegir el color de la cocina. Si no eliges, pierdes ese trámite, no la vivienda. Y si presentas tu elección el mismo día en que te notifican que se acabó el plazo, todavía te la admiten."
+  ],
+  "ojo": "No confundas: si no subsanas la solicitud inicial (art. 68.1), se te tiene por desistido y se acaba el procedimiento. Si no cumples un trámite durante la instrucción (art. 73.3), pierdes ese trámite y el procedimiento sigue."
  },
  "pr-15-015": {
   "bloque": "instruccion",
   "precepto": "Art. 78.1 de la Ley 39/2015",
   "correcta": 3,
   "justificaciones": [
-   "No. El art. 78.1 no fija ningún número de días, así que tres días es un plazo inventado.",
-   "No. Tampoco cinco: la ley no pone una cifra.",
-   "No. Tampoco diez: la ley no pone una cifra.",
-   "Es esta. El **art. 78.1** dice que la Administración comunicará el inicio de las pruebas “con antelación suficiente”. No hay un número de días: basta con que dé tiempo a que el interesado se organice."
+   "No. El art. 78.1 no da ninguna cifra, así que tres días es inventado.",
+   "No. Tampoco cinco: la ley no pone número.",
+   "No. Tampoco diez. Es la respuesta más tentadora porque diez días sale en muchos sitios, pero aquí la ley no fija días.",
+   "Es esta. El **art. 78.1** dice que la Administración comunicará a los interesados el inicio de las pruebas admitidas “con antelación suficiente”.\nNo hay un número: basta con que dé tiempo a que el interesado se organice. En esa comunicación se indica el lugar, la fecha y la hora, y se avisa de que puede ir acompañado de técnicos.\nEn la práctica: van a analizar el agua de tu vertido. Te tienen que avisar con tiempo para que puedas ir con tu propio perito, si quieres."
   ],
-  "ojo": "No todo es un número: esta pregunta busca que caigas en una cifra que la ley no da."
+  "ojo": "No todo es un número. Si tres opciones dan cifras y una dice algo sin cifra, pregúntate si ese artículo realmente fija días."
  },
  "pr-15-016": {
   "bloque": "iniciacion",
   "precepto": "Art. 56.2 de la Ley 39/2015",
   "correcta": 0,
   "justificaciones": [
-   "Es esta. El **art. 56.2** exige que el acuerdo de iniciación se haga “dentro de los quince días siguientes” a la adopción de las medidas, y añade que “podrá ser objeto del recurso que proceda”. Si no se inicia en ese plazo, las medidas quedan sin efecto.",
-   "No. El plazo es bueno, pero este acuerdo sí se puede recurrir, porque contiene medidas que afectan directamente al interesado.",
+   "Es esta. El **art. 56.2** dice que las medidas provisionales adoptadas antes de iniciar el procedimiento se confirman, modifican o levantan en el acuerdo de iniciación, que debe hacerse “dentro de los quince días siguientes a su adopción” y que “podrá ser objeto del recurso que proceda”.\nSi no se inicia en esos quince días, o el acuerdo no dice nada de las medidas, estas quedan sin efecto.\nEn la práctica (ejemplo del profe): se detecta un juguete que puede envenenar a los niños y se retira del mercado ese mismo día, sin esperar. La Administración tiene quince días para iniciar el procedimiento y decir si la retirada sigue.",
+   "No. El plazo está bien, pero este acuerdo **sí** se puede recurrir.\nEl profe lo llama “muy llamativo”: un acuerdo de iniciación normal no se recurre, porque solo pone en marcha el procedimiento. Pero si confirma o cambia medidas provisionales (por ejemplo, mantener cerrado tu negocio), te afecta directamente y por eso cabe recurso.",
    "No. Lo del recurso está bien, pero falla el plazo: son quince días, no diez.",
    "No. Fallan las dos cosas: son quince días, no diez, y el acuerdo sí es recurrible."
-  ]
+  ],
+  "ojo": "Compáralo con la ampliación de plazos, la urgencia o la acumulación, donde no cabe recurso. Aquí sí, porque hay medidas que ya te están afectando."
  },
  "pr-15-017": {
   "bloque": "actividad",
@@ -421,29 +431,31 @@
   "correcta": 1,
   "justificaciones": [
    "No. Falla el número: son diez días, no cinco.",
-   "Es esta. El **art. 21.4** dice que esta comunicación se dirige al interesado “dentro de los diez días siguientes” a recibir la solicitud en el registro electrónico del órgano competente. En ella se le informa del plazo máximo y de qué pasa si hay silencio.",
+   "Es esta. El **art. 21.4** dice que, en los procedimientos a solicitud del interesado, la Administración le informa del plazo máximo y de los efectos del silencio en una comunicación “dentro de los diez días siguientes” a recibir la solicitud en el registro electrónico del órgano competente.\nEsa comunicación también indica la fecha en que se recibió la solicitud, que es desde cuando empieza a correr el plazo para resolver.\nEn la práctica: pides una beca. En diez días te llega un aviso: “recibimos tu solicitud el día 3; tenemos seis meses para resolver y, si no contestamos, se entiende desestimada”.",
    "No. Falla el número: son diez días, no quince.",
    "No. Falla el número: son diez días, no veinte."
-  ]
+  ],
+  "ojo": "Si el procedimiento es de oficio, no hay comunicación aparte: el plazo y el silencio se indican en el propio acuerdo de iniciación."
  },
  "pr-15-018": {
   "bloque": "iniciacion",
   "precepto": "Art. 67.1 de la Ley 39/2015",
   "correcta": 1,
   "justificaciones": [
-   "No. Seis meses es el plazo para resolver el procedimiento de responsabilidad patrimonial (art. 91.3), no para reclamar.",
-   "Es esta. El **art. 67.1** dice que el derecho a reclamar “prescribirá al año” de producirse el hecho o de manifestarse su efecto lesivo. Si hay daños físicos o psíquicos, el año cuenta desde la curación o desde que se determina el alcance de las secuelas.",
+   "No. Seis meses es el plazo para **resolver** el procedimiento de responsabilidad patrimonial (art. 91.3), no para reclamar.",
+   "Es esta. El **art. 67.1** dice que el derecho a reclamar “prescribirá al año” de producirse el hecho o el acto, o de manifestarse su efecto lesivo.\nSi hay daños físicos o psíquicos, el año empieza a contar desde la **curación** o desde que se sabe el alcance de las secuelas.\nEn la práctica (ejemplo del profe): te caes por una escalera rota de un ministerio el 15 de mayo y te curas el 18 de junio. El año empieza el 18 de junio, no el día de la caída.",
    "No. Falla el plazo: el art. 67.1 da un año, no dos.",
-   "No. Falla el plazo: el art. 67.1 da un año, no cuatro."
-  ]
+   "No. Falla el plazo: un año, no cuatro. Cuatro años suena al recurso extraordinario de revisión (art. 125.2), no a la responsabilidad patrimonial."
+  ],
+  "ojo": "Un año para reclamar (art. 67.1) y seis meses para resolver (art. 91.3). No los cruces."
  },
  "pr-15-019": {
   "bloque": "interesados",
   "precepto": "Art. 5.6 de la Ley 39/2015",
   "correcta": 0,
   "justificaciones": [
-   "Es esta. El **art. 5.6** dice que el órgano debe conceder “diez días” para aportar o subsanar la representación, “o un plazo superior cuando las circunstancias del caso así lo requieran”.",
-   "No. Falla el “inferior”. Los diez días se pueden alargar si hace falta, pero no acortar.",
+   "Es esta. El **art. 5.6** dice que el órgano debe conceder “diez días” para aportar o subsanar la representación, “o un plazo superior cuando las circunstancias del caso así lo requieran”.\nY mientras tanto, la falta de acreditación no impide que se tenga por hecho el acto.\nEn la práctica (caso del profe): el plazo para pedir una subvención acaba el lunes 19. Tu hermana la presenta por ti el 12, sin acreditar que te representa. Le dan diez días y lo acredita el 22. Aunque el 22 ya había pasado el plazo de la subvención, la solicitud vale desde el 12: está dentro de plazo.",
+   "No. Falla “inferior”. Los diez días se pueden alargar si hace falta, nunca acortar. La ley protege al interesado, no le recorta el tiempo.",
    "No. Falla el número: la base son diez días, no quince.",
    "No. Fallan las dos cosas: son diez días, no quince, y la posibilidad es de un plazo superior, no inferior."
   ],
@@ -454,10 +466,11 @@
   "precepto": "Art. 68.1 de la Ley 39/2015",
   "correcta": 1,
   "justificaciones": [
-   "No. Cinco días es lo que se puede **ampliar** ese plazo si los documentos son difíciles de aportar (art. 68.2), no el plazo para subsanar.",
-   "Es esta. El **art. 68.1** da al interesado “un plazo de diez días” para subsanar (corregir el defecto) o acompañar los documentos. Si no lo hace, se le tiene por desistido de su petición, previa resolución.",
-   "No. Falla el número: el plazo son diez días. Solo se llegaría a quince si se ampliara cinco días más (art. 68.2), y eso es una excepción.",
+   "No. Cinco días es lo que se puede **ampliar** el plazo si aportar los documentos es especialmente difícil (art. 68.2). No es el plazo para subsanar.",
+   "Es esta. El **art. 68.1** da al interesado “un plazo de diez días” para subsanar (corregir el defecto) o acompañar los documentos que faltan.\nSi no lo hace, se le tiene por desistido de su petición, previa resolución.\nEn la práctica: presentas una solicitud sin firmar o sin un documento obligatorio. Te avisan y tienes diez días hábiles para arreglarlo. Si lo arreglas, la solicitud vale desde la fecha en que la presentaste la primera vez.",
+   "No. Falla el número: el plazo son diez días.\nQuince sería el total si se ampliara cinco días más (art. 68.2), pero eso es una excepción y no cabe en oposiciones ni en subvenciones por puntos (concurrencia competitiva).",
    "No. Falla el número: son diez días, no veinte."
-  ]
+  ],
+  "ojo": "El profe lo resume así: si te preguntan por la ampliación, 5 días; si te preguntan por el plazo total ampliado, 10 + 5 = 15. Y en procesos selectivos o de concurrencia competitiva no se puede ampliar."
  }
 }
