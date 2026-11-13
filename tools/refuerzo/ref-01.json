@@ -1,0 +1,210 @@
+{
+"calendarios": {
+ "cal2026": {"titulo": "Calendario 2026 (enero a marzo)", "year": 2026, "meses": [1, 2, 3], "festivos": ["2026-01-01", "2026-01-06"], "nota": "Solo se marcan los festivos nacionales. Los domingos también van en rojo."}
+},
+"caso": {
+ "id": "ref-01",
+ "titulo": "Refuerzo nº 1 - Tramitación simplificada (2)",
+ "texto": "La Confederación Hidrográfica del Tajo tramita dos expedientes.\nPrimer expediente. El lunes 12 de enero de 2026 la Confederación acordó de oficio iniciar un procedimiento para modificar las condiciones de la autorización de vertido de la comunidad de regantes «Vegas del Alberche». En el mismo acuerdo decidió tramitarlo de forma simplificada, por la falta de complejidad del asunto. El acuerdo se notificó el miércoles 14 de enero a la comunidad de regantes y a «Piscifactoría Río Claro, S. L.», que es interesada porque capta el agua aguas abajo del vertido. El 19 de enero la piscifactoría presentó un escrito en el que manifestaba expresamente su oposición a la tramitación simplificada. La comunidad de regantes no dijo nada. El plazo máximo para resolver este procedimiento por la vía ordinaria es de seis meses.\nSegundo expediente. El martes 3 de febrero de 2026 un agente medioambiental levantó acta porque don Ricardo Mena navegaba con una embarcación de recreo por el embalse de Picadas sin haber presentado la declaración responsable exigida. La normativa aplicable califica esa conducta como infracción leve. El órgano competente acordó iniciar el procedimiento sancionador, decidió tramitarlo de forma simplificada y se lo notificó a don Ricardo el lunes 9 de febrero de 2026. Al día siguiente, don Ricardo presentó un escrito en el que se oponía a la tramitación simplificada. El plazo máximo para resolver este procedimiento por la vía ordinaria es de seis meses.\nA efectos de los plazos, considere inhábiles solo los sábados, los domingos y los festivos nacionales que aparecen en el calendario."
+},
+"preguntas": [
+{
+ "n": 1,
+ "enunciado": "Tras el escrito que presentó la piscifactoría el 19 de enero, ¿cómo debe continuar el primer expediente?",
+ "opciones": [
+  "Por la tramitación simplificada, porque el destinatario principal del procedimiento, la comunidad de regantes, no se ha opuesto.",
+  "Por la tramitación simplificada, porque la oposición expresa solo cabe cuando la tramitación simplificada la ha pedido otro interesado.",
+  "La Confederación decidirá, mediante acuerdo motivado, si atiende la oposición o mantiene la tramitación simplificada.",
+  "Por la tramitación ordinaria, porque basta con que uno de los interesados manifieste su oposición expresa."
+ ],
+ "bloque": "finalizacion",
+ "precepto": "Art. 96.2 de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "No. La ley no distingue entre interesados «principales» y «secundarios». Dice «si **alguno** de ellos manifestara su oposición expresa». La piscifactoría es interesada (le afecta el vertido), así que su oposición cuenta igual que la de la comunidad de regantes.",
+  "No. Es justo al revés. La oposición expresa del art. 96.2 está pensada para cuando la tramitación simplificada la acuerda **la Administración de oficio**, que es lo que pasa aquí. Cuando la pide un interesado, lo que regula la ley es otra cosa: que la Administración puede desestimar esa petición en cinco días (art. 96.3).",
+  "No. La Confederación no tiene nada que decidir. La ley usa una palabra muy clara: la Administración «**deberá** seguir la tramitación ordinaria». No es «podrá», así que no hay margen para valorar si la oposición le convence o no.",
+  "Es esta. Cuando la Administración acuerda **de oficio** la tramitación simplificada, tiene que notificarlo a los interesados, y si **alguno** de ellos se opone expresamente, la Administración **deberá** seguir la tramitación ordinaria (**art. 96.2**).\nLa idea del profesor: la tramitación simplificada quita garantías (casi no hay pruebas, ni informes, ni audiencia). Por eso hace falta un «acuerdo de voluntades»: si un solo interesado no quiere perder esas garantías, se va a la vía ordinaria."
+ ],
+ "ojo": "Fallo típico: pensar que la oposición de un interesado «secundario» no basta. Basta con uno. La única excepción es el sancionador leve (art. 96.5), que es el segundo expediente de este ejercicio."
+},
+{
+ "n": 2,
+ "enunciado": "En el segundo expediente, ¿qué efecto tiene el escrito de oposición que presentó don Ricardo el 10 de febrero?",
+ "opciones": [
+  "Ninguno: en un procedimiento sancionador que se puede calificar como leve no cabe la oposición expresa del interesado, y la tramitación sigue siendo simplificada.",
+  "Obliga a seguir la tramitación ordinaria, igual que en cualquier procedimiento en que la Administración acuerde de oficio la tramitación simplificada.",
+  "Obliga a seguir la tramitación ordinaria, porque en los procedimientos sancionadores la tramitación simplificada solo cabe a solicitud del presunto responsable.",
+  "La oposición solo produciría efecto si don Ricardo la hubiera formulado dentro del plazo de alegaciones de diez días."
+ ],
+ "bloque": "finalizacion",
+ "precepto": "Art. 96.5 de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. El **art. 96.5** permite la tramitación simplificada en los sancionadores cuando el órgano competente para iniciar considera que hay elementos suficientes para calificar la infracción como **leve**, «sin que quepa la oposición expresa por parte del interesado prevista en el apartado 2».\nEs el **único caso** en que el interesado no puede oponerse. Aquí la normativa califica la conducta como leve, así que el escrito de don Ricardo no cambia nada: el procedimiento sigue en simplificada.",
+  "No. Esa es la regla general del art. 96.2, la que se aplica en el primer expediente. Pero el art. 96.5 hace una excepción expresa para el sancionador leve: ahí no cabe oposición. Es justo la trampa del ejercicio: dos expedientes iguales en apariencia y con respuesta contraria.",
+  "No. Los procedimientos sancionadores se inician **siempre de oficio** (art. 63.1), nunca a solicitud del presunto responsable. Y el art. 96.5 deja que sea el órgano competente para iniciar quien aprecie que la infracción es leve.",
+  "No. Da igual cuándo lo presente: en el sancionador leve la oposición no cabe nunca. Además, en la tramitación simplificada las alegaciones del inicio son de **cinco** días (art. 96.6.c), no de diez."
+ ],
+ "ojo": "Para recordarlo: «sancionador leve, sin oposición». Las infracciones graves o muy graves no pueden ir por la tramitación simplificada del art. 96.5."
+},
+{
+ "n": 3,
+ "enunciado": "¿Cuál es el último día del plazo que tiene la Confederación para resolver y notificar el procedimiento sancionador de don Ricardo?",
+ "opciones": [
+  "El 11 de marzo de 2026.",
+  "El 20 de marzo de 2026.",
+  "El 23 de marzo de 2026.",
+  "El 9 de agosto de 2026."
+ ],
+ "calendario": "cal2026",
+ "bloque": "finalizacion",
+ "precepto": "Arts. 96.6 y 30.2 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. El 11 de marzo sale si cuentas 30 días **naturales**. Pero el art. 96.6 habla de «treinta días» sin decir naturales, y cuando una ley dice días sin más, son **hábiles** (art. 30.2): no cuentan sábados, domingos ni festivos.",
+  "No. El 20 de marzo sale si empiezas a contar el mismo día de la notificación (el 9 de febrero). El plazo se cuenta «**desde el siguiente** al que se notifique al interesado el acuerdo de tramitación simplificada». El día 1 es el martes 10 de febrero.",
+  "Es esta. Tres pasos:\n1) **Qué plazo**: en la tramitación simplificada hay que resolver en **30 días** (**art. 96.6**). La vía ordinaria daba seis meses, así que no «resta menos» y se aplican los 30 días.\n2) **Desde cuándo**: desde el día siguiente a la notificación del acuerdo. Se notificó el lunes 9 de febrero, así que el día 1 es el martes 10 de febrero.\n3) **Cómo se cuenta**: días **hábiles** (art. 30.2). Contando de lunes a viernes, sin festivos nacionales en esas semanas: 10 a 13 de febrero son 4 días; luego tres semanas completas (15 días, llevas 19); del 9 al 13 de marzo, 24; del 16 al 20 de marzo, 29; y el lunes **23 de marzo** es el día 30.",
+  "No. El 9 de agosto serían los seis meses de la vía ordinaria contados desde la notificación. Pero el procedimiento va por la tramitación simplificada, y en ella el plazo es de 30 días. Los seis meses solo importarían si quedara **menos** tiempo en la vía ordinaria que los 30 días."
+ ],
+ "ojo": "Las tres trampas de un plazo: si son hábiles o naturales, desde qué día se empieza (siempre el siguiente) y si hay alguna regla especial («salvo que reste menos»)."
+},
+{
+ "n": 4,
+ "enunciado": "Si el primer expediente hubiera podido seguir por la tramitación simplificada, ¿qué plazo habría tenido la Confederación para resolverlo?",
+ "opciones": [
+  "La mitad del plazo de la tramitación ordinaria, es decir, tres meses.",
+  "Treinta días hábiles, contados desde el día siguiente a la notificación del acuerdo de tramitación simplificada, salvo que restara menos para su tramitación ordinaria.",
+  "Treinta días naturales, contados desde la fecha del acuerdo de iniciación.",
+  "El mismo plazo de seis meses, porque la tramitación simplificada reduce los trámites, pero no los plazos."
+ ],
+ "bloque": "finalizacion",
+ "precepto": "Art. 96.6 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. Reducir los plazos a la mitad es la **tramitación de urgencia** (art. 33), que es otra figura distinta. No las mezcles: la urgencia acorta los plazos; la tramitación simplificada quita trámites y fija su propio plazo de 30 días.",
+  "Es esta. El **art. 96.6** dice que, «salvo que reste menos para su tramitación ordinaria», los procedimientos simplificados deberán resolverse en **treinta días**, «a contar desde el siguiente al que se notifique al interesado el acuerdo de tramitación simplificada».\nEn este caso el acuerdo se notificó el 14 de enero, así que se empezaría a contar el 15. La vía ordinaria daba seis meses, que es más, así que se aplicarían los 30 días.\nEl «salvo que reste menos» sirve para que la tramitación simplificada nunca alargue el procedimiento. Ejemplo del profesor: si en la vía ordinaria quedaban 20 días, se resuelve en 20.",
+  "No. Tiene dos fallos. Los días son **hábiles**, porque la ley no dice naturales (art. 30.2). Y no se cuentan desde el acuerdo de iniciación, sino desde el día siguiente a la **notificación** del acuerdo de tramitación simplificada.",
+  "No. La tramitación simplificada sí cambia el plazo: lo fija en 30 días (art. 96.6). Los seis meses solo mandarían si quedara menos tiempo en la vía ordinaria."
+ ]
+},
+{
+ "n": 5,
+ "enunciado": "Imagine que la comunidad de regantes, en lugar de la Confederación, hubiera pedido la tramitación simplificada el 12 de enero, y que la Confederación no contestara a esa petición. ¿Qué ocurriría?",
+ "opciones": [
+  "Pasados cinco días desde su presentación, la petición se entendería estimada por silencio administrativo.",
+  "Pasados diez días desde su presentación, la petición se entendería desestimada, y la comunidad podría interponer recurso de alzada.",
+  "Pasados cinco días desde su presentación, la petición se entendería desestimada, y contra esa desestimación no cabría recurso.",
+  "La Confederación tendría que resolver de forma expresa y motivada antes de continuar el procedimiento, porque en este caso no hay silencio."
+ ],
+ "bloque": "finalizacion",
+ "precepto": "Art. 96.3 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. El silencio aquí es **negativo**. La ley dice que, pasado el plazo de cinco días, «se entenderá **desestimada** la solicitud».",
+  "No. Son **cinco** días, no diez (diez días es el plazo general para subsanar, art. 68.1). Y la ley dice expresamente que no hay «posibilidad de recurso por parte del interesado».",
+  "Es esta. Según el **art. 96.3**, si el órgano aprecia que no hay razones de interés público ni falta de complejidad, puede desestimar la petición «en el plazo de cinco días desde su presentación, **sin que exista posibilidad de recurso**». Y si en esos cinco días no dice nada, «se entenderá desestimada».\nResumen para memorizar: **5 días, silencio negativo, sin recurso**.",
+  "No. La ley sí prevé el silencio: si pasan los cinco días sin respuesta, la petición se entiende desestimada. La Administración no tiene que pararlo todo para contestar."
+ ],
+ "ojo": "No confundas los dos caminos. Si la Administración la acuerda de oficio, cualquier interesado puede oponerse y se va a la ordinaria (96.2). Si la pide el interesado, la Administración puede decir que no en 5 días, sin recurso (96.3)."
+},
+{
+ "n": 6,
+ "enunciado": "En el procedimiento de don Ricardo, ¿de qué plazo dispone para formular alegaciones al inicio del procedimiento?",
+ "opciones": [
+  "De diez días, que es el plazo mínimo del trámite de audiencia.",
+  "De siete días, como en las actuaciones complementarias.",
+  "De quince días, el mismo plazo en que puede emitirse el dictamen del Consejo de Estado si se pide.",
+  "De cinco días."
+ ],
+ "bloque": "finalizacion",
+ "precepto": "Art. 96.6.c) de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "No. De diez a quince días es el plazo del trámite de **audiencia** de la vía ordinaria (art. 82.2). Aquí te preguntan por las alegaciones del inicio, y en la tramitación simplificada son cinco días.",
+  "No. Siete días es el plazo para alegar tras las **actuaciones complementarias** (art. 87), que además no existen en la tramitación simplificada.",
+  "No. Quince días es el plazo en que **puede** emitirse el dictamen del Consejo de Estado si el órgano lo pide (art. 96.6.g). No tiene nada que ver con las alegaciones.",
+  "Es esta. La lista de trámites de la tramitación simplificada incluye las «alegaciones formuladas al inicio del procedimiento durante el plazo de **cinco días**» (**art. 96.6.c**).\nTruco: en la simplificada casi todo es cinco: cinco días para desestimar la petición del interesado (96.3) y cinco días de alegaciones (96.6.c)."
+ ],
+ "ojo": "Las cifras de la simplificada: 5 días para desestimar la petición, 5 días de alegaciones, 15 días para el dictamen si se pide, 30 días para resolver."
+},
+{
+ "n": 7,
+ "enunciado": "La Confederación tiene previsto imponer a don Ricardo una multa. ¿Debe darle trámite de audiencia?",
+ "opciones": [
+  "No, porque en la tramitación simplificada el trámite de audiencia se sustituye por las alegaciones del inicio.",
+  "Sí, porque la resolución va a ser desfavorable para él.",
+  "Solo si don Ricardo lo pide de forma expresa al formular sus alegaciones.",
+  "No, porque si se le diera audiencia habría que seguir la tramitación ordinaria."
+ ],
+ "bloque": "finalizacion",
+ "precepto": "Art. 96.6.d) de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. Las alegaciones del inicio (letra c) y la audiencia (letra d) son dos trámites distintos de la misma lista. Uno no sustituye al otro.",
+  "Es esta. El **art. 96.6.d)** incluye el «trámite de audiencia, **únicamente cuando la resolución vaya a ser desfavorable** para el interesado». Una multa es claramente desfavorable, así que hay que darle audiencia, y eso se hace sin salir de la tramitación simplificada.\nSi la resolución fuera favorable (por ejemplo, si se archivara), no haría falta audiencia.",
+  "No. No depende de que la pida. Depende de una sola cosa: si la resolución va a ser desfavorable. Si lo es, la Administración tiene que darla.",
+  "No. La audiencia está en la lista de trámites de la simplificada (letra d). Solo obliga a pasar a la ordinaria un trámite que **no** esté en la lista (art. 96.7)."
+ ]
+},
+{
+ "n": 8,
+ "enunciado": "En sus alegaciones, don Ricardo propone como prueba la declaración de dos testigos, y la Confederación considera que es necesario practicarla. ¿Qué debe hacer?",
+ "opciones": [
+  "Practicar la prueba dentro de la tramitación simplificada, en un plazo reducido a la mitad.",
+  "Rechazar la prueba, porque en la tramitación simplificada no existe periodo de prueba.",
+  "Suspender el plazo para resolver mientras se practica la prueba y continuar después en la tramitación simplificada.",
+  "Seguir con el procedimiento por la tramitación ordinaria."
+ ],
+ "bloque": "finalizacion",
+ "precepto": "Art. 96.7 de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "No. La prueba no está en la lista de trámites del art. 96.6, así que no puede hacerse dentro de la simplificada, ni con plazo reducido ni de ninguna otra forma. Lo de reducir a la mitad suena a la tramitación de urgencia (art. 33), que no tiene nada que ver.",
+  "No. Es verdad que la prueba no está en la lista, pero eso no permite rechazarla si es necesaria. Lo que dice la ley es que, en ese caso, el procedimiento «**deberá ser tramitado de manera ordinaria**».",
+  "No. La práctica de la prueba no es una causa de suspensión del plazo. Las suspensiones automáticas son las tres del art. 22.2, el informe del CGPJ y el dictamen del Consejo de Estado en la simplificada.",
+  "Es esta. El **art. 96.7** dice que, si un procedimiento exigiera un trámite **no previsto** en la lista del art. 96.6, «deberá ser tramitado de manera ordinaria». La prueba (art. 77) no está en esa lista.\nFíjate: don Ricardo no puede oponerse a la simplificada porque es un sancionador leve, pero eso no impide que se pase a la ordinaria cuando hace falta un trámite que la simplificada no tiene."
+ ],
+ "ojo": "La lista del art. 96.6 es cerrada: inicio, subsanación, alegaciones (5 días), audiencia si es desfavorable, informe jurídico, informe del CGPJ, dictamen del Consejo de Estado y resolución. Prueba, información pública o actuaciones complementarias no están: si hacen falta, vía ordinaria."
+},
+{
+ "n": 9,
+ "enunciado": "Una vez acordada la tramitación simplificada, ¿puede la Administración volver a la tramitación ordinaria aunque ningún interesado se haya opuesto?",
+ "opciones": [
+  "Sí: en cualquier momento anterior a la resolución, el órgano competente para la tramitación puede acordar continuar con la tramitación ordinaria.",
+  "Sí, pero solo antes de que termine el plazo de alegaciones de cinco días.",
+  "No: una vez notificado el acuerdo, la tramitación simplificada solo puede abandonarse si un interesado lo solicita.",
+  "Solo si el dictamen del Consejo de Estado es contrario al fondo de la propuesta de resolución."
+ ],
+ "bloque": "finalizacion",
+ "precepto": "Art. 96.1 de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. El segundo párrafo del **art. 96.1** dice: «En **cualquier momento** del procedimiento **anterior a su resolución**, el órgano competente para su tramitación podrá acordar continuar con arreglo a la tramitación ordinaria».\nEjemplo: la Administración empieza por la simplificada y luego se da cuenta de que necesita un informe técnico o una prueba. Puede pasar a la ordinaria sin esperar a nadie.",
+  "No. La ley no pone ese límite de los cinco días. Dice «en cualquier momento» antes de la resolución.",
+  "No. La decisión es de la Administración (el órgano competente para la tramitación), no del interesado, y puede tomarla en cualquier momento antes de resolver.",
+  "No. El dictamen contrario es **un** caso en que se pasa a la ordinaria (art. 96.6.g), pero no el único. El art. 96.1 permite hacerlo en cualquier momento antes de la resolución."
+ ]
+},
+{
+ "n": 10,
+ "enunciado": "Suponga que, más adelante, la piscifactoría presenta una reclamación de responsabilidad patrimonial por los daños que el vertido ha causado a sus peces. ¿En qué caso podría tramitarse esa reclamación de forma simplificada?",
+ "opciones": [
+  "Desde el principio, si la piscifactoría lo pide en su reclamación.",
+  "Solo cuando la indemnización reclamada sea inferior a 50.000 euros, para no tener que pedir el dictamen del Consejo de Estado.",
+  "Una vez iniciado el procedimiento, si el órgano competente para tramitarlo considera inequívocas la relación de causalidad, la valoración del daño y el cálculo de la indemnización, y lo acuerda de oficio.",
+  "Cuando lo proponga el Consejo de Estado en su dictamen."
+ ],
+ "bloque": "finalizacion",
+ "precepto": "Art. 96.4 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. En responsabilidad patrimonial la tramitación simplificada solo se acuerda **de oficio** y **una vez iniciado** el procedimiento (art. 96.4). No se puede pedir desde el principio.",
+  "No. La ley no pone ningún límite de cuantía. Además, en la tramitación simplificada también se pide el dictamen del Consejo de Estado cuando es preceptivo (art. 96.6.g), así que tampoco serviría para «saltárselo».",
+  "Es esta. El **art. 96.4** dice que, en responsabilidad patrimonial, si **una vez iniciado** el procedimiento el órgano competente para tramitarlo considera **inequívocas** la relación de causalidad, la valoración del daño y el cálculo de la cuantía, «podrá acordar **de oficio** la suspensión del procedimiento general y la iniciación de un procedimiento simplificado».\n¿Por qué hay que empezar siempre por la vía ordinaria? Porque siempre hay que pedir el informe del servicio que causó el daño (art. 81.1). Con ese informe delante es cuando se ve si todo está claro.",
+  "No. El Consejo de Estado no decide la forma de tramitar. Quien la decide es el órgano competente para tramitar el procedimiento."
+ ],
+ "ojo": "Tres casos especiales del art. 96: responsabilidad patrimonial, solo de oficio y una vez iniciado (96.4); sancionador leve, sin oposición (96.5); dictamen contrario, se pasa a la ordinaria y todo queda convalidado menos el dictamen (96.6.g)."
+}
+]
+}

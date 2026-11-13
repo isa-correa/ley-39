@@ -12,6 +12,7 @@
   });
   var ORIGENES = [["oficiales", "Oficiales"], ["votaciones", "Votaciones"], ["autoevaluacion", "Autoevaluación"], ["practicas", "Clases prácticas"]];
   var NOMBRE_ORIGEN = {}; ORIGENES.forEach(function (o) { NOMBRE_ORIGEN[o[0]] = o[1]; });
+  NOMBRE_ORIGEN.refuerzo = "Hecho por Claude"; /* Ejercicios hechos aparte: solo salen en Supuestos. */
   /* Lo que el profesor marca en sus apuntes como muy preguntado o poco preguntado (sale de tools/marcas.py). */
   var MARCAS = { estrella: "Estrella del profesor", clave: "Clave de examen", poco: "Poco preguntado" };
   function esClave(p) { return !!(p.marca && p.marca.nivel !== "poco"); }
@@ -55,7 +56,7 @@
   var aviso = document.getElementById("aviso");
 
   function esc(t) { return String(t == null ? "" : t).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;"); }
-  function rico(t) { return esc(t).replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>"); }
+  function rico(t) { return esc(t).replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>").replace(/\n/g, "<br>"); } /* Un salto de línea en la justificación separa los pasos. */
   function barajar(a) { for (var i = a.length - 1; i > 0; i--) { var j = Math.floor(Math.random() * (i + 1)), t = a[i]; a[i] = a[j]; a[j] = t; } return a; }
   function coma(n) { return n.toFixed(2).replace(".", ","); }
   function reloj(s) {
@@ -415,15 +416,16 @@
       if (!suyos.length) return;
       var ejercicios = suyos.filter(esEjercicio).sort(function (x, y) { return numero(x) - numero(y); });
       var examenes = suyos.filter(esExamenClase).sort(function (x, y) { return numero(x) - numero(y); });
-      var otros = suyos.filter(function (c) { return !esEjercicio(c) && !esExamenClase(c); });
+      var refuerzo = suyos.filter(function (c) { return c.refuerzo; }).sort(function (x, y) { return numero(x) - numero(y); });
+      var otros = suyos.filter(function (c) { return !esEjercicio(c) && !esExamenClase(c) && !c.refuerzo; });
       var clave = "s-" + t.id;
       var elegido = suyos.filter(function (c) { return c.id === ajustes.caso; })[0];
       var abierto = !!temasAbiertos[clave]; /* Cerrado hasta que lo abras. */
       var preguntas = suyos.reduce(function (a, c) { return a + idsCaso(c.id).length; }, 0);
       h += '<div class="tema"><div class="tema-cab sin-check">';
-      h += '<button type="button" class="tema-abrir" data-a="tema-abrir" data-v="' + clave + '" aria-expanded="' + abierto + '" aria-controls="t-' + clave + '"><span>' + esc(t.nombre) + "<small>" + (ejercicios.length + examenes.length) + " ejercicios · " + otros.length + " supuestos · " + preguntas + " preguntas" + (elegido ? " · elegido: " + esc(titulo(elegido)) : "") + "</small><small>" + suyos.filter(function (c) { return sup[c.id]; }).length + " de " + suyos.length + " hechos</small></span>" + ICONOS.flecha + "</button></div>";
+      h += '<button type="button" class="tema-abrir" data-a="tema-abrir" data-v="' + clave + '" aria-expanded="' + abierto + '" aria-controls="t-' + clave + '"><span>' + esc(t.nombre) + "<small>" + (ejercicios.length + examenes.length + refuerzo.length) + " ejercicios · " + otros.length + " supuestos · " + preguntas + " preguntas" + (elegido ? " · elegido: " + esc(titulo(elegido)) : "") + "</small><small>" + suyos.filter(function (c) { return sup[c.id]; }).length + " de " + suyos.length + " hechos</small></span>" + ICONOS.flecha + "</button></div>";
       h += '<div class="tema-dentro" id="t-' + clave + '"' + (abierto ? "" : " hidden") + ">";
-      [["Ejercicios de clase", ejercicios], ["Exámenes de clase", examenes], ["Supuestos prácticos", otros]].forEach(function (g) {
+      [["Ejercicios de clase", ejercicios], ["Exámenes de clase", examenes], ["Supuestos prácticos", otros], ["Ejercicios nuevos (hechos por Claude)", refuerzo]].forEach(function (g) {
         if (!g[1].length) return;
         /* Subacordeón: cerrado hasta que lo abras, salvo que dentro esté el supuesto elegido. */
         var gk = "g-" + clave + "-" + g[0].charAt(0) + g[0].length;
@@ -529,7 +531,7 @@
   }
 
   function titulo(c) {
-    return c.titulo.replace(/^(Ejercicio(?: nº)? \d+)\s*\.?-\s*/, "$1 · ").replace(/([a-záéíóúñ])\.$/, "$1"); /* "Motivación." pierde el punto; "AA.PP." no. */
+    return c.titulo.replace(/^((?:Ejercicio|Refuerzo)(?: nº)? \d+)\s*\.?-\s*/, "$1 · ").replace(/([a-záéíóúñ])\.$/, "$1"); /* "Motivación." pierde el punto; "AA.PP." no. */
   }
   function esEjercicio(c) { return /^Ejercicio/.test(c.titulo); }
   function esExamenClase(c) { return /^Examen nº/.test(c.titulo); }

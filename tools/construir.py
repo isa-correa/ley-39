@@ -9,6 +9,18 @@ D = json.load(open("tools/preguntas.json", encoding="utf8"))
 R = {}
 for f in sorted(glob.glob("tools/respuestas/*.json")):
     R.update(json.load(open(f, encoding="utf8")))
+# Ejercicios de refuerzo: hechos aparte (no vienen del JSON de origen). Cada archivo trae su caso, sus preguntas
+# y sus respuestas juntas. Ids: <id del caso>-NNN. Salen en Supuestos, en el grupo «Ejercicios nuevos (hechos por Claude)», y cada pregunta lleva el origen «Hecho por Claude».
+for f in sorted(glob.glob("tools/refuerzo/*.json")):
+    x = json.load(open(f, encoding="utf8"))
+    c = x["caso"]
+    D["casos"][c["id"]] = {**c, "refuerzo": True}
+    D["calendarios"].update(x.get("calendarios", {}))
+    for q in x["preguntas"]:
+        pid = f"{c['id']}-{q['n']:03d}"
+        D["preguntas"].append({"id": pid, "origen": "refuerzo", "test": c["titulo"], "n": q["n"], "enunciado": q["enunciado"],
+                               "opciones": q["opciones"], "caso": c["id"], **({"calendario": q["calendario"]} if q.get("calendario") else {})})
+        R[pid] = {k: q[k] for k in ("bloque", "precepto", "correcta", "correctas", "justificaciones", "ojo", "revisar") if k in q}
 BLOQUES = [("fuentes", "Fuentes del Derecho"), ("interesados", "Interesados y representación (arts. 1 a 12)"),
            ("actividad", "Actividad de las Administraciones y silencio (arts. 13 a 28)"),
            ("plazos", "Términos y plazos (arts. 29 a 33)"), ("actos", "Actos y notificación (arts. 34 a 46)"),

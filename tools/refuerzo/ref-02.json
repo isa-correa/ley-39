@@ -1,0 +1,217 @@
+{
+ "caso": {
+  "id": "ref-02",
+  "titulo": "Refuerzo nº 2 - Derechos: art. 13 frente a art. 53 (2)",
+  "corto": true,
+  "texto": "Indique si el derecho corresponde a quienes tienen capacidad de obrar ante las Administraciones Públicas (artículo 13), únicamente a los interesados en un procedimiento administrativo (artículo 53) o si no está reconocido en la Ley 39/2015. Lea cada frase hasta el final: algunas están copiadas de la ley y otras tienen una palabra cambiada."
+ },
+ "preguntas": [
+  {
+   "n": 1,
+   "enunciado": "Derecho a utilizar las lenguas oficiales en el territorio de su Comunidad Autónoma, de acuerdo con lo previsto en la Ley 39/2015 y en el resto del ordenamiento jurídico:",
+   "opciones": [
+    "Corresponde a quienes tienen capacidad de obrar ante las Administraciones Públicas (art. 13).",
+    "Corresponde únicamente a los interesados en un procedimiento administrativo (art. 53).",
+    "No está reconocido en la Ley 39/2015."
+   ],
+   "bloque": "actividad",
+   "precepto": "Art. 13.c) de la Ley 39/2015",
+   "correcta": 0,
+   "justificaciones": [
+    "Es esta. Es el **art. 13.c)**. Usar la lengua oficial de tu comunidad es un derecho de cualquier persona que se relacione con la Administración, tenga o no un procedimiento abierto. Por ejemplo, alguien que escribe en gallego a la Delegación del Gobierno en Galicia solo para pedir información.\nEste derecho se desarrolla en el art. 15 (la lengua de los procedimientos).",
+    "No. Este derecho no es solo de los interesados: está en el **art. 13**, que es para cualquier persona con capacidad de obrar, aunque no tenga ningún procedimiento abierto.",
+    "No. Sí está reconocido: lo recoge el **art. 13** de la Ley 39/2015."
+   ]
+  },
+  {
+   "n": 2,
+   "enunciado": "Derecho a la obtención y utilización de los medios de identificación y firma electrónica contemplados en la Ley 39/2015:",
+   "opciones": [
+    "Corresponde a quienes tienen capacidad de obrar ante las Administraciones Públicas (art. 13).",
+    "Corresponde únicamente a los interesados en un procedimiento administrativo (art. 53).",
+    "No está reconocido en la Ley 39/2015."
+   ],
+   "bloque": "actividad",
+   "precepto": "Art. 13.g) de la Ley 39/2015",
+   "correcta": 0,
+   "justificaciones": [
+    "Es esta. Es el **art. 13.g)**. Tener un certificado digital o Cl@ve y poder usarlos es un derecho de todas las personas, no solo de quien está en un procedimiento.\nPista para el examen: casi todo lo que suena a «relación electrónica en general» (punto de acceso general, asistencia en medios electrónicos, identificación y firma) está en el art. 13.",
+    "No. Este derecho no es solo de los interesados: está en el **art. 13**, que es para cualquier persona con capacidad de obrar, aunque no tenga ningún procedimiento abierto.",
+    "No. Sí está reconocido: lo recoge el **art. 13** de la Ley 39/2015."
+   ]
+  },
+  {
+   "n": 3,
+   "enunciado": "Derecho a la protección de datos de carácter personal y, en particular, a la seguridad y confidencialidad de los datos que figuren en los ficheros, sistemas y aplicaciones de las Administraciones Públicas:",
+   "opciones": [
+    "Corresponde a quienes tienen capacidad de obrar ante las Administraciones Públicas (art. 13).",
+    "Corresponde únicamente a los interesados en un procedimiento administrativo (art. 53).",
+    "No está reconocido en la Ley 39/2015."
+   ],
+   "bloque": "actividad",
+   "precepto": "Art. 13.h) de la Ley 39/2015",
+   "correcta": 0,
+   "justificaciones": [
+    "Es esta. Es el **art. 13.h)**. Tus datos personales tienen que estar protegidos siempre, tengas o no un expediente abierto. Por eso es un derecho de todas las personas.",
+    "No. Este derecho no es solo de los interesados: está en el **art. 13**, que es para cualquier persona con capacidad de obrar, aunque no tenga ningún procedimiento abierto.",
+    "No. Sí está reconocido: lo recoge el **art. 13** de la Ley 39/2015."
+   ]
+  },
+  {
+   "n": 4,
+   "enunciado": "Derecho al acceso a la información pública, archivos y registros, de acuerdo con lo previsto en la Ley 19/2013, de transparencia, acceso a la información pública y buen gobierno, y el resto del ordenamiento jurídico:",
+   "opciones": [
+    "Corresponde a quienes tienen capacidad de obrar ante las Administraciones Públicas (art. 13).",
+    "Corresponde únicamente a los interesados en un procedimiento administrativo (art. 53).",
+    "No está reconocido en la Ley 39/2015."
+   ],
+   "bloque": "actividad",
+   "precepto": "Art. 13.d) de la Ley 39/2015",
+   "correcta": 0,
+   "justificaciones": [
+    "Es esta. Es el **art. 13.d)**, copiado casi literal. Cualquier persona puede pedir información pública (por ejemplo, cuánto gastó un ministerio en publicidad), sin ser interesada en nada. Pero ojo a la coletilla: «**de acuerdo con** la Ley 19/2013». Es decir, con los límites que pone esa ley.",
+    "No. Este derecho no es solo de los interesados: está en el **art. 13**, que es para cualquier persona con capacidad de obrar, aunque no tenga ningún procedimiento abierto.",
+    "No. Sí está reconocido: lo recoge el **art. 13** de la Ley 39/2015."
+   ],
+   "ojo": "En el ejercicio 10 salía este mismo derecho con la coletilla cambiada: «sin limitación alguna». Esa versión es falsa, porque el acceso siempre es conforme a la Ley 19/2013, que tiene límites."
+  },
+  {
+   "n": 5,
+   "enunciado": "Derecho a conocer, en cualquier momento, el estado de la tramitación de los procedimientos en los que tengan la condición de interesados:",
+   "opciones": [
+    "Corresponde a quienes tienen capacidad de obrar ante las Administraciones Públicas (art. 13).",
+    "Corresponde únicamente a los interesados en un procedimiento administrativo (art. 53).",
+    "No está reconocido en la Ley 39/2015."
+   ],
+   "bloque": "iniciacion",
+   "precepto": "Art. 53.1.a) de la Ley 39/2015",
+   "correcta": 1,
+   "justificaciones": [
+    "No. Este derecho no lo tiene cualquier persona: está en el **art. 53**, que es solo para quien es **interesado** en un procedimiento.",
+    "Es esta. Es el **art. 53.1.a)**. La propia frase te da la pista: «los procedimientos en los que tengan la **condición de interesados**». Para preguntar cómo va un expediente, tienes que ser parte de él.\nEn esa misma letra a) están también: conocer el sentido del silencio, el órgano competente para instruir y resolver, los actos de trámite dictados, y acceder y obtener copia de los documentos.",
+    "No. Sí está reconocido: lo recoge el **art. 53** de la Ley 39/2015."
+   ]
+  },
+  {
+   "n": 6,
+   "enunciado": "Derecho a no presentar datos y documentos que ya se encuentren en poder de las Administraciones Públicas o que hayan sido elaborados por éstas:",
+   "opciones": [
+    "Corresponde a quienes tienen capacidad de obrar ante las Administraciones Públicas (art. 13).",
+    "Corresponde únicamente a los interesados en un procedimiento administrativo (art. 53).",
+    "No está reconocido en la Ley 39/2015."
+   ],
+   "bloque": "iniciacion",
+   "precepto": "Art. 53.1.d) de la Ley 39/2015",
+   "correcta": 1,
+   "justificaciones": [
+    "No. Este derecho no lo tiene cualquier persona: está en el **art. 53**, que es solo para quien es **interesado** en un procedimiento.",
+    "Es esta. Es el **art. 53.1.d)**. Tiene sentido que sea del interesado: solo te piden documentos cuando estás en un procedimiento.\nY fíjate en que dice «las Administraciones Públicas», en plural: da igual qué Administración tenga el documento. Como dice el profesor: «que se busquen la vida entre ellas y no molesten al ciudadano».",
+    "No. Sí está reconocido: lo recoge el **art. 53** de la Ley 39/2015."
+   ],
+   "ojo": "Trampa frecuente: cambiar «las Administraciones Públicas» por «la Administración actuante». La ley no lo limita a la Administración que tramita: vale cualquier Administración."
+  },
+  {
+   "n": 7,
+   "enunciado": "Derecho a obtener una copia autenticada del documento original que, de manera excepcional, deban presentar en el procedimiento:",
+   "opciones": [
+    "Corresponde a quienes tienen capacidad de obrar ante las Administraciones Públicas (art. 13).",
+    "Corresponde únicamente a los interesados en un procedimiento administrativo (art. 53).",
+    "No está reconocido en la Ley 39/2015."
+   ],
+   "bloque": "iniciacion",
+   "precepto": "Art. 53.1.c) de la Ley 39/2015",
+   "correcta": 1,
+   "justificaciones": [
+    "No. Este derecho no lo tiene cualquier persona: está en el **art. 53**, que es solo para quien es **interesado** en un procedimiento.",
+    "Es esta. Es el **art. 53.1.c)**. La regla es no presentar originales. Si excepcionalmente la norma obliga a presentar uno, el interesado tiene derecho a que le den una **copia autenticada**, que acredita que el original lo tiene la Administración.",
+    "No. Sí está reconocido: lo recoge el **art. 53** de la Ley 39/2015."
+   ]
+  },
+  {
+   "n": 8,
+   "enunciado": "Derecho a formular alegaciones, utilizar los medios de defensa admitidos por el ordenamiento jurídico y aportar documentos en cualquier fase del procedimiento anterior al trámite de audiencia:",
+   "opciones": [
+    "Corresponde a quienes tienen capacidad de obrar ante las Administraciones Públicas (art. 13).",
+    "Corresponde únicamente a los interesados en un procedimiento administrativo (art. 53).",
+    "No está reconocido en la Ley 39/2015."
+   ],
+   "bloque": "iniciacion",
+   "precepto": "Art. 53.1.e) de la Ley 39/2015",
+   "correcta": 1,
+   "justificaciones": [
+    "No. Este derecho no lo tiene cualquier persona: está en el **art. 53**, que es solo para quien es **interesado** en un procedimiento.",
+    "Es esta. Es el **art. 53.1.e)**, y esta vez está bien copiado: «en cualquier fase del procedimiento **anterior al trámite de audiencia**». Esos documentos deben tenerse en cuenta al redactar la propuesta de resolución.\nLo repite el art. 76.1, que el profesor marca como muy preguntado.",
+    "No. Sí está reconocido: lo recoge el **art. 53** de la Ley 39/2015."
+   ],
+   "ojo": "En el ejercicio 10 salía este derecho cambiado: «anterior a la resolución definitiva». Esa versión no está reconocida. La frontera es el trámite de audiencia, no la resolución."
+  },
+  {
+   "n": 9,
+   "enunciado": "Derecho a ser notificado de la identidad del instructor, de la autoridad competente para imponer la sanción y de la norma que le atribuya tal competencia:",
+   "opciones": [
+    "Corresponde a quienes tienen capacidad de obrar ante las Administraciones Públicas (art. 13).",
+    "Corresponde únicamente a los interesados en un procedimiento administrativo (art. 53).",
+    "No está reconocido en la Ley 39/2015."
+   ],
+   "bloque": "iniciacion",
+   "precepto": "Art. 53.2.a) de la Ley 39/2015",
+   "correcta": 1,
+   "justificaciones": [
+    "No. Este derecho no lo tiene cualquier persona: está en el **art. 53**, que es solo para quien es **interesado** en un procedimiento.",
+    "Es esta. Es el **art. 53.2.a)**. El art. 53.2 añade derechos **solo para los presuntos responsables en los procedimientos sancionadores**, que por supuesto son interesados. Ser notificado de los hechos, las infracciones, las posibles sanciones, quién instruye, quién sanciona y con qué norma.\nSirve, por ejemplo, para poder recusar al instructor si tiene algún motivo de abstención.",
+    "No. Sí está reconocido: lo recoge el **art. 53** de la Ley 39/2015."
+   ]
+  },
+  {
+   "n": 10,
+   "enunciado": "Derecho a la presunción de no existencia de responsabilidad administrativa mientras no se demuestre lo contrario:",
+   "opciones": [
+    "Corresponde a quienes tienen capacidad de obrar ante las Administraciones Públicas (art. 13).",
+    "Corresponde únicamente a los interesados en un procedimiento administrativo (art. 53).",
+    "No está reconocido en la Ley 39/2015."
+   ],
+   "bloque": "iniciacion",
+   "precepto": "Art. 53.2.b) de la Ley 39/2015",
+   "correcta": 1,
+   "justificaciones": [
+    "No. Este derecho no lo tiene cualquier persona: está en el **art. 53**, que es solo para quien es **interesado** en un procedimiento.",
+    "Es esta. Es el **art. 53.2.b)**: la presunción de inocencia trasladada al procedimiento sancionador. Solo tiene sentido para quien es presunto responsable en un sancionador, que es interesado (el inculpado lo es siempre, art. 64.1).",
+    "No. Sí está reconocido: lo recoge el **art. 53** de la Ley 39/2015."
+   ]
+  },
+  {
+   "n": 11,
+   "enunciado": "Derecho a actuar asistidos de abogado, que la Administración les designará de oficio cuando carezcan de medios económicos:",
+   "opciones": [
+    "Corresponde a quienes tienen capacidad de obrar ante las Administraciones Públicas (art. 13).",
+    "Corresponde únicamente a los interesados en un procedimiento administrativo (art. 53).",
+    "No está reconocido en la Ley 39/2015."
+   ],
+   "bloque": "iniciacion",
+   "precepto": "Art. 53.1.g) de la Ley 39/2015",
+   "correcta": 2,
+   "justificaciones": [
+    "No. Lee la frase entera. Este derecho, tal como está escrito, no aparece en la lista del art. 13.",
+    "No. Tampoco está así en el art. 53. Mira la explicación de la opción correcta para ver qué dice de verdad la ley.",
+    "Es esta. Esto **no** está en la Ley 39/2015. El art. 53.1.g) dice otra cosa: «a actuar asistidos de **asesor** cuando lo consideren conveniente». El asesor puede ser cualquier persona, con título o sin él; no hace falta abogado. Y la ley no dice nada de que la Administración te ponga uno gratis.\nLa pregunta mezcla una idea real (el asesor del 53.1.g) con algo que no existe en esta ley (abogado de oficio)."
+   ]
+  },
+  {
+   "n": 12,
+   "enunciado": "Derecho a que la Administración conteste en el plazo de un mes a cualquier consulta que le formulen sobre la interpretación de las normas:",
+   "opciones": [
+    "Corresponde a quienes tienen capacidad de obrar ante las Administraciones Públicas (art. 13).",
+    "Corresponde únicamente a los interesados en un procedimiento administrativo (art. 53).",
+    "No está reconocido en la Ley 39/2015."
+   ],
+   "bloque": "actividad",
+   "precepto": "Arts. 13 y 53 de la Ley 39/2015",
+   "correcta": 2,
+   "justificaciones": [
+    "No. Lee la frase entera. Este derecho, tal como está escrito, no aparece en la lista del art. 13.",
+    "No. Tampoco está así en el art. 53. Mira la explicación de la opción correcta para ver qué dice de verdad la ley.",
+    "Es esta. No está en ninguna de las dos listas. Lo más parecido es el art. 53.1.f): obtener «información y orientación acerca de los **requisitos jurídicos o técnicos**» de lo que quieras hacer. Pero eso es información objetiva (qué papeles necesitas, qué requisitos hay), no una respuesta a cualquier consulta, y la ley no fija un plazo de un mes."
+   ]
+  }
+ ]
+}

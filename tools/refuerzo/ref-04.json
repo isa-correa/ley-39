@@ -1,0 +1,223 @@
+{
+"caso": {
+ "id": "ref-04",
+ "titulo": "Refuerzo nº 4 - Ejecución forzosa",
+ "texto": "Don Tomás Ferrer abrió sin autorización un pozo en el patio de su vivienda, en una finca rústica de Daimiel (Ciudad Real), y lo usaba para regar. Tras el correspondiente procedimiento sancionador, la Confederación Hidrográfica del Guadiana dictó una resolución por la que:\na) le imponía una multa de 6.000 euros;\nb) le ordenaba sellar el pozo en el plazo de un mes desde la notificación.\nContra esa resolución cabía recurso de alzada. Don Tomás no lo interpuso, el plazo para hacerlo pasó y la resolución quedó firme en vía administrativa. Aun así, no pagó la multa ni selló el pozo.\nLa Confederación estudia cómo obligarle a cumplir. Sus técnicos calculan que sellar el pozo con una empresa especializada costará unos 3.500 euros. Además, la ley de aguas aplicable permite imponer multas coercitivas para hacer cumplir este tipo de órdenes."
+},
+"preguntas": [
+{
+ "n": 1,
+ "enunciado": "En el momento de notificarse la resolución, cuando todavía cabía el recurso de alzada, ¿podía la Confederación exigir ya el pago de la multa?",
+ "opciones": [
+  "Sí, porque los actos administrativos son inmediatamente ejecutivos y el recurso no suspende la ejecución por sí solo.",
+  "No, porque la multa no es ejecutiva hasta que una sentencia la confirme.",
+  "No, porque una resolución sancionadora no es ejecutiva mientras quepa contra ella algún recurso en vía administrativa, incluido el potestativo de reposición.",
+  "Sí, siempre que don Tomás no manifestara en diez días su intención de recurrir."
+ ],
+ "bloque": "finalizacion",
+ "precepto": "Arts. 98.1.b) y 90.3 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. La regla general es esa: los actos son inmediatamente ejecutivos (art. 98.1). Pero tiene excepciones, y una es justo la del sancionador. Es el fallo típico: aplicar la regla general sin mirar las excepciones.",
+  "No. No hace falta ir al juez. La resolución sancionadora es ejecutiva cuando ya no cabe recurso **en vía administrativa**. Que luego pueda ir al contencioso no impide ejecutarla (salvo que se suspenda).",
+  "Es esta. El **art. 98.1** dice que los actos son inmediatamente ejecutivos, **salvo** que, entre otros casos, «se trate de una resolución de un procedimiento de naturaleza **sancionadora** contra la que quepa algún recurso en vía administrativa, **incluido el potestativo de reposición**» (letra b). Lo repite el art. 90.3.\nAquí cabía alzada, así que al principio la multa no era ejecutiva. Lo pasó a ser cuando venció el plazo del recurso sin que don Tomás recurriera.",
+  "No. La ley no exige ningún aviso de que vas a recurrir. Lo que importa es si **cabe** recurso en vía administrativa, no si el interesado dice que lo va a poner."
+ ],
+ "ojo": "El profesor lo pone en su lista de trampas: la resolución sancionadora no es inmediatamente ejecutiva, al revés que la regla general. En cambio, el procedimiento complementario de daños (art. 90.4) sí lo es, porque no es sancionador."
+},
+{
+ "n": 2,
+ "enunciado": "Antes de empezar cualquier medida de ejecución forzosa contra don Tomás, ¿qué debe hacer la Confederación?",
+ "opciones": [
+  "Apercibirle, es decir, advertirle previamente de que se va a proceder a la ejecución forzosa.",
+  "Pedir en todo caso autorización al juzgado de lo contencioso-administrativo.",
+  "Dictar una nueva resolución sancionadora por el incumplimiento.",
+  "Publicar un anuncio en el Boletín Oficial del Estado."
+ ],
+ "bloque": "finalizacion",
+ "precepto": "Art. 99 de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. El **art. 99** permite a las Administraciones proceder a la ejecución forzosa «**previo apercibimiento**». Apercibir es avisar antes, para que el obligado pueda cumplir, prepararse o alegar.\nAdemás, por el **art. 97**, no se puede empezar ninguna actuación material que limite derechos sin una resolución previa que le sirva de fundamento, y hay que notificar esa resolución. Aquí la resolución ya existe y está notificada.",
+  "No. La ejecución forzosa la hace la propia Administración, sin juez: es la **autotutela**. Solo hace falta un juez cuando la Constitución o la ley lo exigen (art. 99), por ejemplo, para entrar en un domicilio sin consentimiento (art. 100.3).",
+  "No. No hay que sancionar otra vez. Lo que se ejecuta es la resolución que ya existe.",
+  "No. La ley no exige ninguna publicación. Exige apercibir al obligado."
+ ]
+},
+{
+ "n": 3,
+ "enunciado": "Si don Tomás no paga la multa de 6.000 euros, ¿qué medio de ejecución forzosa debe usar la Confederación?",
+ "opciones": [
+  "La multa coercitiva.",
+  "La ejecución subsidiaria.",
+  "La compulsión sobre las personas.",
+  "El apremio sobre el patrimonio."
+ ],
+ "bloque": "finalizacion",
+ "precepto": "Arts. 100.1.a) y 101 de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "No. La multa coercitiva sirve para presionar a alguien a que **haga** algo (como sellar el pozo). Para cobrar dinero que ya se debe se usa el apremio.",
+  "No. La ejecución subsidiaria es que la Administración **haga ella** lo que tenía que hacer el obligado (sellar el pozo). Pagar una multa no es algo que la Administración pueda hacer en su lugar.",
+  "No. La compulsión es para obligaciones personalísimas de **no hacer o soportar**, y solo si una ley lo autoriza. No sirve para cobrar dinero.",
+  "Es esta. El **art. 101** dice que, si en virtud de un acto administrativo hubiera de satisfacerse una **cantidad líquida**, se seguirá el **procedimiento de apremio**. Cantidad líquida quiere decir que ya está concretada: 6.000 €.\nEs como un embargo: primero la cuenta del banco, si no hay dinero el coche, y lo último la casa."
+ ],
+ "ojo": "Asocia cada medio a una pregunta. ¿Dinero? Apremio. ¿Algo que puede hacer otro? Ejecución subsidiaria. ¿Presionar con dinero hasta que cumpla? Multa coercitiva. ¿A la fuerza sobre la persona? Compulsión."
+},
+{
+ "n": 4,
+ "enunciado": "Don Tomás tampoco ha sellado el pozo. ¿Qué puede hacer la Confederación?",
+ "opciones": [
+  "Obligar a don Tomás por la fuerza a realizar él mismo el sellado, mediante la compulsión sobre su persona.",
+  "Sellar el pozo ella misma o a través de la empresa que determine, a costa de don Tomás, porque sellarlo no es un acto personalísimo.",
+  "Nada por sí misma: tiene que pedir al juez que ordene el sellado.",
+  "Cobrar el sellado por la vía de apremio sin llegar a sellarlo."
+ ],
+ "bloque": "finalizacion",
+ "precepto": "Art. 102 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. La compulsión no está pensada para obligaciones de **hacer** como esta, sino para las personalísimas de **no hacer o soportar** (art. 104.1). Además, sellar un pozo lo puede hacer cualquiera: no hace falta que lo haga don Tomás.",
+  "Es esta. El **art. 102** dice que hay ejecución subsidiaria cuando se trata de actos que, **por no ser personalísimos**, pueden ser realizados por alguien distinto del obligado. La Administración los realiza «por sí o a través de las personas que determine, **a costa del obligado**».\nSellar un pozo lo puede hacer una empresa: no es personalísimo. Es el ejemplo del profesor: si no lo sellas tú, lo sella la Administración con sus operarios o contrata a una empresa, y te pasa la factura.\nPara no fallar: personalísimo es lo que solo puedes hacer tú (ponerte una vacuna); no personalísimo, lo que puede hacer otro por ti (pintar una fachada, sellar un pozo).",
+  "No. No hace falta juez: la ejecución forzosa es autotutela de la Administración (art. 99). El juez solo entra si hubiera que entrar en el domicilio sin consentimiento (art. 100.3), y eso es otra pregunta.",
+  "No. El objetivo es que el pozo quede sellado. El apremio sirve para cobrar el coste de la ejecución subsidiaria (art. 102.3), no para sustituir el sellado."
+ ]
+},
+{
+ "n": 5,
+ "enunciado": "En relación con los 3.500 euros que costará el sellado, ¿cuál de las siguientes afirmaciones es correcta?",
+ "opciones": [
+  "La Confederación solo puede reclamarlos después de sellar el pozo, cuando conozca el coste exacto.",
+  "Los paga la Confederación, porque la ejecución subsidiaria la acuerda ella.",
+  "Pueden liquidarse de forma provisional y cobrarse antes de la ejecución, a reserva de la liquidación definitiva, y se exigen por el procedimiento de apremio.",
+  "Solo pueden cobrarse mediante una multa coercitiva por el mismo importe."
+ ],
+ "bloque": "finalizacion",
+ "precepto": "Art. 102.3 y 102.4 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. La ley permite cobrarlo **antes**: «dicho importe podrá liquidarse de forma provisional y realizarse antes de la ejecución, a reserva de la liquidación definitiva» (art. 102.4).",
+  "No. La ejecución subsidiaria se hace «**a costa del obligado**» (art. 102.2). Paga don Tomás.",
+  "Es esta. Dos reglas del **art. 102**:\n1) El importe de los gastos, daños y perjuicios se exige por el **apremio** (102.3, que remite al art. 101).\n2) Puede **liquidarse de forma provisional y cobrarse antes** de ejecutar, a reserva de la liquidación definitiva (102.4).\nEjemplo: la Confederación le cobra ya 3.500 € y, si al final la empresa cobra 3.200, le devuelve la diferencia; si cobra 3.800, le reclama el resto.",
+  "No. La multa coercitiva no sirve para cobrar gastos: sirve para presionar a que alguien cumpla. Los gastos de la ejecución subsidiaria se cobran por apremio."
+ ]
+},
+{
+ "n": 6,
+ "enunciado": "Para sellar el pozo, los operarios tienen que entrar en el patio de la vivienda de don Tomás, que se niega a abrirles. ¿Qué necesita la Confederación?",
+ "opciones": [
+  "Nada más: la resolución que ordena el sellado ya le autoriza a entrar.",
+  "La autorización judicial, porque don Tomás no da su consentimiento.",
+  "Una orden del Delegado del Gobierno en Castilla-La Mancha.",
+  "Que el apercibimiento previo advierta expresamente de la entrada."
+ ],
+ "bloque": "finalizacion",
+ "precepto": "Art. 100.3 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. La resolución sirve para ejecutar, pero el domicilio es inviolable (art. 18.2 CE). Para entrar hace falta algo más.",
+  "Es esta. El **art. 100.3** dice que, si hay que entrar en el **domicilio** del afectado o en otros lugares que requieran la autorización de su titular, la Administración debe obtener su **consentimiento** o, **en su defecto**, la oportuna **autorización judicial**.\nDon Tomás no consiente, así que hace falta el juez. Es uno de los casos en que la ley exige intervención judicial (art. 99).",
+  "No. Ninguna autoridad administrativa puede sustituir el consentimiento del titular. La alternativa es el **juez**.",
+  "No. El apercibimiento es obligatorio (art. 99), pero no sustituye al consentimiento ni a la autorización judicial para entrar en un domicilio."
+ ]
+},
+{
+ "n": 7,
+ "enunciado": "La Confederación decide imponer a don Tomás una multa coercitiva de 1.000 euros cada mes mientras no selle el pozo. ¿Cuál de las siguientes afirmaciones es correcta?",
+ "opciones": [
+  "No puede hacerlo, porque ya le ha sancionado con 6.000 euros por los mismos hechos.",
+  "Puede hacerlo siempre, aunque ninguna ley lo prevea, porque es un medio de ejecución forzosa de la Ley 39/2015.",
+  "Si la impone, la multa coercitiva sustituye a la sanción de 6.000 euros.",
+  "Puede hacerlo porque una ley lo autoriza, en la forma y cuantía que esa ley determine, y la multa coercitiva es compatible con la sanción ya impuesta."
+ ],
+ "bloque": "finalizacion",
+ "precepto": "Art. 103 de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "No. La multa coercitiva **no es una sanción**: no castiga lo que hizo, sino que presiona para que cumpla. Por eso el art. 103.2 dice que es «independiente de las sanciones» y «**compatible** con ellas».",
+  "No. Es la trampa más típica: la multa coercitiva necesita que **una ley la autorice** («cuando así lo autoricen las Leyes», art. 103.1). La Ley 39/2015 no basta por sí sola. Aquí sí hay una ley que la permite.",
+  "No. No sustituye nada: las dos conviven. Don Tomás debe los 6.000 € de la sanción y, además, las multas coercitivas que se le impongan mientras no selle.",
+  "Es esta. El **art. 103** permite imponer multas coercitivas:\n1) solo **cuando una ley lo autorice**, en la forma y cuantía que esa ley diga;\n2) **reiteradas** por lapsos de tiempo suficientes para cumplir (un mes, si hay que contratar una empresa; no una multa cada día);\n3) en tres casos, entre ellos los actos que el obligado puede encargar a otra persona, como sellar un pozo (103.1.c).\nY es **compatible** con la sanción (103.2). Ejemplo del profesor: «tú verás cómo lo sellas»."
+ ]
+},
+{
+ "n": 8,
+ "enunciado": "¿Cuál de los siguientes medios de ejecución forzosa necesita que una ley lo autorice de forma expresa para poder utilizarse?",
+ "opciones": [
+  "El apremio sobre el patrimonio y la ejecución subsidiaria.",
+  "Los cuatro medios del art. 100.",
+  "La multa coercitiva y la compulsión sobre las personas.",
+  "Solo la compulsión sobre las personas."
+ ],
+ "bloque": "finalizacion",
+ "precepto": "Arts. 101 a 104 de la Ley 39/2015",
+ "correcta": 2,
+ "justificaciones": [
+  "No. Es justo al revés: el apremio y la ejecución subsidiaria **no** necesitan una ley específica, ya los autoriza la Ley 39/2015. Ojo con el art. 101.2: lo que tiene que venir de una norma con rango de ley es la **obligación de pagar** (la sanción, el impuesto), no el apremio para cobrarla.",
+  "No. Solo dos de los cuatro lo necesitan.",
+  "Es esta. La **multa coercitiva** se impone «cuando así lo autoricen las Leyes» (**art. 103.1**), y la **compulsión** sobre las personas, «en los casos en que la ley expresamente lo autorice» (**art. 104.1**).\nTabla del profesor: apremio, no; ejecución subsidiaria, no; multa coercitiva, sí; compulsión, sí.",
+  "No. Se queda a medias: la multa coercitiva también necesita una ley que la autorice (art. 103.1)."
+ ],
+ "ojo": "Truco: los dos medios que más presionan a la persona (multa coercitiva y compulsión) son los que necesitan ley."
+},
+{
+ "n": 9,
+ "enunciado": "Si para hacer cumplir el sellado fueran admisibles varios medios de ejecución, ¿con qué criterio debe elegir la Confederación?",
+ "opciones": [
+  "Debe elegir el medio menos restrictivo de la libertad individual.",
+  "Debe elegir el medio más rápido y eficaz para el interés público.",
+  "Debe elegir el medio que resulte más barato para la Administración.",
+  "Debe elegir el medio que prefiera don Tomás, si lo manifiesta en el trámite de audiencia."
+ ],
+ "bloque": "finalizacion",
+ "precepto": "Art. 100.1 y 100.2 de la Ley 39/2015",
+ "correcta": 0,
+ "justificaciones": [
+  "Es esta. El **art. 100** dice que la ejecución forzosa se hace «respetando siempre el principio de **proporcionalidad**» (100.1), y que, si son varios los medios admisibles, «se elegirá el **menos restrictivo de la libertad individual**» (100.2).\nEs la principal pregunta de examen del capítulo, según el profesor: los cuatro medios y la proporcionalidad.",
+  "No. Suena razonable, pero no es lo que dice la ley. El criterio es la **libertad individual**: el medio que menos la limite.",
+  "No. El coste para la Administración no es el criterio legal.",
+  "No. El obligado no elige el medio. Y en la ejecución no hay un trámite de audiencia para eso: hay apercibimiento previo (art. 99)."
+ ]
+},
+{
+ "n": 10,
+ "enunciado": "¿En qué caso podría la Administración ejecutar un acto mediante compulsión directa sobre la persona del obligado?",
+ "opciones": [
+  "Cuando el obligado no pague una multa y no tenga bienes que embargar.",
+  "Cuando se trate de una obligación personalísima de no hacer o de soportar, una ley lo autorice expresamente y se respeten su dignidad y sus derechos constitucionales.",
+  "Siempre que la Administración considere que es el medio más eficaz, con independencia de lo que diga la ley.",
+  "Cuando se trate de un acto no personalísimo que el obligado se niegue a realizar."
+ ],
+ "bloque": "finalizacion",
+ "precepto": "Art. 104.1 de la Ley 39/2015",
+ "correcta": 1,
+ "justificaciones": [
+  "No. Las deudas de dinero se cobran por apremio (art. 101). Nunca se usa la fuerza física sobre una persona para cobrar dinero.",
+  "Es esta. El **art. 104.1** dice que los actos que impongan una **obligación personalísima de no hacer o soportar** pueden ejecutarse por compulsión directa sobre las personas «en los casos en que **la ley expresamente lo autorice**», y siempre con respeto a su **dignidad** y a sus derechos constitucionales.\nEjemplos del profesor: **no hacer**, no salir de una casa en ruina que hay que desalojar; **soportar**, una vacuna obligatoria en una epidemia grave.",
+  "No. Sin una ley que lo autorice expresamente, no cabe. Y además siempre se aplica la proporcionalidad: el medio menos restrictivo (art. 100.2).",
+  "No. Si el acto **no es personalísimo**, lo que procede es la ejecución subsidiaria (art. 102): lo hace otro a costa del obligado."
+ ],
+ "ojo": "Y si es una obligación personalísima de **hacer** y no se cumple (el cantante que no quiere cantar en las fiestas), no se le obliga a la fuerza: debe resarcir los daños y perjuicios (art. 104.2), y cabe la multa coercitiva si la ley lo permite."
+},
+{
+ "n": 11,
+ "enunciado": "Cuando llegan los operarios, don Tomás presenta ante el juzgado de primera instancia una acción posesoria para que se paralice el sellado. Si la Confederación actúa en materia de su competencia y con el procedimiento legalmente establecido, ¿qué ocurrirá?",
+ "opciones": [
+  "El juez la admitirá a trámite y suspenderá el sellado hasta que resuelva.",
+  "El juez la admitirá a trámite, pero sin suspender el sellado.",
+  "La Confederación tendrá que suspender el sellado mientras se tramita.",
+  "No se admitirá a trámite."
+ ],
+ "bloque": "finalizacion",
+ "precepto": "Art. 105 de la Ley 39/2015",
+ "correcta": 3,
+ "justificaciones": [
+  "No. Ni siquiera llega a admitirse. El art. 105 cierra esa puerta cuando la Administración actúa bien.",
+  "No. Tampoco se admite a trámite. No es que se admita sin efectos: es que no se admite.",
+  "No. La acción posesoria no suspende nada, porque no se admite. Si don Tomás no está de acuerdo, el camino son los recursos contra la resolución.",
+  "Es esta. El **art. 105** dice: «**No se admitirán a trámite** acciones posesorias contra las actuaciones de los órganos administrativos realizadas en materia de su competencia y de acuerdo con el procedimiento legalmente establecido».\nUna acción posesoria es pedir al juez civil que proteja tu posesión de una cosa (el antiguo «interdicto»). Contra la Administración que actúa dentro de su competencia y con el procedimiento debido, no cabe."
+ ],
+ "ojo": "Las dos condiciones van juntas: competencia y procedimiento. Si la Administración actuara sin competencia o sin procedimiento (una vía de hecho), la protección del art. 105 no se aplica."
+}
+]
+}

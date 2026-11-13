@@ -1,0 +1,201 @@
+{
+ "caso": {
+  "id": "ref-06",
+  "titulo": "Refuerzo nº 6 - Mini supuesto: sancionador, pago y caducidad",
+  "texto": "El 2 de marzo de 2026, la Demarcación de Costas en Asturias inició cuatro procedimientos sancionadores por ocupar sin título el dominio público marítimo-terrestre con terrazas de hostelería. La normativa aplicable fija un plazo máximo de seis meses para resolver y notificar. En la notificación de iniciación de cada procedimiento se indicaban dos reducciones: un 20 % por reconocer la responsabilidad y otro 20 % por pagar voluntariamente. Además, todos los infractores debían retirar sus terrazas y dejar la playa como estaba.\n- Bar Las Gaviotas: multa propuesta de 4.000 euros. Su titular reconoció por escrito su responsabilidad, pero no pagó.\n- Restaurante El Muelle: multa propuesta de 4.000 euros. Su titular pagó voluntariamente antes de la resolución, sin reconocer nada.\n- Chiringuito Playa Ancha: se propuso una multa de 8.000 euros y, además, una sanción no pecuniaria de suspensión de la actividad durante tres meses. No se justificó que esta segunda sanción fuera improcedente. Su titular reconoció su responsabilidad y pagó los 8.000 euros.\n- Hotel Mirador: el expediente se quedó olvidado en la Demarcación y, el 3 de septiembre de 2026, todavía no se había dictado ni notificado ninguna resolución.\nAparte, el Hotel Mirador había pedido en enero de 2026 una concesión para instalar unas pasarelas en la playa. Ese procedimiento está parado porque el hotel no aporta un proyecto técnico que la Demarcación le pidió y sin el cual no se puede resolver."
+ },
+ "preguntas": [
+  {
+   "n": 1,
+   "enunciado": "¿Cómo termina el procedimiento del Bar Las Gaviotas y cuál será el importe de la multa?",
+   "opciones": [
+    "Termina con el reconocimiento de la responsabilidad, sin necesidad de resolución, con una multa de 3.200 euros.",
+    "Sigue hasta la resolución, que impondrá la multa íntegra de 4.000 euros, porque no ha pagado.",
+    "Sigue hasta la resolución, que podrá imponer la multa con la reducción del 20 %: 3.200 euros.",
+    "Sigue hasta la resolución, que impondrá una multa de 2.400 euros, con una reducción del 40 %."
+   ],
+   "bloque": "finalizacion",
+   "precepto": "Art. 85.1 y 85.3 de la Ley 39/2015",
+   "correcta": 2,
+   "justificaciones": [
+    "No. **Reconocer no acaba el procedimiento**. El art. 85.1 dice que, si el infractor reconoce, «se podrá **resolver** el procedimiento con la imposición de la sanción». Es decir, sigue hasta una resolución. Lo que pone fin al procedimiento sin resolución es el **pago** (85.2).",
+    "No. Reconocer y pagar son cosas **independientes**, y cada una da su propia reducción. Reconocer sin pagar ya da derecho al 20 % (art. 85.3: «en ambos casos»).",
+    "Es esta. Dos pasos:\n1) **Cómo termina**: el bar solo reconoce. Según el **art. 85.1**, se podrá resolver imponiendo la sanción que proceda: el procedimiento sigue hasta la resolución.\n2) **Cuánto**: la sanción es solo pecuniaria, así que se aplica la reducción del **20 %** (**art. 85.3**). 4.000 menos el 20 % (800) son **3.200 euros**.\nEs el caso de «Javier» en el ejemplo del profesor.",
+    "No. El 40 % es la suma de las dos reducciones (reconocer **y** pagar). El bar solo ha reconocido: le corresponde una reducción, el 20 %."
+   ],
+   "ojo": "El profesor lo repite: reconocer no es pagar. Son dos supuestos independientes del art. 85, y cada uno da su propia reducción."
+  },
+  {
+   "n": 2,
+   "enunciado": "¿Cuál de las siguientes afirmaciones sobre el Restaurante El Muelle es correcta?",
+   "opciones": [
+    "El pago pone fin al procedimiento, con la reducción del 20 % (paga 3.200 euros), salvo en lo relativo a la reposición de la situación alterada y a la indemnización de daños y perjuicios.",
+    "El pago pone fin al procedimiento y, con él, desaparece también la obligación de retirar la terraza.",
+    "El pago no pone fin al procedimiento, porque el titular no ha reconocido su responsabilidad.",
+    "El pago pone fin al procedimiento, con una reducción del 40 %, porque pagar implica reconocer."
+   ],
+   "bloque": "finalizacion",
+   "precepto": "Art. 85.2 y 85.3 de la Ley 39/2015",
+   "correcta": 0,
+   "justificaciones": [
+    "Es esta. El **art. 85.2** dice que, cuando la sanción es únicamente pecuniaria, el **pago voluntario** antes de la resolución «implicará la **terminación** del procedimiento, **salvo** en lo relativo a la **reposición de la situación alterada** o a la determinación de la **indemnización** por los daños y perjuicios».\nY por el **art. 85.3** tiene la reducción del 20 %: paga **3.200 euros**. Pero tiene que seguir retirando la terraza y dejando la playa como estaba.\nEs el caso de «Laura» en el ejemplo del profesor.",
+    "No. Es la parte que se suele olvidar: el pago acaba el procedimiento **salvo** la reposición de la situación alterada y la indemnización. La terraza hay que retirarla igual.",
+    "No. Pagar no exige reconocer. Son independientes: se puede pagar sin reconocer, y el pago por sí solo termina el procedimiento (art. 85.2).",
+    "No. Pagar **no** implica reconocer. Solo ha hecho una de las dos cosas, así que tiene una reducción: el 20 %."
+   ]
+  },
+  {
+   "n": 3,
+   "enunciado": "¿Qué ocurre con el Chiringuito Playa Ancha, que ha reconocido su responsabilidad y ha pagado los 8.000 euros?",
+   "opciones": [
+    "Termina el procedimiento con el pago y obtiene una reducción del 40 %, de modo que paga 4.800 euros.",
+    "Termina el procedimiento con el pago, pero sin reducciones, y la suspensión de tres meses queda sin efecto.",
+    "Obtiene la reducción del 20 % por reconocer, pero no la del pago.",
+    "No tiene reducciones, el pago no pone fin al procedimiento y este sigue hasta una resolución que impondrá la multa y la suspensión."
+   ],
+   "bloque": "finalizacion",
+   "precepto": "Art. 85.2 y 85.3 de la Ley 39/2015",
+   "correcta": 3,
+   "justificaciones": [
+    "No. Es la segunda trampa de supuesto práctico que señala el profesor: si queda **viva** una sanción no pecuniaria, **no hay descuentos**. Las reducciones solo se aplican «cuando la sanción tenga **únicamente** carácter pecuniario» (art. 85.3).",
+    "No. El pago solo pone fin al procedimiento cuando la sanción es únicamente pecuniaria o cuando se ha **justificado la improcedencia** de la no pecuniaria (art. 85.2). Aquí no se justificó.",
+    "No. El art. 85.3 exige, para **cualquiera** de las dos reducciones, que la sanción sea únicamente pecuniaria. Con la suspensión viva, no hay ni la del reconocimiento ni la del pago.",
+    "Es esta. Aplica el flujo del profesor:\n1) ¿La sanción es solo multa? No: hay multa y suspensión.\n2) ¿Se justificó que la suspensión era improcedente? No.\n3) Entonces: **sin reducciones** (art. 85.3), y el **pago no termina** el procedimiento (art. 85.2). Sigue hasta la resolución, que impondrá las dos sanciones íntegras.\nEs el caso de «Sergio» en el ejemplo del profesor."
+   ],
+   "ojo": "Compara con «Marcos» del profesor: misma situación, pero con la improcedencia de la suspensión justificada. Entonces sí: 40 % y el pago acaba el procedimiento."
+  },
+  {
+   "n": 4,
+   "enunciado": "Los titulares del Bar Las Gaviotas y del Restaurante El Muelle, que se han beneficiado de la reducción, quieren recurrir después la sanción. ¿Qué pueden hacer?",
+   "opciones": [
+    "Pueden interponer recurso de alzada o de reposición sin perder la reducción.",
+    "No pueden recurrir ni en vía administrativa ni en vía judicial, porque la reducción exige renunciar a toda acción.",
+    "La reducción está condicionada al desistimiento o renuncia de cualquier acción o recurso en vía administrativa, pero conservan abierta la vía judicial.",
+    "Pueden recurrir en vía administrativa, pero no ante los tribunales."
+   ],
+   "bloque": "finalizacion",
+   "precepto": "Art. 85.3 de la Ley 39/2015",
+   "correcta": 2,
+   "justificaciones": [
+    "No. Si recurren en vía administrativa, pierden la reducción: su efectividad está condicionada a renunciar a esos recursos (art. 85.3).",
+    "No. La ley solo habla de la **vía administrativa**. Como dice el profesor: si te dicen «vía judicial», es mentira.",
+    "Es esta. El **art. 85.3** dice que la efectividad de las reducciones «estará condicionada al desistimiento o renuncia de cualquier acción o recurso **en vía administrativa** contra la sanción».\nLa renuncia a la vía administrativa es el precio del descuento. La vía judicial (el contencioso) sigue abierta.",
+    "No. Es justo al revés: lo que pierden es la vía administrativa; la judicial la conservan."
+   ]
+  },
+  {
+   "n": 5,
+   "enunciado": "¿Cuál de las siguientes afirmaciones sobre las reducciones del art. 85 es correcta?",
+   "opciones": [
+    "Son de, al menos, el 20 % cada una, acumulables entre sí, deben figurar en la notificación de iniciación y el porcentaje puede incrementarse reglamentariamente.",
+    "Son exactamente del 20 % cada una y no pueden acumularse.",
+    "Son de, al menos, el 20 %, y el porcentaje puede reducirse reglamentariamente.",
+    "Solo se aplican si el infractor reconoce su responsabilidad y además paga."
+   ],
+   "bloque": "finalizacion",
+   "precepto": "Art. 85.3 de la Ley 39/2015",
+   "correcta": 0,
+   "justificaciones": [
+    "Es esta. Todo sale del **art. 85.3**:\n1) reducciones «de, **al menos**, el 20 %»;\n2) «**acumulables** entre sí» (reconocer y pagar: al menos un 40 %);\n3) deben estar «determinadas en la **notificación de iniciación**» (lo exige también el art. 64.2.d);\n4) el porcentaje «podrá ser **incrementado** reglamentariamente».",
+    "No. Dos fallos: el 20 % es un **mínimo** («al menos»), y sí son **acumulables**.",
+    "No. Un reglamento puede **subirlo**, nunca bajarlo. Lo dice la ley: «podrá ser incrementado».",
+    "No. Cada supuesto da su reducción por separado (art. 85.3: «en ambos casos»). No hace falta hacer las dos cosas."
+   ]
+  },
+  {
+   "n": 6,
+   "enunciado": "¿Qué efecto produce que, el 3 de septiembre de 2026, no se haya dictado ni notificado resolución en el procedimiento del Hotel Mirador?",
+   "opciones": [
+    "El hotel puede entender desestimada la sanción por silencio administrativo.",
+    "Se produce la caducidad del procedimiento, y la resolución que la declare ordenará el archivo de las actuaciones.",
+    "Se entiende que el hotel no cometió la infracción.",
+    "Nada: la Administración puede seguir tramitando hasta que prescriba la infracción."
+   ],
+   "bloque": "actividad",
+   "precepto": "Art. 25.1.b) de la Ley 39/2015",
+   "correcta": 1,
+   "justificaciones": [
+    "No. La desestimación por silencio es para los procedimientos de oficio que podían reconocer derechos («algo bueno», art. 25.1.a). Un sancionador es «algo malo» para el interesado.",
+    "Es esta. El procedimiento empezó el 2 de marzo de 2026 y el plazo era de seis meses, contados desde la fecha del acuerdo de iniciación (art. 21.3.a): venció el 2 de septiembre de 2026. El día 3 ya está fuera de plazo. Por el **art. 25.1.b)**, en los procedimientos de oficio en que la Administración ejerce potestades **sancionadoras** o de gravamen, el vencimiento del plazo sin resolución produce la **caducidad**, y la resolución que la declare ordenará el **archivo** de las actuaciones.\nRegla del profesor: de oficio, «algo bueno» → desestimado; «algo malo» → caducidad.",
+    "No. La caducidad no declara que no haya infracción. Solo cierra este procedimiento. Si la infracción no ha prescrito, se podrá abrir otro (art. 95.3).",
+    "No. La Administración no puede seguir: el procedimiento caduca. Y, aunque haya caducado, sigue teniendo la obligación de resolver (para declarar la caducidad)."
+   ]
+  },
+  {
+   "n": 7,
+   "enunciado": "Tras la caducidad, ¿puede la Demarcación sancionar al Hotel Mirador?",
+   "opciones": [
+    "No, porque la caducidad produce la prescripción de la infracción.",
+    "Sí, y además el plazo de prescripción vuelve a empezar desde cero, porque el procedimiento caducado lo interrumpió.",
+    "Sí, en un nuevo procedimiento si la infracción no ha prescrito, pudiendo incorporar los actos que no habrían cambiado, pero sin necesidad de nuevas alegaciones ni audiencia.",
+    "Sí, en un nuevo procedimiento si la infracción no ha prescrito, teniendo en cuenta que el procedimiento caducado no interrumpió la prescripción; y en él deberán cumplirse de nuevo las alegaciones, la proposición de prueba y la audiencia."
+   ],
+   "bloque": "finalizacion",
+   "precepto": "Art. 95.3 de la Ley 39/2015",
+   "correcta": 3,
+   "justificaciones": [
+    "No. El art. 95.3 dice lo contrario: «la caducidad **no producirá por sí sola** la prescripción».",
+    "No. Es la trampa más típica del art. 95.3: «los procedimientos caducados **no interrumpirán** el plazo de prescripción». El plazo sigue corriendo como si ese procedimiento no hubiera existido.",
+    "No. Casi todo es cierto, pero el final no: «en todo caso, en el nuevo procedimiento **deberán** cumplimentarse los trámites de alegaciones, proposición de prueba y audiencia» (art. 95.3).",
+    "Es esta. El **art. 95.3** tiene tres ideas:\n1) La caducidad **no produce por sí sola** la prescripción.\n2) Pero el procedimiento caducado **no interrumpe** la prescripción: el plazo sigue corriendo.\n3) Si se puede abrir un nuevo procedimiento, se pueden **incorporar** los actos cuyo contenido sería el mismo, pero **siempre** hay que repetir alegaciones, proposición de prueba y audiencia."
+   ]
+  },
+  {
+   "n": 8,
+   "enunciado": "¿Puede el Hotel Mirador recurrir la resolución que declara la caducidad del procedimiento sancionador?",
+   "opciones": [
+    "No, porque la caducidad es un acto que no decide sobre el fondo y por eso no es recurrible.",
+    "No, porque le favorece, y solo se pueden recurrir los actos desfavorables.",
+    "Sí: contra la resolución que declara la caducidad caben los recursos pertinentes.",
+    "Solo ante los tribunales, nunca en vía administrativa."
+   ],
+   "bloque": "finalizacion",
+   "precepto": "Arts. 95.1 y 25.1.b) de la Ley 39/2015",
+   "correcta": 2,
+   "justificaciones": [
+    "No. Es el fallo que avisa el profesor: estamos acostumbrados a que los actos «incidentales» no se recurran, pero la caducidad **pone fin al procedimiento**, y la ley dice expresamente que se puede recurrir.",
+    "No. La ley no limita el recurso a quien sale perjudicado. Dice que «procederán los recursos pertinentes». Otra cosa es que al hotel le interese o no recurrir.",
+    "Es esta. El **art. 95.1** termina así: «Contra la resolución que declare la caducidad **procederán los recursos pertinentes**». Y el art. 25.1.b) remite a los efectos del art. 95.\nPara no confundirlo: contra la caducidad, **sí** cabe recurso; contra la declaración de lesividad, **no** (art. 107.2).",
+    "No. «Los recursos pertinentes» incluye los administrativos que procedan."
+   ]
+  },
+  {
+   "n": 9,
+   "enunciado": "En el procedimiento de concesión que pidió el Hotel Mirador, parado porque no aporta el proyecto técnico, ¿qué debe hacer la Demarcación para que caduque?",
+   "opciones": [
+    "Nada: caduca automáticamente a los tres meses de estar parado.",
+    "Advertir al hotel de que, transcurridos tres meses, se producirá la caducidad; y, si pasan sin que reanude la tramitación, acordar el archivo y notificárselo.",
+    "Advertirle de que caducará a los seis meses, el mismo plazo que tiene para resolver.",
+    "Darle diez días para aportar el proyecto y, si no lo hace, declarar la caducidad."
+   ],
+   "bloque": "finalizacion",
+   "precepto": "Art. 95.1 de la Ley 39/2015",
+   "correcta": 1,
+   "justificaciones": [
+    "No. No es automática: hace falta una **advertencia** previa. Sin ese aviso, no puede declararse la caducidad.",
+    "Es esta. El **art. 95.1**: en los procedimientos iniciados **a solicitud** del interesado, cuando se paralizan **por su culpa**, la Administración le **advertirá** que, transcurridos **tres meses**, se producirá la caducidad. Pasado ese plazo sin que reanude, acordará el **archivo** y se lo notificará.\nEjemplo del profesor: la farmacia que no trae los papeles del local. Fíjate en la diferencia con la pregunta 6: allí el procedimiento era **de oficio** (art. 25); aquí es **a solicitud** (art. 95).",
+    "No. Son **tres** meses (pregunta de examen, según el profesor), no seis.",
+    "No. Diez días es el plazo de subsanación (art. 68.1) o el de los trámites que hay que cumplir (art. 73.1). Para caducar, el plazo de la advertencia es de tres meses."
+   ]
+  },
+  {
+   "n": 10,
+   "enunciado": "Imagine que el proyecto técnico no fuera indispensable para resolver la concesión, sino un trámite más que el hotel no ha cumplido. ¿Qué consecuencia tendría su inactividad?",
+   "opciones": [
+    "La caducidad del procedimiento, tras la advertencia de tres meses.",
+    "El desistimiento del hotel y el archivo de su solicitud.",
+    "La desestimación de la concesión por silencio administrativo.",
+    "Únicamente la pérdida de su derecho a ese trámite; no podría acordarse la caducidad."
+   ],
+   "bloque": "finalizacion",
+   "precepto": "Arts. 95.2 y 73.3 de la Ley 39/2015",
+   "correcta": 3,
+   "justificaciones": [
+    "No. El art. 95.2 lo prohíbe: «no podrá acordarse la caducidad por la simple inactividad del interesado» en trámites que no sean indispensables para resolver.",
+    "No. El desistimiento por no subsanar es el de la **solicitud** (art. 68.1). Aquí no hablamos de subsanar la solicitud, sino de un trámite.",
+    "No. No cumplir un trámite no lleva a ninguna desestimación. El procedimiento sigue.",
+    "Es esta. El **art. 95.2** dice que esa inactividad «no tendrá otro efecto que la **pérdida de su derecho** al referido trámite». Es lo mismo que el art. 73.3 («decaído en su derecho al trámite»).\nEl profesor lo pone en su lista: solicitud no subsanada → desistimiento y fin del procedimiento; trámite no cumplido → se pierde el trámite, pero el procedimiento sigue."
+   ]
+  }
+ ]
+}

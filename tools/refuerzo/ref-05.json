@@ -1,0 +1,204 @@
+{
+ "caso": {
+  "id": "ref-05",
+  "titulo": "Refuerzo nº 5 - Iniciación de oficio y solicitudes",
+  "texto": "Asesoría Duero, S. L., una gestoría de Valladolid que trabaja para pequeños agricultores, hizo en marzo de 2026 varias gestiones ante la Administración General del Estado:\na) Presentó a la vez 40 solicitudes de un mismo certificado para 40 clientes distintos, usando el modelo de presentación masiva que el Ministerio tiene en su sede electrónica. Junto al modelo adjuntó una hoja con aclaraciones sobre algunos clientes.\nb) Presentó, en nombre de don Pablo Ortiz, una solicitud de ayuda a la modernización de explotaciones. La orden de la convocatoria establece expresamente un modelo específico de solicitud, pero la gestoría usó un escrito libre. Tampoco aportó ningún documento que acreditara que representaba a don Pablo.\nc) Una semana después, la gestoría llamó a la unidad tramitadora, en nombre de don Pablo, para preguntar en qué estado estaba su solicitud.\nPor otro lado, en la Confederación Hidrográfica del Duero:\nd) Doña Rosa Gil presentó una denuncia porque su vecino, don Andrés Mata, saca agua del río para regar sin autorización. Doña Rosa tiene una finca río abajo con un pozo que se está quedando seco.\ne) Una patrulla de la Guardia Civil, que no tiene competencia para sancionar en materia de aguas, detectó en una inspección rutinaria otra toma ilegal en la misma zona y envió un escrito a la Confederación proponiendo que se iniciara un procedimiento sancionador.\nLa Comisaría de Aguas es el órgano competente para iniciar los procedimientos sancionadores."
+ },
+ "preguntas": [
+  {
+   "n": 1,
+   "enunciado": "La Comisaría de Aguas inicia un procedimiento sancionador contra don Andrés a raíz de la denuncia de doña Rosa. ¿Cómo se ha iniciado ese procedimiento?",
+   "opciones": [
+    "De oficio, como consecuencia de una denuncia.",
+    "A solicitud de doña Rosa, porque es ella quien ha pedido que se actúe.",
+    "Por denuncia, que es una tercera forma de iniciación distinta de la iniciación de oficio y a solicitud del interesado.",
+    "A solicitud de interesado, porque doña Rosa tiene un interés legítimo por su pozo."
+   ],
+   "bloque": "iniciacion",
+   "precepto": "Arts. 58 y 63.1 de la Ley 39/2015",
+   "correcta": 0,
+   "justificaciones": [
+    "Es esta. El **art. 58** dice que los procedimientos se inician **de oficio** por acuerdo del órgano competente, «bien por propia iniciativa o **como consecuencia de** orden superior, a petición razonada de otros órganos o **por denuncia**».\nLa denuncia no es una forma de iniciar: es el motivo por el que la Administración decide iniciar de oficio. Además, los sancionadores se inician **siempre de oficio** (art. 63.1).",
+    "No. Doña Rosa no pide nada para ella: comunica unos hechos. Y un procedimiento sancionador nunca se inicia a solicitud de nadie (art. 63.1).",
+    "No. Es la trampa que señala el profesor: solo hay **dos** formas de iniciar, de oficio y a solicitud del interesado. Orden superior, petición razonada y denuncia son vías por las que se inicia **de oficio**.",
+    "No. Tener interés legítimo puede hacer que doña Rosa sea interesada si se persona (pregunta siguiente), pero no cambia la forma de iniciación. El sancionador se inicia siempre de oficio."
+   ],
+   "ojo": "Solo hay dos formas de iniciar un procedimiento: de oficio y a solicitud. Si te dan «por denuncia» o «por orden superior» como forma propia, es falso."
+  },
+  {
+   "n": 2,
+   "enunciado": "Por haber presentado la denuncia, ¿tiene doña Rosa la condición de interesada en el procedimiento sancionador?",
+   "opciones": [
+    "Sí, porque la denuncia confiere siempre la condición de interesado.",
+    "No, porque los denunciantes nunca pueden ser interesados en el procedimiento sancionador.",
+    "La denuncia por sí sola no se la da; pero, como tiene un interés legítimo que puede verse afectado, será interesada si se persona en el procedimiento mientras no haya recaído resolución definitiva.",
+    "Solo si presentó la denuncia asistida de abogado."
+   ],
+   "bloque": "iniciacion",
+   "precepto": "Arts. 62.5 y 4.1.c) de la Ley 39/2015",
+   "correcta": 2,
+   "justificaciones": [
+    "No. Es justo al revés. El **art. 62.5** dice que la denuncia «**no** confiere, **por sí sola**, la condición de interesado».",
+    "No. «Por sí sola» no basta, pero eso no significa que nunca pueda serlo. Si además tiene un interés legítimo, puede llegar a ser interesada.",
+    "Es esta. Dos artículos que van juntos:\n1) **Art. 62.5**: la denuncia no da, por sí sola, la condición de interesado.\n2) **Art. 4.1.c)**: son interesados quienes tengan intereses legítimos que puedan resultar afectados por la resolución y **se personen** en el procedimiento mientras no haya recaído resolución definitiva.\nEs el ejemplo del profesor: el pozo de doña Rosa se queda sin agua por la toma ilegal. Tiene interés legítimo. Si se persona, será interesada; si no, solo es denunciante.",
+    "No. La ley no exige abogado para nada de esto. Ni siquiera para actuar como interesado (el art. 53.1.g habla de asesor, no de abogado)."
+   ]
+  },
+  {
+   "n": 3,
+   "enunciado": "Doña Rosa quería presentar la denuncia sin dar su nombre, por miedo a problemas con su vecino. ¿Qué contenido debe tener la denuncia?",
+   "opciones": [
+    "Basta con el relato de los hechos: la identidad del denunciante es voluntaria.",
+    "La identidad de quien la presenta y el relato de los hechos; y, como los hechos pueden ser una infracción, la fecha en que se cometieron y, cuando sea posible, la identificación de los presuntos responsables.",
+    "La identidad de quien la presenta, el relato de los hechos y, en todo caso, la prueba documental de la infracción.",
+    "La identidad de quien la presenta y la propuesta de sanción que considera procedente."
+   ],
+   "bloque": "iniciacion",
+   "precepto": "Art. 62.2 de la Ley 39/2015",
+   "correcta": 1,
+   "justificaciones": [
+    "No. La identidad es obligatoria: el art. 62.2 dice que las denuncias «**deberán** expresar la identidad de la persona o personas que las presentan». Por eso, según la Ley 39/2015, una denuncia no puede ser anónima.",
+    "Es esta. El **art. 62.2** exige:\n1) la **identidad** de quien la presenta;\n2) el **relato de los hechos**;\n3) si los hechos pueden ser una infracción, además, la **fecha** de su comisión y, **cuando sea posible**, la identificación de los presuntos responsables.\nFíjate en el «cuando sea posible»: si no sabes quién es, puedes denunciar igual.",
+    "No. La ley no exige aportar pruebas. Basta con contar los hechos: investigar es tarea de la Administración.",
+    "No. El denunciante no propone sanciones. Eso le corresponde al instructor en la propuesta de resolución."
+   ]
+  },
+  {
+   "n": 4,
+   "enunciado": "En relación con el escrito que envió la patrulla de la Guardia Civil a la Confederación, ¿cuál de las siguientes afirmaciones es correcta?",
+   "opciones": [
+    "Es una orden superior, y la Comisaría de Aguas está obligada a iniciar el procedimiento.",
+    "Es una denuncia, y la Guardia Civil pasa a ser interesada en el procedimiento.",
+    "Es una petición razonada que obliga a iniciar el procedimiento, porque la formula un órgano con funciones de inspección.",
+    "Es una petición razonada que no vincula a la Comisaría de Aguas, aunque, si decide no iniciar, debe comunicar a la Guardia Civil los motivos."
+   ],
+   "bloque": "iniciacion",
+   "precepto": "Art. 61.1 y 61.2 de la Ley 39/2015",
+   "correcta": 3,
+   "justificaciones": [
+    "No. La orden superior la da el **superior jerárquico** del órgano competente (art. 60). La Guardia Civil no es superior jerárquico de la Comisaría de Aguas: es otro órgano, de otro ministerio.",
+    "No. La denuncia la presenta «cualquier persona» (art. 62.1). Cuando es un **órgano administrativo sin competencia** el que propone iniciar, la ley lo llama petición razonada. Y tampoco por eso se es interesado.",
+    "No. Es petición razonada, sí, pero **no vincula**. Que el órgano tenga funciones de inspección explica por qué conoció los hechos, no hace que su propuesta obligue.",
+    "Es esta. El **art. 61.1** define la petición razonada como la propuesta de iniciación de un **órgano administrativo que no tiene competencia** para iniciar y que conoció los hechos ocasionalmente o **por tener funciones de inspección**. Es el caso de la patrulla.\nY el **art. 61.2**: la petición **no vincula** al órgano competente, pero este **debe comunicar** al órgano que la formuló los motivos por los que, en su caso, no procede iniciar."
+   ],
+   "ojo": "Resumen del profesor: propia iniciativa (el propio órgano competente), orden superior (su superior jerárquico, que sí obliga a iniciar), petición razonada (otro órgano sin competencia, no vincula), denuncia (cualquier persona)."
+  },
+  {
+   "n": 5,
+   "enunciado": "En relación con el modelo de presentación masiva que usó Asesoría Duero para las 40 solicitudes, ¿cuál de las siguientes afirmaciones es correcta?",
+   "opciones": [
+    "La Administración puede crearlo si quiere, pero, una vez creado, su uso es obligatorio.",
+    "La Administración debe establecerlo, su uso es obligatorio para quien presente varias solicitudes a la vez y no se pueden añadir documentos.",
+    "La Administración debe establecerlo, su uso es voluntario y la hoja de aclaraciones que adjuntó la gestoría debe admitirse y tenerse en cuenta.",
+    "La Administración debe establecerlo y su uso es voluntario, pero solo se tiene en cuenta lo que figure en las casillas del modelo."
+   ],
+   "bloque": "iniciacion",
+   "precepto": "Art. 66.4 de la Ley 39/2015",
+   "correcta": 2,
+   "justificaciones": [
+    "No. Las dos mitades están al revés: la Administración **debe** establecerlos y su uso es **voluntario**.",
+    "No. Su uso es **voluntario**, y la ley permite expresamente acompañar elementos que precisen o completen los datos.",
+    "Es esta. El **art. 66.4** dice tres cosas:\n1) Las Administraciones «**deberán** establecer» modelos y sistemas de presentación masiva: es una obligación de la Administración.\n2) Son «**de uso voluntario**» para los interesados.\n3) Los solicitantes pueden acompañar los elementos que estimen convenientes para precisar o completar los datos, «los cuales **deberán ser admitidos y tenidos en cuenta**».\nEjemplo del profesor: un gestor que pide la vida laboral de 50 clientes no presenta 50 solicitudes, sino un modelo masivo.",
+    "No. La última parte es falsa: lo que se adjunta para completar el modelo debe admitirse y tenerse en cuenta (art. 66.4, segundo párrafo)."
+   ],
+   "ojo": "Pregunta «clarísima» según el profesor: modelo masivo, deber de la Administración y uso voluntario; modelo específico de un procedimiento concreto, uso obligatorio."
+  },
+  {
+   "n": 6,
+   "enunciado": "La solicitud de ayuda de don Pablo se presentó en un escrito libre, aunque la orden de la convocatoria establece expresamente un modelo específico. ¿Cuál de las siguientes afirmaciones es correcta?",
+   "opciones": [
+    "La solicitud es correcta, porque los modelos de solicitud son siempre de uso voluntario.",
+    "El uso del modelo era obligatorio, porque cuando la Administración establece expresamente un modelo específico en un procedimiento concreto, este es de uso obligatorio.",
+    "El modelo solo es obligatorio para las personas jurídicas, como la gestoría, y no para las personas físicas.",
+    "El modelo solo sería obligatorio si se tratara de un modelo de presentación masiva."
+   ],
+   "bloque": "iniciacion",
+   "precepto": "Art. 66.6 de la Ley 39/2015",
+   "correcta": 1,
+   "justificaciones": [
+    "No. Los voluntarios son los modelos de presentación **masiva** (art. 66.4). Los **específicos** de un procedimiento concreto son obligatorios.",
+    "Es esta. El **art. 66.6** dice: «Cuando la Administración en un **procedimiento concreto** establezca **expresamente** modelos específicos de presentación de solicitudes, éstos serán de **uso obligatorio** por los interesados».\nEjemplo del profesor: la solicitud de unas oposiciones. Si la presentas en un papel cualquiera, se te puede tener por no presentado.",
+    "No. La ley no distingue entre personas físicas y jurídicas: el modelo específico es obligatorio para todos los interesados. Además, quien solicita es don Pablo; la gestoría solo lo representa.",
+    "No. Es al revés: el masivo es el voluntario (66.4) y el específico, el obligatorio (66.6)."
+   ]
+  },
+  {
+   "n": 7,
+   "enunciado": "La gestoría presentó la solicitud de ayuda en nombre de don Pablo sin acreditar su representación. ¿Qué debe ocurrir?",
+   "opciones": [
+    "Nada: la representación se presume siempre que actúe una gestoría profesional.",
+    "La solicitud se tiene por no presentada, sin posibilidad de subsanar.",
+    "La Administración debe conceder un plazo de quince días para acreditarla.",
+    "Hay que acreditar la representación para formular solicitudes; pero el defecto no impide tener por realizada la solicitud si se acredita o se subsana en el plazo de diez días que debe conceder la Administración."
+   ],
+   "bloque": "interesados",
+   "precepto": "Art. 5.3 y 5.6 de la Ley 39/2015",
+   "correcta": 3,
+   "justificaciones": [
+    "No. La presunción solo vale para los actos de **mero trámite** (art. 5.3). Formular una solicitud no es mero trámite. Y que sea una gestoría no cambia nada.",
+    "No. El art. 5.6 permite subsanar: la falta de acreditación no impide que se tenga por realizado el acto si se arregla en plazo.",
+    "No. El plazo es de **diez** días (art. 5.6), o uno superior si las circunstancias lo requieren. Quince no aparece.",
+    "Es esta. Dos reglas:\n1) **Art. 5.3**: para **formular solicitudes**, presentar declaraciones responsables o comunicaciones, interponer recursos, desistir y renunciar en nombre de otro, **hay que acreditar** la representación. Es la pregunta «a fuego» del profesor.\n2) **Art. 5.6**: si falta, no impide tener por realizado el acto, siempre que se aporte o se subsane en el plazo de **diez días** que **deberá** conceder el órgano (o más, si el caso lo requiere)."
+   ]
+  },
+  {
+   "n": 8,
+   "enunciado": "Cuando la gestoría llama para preguntar en nombre de don Pablo en qué estado está su solicitud, ¿tiene que acreditar la representación?",
+   "opciones": [
+    "No, porque para los actos y gestiones de mero trámite se presume la representación.",
+    "Sí, porque cualquier actuación en nombre de otra persona exige acreditar la representación.",
+    "Sí, porque solo el propio interesado puede conocer el estado de la tramitación.",
+    "No, porque una vez presentada la solicitud la representación ya no es necesaria."
+   ],
+   "bloque": "interesados",
+   "precepto": "Art. 5.3 de la Ley 39/2015",
+   "correcta": 0,
+   "justificaciones": [
+    "Es esta. El final del **art. 5.3** dice: «Para los actos y gestiones de **mero trámite** se **presumirá** aquella representación». Preguntar cómo va un expediente es una gestión de mero trámite.\nLa lista de lo que **sí** exige acreditar es cerrada: solicitudes, declaraciones responsables, comunicaciones, recursos, desistimientos y renuncias. Truco: todo lo que puede cambiar la situación jurídica del representado.",
+    "No. No es «cualquier actuación»: solo las del art. 5.3. Para el mero trámite, se presume.",
+    "No. Conocer el estado de la tramitación es un derecho del interesado (art. 53.1.a), y el interesado puede actuar por medio de representante (art. 5.1).",
+    "No. La representación sigue siendo necesaria; lo que pasa es que, para el mero trámite, se presume."
+   ]
+  },
+  {
+   "n": 9,
+   "enunciado": "¿Cuál de los siguientes datos NO es obligatorio que figure en una solicitud de iniciación?",
+   "opciones": [
+    "La firma del solicitante o la acreditación de la autenticidad de su voluntad expresada por cualquier medio.",
+    "El órgano, centro o unidad administrativa a la que se dirige y su código de identificación.",
+    "La identificación del medio electrónico, o en su defecto, del lugar físico en que se desea que se practique la notificación.",
+    "Una dirección de correo electrónico o un dispositivo electrónico para recibir el aviso de las notificaciones."
+   ],
+   "bloque": "iniciacion",
+   "precepto": "Art. 66.1 de la Ley 39/2015",
+   "correcta": 3,
+   "justificaciones": [
+    "No: este sí es obligatorio. Es el **art. 66.1.e)**. «Acreditar la autenticidad de su voluntad por cualquier medio» es para quien no puede o no sabe firmar (por ejemplo, con la huella).",
+    "No: este sí es obligatorio. Es el **art. 66.1.f)**. Y si no conoces el código, las oficinas de asistencia en materia de registros están obligadas a facilitártelo.",
+    "No: este sí es obligatorio. Es el **art. 66.1.b)**: hay que decir dónde quieres que te notifiquen.",
+    "Es esta: no es obligatoria. El **art. 66.1.b)** dice que, «**adicionalmente**, los interesados **podrán** aportar» su correo electrónico o dispositivo electrónico para que les avisen. «Podrán» significa que es voluntario.\nEl correo o el móvil solo sirven para el **aviso**; la notificación se practica en la sede electrónica o en la DEHú."
+   ],
+   "ojo": "Fíjate en el NO del enunciado. Es la trampa más tonta y la que más puntos quita: lee siempre si piden la correcta o la incorrecta antes de mirar las opciones."
+  },
+  {
+   "n": 10,
+   "enunciado": "Suponga que las tomas ilegales causan un perjuicio en el patrimonio de la Administración. Un tercer regante, don Luis Pardo, que participaba en ellas con don Andrés, es el primero en aportar pruebas que permiten iniciar el procedimiento, cuando la Confederación todavía no las tenía. Además, repara el perjuicio, deja de participar y no destruye ninguna prueba. ¿Qué debe hacer el órgano competente para resolver?",
+   "opciones": [
+    "Reducir la multa que le correspondería, en el porcentaje que considere oportuno.",
+    "Eximirle del pago de la multa que le correspondería.",
+    "Imponerle la multa completa, porque denunciar no exime de la responsabilidad por la infracción cometida.",
+    "Considerarle interesado y archivar el procedimiento respecto de él sin más trámite."
+   ],
+   "bloque": "iniciacion",
+   "precepto": "Art. 62.4 de la Ley 39/2015",
+   "correcta": 1,
+   "justificaciones": [
+    "No. La reducción es para quien **no** cumple todas las condiciones de la exención, pero aporta pruebas con un «valor añadido significativo». Don Luis las cumple todas, así que le corresponde más: la exención.",
+    "Es esta. El **art. 62.4** dice que el órgano competente para resolver «**deberá eximir** al denunciante del pago de la multa» cuando:\n1) haya participado en la infracción y haya otros infractores;\n2) sea el **primero** en aportar pruebas que permitan iniciar el procedimiento o comprobar la infracción, cuando la Administración no tenía elementos suficientes;\n3) **repare el perjuicio** causado;\n4) y, en todo caso, **cese** en la infracción y no haya destruido pruebas.\nEs el «chivato mayor» del profesor. El «chivato menor», que no cumple todo pero aporta algo útil, tiene reducción.",
+    "No. La ley dice «deberá eximir»: no es una opción, es una obligación si se cumplen los requisitos.",
+    "No. Ser denunciante no le hace interesado (art. 62.5), y la ley no habla de archivar, sino de eximirle de la multa."
+   ],
+   "ojo": "El art. 62.4 se aplica a las infracciones que causan un perjuicio en el patrimonio de las Administraciones Públicas (por eso el enunciado lo dice). En el examen lo preguntan casi siempre por la diferencia entre eximir (se cumplen todos los requisitos) y reducir (pruebas con valor añadido)."
+  }
+ ]
+}

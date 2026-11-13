@@ -1,0 +1,204 @@
+{
+ "caso": {
+  "id": "ref-07",
+  "titulo": "Refuerzo nº 7 - Mini supuesto: varios vecinos, una solicitud",
+  "texto": "Ana, Bruno, Carmen y Darío son dueños de cuatro fincas contiguas en Tordesillas (Valladolid). El 9 de marzo de 2026 presentaron una única solicitud dirigida a la Demarcación de Carreteras del Estado para construir un acceso común a sus fincas desde una carretera nacional. Todos pedían lo mismo y por la misma razón. No designaron a nadie para que los representara; en el escrito, Ana figuraba en primer lugar.\nDurante la tramitación ocurrió lo siguiente:\na) La Demarcación les requirió un plano firmado por un técnico. El requerimiento se notificó el 16 de marzo y los vecinos aportaron el plano el 25 de marzo.\nb) Don Ernesto Ríos, dueño de una gasolinera cercana, se personó en el procedimiento como interesado, porque el nuevo acceso afectaría a la entrada de su negocio.\nc) El 10 de abril, Bruno presentó un escrito en el que desistía de la solicitud.\nd) Se practicó una prueba pericial sobre la visibilidad en el cruce, y su valoración resultaba imprescindible para decidir.\ne) Ya redactada la propuesta de resolución, el Jefe de la Demarcación, órgano competente para resolver, consideró indispensable una medición del tráfico en la zona antes de dictar resolución."
+ },
+ "preguntas": [
+  {
+   "n": 1,
+   "enunciado": "¿Podían los cuatro vecinos presentar una única solicitud?",
+   "opciones": [
+    "No: cada interesado debe presentar siempre su propia solicitud.",
+    "Sí, porque sus pretensiones tienen un contenido y un fundamento idéntico o sustancialmente similar, salvo que las normas del procedimiento dispongan otra cosa.",
+    "Sí, pero solo si designan expresamente un representante común.",
+    "Sí, pero solo si utilizan un modelo de presentación masiva."
+   ],
+   "bloque": "iniciacion",
+   "precepto": "Art. 66.2 de la Ley 39/2015",
+   "correcta": 1,
+   "justificaciones": [
+    "No. La ley lo permite expresamente cuando piden lo mismo por la misma razón (art. 66.2).",
+    "Es esta. El **art. 66.2** dice que, cuando las pretensiones de varias personas tengan un **contenido y fundamento idéntico o sustancialmente similar**, «podrán ser formuladas en una **única solicitud**, salvo que las normas reguladoras de los procedimientos específicos dispongan otra cosa».\nAquí los cuatro piden lo mismo (el acceso) y por la misma razón (llegar a sus fincas).",
+    "No. Designar representante no es un requisito para presentar una solicitud conjunta. Si no lo designan, la Administración se entiende con el primero (art. 7).",
+    "No. El modelo masivo sirve para presentar **varias** solicitudes a la vez (art. 66.4). Aquí es una sola solicitud firmada por varios."
+   ]
+  },
+  {
+   "n": 2,
+   "enunciado": "¿Con quién se efectuarán las actuaciones del procedimiento?",
+   "opciones": [
+    "Con los cuatro vecinos, uno por uno.",
+    "Con el vecino que elija la Demarcación.",
+    "Con Ana, por figurar en primer término, ya que no han señalado expresamente a ningún representante o interesado.",
+    "Con el último de los firmantes."
+   ],
+   "bloque": "interesados",
+   "precepto": "Art. 7 de la Ley 39/2015",
+   "correcta": 2,
+   "justificaciones": [
+    "No. La ley busca justo lo contrario: tener un único interlocutor. No obliga a repetir cada actuación con todos.",
+    "No. La Administración no elige. La ley fija el orden: primero, el que hayan señalado; si no, el primero.",
+    "Es esta. El **art. 7** dice que, cuando en una solicitud figuren varios interesados, las actuaciones se efectuarán con el representante o el interesado que **expresamente hayan señalado** y, **en su defecto**, con el que **figure en primer término**.\nNo han señalado a nadie, así que es Ana. Es la pregunta «regalo, pero con trampa» del profesor: la trampa suele ser cambiar «primer» por «último» o quitar el «en su defecto».",
+    "No. La ley dice «primer término», no último."
+   ]
+  },
+  {
+   "n": 3,
+   "enunciado": "La Demarcación tiene tres meses para resolver. ¿Qué efecto puede tener sobre ese plazo el requerimiento del plano?",
+   "opciones": [
+    "Ninguno: los requerimientos de documentación nunca afectan al plazo para resolver.",
+    "Se suspende obligatoriamente y de forma automática hasta un máximo de tres meses.",
+    "El plazo vuelve a empezar desde cero cuando los vecinos aportan el plano.",
+    "Se podrá suspender por el tiempo que medie entre la notificación del requerimiento y su cumplimiento: del 16 al 25 de marzo."
+   ],
+   "bloque": "actividad",
+   "precepto": "Art. 22.1.a) de la Ley 39/2015",
+   "correcta": 3,
+   "justificaciones": [
+    "No. La ley prevé expresamente que este requerimiento pueda suspender el plazo (art. 22.1.a).",
+    "No. Dos fallos. Es una suspensión **potestativa** («se podrá suspender», art. 22.1), no obligatoria. Y el límite de tres meses es el de los **informes preceptivos** (art. 22.1.d), otra letra distinta.",
+    "No. Suspender no es reiniciar. El plazo se para y, cuando acaba la suspensión, sigue contando los días que le quedaban.",
+    "Es esta. El **art. 22.1.a)** permite suspender el plazo para resolver «cuando deba requerirse a cualquier interesado para la subsanación de deficiencias o la **aportación de documentos**», «por el tiempo que medie entre la **notificación del requerimiento** y su **efectivo cumplimiento**».\nAquí, del 16 al 25 de marzo. El profesor marca el art. 22.1 como «pregunta clara de examen»: estos son los casos de suspensión **potestativa** («se podrá»)."
+   ],
+   "ojo": "22.1 es «se podrá» (potestativa). 22.2 es «se suspenderá» (obligatoria): requerimiento a otra Administración, actuaciones complementarias y recusación."
+  },
+  {
+   "n": 4,
+   "enunciado": "¿Qué efecto tiene el escrito de desistimiento que presentó Bruno el 10 de abril?",
+   "opciones": [
+    "Solo le afecta a él; el procedimiento sigue para Ana, Carmen y Darío.",
+    "Pone fin al procedimiento para los cuatro, porque la solicitud era única.",
+    "La Administración debe preguntar a los otros tres si quieren seguir; si no contestan en diez días, se archiva.",
+    "Bruno pierde para siempre su derecho a pedir el acceso."
+   ],
+   "bloque": "finalizacion",
+   "precepto": "Art. 94.2 de la Ley 39/2015",
+   "correcta": 0,
+   "justificaciones": [
+    "Es esta. El **art. 94.2** (marcado como IMP por el profesor) dice que, si el escrito de iniciación se formuló por **dos o más interesados**, el desistimiento o la renuncia «**sólo afectará a aquellos que la hubiesen formulado**».\nEl procedimiento sigue para los otros tres, sin preguntarles nada.",
+    "No. Que la solicitud sea única no hace que el desistimiento de uno arrastre a los demás. Solo afecta a quien desiste.",
+    "No. No hay que preguntarles nada: el procedimiento sigue para ellos directamente. Los diez días son otra cosa: el plazo de los **terceros interesados** para pedir que continúe (art. 94.4).",
+    "No. **Desistir** es abandonar la solicitud, no el derecho. Bruno podría volver a pedirlo más adelante. Lo que hace perder el derecho es la **renuncia**."
+   ],
+   "ojo": "Desistir: abandono el procedimiento, puedo volver a pedirlo. Renunciar: abandono el derecho, ya no puedo pedirlo."
+  },
+  {
+   "n": 5,
+   "enunciado": "Suponga que, en lugar de Bruno solo, desistieran los cuatro vecinos. ¿Qué podría hacer don Ernesto?",
+   "opciones": [
+    "Nada: si desisten todos los solicitantes, la Administración archiva siempre el procedimiento.",
+    "Instar la continuación del procedimiento en el plazo de diez días desde que se le notifique el desistimiento, porque se había personado como interesado.",
+    "Instar la continuación del procedimiento en el plazo de quince días, aunque no se hubiera personado.",
+    "Recurrir en alzada la aceptación del desistimiento."
+   ],
+   "bloque": "finalizacion",
+   "precepto": "Art. 94.4 de la Ley 39/2015",
+   "correcta": 1,
+   "justificaciones": [
+    "No. La regla general es aceptar de plano el desistimiento y declarar concluso el procedimiento, pero tiene una excepción: los terceros interesados personados pueden pedir que continúe.",
+    "Es esta. El **art. 94.4** dice que la Administración aceptará de plano el desistimiento y declarará concluso el procedimiento, «**salvo** que, habiéndose **personado** en el mismo **terceros interesados**, instasen éstos su continuación en el plazo de **diez días** desde que fueron notificados».\nPor qué le interesa a don Ernesto: quiere que se resuelva que ahí no cabe el acceso, para que los vecinos no lo vuelvan a pedir dentro de dos meses. Es el ejemplo de María y Juana con los pozos.",
+    "No. Dos fallos: son **diez** días, y solo pueden pedirlo los terceros que se hayan **personado**.",
+    "No. La vía que da la ley es instar la continuación en diez días, no recurrir."
+   ]
+  },
+  {
+   "n": 6,
+   "enunciado": "En relación con la prueba pericial sobre la visibilidad en el cruce, ¿qué debe hacer el instructor?",
+   "opciones": [
+    "Incluir en la propuesta de resolución la valoración de esa prueba, porque es el fundamento básico de la decisión.",
+    "Incluir la valoración de la prueba en la propuesta solo si algún interesado lo pide.",
+    "Incluir en la propuesta la valoración de todas las pruebas practicadas, sean o no importantes.",
+    "No incluirla en la propuesta: la valoración de las pruebas solo se hace en la resolución."
+   ],
+   "bloque": "instruccion",
+   "precepto": "Art. 77.7 de la Ley 39/2015",
+   "correcta": 0,
+   "justificaciones": [
+    "Es esta. El **art. 77.7** dice: «Cuando la valoración de las pruebas practicadas pueda constituir el **fundamento básico** de la decisión que se adopte en el procedimiento, por ser **pieza imprescindible** para la correcta evaluación de los hechos, **deberá incluirse** en la propuesta de resolución».\nAquí la visibilidad en el cruce es lo que decide si se autoriza el acceso o no.",
+    "No. No depende de que lo pidan. Si es el fundamento básico, «deberá» incluirse.",
+    "No. Es la trampa que señala el profesor: **no siempre**, solo cuando es el fundamento básico de la decisión.",
+    "No. Cuando es el fundamento básico, la ley obliga a incluirla ya en la **propuesta**."
+   ],
+   "ojo": "La trampa del art. 77.7 está en «siempre». La ley no dice siempre: dice «cuando pueda constituir el fundamento básico de la decisión»."
+  },
+  {
+   "n": 7,
+   "enunciado": "Ya redactada la propuesta de resolución, el Jefe de la Demarcación acuerda medir el tráfico de la zona. ¿Cuál de las siguientes afirmaciones es correcta?",
+   "opciones": [
+    "Debe practicarse en un plazo no superior a siete días, y los interesados tendrán quince días para alegar; el plazo para resolver puede suspenderse.",
+    "Debe practicarse en un plazo no superior a quince días, y los interesados tendrán siete días para alegar tras su finalización; el plazo para resolver queda suspendido hasta que terminen.",
+    "No puede hacerse, porque una vez redactada la propuesta solo queda resolver.",
+    "Debe practicarse en un plazo no superior a diez días, y no hay trámite de alegaciones porque ya se dio audiencia."
+   ],
+   "bloque": "finalizacion",
+   "precepto": "Arts. 87 y 22.2.b) de la Ley 39/2015",
+   "correcta": 1,
+   "justificaciones": [
+    "No. Los números están cruzados, que es justo lo que avisa el profesor que no hagas: **15** días para practicarlas y **7** para alegar. Y la suspensión no es potestativa: es obligatoria (art. 22.2.b).",
+    "Es esta. Son **actuaciones complementarias** (**art. 87**, «muy preguntado» según el profesor):\n1) Las acuerda el **órgano competente para resolver**, antes de dictar resolución, mediante **acuerdo motivado**, si son indispensables.\n2) Se practican en un plazo **no superior a quince días**.\n3) Los interesados tienen **siete días** para alegar **tras su finalización**.\n4) El plazo para resolver **queda suspendido** hasta que terminen. Es una suspensión obligatoria (art. 22.2.b).",
+    "No. Precisamente para eso existen las actuaciones complementarias: para cuando, ya hecha la propuesta, al órgano que resuelve le falta algo indispensable.",
+    "No. Son quince días, no diez. Y sí hay alegaciones: siete días tras terminar las actuaciones."
+   ],
+   "ojo": "No son actuaciones complementarias los informes que preceden inmediatamente a la resolución final del procedimiento (art. 87)."
+  },
+  {
+   "n": 8,
+   "enunciado": "Durante la instrucción, Carmen quiere aportar un informe técnico nuevo a favor del acceso. ¿Hasta cuándo puede hacerlo?",
+   "opciones": [
+    "Hasta que se dicte la resolución definitiva.",
+    "Solo dentro de los diez días siguientes a la presentación de la solicitud.",
+    "En cualquier momento del procedimiento anterior al trámite de audiencia, y deberá tenerse en cuenta al redactar la propuesta de resolución.",
+    "En todo momento, incluso después de la resolución."
+   ],
+   "bloque": "instruccion",
+   "precepto": "Arts. 76.1 y 53.1.e) de la Ley 39/2015",
+   "correcta": 2,
+   "justificaciones": [
+    "No. La frontera no es la resolución, sino el **trámite de audiencia**. En la audiencia todavía puede presentar documentos (art. 82.2), pero esa ya es otra fase.",
+    "No. La ley no pone ese límite. Dice «en cualquier momento» antes de la audiencia.",
+    "Es esta. El **art. 76.1** dice que los interesados podrán, «en cualquier momento del procedimiento **anterior al trámite de audiencia**, aducir alegaciones y aportar documentos u otros elementos de juicio», que «serán tenidos en cuenta por el órgano competente al redactar la correspondiente propuesta de resolución». Lo repite el art. 53.1.e).\nEl profesor lo marca como muy preguntado: no confundir el 76.1 (alegaciones, antes de la audiencia) con el 76.2 (defectos de tramitación, en todo momento).",
+    "No. «En todo momento» es para alegar **defectos de tramitación** (art. 76.2), no para aportar documentos sobre el fondo."
+   ]
+  },
+  {
+   "n": 9,
+   "enunciado": "Darío considera que el expediente lleva semanas parado sin motivo y que se ha omitido un trámite. ¿Cuándo puede alegarlo?",
+   "opciones": [
+    "Solo en el trámite de audiencia.",
+    "En cualquier momento anterior al trámite de audiencia.",
+    "Solo mediante el recurso que interponga contra la resolución final.",
+    "En todo momento; y esas alegaciones podrán dar lugar, si hay razones para ello, a exigir responsabilidad disciplinaria."
+   ],
+   "bloque": "instruccion",
+   "precepto": "Art. 76.2 de la Ley 39/2015",
+   "correcta": 3,
+   "justificaciones": [
+    "No. La ley no lo limita a la audiencia: dice «en todo momento».",
+    "No. Ese límite (antes de la audiencia) es el de las alegaciones y documentos del **art. 76.1**. Para los defectos de tramitación, el art. 76.2 dice «en todo momento». Es exactamente la confusión que el profesor dice que se pregunta.",
+    "No. No hace falta esperar a la resolución: se puede alegar durante el procedimiento, precisamente para que se corrija antes de resolver.",
+    "Es esta. El **art. 76.2** dice que «**en todo momento** podrán los interesados alegar los **defectos de tramitación** y, en especial, los que supongan **paralización**, infracción de los plazos preceptivamente señalados o la **omisión de trámites** que pueden ser subsanados antes de la resolución definitiva». Y que podrán dar lugar, si hay razones, a la **responsabilidad disciplinaria** correspondiente."
+   ]
+  },
+  {
+   "n": 10,
+   "enunciado": "Antes de redactar la propuesta de resolución, la Demarcación pone el expediente de manifiesto a los interesados. ¿De qué plazo disponen para alegar?",
+   "opciones": [
+    "De cinco días.",
+    "De un plazo no inferior a diez días ni superior a quince.",
+    "De un plazo no inferior a quince días ni superior a treinta.",
+    "De siete días."
+   ],
+   "bloque": "instruccion",
+   "precepto": "Art. 82.2 de la Ley 39/2015",
+   "correcta": 1,
+   "justificaciones": [
+    "No. Cinco días son las alegaciones del inicio en la tramitación simplificada (art. 96.6.c).",
+    "Es esta. El **art. 82.2** dice que, en el trámite de audiencia, los interesados podrán alegar y presentar documentos y justificaciones «en un plazo **no inferior a diez días ni superior a quince**».\nRecuerda también el orden del art. 82.1: la audiencia va **inmediatamente antes de redactar la propuesta**, y antes del informe del servicio jurídico o del dictamen del Consejo de Estado.",
+    "No. Ese plazo no existe en la audiencia. Se parece al **periodo de prueba** ordinario, que es de diez a treinta días (art. 77.2), y por eso confunde. La audiencia es de diez a quince.",
+    "No. Siete días es el plazo para alegar tras las actuaciones complementarias (art. 87)."
+   ],
+   "ojo": "Plazos de la instrucción que se suelen cruzar: prueba de 10 a 30 días (extraordinaria, hasta 10); audiencia de 10 a 15; información pública, al menos 20; actuaciones complementarias, 15 para practicarlas y 7 para alegar."
+  }
+ ]
+}

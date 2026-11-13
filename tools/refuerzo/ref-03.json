@@ -1,0 +1,224 @@
+{
+ "caso": {
+  "id": "ref-03",
+  "titulo": "Refuerzo nº 3 - Responsabilidad patrimonial",
+  "texto": "El 14 de marzo de 2025, doña Elena Rivas acudió a un edificio del Ministerio de Cultura en Madrid para recoger un certificado. Al subir la escalera de acceso, pisó un peldaño roto que llevaba semanas sin reparar ni señalizar, cayó y se fracturó la muñeca. Estuvo de baja y en rehabilitación hasta el 20 de octubre de 2025, fecha en que el servicio médico le dio el alta y determinó el alcance de sus secuelas.\nEl martes 14 de abril de 2026, doña Elena presentó por el registro electrónico del Ministerio de Cultura una reclamación de responsabilidad patrimonial en la que pedía una indemnización de 50.000 euros por las lesiones y las secuelas. En su escrito describía la caída, el estado de la escalera y el informe médico, y proponía como prueba la declaración de un vigilante de seguridad que vio el accidente.\nEl instructor pidió informe a la Subdirección General de Oficialía Mayor, responsable del mantenimiento del edificio, dio trámite de audiencia a doña Elena y redactó una propuesta de resolución favorable a la indemnización.\nPor el mismo informe, el Ministerio supo que el 2 de febrero de 2026 otro ciudadano, don Iván Sanz, también se había caído en esa escalera y se había roto un tobillo, aunque no había presentado ninguna reclamación."
+ },
+ "preguntas": [
+  {
+   "n": 1,
+   "enunciado": "¿Presentó doña Elena su reclamación dentro de plazo?",
+   "opciones": [
+    "No, porque había pasado más de un año desde la caída, que es el hecho que motiva la indemnización.",
+    "No, porque el derecho a reclamar prescribe a los seis meses de producirse el daño.",
+    "Sí, porque en los daños físicos el año empieza a contarse desde la curación o la determinación del alcance de las secuelas.",
+    "Sí, porque el derecho a reclamar a la Administración prescribe a los cuatro años."
+   ],
+   "bloque": "iniciacion",
+   "precepto": "Art. 67.1 de la Ley 39/2015",
+   "correcta": 2,
+   "justificaciones": [
+    "No. Es la trampa típica del supuesto práctico, la que señala el profesor. La regla general es contar el año desde el hecho (la caída), pero el **art. 67.1** tiene una regla especial para los daños **físicos o psíquicos**: el año se cuenta desde la curación o desde que se determina el alcance de las secuelas. Si contaras desde la caída (14 de marzo de 2025), el plazo habría acabado el 14 de marzo de 2026, y te equivocarías.",
+    "No. Seis meses es el plazo del **silencio** en responsabilidad patrimonial (art. 91.3), no el plazo para reclamar. El derecho a reclamar prescribe al **año**.",
+    "Es esta. El **art. 67.1** dice que el derecho a reclamar prescribe al **año**, y que «en caso de daños de carácter físico o psíquico a las personas, el plazo empezará a computarse desde la **curación** o la **determinación del alcance de las secuelas**».\nAquí las secuelas se determinaron el 20 de octubre de 2025. El año acaba el 20 de octubre de 2026. Doña Elena reclamó el 14 de abril de 2026: está en plazo, aunque ya había pasado más de un año desde la caída.",
+    "No. Cuatro años es el límite para declarar la **lesividad** de un acto anulable (art. 107.2), otra figura distinta. En responsabilidad patrimonial el plazo es de un año."
+   ],
+   "ojo": "Siempre que un supuesto te dé dos fechas (la del accidente y la del alta), sospecha: si hay lesiones físicas, se cuenta desde el alta o las secuelas."
+  },
+  {
+   "n": 2,
+   "enunciado": "¿Cuál era el último día en que doña Elena podía presentar su reclamación?",
+   "opciones": [
+    "El 14 de marzo de 2026.",
+    "El 20 de abril de 2026.",
+    "El 21 de octubre de 2026.",
+    "El 20 de octubre de 2026."
+   ],
+   "bloque": "iniciacion",
+   "precepto": "Arts. 67.1 y 30.4 de la Ley 39/2015",
+   "correcta": 3,
+   "justificaciones": [
+    "No. Es el año contado desde la caída. Como hay daños físicos, se cuenta desde la determinación de las secuelas (art. 67.1).",
+    "No. Serían seis meses desde las secuelas. Pero el plazo es de un año, no de seis meses.",
+    "No. Es el error de sumar un día de más. Los plazos por años se cuentan **de fecha a fecha**: acaban el **mismo número de día** del año siguiente (art. 30.4). Del 20 de octubre de 2025, al 20 de octubre de 2026, no al 21.",
+    "Es esta. Dos pasos:\n1) **Desde cuándo**: por ser daños físicos, desde la determinación de las secuelas, el 20 de octubre de 2025 (**art. 67.1**).\n2) **Cómo se cuenta un año**: de fecha a fecha. El plazo termina el mismo día del año siguiente (**art. 30.4**): el **20 de octubre de 2026**, que es martes, día hábil."
+   ],
+   "ojo": "Plazos en meses o años: de fecha a fecha, el mismo número de día. Si ese día no existe en el mes final, el último día del mes; y si es inhábil, el siguiente hábil (art. 30.4 y 30.5)."
+  },
+  {
+   "n": 3,
+   "enunciado": "En relación con el informe que el instructor pidió a la Subdirección General de Oficialía Mayor, ¿cuál de las siguientes afirmaciones es correcta?",
+   "opciones": [
+    "Es preceptivo y no puede tardar más de diez días en emitirse.",
+    "Es facultativo, porque el instructor ya contaba con el informe médico que aportó doña Elena.",
+    "Es preceptivo y vinculante, y debe emitirse en el plazo de diez días.",
+    "Es preceptivo y debe emitirse en el plazo de quince días."
+   ],
+   "bloque": "instruccion",
+   "precepto": "Art. 81.1 de la Ley 39/2015",
+   "correcta": 0,
+   "justificaciones": [
+    "Es esta. El **art. 81.1** dice que en responsabilidad patrimonial «será **preceptivo** solicitar informe al **servicio cuyo funcionamiento haya ocasionado** la presunta lesión», y que su emisión no puede exceder de **diez días**.\nTiene sentido: la escalera rota es cosa de quien mantiene el edificio, así que hay que preguntarle siempre qué pasó.",
+    "No. Este informe se pide **siempre** en responsabilidad patrimonial: es preceptivo. El informe médico de doña Elena es una prueba suya; no sustituye al informe del servicio.",
+    "No. Preceptivo sí, pero la ley no dice que sea vinculante. Y cuando la ley no dice nada, manda la regla general del **art. 80.1**: «salvo disposición expresa en contrario, los informes serán facultativos y **no vinculantes**». Aquí la ley lo hace preceptivo de forma expresa, pero no dice que vincule. Fíjate en cómo cuelan una palabra de más.",
+    "No. El plazo general de los informes es de diez días (art. 80.2), y el de este informe tampoco puede pasar de diez días (art. 81.1). Quince días no aparece aquí."
+   ]
+  },
+  {
+   "n": 4,
+   "enunciado": "Doña Elena reclama exactamente 50.000 euros. ¿Es preceptivo pedir dictamen al Consejo de Estado?",
+   "opciones": [
+    "No, porque solo es preceptivo cuando la indemnización reclamada supera los 50.000 euros.",
+    "Sí, porque es preceptivo cuando la indemnización reclamada es de cuantía igual o superior a 50.000 euros.",
+    "No, porque solo es preceptivo en las reclamaciones por el funcionamiento anormal de la Administración de Justicia.",
+    "Sí, porque es preceptivo en todos los procedimientos de responsabilidad patrimonial, sea cual sea la cuantía."
+   ],
+   "bloque": "instruccion",
+   "precepto": "Art. 81.2 de la Ley 39/2015",
+   "correcta": 1,
+   "justificaciones": [
+    "No. Es la trampa del signo. La ley no dice «superior», dice «**igual o superior** a 50.000 euros». Con 50.000 justos ya hace falta el dictamen.",
+    "Es esta. El **art. 81.2** exige el dictamen del Consejo de Estado (u órgano consultivo autonómico) cuando las indemnizaciones reclamadas sean de cuantía «**igual o superior a 50.000 euros**», y en los casos que diga la Ley Orgánica del Consejo de Estado.\nEl profesor avisa: en una nota a mano aparece «≤», pero el texto de la ley es «igual o superior» (≥). 50.000 € justos: sí hay dictamen. 49.999 €: no.",
+    "No. Para la Administración de Justicia lo que se pide es otra cosa: el informe del **Consejo General del Poder Judicial** (art. 81.3).",
+    "No. El que se pide siempre es el **informe del servicio** (art. 81.1). El dictamen del Consejo de Estado depende de la cuantía."
+   ],
+   "ojo": "Los tres informes del art. 81: el del servicio, siempre y en 10 días; el del Consejo de Estado, desde 50.000 € y en 2 meses; el del CGPJ, en la Administración de Justicia, en 2 meses y con suspensión automática del plazo."
+  },
+  {
+   "n": 5,
+   "enunciado": "¿Cuándo debe remitir el instructor la propuesta de resolución para que se solicite el dictamen, y en qué plazo debe emitirse?",
+   "opciones": [
+    "Antes del trámite de audiencia, para que doña Elena pueda alegar sobre el dictamen; el dictamen se emite en un mes.",
+    "En el plazo de diez días desde que recibe el informe del servicio; el dictamen se emite en dos meses.",
+    "En el plazo de diez días a contar desde la finalización del trámite de audiencia; el dictamen se emite en el plazo de dos meses.",
+    "En el plazo de quince días desde la finalización del trámite de audiencia; el dictamen se emite en el plazo de tres meses."
+   ],
+   "bloque": "instruccion",
+   "precepto": "Art. 81.2 de la Ley 39/2015",
+   "correcta": 2,
+   "justificaciones": [
+    "No. El orden es el contrario: primero la audiencia y luego el dictamen. El dictamen es un informe jurídico sobre el **expediente completo**. Si se pidiera antes de la audiencia y después llegaran nuevas alegaciones, el Consejo de Estado habría opinado sobre un expediente a medias.",
+    "No. Los diez días no cuentan desde el informe del servicio, sino desde que **termina la audiencia**. Entre el informe y el dictamen todavía faltan las pruebas y la audiencia.",
+    "Es esta. El **art. 81.2** dice que el instructor, «en el plazo de **diez días** a contar desde la **finalización del trámite de audiencia**», remitirá la propuesta de resolución al órgano competente para solicitar el dictamen. Y «el dictamen se emitirá en el plazo de **dos meses**».\nOrden para memorizar: informe del servicio, pruebas, audiencia, propuesta, dictamen y resolución.",
+    "No. Las dos cifras están cambiadas: son diez días (no quince) y dos meses (no tres)."
+   ]
+  },
+  {
+   "n": 6,
+   "enunciado": "¿Qué actos de este procedimiento deben estar motivados?",
+   "opciones": [
+    "Solo la resolución que ponga fin al procedimiento.",
+    "La propuesta de resolución y la resolución.",
+    "Ninguno, porque la propuesta de resolución es favorable a la indemnización.",
+    "Solo la propuesta de resolución, porque la resolución puede remitirse a ella."
+   ],
+   "bloque": "actos",
+   "precepto": "Art. 35.1.h) de la Ley 39/2015",
+   "correcta": 0,
+   "justificaciones": [
+    "Es esta. El **art. 35.1.h)** obliga a motivar «las propuestas de resolución en los procedimientos de carácter **sancionador**, así como los actos que **resuelvan** procedimientos de carácter sancionador o de **responsabilidad patrimonial**».\nLéelo despacio: en el sancionador se motivan la propuesta y la resolución; en la responsabilidad patrimonial, **solo la resolución**. El profesor lo marca como trampa muy preguntada.",
+    "No. Eso vale para el procedimiento **sancionador**. En responsabilidad patrimonial la ley solo menciona los actos que lo **resuelven**.",
+    "No. La resolución que pone fin a un procedimiento de responsabilidad patrimonial hay que motivarla siempre, estime o no la indemnización (art. 35.1.h). Que la propuesta sea favorable no cambia nada.",
+    "No. Es al revés: la que hay que motivar es la **resolución**. La propuesta solo se motiva por obligación en el sancionador."
+   ],
+   "ojo": "Para no cruzarlas: «sancionador, las dos; patrimonial, la final»."
+  },
+  {
+   "n": 7,
+   "enunciado": "¿Qué órgano es competente para resolver la reclamación de doña Elena?",
+   "opciones": [
+    "El Consejo de Ministros, porque la cuantía exige el dictamen del Consejo de Estado.",
+    "El Secretario de Estado de Cultura.",
+    "El Subsecretario del Ministerio, como jefe superior de los servicios comunes.",
+    "El Ministro de Cultura."
+   ],
+   "bloque": "finalizacion",
+   "precepto": "Art. 92 de la Ley 39/2015",
+   "correcta": 3,
+   "justificaciones": [
+    "No. Que haga falta el dictamen no cambia quién resuelve. El Consejo de Ministros solo resuelve en los casos del **art. 32.3 de la Ley 40/2015** (daños causados por la aplicación de leyes, cuando la propia ley lo diga) o cuando una ley lo disponga. Una escalera rota no es eso.",
+    "No. Es justo la trampa que marca el profesor: «no el Secretario de Estado». La ley dice **Ministro**.",
+    "No. El Subsecretario dirige los servicios comunes del Ministerio, pero la ley no le da esta competencia. Se la da al Ministro.",
+    "Es esta. El **art. 92** dice que en la Administración General del Estado los procedimientos de responsabilidad patrimonial se resuelven «por el **Ministro respectivo**», o por el Consejo de Ministros en los casos del art. 32.3 de la Ley 40/2015 o cuando una ley lo disponga.\nEl daño lo causó el Ministerio de Cultura, así que resuelve el Ministro de Cultura. Según el profesor, en el 99,9 % de los supuestos prácticos la respuesta es el Ministro."
+   ]
+  },
+  {
+   "n": 8,
+   "enunciado": "Si el Ministerio no dicta y notifica resolución expresa, ¿qué ocurre y a partir de qué fecha?",
+   "opciones": [
+    "Desde el 14 de octubre de 2026, doña Elena podrá entender que la resolución es contraria a la indemnización.",
+    "Desde el 14 de octubre de 2026, doña Elena podrá entender estimada su reclamación por silencio positivo.",
+    "Desde el 14 de julio de 2026, doña Elena podrá entender desestimada su reclamación, porque el plazo general para resolver es de tres meses.",
+    "El procedimiento caducará el 14 de octubre de 2026 y doña Elena tendrá que volver a reclamar."
+   ],
+   "bloque": "finalizacion",
+   "precepto": "Arts. 91.3, 24.1 y 21.3.b) de la Ley 39/2015",
+   "correcta": 0,
+   "justificaciones": [
+    "Es esta. El **art. 91.3** dice que, transcurridos **seis meses** desde que se inició el procedimiento sin que haya recaído y se notifique resolución expresa (o se haya formalizado el acuerdo), «podrá entenderse que la resolución es **contraria a la indemnización** del particular». Es silencio **desestimatorio**.\nDesde cuándo: en los procedimientos a solicitud, el plazo empieza con la entrada en el registro del órgano competente (art. 21.3.b), el 14 de abril de 2026. Seis meses de fecha a fecha: **14 de octubre de 2026**.\nEs la «estrella» del profesor («super IMP»): la responsabilidad patrimonial es uno de los cuatro casos de silencio negativo del art. 24.",
+    "No. El silencio en responsabilidad patrimonial es **negativo** siempre (arts. 24.1 y 91.3), incluso en el doble silencio de la alzada. Es uno de los «cuatro gordos»: derecho de petición, dominio o servicio público, medio ambiente y responsabilidad patrimonial.",
+    "No. El plazo de tres meses es el **supletorio** del art. 21.3, que solo se usa cuando la norma no fija otro. Aquí la propia Ley 39/2015 fija seis meses (art. 91.3).",
+    "No. La caducidad por no resolver a tiempo es para los procedimientos **de oficio** sancionadores o de gravamen (art. 25.1.b). Este lo inició doña Elena para pedir algo, así que el silencio es desestimatorio, no caducidad."
+   ],
+   "ojo": "Seis meses: responsabilidad patrimonial (91.3, desestimatorio), revisión de oficio de actos nulos (106.5) y lesividad (107.3, caducidad). No los confundas con los seis meses que dan los supuestos para el plazo de un procedimiento concreto."
+  },
+  {
+   "n": 9,
+   "enunciado": "¿Sobre qué tiene que pronunciarse obligatoriamente la resolución, además del contenido general de toda resolución?",
+   "opciones": [
+    "Únicamente sobre la cuantía de la indemnización, porque la relación de causalidad ya la ha valorado el Consejo de Estado.",
+    "Sobre la existencia o no de relación de causalidad entre el funcionamiento del servicio público y la lesión y, en su caso, sobre la valoración del daño y la cuantía y el modo de la indemnización.",
+    "Sobre la responsabilidad disciplinaria de los empleados públicos encargados del mantenimiento de la escalera.",
+    "Sobre las pruebas propuestas por doña Elena, sin necesidad de fijar la cuantía, que se determinará en un procedimiento posterior."
+   ],
+   "bloque": "finalizacion",
+   "precepto": "Art. 91.2 de la Ley 39/2015",
+   "correcta": 1,
+   "justificaciones": [
+    "No. El dictamen del Consejo de Estado no es vinculante: quien decide es el Ministro. Y la resolución tiene que pronunciarse sobre la relación de causalidad, no solo sobre la cuantía.",
+    "Es esta. El **art. 91.2** exige que la resolución se pronuncie sobre:\n1) la **relación de causalidad** entre el funcionamiento del servicio público y la lesión (si no hay relación causa y efecto, no hay indemnización);\n2) en su caso, la **valoración del daño** (cuánto vale lo que le pasó a la muñeca);\n3) la **cuantía y el modo** de la indemnización (en uno o varios pagos, o en especie), con los criterios del art. 34 de la Ley 40/2015.",
+    "No. La responsabilidad de los empleados públicos se exige en otro procedimiento (art. 36 de la Ley 40/2015). La resolución de doña Elena trata de si la Administración debe indemnizarla.",
+    "No. La cuantía se fija en esta misma resolución cuando procede indemnizar. No hay un procedimiento posterior para eso."
+   ]
+  },
+  {
+   "n": 10,
+   "enunciado": "Si el Ministerio y doña Elena se pusieran de acuerdo en la cuantía, ¿cuándo podría someterse la propuesta de acuerdo para su formalización?",
+   "opciones": [
+    "En cualquier momento, incluso antes de pedir el informe del servicio.",
+    "Una vez finalizado el trámite de audiencia, sin esperar al dictamen del Consejo de Estado.",
+    "Nunca, porque los procedimientos de responsabilidad patrimonial no pueden terminar por acuerdo.",
+    "Una vez recibido el dictamen del Consejo de Estado."
+   ],
+   "bloque": "finalizacion",
+   "precepto": "Arts. 91.1 y 86.5 de la Ley 39/2015",
+   "correcta": 3,
+   "justificaciones": [
+    "No. El acuerdo llega al final de la instrucción, cuando ya está todo el expediente. El informe del servicio es preceptivo siempre (art. 81.1).",
+    "No. Eso sería así si el dictamen **no** fuera preceptivo. Aquí sí lo es (50.000 €), así que hay que esperar a recibirlo.",
+    "No. La terminación convencional sí cabe en responsabilidad patrimonial. El art. 86.5 dice que el acuerdo fijará la cuantía y el modo de la indemnización con los criterios del art. 34 de la Ley 40/2015.",
+    "Es esta. El **art. 91.1** dice: «una vez recibido, en su caso, el **dictamen** al que se refiere el artículo 81.2 o, cuando éste no sea preceptivo, una vez finalizado el trámite de audiencia», el órgano competente resolverá **o someterá la propuesta de acuerdo** para su formalización.\nComo doña Elena reclama 50.000 €, el dictamen es preceptivo: primero hay que recibirlo. Ejemplo del profesor: «reconozco que la culpa es mía, los daños son estos y te pago 20.000 €»."
+   ]
+  },
+  {
+   "n": 11,
+   "enunciado": "El Ministerio decide iniciar de oficio un procedimiento de responsabilidad patrimonial por la caída de don Iván Sanz. ¿Cuál de las siguientes afirmaciones es correcta?",
+   "opciones": [
+    "No puede hacerlo: la responsabilidad patrimonial solo se inicia a solicitud del perjudicado.",
+    "Puede hacerlo si no ha prescrito el derecho de don Iván a reclamar; se le notificará el acuerdo con un plazo de diez días para alegar y proponer pruebas, y el procedimiento seguirá aunque no se persone.",
+    "Puede hacerlo en cualquier momento, aunque haya prescrito el derecho de don Iván, porque es la Administración quien lo inicia.",
+    "Puede hacerlo; se le darán quince días para alegar, y si no se persona se archivará el procedimiento."
+   ],
+   "bloque": "iniciacion",
+   "precepto": "Art. 65 de la Ley 39/2015",
+   "correcta": 1,
+   "justificaciones": [
+    "No. Lo normal es que la pida el perjudicado, pero la ley permite iniciarla **de oficio**. Es pregunta de examen, según el profesor.",
+    "Es esta. El **art. 65** tiene las «tres preguntas sí o sí» del profesor:\n1) **Requisito**: que no haya prescrito el derecho a reclamar del interesado (65.1). Don Iván se cayó el 2 de febrero de 2026: está dentro del año.\n2) **Plazo**: se le notifica el acuerdo y tiene **diez días** para aportar alegaciones, documentos o información y proponer pruebas (65.2).\n3) **Si no aparece**: el procedimiento se instruye igualmente, «aunque los particulares presuntamente lesionados no se personen» (65.2).",
+    "No. Es justo lo contrario: el **art. 65.1** exige que **no haya prescrito** el derecho a reclamar. Si el año ya hubiera pasado, la Administración tampoco podría iniciarlo de oficio.",
+    "No. Dos fallos: son **diez** días, no quince; y el procedimiento **no** se archiva si no se persona, sino que sigue."
+   ],
+   "ojo": "Y si este procedimiento de oficio no se resuelve a tiempo, no caduca: como podía reconocer un derecho a don Iván («algo bueno»), se entiende desestimado (art. 25.1.a)."
+  }
+ ]
+}

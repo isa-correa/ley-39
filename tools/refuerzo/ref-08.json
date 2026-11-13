@@ -1,0 +1,418 @@
+{
+ "calendarios": {
+  "cal2026b": {
+   "titulo": "Calendario 2026 (mayo, junio, octubre y noviembre)",
+   "year": 2026,
+   "meses": [
+    5,
+    6,
+    10,
+    11
+   ],
+   "festivos": [
+    "2026-05-01",
+    "2026-10-12"
+   ],
+   "nota": "Solo se marcan los festivos nacionales. Los domingos también van en rojo."
+  }
+ },
+ "caso": {
+  "id": "ref-08",
+  "titulo": "Refuerzo nº 8 - Supuesto práctico: de la solicitud a la revisión de oficio (20 preguntas)",
+  "texto": "Granjas del Cierzo, S. L. quiere abrir un pozo en una finca de su propiedad en Zuera (Zaragoza) para dar agua a una granja. Para ello necesita una autorización de la Confederación Hidrográfica del Ebro, organismo de la Administración General del Estado. La norma reguladora del procedimiento fija un plazo máximo de seis meses para resolver y notificar.\nEl lunes 4 de mayo de 2026, el gerente de la empresa presentó la solicitud en papel, en una oficina de asistencia en materia de registros de la Administración General del Estado en Zaragoza. No acompañó el estudio hidrogeológico que exige la norma reguladora.\nEl lunes 11 de mayo se notificó a la empresa un requerimiento de la Confederación para que presentara la solicitud por medios electrónicos y aportara el estudio hidrogeológico. El miércoles 13 de mayo la empresa presentó la solicitud en la sede electrónica de la Confederación. El estudio lo aportó el miércoles 20 de mayo.\nEl 1 de junio, la Confederación pidió un informe preceptivo al Instituto Geológico y Minero de España. Decidió no suspender el plazo para resolver. El 22 de junio se personó en el procedimiento la Comunidad de Regantes de Zuera, que tiene pozos a 300 metros y teme quedarse sin agua, y presentó alegaciones y un informe técnico propio.\nComo la Confederación no tenía por ciertos los caudales que alegaba la empresa, abrió un periodo de prueba. Después dio trámite de audiencia a todos los interesados.\nEl miércoles 28 de octubre de 2026, el Presidente de la Confederación dictó resolución denegando la autorización. El martes 3 de noviembre se puso a disposición de la empresa en la sede electrónica. Nadie de la empresa accedió a su contenido.\nAl revisar los expedientes de la zona, la Confederación encontró además:\na) Una autorización de vertido de 2019 dictada por la Delegación del Gobierno en Aragón, órgano que no tiene ninguna competencia en materia de aguas. Nadie la recurrió.\nb) Una autorización de 15 de febrero de 2023, favorable para su titular, que es anulable porque se dictó sin un informe preceptivo, sin que eso causara indefensión.\nc) Una liquidación de canon en la que, al sumar 700 y 500 euros, figura un total de 12.000 euros.\nA efectos de los plazos, considere inhábiles solo los sábados, los domingos y los festivos nacionales que aparecen en el calendario."
+ },
+ "preguntas": [
+  {
+   "n": 1,
+   "enunciado": "Ante la presentación en papel del 4 de mayo, ¿qué debía hacer la Confederación y qué fecha de presentación tiene la solicitud?",
+   "opciones": [
+    "Admitirla, porque cualquier persona puede elegir si se relaciona con la Administración en papel o electrónicamente; la fecha de presentación es el 4 de mayo.",
+    "Requerir a la empresa para que la subsanara presentándola electrónicamente; la fecha de presentación es aquella en la que se haya realizado la subsanación, el 13 de mayo.",
+    "Requerir a la empresa para que la subsanara presentándola electrónicamente; la fecha de presentación sigue siendo el 4 de mayo.",
+    "Inadmitirla sin más, porque una persona jurídica no puede presentar documentos en papel."
+   ],
+   "bloque": "iniciacion",
+   "precepto": "Arts. 14.2.a) y 68.4 de la Ley 39/2015",
+   "correcta": 1,
+   "justificaciones": [
+    "No. Elegir es un derecho de las **personas físicas** (art. 14.1). Granjas del Cierzo es una sociedad limitada, una **persona jurídica**, y las personas jurídicas están **siempre obligadas** a relacionarse electrónicamente (art. 14.2.a).",
+    "Es esta. Dos pasos:\n1) La empresa es persona jurídica, así que está obligada a relacionarse electrónicamente (**art. 14.2.a**).\n2) Si un obligado presenta en papel, la Administración le **requerirá** para que subsane presentándola electrónicamente, y «se considerará como **fecha de presentación** de la solicitud aquella en la que haya sido realizada la **subsanación**» (**art. 68.4**). La subsanación se hizo el **13 de mayo**.\nLa consecuencia práctica: todos los plazos se cuentan desde el 13 de mayo, no desde el 4.",
+    "No. Es la trampa de este artículo: lo que vale es la fecha de la **subsanación**, no la del papel (art. 68.4). Esos nueve días de diferencia cambian todos los plazos.",
+    "No. La ley no manda inadmitirla: manda **requerir** para que se subsane por vía electrónica (art. 68.4)."
+   ]
+  },
+  {
+   "n": 2,
+   "enunciado": "¿Qué ocurriría si la empresa no hubiera aportado el estudio hidrogeológico en el plazo concedido?",
+   "opciones": [
+    "Se le tendría por desistida de su petición, previa resolución que declararía esa circunstancia.",
+    "La Confederación resolvería igualmente, denegando la autorización por falta de documentación.",
+    "El procedimiento caducaría a los tres meses, sin necesidad de advertencia previa.",
+    "Perdería su derecho a ese trámite, pero el procedimiento continuaría."
+   ],
+   "bloque": "iniciacion",
+   "precepto": "Arts. 68.1 y 21.1 de la Ley 39/2015",
+   "correcta": 0,
+   "justificaciones": [
+    "Es esta. El **art. 68.1**: si a la solicitud le faltan los documentos que exige la legislación específica, se requiere al interesado para que en **diez días** los aporte, «con indicación de que, si así no lo hiciera, se le tendrá por **desistido** de su petición, **previa resolución** que deberá ser dictada en los términos previstos en el artículo 21».\nEsa resolución solo declara el desistimiento (art. 21.1, segundo párrafo). El plazo de diez días podía ampliarse hasta cinco días más, porque esto no es un procedimiento selectivo ni de concurrencia competitiva (art. 68.2).",
+    "No. No se entra en el fondo: no se deniega, se le tiene por **desistido**. Son cosas distintas: si desiste, podría volver a pedirlo.",
+    "No. La caducidad del art. 95.1 exige siempre una **advertencia** previa de tres meses. Y aquí no estamos ante una paralización, sino ante una solicitud incompleta: se aplica el art. 68.",
+    "No. Eso es lo que pasa con un **trámite** no cumplido (art. 73.3). Aquí falta un documento de la **solicitud**: si no se subsana, se le tiene por desistido y el procedimiento termina."
+   ],
+   "ojo": "Solicitud sin subsanar: desistimiento y fin del procedimiento (68). Trámite sin cumplir: se pierde el trámite y el procedimiento sigue (73.3)."
+  },
+  {
+   "n": 3,
+   "enunciado": "¿Hasta qué día tenía la Confederación para enviar a la empresa la comunicación sobre el plazo máximo para resolver y los efectos del silencio?",
+   "opciones": [
+    "Hasta el 18 de mayo de 2026.",
+    "Hasta el 25 de mayo de 2026.",
+    "Hasta el 27 de mayo de 2026.",
+    "No tiene plazo: basta con que esa información figure en el portal web."
+   ],
+   "calendario": "cal2026b",
+   "bloque": "actividad",
+   "precepto": "Arts. 21.4 y 68.4 de la Ley 39/2015",
+   "correcta": 2,
+   "justificaciones": [
+    "No. El 18 de mayo serían diez días hábiles contados desde el 4 de mayo, la presentación en papel. Pero esa presentación no vale como fecha (art. 68.4).",
+    "No. El 25 de mayo es el último día del plazo de diez días para subsanar, contado desde la notificación del requerimiento (11 de mayo). Es otro plazo.",
+    "Es esta. El **art. 21.4** obliga a informar del plazo máximo para resolver y de los efectos del silencio en una comunicación que se enviará «dentro de los **diez días** siguientes a la **recepción de la solicitud** iniciadora del procedimiento en el registro electrónico» del organismo competente. Esa comunicación indicará además la **fecha** en que la solicitud se recibió.\nLa solicitud válida se recibió el 13 de mayo (art. 68.4). Diez días hábiles desde el día siguiente: 14, 15, 18, 19, 20, 21, 22, 25, 26 y **27 de mayo**.",
+    "No. El portal web es una obligación general (primer párrafo del art. 21.4), pero la ley dice «**en todo caso**» informarán al interesado, y fija el plazo de diez días para esa comunicación."
+   ]
+  },
+  {
+   "n": 4,
+   "enunciado": "Sin tener en cuenta posibles suspensiones, ¿cuál es el último día del plazo máximo para resolver y notificar?",
+   "opciones": [
+    "El 4 de noviembre de 2026.",
+    "El 13 de noviembre de 2026.",
+    "El 16 de noviembre de 2026.",
+    "El 20 de noviembre de 2026."
+   ],
+   "calendario": "cal2026b",
+   "bloque": "plazos",
+   "precepto": "Arts. 21.3.b), 68.4 y 30.4 de la Ley 39/2015",
+   "correcta": 1,
+   "justificaciones": [
+    "No. Es el resultado de contar los seis meses desde la presentación en papel del 4 de mayo. Esa fecha no vale (art. 68.4).",
+    "Es esta. Tres pasos:\n1) **Desde cuándo**: en los procedimientos a solicitud, desde la entrada de la solicitud en el registro electrónico del organismo competente (**art. 21.3.b**). La fecha válida es la de la subsanación electrónica: **13 de mayo** (**art. 68.4**).\n2) **Cuánto**: seis meses, lo que fija la norma reguladora.\n3) **Cómo**: los meses se cuentan de fecha a fecha (**art. 30.4**): del 13 de mayo al **13 de noviembre de 2026**, que es viernes, día hábil.",
+    "No. El 16 de noviembre sale si piensas que el 13 cae en fin de semana y pasas al lunes. Pero el 13 de noviembre de 2026 es viernes.",
+    "No. Sería contar desde la aportación del estudio (20 de mayo). Pero el plazo de la Administración arranca con la entrada de la solicitud, no con la aportación de un documento."
+   ],
+   "ojo": "Si te dan dos fechas de presentación (papel y electrónica) y el interesado está obligado a lo electrónico, vale la de la subsanación electrónica."
+  },
+  {
+   "n": 5,
+   "enunciado": "Si la Confederación no hubiera notificado resolución expresa dentro de plazo, ¿qué efecto tendría el silencio?",
+   "opciones": [
+    "Estimatorio, porque es la regla general en los procedimientos iniciados a solicitud del interesado.",
+    "Caducidad del procedimiento, porque la Administración no lo ha resuelto a tiempo.",
+    "Estimatorio, salvo que la empresa hubiera paralizado el procedimiento.",
+    "Desestimatorio, porque su estimación transferiría al solicitante facultades relativas al dominio público."
+   ],
+   "bloque": "actividad",
+   "precepto": "Art. 24.1 de la Ley 39/2015",
+   "correcta": 3,
+   "justificaciones": [
+    "No. Es la regla general, sí, pero tiene excepciones, y esta es una de ellas. El fallo típico es quedarse en la regla y no mirar la lista de excepciones.",
+    "No. La caducidad por no resolver es para los procedimientos **de oficio** sancionadores o de gravamen (art. 25.1.b). Este lo inició la empresa.",
+    "No. El silencio es desestimatorio por la materia, no por lo que haga la empresa.",
+    "Es esta. El **art. 24.1** dice que el silencio será **desestimatorio** en los procedimientos «cuya estimación tuviera como consecuencia que se transfirieran al solicitante o a terceros **facultades relativas al dominio público**». El agua subterránea forma parte del dominio público hidráulico: autorizar el pozo es darle una facultad sobre ese dominio.\nEs uno de los «cuatro gordos» del profesor: derecho de petición, dominio o servicio público, medio ambiente y responsabilidad patrimonial."
+   ]
+  },
+  {
+   "n": 6,
+   "enunciado": "¿Tiene la Comunidad de Regantes de Zuera la condición de interesada en el procedimiento?",
+   "opciones": [
+    "No, porque no fue ella quien inició el procedimiento.",
+    "No, porque se personó después de que se iniciara la instrucción.",
+    "Sí, porque tiene intereses legítimos que pueden resultar afectados por la resolución y se personó antes de que recayera resolución definitiva.",
+    "Solo si la Confederación la reconoce expresamente como interesada mediante resolución motivada."
+   ],
+   "bloque": "interesados",
+   "precepto": "Art. 4.1.c) de la Ley 39/2015",
+   "correcta": 2,
+   "justificaciones": [
+    "No. Promover el procedimiento es solo una de las tres vías (art. 4.1.a). También son interesados quienes, sin haberlo iniciado, pueden verse afectados (4.1.b y 4.1.c).",
+    "No. La ley no exige personarse al principio. El límite es otro: «en tanto no haya recaído **resolución definitiva**».",
+    "Es esta. El **art. 4.1.c)** considera interesados a quienes tengan **intereses legítimos**, individuales o colectivos, que puedan resultar afectados por la resolución y **se personen** en el procedimiento «en tanto no haya recaído resolución definitiva».\nLa Comunidad de Regantes tiene pozos a 300 metros y puede quedarse sin agua: tiene interés legítimo. Se personó el 22 de junio, mucho antes de la resolución.",
+    "No. La ley no exige ningún reconocimiento expreso. Si cumple los requisitos del art. 4.1.c), es interesada."
+   ]
+  },
+  {
+   "n": 7,
+   "enunciado": "En relación con el informe preceptivo pedido al Instituto Geológico y Minero de España, ¿cuál de las siguientes afirmaciones es correcta?",
+   "opciones": [
+    "El plazo para resolver se suspende obligatoriamente desde la petición hasta la recepción del informe, sin límite de tiempo.",
+    "La Confederación podía acordar la suspensión del plazo para resolver por el tiempo entre la petición y la recepción del informe, comunicándolo a los interesados, y sin que la suspensión pudiera exceder de tres meses.",
+    "La Confederación no podía suspender el plazo, porque el informe lo emite un organismo de la misma Administración.",
+    "La suspensión es obligatoria y dura como máximo dos meses."
+   ],
+   "bloque": "actividad",
+   "precepto": "Art. 22.1.d) de la Ley 39/2015",
+   "correcta": 1,
+   "justificaciones": [
+    "No. La suspensión por informes preceptivos es **potestativa** («se podrá suspender», art. 22.1), no obligatoria. Y tiene un límite de tres meses.",
+    "Es esta. El **art. 22.1.d)** permite suspender el plazo «cuando se soliciten **informes preceptivos** a un órgano de la **misma o distinta** Administración», por el tiempo entre la petición y la recepción, que deben **comunicarse** a los interesados. «Este plazo de suspensión no podrá exceder en ningún caso de **tres meses**».\nEs potestativa: por eso la Confederación pudo decidir no suspender, como dice el supuesto.",
+    "No. La ley dice «de la **misma o distinta** Administración». Da igual quién lo emita.",
+    "No. Las dos cosas fallan. Es potestativa y el límite es de **tres** meses. Dos meses es el plazo del dictamen del Consejo de Estado en responsabilidad patrimonial y el del informe del CGPJ (art. 81)."
+   ],
+   "ojo": "Suspensiones obligatorias (22.2: requerimiento a otra Administración, actuaciones complementarias, recusación) y potestativas (22.1). El informe preceptivo va en las potestativas, con un tope de tres meses."
+  },
+  {
+   "n": 8,
+   "enunciado": "En el periodo de prueba, la empresa propuso como testigos a diez vecinos que solo podían declarar sobre la historia de la finca, sin relación con los caudales. ¿Qué puede hacer el instructor?",
+   "opciones": [
+    "Rechazar esas pruebas, mediante resolución motivada, si las considera manifiestamente improcedentes o innecesarias.",
+    "Nada: tiene que practicar todas las pruebas que propongan los interesados.",
+    "Rechazarlas sin motivación, porque la prueba es una decisión libre del instructor.",
+    "Rechazarlas solo si la Comunidad de Regantes se opone a ellas."
+   ],
+   "bloque": "instruccion",
+   "precepto": "Art. 77.2 y 77.3 de la Ley 39/2015",
+   "correcta": 0,
+   "justificaciones": [
+    "Es esta. El **art. 77.3** dice que el instructor «sólo podrá **rechazar** las pruebas propuestas por los interesados cuando sean **manifiestamente improcedentes o innecesarias**, mediante **resolución motivada**».\nY recuerda el **art. 77.2**: el periodo de prueba se abre cuando la Administración no tiene por ciertos los hechos alegados, como aquí, por un plazo no superior a treinta días ni inferior a diez.",
+    "No. Puede rechazarlas, pero solo en esos casos y motivándolo.",
+    "No. Es al revés: el rechazo tiene que ser **motivado** (art. 77.3). Y lo repite el art. 35.1.f), que obliga a motivar «los actos que rechacen pruebas propuestas por los interesados».",
+    "No. La decisión es del instructor. Lo que cuenta es si la prueba es manifiestamente improcedente o innecesaria, no si otro interesado se opone."
+   ]
+  },
+  {
+   "n": 9,
+   "enunciado": "¿Podía la Confederación prescindir del trámite de audiencia en este procedimiento?",
+   "opciones": [
+    "Sí, porque la resolución iba a ser desfavorable para la empresa.",
+    "Sí, porque ya se había abierto un periodo de prueba.",
+    "No, porque figuran en el procedimiento hechos, alegaciones y pruebas distintos de los aducidos por la empresa, como las alegaciones y el informe de la Comunidad de Regantes.",
+    "Sí, porque la audiencia solo es obligatoria en los procedimientos sancionadores."
+   ],
+   "bloque": "instruccion",
+   "precepto": "Art. 82.4 de la Ley 39/2015",
+   "correcta": 2,
+   "justificaciones": [
+    "No. Que la resolución sea desfavorable es justo un motivo más para dar audiencia, no para quitarla.",
+    "No. La prueba no sustituye a la audiencia. Son trámites distintos.",
+    "Es esta. El **art. 82.4** permite prescindir de la audiencia solo «cuando **no figuren** en el procedimiento ni sean tenidos en cuenta en la resolución **otros hechos ni otras alegaciones y pruebas que las aducidas por el interesado**».\nAquí hay alegaciones y un informe técnico de la Comunidad de Regantes, y además el informe del Instituto Geológico. La empresa tiene que poder verlos y contestarlos: es el principio de contradicción.",
+    "No. La audiencia es un trámite general de todos los procedimientos (art. 82), no solo de los sancionadores."
+   ],
+   "ojo": "No confundas el art. 82.3 (si el interesado dice que no va a alegar, «se tendrá por realizado» el trámite) con el 82.4 («se podrá prescindir» si no hay nada nuevo además de lo suyo)."
+  },
+  {
+   "n": 10,
+   "enunciado": "La resolución se dictó el miércoles 28 de octubre de 2026. ¿Cuál es el último día para cursar su notificación?",
+   "opciones": [
+    "El 6 de noviembre de 2026.",
+    "El 7 de noviembre de 2026.",
+    "El 11 de noviembre de 2026.",
+    "El 13 de noviembre de 2026."
+   ],
+   "calendario": "cal2026b",
+   "bloque": "actos",
+   "precepto": "Arts. 40.2 y 30.2 de la Ley 39/2015",
+   "correcta": 2,
+   "justificaciones": [
+    "No. El 6 de noviembre serían siete días hábiles. Te faltan tres.",
+    "No. El 7 de noviembre son diez días **naturales** desde el 28 de octubre, y además es sábado. Pero los días de la ley son **hábiles** (art. 30.2).",
+    "Es esta. El **art. 40.2** dice que toda notificación «deberá ser cursada dentro del plazo de **diez días** a partir de la fecha en que el acto haya sido **dictado**». Son días hábiles (art. 30.2), contados desde el día siguiente:\n29 y 30 de octubre (2), del 2 al 6 de noviembre (7), y 9, 10 y **11 de noviembre** (10).\nEl profesor avisa de la literalidad: diez días «a partir de que el acto haya sido dictado», no desde que se firma la notificación.",
+    "No. El 13 de noviembre es el último día del plazo para **resolver y notificar** el procedimiento. Es otro plazo distinto."
+   ]
+  },
+  {
+   "n": 11,
+   "enunciado": "La resolución se puso a disposición de la empresa en la sede electrónica el 3 de noviembre, y nadie accedió a ella. ¿Qué ocurre?",
+   "opciones": [
+    "La notificación no se ha practicado y la Confederación debe publicarla en el Boletín Oficial del Estado.",
+    "Se entiende rechazada cuando transcurren diez días naturales desde la puesta a disposición, es decir, el 13 de noviembre; se da por efectuado el trámite y sigue el procedimiento.",
+    "Se entiende rechazada cuando transcurren diez días hábiles desde la puesta a disposición, el 17 de noviembre.",
+    "Se entiende practicada el mismo 3 de noviembre, porque basta con la puesta a disposición."
+   ],
+   "bloque": "actos",
+   "precepto": "Arts. 43.2 y 41.5 de la Ley 39/2015",
+   "correcta": 1,
+   "justificaciones": [
+    "No. La publicación en el BOE es para cuando los interesados son desconocidos, se ignora el lugar o el medio de notificación o, intentada, no se ha podido practicar (art. 44). Aquí la notificación electrónica no se ha frustrado: se entiende **rechazada**.",
+    "Es esta. Dos reglas:\n1) **Art. 43.2**: cuando la notificación electrónica es **obligatoria** (la empresa es persona jurídica), «se entenderá **rechazada** cuando hayan transcurrido **diez días naturales** desde la puesta a disposición sin que se acceda a su contenido». Del 3 de noviembre, diez días naturales: el **13 de noviembre**.\n2) **Art. 41.5**: si se rechaza, se hace constar en el expediente, «dando por efectuado el trámite y siguiéndose el procedimiento».",
+    "No. Aquí los días son **naturales**: la ley lo dice expresamente. Es una de las pocas veces en la Ley 39 en que pasa, y por eso se pregunta.",
+    "No. La notificación electrónica se entiende practicada cuando se **accede** a su contenido (art. 43.2). La puesta a disposición sirve para otra cosa: para cumplir el plazo de resolver (pregunta siguiente)."
+   ],
+   "ojo": "Plazos en días naturales en la Ley 39 que conviene tener localizados: los diez días del rechazo de la notificación electrónica (43.2). La regla general es que los días son hábiles."
+  },
+  {
+   "n": 12,
+   "enunciado": "La empresa sostiene que la Confederación ha incumplido el plazo máximo para resolver y notificar, porque la notificación no se practicó antes del 13 de noviembre. ¿Tiene razón?",
+   "opciones": [
+    "Sí, porque la notificación solo se entiende practicada cuando se accede a su contenido.",
+    "Sí, porque la notificación se entendió rechazada el mismo 13 de noviembre, último día del plazo.",
+    "No, porque para entender cumplida la obligación de notificar en plazo basta con la puesta a disposición de la notificación, con el texto íntegro, en la sede electrónica.",
+    "No, porque el plazo para resolver se cuenta hasta la fecha en que se dicta la resolución, no hasta su notificación."
+   ],
+   "bloque": "actos",
+   "precepto": "Arts. 40.4 y 43.3 de la Ley 39/2015",
+   "correcta": 2,
+   "justificaciones": [
+    "No. Eso es lo que hace falta para que la notificación se entienda **practicada** (art. 43.2), pero para cumplir el **plazo máximo** la ley se conforma con menos.",
+    "No. El rechazo no tiene nada que ver con el plazo para resolver. Lo que cuenta es cuándo se puso a disposición: el 3 de noviembre, dentro de plazo.",
+    "Es esta. El **art. 40.4** dice que, «a los solos efectos de entender cumplida la obligación de notificar dentro del plazo máximo», basta con la notificación que contenga el **texto íntegro** de la resolución y el **intento** de notificación debidamente acreditado. Y el **art. 43.3** precisa que ese intento se cumple con la **puesta a disposición** en la sede electrónica.\nSe puso a disposición el 3 de noviembre, antes del 13: la Confederación cumplió.",
+    "No. El plazo es para **resolver y notificar** (art. 21.2). Dictar a tiempo no basta: también hay que intentar notificar a tiempo."
+   ]
+  },
+  {
+   "n": 13,
+   "enunciado": "Imagine que la notificación contenía el texto íntegro de la resolución, pero no indicaba los recursos que procedían. ¿Desde cuándo surtiría efecto?",
+   "opciones": [
+    "Desde la fecha en que la empresa realizara actuaciones que supusieran el conocimiento del contenido y alcance de la resolución, o interpusiera cualquier recurso que procediera.",
+    "Nunca: una notificación sin indicación de recursos es nula de pleno derecho.",
+    "Desde la puesta a disposición, porque la indicación de recursos es un mero formalismo.",
+    "Desde que transcurrieran seis meses desde la puesta a disposición."
+   ],
+   "bloque": "actos",
+   "precepto": "Art. 40.2 y 40.3 de la Ley 39/2015",
+   "correcta": 0,
+   "justificaciones": [
+    "Es esta. El **art. 40.3** dice que las notificaciones que, **conteniendo el texto íntegro** del acto, omitan alguno de los demás requisitos del 40.2 (si pone fin a la vía administrativa, los recursos, el órgano y el plazo), «surtirán efecto a partir de la fecha en que el interesado realice actuaciones que supongan el **conocimiento del contenido y alcance** de la resolución o acto objeto de la notificación, o **interponga cualquier recurso** que proceda».\nEs una notificación defectuosa que se «convalida» con la conducta del interesado.",
+    "No. No es nula: es **defectuosa**, y la propia ley dice cuándo surte efecto (art. 40.3).",
+    "No. La indicación de recursos sí importa: sin ella, la notificación no surte efecto hasta que el interesado demuestre que la conoce o recurra.",
+    "No. La ley no pone ese plazo de seis meses."
+   ]
+  },
+  {
+   "n": 14,
+   "enunciado": "¿Cómo debe tratarse la autorización de vertido de 2019 dictada por la Delegación del Gobierno en Aragón?",
+   "opciones": [
+    "Es anulable y solo puede declararse lesiva en los cuatro años siguientes a su firma, plazo que ya ha pasado.",
+    "Es nula de pleno derecho y la Administración puede declarar su nulidad en cualquier momento, de oficio o a solicitud de interesado, previo dictamen favorable del Consejo de Estado.",
+    "Es nula de pleno derecho, pero solo puede declararla un juez, porque es un acto favorable.",
+    "Es nula de pleno derecho y la Administración puede declarar su nulidad sin necesidad de dictamen, porque la incompetencia es evidente."
+   ],
+   "bloque": "revision",
+   "precepto": "Arts. 47.1.b) y 106.1 de la Ley 39/2015",
+   "correcta": 1,
+   "justificaciones": [
+    "No. Es **nula**, no anulable: el órgano no tiene ninguna competencia en materia de aguas, así que es una incompetencia **manifiesta por razón de la materia** (art. 47.1.b). Y la nulidad no prescribe.",
+    "Es esta. Dos pasos:\n1) **Qué vicio tiene**: los actos dictados por órgano **manifiestamente incompetente por razón de la materia** o del territorio son **nulos de pleno derecho** (**art. 47.1.b**).\n2) **Cómo se revisa**: por el **art. 106.1**, las Administraciones declararán de oficio la nulidad de los actos que no hayan sido recurridos en plazo (nadie la recurrió), «en **cualquier momento**, por iniciativa propia o a **solicitud de interesado**, y previo **dictamen favorable** del Consejo de Estado».\nOjo a «favorable»: no basta con pedir el dictamen; el Consejo de Estado tiene que estar de acuerdo.",
+    "No. Ir al juez es lo que pasa con los actos favorables **anulables** (lesividad, art. 107). Los nulos los declara la propia Administración.",
+    "No. El dictamen favorable del Consejo de Estado es obligatorio para declarar la nulidad (art. 106.1). Solo se puede prescindir de él para **inadmitir** solicitudes (art. 106.3)."
+   ],
+   "ojo": "Incompetencia manifiesta por materia o territorio: nulidad. Incompetencia jerárquica: anulabilidad, convalidable (art. 52.3)."
+  },
+  {
+   "n": 15,
+   "enunciado": "Un vecino pide la revisión de oficio de otra autorización alegando únicamente que la firmó un Jefe de Servicio en lugar del Comisario de Aguas, que era su superior jerárquico y el órgano competente. ¿Qué puede hacer la Confederación?",
+   "opciones": [
+    "Pedir dictamen al Consejo de Estado y, si es favorable, declarar la nulidad.",
+    "Inadmitir a trámite la solicitud, motivadamente y sin necesidad de pedir dictamen al Consejo de Estado, porque no se basa en una causa de nulidad del art. 47.1.",
+    "Inadmitirla sin motivación, porque carece de fundamento.",
+    "Declarar la nulidad directamente, porque cualquier incompetencia hace nulo el acto."
+   ],
+   "bloque": "revision",
+   "precepto": "Arts. 106.3 y 47.1.b) de la Ley 39/2015",
+   "correcta": 1,
+   "justificaciones": [
+    "No. Pedir el dictamen sería inútil: lo que alega no es causa de nulidad. Para eso existe la inadmisión del art. 106.3.",
+    "Es esta. El **art. 106.3** permite **inadmitir** a trámite, **motivadamente** y **sin dictamen** del Consejo de Estado, las solicitudes que:\n1) no se basen en alguna de las causas de nulidad del art. 47.1;\n2) carezcan manifiestamente de fundamento; o\n3) sean sustancialmente iguales a otras ya desestimadas en cuanto al fondo.\nUna incompetencia **jerárquica** no es manifiesta por materia ni por territorio, así que no es causa de nulidad: como mucho, anulabilidad. Ejemplo del profesor: el Consejo de Estado es uno y no se le pueden mandar miles de peticiones sin pie ni cabeza.",
+    "No. La inadmisión no necesita dictamen, pero sí tiene que ser **motivada**. Es la trampa de este apartado.",
+    "No. Solo la incompetencia **manifiesta por razón de la materia o del territorio** produce nulidad (art. 47.1.b). La jerárquica, no."
+   ]
+  },
+  {
+   "n": 16,
+   "enunciado": "La Confederación inició de oficio el 1 de diciembre de 2026 el procedimiento de revisión de la autorización de vertido de 2019. ¿Qué ocurre si pasan seis meses sin dictar resolución?",
+   "opciones": [
+    "Se produce la caducidad del procedimiento.",
+    "Se entiende desestimada la revisión por silencio administrativo.",
+    "Se entiende declarada la nulidad por silencio positivo.",
+    "Nada: como la nulidad no prescribe, el procedimiento puede durar indefinidamente."
+   ],
+   "bloque": "revision",
+   "precepto": "Art. 106.5 de la Ley 39/2015",
+   "correcta": 0,
+   "justificaciones": [
+    "Es esta. El **art. 106.5** dice: «Cuando el procedimiento se hubiera iniciado **de oficio**, el transcurso del plazo de **seis meses** desde su inicio sin dictarse resolución producirá la **caducidad** del mismo».\nComo la nulidad no prescribe, la Administración podrá iniciar otro procedimiento.",
+    "No. La desestimación por silencio es para cuando la revisión se inició **a solicitud** de interesado (segunda frase del art. 106.5). Aquí se inició de oficio.",
+    "No. No existe la declaración de nulidad por silencio. Hace falta una resolución expresa con dictamen favorable.",
+    "No. Que la nulidad no prescriba significa que se puede **iniciar** en cualquier momento, pero cada procedimiento tiene un plazo de seis meses."
+   ],
+   "ojo": "Art. 106.5, marcado como IMP: seis meses. De oficio, caduca; a solicitud, se entiende desestimada."
+  },
+  {
+   "n": 17,
+   "enunciado": "Mientras se tramita la revisión, el vertido autorizado en 2019 sigue contaminando el río y puede causar daños de muy difícil reparación. ¿Qué puede hacer el órgano competente?",
+   "opciones": [
+    "Nada: el acto se presume válido hasta que se declare su nulidad.",
+    "Suspender la ejecución del acto, porque podría causar perjuicios de imposible o difícil reparación.",
+    "Suspenderlo solo si lo pide el titular de la autorización.",
+    "Pedir al juez que suspenda la ejecución."
+   ],
+   "bloque": "revision",
+   "precepto": "Art. 108 de la Ley 39/2015",
+   "correcta": 1,
+   "justificaciones": [
+    "No. Es verdad que los actos se presumen válidos (art. 39.1), pero el art. 108 permite suspenderlos durante la revisión.",
+    "Es esta. El **art. 108** dice que, **iniciado** el procedimiento de revisión de oficio (106 o 107), el órgano competente para declarar la nulidad o la lesividad «podrá **suspender la ejecución** del acto, cuando ésta pudiera causar **perjuicios de imposible o difícil reparación**».\nEjemplo del profesor: un acto que puede llevar a echar abajo un edificio mientras se decide si es nulo.",
+    "No. La ley no exige que lo pida nadie: lo decide el órgano competente.",
+    "No. No hace falta juez: lo suspende el propio órgano competente para la revisión."
+   ]
+  },
+  {
+   "n": 18,
+   "enunciado": "¿Hasta cuándo puede la Administración declarar lesiva la autorización de 15 de febrero de 2023, y qué tiene que hacer después?",
+   "opciones": [
+    "Hasta el 15 de febrero de 2027; después tiene que impugnarla ante el orden jurisdiccional contencioso-administrativo.",
+    "En cualquier momento; después puede anularla ella misma.",
+    "Hasta el 15 de febrero de 2027; después puede anularla ella misma, previo dictamen del Consejo de Estado.",
+    "Hasta el 15 de agosto de 2023, seis meses después de dictarse; después tiene que impugnarla ante el juez."
+   ],
+   "bloque": "revision",
+   "precepto": "Art. 107.1 y 107.2 de la Ley 39/2015",
+   "correcta": 0,
+   "justificaciones": [
+    "Es esta. El acto es **favorable** y **anulable**, así que se aplica el **art. 107**:\n1) **Plazo**: la declaración de lesividad «no podrá adoptarse una vez transcurridos **cuatro años desde que se dictó** el acto» (107.2). Del 15 de febrero de 2023, cuatro años: **15 de febrero de 2027**.\n2) **Después**: la Administración lo **impugna ante el contencioso-administrativo** (107.1). Es el juez quien lo anula.\nLa paradoja que explica el profesor: la Administración va al juez para que anule un acto que dictó ella misma.",
+    "No. «En cualquier momento» es la nulidad (art. 106). La lesividad tiene un límite de cuatro años, y la Administración no puede anular por sí misma un acto favorable anulable.",
+    "No. El plazo es correcto, pero el segundo paso no: no lo anula ella con dictamen; lo impugna ante el juez. El dictamen favorable del Consejo de Estado es de la nulidad (art. 106).",
+    "No. Seis meses es el plazo del **procedimiento** de lesividad una vez iniciado (si no termina, caduca: art. 107.3). El límite para declarar la lesividad es de cuatro años desde que se dictó el acto."
+   ],
+   "ojo": "Nulo: lo declara la Administración, con dictamen favorable (106). Anulable favorable: la Administración lo declara lesivo y lo anula el juez (107)."
+  },
+  {
+   "n": 19,
+   "enunciado": "En relación con el procedimiento de declaración de lesividad de la autorización de 2023, ¿cuál de las siguientes afirmaciones es correcta?",
+   "opciones": [
+    "No requiere audiencia del titular, porque la decisión final la tomará un juez.",
+    "La declaración de lesividad puede recurrirse en alzada.",
+    "Si pasan seis meses desde que se inicia sin declararse la lesividad, se entiende desestimada.",
+    "Exige la previa audiencia de los interesados, la declaración de lesividad no es susceptible de recurso, y si pasan seis meses desde su inicio sin declararse, el procedimiento caduca."
+   ],
+   "bloque": "revision",
+   "precepto": "Art. 107.2 y 107.3 de la Ley 39/2015",
+   "correcta": 3,
+   "justificaciones": [
+    "No. El art. 107.2 exige «la **previa audiencia** de cuantos aparezcan como interesados», en los términos del art. 82.",
+    "No. Es la trampa marcada como IMP: la declaración de lesividad **no es susceptible de recurso**. Todavía no quita nada al titular: solo es el requisito previo para ir al juez.",
+    "No. La consecuencia no es la desestimación, sino la **caducidad** (art. 107.3).",
+    "Es esta. Todo sale del **art. 107**:\n1) **Audiencia previa** de los interesados (107.2).\n2) **No es recurrible**, aunque se puede notificar a efectos informativos; se examinará en el juicio como presupuesto procesal (107.2).\n3) **Seis meses** desde el inicio sin declararse: **caducidad** (107.3).\nRecuerda la pareja del profesor: contra la caducidad sí cabe recurso; contra la lesividad, no."
+   ]
+  },
+  {
+   "n": 20,
+   "enunciado": "¿Qué puede hacer la Confederación con la liquidación del canon en la que 700 más 500 euros suman 12.000 euros?",
+   "opciones": [
+    "Revocarla, porque es un acto de gravamen, mientras no haya transcurrido el plazo de prescripción.",
+    "Declararla lesiva e impugnarla ante el juez.",
+    "Rectificar el error en cualquier momento, de oficio o a instancia del interesado, porque es un error aritmético.",
+    "Iniciar la revisión de oficio por nulidad, previo dictamen del Consejo de Estado."
+   ],
+   "bloque": "revision",
+   "precepto": "Art. 109.2 de la Ley 39/2015",
+   "correcta": 2,
+   "justificaciones": [
+    "No. La revocación (art. 109.1) es para dejar sin efecto un acto de gravamen que no procede. Aquí no hay que eliminar la liquidación: hay que corregir una suma mal hecha.",
+    "No. La lesividad es para actos **favorables** anulables. Además, un error de cuentas no necesita ningún procedimiento: se rectifica.",
+    "Es esta. El **art. 109.2** dice que las Administraciones podrán «rectificar **en cualquier momento**, **de oficio o a instancia** de los interesados, los **errores materiales, de hecho o aritméticos** existentes en sus actos».\n700 + 500 son 1.200, no 12.000: es un error aritmético evidente. Debe ser evidente y palmario; nunca un error de derecho, es decir, nunca un cambio en cómo se interpreta una norma.",
+    "No. Un error de cuentas no es una causa de nulidad del art. 47.1. Se corrige por la vía sencilla de la rectificación."
+   ],
+   "ojo": "Revocación: actos de gravamen, mientras no prescriba (109.1). Rectificación: errores materiales, de hecho o aritméticos, en cualquier momento (109.2)."
+  }
+ ]
+}

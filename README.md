@@ -26,6 +26,10 @@ Cada tema y bloque muestra preguntas dominadas, falladas y pendientes. En Examen
 
 Todo se guarda en el navegador con claves `test-c1-*`, para no mezclarse con el test de contratos, que está publicado en el mismo dominio y usa `contratos-*`.
 
+## Ejercicios nuevos (hechos por Claude)
+
+Además de los de clase, hay ejercicios de refuerzo hechos aparte, sobre lo que el profesor marca como más preguntado. Van en `tools/refuerzo/ref-NN.json`, cada uno con su enunciado, sus preguntas y sus respuestas razonadas en el mismo archivo (y su calendario, si lo necesita). `construir.py` los mete en la Ley 39 con el origen «Hecho por Claude», y en Supuestos salen en su propio grupo, «Ejercicios nuevos (hechos por Claude)». Las marcas del profesor se les ponen igual que al resto.
+
 ## Supuestos
 
 Los supuestos de cada tema salen en tres grupos: Ejercicios de clase, Exámenes de clase y Supuestos prácticos. Los ejercicios sin enunciado ("Ejercicio nº 11 - Plazos administrativos") y los "Examen nº N" de clase salen en Examen y también en Supuestos. Se elige cuáles en `como_supuesto()` de `tools/construir.py`. Sus preguntas son las mismas, así que las estadísticas se comparten.
