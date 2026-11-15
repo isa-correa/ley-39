@@ -1,0 +1,262 @@
+{
+ "caso": {
+  "id": "ref-11",
+  "titulo": "Refuerzo nº 11 - Caducidad frente a prescripción (13 preguntas)",
+  "texto": "Transportes Rivera, S. L. cometió el lunes 10 de marzo de 2025 una infracción grave: conducir por encima de las horas permitidas. La infracción se comprobó en carretera ese mismo día y se cometió una sola vez (no es continuada). La ley sectorial no fija plazos de prescripción. La norma reguladora del procedimiento sancionador fija un plazo máximo de seis meses para resolver y notificar.\nEl martes 16 de septiembre de 2025 el órgano competente acordó iniciar el procedimiento sancionador, y se lo notificó a la empresa el jueves 18 de septiembre. Ese plazo máximo terminó sin que se dictara ni se notificara resolución. El 20 de abril de 2026 el órgano declaró la caducidad y ordenó el archivo. El 5 de octubre de 2026 estudia iniciar un nuevo procedimiento por los mismos hechos.\nAlgunas preguntas añaden otras personas y otros procedimientos."
+ },
+ "preguntas": [
+  {
+   "n": 1,
+   "enunciado": "¿Cuándo terminó el plazo máximo para resolver y notificar el procedimiento sancionador?",
+   "opciones": [
+    "El lunes 16 de marzo de 2026.",
+    "El martes 16 de diciembre de 2025.",
+    "El miércoles 18 de marzo de 2026.",
+    "El lunes 20 de abril de 2026."
+   ],
+   "bloque": "plazos",
+   "precepto": "Arts. 21.3.a) y 30.4 de la Ley 39/2015",
+   "correcta": 0,
+   "justificaciones": [
+    "Es esta. En los procedimientos **de oficio** el plazo se cuenta desde la fecha del **acuerdo de iniciación** (**art. 21.3.a**), que es el 16 de septiembre, no desde que se notifica. Seis meses de fecha a fecha (**art. 30.4**): 16 de marzo de 2026, lunes y hábil.",
+    "No. Son tres meses desde el acuerdo, el plazo **por defecto** cuando la norma reguladora no fija otro (art. 21.3). Aquí la norma reguladora fija seis meses.",
+    "No. Es contar desde la notificación del acuerdo (18 de septiembre). En los de oficio cuenta la fecha del acuerdo (art. 21.3.a). La notificación solo cuenta, por ejemplo, para saber desde cuándo lo conoce el interesado.",
+    "No. Esa es la fecha en que se **declaró** la caducidad, no en la que acabó el plazo. La caducidad se produce al vencer el plazo; la resolución solo la declara."
+   ]
+  },
+  {
+   "n": 2,
+   "enunciado": "Vencido ese plazo sin resolución notificada, ¿qué efecto se produce?",
+   "opciones": [
+    "Silencio estimatorio: la empresa queda absuelta.",
+    "La caducidad del procedimiento: la resolución que la declare ordenará el archivo de las actuaciones.",
+    "Silencio desestimatorio: se entiende confirmada la sanción.",
+    "La prescripción de la infracción."
+   ],
+   "bloque": "actividad",
+   "precepto": "Art. 25.1.b) de la Ley 39/2015",
+   "correcta": 1,
+   "justificaciones": [
+    "No. En los procedimientos de oficio no hay silencio estimatorio. Y archivar un procedimiento no es absolver: la infracción sigue viva hasta que prescriba.",
+    "Es esta. En los procedimientos de oficio sancionadores o de intervención con efectos desfavorables se produce la **caducidad** (**art. 25.1.b**). La resolución que la declara ordena el archivo con los efectos del **art. 95**.",
+    "No. El silencio desestimatorio de oficio (art. 25.1.a) es para procedimientos que podían reconocer derechos. Uno sancionador es «algo malo»: caducidad.",
+    "No. Es **la confusión de siempre**. Lo que se extingue es el **procedimiento** (caducidad), no la infracción. Prescripción y caducidad son cosas distintas, y el art. 95.3 dice que la caducidad no produce por sí sola la prescripción."
+   ],
+   "ojo": "Truco para no confundirlas: **caduca el procedimiento** (el expediente, por pasar el plazo para tramitarlo). **Prescribe el derecho** (la infracción, la sanción, la reclamación, por pasar el plazo para ejercerlo)."
+  },
+  {
+   "n": 3,
+   "enunciado": "El 5 de octubre de 2026, ¿puede la Administración iniciar un nuevo procedimiento sancionador por los mismos hechos?",
+   "opciones": [
+    "No, porque la caducidad extingue la infracción y por eso produce la prescripción.",
+    "Sí, pero solo hasta septiembre de 2027, que son dos años desde el acuerdo de iniciación del procedimiento caducado.",
+    "Sí, porque la caducidad no produce por sí sola la prescripción: puede hacerlo mientras la infracción no haya prescrito, y una infracción grave cometida el 10 de marzo de 2025 prescribe en marzo de 2027.",
+    "No, porque nadie puede ser sancionado dos veces por los mismos hechos."
+   ],
+   "bloque": "finalizacion",
+   "precepto": "Art. 95.3 de la Ley 39/2015 y art. 30 de la Ley 40/2015",
+   "correcta": 2,
+   "justificaciones": [
+    "No. Es exactamente lo que dice el art. 95.3 que **no** ocurre. Caduca el procedimiento, no la infracción.",
+    "No. El plazo de prescripción de la infracción se cuenta desde que se **cometió** (art. 30.2 de la Ley 40/2015). Y los procedimientos caducados **no interrumpen** el plazo de prescripción (art. 95.3), así que el acuerdo de iniciación del procedimiento caducado no mueve la fecha.",
+    "Es esta. **Art. 95.3**: la caducidad «no producirá por sí sola la prescripción de las acciones del particular o de la Administración». Una infracción grave sin plazo en la ley sectorial prescribe a los **dos años** (**art. 30.1 de la Ley 40/2015**) desde que se cometió, es decir, en marzo de 2027. En octubre de 2026 aún está viva.",
+    "No. Ese principio (non bis in idem) impide una **segunda sanción** cuando ya hubo una primera. Aquí el primer procedimiento terminó sin sancionar."
+   ],
+   "ojo": "Marcado como IMP por el profesor: la caducidad no produce por sí sola la prescripción, y el procedimiento caducado no interrumpe el plazo de prescripción."
+  },
+  {
+   "n": 4,
+   "enunciado": "¿Cuál de las siguientes afirmaciones es correcta?",
+   "opciones": [
+    "La caducidad del procedimiento sancionador impide que la Administración vuelva a sancionar los mismos hechos.",
+    "La caducidad se produce cuando vence el plazo de prescripción de la infracción.",
+    "Contra la resolución que declara la caducidad no cabe ningún recurso.",
+    "El tiempo que dura un procedimiento caducado no interrumpe el plazo de prescripción."
+   ],
+   "bloque": "finalizacion",
+   "precepto": "Art. 95 de la Ley 39/2015",
+   "correcta": 3,
+   "justificaciones": [
+    "No. Mientras la infracción no haya prescrito, puede iniciar un nuevo procedimiento (art. 95.3).",
+    "No. Son dos relojes diferentes: la caducidad depende del plazo para **resolver** el procedimiento (aquí seis meses), y la prescripción, del plazo para **ejercer** el derecho a sancionar (aquí dos años).",
+    "No. El **art. 95.1** dice que contra la resolución que declare la caducidad «procederán los recursos pertinentes». Es donde más se falla (es pregunta de examen).",
+    "Es esta. Es el **art. 95.3**: «los procedimientos caducados no interrumpirán el plazo de prescripción». El reloj de la prescripción corre como si ese procedimiento no hubiera existido."
+   ]
+  },
+  {
+   "n": 5,
+   "enunciado": "Como la ley sectorial no fija plazos de prescripción, ¿en cuánto prescribe esta infracción grave y desde cuándo se cuenta?",
+   "opciones": [
+    "A los tres años, contados desde el día en que se cometió.",
+    "A los dos años, contados desde el día en que se cometió.",
+    "A los seis meses, contados desde el día en que se cometió.",
+    "A los dos años, contados desde que la Administración tuvo conocimiento de la infracción."
+   ],
+   "bloque": "finalizacion",
+   "precepto": "Art. 30.1 y 30.2 de la Ley 40/2015",
+   "correcta": 1,
+   "justificaciones": [
+    "No. Tres años es para las infracciones **muy graves**. Esta es grave.",
+    "Es esta. **Art. 30.1 de la Ley 40/2015**: si la ley no fija plazos, las infracciones muy graves prescriben a los **tres años**, las graves a los **dos años** y las leves a los **seis meses**. **Art. 30.2**: el plazo se cuenta desde el día en que se cometió la infracción (en las continuadas o permanentes, desde que acabó la conducta).",
+    "No. Seis meses es para las **leves**. Cuidado: es el mismo plazo que el de resolver un procedimiento, pero son cosas distintas.",
+    "No. Acierta con el plazo, pero el reloj arranca el día en que **se cometió** la infracción, no cuando la Administración se entera (art. 30.2)."
+   ],
+   "ojo": "Tabla para memorizar si la ley no dice nada. Infracciones: muy graves 3 años, graves 2, leves 6 meses. Sanciones: muy graves 3 años, graves 2, leves 1 año."
+  },
+  {
+   "n": 6,
+   "enunciado": "Si la Administración inicia un nuevo procedimiento sancionador, ¿qué puede hacer con lo actuado en el caducado?",
+   "opciones": [
+    "Incorporar todo lo actuado, incluidas las alegaciones y la audiencia, para no repetir trámites.",
+    "Nada: el nuevo procedimiento debe empezar de cero y no puede aprovechar ningún acto del caducado.",
+    "Incorporar los actos y trámites cuyo contenido se hubiera mantenido igual de no haberse producido la caducidad, pero en el nuevo procedimiento debe cumplimentar en todo caso las alegaciones, la proposición de prueba y la audiencia al interesado.",
+    "Incorporar solo las pruebas practicadas, y solo si la empresa lo acepta por escrito."
+   ],
+   "bloque": "finalizacion",
+   "precepto": "Art. 95.3 de la Ley 39/2015",
+   "correcta": 2,
+   "justificaciones": [
+    "No. La audiencia, las alegaciones y la prueba se repiten **en todo caso** (art. 95.3).",
+    "No. La Ley permite incorporar los actos y trámites cuyo contenido se hubiera mantenido igual.",
+    "Es esta. Es el **art. 95.3**, segundo párrafo: se pueden **aprovechar** los actos y trámites que habrían quedado igual, pero los trámites de **alegaciones, proposición de prueba y audiencia** hay que hacerlos de nuevo, siempre. Así el interesado no pierde sus garantías.",
+    "No. No hace falta la aceptación del interesado, y no se limita a la prueba: son los actos y trámites cuyo contenido se hubiera mantenido igual."
+   ]
+  },
+  {
+   "n": 7,
+   "enunciado": "Otro transportista, Hermanos Beltrán, tiene abierto un procedimiento sancionador cuyo inicio conoce. El expediente queda parado 45 días por culpa de la Administración, no de los Beltrán. ¿Qué efecto tiene sobre la prescripción de la infracción?",
+   "opciones": [
+    "La iniciación del procedimiento, con conocimiento del interesado, interrumpió la prescripción; y como estuvo paralizado más de un mes por causa no imputable al presunto responsable, el plazo de prescripción se reinicia.",
+    "Se produce la caducidad del procedimiento, porque ha estado parado más de un mes.",
+    "Nada: la prescripción solo se interrumpe cuando se dicta la resolución sancionadora.",
+    "La infracción prescribe inmediatamente, porque la Administración dejó pasar más de un mes."
+   ],
+   "bloque": "finalizacion",
+   "precepto": "Art. 30.2 de la Ley 40/2015",
+   "correcta": 0,
+   "justificaciones": [
+    "Es esta. **Art. 30.2 de la Ley 40/2015**: interrumpe la prescripción la iniciación del procedimiento sancionador **con conocimiento del interesado**, y el plazo se **reinicia** si el expediente estuvo paralizado **más de un mes** por causa no imputable al presunto responsable. Fíjate: aquí el plazo importante es «un mes».",
+    "No. La caducidad no depende de que haya paradas de un mes, sino de que venza el plazo máximo para resolver (en este tema, seis meses). Y no es lo mismo que la prescripción.",
+    "No. La interrumpe el **inicio** del procedimiento sancionador con conocimiento del interesado (art. 30.2), no la resolución.",
+    "No. Es al revés: tras una paralización de más de un mes imputable a la Administración, el plazo de prescripción **vuelve a empezar**, no se agota."
+   ],
+   "ojo": "No mezcles los relojes: 1 mes (reinicio de la prescripción si el expediente se para), 3 meses (advertencia de caducidad cuando el interesado paraliza, art. 95.1) y 6 meses (plazo máximo habitual para resolver)."
+  },
+  {
+   "n": 8,
+   "enunciado": "Doña Teresa pidió una autorización. Para resolver era indispensable que aportara un proyecto técnico, que se le pidió y no entregó, y el procedimiento está paralizado por esa causa. ¿Qué debe hacer la Administración?",
+   "opciones": [
+    "Declararla inmediatamente decaída en su derecho al trámite y seguir adelante.",
+    "Tenerla por desistida de su petición a los diez días, previa resolución.",
+    "Declarar la caducidad por sorpresa, sin avisarla, cuando pasen seis meses.",
+    "Advertirle de que, transcurridos tres meses, se producirá la caducidad; consumido ese plazo sin que actúe, acordar el archivo de las actuaciones y notificárselo."
+   ],
+   "bloque": "finalizacion",
+   "precepto": "Art. 95.1 de la Ley 39/2015",
+   "correcta": 3,
+   "justificaciones": [
+    "No. Eso es para trámites que **no** son indispensables (art. 95.2). Con un trámite indispensable no se puede seguir adelante.",
+    "No. El desistimiento a los diez días es para la subsanación de la solicitud inicial (art. 68.1). Aquí el procedimiento ya está en marcha y lo que falta es un trámite indispensable.",
+    "No. Hay que **advertir** antes, y el plazo es de **tres meses** (art. 95.1), no de seis.",
+    "Es esta. **Art. 95.1**: en los procedimientos **a solicitud**, cuando se paraliza por causa imputable al interesado, la Administración le **advierte** de que, pasados **tres meses**, se producirá la caducidad. Si no actúa, acuerda el archivo y se lo notifica."
+   ]
+  },
+  {
+   "n": 9,
+   "enunciado": "En otro procedimiento a solicitud, doña Rosa no cumplimenta un trámite que no es indispensable para dictar resolución. ¿Qué consecuencia tiene?",
+   "opciones": [
+    "Se produce la caducidad de todo el procedimiento a los tres meses.",
+    "No puede acordarse la caducidad; su inactividad solo tiene como efecto la pérdida de su derecho a ese trámite.",
+    "Se le tiene por desistida de su petición y se archiva el procedimiento.",
+    "No pasa nada: la Administración debe esperar sin límite a que cumplimente el trámite."
+   ],
+   "bloque": "finalizacion",
+   "precepto": "Art. 95.2 de la Ley 39/2015",
+   "correcta": 1,
+   "justificaciones": [
+    "No. La caducidad requiere que la paralización afecte a algo **indispensable** para resolver (art. 95.1 y 95.2).",
+    "Es esta. **Art. 95.2**: no podrá acordarse la caducidad «por la simple inactividad del interesado en la cumplimentación de trámites, siempre que no sean indispensables para dictar resolución». Dicha inactividad no tendrá otro efecto que la **pérdida de su derecho al referido trámite**.",
+    "No. El desistimiento se da en el requerimiento de subsanación de la solicitud (art. 68.1). Aquí solo pierde el trámite.",
+    "No. Pierde su derecho al trámite y el procedimiento sigue adelante."
+   ]
+  },
+  {
+   "n": 10,
+   "enunciado": "Imagina que en un procedimiento paralizado por el interesado, la Administración quiere seguir adelante porque la cuestión afecta al interés general. ¿Es posible?",
+   "opciones": [
+    "No: la caducidad es automática y la Administración nunca puede evitarla.",
+    "No: solo el interesado puede pedir que no se aplique la caducidad.",
+    "Sí: el art. 95.4 dice que podrá no ser aplicable la caducidad si la cuestión afecta al interés general o es conveniente sustanciarla para su definición y esclarecimiento.",
+    "Sí, pero solo si el interesado paga una tasa para reactivar el procedimiento."
+   ],
+   "bloque": "finalizacion",
+   "precepto": "Art. 95.4 de la Ley 39/2015",
+   "correcta": 2,
+   "justificaciones": [
+    "No. El art. 95.4 le permite no aplicarla en esos casos.",
+    "No. Es una posibilidad de la Administración, no un derecho del interesado.",
+    "Es esta. Es el **art. 95.4**: «Podrá no ser aplicable la caducidad en el supuesto de que la cuestión suscitada afecte al interés general, o fuera conveniente sustanciarla para su definición y esclarecimiento».",
+    "No. La Ley no exige ningún pago. Basta con que la cuestión afecte al interés general o convenga aclararla."
+   ]
+  },
+  {
+   "n": 11,
+   "enunciado": "Doña Elena sufrió un daño por el servicio público el 12 de enero de 2025 y pidió una indemnización al Ministerio el 2 de marzo de 2025. El procedimiento se paralizó por su culpa y se declaró su caducidad en septiembre de 2025. El 1 de febrero de 2026 presenta una nueva solicitud. ¿Puede el Ministerio admitir a trámite la reclamación?",
+   "opciones": [
+    "Sí, porque la caducidad no extingue el derecho y puede volver a reclamar cuando quiera.",
+    "Sí, porque el plazo de un año se cuenta desde que se declaró la caducidad.",
+    "No, porque la caducidad produce por sí sola la prescripción de la reclamación.",
+    "No, porque el derecho a reclamar prescribió al año del hecho (12 de enero de 2026) y el procedimiento caducado no interrumpió ese plazo."
+   ],
+   "bloque": "iniciacion",
+   "precepto": "Arts. 67.1 y 95.3 de la Ley 39/2015",
+   "correcta": 3,
+   "justificaciones": [
+    "No. Es verdad que la caducidad no extingue el derecho por sí sola, pero queda sujeto a la **prescripción** (un año), que no se interrumpió.",
+    "No. El año se cuenta desde el hecho (art. 67.1), no desde el archivo del procedimiento caducado.",
+    "No. Acierta con el resultado, pero el motivo es falso: el art. 95.3 dice justo que la caducidad **no** produce por sí sola la prescripción. Lo que pasa es que el año se agotó.",
+    "Es esta. **Art. 67.1**: el derecho a reclamar prescribe al **año** de producido el hecho. **Art. 95.3**: los procedimientos caducados **no interrumpen** el plazo de prescripción. Por tanto, el plazo siguió corriendo y el 12 de enero de 2026 el derecho prescribió. El 1 de febrero llega tarde."
+   ],
+   "ojo": "Es la combinación que más se falla: caducidad y prescripción en el mismo caso. Primero mira si caducó el procedimiento. Luego mira, aparte, si el derecho sigue vivo."
+  },
+  {
+   "n": 12,
+   "enunciado": "Dos casos. A) El Ministerio inicia de oficio un procedimiento de revisión de oficio de un acto nulo y pasan seis meses sin resolución. B) La señora Pérez solicita la revisión de oficio de un acto nulo y pasan seis meses sin resolución. ¿Qué ocurre en cada uno?",
+   "opciones": [
+    "A) Se produce la caducidad. B) Se puede entender desestimada su solicitud por silencio administrativo.",
+    "A) Se puede entender desestimada. B) Se produce la caducidad.",
+    "En los dos casos se produce la caducidad.",
+    "En los dos casos el silencio es estimatorio."
+   ],
+   "bloque": "revision",
+   "precepto": "Art. 106.5 y art. 24.1 de la Ley 39/2015",
+   "correcta": 0,
+   "justificaciones": [
+    "Es esta. **Art. 106.5**: si el procedimiento se inició **de oficio**, el transcurso de seis meses sin resolución produce la **caducidad**. Si se inició **a solicitud** de interesado, se podrá entender **desestimada por silencio**. Es otra pregunta «IMP» del profesor.",
+    "No. Está invertido. De oficio, caducidad. A solicitud, silencio desestimatorio.",
+    "No. La caducidad es para el de oficio. En el de la señora Pérez hay silencio (art. 24.1 y art. 106.5).",
+    "No. Las revisiones de oficio a solicitud tienen silencio desestimatorio (art. 24.1) y las de oficio caducan."
+   ]
+  },
+  {
+   "n": 13,
+   "enunciado": "¿En cuál de estas situaciones se produce la caducidad (y no la prescripción, ni el desistimiento)?",
+   "opciones": [
+    "Doña Laura reclama una indemnización por responsabilidad patrimonial cuando han pasado dos años desde el hecho.",
+    "Una empresa retira su solicitud de autorización antes de que se resuelva, conservando el derecho a volver a pedirla.",
+    "Un expediente sancionador abierto de oficio llega a los seis meses sin resolución notificada.",
+    "Una infracción leve se cometió hace un año sin que se hubiera iniciado procedimiento alguno."
+   ],
+   "bloque": "finalizacion",
+   "precepto": "Arts. 25.1.b), 67.1 y 95 de la Ley 39/2015",
+   "correcta": 2,
+   "justificaciones": [
+    "No. Es **prescripción**: el derecho a reclamar prescribe al año (art. 67.1). Se pierde el derecho, no un procedimiento.",
+    "No. Es **desistimiento**: el interesado abandona el procedimiento pero conserva el derecho (art. 94). Es un acto voluntario del interesado.",
+    "Es esta. Es el ejemplo típico de **caducidad**: procedimiento de oficio con efectos desfavorables que supera el plazo máximo (**art. 25.1.b**). Se extingue el procedimiento.",
+    "No. Es **prescripción**: las infracciones leves prescriben a los seis meses si la ley no dice otro plazo (art. 30.1 de la Ley 40/2015). No había procedimiento que caducar."
+   ],
+   "ojo": "Pregunta final de repaso: caducidad es del procedimiento, prescripción es del derecho o de la infracción, desistimiento lo hace el interesado."
+  }
+ ]
+}

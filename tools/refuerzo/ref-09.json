@@ -1,0 +1,244 @@
+{
+ "caso": {
+  "id": "ref-09",
+  "titulo": "Refuerzo nº 9 - Silencio: estimatorio, desestimatorio o caducidad (12 preguntas)",
+  "texto": "En una misma mañana llegan al Ayuntamiento de Villaverde del Mar y al Ministerio de Cultura los procedimientos que siguen. En todos ha vencido el plazo máximo para resolver y notificar sin que se haya notificado resolución expresa. Salvo que se diga otra cosa, la norma reguladora no dice nada sobre el efecto del silencio.\nLas preguntas son independientes entre sí. Antes de mirar las opciones, decide tú qué efecto tiene el silencio."
+ },
+ "preguntas": [
+  {
+   "n": 1,
+   "enunciado": "La asociación vecinal «Barrio Alto» escribe al Ayuntamiento, al amparo del derecho de petición, para pedir que se construya un carril bici en su calle. Han pasado tres meses sin respuesta. ¿Qué efecto tiene el silencio?",
+   "opciones": [
+    "Estimatorio, porque la asociación inició el procedimiento y esa es la regla general.",
+    "Desestimatorio, porque es un procedimiento relativo al ejercicio del derecho de petición.",
+    "Caducidad del procedimiento, porque el Ayuntamiento no ha resuelto en plazo.",
+    "Ninguno, porque el Ayuntamiento no está obligado a contestar las peticiones."
+   ],
+   "bloque": "actividad",
+   "precepto": "Art. 24.1 de la Ley 39/2015",
+   "correcta": 1,
+   "justificaciones": [
+    "No. La regla general (estimatorio) tiene excepciones, y esta es una de ellas: el **art. 24.1** dice que el silencio es desestimatorio en los procedimientos relativos al **derecho de petición** (art. 29 de la Constitución).",
+    "Es esta. Es el primero de los «cuatro gordos» del profesor: pedir algo a lo que no tienes derecho y para lo que no existe un procedimiento (un carril bici, un columpio, que pinten tu calle). Si no te contestan, es un no (**art. 24.1**, párrafo segundo).",
+    "No. La caducidad es para los procedimientos que inicia la **Administración** y pueden perjudicar al interesado (**art. 25.1.b**). Aquí el escrito lo presenta la asociación.",
+    "No. El **art. 21.1** obliga a resolver y notificar en **todos** los procedimientos, sea cual sea su forma de iniciación. El silencio existe para que no te quedes sin salida, pero no libera a la Administración de contestar (art. 24.3)."
+   ],
+   "ojo": "Método para cualquier silencio, en tres pasos: 1) ¿lo inició el interesado (hay silencio) o la Administración (silencio de oficio o caducidad)? 2) Si fue el interesado, ¿es petición, dominio o servicio público, medio ambiente, responsabilidad patrimonial, un recurso, una revisión de oficio a solicitud, o una ley, una norma de la UE o internacional dice que no? 3) Si no hay nada de eso, es estimatorio."
+  },
+  {
+   "n": 2,
+   "enunciado": "Don Mario solicita al Ayuntamiento autorización para instalar un quiosco de helados en el paseo marítimo, que es dominio público municipal. La ordenanza municipal que regula el procedimiento dice que el silencio será estimatorio. Vencido el plazo, ¿qué efecto tiene el silencio?",
+   "opciones": [
+    "Desestimatorio, porque su estimación transferiría facultades sobre el dominio público, y una ordenanza no puede decir lo contrario.",
+    "Estimatorio, porque la ordenanza es la norma específica del procedimiento y prevalece sobre la regla general.",
+    "Estimatorio, porque en los procedimientos iniciados a solicitud el silencio es siempre estimatorio.",
+    "Caducidad, porque el Ayuntamiento no ha resuelto en plazo."
+   ],
+   "bloque": "actividad",
+   "precepto": "Art. 24.1 de la Ley 39/2015",
+   "correcta": 0,
+   "justificaciones": [
+    "Es esta. El **art. 24.1** dice que el silencio es desestimatorio cuando la estimación transferiría al solicitante facultades relativas al **dominio público**. Si te dan el quiosco por silencio, te quedas con un trozo del paseo. Y una ordenanza es un reglamento: no puede cambiar lo que dice la Ley.",
+    "No. Una ordenanza es un reglamento, y un reglamento no manda más que la Ley. Aquí además la propia Ley 39/2015 ya fija el silencio negativo para el dominio público.",
+    "No. «Siempre» es la trampa. La regla general tiene excepciones, y esta es una de las que fija la propia Ley 39/2015 (**art. 24.1**).",
+    "No. La caducidad se produce en procedimientos iniciados **de oficio** con efectos desfavorables (**art. 25.1.b**). Este lo inició don Mario."
+   ],
+   "ojo": "Es el ejemplo del profesor: no puedes quedarte con un trozo de playa porque el funcionario no haya contestado."
+  },
+  {
+   "n": 3,
+   "enunciado": "Doña Lucía se cayó en una acera con las baldosas levantadas y reclama al Ayuntamiento una indemnización de 18.000 euros. Vencido el plazo máximo sin resolución notificada, ¿qué puede entender?",
+   "opciones": [
+    "Que su reclamación está estimada por silencio, porque la ha iniciado ella y no afecta al dominio público.",
+    "Que su reclamación está estimada, y el Ayuntamiento solo podrá dictar después una resolución confirmatoria.",
+    "Que su reclamación está desestimada por silencio, porque es un procedimiento de responsabilidad patrimonial.",
+    "Que el procedimiento ha caducado y debe archivarse."
+   ],
+   "bloque": "actividad",
+   "precepto": "Arts. 24.1 y 91.3 de la Ley 39/2015",
+   "correcta": 2,
+   "justificaciones": [
+    "No. La responsabilidad patrimonial está en la lista de excepciones del **art. 24.1**. No tiene que ver con el dominio público: es otra excepción distinta.",
+    "No. Para que opere el art. 24.3.a (solo resolución confirmatoria) tendría que haber silencio estimatorio, y aquí es desestimatorio. El profesor lo resume: no pueden darte 7 millones porque el funcionario esté de baja.",
+    "Es esta. La responsabilidad patrimonial es otro de los «cuatro gordos» del **art. 24.1**. Además, el **art. 91.3** dice que, pasados seis meses sin resolución expresa, «podrá entenderse que la resolución es contraria a la indemnización». Es «super IMP» para el profesor.",
+    "No. La caducidad es para procedimientos iniciados de oficio con efectos desfavorables (art. 25.1.b). Doña Lucía lo inició a solicitud."
+   ]
+  },
+  {
+   "n": 4,
+   "enunciado": "Gráficas del Cierzo solicita al Ministerio de Industria autorización para abrir una imprenta. El real decreto que regula el procedimiento dice que el silencio será desestimatorio. La actividad no afecta al dominio público ni puede dañar el medio ambiente. ¿Qué efecto tiene el silencio?",
+   "opciones": [
+    "Desestimatorio, porque lo dice la norma específica que regula el procedimiento.",
+    "Estimatorio, porque un real decreto no tiene rango de ley y solo una ley (o una norma de la UE o internacional) puede hacer negativo el silencio.",
+    "Desestimatorio, porque abrir una imprenta es acceso a una actividad y en esos casos el silencio es siempre negativo.",
+    "Caducidad del procedimiento."
+   ],
+   "bloque": "actividad",
+   "precepto": "Art. 24.1 de la Ley 39/2015",
+   "correcta": 1,
+   "justificaciones": [
+    "No. Es la trampa: parece lógico que mande la norma específica, pero **un reglamento no puede hacer negativo el silencio**. Si pudiera, la propia Administración decidiría «aquí mi silencio es no».",
+    "Es esta. El **art. 24.1** dice que el silencio es estimatorio «excepto» si lo contrario lo establece una **norma con rango de ley** (o de Derecho de la UE o internacional). Un real decreto es un reglamento: puede fijar el plazo para resolver (hasta seis meses), pero no cambiar el sentido del silencio.",
+    "No. Es al revés. Cuando el procedimiento tiene por objeto el acceso a una actividad, la **ley** que imponga el silencio negativo tiene que fundarse en razones imperiosas de interés general (**art. 24.1**). Aquí ni siquiera hay ley.",
+    "No. La caducidad es para procedimientos de oficio con efectos desfavorables (art. 25.1.b). Aquí la empresa pidió la autorización."
+   ],
+   "ojo": "Es la misma idea que en el Ejercicio 16 de clase: el plazo lo puede fijar un reglamento, el sentido negativo del silencio solo una ley."
+  },
+  {
+   "n": 5,
+   "enunciado": "La asociación «Ribera Viva» pide una subvención al Ministerio de Cultura. La ley que regula esas ayudas dice expresamente que, vencido el plazo, la solicitud se entiende desestimada por silencio. ¿Qué efecto tiene el silencio?",
+   "opciones": [
+    "Estimatorio, porque una subvención no es ninguno de los cuatro casos en que la Ley 39/2015 impone el silencio negativo.",
+    "Caducidad, porque la Administración no ha resuelto a tiempo.",
+    "Estimatorio, porque la ley sectorial no puede cambiar la regla de la Ley 39/2015.",
+    "Desestimatorio, porque una norma con rango de ley lo establece."
+   ],
+   "bloque": "actividad",
+   "precepto": "Art. 24.1 de la Ley 39/2015",
+   "correcta": 3,
+   "justificaciones": [
+    "No. Los cuatro casos son excepciones que fija la propia Ley 39/2015, pero **no son las únicas**: cualquier ley (o norma de la UE o internacional) puede decir lo contrario (art. 24.1, primer párrafo).",
+    "No. La caducidad es para procedimientos de oficio sancionadores o de gravamen (art. 25.1.b). La asociación pidió la ayuda.",
+    "No. La Ley 39/2015 no es una ley superior a las demás: es otra ley, y ella misma dice que una norma con rango de ley puede establecer lo contrario.",
+    "Es esta. El **art. 24.1** admite la excepción a la regla general cuando «una norma con rango de ley» establece lo contrario. Que una subvención no sea uno de los cuatro casos de la Ley 39/2015 no importa: la ley sectorial puede hacer negativo el silencio."
+   ]
+  },
+  {
+   "n": 6,
+   "enunciado": "El colegio «San Isidro» pidió al Ministerio de Cultura la homologación de un curso de formación. La norma reguladora fija seis meses para resolver y no dice nada del silencio. Pasados los seis meses sin notificación, ¿qué puede entender el colegio?",
+   "opciones": [
+    "Que su solicitud está estimada por silencio, y que eso es un acto administrativo que pone fin al procedimiento.",
+    "Que su solicitud está desestimada por silencio, y que solo puede recurrir.",
+    "Que su solicitud está estimada, pero el procedimiento sigue abierto hasta que la Administración resuelva.",
+    "Que no puede entender nada hasta que el Ministerio le entregue el certificado del silencio."
+   ],
+   "bloque": "actividad",
+   "precepto": "Art. 24.1 y 24.2 de la Ley 39/2015",
+   "correcta": 0,
+   "justificaciones": [
+    "Es esta. Es la regla general del **art. 24.1**, y el **art. 24.2** dice que la estimación por silencio tiene «a todos los efectos» la consideración de **acto administrativo finalizador del procedimiento**.",
+    "No. Eso es el silencio desestimatorio (art. 24.2: «solos efectos de permitir» recurrir). Aquí no se da ninguna de las excepciones: es el caso por defecto, estimatorio.",
+    "No. El silencio estimatorio **termina** el procedimiento. Lo que sigue pendiente es la obligación de resolver, pero la resolución posterior solo puede ser confirmatoria (art. 24.3.a).",
+    "No. El **art. 24.4** dice que los actos por silencio producen efectos **desde el vencimiento del plazo** máximo, sin esperar resolución. El certificado sirve para acreditarlo, pero no es lo que lo produce."
+   ],
+   "ojo": "Si no hay nada que lo excluya, el silencio es estimatorio. Es el «caso por defecto» que debes tener claro antes de buscar excepciones."
+  },
+  {
+   "n": 7,
+   "enunciado": "Don Mario pidió autorización para instalar un quiosco en el dominio público del paseo marítimo y no le contestaron. Interpuso recurso de alzada contra la desestimación por silencio y han pasado tres meses sin resolverlo. ¿Qué efecto tiene este segundo silencio?",
+   "opciones": [
+    "Estimatorio, por el doble silencio.",
+    "Estimatorio, porque así lo establece el art. 122.2 para todos los recursos de alzada.",
+    "Desestimatorio, porque el doble silencio positivo no opera cuando la materia es una de las cuatro excluidas, y el dominio público lo es.",
+    "Caducidad del recurso."
+   ],
+   "bloque": "recursos",
+   "precepto": "Arts. 24.1 y 122.2 de la Ley 39/2015",
+   "correcta": 2,
+   "justificaciones": [
+    "No. El doble silencio tiene excepción: los cuatro casos. Si hubiera sido una autorización cualquiera, sí; con dominio público, no.",
+    "No. El **art. 122.2** dice que, pasados tres meses, se podrá entender desestimado el recurso, **salvo** en el supuesto del art. 24.1, tercer párrafo. La regla es negativa y el doble silencio positivo es la excepción.",
+    "Es esta. El **art. 24.1** (tercer párrafo) da el silencio positivo en la alzada contra una desestimación por silencio, pero solo «siempre que no se refiera a las materias enumeradas en el párrafo anterior»: petición, dominio o servicio público, medio ambiente y responsabilidad patrimonial. El quiosco es dominio público, así que sigue siendo negativo.",
+    "No. La caducidad es para procedimientos de oficio con efectos desfavorables (art. 25.1.b). Don Mario es quien recurre."
+   ],
+   "ojo": "Por eso el esquema del profesor termina así: el doble silencio se refiere a la alzada contra la desestimación por silencio de una solicitud, y nunca opera en los cuatro casos."
+  },
+  {
+   "n": 8,
+   "enunciado": "La asociación «Ribera Viva» pidió una subvención, y la ley que la regula dice que, vencido el plazo, la solicitud se entiende desestimada por silencio. La asociación interpuso recurso de alzada contra esa desestimación por silencio y pasan tres meses sin que el recurso se resuelva y notifique. ¿Qué efecto tiene este segundo silencio?",
+   "opciones": [
+    "Desestimatorio, porque el primer silencio ya fue negativo por una ley y el segundo sigue la misma suerte.",
+    "Estimatorio, por el doble silencio: la subvención no es una de las cuatro materias excluidas.",
+    "Caducidad del recurso de alzada.",
+    "Estimatorio, pero solo si la asociación lo pide expresamente en el recurso."
+   ],
+   "bloque": "recursos",
+   "precepto": "Arts. 24.1 y 122.2 de la Ley 39/2015",
+   "correcta": 1,
+   "justificaciones": [
+    "No. Es justo lo que el doble silencio rompe: la alzada contra una desestimación **por silencio** se entiende estimada si no se resuelve, salvo en los cuatro casos.",
+    "Es esta. Es el ejemplo del profesor: primer silencio negativo (porque una ley lo dice), recurres en alzada y tampoco contestan: ahora el silencio es **positivo** (**art. 24.1**, tercer párrafo, y **art. 122.2**). Solo se queda en negativo si el asunto es petición, dominio o servicio público, medio ambiente o responsabilidad patrimonial.",
+    "No. La caducidad es para procedimientos de oficio sancionadores o de gravamen (art. 25.1.b).",
+    "No. El efecto lo produce la ley por el transcurso del plazo, sin que el recurrente tenga que pedirlo de una forma especial."
+   ]
+  },
+  {
+   "n": 9,
+   "enunciado": "La Agencia de Consumo abrió de oficio un expediente sancionador contra una tienda por publicidad engañosa. Vencido el plazo máximo sin resolución notificada, ¿qué ocurre?",
+   "opciones": [
+    "Silencio estimatorio: la tienda queda absuelta.",
+    "Silencio desestimatorio: se entiende confirmada la sanción propuesta.",
+    "Nada: el procedimiento sigue abierto hasta que se resuelva.",
+    "Se produce la caducidad: la resolución que la declare ordenará el archivo de las actuaciones."
+   ],
+   "bloque": "actividad",
+   "precepto": "Art. 25.1.b) de la Ley 39/2015",
+   "correcta": 3,
+   "justificaciones": [
+    "No. En los procedimientos iniciados de oficio no hay silencio estimatorio. Para los que podían perjudicar al interesado, la consecuencia es la caducidad.",
+    "No. El silencio desestimatorio del art. 25.1.a es para procedimientos de oficio que podían reconocer **derechos** («algo bueno»). Uno sancionador es «algo malo»: caducidad.",
+    "No. El plazo máximo importa. Vencido, se produce la caducidad (aunque la Administración siga obligada a dictar la resolución que la declare, art. 25.1).",
+    "Es esta. En los procedimientos de oficio en los que la Administración ejerce potestades **sancionadoras** o de gravamen, el vencimiento del plazo produce **caducidad** (**art. 25.1.b**), y la resolución que la declara ordena el archivo con los efectos del **art. 95**. Es el «algo malo» del profesor: la ley te protege archivando."
+   ],
+   "ojo": "Truco: de oficio y algo bueno (reconocer derechos) = silencio desestimatorio. De oficio y algo malo (sancionar, gravamen) = caducidad."
+  },
+  {
+   "n": 10,
+   "enunciado": "El Ministerio inicia de oficio un procedimiento para reconocer una ayuda compensatoria a los afectados por unas obras. Doña Ana se persona en el procedimiento; don Luis, que también podía pedirla, no. Vencido el plazo máximo sin resolución notificada, ¿qué puede entender cada uno?",
+   "opciones": [
+    "Doña Ana puede entender desestimadas sus pretensiones por silencio. Don Luis, que no compareció, no.",
+    "Los dos pueden entender estimadas sus pretensiones por silencio positivo.",
+    "Se produce la caducidad y se archivan las actuaciones.",
+    "Los dos pueden entender desestimadas sus pretensiones, hayan comparecido o no."
+   ],
+   "bloque": "actividad",
+   "precepto": "Art. 25.1.a) de la Ley 39/2015",
+   "correcta": 0,
+   "justificaciones": [
+    "Es esta. El **art. 25.1.a** dice que, en los procedimientos de oficio de los que pudiera derivarse el reconocimiento de **derechos**, «los interesados que **hubieren comparecido**» podrán entender desestimadas sus pretensiones. Quien no se ha personado no tiene pretensiones que entender desestimadas.",
+    "No. En los procedimientos de oficio el silencio nunca es positivo: o es desestimatorio (si podía reconocer derechos) o hay caducidad (si podía perjudicar).",
+    "No. La caducidad es para los de oficio sancionadores o de gravamen (**art. 25.1.b**). Este podía darles algo bueno.",
+    "No. La clave es la palabra **comparecido**: solo los interesados que se hayan personado pueden entender desestimadas sus pretensiones."
+   ]
+  },
+  {
+   "n": 11,
+   "enunciado": "Dos casos. A) El colegio «San Isidro» pidió una homologación y la obtuvo por silencio estimatorio; ocho meses después, el Ministerio dicta una resolución expresa que la deniega. B) La asociación «Barrio Alto» pidió un carril bici en ejercicio del derecho de petición y sufrió silencio desestimatorio; ocho meses después, el Ayuntamiento dicta una resolución expresa que lo concede. ¿Qué es correcto?",
+   "opciones": [
+    "Las dos son válidas: la Administración siempre puede resolver como quiera, aunque sea tarde.",
+    "Las dos son inválidas, porque vencido el plazo máximo la Administración pierde la competencia para resolver.",
+    "La denegación del caso A no puede dictarse, porque tras un silencio estimatorio solo cabe resolución confirmatoria. La concesión del caso B sí puede dictarse, sin vinculación alguna al sentido del silencio.",
+    "La denegación del caso A es válida, porque el silencio positivo no vincula, y la concesión del caso B solo puede dictarse si confirma el silencio."
+   ],
+   "bloque": "actividad",
+   "precepto": "Art. 24.3 de la Ley 39/2015",
+   "correcta": 2,
+   "justificaciones": [
+    "No. Solo la del caso B es libre. Tras el silencio estimatorio (caso A), el sentido de la resolución tardía está limitado: solo puede ser confirmatoria (art. 24.3.a).",
+    "No. El silencio **no libera** a la Administración de resolver (arts. 21.1 y 24.3). Seguir con la obligación de resolver es justo lo que regula el 24.3.",
+    "Es esta. **Art. 24.3**: si el silencio fue estimatorio (**a**), la resolución posterior solo podrá dictarse si es **confirmatoria**: no puede quitarte lo que ya tienes. Si fue desestimatorio (**b**), la resolución posterior se adopta «sin vinculación alguna al sentido del silencio»: puede decirte que sí, aunque sea tarde.",
+    "No. Está invertido. Lo que **no vincula** es el silencio desestimatorio (B). Tras el estimatorio (A) solo cabe resolución confirmatoria."
+   ],
+   "ojo": "Regla para recordarlo: lo que ya te dieron (silencio positivo) no te lo pueden quitar. Lo que no te dieron (silencio negativo) te lo pueden dar todavía."
+  },
+  {
+   "n": 12,
+   "enunciado": "Señale la afirmación FALSA sobre los actos administrativos producidos por silencio administrativo:",
+   "opciones": [
+    "Se pueden hacer valer tanto ante la Administración como ante cualquier persona física o jurídica, pública o privada.",
+    "Solo pueden acreditarse mediante el certificado del silencio: ningún otro medio de prueba sirve.",
+    "Producen efectos desde el vencimiento del plazo máximo para dictar y notificar la resolución, sin que haga falta resolución expresa.",
+    "El certificado se expide de oficio por el órgano competente para resolver, en el plazo de quince días desde que expire el plazo máximo."
+   ],
+   "bloque": "actividad",
+   "precepto": "Art. 24.4 de la Ley 39/2015",
+   "correcta": 1,
+   "justificaciones": [
+    "Es verdadera, así que no se marca. Es el primer inciso del **art. 24.4**: por ejemplo, ante la Guardia Civil que te pregunta qué haces construyendo.",
+    "Esta es la falsa, y por eso es la que hay que marcar. El **art. 24.4** dice que su existencia puede acreditarse por **cualquier medio de prueba** admitido en Derecho, «incluido» el certificado. El certificado es una forma más, no la única.",
+    "Es verdadera, así que no se marca. Lo dice el **art. 24.4**: los efectos arrancan al vencer el plazo, no cuando te dan el certificado.",
+    "Es verdadera, así que no se marca. Es el **art. 24.4**: de oficio, por el órgano que debía resolver, en quince días desde que venció el plazo. Y el interesado puede pedirlo en cualquier momento."
+   ]
+  }
+ ]
+}

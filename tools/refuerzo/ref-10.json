@@ -1,0 +1,228 @@
+{
+ "calendarios": {
+  "cal2026e": {
+   "titulo": "Calendario 2026 (febrero, mayo, junio y agosto)",
+   "year": 2026,
+   "meses": [
+    2,
+    5,
+    6,
+    8
+   ],
+   "festivos": [
+    "2026-05-01",
+    "2026-08-15"
+   ],
+   "nota": "Solo se marcan los festivos nacionales. Los domingos también van en rojo."
+  }
+ },
+ "caso": {
+  "id": "ref-10",
+  "titulo": "Refuerzo nº 10 - Silencio: plazos, suspensión, certificado y recursos (10 preguntas)",
+  "texto": "Doña Marta Ortuño, persona física no obligada a relacionarse electrónicamente con la Administración, solicita al Ministerio de Agricultura autorización para instalar una quesería artesanal. La norma reguladora, un real decreto, no fija plazo máximo para resolver ni dice nada sobre los efectos del silencio. La actividad no afecta al dominio público ni puede dañar el medio ambiente.\nEl viernes 30 de enero de 2026 presentó la solicitud en papel en la oficina de asistencia en materia de registros de la Diputación Provincial de Teruel, que la remitió al Ministerio. La solicitud entró en el registro electrónico del Ministerio el miércoles 4 de febrero.\nSalvo que una pregunta diga otra cosa, el Ministerio no suspendió ni amplió el plazo y no notificó resolución alguna. A efectos de plazos, considere inhábiles solo los sábados, los domingos y los festivos nacionales que aparecen en el calendario."
+ },
+ "preguntas": [
+  {
+   "n": 1,
+   "enunciado": "Sin tener en cuenta posibles suspensiones, ¿cuál es el último día del plazo máximo para resolver y notificar?",
+   "opciones": [
+    "El jueves 30 de abril de 2026.",
+    "El lunes 4 de mayo de 2026.",
+    "El jueves 30 de julio de 2026.",
+    "El martes 4 de agosto de 2026."
+   ],
+   "bloque": "plazos",
+   "precepto": "Arts. 21.3.b) y 30.4 de la Ley 39/2015",
+   "correcta": 1,
+   "justificaciones": [
+    "No. Es contar tres meses desde el 30 de enero, la fecha en que doña Marta entregó el papel en la Diputación. Para el plazo máximo de resolver cuenta la entrada en el registro del organismo competente.",
+    "Es esta. Tres pasos: 1) **Cuánto**: la norma no fija plazo, así que son **tres meses** (**art. 21.3**). 2) **Desde cuándo**: en los procedimientos a solicitud, desde la entrada en el registro electrónico de la Administración competente (**art. 21.3.b**): el 4 de febrero, no el 30 de enero. 3) **Cómo**: de fecha a fecha (**art. 30.4**): 4 de mayo, que es lunes y hábil.",
+    "No. Mezcla dos errores: empieza a contar el 30 de enero y usa seis meses. A falta de plazo en la norma reguladora, son tres meses (art. 21.3).",
+    "No. Cuenta bien desde el 4 de febrero, pero con seis meses. Seis meses es el máximo que puede fijar una norma sin rango de ley, no el plazo por defecto; el plazo por defecto es de **tres** meses (art. 21.3)."
+   ],
+   "ojo": "Plazo por defecto: tres meses. Se cuenta desde la entrada en el registro electrónico del órgano competente, no desde que el interesado entrega el papel en otro registro.",
+   "calendario": "cal2026e"
+  },
+  {
+   "n": 2,
+   "enunciado": "Llegado ese día sin que se haya notificado nada, ¿qué efecto tiene el silencio y desde cuándo produce efectos?",
+   "opciones": [
+    "Desestimatorio. Solo permite a doña Marta interponer los recursos que procedan.",
+    "Estimatorio, pero solo produce efectos desde que el Ministerio expida el certificado del silencio.",
+    "Estimatorio. Es un acto administrativo finalizador del procedimiento y produce efectos desde el vencimiento del plazo, sin necesidad de resolución expresa.",
+    "Caducidad: el Ministerio debe archivar el procedimiento."
+   ],
+   "bloque": "actividad",
+   "precepto": "Art. 24.1, 24.2 y 24.4 de la Ley 39/2015",
+   "correcta": 2,
+   "justificaciones": [
+    "No. El silencio desestimatorio solo se da en las excepciones del art. 24.1. Un real decreto no puede hacer negativo el silencio, y aquí ni siquiera dice nada.",
+    "No. El certificado **acredita** el silencio, pero los efectos nacen al vencer el plazo máximo (**art. 24.4**).",
+    "Es esta. Ninguna excepción del **art. 24.1** encaja (ni petición, ni dominio público, ni medio ambiente, ni responsabilidad patrimonial, ni hay ley en contra): silencio **estimatorio**. Según el **art. 24.2** es acto finalizador, y según el **art. 24.4** produce efectos desde que vence el plazo.",
+    "No. La caducidad es para procedimientos de oficio sancionadores o de gravamen (art. 25.1.b), o para los paralizados por el interesado (art. 95). Aquí no se da ninguno."
+   ]
+  },
+  {
+   "n": 3,
+   "enunciado": "Producido el silencio, ¿hasta qué día tiene el órgano competente para resolver para expedir de oficio el certificado acreditativo del silencio?",
+   "opciones": [
+    "Hasta el martes 19 de mayo de 2026.",
+    "Hasta el viernes 22 de mayo de 2026.",
+    "Hasta el lunes 25 de mayo de 2026.",
+    "Hasta el jueves 4 de junio de 2026."
+   ],
+   "bloque": "plazos",
+   "precepto": "Arts. 24.4, 30.2 y 30.3 de la Ley 39/2015",
+   "correcta": 2,
+   "justificaciones": [
+    "No. Es sumar 15 días **naturales** al 4 de mayo. Salvo que una ley diga otra cosa, los días son hábiles (art. 30.2).",
+    "No. Cuenta como primer día el propio 4 de mayo, el día en que venció el plazo. Los plazos en días empiezan al día siguiente (art. 30.3).",
+    "Es esta. El **art. 24.4** dice que se expide de oficio en el plazo de **quince días** desde que expire el plazo máximo para resolver. Los días se cuentan como hábiles (**art. 30.2**), a partir del día siguiente (**art. 30.3**): del 5 al 8 de mayo (4 días), del 11 al 15 (9), del 18 al 22 (14) y el **25 de mayo** (15).",
+    "No. Es contar veinte días hábiles. El plazo del art. 24.4 es de **quince**."
+   ],
+   "calendario": "cal2026e",
+   "revisar": "Cuento los quince días del art. 24.4 como hábiles (art. 30.2), que es lo habitual en las claves de examen. Si tu profesor los cuenta de otra forma, ajusta la fecha."
+  },
+  {
+   "n": 4,
+   "enunciado": "El martes 12 de mayo, doña Marta pide el certificado del silencio y su petición entra ese día en el registro electrónico del Ministerio. ¿Hasta qué día tiene el órgano competente para expedirlo?",
+   "opciones": [
+    "Hasta el martes 2 de junio de 2026.",
+    "Hasta el miércoles 27 de mayo de 2026.",
+    "Hasta el lunes 1 de junio de 2026.",
+    "Hasta el lunes 25 de mayo de 2026."
+   ],
+   "bloque": "plazos",
+   "precepto": "Arts. 24.4, 30.2 y 30.3 de la Ley 39/2015",
+   "correcta": 0,
+   "justificaciones": [
+    "Es esta. Cuando lo pide el interesado, los quince días se cuentan «desde el día siguiente a aquel en que la petición tuviese entrada en el registro electrónico» (**art. 24.4**). Hábiles, desde el 13 de mayo: del 13 al 15 (3 días), del 18 al 22 (8), del 25 al 29 (13), el 1 de junio (14) y el **2 de junio** (15).",
+    "No. Son quince días naturales desde el 13 de mayo. Los días son hábiles salvo que una ley diga otra cosa (art. 30.2).",
+    "No. Cuenta el propio 12 de mayo como primer día. El plazo empieza al día siguiente de la entrada de la petición.",
+    "No. Esa fecha es la del certificado de **oficio** (quince días desde el vencimiento del plazo, pregunta anterior). Si lo pide el interesado, los quince días cuentan desde su petición."
+   ],
+   "ojo": "Dos relojes distintos: de oficio, quince días desde que vence el plazo para resolver. A petición, quince días desde el día siguiente a la entrada de la petición.",
+   "calendario": "cal2026e",
+   "revisar": "Cuento los quince días del art. 24.4 como hábiles (art. 30.2), que es lo habitual en las claves de examen. Si tu profesor los cuenta de otra forma, ajusta la fecha."
+  },
+  {
+   "n": 5,
+   "enunciado": "Imagina que una ley hubiera dispuesto que, en esta autorización, el silencio es desestimatorio, y que doña Marta no ha recurrido. ¿Qué plazos tiene para recurrir contra el acto presunto?",
+   "opciones": [
+    "Un mes para la alzada y dos meses para el contencioso, contados desde el 4 de mayo.",
+    "El recurso de alzada, en cualquier momento a partir del día siguiente a aquel en que se produzcan los efectos del silencio. El contencioso-administrativo, en seis meses contados desde ese mismo día siguiente.",
+    "Ninguno: contra el silencio desestimatorio no cabe recurso porque no hay acto que recurrir.",
+    "Tres meses para la alzada, el mismo tiempo que tiene la Administración para resolverla, y seis meses para el contencioso."
+   ],
+   "bloque": "recursos",
+   "precepto": "Art. 122.1 de la Ley 39/2015 y art. 46.1 de la Ley 29/1998",
+   "correcta": 1,
+   "justificaciones": [
+    "No. Un mes y dos meses son los plazos con acto **expreso**. Con acto presunto cambian.",
+    "Es esta. **Art. 122.1** de la Ley 39/2015: si el acto no es expreso, la alzada se puede interponer «en cualquier momento» a partir del día siguiente a aquel en que se produzcan los efectos del silencio. **Art. 46.1** de la Ley 29/1998: contra un acto presunto el recurso contencioso-administrativo tiene seis meses, también desde el día siguiente.",
+    "No. El **art. 24.2** dice justo lo contrario: la desestimación por silencio tiene el efecto de «permitir» la interposición del recurso que proceda.",
+    "No. Tres meses es el plazo que tiene la **Administración** para resolver la alzada (art. 122.2), no el que tiene el interesado para interponerla."
+   ],
+   "ojo": "Acto expreso: alzada un mes, contencioso dos meses. Acto presunto: alzada sin plazo concreto, contencioso seis meses.",
+   "revisar": "El plazo de seis meses del contencioso contra acto presunto viene del art. 46.1 de la Ley 29/1998, que ya está en tus apuntes de LJCA. Los recursos (art. 112 en adelante) aún no están en los apuntes del profesor."
+  },
+  {
+   "n": 6,
+   "enunciado": "Imagina que, en lugar de callar, el jueves 28 de mayo de 2026 se notifica a doña Marta una resolución expresa denegatoria que no pone fin a la vía administrativa. ¿Hasta qué día puede interponer recurso de alzada?",
+   "opciones": [
+    "Hasta el viernes 26 de junio de 2026.",
+    "Hasta el domingo 28 de junio de 2026.",
+    "Hasta el lunes 29 de junio de 2026.",
+    "Hasta el martes 30 de junio de 2026."
+   ],
+   "bloque": "plazos",
+   "precepto": "Arts. 122.1, 30.4 y 30.5 de la Ley 39/2015",
+   "correcta": 2,
+   "justificaciones": [
+    "No. Si el último día es inhábil, el plazo **no se acorta** al hábil anterior: se prorroga al siguiente (art. 30.5).",
+    "No. El 28 de junio es la fecha de fecha a fecha, pero es domingo, inhábil: el plazo se prorroga al lunes (art. 30.5).",
+    "Es esta. El plazo de la alzada con acto expreso es de **un mes** (**art. 122.1**). Los meses se cuentan de fecha a fecha desde el día siguiente a la notificación (**art. 30.4**): vence el 28 de junio, que es domingo. Si el último día es inhábil, el plazo se prorroga al primer día hábil siguiente (**art. 30.5**): el **lunes 29**.",
+    "No. Añade un día de más: si el último día es inhábil, el plazo se prorroga al **primer** día hábil siguiente (art. 30.5), que es el lunes 29."
+   ],
+   "calendario": "cal2026e"
+  },
+  {
+   "n": 7,
+   "enunciado": "Imagina que el 9 de marzo el Ministerio hubiera pedido un informe preceptivo a otro órgano de la Administración, lo hubiera comunicado a doña Marta y hubiera decidido suspender el plazo para resolver. El informe no llega. ¿Qué es correcto?",
+   "opciones": [
+    "La suspensión dura desde la petición hasta la recepción del informe, y no puede exceder de tres meses: si el informe no llega, el procedimiento prosigue.",
+    "La suspensión dura hasta que llegue el informe, sea cuando sea, porque es preceptivo.",
+    "La suspensión no puede exceder de dos meses; pasado ese tiempo se entiende emitido el informe.",
+    "Los informes preceptivos no suspenden el plazo: el Ministerio tiene que resolver sin ellos."
+   ],
+   "bloque": "plazos",
+   "precepto": "Art. 22.1.d) de la Ley 39/2015",
+   "correcta": 0,
+   "justificaciones": [
+    "Es esta. **Art. 22.1.d**: el plazo se podrá suspender por el tiempo que medie entre la petición del informe preceptivo (que se comunica a los interesados) y su recepción (que también se comunica), y esa suspensión «no podrá exceder en ningún caso de tres meses». Si no llega, proseguirá el procedimiento.",
+    "No. Que el informe sea preceptivo no hace la suspensión ilimitada: el tope es de **tres meses** (art. 22.1.d).",
+    "No. El máximo es de tres meses, no de dos, y lo que ocurre al pasar el tiempo es que **el procedimiento prosigue**, no que el informe se entienda emitido.",
+    "No. El art. 22.1.d prevé justo esa suspensión (con el límite de tres meses)."
+   ]
+  },
+  {
+   "n": 8,
+   "enunciado": "Imagina que el lunes 9 de marzo el Ministerio requiere a doña Marta para que aporte un documento necesario y se lo notifica ese mismo día. ¿Qué es correcto sobre el plazo máximo para resolver?",
+   "opciones": [
+    "Se suspende automáticamente, sin que el Ministerio tenga que decidirlo.",
+    "Se suspende diez días naturales fijos, haya cumplido doña Marta antes o después.",
+    "No se suspende nunca: el plazo máximo para resolver corre aunque falte documentación.",
+    "El Ministerio puede suspenderlo por el tiempo que medie entre la notificación del requerimiento y su cumplimiento, o, si no lo cumple, por el del plazo concedido."
+   ],
+   "bloque": "plazos",
+   "precepto": "Art. 22.1.a) y 22.2 de la Ley 39/2015",
+   "correcta": 3,
+   "justificaciones": [
+    "No. En el art. 22.1 el verbo es «se podrá suspender»: es **facultativo**. Se suspende automáticamente («se suspenderá») solo en los casos del art. 22.2 (requerir a otra Administración que anule un acto ilegal, actuaciones complementarias y recusación).",
+    "No. La suspensión dura lo que medie entre la notificación y el cumplimiento (o el plazo concedido), no una cifra fija.",
+    "No. El art. 22.1.a lo prevé expresamente.",
+    "Es esta. **Art. 22.1.a**: el plazo máximo «se podrá suspender» cuando deba requerirse al interesado para subsanar o aportar documentos, desde la notificación del requerimiento hasta su efectivo cumplimiento o, si no lo cumple, hasta que acabe el plazo que se le dio."
+   ],
+   "ojo": "«Se podrá suspender» (22.1) es facultativo. «Se suspenderá» (22.2) es obligatorio. Es de esas diferencias de una palabra que ponen en los test."
+  },
+  {
+   "n": 9,
+   "enunciado": "Imagina que el Ministerio agota sus medios personales y materiales y quiere ampliar el plazo máximo para resolver. ¿Qué es correcto?",
+   "opciones": [
+    "Puede ampliarlo todo lo que haga falta, siempre que lo motive.",
+    "Puede acordarlo de manera motivada y excepcionalmente, la ampliación no puede ser superior al plazo establecido para tramitar el procedimiento, y contra el acuerdo no cabe recurso alguno.",
+    "Puede ampliarlo hasta el plazo establecido, y contra el acuerdo cabe recurso de alzada.",
+    "No puede ampliarlo: la Administración solo puede suspender el plazo, nunca ampliarlo."
+   ],
+   "bloque": "plazos",
+   "precepto": "Art. 23 de la Ley 39/2015",
+   "correcta": 1,
+   "justificaciones": [
+    "No. Tiene un tope: no puede ser superior al plazo establecido para tramitar el procedimiento (art. 23.1).",
+    "Es esta. **Art. 23**: la ampliación es excepcional, solo cuando se han agotado los medios del art. 21.5, el acuerdo es **motivado**, no puede superar el plazo establecido para el procedimiento, se notifica a los interesados y contra él **no cabe recurso**. Como en los arts. 32 y 33, es una cuestión incidental.",
+    "No. El **art. 23.2** dice que contra el acuerdo que resuelva sobre la ampliación «no cabrá recurso alguno».",
+    "No. Son dos figuras distintas: suspensión (art. 22) y ampliación (art. 23)."
+   ]
+  },
+  {
+   "n": 10,
+   "enunciado": "Imagina que una ley hubiera dispuesto que el silencio es desestimatorio, y que el lunes 11 de mayo de 2026 doña Marta interpone recurso de alzada, que entra ese día en el registro electrónico del órgano competente para resolverlo. ¿Hasta qué día tiene este órgano para resolver y notificar, y qué ocurre si no lo hace?",
+   "opciones": [
+    "Hasta el martes 11 de agosto de 2026. Si no lo hace, el recurso se entiende estimado (doble silencio), porque la autorización no es una de las materias excluidas.",
+    "Hasta el jueves 11 de junio de 2026 (un mes). Si no lo hace, se entiende desestimado.",
+    "Hasta el martes 11 de agosto de 2026. Si no lo hace, el recurso se entiende desestimado, porque en los recursos el silencio es siempre negativo.",
+    "Hasta el miércoles 11 de noviembre de 2026 (seis meses). Si no lo hace, se entiende estimado."
+   ],
+   "bloque": "recursos",
+   "precepto": "Arts. 122.2, 24.1 y 21.3.b) de la Ley 39/2015",
+   "correcta": 0,
+   "justificaciones": [
+    "Es esta. Plazo de resolución de la alzada: **tres meses** (**art. 122.2**), de fecha a fecha desde la entrada del recurso en el registro del órgano competente (art. 21.3.b): 11 de agosto. Como se recurre una desestimación **por silencio** y la quesería no es petición, dominio o servicio público, medio ambiente ni responsabilidad patrimonial, el silencio de la alzada es **positivo** (art. 24.1, tercer párrafo).",
+    "No. Un mes es el plazo de resolución del recurso de **reposición** (art. 124.2). El de alzada es de tres.",
+    "No. Acierta con la fecha, pero falla el efecto. En los recursos el silencio es negativo **salvo** el doble silencio (alzada contra desestimación por silencio, fuera de los cuatro casos).",
+    "No. Seis meses es el plazo máximo general para los procedimientos, no el de la alzada (art. 122.2: tres meses)."
+   ],
+   "calendario": "cal2026e"
+  }
+ ]
+}
