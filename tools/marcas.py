@@ -1,6 +1,6 @@
 """Lo que el profesor marca en Fuentes_Derecho_y_Ley39_fuente.html como muy preguntado, estrella o poco preguntado.
 
-Los apuntes del profesor todavía no están completos: llegan a Fuentes del Derecho y a la Ley 39/2015 hasta el art. 111 (la revisión de oficio). Falta desde el art. 112 (recursos).
+Los apuntes del profesor están completos: Fuentes del Derecho y la Ley 39/2015 entera (arts. 1 a 133 y disposiciones).
 Cuando se actualice el HTML, se añaden aquí las marcas nuevas y se vuelve a ejecutar tools/construir.py.
 
 Cada marca se ata a artículos de una norma concreta (Ley 39/2015, Código Civil, Constitución o Ley 50/1997 del Gobierno).
@@ -30,7 +30,7 @@ MARCAS = [
     ("clave", "CE", "82.1", "Primera pregunta de examen de los decretos legislativos."),
     ("clave", "CE", "82.2", "La pregunta de examen principal del apartado: ley de bases o ley ordinaria, según el texto que vaya a hacer el Gobierno."),
     ("clave", "CE", "86.2", "Datos de examen de la convalidación de los decretos-leyes por el Congreso."),
-    ("poco", "L50", "26", "En clase se saltó: el profesor dice que el procedimiento de elaboración de normas no es de lo más habitual en el examen."),
+    ("poco", "L50", "26", "En clase se saltó y se retomó al llegar al art. 133 de la Ley 39/2015: el profesor dice que el procedimiento de elaboración de normas no es de lo más habitual en el examen."),
 
     # ---------- Ley 39/2015 ----------
     ("clave", "L39", "1.2", "Muy preguntado: qué solo puede hacer una ley y qué puede hacer un reglamento con el procedimiento."),
@@ -67,6 +67,20 @@ MARCAS = [
     ("clave", "L39", "106.5", "Marcado como IMP: seis meses. De oficio caduca; a solicitud del interesado se entiende desestimada."),
     ("clave", "L39", "107.2", "Pregunta de examen: la lesividad no puede declararse pasados 4 años desde que se dictó el acto. Y la declaración de lesividad no es recurrible (marcado como IMP)."),
     ("poco", "L39", "110", "Anotación del profesor: «No lo preguntan mucho»."),
+
+    # ---------- Ley 39/2015, arts. 112 a 133 (recursos administrativos e iniciativa legislativa y potestad reglamentaria) ----------
+    ("estrella", "L39", "114", "«Artículo estrella» del capítulo de recursos: qué actos ponen fin a la vía administrativa. Y poner fin a la vía administrativa no es ser firme. Trampa típica: el acto de un Director General solo pone fin a la vía si es en materia de personal."),
+    ("clave", "L39", "112.2", "Marcado como IMP: solo una ley puede sustituir la alzada o la reposición, con órganos colegiados no sometidos a instrucciones jerárquicas."),
+    ("clave", "L39", "112.4", "Pregunta que sale: las reclamaciones económico-administrativas se rigen por su legislación específica."),
+    ("clave", "L39", "115.2, 115.3", "Marcado como IMP y pregunta «regalo»: el error o la ausencia de calificación del recurso no impide tramitarlo; y quien causa un vicio no puede alegarlo."),
+    ("clave", "L39", "118.3", "Marcado como IMP: no son documentos nuevos el recurso, los informes, las propuestas ni lo aportado antes de la resolución."),
+    ("poco", "L39", "120", "Anotación del profesor: artículo «muy poco importante»."),
+    ("clave", "L39", "122", "Marcado como IMP: la alzada, 1 mes para interponerla, 3 meses para resolver, y contra su resolución solo cabe el extraordinario de revisión."),
+    ("clave", "L39", "125.1", "Marcado como IMP: el extraordinario de revisión se presenta ante el órgano que dictó el acto, que también lo resuelve."),
+    ("clave", "L39", "126", "Marcado como IMP: se puede inadmitir sin dictamen del Consejo de Estado, y a los 3 meses sin resolución se entiende desestimado."),
+    ("clave", "L39", "128.2", "Clara pregunta de examen: lo que un reglamento no puede hacer (tipificar infracciones, establecer sanciones, tributos ni prestaciones públicas)."),
+    ("clave", "L39", "129", "Pregunta de examen: los seis principios de buena regulación. Ojo a que eficacia no es eficiencia."),
+    ("clave", "L39", "133.4", "Clara pregunta de examen: cuándo se puede prescindir de la consulta, la audiencia y la información públicas y cuándo se omite solo la consulta."),
 ]
 
 BLOQUES_L39 = {"interesados", "actividad", "plazos", "actos", "nulidad", "iniciacion", "instruccion",

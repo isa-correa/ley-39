@@ -9,7 +9,7 @@
   "No. Los Subsecretarios no aparecen en la lista junto a Ministros y Secretarios de Estado. Te han cambiado “Secretarios de Estado” por “Subsecretarios”. Con carácter general, los actos de un Subsecretario no agotan la vía, salvo los de personal por la letra c).",
   "No. Te han bajado el nivel: el **art. 114.2.c)** habla de “Director general o superior”, no de Subdirector general."
  ],
- "ojo": "Para recordarlo: Ministros y Secretarios de Estado en todas sus competencias; Director general o superior, solo en personal."
+ "ojo": "Para recordarlo: Ministros y Secretarios de Estado en todas sus competencias; Director general o superior, solo en personal. En clase: el profesor lo llama «artículo estrella». Poner fin a la vía administrativa no es ser firme: si el acto pone fin, ya se puede ir al juez (o poner el potestativo de reposición); si no pone fin, hay que poner antes la alzada."
 },
 "au-23-002": {
  "bloque": "recursos",
@@ -20,7 +20,8 @@
   "Es esta. El **art. 116.c)** recoge como causa de inadmisión “tratarse de un acto no susceptible de recurso”. Inadmitir es rechazar el recurso sin entrar a estudiar el fondo.",
   "No. Te han dado la vuelta a la frase. La causa es que el plazo **haya transcurrido** (art. 116.d), no que siga abierto. Si el plazo no ha expirado, recurres a tiempo.",
   "No. No vale “cualquier órgano”. Solo se inadmite por incompetencia si el órgano competente pertenece a **otra Administración Pública**, y aun así el recurso debe remitirse al competente (art. 116.a)."
- ]
+ ],
+ "ojo": "En clase: un acto no susceptible de recurso es, por ejemplo, una ampliación de plazos, una acumulación o la tramitación de urgencia."
 },
 "au-23-003": {
  "bloque": "recursos",
@@ -31,7 +32,8 @@
   "No. En el recurso de alzada resuelve el superior jerárquico, no quien dictó el acto (art. 121.1). Solo coinciden en la reposición, así que esta opción no sirve como regla.",
   "No. Importa quién resuelve, no a quién se dirige. Por ejemplo, una alzada puede presentarse ante el órgano que dictó el acto (art. 121.2), pero ese órgano no la resuelve ni decide la suspensión.",
   "No. Sube un escalón de más. Decide el propio órgano competente para resolver, no su superior."
- ]
+ ],
+ "ojo": "En clase: decide la suspensión el órgano que resuelve el recurso, no el que dictó el acto, tras ponderar el perjuicio al interés público o a terceros frente al que sufre el recurrente. Ejemplo: has construido una tercera planta donde la ordenanza solo permite dos y te mandan derribarla; si recurres y no se suspende, la derriban, y si luego te dan la razón el perjuicio es de difícil reparación."
 },
 "au-23-004": {
  "bloque": "recursos",
@@ -42,7 +44,8 @@
   "No. El vicio de forma no está entre las causas de inadmisión del art. 116. Además, el recurso ya se está resolviendo, no está en la entrada a trámite.",
   "Es esta. El **art. 119.2** ordena la “retroacción” del procedimiento al momento en que se cometió el vicio. Retroacción significa volver a ese punto y repetir desde ahí lo que se hizo mal.",
   "No. La convalidación es solo una posibilidad eventual y la acuerda el órgano competente según el art. 52, que se refiere a actos anulables. No es lo que se ordena como regla, y “con independencia del motivo” es falso."
- ]
+ ],
+ "ojo": "En clase: ejemplo de la cámara de la calle. En un sancionador pediste como prueba la grabación para demostrar que no te saltaste el semáforo y te la denegaron. Quien resuelve el recurso no puede decidir el fondo sin esa prueba: ordena la retroacción al momento en que se denegó, se practica y se dicta nueva resolución."
 },
 "au-23-005": {
  "bloque": "recursos",
@@ -54,7 +57,7 @@
   "No. No tiene que ser siempre el BOE. Es el mismo periódico oficial en que se publicó el acto, que puede ser, por ejemplo, un boletín autonómico.",
   "No. El art. 117 no contiene ese límite de la “fase de iniciación”. Además, aquí ya estamos en vía de recurso."
  ],
- "ojo": "La trampa es el BOE: el boletín correcto es “el mismo en que se publicó el acto”."
+ "ojo": "La trampa es el BOE: el boletín correcto es “el mismo en que se publicó el acto”. En clase: si alguien impugna las bases de una convocatoria de oposiciones y se suspenden, la suspensión se publica en el mismo boletín en que se publicó el acto (el BOE si era del Estado, el de la Comunidad Autónoma si era suya)."
 },
 "au-23-006": {
  "bloque": "recursos",
@@ -66,7 +69,7 @@
   "Es verdadera, así que no se marca. Es el art. 119.1 casi al pie de la letra: estimar en todo o en parte, desestimar o inadmitir.",
   "Es verdadera, así que no se marca. Lo dice el art. 119.3. Si la cuestión no la alegaron los interesados, antes hay que oírlos."
  ],
- "ojo": "Te han colado “excepcionalmente” donde la ley dice “en ningún caso”."
+ "ojo": "Te han colado “excepcionalmente” donde la ley dice “en ningún caso”. En clase: es la prohibición de la reformatio in peius: el recurso no puede dejarte peor que antes. Pediste dos pozos y te autorizaron uno; recurres por el segundo y no te pueden quitar el primero. Es la misma idea que el art. 88.2 para el procedimiento principal."
 },
 "au-23-007": {
  "bloque": "recursos",
@@ -77,7 +80,8 @@
   "No. Es cierto que quince es el máximo, pero falta el mínimo de diez días.",
   "No. El mínimo de diez es correcto, pero el máximo es de quince días, no de treinta.",
   "Es esta. El **art. 118.1** da a los interesados un plazo “no inferior a diez días ni superior a quince” para alegar y presentar documentos. Fíjate en la horquilla: de 10 a 15 días."
- ]
+ ],
+ "ojo": "En clase: el procedimiento de recurso es más jurídico que el principal y normalmente no hay documentos nuevos ni pruebas. Solo si hay hechos o documentos nuevos se da audiencia, de 10 a 15 días. No se tiene en cuenta lo que pudiste aportar en el trámite de alegaciones y no aportaste."
 },
 "au-23-008": {
  "bloque": "recursos",
@@ -89,7 +93,7 @@
   "No. La medida cautelar es precisamente un requisito. Sin ella, esta regla no se aplica.",
   "No. No basta con que exista la medida cautelar: sus efectos tienen que extenderse a la vía contencioso-administrativa. Esta opción dice justo lo contrario."
  ],
- "ojo": "El mismo artículo añade otro caso: si el interesado va al contencioso y pide la suspensión, esta se mantiene hasta que el juez se pronuncie sobre esa petición."
+ "ojo": "El mismo artículo añade otro caso: si el interesado va al contencioso y pide la suspensión, esta se mantiene hasta que el juez se pronuncie sobre esa petición. En clase: junto a la suspensión se pueden adoptar medidas cautelares (por ejemplo, que la discoteca solo abra la sala más interior mientras se resuelve). Si la suspensión puede causar perjuicios, solo produce efectos previa caución, que es una fianza."
 },
 "au-23-009": {
  "bloque": "recursos",
@@ -100,7 +104,8 @@
   "Es esta. El **art. 118.1** dice que no se tendrán en cuenta los hechos, documentos o alegaciones del recurrente “cuando habiendo podido aportarlos en el trámite de alegaciones no lo haya hecho”. Quien pudo presentarlos a tiempo y no lo hizo pierde esa oportunidad.",
   "No. Lo que excluye la ley no es que lleguen después, sino que **pudieran haberse aportado antes** y no se aportaran. Un documento que no se podía aportar antes sí puede valorarse.",
   "No. El art. 118.1 sí pone un límite, el de quien pudo aportarlos en alegaciones y no lo hizo. Por eso no se tiene en cuenta “todo”."
- ]
+ ],
+ "ojo": "En clase: el procedimiento de recurso es más jurídico que el principal y normalmente no hay documentos nuevos ni pruebas. Solo si hay hechos o documentos nuevos se da audiencia, de 10 a 15 días. No se tiene en cuenta lo que pudiste aportar en el trámite de alegaciones y no aportaste."
 },
 "au-23-010": {
  "bloque": "recursos",
@@ -111,7 +116,8 @@
   "No. Los gastos no impiden pedir la prueba. Según el art. 78.3, la Administración puede exigir que el interesado los adelante, pero la prueba se puede solicitar.",
   "No. La ley no pone ese límite. El límite depende de que la falta de la prueba sea imputable al interesado, y una prueba que le denegaron no se dejó de hacer por su culpa.",
   "No. El art. 118.1 sí establece una limitación: la de la opción primera."
- ]
+ ],
+ "ojo": "En clase: el procedimiento de recurso es más jurídico que el principal y normalmente no hay documentos nuevos ni pruebas. Solo si hay hechos o documentos nuevos se da audiencia, de 10 a 15 días. No se tiene en cuenta lo que pudiste aportar en el trámite de alegaciones y no aportaste."
 },
 "au-23-011": {
  "bloque": "recursos",
@@ -123,7 +129,7 @@
   "Pone fin a la vía, así que no es la respuesta. Es el art. 114.1.a): tras resolverse una alzada ya no cabe otra alzada.",
   "Pone fin a la vía, así que no es la respuesta. Es el art. 114.1.d): los acuerdos, pactos, convenios o contratos que tengan la consideración de finalizadores del procedimiento."
  ],
- "ojo": "La trampa está en dos palabras: “en todo caso” sustituye a “salvo que una Ley establezca lo contrario”."
+ "ojo": "La trampa está en dos palabras: “en todo caso” sustituye a “salvo que una Ley establezca lo contrario”. En clase: el profesor lo llama «artículo estrella». Poner fin a la vía administrativa no es ser firme: si el acto pone fin, ya se puede ir al juez (o poner el potestativo de reposición); si no pone fin, hay que poner antes la alzada."
 },
 "au-23-012": {
  "bloque": "recursos",
@@ -146,7 +152,7 @@
   "Es causa de inadmisión, así que no se marca. Es el art. 116.b).",
   "Es causa de inadmisión, así que no se marca. Es el art. 116.e)."
  ],
- "ojo": "Las cinco causas del art. 116: incompetencia a favor de otra Administración, falta de legitimación, acto no recurrible, plazo vencido y falta manifiesta de fundamento."
+ "ojo": "Las cinco causas del art. 116: incompetencia a favor de otra Administración, falta de legitimación, acto no recurrible, plazo vencido y falta manifiesta de fundamento. En clase: si el competente es de la misma Administración (presentas el recurso al Secretario de Estado de Hacienda y era el Ministro), no se inadmite: se remite al competente. Solo se inadmite si el competente es de otra Administración (lo presentas al Estado y era un ayuntamiento)."
 },
 "au-23-014": {
  "bloque": "recursos",
@@ -157,7 +163,8 @@
   "No. “En todo caso” es falso, porque una ley puede establecer lo contrario.",
   "No. Le han dado la vuelta a la regla. Por norma general sí ponen fin a la vía; la excepción es que una ley diga otra cosa.",
   "No. Es lo contrario de lo que dice el art. 114.1.c): como regla general, sí ponen fin a la vía."
- ]
+ ],
+ "ojo": "En clase: el profesor lo llama «artículo estrella». Poner fin a la vía administrativa no es ser firme: si el acto pone fin, ya se puede ir al juez (o poner el potestativo de reposición); si no pone fin, hay que poner antes la alzada."
 },
 "au-23-015": {
  "bloque": "recursos",
@@ -180,7 +187,8 @@
   "No. El art. 122.3 lo descarta: no cabe ningún otro recurso administrativo salvo el de revisión, y la reposición no es la excepción.",
   "No. No existe una segunda alzada. La ley lo cierra con “ningún otro recurso administrativo”.",
   "No. La resolución de una alzada siempre pone fin a la vía administrativa (art. 114.1.a), así que esta condición no diferencia nada. Y aun así la única excepción es la revisión."
- ]
+ ],
+ "ojo": "En clase: el profesor lo marca como IMP. Alzada: 1 mes para interponerla si el acto es expreso (si pasa, la resolución es firme a todos los efectos: ni alzada ni vía judicial), y cualquier momento si no lo es; 3 meses para resolver; y contra su resolución no cabe ningún otro recurso administrativo, salvo el extraordinario de revisión. La alzada es obligatoria porque el acto no pone fin a la vía administrativa: si no la pones, no puedes ir al juez. El doble silencio estimatorio solo existe si la alzada se pone contra un acto presunto, y nunca en los cuatro casos del art. 24."
 },
 "au-24-004": {
  "bloque": "recursos",
@@ -191,7 +199,8 @@
   "No. Mezcla dos cosas. El tipo de acto (expreso o no) influye en el plazo para interponer, no en el de resolver. Y tres meses es el plazo para resolver la alzada.",
   "No. Tres meses es el plazo máximo para resolver la **alzada** (art. 122.2), no la reposición.",
   "No. La ley no fija dos meses para resolver este recurso: el plazo es de un mes."
- ]
+ ],
+ "ojo": "En clase: mes 1, reposición o contencioso; mes 2, solo contencioso. La reposición se resuelve en 1 mes (el mismo órgano ya conoce el asunto) y, a diferencia de la alzada, no tiene doble silencio: el silencio es siempre desestimatorio. Contra su resolución no se puede volver a poner reposición."
 },
 "au-24-005": {
  "bloque": "recursos",
@@ -203,7 +212,7 @@
   "Es esta. El **art. 123.2** dice que no se podrá ir al contencioso hasta que la reposición “sea resuelto expresamente” o se haya producido su desestimación presunta. La desestimación presunta es la que entiendes producida por silencio, si la Administración no contesta a tiempo.",
   "No. No hay un plazo de dos meses en este artículo. Lo que manda es que se resuelva la reposición o haya desestimación presunta."
  ],
- "ojo": "La reposición es voluntaria, pero si la eliges tienes que esperar a que termine antes de ir al juzgado. No se pueden tener las dos vías abiertas a la vez."
+ "ojo": "La reposición es voluntaria, pero si la eliges tienes que esperar a que termine antes de ir al juzgado. No se pueden tener las dos vías abiertas a la vez. En clase: la reposición la resuelve el mismo órgano que ya te dijo que no, pero es gratis; el contencioso lo decide un juez imparcial, pero hace falta abogado y cuesta dinero. No se pueden llevar las dos vías a la vez: no se puede ir al contencioso hasta que se resuelva expresamente la reposición o se desestime por silencio."
 },
 "au-24-006": {
  "bloque": "recursos",
@@ -215,7 +224,7 @@
   "No. Si el acto es expreso, el plazo es de un mes. Tres meses es el plazo máximo para **resolver** la alzada (art. 122.2).",
   "No. Si el acto es presunto, no hay plazo fijo: el recurso se puede presentar en cualquier momento a partir del día siguiente a los efectos del silencio."
  ],
- "ojo": "No confundas: un mes para interponer, tres meses para resolver."
+ "ojo": "No confundas: un mes para interponer, tres meses para resolver. En clase: el profesor lo marca como IMP. Alzada: 1 mes para interponerla si el acto es expreso (si pasa, la resolución es firme a todos los efectos: ni alzada ni vía judicial), y cualquier momento si no lo es; 3 meses para resolver; y contra su resolución no cabe ningún otro recurso administrativo, salvo el extraordinario de revisión. La alzada es obligatoria porque el acto no pone fin a la vía administrativa: si no la pones, no puedes ir al juez. El doble silencio estimatorio solo existe si la alzada se pone contra un acto presunto, y nunca en los cuatro casos del art. 24."
 },
 "au-24-007": {
  "bloque": "recursos",
@@ -226,7 +235,8 @@
   "No. El “recurso extraordinario de reposición” no existe. Lo extraordinario es la **revisión**, y además aquí sí cabe la reposición ordinaria.",
   "Es esta. Esa resolución pone fin a la vía administrativa, salvo que una ley diga lo contrario (**art. 114.1.c**). Y los actos que ponen fin a la vía pueden recurrirse en reposición ante el mismo órgano que los dictó (**art. 123.1**), o llevarse directamente al contencioso.",
   "No. La frase “no, salvo la revisión” es la regla de la resolución de una **alzada** (art. 122.3). Aquí cabe además la reposición, que es potestativa, es decir, voluntaria."
- ]
+ ],
+ "ojo": "En clase: el profesor lo llama «artículo estrella». Poner fin a la vía administrativa no es ser firme: si el acto pone fin, ya se puede ir al juez (o poner el potestativo de reposición); si no pone fin, hay que poner antes la alzada. En clase: la reposición la resuelve el mismo órgano que ya te dijo que no, pero es gratis; el contencioso lo decide un juez imparcial, pero hace falta abogado y cuesta dinero. No se pueden llevar las dos vías a la vez: no se puede ir al contencioso hasta que se resuelva expresamente la reposición o se desestime por silencio."
 },
 "au-24-008": {
  "bloque": "recursos",
@@ -237,7 +247,8 @@
   "No. La palabra “solo” lo estropea: antes de ir al contencioso puedes elegir la reposición, porque es voluntaria.",
   "No. También lo estropea “solo”. La revisión es un recurso extraordinario para actos firmes y causas tasadas (art. 125.1), no la vía normal.",
   "Es esta. El **art. 123.1** te da dos caminos a elegir: reposición ante el mismo órgano o ir directamente al contencioso-administrativo. Por eso se llama “potestativo”: tú decides si lo usas."
- ]
+ ],
+ "ojo": "En clase: la reposición la resuelve el mismo órgano que ya te dijo que no, pero es gratis; el contencioso lo decide un juez imparcial, pero hace falta abogado y cuesta dinero. No se pueden llevar las dos vías a la vez: no se puede ir al contencioso hasta que se resuelva expresamente la reposición o se desestime por silencio."
 },
 "au-24-009": {
  "bloque": "recursos",
@@ -248,7 +259,8 @@
   "Es esta. El **art. 124.1** fija un mes si el acto es expreso. Acto expreso es el que la Administración dicta de verdad, por escrito, frente al presunto, que resulta del silencio.",
   "No. Un mes es para el acto expreso. Si el acto es presunto, se puede recurrir en cualquier momento a partir del día siguiente a aquel en que se produzca.",
   "No. Si el acto es presunto, no hay plazo de tres meses: la ley dice “en cualquier momento”."
- ]
+ ],
+ "ojo": "En clase: mes 1, reposición o contencioso; mes 2, solo contencioso. La reposición se resuelve en 1 mes (el mismo órgano ya conoce el asunto) y, a diferencia de la alzada, no tiene doble silencio: el silencio es siempre desestimatorio. Contra su resolución no se puede volver a poner reposición."
 },
 "au-24-010": {
  "bloque": "recursos",
@@ -259,7 +271,8 @@
   "No. Ninguno de los dos cabe. La alzada es para actos que no ponen fin a la vía, y la reposición no se puede repetir.",
   "Es esta. El **art. 124.3** dice literalmente que “no podrá interponerse de nuevo dicho recurso”. La reposición se usa una sola vez; después queda el contencioso.",
   "No. La reposición se dirige contra actos que ya ponen fin a la vía administrativa (art. 123.1), así que la alzada no tiene cabida."
- ]
+ ],
+ "ojo": "En clase: mes 1, reposición o contencioso; mes 2, solo contencioso. La reposición se resuelve en 1 mes (el mismo órgano ya conoce el asunto) y, a diferencia de la alzada, no tiene doble silencio: el silencio es siempre desestimatorio. Contra su resolución no se puede volver a poner reposición."
 },
 "au-24-011": {
  "bloque": "recursos",
@@ -271,7 +284,7 @@
   "No. Parece lo mismo, pero no lo es. Un plazo en meses va de fecha a fecha (art. 30.4), y uno en días excluye sábados, domingos y festivos (art. 30.2).",
   "Es esta. El **art. 124.2** fija el plazo máximo en “un mes”, para dictar y también para notificar la resolución."
  ],
- "ojo": "Un mes no son 30 días: cambia la manera de contar. Por eso “30 días” es incorrecta."
+ "ojo": "Un mes no son 30 días: cambia la manera de contar. Por eso “30 días” es incorrecta. En clase: mes 1, reposición o contencioso; mes 2, solo contencioso. La reposición se resuelve en 1 mes (el mismo órgano ya conoce el asunto) y, a diferencia de la alzada, no tiene doble silencio: el silencio es siempre desestimatorio. Contra su resolución no se puede volver a poner reposición."
 },
 "au-24-012": {
  "bloque": "recursos",
@@ -282,7 +295,8 @@
   "No. Tres meses es el plazo del órgano competente para resolver (art. 122.2), no el del órgano que dictó el acto.",
   "No. La ley permite presentar la alzada ante este órgano (art. 121.2), así que no puede inadmitirla por eso. Debe enviarla.",
   "Es esta. El **art. 121.2** obliga a remitir el recurso al competente en diez días, con informe y copia completa y ordenada del expediente. El titular del órgano responde directamente de que se cumpla."
- ]
+ ],
+ "ojo": "En clase: la alzada se puede presentar ante el órgano que dictó el acto o ante el competente para resolverla, pero la resuelve siempre el superior jerárquico. Si se presenta ante el primero, este la remite en 10 días con su informe y una copia completa y ordenada del expediente, y su titular es responsable directo de que se cumpla."
 },
 "au-24-013": {
  "bloque": "recursos",
@@ -293,7 +307,8 @@
   "Es esta. El **art. 124.1** lo dice así: “únicamente podrá interponerse recurso contencioso-administrativo”, sin perjuicio, en su caso, del extraordinario de revisión. Se te pasó la reposición: te queda ir al juzgado, y la revisión solo si se da alguna causa del art. 125.1.",
   "No. El “recurso extraordinario de reposición” no existe. El extraordinario es el de **revisión**.",
   "No. La alzada es para actos que no ponen fin a la vía. La reposición va contra actos que ya la agotaron, así que no cabe."
- ]
+ ],
+ "ojo": "En clase: mes 1, reposición o contencioso; mes 2, solo contencioso. La reposición se resuelve en 1 mes (el mismo órgano ya conoce el asunto) y, a diferencia de la alzada, no tiene doble silencio: el silencio es siempre desestimatorio. Contra su resolución no se puede volver a poner reposición."
 },
 "au-24-014": {
  "bloque": "recursos",
@@ -305,7 +320,7 @@
   "No. Poner fin a la vía no es lo mismo que ser firme. Un acto que pone fin a la vía aún admite reposición mientras dure el plazo (art. 123.1).",
   "No. Es lo contrario: la firmeza es precisamente el requisito de este recurso."
  ],
- "ojo": "Distingue bien: un acto que “pone fin a la vía” aún puede recurrirse en reposición o ante el juez; un acto “firme” ya no."
+ "ojo": "Distingue bien: un acto que “pone fin a la vía” aún puede recurrirse en reposición o ante el juez; un acto “firme” ya no. En clase: el profesor marca como IMP el «ante quién»: se presenta ante el órgano que dictó el acto, que también lo resuelve. Solo cabe contra actos firmes y por cuatro causas tasadas: error de hecho (no de derecho; ejemplo: te deniegan la licencia del pozo porque la finca no es tuya y en el expediente está la escritura que dice que sí), documentos de valor esencial, documentos o testimonios declarados falsos por sentencia firme, y prevaricación, cohecho, violencia o maquinación fraudulenta declarados por sentencia firme."
 },
 "au-24-015": {
  "bloque": "recursos",
@@ -316,7 +331,8 @@
   "No. Lo que queda firme es la **resolución** recurrible, no el recurso. Además, aquí el recurso ni siquiera se ha presentado.",
   "Es esta. El **art. 122.1** dice que, pasado el plazo sin recurrir, “la resolución será firme a todos los efectos”. Queda consolidada y ya no puede impugnarse por las vías ordinarias.",
   "No. La reposición es para actos que ponen fin a la vía administrativa (art. 123.1), y aquí estamos ante un acto recurrible en alzada, que no la agota."
- ]
+ ],
+ "ojo": "En clase: el profesor lo marca como IMP. Alzada: 1 mes para interponerla si el acto es expreso (si pasa, la resolución es firme a todos los efectos: ni alzada ni vía judicial), y cualquier momento si no lo es; 3 meses para resolver; y contra su resolución no cabe ningún otro recurso administrativo, salvo el extraordinario de revisión. La alzada es obligatoria porque el acto no pone fin a la vía administrativa: si no la pones, no puedes ir al juez. El doble silencio estimatorio solo existe si la alzada se pone contra un acto presunto, y nunca en los cuatro casos del art. 24."
 },
 "au-25-001": {
  "bloque": "recursos",
@@ -327,7 +343,8 @@
   "No. El motivo no es la nulidad de pleno derecho, sino no fundarse en una de las causas del art. 125.1 o haberse desestimado ya otros recursos sustancialmente iguales.",
   "No. Esa salvedad no existe. El art. 126.1 dice precisamente que no hace falta dictamen para inadmitir.",
   "No. Es lo contrario: no hace falta ningún dictamen, ni vinculante ni de otro tipo."
- ]
+ ],
+ "ojo": "En clase: el profesor lo marca como IMP. Igual que en el art. 106.3, se puede inadmitir motivadamente sin dictamen del Consejo de Estado cuando no hay causa del art. 125.1 o ya se desestimaron en cuanto al fondo otros recursos sustancialmente iguales. El órgano resuelve también el fondo, y a los 3 meses sin resolución se entiende desestimado y queda expedita la vía contencioso-administrativa."
 },
 "au-25-002": {
  "bloque": "recursos",
@@ -339,7 +356,7 @@
   "No. Tres meses es el plazo de las otras causas: las b), c) y d) del art. 125.1.",
   "No. La ley no fija un plazo de un año para este recurso."
  ],
- "ojo": "Para recordarlo: causa a), 4 años desde la notificación. Todas las demás, 3 meses desde conocer los documentos o desde la firmeza de la sentencia."
+ "ojo": "Para recordarlo: causa a), 4 años desde la notificación. Todas las demás, 3 meses desde conocer los documentos o desde la firmeza de la sentencia. En clase: un plazo largo y otro corto. Error de hecho: 4 años desde la notificación de la resolución (no desde que se dicta, porque antes no podías conocerla). Las otras tres causas: 3 meses desde el conocimiento de los documentos o desde que la sentencia quedó firme."
 },
 "au-25-003": {
  "bloque": "recursos",
@@ -350,7 +367,8 @@
   "Es esta. La prevaricación es la causa d) del art. 125.1, y el **art. 125.2** da tres meses desde que la sentencia judicial quedó firme. Prevaricar es dictar a sabiendas una resolución injusta, y debe haberlo declarado una sentencia firme.",
   "No. El plazo de tres meses es correcto, pero no se cuenta desde la notificación, sino desde que la sentencia judicial quedó firme.",
   "No. El punto de inicio es correcto, pero el plazo es de tres meses, no de cuatro años."
- ]
+ ],
+ "ojo": "En clase: un plazo largo y otro corto. Error de hecho: 4 años desde la notificación de la resolución (no desde que se dicta, porque antes no podías conocerla). Las otras tres causas: 3 meses desde el conocimiento de los documentos o desde que la sentencia quedó firme."
 },
 "au-25-004": {
  "bloque": "recursos",
@@ -361,7 +379,8 @@
   "No. Sí cabe: el art. 124.1 lo permite expresamente al solicitante y a otros posibles interesados.",
   "No. Es una confusión con plazos de otras regulaciones o del recurso de alzada. Aquí la ley no fija tres meses para interponer.",
   "Es esta. El **art. 124.1** dice que, si el acto no es expreso, se puede interponer reposición “en cualquier momento” a partir del día siguiente a aquel en que se produzca el acto presunto. El acto presunto es el que resulta del silencio de la Administración."
- ]
+ ],
+ "ojo": "En clase: mes 1, reposición o contencioso; mes 2, solo contencioso. La reposición se resuelve en 1 mes (el mismo órgano ya conoce el asunto) y, a diferencia de la alzada, no tiene doble silencio: el silencio es siempre desestimatorio. Contra su resolución no se puede volver a poner reposición."
 },
 "au-25-005": {
  "bloque": "recursos",
@@ -372,7 +391,8 @@
   "Es esta. El **art. 126.3** fija tres meses desde la interposición. Pasados sin resolución notificada, el recurso se entiende desestimado y puedes ir al contencioso.",
   "No. Un mes es el plazo para resolver la **reposición** (art. 124.2).",
   "No. La ley no fija seis meses para este recurso, sino tres."
- ]
+ ],
+ "ojo": "En clase: el profesor lo marca como IMP. Igual que en el art. 106.3, se puede inadmitir motivadamente sin dictamen del Consejo de Estado cuando no hay causa del art. 125.1 o ya se desestimaron en cuanto al fondo otros recursos sustancialmente iguales. El órgano resuelve también el fondo, y a los 3 meses sin resolución se entiende desestimado y queda expedita la vía contencioso-administrativa."
 },
 "au-25-006": {
  "bloque": "recursos",
@@ -383,7 +403,8 @@
   "No. El punto de inicio es correcto, pero el plazo es de tres meses, no de seis.",
   "Es esta. Los testimonios declarados falsos por sentencia firme son la causa c) del art. 125.1, y el **art. 125.2** da tres meses desde que la sentencia judicial quedó firme. Tiene lógica: hasta esa sentencia no consta oficialmente la falsedad.",
   "No. El plazo es correcto, pero no se cuenta desde la notificación, sino desde que la sentencia quedó firme."
- ]
+ ],
+ "ojo": "En clase: el profesor marca como IMP el «ante quién»: se presenta ante el órgano que dictó el acto, que también lo resuelve. Solo cabe contra actos firmes y por cuatro causas tasadas: error de hecho (no de derecho; ejemplo: te deniegan la licencia del pozo porque la finca no es tuya y en el expediente está la escritura que dice que sí), documentos de valor esencial, documentos o testimonios declarados falsos por sentencia firme, y prevaricación, cohecho, violencia o maquinación fraudulenta declarados por sentencia firme. En clase: un plazo largo y otro corto. Error de hecho: 4 años desde la notificación de la resolución (no desde que se dicta, porque antes no podías conocerla). Las otras tres causas: 3 meses desde el conocimiento de los documentos o desde que la sentencia quedó firme."
 },
 "au-25-007": {
  "bloque": "recursos",
@@ -394,7 +415,8 @@
   "No. Sobra “únicamente”: también puedes presentarlo ante el órgano competente para resolver.",
   "No. Sobra “únicamente”: también puedes presentarlo ante el órgano que dictó el acto. Además, lo que se resuelve es el recurso, no el acto.",
   "No. El superior jerárquico es quien resuelve, pero “en todo caso” es falso: el recurso puede presentarse también ante quien dictó el acto."
- ]
+ ],
+ "ojo": "En clase: la alzada se puede presentar ante el órgano que dictó el acto o ante el competente para resolverla, pero la resuelve siempre el superior jerárquico. Si se presenta ante el primero, este la remite en 10 días con su informe y una copia completa y ordenada del expediente, y su titular es responsable directo de que se cumpla."
 },
 "au-25-008": {
  "bloque": "recursos",
@@ -406,7 +428,7 @@
   "No. La caducidad no es el efecto que prevé este artículo. El silencio aquí desestima el recurso.",
   "No. No hay suspensión: el efecto del paso del tiempo es la desestimación."
  ],
- "ojo": "La excepción del art. 24.1 es el “doble silencio”: si recurres en alzada una solicitud desestimada por silencio y tampoco te contestan, el recurso se entiende estimado, salvo en las materias que enumera ese artículo."
+ "ojo": "La excepción del art. 24.1 es el “doble silencio”: si recurres en alzada una solicitud desestimada por silencio y tampoco te contestan, el recurso se entiende estimado, salvo en las materias que enumera ese artículo. En clase: el profesor lo marca como IMP. Alzada: 1 mes para interponerla si el acto es expreso (si pasa, la resolución es firme a todos los efectos: ni alzada ni vía judicial), y cualquier momento si no lo es; 3 meses para resolver; y contra su resolución no cabe ningún otro recurso administrativo, salvo el extraordinario de revisión. La alzada es obligatoria porque el acto no pone fin a la vía administrativa: si no la pones, no puedes ir al juez. El doble silencio estimatorio solo existe si la alzada se pone contra un acto presunto, y nunca en los cuatro casos del art. 24."
 },
 "au-25-009": {
  "bloque": "recursos",
@@ -417,7 +439,8 @@
   "No. Un mes es el plazo si el acto es **expreso**. Aquí el enunciado dice que no lo es.",
   "No. La ley no fija dos meses para este recurso. El acto presunto no tiene plazo fijo.",
   "No. No hay plazo de tres meses. Si no hay acto expreso, se puede recurrir en cualquier momento."
- ]
+ ],
+ "ojo": "En clase: mes 1, reposición o contencioso; mes 2, solo contencioso. La reposición se resuelve en 1 mes (el mismo órgano ya conoce el asunto) y, a diferencia de la alzada, no tiene doble silencio: el silencio es siempre desestimatorio. Contra su resolución no se puede volver a poner reposición."
 },
 "au-25-010": {
  "bloque": "recursos",
@@ -428,7 +451,8 @@
   "No. Es exagerado. Sigue abierto el contencioso-administrativo y, si se da alguna causa del art. 125.1, el extraordinario de revisión.",
   "No. Los documentos nuevos de valor esencial son una causa del **recurso extraordinario de revisión** (art. 125.1.b), no una forma de repetir la reposición.",
   "No. La alzada es para actos que no ponen fin a la vía administrativa (art. 121.1), y la reposición va contra los que sí la agotan."
- ]
+ ],
+ "ojo": "En clase: mes 1, reposición o contencioso; mes 2, solo contencioso. La reposición se resuelve en 1 mes (el mismo órgano ya conoce el asunto) y, a diferencia de la alzada, no tiene doble silencio: el silencio es siempre desestimatorio. Contra su resolución no se puede volver a poner reposición."
 },
 "au-25-011": {
  "bloque": "recursos",
@@ -439,7 +463,8 @@
   "Es esta. El **art. 125.1** dice que se presenta “ante el órgano administrativo que los dictó”, que además es quien lo resuelve. Es un recurso extraordinario: solo cabe por las causas tasadas de ese artículo.",
   "No. La alzada se usa con actos que no ponen fin a la vía (art. 121.1) y dentro de plazo, no con actos firmes.",
   "No. El órgano es correcto, pero el recurso no. La reposición va contra actos que ponen fin a la vía y dentro de plazo (arts. 123 y 124), no contra actos ya firmes."
- ]
+ ],
+ "ojo": "En clase: el profesor marca como IMP el «ante quién»: se presenta ante el órgano que dictó el acto, que también lo resuelve. Solo cabe contra actos firmes y por cuatro causas tasadas: error de hecho (no de derecho; ejemplo: te deniegan la licencia del pozo porque la finca no es tuya y en el expediente está la escritura que dice que sí), documentos de valor esencial, documentos o testimonios declarados falsos por sentencia firme, y prevaricación, cohecho, violencia o maquinación fraudulenta declarados por sentencia firme."
 },
 "au-25-012": {
  "bloque": "recursos",
@@ -450,7 +475,8 @@
   "No. Contra los actos firmes solo cabe el extraordinario de revisión (art. 125.1).",
   "Es esta. El **art. 121.1** dice que los actos del art. 112.1 “cuando no pongan fin a la vía administrativa” pueden recurrirse en alzada ante el superior jerárquico. Si el acto aún puede revisarlo un superior, hay alzada.",
   "No. “Agotar la vía” es otra forma de decir “poner fin a la vía”, así que falla igual que la primera opción: en ese caso toca reposición."
- ]
+ ],
+ "ojo": "En clase: los tribunales y órganos de selección se consideran dependientes del órgano al que estén adscritos (por ejemplo, la Comisión Permanente de Selección, adscrita al INAP) o, en su defecto, del que nombró a su presidente."
 },
 "au-25-013": {
  "bloque": "recursos",
@@ -461,7 +487,8 @@
   "No. Te han cambiado el plazo: son diez días, no veinte.",
   "No. Te han cambiado el plazo: son diez días, no quince.",
   "No. Te han cambiado el plazo: son diez días, no cinco."
- ]
+ ],
+ "ojo": "En clase: la alzada se puede presentar ante el órgano que dictó el acto o ante el competente para resolverla, pero la resuelve siempre el superior jerárquico. Si se presenta ante el primero, este la remite en 10 días con su informe y una copia completa y ordenada del expediente, y su titular es responsable directo de que se cumpla."
 },
 "au-25-014": {
  "bloque": "recursos",
@@ -472,7 +499,8 @@
   "Es esta. El **art. 126.3** dice “se entenderá desestimado, quedando expedita la vía jurisdiccional contencioso-administrativa”. “Expedita” significa libre: ya puedes acudir al juzgado.",
   "No. La segunda parte es correcta, pero han cambiado “desestimado” por “estimado”.",
   "No. La prescripción no tiene nada que ver aquí. El efecto del paso de los tres meses es la desestimación."
- ]
+ ],
+ "ojo": "En clase: el profesor lo marca como IMP. Igual que en el art. 106.3, se puede inadmitir motivadamente sin dictamen del Consejo de Estado cuando no hay causa del art. 125.1 o ya se desestimaron en cuanto al fondo otros recursos sustancialmente iguales. El órgano resuelve también el fondo, y a los 3 meses sin resolución se entiende desestimado y queda expedita la vía contencioso-administrativa."
 },
 "au-25-015": {
  "bloque": "recursos",
@@ -483,6 +511,7 @@
   "Es esta. Los documentos de valor esencial son la causa b) del art. 125.1, y el **art. 125.2** da tres meses desde que los conoces. Tiene sentido: el plazo empieza cuando sabes que existen.",
   "No. El inicio es correcto, pero han mezclado los plazos: desde el conocimiento de los documentos son tres meses, no cuatro años.",
   "No. El inicio es correcto, pero el plazo es de tres meses, no de uno."
- ]
+ ],
+ "ojo": "En clase: el profesor marca como IMP el «ante quién»: se presenta ante el órgano que dictó el acto, que también lo resuelve. Solo cabe contra actos firmes y por cuatro causas tasadas: error de hecho (no de derecho; ejemplo: te deniegan la licencia del pozo porque la finca no es tuya y en el expediente está la escritura que dice que sí), documentos de valor esencial, documentos o testimonios declarados falsos por sentencia firme, y prevaricación, cohecho, violencia o maquinación fraudulenta declarados por sentencia firme. En clase: un plazo largo y otro corto. Error de hecho: 4 años desde la notificación de la resolución (no desde que se dicta, porque antes no podías conocerla). Las otras tres causas: 3 meses desde el conocimiento de los documentos o desde que la sentencia quedó firme."
 }
 }

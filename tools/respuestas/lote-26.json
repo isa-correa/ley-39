@@ -9,7 +9,7 @@
   "Es verdadera que cabe recurso, así que no se marca. Es el segundo caso: el trámite que impide seguir con el procedimiento se puede recurrir (art. 112.1).",
   "Esta es la falsa, y por eso es la que hay que marcar. El **art. 112.1** habla de perjuicio **irreparable**, no “reparable”. Si el perjuicio se puede reparar, no cabe recurso contra ese trámite: lo alegas después, para que se tenga en cuenta en la resolución final."
  ],
- "ojo": "Una sola letra cambia el sentido: “irreparable” por “reparable”. Actos de trámite recurribles: deciden el fondo, impiden continuar, o causan indefensión o perjuicio irreparable."
+ "ojo": "Una sola letra cambia el sentido: “irreparable” por “reparable”. Actos de trámite recurribles: deciden el fondo, impiden continuar, o causan indefensión o perjuicio irreparable. En clase: son recurribles los actos de trámite cualificados: los que deciden directa o indirectamente el fondo (en un concurso de méritos te inadmiten un mérito), los que impiden continuar el procedimiento (sales en la lista de aspirantes excluidos), los que producen indefensión (se omite la audiencia) y los que producen un perjuicio irreparable (una medida cautelar que cierra tu discoteca). Los no cualificados (ampliación de plazos, acumulación, tramitación de urgencia) no se recurren: se alegan para que se tengan en cuenta al resolver. Y nunca se recurre «porque no me gusta», sino por una causa de nulidad o anulabilidad (arts. 47 y 48)."
 },
 "vo-12-002": {
  "bloque": "recursos",
@@ -32,7 +32,8 @@
   "No es la mejor opción, aunque es cierta. Está en el art. 114.1.c): si un órgano no tiene superior, no hay a quién recurrir en alzada. La ley añade “salvo que una Ley establezca lo contrario”. Las otras dos también son ciertas.",
   "No es la mejor opción, aunque es cierta. Está en el art. 114.1.d), pero las otras dos también son ciertas.",
   "Es esta. Las tres opciones anteriores aparecen tal cual en el **art. 114.1**, letras a), c) y d). Como todas ponen fin a la vía administrativa, la respuesta completa es “todas”."
- ]
+ ],
+ "ojo": "En clase: el profesor lo llama «artículo estrella». Poner fin a la vía administrativa no es ser firme: si el acto pone fin, ya se puede ir al juez (o poner el potestativo de reposición); si no pone fin, hay que poner antes la alzada."
 },
 "vo-12-004": {
  "bloque": "recursos",
@@ -44,7 +45,7 @@
   "No. Te han bajado el nivel. El art. 114.2.c) dice órganos directivos con nivel de **Director general** o superior, no Subdirector General.",
   "No. Falla el final y también falta un dato. El art. 114.2.d) dice “salvo que por **ley** se establezca otra cosa”, no por reglamentos, y habla de máximos órganos de dirección unipersonales o colegiados, según sus estatutos."
  ],
- "ojo": "Tres cambios típicos del art. 114.2: Secretarios de Estado (no Generales), Director general (no Subdirector) y “por ley” (no por reglamento)."
+ "ojo": "Tres cambios típicos del art. 114.2: Secretarios de Estado (no Generales), Director general (no Subdirector) y “por ley” (no por reglamento). En clase: el profesor lo llama «artículo estrella». Poner fin a la vía administrativa no es ser firme: si el acto pone fin, ya se puede ir al juez (o poner el potestativo de reposición); si no pone fin, hay que poner antes la alzada."
 },
 "vo-12-005": {
  "bloque": "recursos",
@@ -56,7 +57,7 @@
   "No. Equivocarse con el nombre no afecta al fondo. El recurso se tramita y se resuelve según lo que sea de verdad (art. 115.2), sin desestimarlo por eso.",
   "No. La ley no pide subsanar el nombre del recurso. La propia Administración lo tramita según su verdadero carácter (art. 115.2)."
  ],
- "ojo": "Lo que cuenta es lo que pides, no cómo lo llamas."
+ "ojo": "Lo que cuenta es lo que pides, no cómo lo llamas. En clase: el profesor lo marca como IMP y lo llama pregunta «regalo»: si le llamas reposición y es alzada, o no le pones nombre, se tramita igual mientras se deduzca su verdadero carácter."
 },
 "vo-12-006": {
  "bloque": "recursos",
@@ -68,7 +69,7 @@
   "Es verdadera como causa de inadmisión, así que no se marca. Es el art. 116.b): carecer de legitimación el recurrente, es decir, no tener un interés propio en el asunto.",
   "Es verdadera como causa de inadmisión, así que no se marca. Es el art. 116.c): tratarse de un acto que no admite recurso."
  ],
- "ojo": "Las cinco causas del art. 116: órgano incompetente de otra Administración, sin legitimación, acto no recurrible, fuera de plazo y manifiestamente sin fundamento."
+ "ojo": "Las cinco causas del art. 116: órgano incompetente de otra Administración, sin legitimación, acto no recurrible, fuera de plazo y manifiestamente sin fundamento. En clase: el profesor lo marca como IMP y lo llama pregunta «regalo»: si le llamas reposición y es alzada, o no le pones nombre, se tramita igual mientras se deduzca su verdadero carácter."
 },
 "vo-12-007": {
  "bloque": "recursos",
@@ -80,7 +81,7 @@
   "No. Te han cambiado la causa: el art. 117.2.b) habla de causas de **nulidad de pleno derecho** del art. 47.1, no de anulabilidad.",
   "Es esta. Es el párrafo tercero del **art. 117.4**: la suspensión sigue después de agotar la vía administrativa si el interesado lo pidió antes, existe medida cautelar y sus efectos se extienden a la vía contencioso-administrativa (la de los tribunales)."
  ],
- "ojo": "Regla general: recurrir no suspende. Excepción: el órgano que resuelve puede suspender por perjuicio de imposible o difícil reparación o por causa de nulidad. Si no contesta en un mes, queda suspendido."
+ "ojo": "Regla general: recurrir no suspende. Excepción: el órgano que resuelve puede suspender por perjuicio de imposible o difícil reparación o por causa de nulidad. Si no contesta en un mes, queda suspendido. En clase: junto a la suspensión se pueden adoptar medidas cautelares (por ejemplo, que la discoteca solo abra la sala más interior mientras se resuelve). Si la suspensión puede causar perjuicios, solo produce efectos previa caución, que es una fianza."
 },
 "vo-12-008": {
  "bloque": "recursos",
@@ -92,7 +93,7 @@
   "No. Aquí cambian dos cosas: “solicitud” en lugar de “recurso” y “resoluciones” en lugar de “propuestas” (art. 118.3).",
   "Es esta. El **art. 118.3** dice literalmente que el recurso, los informes y las propuestas no tienen el carácter de documentos nuevos. Por eso no obligan a abrir un nuevo trámite de audiencia. Tampoco lo son los que los interesados ya aportaron antes de la resolución impugnada."
  ],
- "ojo": "Para recordarlo: R, I, P: Recurso, Informes, Propuestas."
+ "ojo": "Para recordarlo: R, I, P: Recurso, Informes, Propuestas. En clase: el profesor lo marca como IMP. No son documentos nuevos el recurso, los informes, las propuestas ni lo que los interesados aportaron antes de la resolución. Por eso, si la alzada se presenta ante el Director General y este la remite al Secretario de Estado con un informe y una propuesta, ese informe no obliga a dar audiencia."
 },
 "vo-12-009": {
  "bloque": "recursos",
@@ -104,7 +105,7 @@
   "No. El órgano no se limita a las cuestiones de fondo planteadas por los interesados. Puede decidir también otras de fondo no alegadas, igual que las de forma (art. 119.3).",
   "No. Se queda muy corta: el art. 119.3 incluye forma y fondo, y también lo no alegado por los interesados."
  ],
- "ojo": "Puede mirar más de lo que alegas, pero con dos límites: la resolución debe ser congruente con lo pedido y nunca puede empeorar tu situación inicial."
+ "ojo": "Puede mirar más de lo que alegas, pero con dos límites: la resolución debe ser congruente con lo pedido y nunca puede empeorar tu situación inicial. En clase: es la prohibición de la reformatio in peius: el recurso no puede dejarte peor que antes. Pediste dos pozos y te autorizaron uno; recurres por el segundo y no te pueden quitar el primero. Es la misma idea que el art. 88.2 para el procedimiento principal."
 },
 "vo-12-010": {
  "bloque": "recursos",
@@ -116,7 +117,7 @@
   "No. Fallan dos cosas: dice “deberá” en vez de “podrá” y añade la condición de que lo pida un interesado, que no está en el art. 120.1.",
   "Es esta. El **art. 120.1** dice que el órgano “podrá acordar” la suspensión del plazo para resolver hasta que haya pronunciamiento judicial. Es una posibilidad, sin condiciones añadidas. Así evita resolver muchos recursos iguales antes de saber qué dice el juez."
  ],
- "ojo": "El acuerdo de suspensión se notifica a los interesados, y estos pueden recurrirlo (art. 120.2)."
+ "ojo": "El acuerdo de suspensión se notifica a los interesados, y estos pueden recurrirlo (art. 120.2). En clase: el profesor dice que es un artículo muy poco importante. Ejemplo: una misma resolución deniega una excedencia a tres interinos y los tres recurren; uno ya ha ido al juzgado, y la Administración puede esperar a lo que diga el juez antes de resolver los otros dos."
 },
 "vo-12-011": {
  "bloque": "recursos",
@@ -128,7 +129,7 @@
   "No. El “únicamente” lo estropea, porque también puede presentarse ante el órgano competente. El resto sí es cierto: si se presenta ante el que dictó el acto, tiene 10 días para remitirlo con su informe y una copia del expediente.",
   "No. Nunca son el mismo: la alzada la resuelve el superior jerárquico del que dictó el acto (art. 121.1). Si fuera el mismo órgano, sería reposición."
  ],
- "ojo": "Alzada: se presenta en cualquiera de los dos, la resuelve el superior. Reposición: se presenta y se resuelve en el mismo órgano."
+ "ojo": "Alzada: se presenta en cualquiera de los dos, la resuelve el superior. Reposición: se presenta y se resuelve en el mismo órgano. En clase: la alzada se puede presentar ante el órgano que dictó el acto o ante el competente para resolverla, pero la resuelve siempre el superior jerárquico. Si se presenta ante el primero, este la remite en 10 días con su informe y una copia completa y ordenada del expediente, y su titular es responsable directo de que se cumpla."
 },
 "vo-12-012": {
  "bloque": "recursos",
@@ -140,7 +141,7 @@
   "No. Si el acto no es expreso no hay plazo de tres meses: se puede recurrir “en cualquier momento” a partir del día siguiente a los efectos del silencio (art. 122.1).",
   "No. Para acto expreso es un mes, no tres. Los tres meses son el plazo que tiene la Administración para resolver y notificar la alzada (art. 122.2)."
  ],
- "ojo": "Un mes lo tienes tú para recurrir. Tres meses los tiene la Administración para resolver."
+ "ojo": "Un mes lo tienes tú para recurrir. Tres meses los tiene la Administración para resolver. En clase: el profesor lo marca como IMP. Alzada: 1 mes para interponerla si el acto es expreso (si pasa, la resolución es firme a todos los efectos: ni alzada ni vía judicial), y cualquier momento si no lo es; 3 meses para resolver; y contra su resolución no cabe ningún otro recurso administrativo, salvo el extraordinario de revisión. La alzada es obligatoria porque el acto no pone fin a la vía administrativa: si no la pones, no puedes ir al juez. El doble silencio estimatorio solo existe si la alzada se pone contra un acto presunto, y nunca en los cuatro casos del art. 24."
 },
 "vo-12-013": {
  "bloque": "recursos",
@@ -152,7 +153,7 @@
   "No. Falla el plazo, que son tres meses y no dos, y se olvida de la excepción del recurso extraordinario de revisión (art. 122).",
   "No. El plazo sí es bueno, pero le falta la excepción: sí cabe el recurso extraordinario de revisión en los casos del art. 125.1 (art. 122.3)."
  ],
- "ojo": "Fíjate en cómo termina la frase: la opción sin la salvedad del recurso extraordinario es la trampa."
+ "ojo": "Fíjate en cómo termina la frase: la opción sin la salvedad del recurso extraordinario es la trampa. En clase: el profesor lo marca como IMP. Alzada: 1 mes para interponerla si el acto es expreso (si pasa, la resolución es firme a todos los efectos: ni alzada ni vía judicial), y cualquier momento si no lo es; 3 meses para resolver; y contra su resolución no cabe ningún otro recurso administrativo, salvo el extraordinario de revisión. La alzada es obligatoria porque el acto no pone fin a la vía administrativa: si no la pones, no puedes ir al juez. El doble silencio estimatorio solo existe si la alzada se pone contra un acto presunto, y nunca en los cuatro casos del art. 24."
 },
 "vo-12-014": {
  "bloque": "recursos",
@@ -164,7 +165,7 @@
   "No. Está al revés. La reposición es previa y opcional: no hay que esperar al contencioso para ponerla. Lo que se espera es el resultado de la reposición para ir al contencioso (art. 123.2).",
   "No. Esa regla de “prevalece el primero que se resuelva” no existe en la ley. El art. 123.2 evita el problema: no se pueden simultanear."
  ],
- "ojo": "Reposición es opcional, pero si la eliges tienes que esperar a su resultado antes de ir al juez."
+ "ojo": "Reposición es opcional, pero si la eliges tienes que esperar a su resultado antes de ir al juez. En clase: la reposición la resuelve el mismo órgano que ya te dijo que no, pero es gratis; el contencioso lo decide un juez imparcial, pero hace falta abogado y cuesta dinero. No se pueden llevar las dos vías a la vez: no se puede ir al contencioso hasta que se resuelva expresamente la reposición o se desestime por silencio."
 },
 "vo-12-015": {
  "bloque": "recursos",
@@ -176,7 +177,7 @@
   "No. El “nunca” lo estropea. También caben contra actos de trámite que deciden el fondo, impiden continuar o causan indefensión o perjuicio irreparable (art. 112.1).",
   "Es esta. El **art. 124.1** da **un mes** para interponer el recurso de reposición si el acto es expreso. Pasado ese mes, solo queda ir al contencioso-administrativo, sin perjuicio del extraordinario de revisión si procede."
  ],
- "ojo": "La opción no lo matiza, pero el mes es para actos expresos. Si el acto no es expreso (silencio), se puede interponer en cualquier momento desde el día siguiente al acto presunto."
+ "ojo": "La opción no lo matiza, pero el mes es para actos expresos. Si el acto no es expreso (silencio), se puede interponer en cualquier momento desde el día siguiente al acto presunto. En clase: la reposición la resuelve el mismo órgano que ya te dijo que no, pero es gratis; el contencioso lo decide un juez imparcial, pero hace falta abogado y cuesta dinero. No se pueden llevar las dos vías a la vez: no se puede ir al contencioso hasta que se resuelva expresamente la reposición o se desestime por silencio. En clase: mes 1, reposición o contencioso; mes 2, solo contencioso. La reposición se resuelve en 1 mes (el mismo órgano ya conoce el asunto) y, a diferencia de la alzada, no tiene doble silencio: el silencio es siempre desestimatorio. Contra su resolución no se puede volver a poner reposición."
 },
 "vo-12-016": {
  "bloque": "recursos",
@@ -188,7 +189,7 @@
   "No. Sí hay plazo: un mes (art. 124.2).",
   "No. Sí hay una opción correcta: la de 1 mes, que es la que dice el art. 124.2."
  ],
- "ojo": "Plazos para resolver: reposición, un mes. Alzada y extraordinario de revisión, tres meses."
+ "ojo": "Plazos para resolver: reposición, un mes. Alzada y extraordinario de revisión, tres meses. En clase: mes 1, reposición o contencioso; mes 2, solo contencioso. La reposición se resuelve en 1 mes (el mismo órgano ya conoce el asunto) y, a diferencia de la alzada, no tiene doble silencio: el silencio es siempre desestimatorio. Contra su resolución no se puede volver a poner reposición."
 },
 "vo-12-017": {
  "bloque": "recursos",
@@ -200,7 +201,7 @@
   "No. El “sean o no” lo estropea. El art. 125.1.c) exige que los documentos o testimonios hayan sido **declarados falsos por sentencia judicial firme** y que hayan influido esencialmente.",
   "No. La lista del art. 125.1.d) es prevaricación, cohecho, violencia, maquinación fraudulenta u otra conducta punible. “Malversación” no se nombra, y la opción cambia esa lista y exige dos conductas a la vez con la “y”."
  ],
- "ojo": "Las cuatro causas: error de hecho, documentos esenciales nuevos, documentos o testimonios declarados falsos por sentencia firme, y conducta punible declarada por sentencia firme."
+ "ojo": "Las cuatro causas: error de hecho, documentos esenciales nuevos, documentos o testimonios declarados falsos por sentencia firme, y conducta punible declarada por sentencia firme. En clase: el profesor marca como IMP el «ante quién»: se presenta ante el órgano que dictó el acto, que también lo resuelve. Solo cabe contra actos firmes y por cuatro causas tasadas: error de hecho (no de derecho; ejemplo: te deniegan la licencia del pozo porque la finca no es tuya y en el expediente está la escritura que dice que sí), documentos de valor esencial, documentos o testimonios declarados falsos por sentencia firme, y prevaricación, cohecho, violencia o maquinación fraudulenta declarados por sentencia firme."
 },
 "vo-12-018": {
  "bloque": "recursos",
@@ -212,7 +213,7 @@
   "Es verdadera, así que no se marca. Art. 113 y 125.1: es precisamente el recurso contra actos firmes en vía administrativa.",
   "Esta es la falsa, y por eso es la que hay que marcar. Para el error de hecho (causa a), el **art. 125.2** da **cuatro años** desde la notificación de la resolución. Los tres meses son para las otras tres causas, contados desde que conoces los documentos o desde que la sentencia es firme."
  ],
- "ojo": "Causa a), cuatro años. Causas b), c) y d), tres meses. Y son también tres meses los que tiene el órgano para resolver."
+ "ojo": "Causa a), cuatro años. Causas b), c) y d), tres meses. Y son también tres meses los que tiene el órgano para resolver. En clase: un plazo largo y otro corto. Error de hecho: 4 años desde la notificación de la resolución (no desde que se dicta, porque antes no podías conocerla). Las otras tres causas: 3 meses desde el conocimiento de los documentos o desde que la sentencia quedó firme."
 },
 "vo-12-019": {
  "bloque": "recursos",
@@ -223,7 +224,8 @@
   "No. No cabe reposición. Lo que queda abierto es la vía jurisdiccional contencioso-administrativa, es decir, los tribunales (art. 126.3).",
   "No. Está al revés: la ley dice “se entenderá desestimado”, así que el silencio es negativo, no positivo (art. 126.3).",
   "No. No cabe alzada. Lo que queda abierto es el contencioso-administrativo (art. 126.3)."
- ]
+ ],
+ "ojo": "En clase: el profesor lo marca como IMP. Igual que en el art. 106.3, se puede inadmitir motivadamente sin dictamen del Consejo de Estado cuando no hay causa del art. 125.1 o ya se desestimaron en cuanto al fondo otros recursos sustancialmente iguales. El órgano resuelve también el fondo, y a los 3 meses sin resolución se entiende desestimado y queda expedita la vía contencioso-administrativa."
 },
 "vo-12-020": {
  "bloque": "iniciativa",
@@ -235,7 +237,7 @@
   "No. El art. 128.2 dice justo lo contrario: los reglamentos no pueden tipificar infracciones ni establecer sanciones. Solo pueden colaborar con la ley, con especificaciones o graduaciones de lo que la ley ya tipifica, sin crear nuevas (art. 27.3 de la Ley 40/2015).",
   "No. Es el error más claro: el art. 128.2 prohíbe a los reglamentos establecer tributos."
  ],
- "ojo": "“En los términos establecidos por las leyes” suena bien, pero tipificar es crear la infracción, y eso es exclusivo de la ley. El reglamento solo puede concretar lo que la ley ya tipificó."
+ "ojo": "“En los términos establecidos por las leyes” suena bien, pero tipificar es crear la infracción, y eso es exclusivo de la ley. El reglamento solo puede concretar lo que la ley ya tipificó. En clase: clara pregunta de examen. Un reglamento no puede tipificar delitos, faltas ni infracciones, ni establecer penas o sanciones, tributos ni prestaciones personales o patrimoniales de carácter público. Sí puede colaborar con la ley: si la ley fija una multa de 200 a 600 euros por saltarse un semáforo, el reglamento puede concretar tramos dentro de ese margen, pero no ir más allá."
 },
 "vo-12-021": {
  "bloque": "iniciativa",
@@ -247,7 +249,7 @@
   "Es verdadera como principio de buena regulación, así que no se marca. Está en el art. 129.1, y el 129.4 lo explica: coherencia con el resto del ordenamiento para dar un marco estable y claro.",
   "Esta es la falsa, y por eso es la que hay que marcar. El **art. 129.1** enumera seis principios: necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia. La “integridad” no está en la lista."
  ],
- "ojo": "Seis principios: necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia."
+ "ojo": "Seis principios: necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia. En clase: pregunta de examen. Los seis principios de buena regulación son necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia, y su adecuación se justifica en la exposición de motivos de los anteproyectos de ley o en el preámbulo de los proyectos de reglamento."
 },
 "vo-12-022": {
  "bloque": "iniciativa",
@@ -259,7 +261,7 @@
   "No. La consulta va antes. La memoria de análisis de impacto normativo incluye incluso un resumen de las aportaciones recibidas en la consulta (art. 26.3.g de la Ley 50/1997).",
   "No. El dictamen del Consejo de Estado llega mucho más tarde, con el texto ya elaborado (art. 26.7 de la Ley 50/1997). La consulta pública va al principio de todo."
  ],
- "ojo": "No confundas consulta con audiencia. Consulta: antes del texto, sobre el problema. Audiencia: con el texto ya redactado."
+ "ojo": "No confundas consulta con audiencia. Consulta: antes del texto, sobre el problema. Audiencia: con el texto ya redactado. En clase: son dos momentos. La consulta pública va antes de redactar el texto, por el portal web, sobre los problemas, la necesidad y oportunidad, los objetivos y las alternativas. La audiencia e información pública va con el texto ya redactado. En la AGE, la consulta no baja de 15 días naturales, y la audiencia es de 15 días hábiles como mínimo, reducible a 7 por razones motivadas o urgencia (art. 26 de la Ley 50/1997)."
 },
 "vo-12-023": {
  "bloque": "iniciativa",

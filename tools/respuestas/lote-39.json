@@ -8,7 +8,7 @@
   "No. La alzada es solo para lo que **no** pone fin a la vía administrativa (art. 121.1), y esta resolución sí la pone.",
   "No. Sí cabe recurso administrativo: aunque esta resolución agota la vía, el interesado puede pedir reposición antes de ir al juzgado (art. 123.1)."
  ],
- "ojo": "Da igual que el procedimiento se iniciara de oficio o a solicitud: la responsabilidad patrimonial siempre pone fin a la vía."
+ "ojo": "Da igual que el procedimiento se iniciara de oficio o a solicitud: la responsabilidad patrimonial siempre pone fin a la vía. En clase: la responsabilidad patrimonial pone fin a la vía administrativa, sea cual sea el tipo de relación, pública o privada, de que derive."
 },
 "pr-34-002": {
  "bloque": "recursos",
@@ -19,7 +19,7 @@
   "No. La alzada cabría si el acto no pusiera fin a la vía (art. 121.1). Aquí sí la pone, porque es materia de personal y la dicta un órgano de nivel superior a Director general.",
   "No. Agotar la vía no significa que no haya recurso: queda la reposición, voluntaria, antes del contencioso (art. 123.1)."
  ],
- "ojo": "Un Subsecretario, en general, se recurre en alzada ante el Ministro. La excepción es la materia de personal."
+ "ojo": "Un Subsecretario, en general, se recurre en alzada ante el Ministro. La excepción es la materia de personal. En clase: trampa típica. Una resolución de un Director General sobre una subvención no pone fin a la vía administrativa: cabe alzada ante su superior. Solo pone fin si es en materia de personal (por ejemplo, un permiso de un funcionario). El Secretario General Técnico tiene nivel de Director General."
 },
 "pr-34-003": {
  "bloque": "actividad",
@@ -40,7 +40,7 @@
   "No. Una Ministra no tiene superior a quien recurrir en alzada, y sus actos ponen fin a la vía (art. 114.2.a y b).",
   "Es esta. Contra la resolución de una reposición no puede interponerse otra (**art. 124.3**) y la alzada tampoco encaja, porque lo dictado por una Ministra pone fin a la vía. Lo que queda es ir al juzgado contencioso-administrativo."
  ],
- "ojo": "El recurso extraordinario de revisión sigue siendo posible si se da alguna causa del art. 125.1, pero aquí el enunciado no plantea ninguna."
+ "ojo": "El recurso extraordinario de revisión sigue siendo posible si se da alguna causa del art. 125.1, pero aquí el enunciado no plantea ninguna. En clase: mes 1, reposición o contencioso; mes 2, solo contencioso. La reposición se resuelve en 1 mes (el mismo órgano ya conoce el asunto) y, a diferencia de la alzada, no tiene doble silencio: el silencio es siempre desestimatorio. Contra su resolución no se puede volver a poner reposición."
 },
 "pr-34-005": {
  "bloque": "recursos",
@@ -50,7 +50,8 @@
   "No. La reposición es para lo que pone fin a la vía (art. 123.1). Un Director general solo la pone fin, en el ámbito estatal, en materia de personal (art. 114.2.c), y colocar carteles junto a una carretera no lo es.",
   "Es esta. El Director general tiene superior jerárquico y esta materia no es de personal, así que no pone fin a la vía. Por eso se recurre en alzada ante su superior (**art. 121.1**).",
   "No. Es una resolución que deniega lo pedido, y contra las resoluciones siempre cabe recurso salvo que una norma lo excluya (art. 112.1). Aquí ninguna lo excluye."
- ]
+ ],
+ "ojo": "En clase: el profesor lo llama «artículo estrella». Poner fin a la vía administrativa no es ser firme: si el acto pone fin, ya se puede ir al juez (o poner el potestativo de reposición); si no pone fin, hay que poner antes la alzada. En clase: los tribunales y órganos de selección se consideran dependientes del órgano al que estén adscritos (por ejemplo, la Comisión Permanente de Selección, adscrita al INAP) o, en su defecto, del que nombró a su presidente."
 },
 "pr-34-006": {
  "bloque": "recursos",
@@ -60,7 +61,8 @@
   "Es esta. El procedimiento complementario sirve para fijar la indemnización cuando la sanción no la concretó. Su resolución pone fin a la vía administrativa (**arts. 90.4 y 114.1.f**), así que cabe reposición aunque la dicte un Director general.",
   "No. Es la trampa: como es un Director general, parece alzada. Pero aquí pone fin a la vía la clase de procedimiento, sea quien sea el órgano (art. 114.1.f).",
   "No. Poner fin a la vía no deja sin recurso: cabe reposición, voluntaria, antes del contencioso (art. 123.1)."
- ]
+ ],
+ "ojo": "En clase: el procedimiento complementario del art. 90.4 fija indemnizaciones y repara daños, pero no la multa: por eso no es sancionador y también pone fin a la vía administrativa."
 },
 "pr-34-007": {
  "bloque": "recursos",
@@ -70,7 +72,8 @@
   "Es esta. Lo que dictan los Ministros y los Secretarios de Estado en sus competencias pone fin a la vía administrativa (**art. 114.2.b**). Por eso cabe reposición ante el mismo Secretario de Estado.",
   "No. El Secretario de Estado depende del Ministro, pero la alzada no cabe porque la ley hace que su acto ponga fin a la vía (art. 114.2.b).",
   "No. Sí cabe recurso: la reposición, voluntaria, o ir directamente al contencioso (art. 123.1)."
- ]
+ ],
+ "ojo": "En clase: el profesor lo llama «artículo estrella». Poner fin a la vía administrativa no es ser firme: si el acto pone fin, ya se puede ir al juez (o poner el potestativo de reposición); si no pone fin, hay que poner antes la alzada."
 },
 "pr-34-008": {
  "bloque": "finalizacion",
@@ -91,7 +94,8 @@
   "No. La reposición solo cabría si el acto pusiera fin a la vía (art. 123.1), y un Director general no la pone fin fuera de la materia de personal (art. 114.2.c).",
   "Es esta. Contra la resolución que declara la caducidad caben “los recursos pertinentes” (**art. 95.1**). Como la dicta un Director general en materia que no es de personal, no agota la vía: toca alzada ante su superior (art. 121.1).",
   "No. El art. 95.1 dice lo contrario: esta resolución sí se puede recurrir, porque cierra el procedimiento."
- ]
+ ],
+ "ojo": "En clase: los tribunales y órganos de selección se consideran dependientes del órgano al que estén adscritos (por ejemplo, la Comisión Permanente de Selección, adscrita al INAP) o, en su defecto, del que nombró a su presidente."
 },
 "pr-34-010": {
  "bloque": "recursos",
@@ -102,7 +106,7 @@
   "No. No hay “segunda alzada”: el art. 122.3 solo permite una, aunque el Director general tenga un superior.",
   "Es esta. Contra la resolución de una alzada no cabe “ningún otro recurso administrativo” (**art. 122.3**). Solo se salva el extraordinario de revisión, si hay alguna causa del art. 125.1, y aquí no se plantea."
  ],
- "ojo": "Tras la alzada no hay reposición ni otra alzada. El camino normal es el juzgado contencioso-administrativo."
+ "ojo": "Tras la alzada no hay reposición ni otra alzada. El camino normal es el juzgado contencioso-administrativo. En clase: el profesor lo marca como IMP. Alzada: 1 mes para interponerla si el acto es expreso (si pasa, la resolución es firme a todos los efectos: ni alzada ni vía judicial), y cualquier momento si no lo es; 3 meses para resolver; y contra su resolución no cabe ningún otro recurso administrativo, salvo el extraordinario de revisión. La alzada es obligatoria porque el acto no pone fin a la vía administrativa: si no la pones, no puedes ir al juez. El doble silencio estimatorio solo existe si la alzada se pone contra un acto presunto, y nunca en los cuatro casos del art. 24."
 },
 "pr-35-001": {
  "bloque": "recursos",
@@ -113,7 +117,8 @@
   "Es esta. Una sanción ambiental de un Director general no pone fin a la vía administrativa, porque no es materia de personal y él tiene superior jerárquico. Por tanto se recurre en alzada (**art. 121.1**).",
   "No. El extraordinario de revisión es para actos ya firmes y con una causa del art. 125.1. Aquí no hay ni firmeza ni causa.",
   "No. Es una resolución y ninguna norma excluye el recurso, así que cabe alzada (art. 112.1)."
- ]
+ ],
+ "ojo": "En clase: el profesor lo llama «artículo estrella». Poner fin a la vía administrativa no es ser firme: si el acto pone fin, ya se puede ir al juez (o poner el potestativo de reposición); si no pone fin, hay que poner antes la alzada. En clase: los tribunales y órganos de selección se consideran dependientes del órgano al que estén adscritos (por ejemplo, la Comisión Permanente de Selección, adscrita al INAP) o, en su defecto, del que nombró a su presidente."
 },
 "pr-35-002": {
  "bloque": "recursos",
@@ -125,7 +130,7 @@
   "No. El enunciado no dice que el acto sea firme ni da ninguna causa del art. 125.1, que es lo que exige este recurso.",
   "No. Cabe la reposición. Que la cantidad sea pequeña, 1.000 euros, no cierra ningún recurso: la ley no fija un mínimo."
  ],
- "ojo": "Los 1.000 euros son una distracción: el art. 114.1.e) no distingue por cuantía."
+ "ojo": "Los 1.000 euros son una distracción: el art. 114.1.e) no distingue por cuantía. En clase: la responsabilidad patrimonial pone fin a la vía administrativa, sea cual sea el tipo de relación, pública o privada, de que derive."
 },
 "pr-35-003": {
  "bloque": "recursos",
@@ -136,7 +141,8 @@
   "No. El Subsecretario depende del Ministro, pero en personal su acto ya pone fin a la vía, así que la alzada no cabe.",
   "No. No es un acto firme ni aparece ninguna causa del art. 125.1.",
   "No. Se puede recurrir: reposición, voluntaria, o directamente el contencioso (art. 123.1)."
- ]
+ ],
+ "ojo": "En clase: trampa típica. Una resolución de un Director General sobre una subvención no pone fin a la vía administrativa: cabe alzada ante su superior. Solo pone fin si es en materia de personal (por ejemplo, un permiso de un funcionario). El Secretario General Técnico tiene nivel de Director General."
 },
 "pr-35-004": {
  "bloque": "revision",
@@ -160,7 +166,7 @@
   "Es esta. Contra actos firmes solo cabe el extraordinario de revisión, y documentos de valor esencial que evidencian el error son la causa del **art. 125.1.b)**. Da igual que sean posteriores a la resolución.",
   "No. Sí cabe recurso: la firmeza no lo impide cuando concurre una causa del art. 125.1."
  ],
- "ojo": "Plazo para este motivo: tres meses desde que conoces los documentos (art. 125.2)."
+ "ojo": "Plazo para este motivo: tres meses desde que conoces los documentos (art. 125.2). En clase: el profesor marca como IMP el «ante quién»: se presenta ante el órgano que dictó el acto, que también lo resuelve. Solo cabe contra actos firmes y por cuatro causas tasadas: error de hecho (no de derecho; ejemplo: te deniegan la licencia del pozo porque la finca no es tuya y en el expediente está la escritura que dice que sí), documentos de valor esencial, documentos o testimonios declarados falsos por sentencia firme, y prevaricación, cohecho, violencia o maquinación fraudulenta declarados por sentencia firme."
 },
 "pr-35-006": {
  "bloque": "recursos",
@@ -171,7 +177,8 @@
   "No. El Ministro no tiene superior jerárquico al que dirigir una alzada y sus actos agotan la vía.",
   "No. El enunciado no dice que el acto sea firme ni da una causa del art. 125.1.",
   "No. La caducidad se puede recurrir, y además aquí queda la reposición antes del contencioso (art. 123.1)."
- ]
+ ],
+ "ojo": "En clase: el profesor lo llama «artículo estrella». Poner fin a la vía administrativa no es ser firme: si el acto pone fin, ya se puede ir al juez (o poner el potestativo de reposición); si no pone fin, hay que poner antes la alzada."
 },
 "pr-35-007": {
  "bloque": "iniciacion",
@@ -206,7 +213,8 @@
   "No. Es la trampa de ver “Director General” y pensar en alzada. Aquí manda la clase de procedimiento.",
   "No. Nada indica que el acto sea firme ni hay causa del art. 125.1.",
   "No. Cabe la reposición, y también ir directamente al contencioso (art. 123.1)."
- ]
+ ],
+ "ojo": "En clase: el procedimiento complementario del art. 90.4 fija indemnizaciones y repara daños, pero no la multa: por eso no es sancionador y también pone fin a la vía administrativa."
 },
 "pr-35-010": {
  "bloque": "recursos",
@@ -218,7 +226,7 @@
   "No. No es un acto firme ni aparece ninguna causa del art. 125.1.",
   "No. Es una resolución y ninguna norma excluye el recurso (art. 112.1)."
  ],
- "ojo": "Compárala con la del Subsecretario: la materia es la misma, pero cambia el nivel. Subsecretario, reposición. Subdirector, alzada."
+ "ojo": "Compárala con la del Subsecretario: la materia es la misma, pero cambia el nivel. Subsecretario, reposición. Subdirector, alzada. En clase: trampa típica. Una resolución de un Director General sobre una subvención no pone fin a la vía administrativa: cabe alzada ante su superior. Solo pone fin si es en materia de personal (por ejemplo, un permiso de un funcionario). El Secretario General Técnico tiene nivel de Director General. En clase: los tribunales y órganos de selección se consideran dependientes del órgano al que estén adscritos (por ejemplo, la Comisión Permanente de Selección, adscrita al INAP) o, en su defecto, del que nombró a su presidente."
 },
 "pr-36-001": {
  "bloque": "plazos",
@@ -311,7 +319,7 @@
   "No. La fecha coincide con el acceso del 29 de junio, pero tras una alzada no cabe reposición (art. 122.3).",
   "Es esta. Contra la resolución de una alzada no cabe “ningún otro recurso administrativo” (**art. 122.3**). Solo queda el extraordinario de revisión, si se da una causa del art. 125.1, pero ese no es ordinario. D.ª Mar tendría que ir al contencioso."
  ],
- "ojo": "Las fechas sobran: lo que decide esta pregunta es que ya hubo una alzada."
+ "ojo": "Las fechas sobran: lo que decide esta pregunta es que ya hubo una alzada. En clase: el profesor lo marca como IMP. Alzada: 1 mes para interponerla si el acto es expreso (si pasa, la resolución es firme a todos los efectos: ni alzada ni vía judicial), y cualquier momento si no lo es; 3 meses para resolver; y contra su resolución no cabe ningún otro recurso administrativo, salvo el extraordinario de revisión. La alzada es obligatoria porque el acto no pone fin a la vía administrativa: si no la pones, no puedes ir al juez. El doble silencio estimatorio solo existe si la alzada se pone contra un acto presunto, y nunca en los cuatro casos del art. 24."
 },
 "pr-36-009": {
  "bloque": "plazos",
@@ -367,7 +375,8 @@
   "Es esta. Excluir a un participante le impide seguir, así que es un trámite recurrible (art. 112.1). Y en materia de personal, lo que dicta un órgano con nivel de Director general o superior pone fin a la vía (**art. 114.2.c**). Por eso cabe reposición ante el subsecretario.",
   "No. No es un acto firme ni se da una causa del art. 125.1. Además, este recurso se interpone ante el órgano que dictó el acto, no ante el ministro (art. 125.1).",
   "No. La exclusión impide continuar en el procedimiento, y esos trámites sí se pueden recurrir (art. 112.1)."
- ]
+ ],
+ "ojo": "En clase: son recurribles los actos de trámite cualificados: los que deciden directa o indirectamente el fondo (en un concurso de méritos te inadmiten un mérito), los que impiden continuar el procedimiento (sales en la lista de aspirantes excluidos), los que producen indefensión (se omite la audiencia) y los que producen un perjuicio irreparable (una medida cautelar que cierra tu discoteca). Los no cualificados (ampliación de plazos, acumulación, tramitación de urgencia) no se recurren: se alegan para que se tengan en cuenta al resolver. Y nunca se recurre «porque no me gusta», sino por una causa de nulidad o anulabilidad (arts. 47 y 48). En clase: trampa típica. Una resolución de un Director General sobre una subvención no pone fin a la vía administrativa: cabe alzada ante su superior. Solo pone fin si es en materia de personal (por ejemplo, un permiso de un funcionario). El Secretario General Técnico tiene nivel de Director General."
 },
 "pr-37-004": {
  "bloque": "recursos",
@@ -378,7 +387,8 @@
   "No. Dos errores: es nulidad (art. 47.2) y no cabe recurso administrativo contra la disposición (art. 112.3).",
   "No. Acierta la nulidad (art. 47.2), pero falla el recurso: contra una disposición de carácter general no cabe reposición (art. 112.3).",
   "Es esta. Las disposiciones que regulan materias reservadas a la ley son nulas de pleno derecho (**art. 47.2**). Y contra las disposiciones generales “no cabrá recurso en vía administrativa” (**art. 112.3**). Para atacarla directamente, hay que ir al contencioso."
- ]
+ ],
+ "ojo": "En clase: contra un reglamento no cabe recurso en vía administrativa, solo judicial. Si contra el acto que lo aplica el único motivo es que el reglamento es nulo, se puede ir «per saltum»: directamente ante el órgano que dictó el reglamento. Ejemplo: una orden del Ministro dice que solo pescan españoles y un Director General se lo deniega a un italiano; el italiano recurre directamente ante el Ministro, porque el Secretario de Estado no va a discutir la orden."
 },
 "pr-37-005": {
  "bloque": "recursos",
@@ -389,7 +399,8 @@
   "No. “Exclusivamente” lo estropea. El art. 112.3 abre también la vía directa ante el órgano que dictó el reglamento.",
   "No. La vía directa es ante el órgano que dictó el reglamento, el Consejo de Ministros, no ante el ministro.",
   "No. “Exclusivamente” también falla aquí. El art. 112.3 dice “podrán”, así que es una posibilidad, no una obligación."
- ]
+ ],
+ "ojo": "En clase: contra un reglamento no cabe recurso en vía administrativa, solo judicial. Si contra el acto que lo aplica el único motivo es que el reglamento es nulo, se puede ir «per saltum»: directamente ante el órgano que dictó el reglamento. Ejemplo: una orden del Ministro dice que solo pescan españoles y un Director General se lo deniega a un italiano; el italiano recurre directamente ante el Ministro, porque el Secretario de Estado no va a discutir la orden."
 },
 "pr-37-006": {
  "bloque": "recursos",
@@ -400,7 +411,8 @@
   "No. La reposición también es ordinaria y exige un acto que agote la vía, no uno firme fuera de plazo (arts. 123 y 124).",
   "Es esta. Contra los actos firmes solo procede el recurso extraordinario de revisión (**art. 113**), si se da alguna de las causas del **art. 125.1**.",
   "No. Es justo la excepción que recoge el art. 113: un acto firme sí admite el extraordinario si concurre una de esas causas."
- ]
+ ],
+ "ojo": "En clase: el profesor marca como IMP el «ante quién»: se presenta ante el órgano que dictó el acto, que también lo resuelve. Solo cabe contra actos firmes y por cuatro causas tasadas: error de hecho (no de derecho; ejemplo: te deniegan la licencia del pozo porque la finca no es tuya y en el expediente está la escritura que dice que sí), documentos de valor esencial, documentos o testimonios declarados falsos por sentencia firme, y prevaricación, cohecho, violencia o maquinación fraudulenta declarados por sentencia firme."
 },
 "pr-37-007": {
  "bloque": "recursos",
@@ -411,7 +423,8 @@
   "No. Esa causa pertenece al extraordinario de revisión (art. 126.1), no a la lista del art. 116.",
   "Es esta. Carecer el recurso manifiestamente de fundamento es una causa de inadmisión del **art. 116.e)**. Las otras son incompetencia a favor de otra Administración, falta de legitimación, acto no recurrible y plazo vencido.",
   "No. El art. 115.2 dice lo contrario: el error al calificar el recurso no impide tramitarlo si se deduce su verdadero carácter."
- ]
+ ],
+ "ojo": "En clase: un recurso sin fundamento es el que no se apoya en una causa de nulidad o anulabilidad. Ejemplo: «si no me das la autorización del pozo se me mueren las plantas» puede ser verdad, pero no es una causa de nulidad ni de anulabilidad."
 },
 "pr-37-008": {
  "bloque": "recursos",
@@ -422,7 +435,8 @@
   "Es esta. Según el **art. 117.5**, la suspensión de un acto que afecta a una pluralidad indeterminada de personas “habrá de ser publicada en el periódico oficial en que aquél se insertó”. Así, quien vio el acto puede ver la suspensión en el mismo sitio.",
   "No. Si las personas afectadas son indeterminadas, no se las puede notificar una a una. Por eso se publica (art. 117.5).",
   "No. El art. 117.5 no habla de sede electrónica ni de tablón, sino del periódico oficial donde se insertó el acto."
- ]
+ ],
+ "ojo": "En clase: si alguien impugna las bases de una convocatoria de oposiciones y se suspenden, la suspensión se publica en el mismo boletín en que se publicó el acto (el BOE si era del Estado, el de la Comunidad Autónoma si era suya)."
 },
 "pr-37-009": {
  "bloque": "recursos",
@@ -433,7 +447,8 @@
   "No. Quince días es solo el máximo de la horquilla (art. 118.1).",
   "No. Te cambian el plazo. El art. 118.1 fija de diez a quince días, no “no inferior a veinte”.",
   "Es esta. Cuando aparecen hechos o documentos nuevos, se dan a los interesados “un plazo no inferior a diez días ni superior a quince” (**art. 118.1**). Vale también para que aleguen otros interesados (art. 118.2)."
- ]
+ ],
+ "ojo": "En clase: el procedimiento de recurso es más jurídico que el principal y normalmente no hay documentos nuevos ni pruebas. Solo si hay hechos o documentos nuevos se da audiencia, de 10 a 15 días. No se tiene en cuenta lo que pudiste aportar en el trámite de alegaciones y no aportaste."
 },
 "pr-37-010": {
  "bloque": "recursos",
@@ -444,7 +459,8 @@
   "Es esta. Al juzgado solo se puede ir contra lo que pone fin a la vía administrativa (**art. 25.1 de la Ley 29/1998**). Por eso hay que recurrir antes en alzada (**art. 121.1**) y esperar a la resolución o a la desestimación por silencio (art. 122.2).",
   "No. Dejar pasar el plazo sería lo peor: la resolución sería firme “a todos los efectos” (art. 122.1) y se cerraría también el camino al juzgado.",
   "No. Solo se puede ir directamente al contencioso contra lo que agota la vía (art. 123.1). Aquí no es el caso."
- ]
+ ],
+ "ojo": "En clase: los tribunales y órganos de selección se consideran dependientes del órgano al que estén adscritos (por ejemplo, la Comisión Permanente de Selección, adscrita al INAP) o, en su defecto, del que nombró a su presidente."
 },
 "pr-37-011": {
  "bloque": "recursos",
@@ -456,7 +472,7 @@
   "No. El contencioso exige acto que ponga fin a la vía (art. 25.1 de la Ley 29/1998). Prudencio no hizo la alzada y ya no hay nada que llevar al juzgado.",
   "Es esta. Tenía un mes para la alzada, hasta el 1 de octubre de 2026, y no recurrió. Por eso la resolución es “firme a todos los efectos” (**art. 122.1**), y ni alzada ni reposición ni contencioso caben ya."
  ],
- "ojo": "Compárala con la siguiente: las fechas son iguales, pero aquí no pone fin a la vía. Solo queda el extraordinario de revisión si se da alguna causa del art. 125.1, y no está entre las opciones."
+ "ojo": "Compárala con la siguiente: las fechas son iguales, pero aquí no pone fin a la vía. Solo queda el extraordinario de revisión si se da alguna causa del art. 125.1, y no está entre las opciones. En clase: el profesor lo marca como IMP. Alzada: 1 mes para interponerla si el acto es expreso (si pasa, la resolución es firme a todos los efectos: ni alzada ni vía judicial), y cualquier momento si no lo es; 3 meses para resolver; y contra su resolución no cabe ningún otro recurso administrativo, salvo el extraordinario de revisión. La alzada es obligatoria porque el acto no pone fin a la vía administrativa: si no la pones, no puedes ir al juez. El doble silencio estimatorio solo existe si la alzada se pone contra un acto presunto, y nunca en los cuatro casos del art. 24."
 },
 "pr-37-012": {
  "bloque": "recursos",
@@ -468,7 +484,7 @@
   "Es esta. Pasado el mes de la reposición, “únicamente podrá interponerse recurso contencioso-administrativo” (**art. 124.1**). Hay dos meses desde la notificación (**art. 46.1 de la Ley 29/1998**), así que el 20 de octubre de 2026 aún está en plazo.",
   "No. Solo ha pasado el plazo de la reposición. Aún quedan los dos meses del contencioso, y eso es lo que le sirve aquí."
  ],
- "ojo": "No tiene firmeza “a todos los efectos” porque el plazo del contencioso, dos meses, sigue abierto."
+ "ojo": "No tiene firmeza “a todos los efectos” porque el plazo del contencioso, dos meses, sigue abierto. En clase: mes 1, reposición o contencioso; mes 2, solo contencioso. La reposición se resuelve en 1 mes (el mismo órgano ya conoce el asunto) y, a diferencia de la alzada, no tiene doble silencio: el silencio es siempre desestimatorio. Contra su resolución no se puede volver a poner reposición."
 },
 "pr-37-013": {
  "bloque": "recursos",
@@ -480,7 +496,7 @@
   "Es verdadera, así que no se marca. Es la causa c) del art. 125.1.",
   "Es verdadera, así que no se marca. Es la causa d) del art. 125.1, que incluye prevaricación, cohecho, violencia o maquinación fraudulenta."
  ],
- "ojo": "Si te preguntan por la revisión: error “de hecho”, no “de derecho”."
+ "ojo": "Si te preguntan por la revisión: error “de hecho”, no “de derecho”. En clase: el profesor marca como IMP el «ante quién»: se presenta ante el órgano que dictó el acto, que también lo resuelve. Solo cabe contra actos firmes y por cuatro causas tasadas: error de hecho (no de derecho; ejemplo: te deniegan la licencia del pozo porque la finca no es tuya y en el expediente está la escritura que dice que sí), documentos de valor esencial, documentos o testimonios declarados falsos por sentencia firme, y prevaricación, cohecho, violencia o maquinación fraudulenta declarados por sentencia firme."
 },
 "pr-37-014": {
  "bloque": "recursos",
@@ -491,7 +507,8 @@
   "Es verdadera, así que no se marca. El art. 125.1 dice que se interpone ante el órgano que dictó el acto.",
   "Es verdadera, así que no se marca. El art. 125.1 añade que ese mismo órgano es competente para resolverlo.",
   "Es verdadera, así que no se marca. El art. 125.3 mantiene el derecho a pedir la revisión de oficio de actos nulos (art. 106) y la rectificación de errores (art. 109.2)."
- ]
+ ],
+ "ojo": "En clase: el profesor lo marca como IMP. Igual que en el art. 106.3, se puede inadmitir motivadamente sin dictamen del Consejo de Estado cuando no hay causa del art. 125.1 o ya se desestimaron en cuanto al fondo otros recursos sustancialmente iguales. El órgano resuelve también el fondo, y a los 3 meses sin resolución se entiende desestimado y queda expedita la vía contencioso-administrativa."
 },
 "pr-37-015": {
  "bloque": "recursos",
@@ -502,6 +519,7 @@
   "No. El plazo es bueno, pero el efecto no: el silencio aquí es desestimatorio, no estimatorio (art. 126.3).",
   "No. El sentido es bueno, pero el plazo no. Un mes es el de la reposición (art. 124.2).",
   "Es esta. Pasados **tres meses** desde que se interpone sin resolución, el recurso se entiende **desestimado** y queda abierta la vía contencioso-administrativa (**art. 126.3**)."
- ]
+ ],
+ "ojo": "En clase: el profesor lo marca como IMP. Igual que en el art. 106.3, se puede inadmitir motivadamente sin dictamen del Consejo de Estado cuando no hay causa del art. 125.1 o ya se desestimaron en cuanto al fondo otros recursos sustancialmente iguales. El órgano resuelve también el fondo, y a los 3 meses sin resolución se entiende desestimado y queda expedita la vía contencioso-administrativa."
 }
 }

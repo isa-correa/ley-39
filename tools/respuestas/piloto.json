@@ -429,7 +429,8 @@
    "Es esta. Es el **art. 116.d)**. Si presentas el recurso fuera de plazo, ni siquiera se entra a estudiarlo.",
    "No. Equivocarse de nombre no impide tramitarlo, siempre que se deduzca qué recurso es en realidad (art. 115.2).",
    "No. Esta causa no está en la lista. Lo que sí está es carecer el recurso **manifiestamente** de fundamento (art. 116.e)."
-  ]
+  ],
+  "ojo": "En clase: el profesor lo marca como IMP y lo llama pregunta «regalo»: si le llamas reposición y es alzada, o no le pones nombre, se tramita igual mientras se deduzca su verdadero carácter."
  },
  "of-12-002": {
   "bloque": "recursos",
@@ -440,7 +441,8 @@
    "No. El de reposición es para actos que sí ponen fin a la vía, pero un acto firme ya no admite este recurso.",
    "Es esta. Lo dice el **art. 113**, y solo cuando se da alguna de las causas del art. 125.1. Por eso se llama “extraordinario”.",
    "No. No existe en la Ley 39/2015: es un recurso de los tribunales."
-  ]
+  ],
+  "ojo": "En clase: el profesor marca como IMP el «ante quién»: se presenta ante el órgano que dictó el acto, que también lo resuelve. Solo cabe contra actos firmes y por cuatro causas tasadas: error de hecho (no de derecho; ejemplo: te deniegan la licencia del pozo porque la finca no es tuya y en el expediente está la escritura que dice que sí), documentos de valor esencial, documentos o testimonios declarados falsos por sentencia firme, y prevaricación, cohecho, violencia o maquinación fraudulenta declarados por sentencia firme."
  },
  "of-12-003": {
   "bloque": "recursos",
@@ -451,7 +453,8 @@
    "No. Tampoco este.",
    "No. Este recurso no está en la Ley 39/2015.",
    "Es esta. Es el **art. 112.3**. Un reglamento se ataca ante los tribunales, no ante la propia Administración."
-  ]
+  ],
+  "ojo": "En clase: contra un reglamento no cabe recurso en vía administrativa, solo judicial. Si contra el acto que lo aplica el único motivo es que el reglamento es nulo, se puede ir «per saltum»: directamente ante el órgano que dictó el reglamento. Ejemplo: una orden del Ministro dice que solo pescan españoles y un Director General se lo deniega a un italiano; el italiano recurre directamente ante el Ministro, porque el Secretario de Estado no va a discutir la orden."
  },
  "vo-06-001": {
   "bloque": "recursos",
@@ -462,7 +465,8 @@
    "No. “Únicamente” lo estropea, porque también cabe la alzada.",
    "No. Igual, porque también cabe la reposición. Cuál toca dependerá de si el acto pone fin o no a la vía administrativa.",
    "No. Solo vale para los demás actos de trámite. A esos se les opone en la resolución final."
-  ]
+  ],
+  "ojo": "En clase: son recurribles los actos de trámite cualificados: los que deciden directa o indirectamente el fondo (en un concurso de méritos te inadmiten un mérito), los que impiden continuar el procedimiento (sales en la lista de aspirantes excluidos), los que producen indefensión (se omite la audiencia) y los que producen un perjuicio irreparable (una medida cautelar que cierra tu discoteca). Los no cualificados (ampliación de plazos, acumulación, tramitación de urgencia) no se recurren: se alegan para que se tengan en cuenta al resolver. Y nunca se recurre «porque no me gusta», sino por una causa de nulidad o anulabilidad (arts. 47 y 48)."
  },
  "vo-06-004": {
   "bloque": "recursos",
@@ -473,7 +477,8 @@
    "No. Las resoluciones sancionadoras no aparecen en la lista. Lo que sí está es el procedimiento complementario en materia sancionadora (art. 114.1.f).",
    "No. La de alzada sí pone fin a la vía (art. 114.1.a), pero el artículo no cita la de reposición. Después de ella, solo queda ir a los tribunales (art. 124).",
    "No. El art. 114.2.c) dice lo contrario: ponen fin **en relación con** las competencias en materia de personal, no con excepción de ellas."
-  ]
+  ],
+  "ojo": "En clase: el profesor lo llama «artículo estrella». Poner fin a la vía administrativa no es ser firme: si el acto pone fin, ya se puede ir al juez (o poner el potestativo de reposición); si no pone fin, hay que poner antes la alzada."
  },
  "au-24-001": {
   "bloque": "recursos",
@@ -484,7 +489,8 @@
    "No. La alzada no cabe: sirve justo para los actos que **no** ponen fin a la vía (art. 121.1).",
    "No. “Solo” es lo que falla. El extraordinario de revisión es para actos firmes, pero no es la única vía.",
    "No. Misma razón: la alzada es para los que no ponen fin a la vía."
-  ]
+  ],
+  "ojo": "En clase: la reposición la resuelve el mismo órgano que ya te dijo que no, pero es gratis; el contencioso lo decide un juez imparcial, pero hace falta abogado y cuesta dinero. No se pueden llevar las dos vías a la vez: no se puede ir al contencioso hasta que se resuelva expresamente la reposición o se desestime por silencio."
  },
  "au-24-002": {
   "bloque": "recursos",
@@ -495,7 +501,8 @@
    "No. El superior jerárquico ya es el competente para resolver (art. 121.1), así que esta opción no añade nada y olvida al órgano que dictó el acto.",
    "Es esta. Es el **art. 121.2**. Si lo presentas ante el que dictó el acto, este tiene diez días para remitirlo con su informe y el expediente.",
    "No. “En todo caso” vuelve a estropearlo."
-  ]
+  ],
+  "ojo": "En clase: la alzada se puede presentar ante el órgano que dictó el acto o ante el competente para resolverla, pero la resuelve siempre el superior jerárquico. Si se presenta ante el primero, este la remite en 10 días con su informe y una copia completa y ordenada del expediente, y su titular es responsable directo de que se cumpla."
  },
  "pr-17-001": {
   "bloque": "finalizacion",

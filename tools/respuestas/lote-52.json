@@ -88,7 +88,8 @@
    "No. El Subdirector General no dictó la resolución ni es quien resuelve. Quien resuelve es el superior del Subsecretario, el titular del Departamento.",
    "No. No hace falta presentarlo solo ante el Ministro: la alzada también se puede presentar ante el órgano que dictó el acto (**art. 121.2**).",
    "No. La reposición solo cabe contra actos que ponen fin a la vía administrativa (**art. 123.1**), y el del Subsecretario no la agota."
-  ]
+  ],
+  "ojo": "En clase: el profesor lo llama «artículo estrella». Poner fin a la vía administrativa no es ser firme: si el acto pone fin, ya se puede ir al juez (o poner el potestativo de reposición); si no pone fin, hay que poner antes la alzada."
  },
  "pr-43-009": {
   "bloque": "organos",
@@ -110,7 +111,8 @@
    "No. Un mes no es el plazo de la alzada, y tampoco hay días adicionales.",
    "Es esta. El **art. 122.2** fija **tres meses** para dictar y notificar la resolución del recurso de alzada.",
    "No. Un mes es el plazo para interponer la alzada contra un acto expreso (**art. 122.1**), no para resolverla."
-  ]
+  ],
+  "ojo": "En clase: el profesor lo marca como IMP. Alzada: 1 mes para interponerla si el acto es expreso (si pasa, la resolución es firme a todos los efectos: ni alzada ni vía judicial), y cualquier momento si no lo es; 3 meses para resolver; y contra su resolución no cabe ningún otro recurso administrativo, salvo el extraordinario de revisión. La alzada es obligatoria porque el acto no pone fin a la vía administrativa: si no la pones, no puedes ir al juez. El doble silencio estimatorio solo existe si la alzada se pone contra un acto presunto, y nunca en los cuatro casos del art. 24."
  },
  "pr-43-011": {
   "bloque": "lcsp-tipos",

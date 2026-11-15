@@ -243,7 +243,7 @@
   "No. El recurso extraordinario de revisión es contra actos firmes y solo por las causas tasadas del art. 125.1. Aquí no hay acto firme ni ninguna de esas causas.",
   "No. La apelación no es un recurso administrativo: es un recurso judicial contra sentencias de los juzgados de lo contencioso (art. 81 de la Ley 29/1998)."
  ],
- "ojo": "La pista está en el caso: “máximo órgano de dirección”. Si pone fin a la vía administrativa, olvídate de la alzada."
+ "ojo": "La pista está en el caso: “máximo órgano de dirección”. Si pone fin a la vía administrativa, olvídate de la alzada. En clase: por ejemplo, un organismo autónomo como el SEPE: pone fin a la vía administrativa lo que emane de su máximo órgano de dirección, salvo que una ley diga otra cosa. En clase: la reposición la resuelve el mismo órgano que ya te dijo que no, pero es gratis; el contencioso lo decide un juez imparcial, pero hace falta abogado y cuesta dinero. No se pueden llevar las dos vías a la vez: no se puede ir al contencioso hasta que se resuelva expresamente la reposición o se desestime por silencio."
 },
 "pr-38-022": {
  "bloque": "recursos",
@@ -254,7 +254,8 @@
   "No. No hay requerimiento: la ley no exige que doña Claudia subsane nada mientras se pueda deducir qué recurso es (art. 115.2).",
   "No. Falla “en ningún caso”. La ley pone una condición: “siempre que se deduzca su verdadero carácter”.",
   "Es esta. El **art. 115.2** dice que el error o la ausencia de calificación no impide la tramitación “siempre que se deduzca su verdadero carácter”. Doña Claudia no tiene que saber cómo se llama su recurso: la Administración lo identifica por lo que pide."
- ]
+ ],
+ "ojo": "En clase: el profesor lo marca como IMP y lo llama pregunta «regalo»: si le llamas reposición y es alzada, o no le pones nombre, se tramita igual mientras se deduzca su verdadero carácter."
 },
 "pr-38-023": {
  "bloque": "recursos",
@@ -266,7 +267,7 @@
   "No. Acierta en que está en plazo, pero no porque acabe el 23 de noviembre. Contra el silencio no hay fecha límite de un mes.",
   "Es esta. El acto presunto se produjo al vencer el plazo, el 8 de octubre de 2025. Si el acto no es expreso, el **art. 124.1, segundo párrafo**, permite el recurso de reposición “en cualquier momento” a partir del día siguiente. Así que su recurso del 8 de enero de 2026 está en plazo."
  ],
- "ojo": "Acto expreso: un mes. Acto presunto: en cualquier momento. Y es el mismo criterio en la alzada (art. 122.1)."
+ "ojo": "Acto expreso: un mes. Acto presunto: en cualquier momento. Y es el mismo criterio en la alzada (art. 122.1). En clase: mes 1, reposición o contencioso; mes 2, solo contencioso. La reposición se resuelve en 1 mes (el mismo órgano ya conoce el asunto) y, a diferencia de la alzada, no tiene doble silencio: el silencio es siempre desestimatorio. Contra su resolución no se puede volver a poner reposición."
 },
 "pr-38-024": {
  "bloque": "recursos",
@@ -278,7 +279,7 @@
   "Es esta. El recurso de doña Claudia es de reposición, y el **art. 123.1** dice que se interpone ante “el mismo órgano” que hubiera dictado el acto. Ese órgano es el Presidente de la Confederación, competente para resolver el procedimiento.",
   "No. Resolver el superior jerárquico es propio de la alzada (art. 121.1). Y el Presidente, como máximo órgano de dirección, agota la vía administrativa."
  ],
- "ojo": "Reposición: lo resuelve el mismo órgano. Alzada: lo resuelve el superior."
+ "ojo": "Reposición: lo resuelve el mismo órgano. Alzada: lo resuelve el superior. En clase: la reposición la resuelve el mismo órgano que ya te dijo que no, pero es gratis; el contencioso lo decide un juez imparcial, pero hace falta abogado y cuesta dinero. No se pueden llevar las dos vías a la vez: no se puede ir al contencioso hasta que se resuelva expresamente la reposición o se desestime por silencio."
 },
 "pr-38-025": {
  "bloque": "recursos",
@@ -290,6 +291,6 @@
   "No. Cuenta dos meses, y ningún plazo de los recursos es de dos meses en vía administrativa: la reposición es de un mes. Y el silencio tampoco sería estimatorio.",
   "No. Dos fallos: el plazo es de un mes y no de dos, y el silencio no es estimatorio. La excepción del doble silencio solo es para el recurso de alzada, y además no se aplica en materias como el dominio público (art. 24.1, tercer párrafo)."
  ],
- "ojo": "El doble silencio positivo solo existe en la alzada contra una desestimación presunta y fuera de las materias del segundo párrafo del art. 24.1. Aquí falla por partida doble: es reposición y es dominio público."
+ "ojo": "El doble silencio positivo solo existe en la alzada contra una desestimación presunta y fuera de las materias del segundo párrafo del art. 24.1. Aquí falla por partida doble: es reposición y es dominio público. En clase: mes 1, reposición o contencioso; mes 2, solo contencioso. La reposición se resuelve en 1 mes (el mismo órgano ya conoce el asunto) y, a diferencia de la alzada, no tiene doble silencio: el silencio es siempre desestimatorio. Contra su resolución no se puede volver a poner reposición."
 }
 }

@@ -88,7 +88,8 @@
    "No. El máximo no es de treinta días sino de quince (**art. 118.1**).",
    "Es esta. El **art. 118.1** da un plazo **no inferior a diez días ni superior a quince** para alegar sobre nuevos hechos o documentos.",
    "No. Ni el mínimo es de quince ni el máximo de treinta (**art. 118.1**)."
-  ]
+  ],
+  "ojo": "En clase: el procedimiento de recurso es más jurídico que el principal y normalmente no hay documentos nuevos ni pruebas. Solo si hay hechos o documentos nuevos se da audiencia, de 10 a 15 días. No se tiene en cuenta lo que pudiste aportar en el trámite de alegaciones y no aportaste."
  },
  "pr-41-009": {
   "bloque": "finalizacion",
@@ -112,7 +113,7 @@
    "No. El acuerdo de aplicar la tramitación de urgencia no es susceptible de recurso (**art. 33.2**).",
    "Es esta. La resolución que declara la caducidad pone fin al procedimiento, y por eso se puede recurrir (**art. 112.1**: resoluciones y actos de trámite cualificados)."
   ],
-  "ojo": "No admiten recurso: ampliación de plazos, tramitación de urgencia y lesividad. Sí lo admiten las resoluciones que terminan el procedimiento."
+  "ojo": "No admiten recurso: ampliación de plazos, tramitación de urgencia y lesividad. Sí lo admiten las resoluciones que terminan el procedimiento. En clase: son recurribles los actos de trámite cualificados: los que deciden directa o indirectamente el fondo (en un concurso de méritos te inadmiten un mérito), los que impiden continuar el procedimiento (sales en la lista de aspirantes excluidos), los que producen indefensión (se omite la audiencia) y los que producen un perjuicio irreparable (una medida cautelar que cierra tu discoteca). Los no cualificados (ampliación de plazos, acumulación, tramitación de urgencia) no se recurren: se alegan para que se tengan en cuenta al resolver. Y nunca se recurre «porque no me gusta», sino por una causa de nulidad o anulabilidad (arts. 47 y 48)."
  },
  "pr-41-011": {
   "bloque": "revision",
