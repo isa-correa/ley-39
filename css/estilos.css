@@ -400,6 +400,13 @@ i.cuadro{display:block;min-width:0;min-height:0;width:20px;height:20px;flex:none
 .visor-esc.agarrado{cursor:grabbing}
 .visor-lienzo{position:absolute;left:0;top:0;transform-origin:0 0;background:var(--blanco)}
 .visor-img{display:block;width:100%;height:100%;pointer-events:none}
+.visor-pie{flex:none;display:flex;justify-content:flex-start;gap:var(--e2);padding:var(--e2) var(--e4);background:var(--violeta-oscuro);overflow-x:auto;scrollbar-width:thin}
+.visor-pie[hidden]{display:none}
+.visor-ap{flex:none;display:flex;align-items:center;gap:var(--e2);max-width:min(15rem,70vw);min-height:44px;padding:0 var(--e3) 0 var(--e2);border:2px solid transparent;border-radius:var(--r-s);background:var(--violeta-medio);color:var(--blanco);font-size:var(--t-xs);text-align:left}
+.visor-ap b{flex:none;display:grid;place-items:center;width:26px;height:26px;border-radius:50%;background:var(--blanco);color:var(--violeta-oscuro);font-size:var(--t-xs)}
+.visor-ap span{min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.visor-ap[aria-current]{background:var(--blanco);color:var(--violeta-oscuro);border-color:var(--blanco);font-weight:600}
+.visor-ap[aria-current] b{background:var(--violeta-oscuro);color:var(--blanco)}
 @media (pointer:coarse){.visor-zoom{display:none}}
 /* Móvil de pie: la ventana se gira un cuarto de vuelta para que el esquema apaisado ocupe toda la pantalla. */
 @media (orientation:portrait) and (max-width:820px){

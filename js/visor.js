@@ -4,7 +4,7 @@
 (function () {
   "use strict";
   var ZOOM_MAX = 6, PASO = 1.35;
-  var visor, escenario, lienzo, imagen, titulo, cuenta, bAnt, bSig;
+  var visor, escenario, lienzo, imagen, titulo, cuenta, bAnt, bSig, pie, pieClave = "";
   var lista = [], pos = 0, opener = null;
   var z = 1, tx = 0, ty = 0, ajuste = 1;          // zoom relativo al ajuste, desplazamiento
   var punteros = {}, gesto = null, giro = false;
@@ -31,7 +31,8 @@
         '</div>' +
         '<button type="button" class="visor-x" data-v="cerrar" aria-label="Cerrar apuntes">' + CERRAR + '</button>' +
       '</div>' +
-      '<div class="visor-esc" tabindex="0" role="img" aria-label="Esquema. Con el teclado, flechas para mover, más y menos para el zoom."><div class="visor-lienzo"><img class="visor-img" alt="" draggable="false"></div></div>';
+      '<div class="visor-esc" tabindex="0" role="img" aria-label="Esquema. Con el teclado, flechas para mover, más y menos para el zoom."><div class="visor-lienzo"><img class="visor-img" alt="" draggable="false"></div></div>' +
+      '<nav class="visor-pie" aria-label="Apuntes de esta pregunta" hidden></nav>';
     document.body.appendChild(visor);
     escenario = visor.querySelector(".visor-esc");
     lienzo = visor.querySelector(".visor-lienzo");
@@ -40,11 +41,13 @@
     cuenta = visor.querySelector("#visor-cuenta");
     bAnt = visor.querySelector('[data-v="ant"]');
     bSig = visor.querySelector('[data-v="sig"]');
+    pie = visor.querySelector(".visor-pie");
 
     visor.addEventListener("click", function (e) {
       var b = e.target.closest("[data-v]");
       if (b) {
         var a = b.getAttribute("data-v");
+        if (a === "apunte") { ir(+b.getAttribute("data-i")); return; }
         if (a === "cerrar") cerrar();
         else if (a === "ant") ir(pos - 1);
         else if (a === "sig") ir(pos + 1);
@@ -175,12 +178,32 @@
     lista.forEach(function (x) { if (distintos.indexOf(x.id) < 0) distintos.push(x.id); });
     if (distintos.length > 1) partes.push("Apunte " + (distintos.indexOf(it.id) + 1) + " de " + distintos.length);
     cuenta.textContent = partes.join(" · ");
+    pintarPie(distintos, it);
     bAnt.hidden = bSig.hidden = lista.length < 2;
     bAnt.disabled = pos === 0; bSig.disabled = pos === lista.length - 1;
     imagen.alt = it.titulo;
     escenario.setAttribute("aria-label", "Esquema: " + it.titulo + ". Con el teclado, flechas para mover, más y menos para el zoom, cero para ajustar.");
     if (imagen.getAttribute("src") === it.src && imagen.complete) { medir(); ajustar(true); }
     else imagen.src = it.src;
+  }
+
+  /* Abajo a la izquierda: un botón por apunte, solo cuando la pregunta tiene más de uno. */
+  function pintarPie(distintos, it) {
+    pie.hidden = distintos.length < 2;
+    if (pie.hidden) { pieClave = ""; pie.innerHTML = ""; return; }
+    var clave = distintos.join("|");
+    if (clave !== pieClave) {
+      pieClave = clave;
+      pie.innerHTML = distintos.map(function (id, n) {
+        var primera = lista.findIndex(function (x) { return x.id === id; });
+        return '<button type="button" class="visor-ap" data-v="apunte" data-i="' + primera + '" data-id="' + id + '"><b aria-hidden="true">' + (n + 1) + '</b><span>' + lista[primera].titulo.replace(/&/g, "&amp;").replace(/</g, "&lt;") + '</span></button>';
+      }).join("");
+    }
+    Array.prototype.forEach.call(pie.children, function (b) {
+      var activo = b.getAttribute("data-id") === it.id;
+      if (activo) { b.setAttribute("aria-current", "true"); if (b.scrollIntoView) b.scrollIntoView({ block: "nearest", inline: "nearest" }); }
+      else b.removeAttribute("aria-current");
+    });
   }
 
   function cerrar() {
