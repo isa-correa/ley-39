@@ -4,9 +4,12 @@ Cada esquema de ESQUEMAS tiene el PDF, el título, los artículos que cubre y el
 ESQ_PREG engancha cada pregunta con sus esquemas (botón «Consultar apuntes» en la justificación).
 Requiere PyMuPDF (pip install pymupdf). Uso: python3 tools/esquemas.py
 """
-import glob, json, os, re, fitz
+import glob, json, os, re, sys, fitz
 
 RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, os.path.join(RAIZ, "tools"))
+from marcas import citas, BLOQUES_L39
+MAX_POR_PREGUNTA = 5  # apuntes como máximo en el botón de una pregunta
 ZOOM = 2.2
 
 # id: (pdf, título, artículos que se muestran, bloque, grupo dentro del bloque, artículos extra para el buscador)
@@ -61,12 +64,57 @@ for eid, (pdf, titulo, arts, bloque, grupo, mas) in ESQ.items():
     grupos = apuntes.setdefault(bloque, {})
     grupos.setdefault(grupo, []).append(eid)
 
+# Volumen «Ley 39/2015 por bloques» (tools/volumen.py): cada hoja es un apunte. Las de práctica y las del anexo
+# se ven en Apuntes; las de práctica no cuelgan de ninguna pregunta.
+volumen = json.load(open(os.path.join(RAIZ, "tools", "volumen.json"), encoding="utf8")) if os.path.exists(os.path.join(RAIZ, "tools", "volumen.json")) else []
+def arts_de(spec):
+    res = set()
+    for t in filter(None, (x.strip() for x in spec.split(","))):
+        if "-" in t:
+            a, b = t.split("-"); res.update(range(int(a), int(b) + 1))
+        else:
+            res.add(int(t))
+    return res
+cubre, bloque_de = {}, {}
+for b in volumen:
+    for p in b["paginas"]:
+        bloque_de.setdefault(p["id"], b["id"])
+        if p.get("existente"): continue
+        esquemas[p["id"]] = {"titulo": p["titulo"], "paginas": [{"src": "img/esquemas/%s-1.webp" % p["id"], "w": p["w"], "h": p["h"]}]}
+        if p["a"]: esquemas[p["id"]]["a"] = p["a"]
+        cubre[p["id"]] = set() if p["practica"] else arts_de(p["a"])
+
 lista = [{"id": b, "nombre": BLOQUES[b][0], "desc": BLOQUES[b][1],
           "grupos": [{"nombre": g, "ids": ids} for g, ids in gs.items()]} for b, gs in sorted(apuntes.items(), key=lambda x: int(x[0]))]
+for b in volumen:
+    lista.append({"id": b["id"], "etq": "A" if b["id"] == "anexo" else "B" + b["id"][1:],
+                  "nombre": b["nombre"] if b["id"] == "anexo" else "Bloque %s. %s" % (b["id"][1:], b["nombre"]),
+                  "desc": b["arts"] + ". Volumen por bloques.", "grupos": [{"nombre": None, "ids": []}]})
+    ids = []
+    for p in b["paginas"]:
+        if not ids or ids[-1] != p["id"]: ids.append(p["id"])
+    lista[-1]["grupos"][0]["ids"] = ids
 esq_preg = {}
 for eid, qs in PREGUNTAS.items():
     for q in qs:
         esq_preg.setdefault(q, []).append(eid)
+
+# Cada pregunta recibe, además de sus esquemas de siempre, los apuntes del volumen que cubren los artículos de su precepto:
+# primero los que más artículos suyos cubren y, a igualdad, los más concretos. Las de Fuentes del Derecho solo ven el bloque 0.
+orden = {e: n for n, e in enumerate(cubre)}
+for q, r in RESP.items():
+    b = r.get("bloque", "")
+    if b != "fuentes" and b not in BLOQUES_L39: continue
+    cs = citas(r.get("precepto") or "", None if b == "fuentes" else "L39")
+    cit = {int(a) for n, a, ap in cs if b == "fuentes" or n == "L39"}
+    if not cit: continue
+    cand = sorted((-len(cit & c), len(c), orden[e], e) for e, c in cubre.items()
+                  if cit & c and ((bloque_de[e] == "b0") == (b == "fuentes")))
+    lista_q = esq_preg.setdefault(q, [])
+    for c in cand:
+        if len(lista_q) >= MAX_POR_PREGUNTA: break
+        if c[3] not in lista_q: lista_q.append(c[3])
+esq_preg = {k: v for k, v in esq_preg.items() if v}
 
 dump = lambda o: json.dumps(o, ensure_ascii=False, separators=(",", ":"))
 with open(os.path.join(RAIZ, "data", "esquemas.js"), "w", encoding="utf8") as f:

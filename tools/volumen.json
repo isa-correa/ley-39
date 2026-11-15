@@ -1,0 +1,1092 @@
+[
+ {
+  "id": "b0",
+  "nombre": "Fuentes del Derecho",
+  "arts": "Tema 1: arts. 1 y 2 del Código Civil, arts. 81 a 86 de la Constitución y Ley 50/1997",
+  "paginas": [
+   {
+    "id": "v0-1",
+    "titulo": "El orden de las fuentes",
+    "w": 1638,
+    "h": 1157,
+    "a": "1,96",
+    "practica": false
+   },
+   {
+    "id": "v0-2",
+    "titulo": "Vigor, derogación e irretroactividad",
+    "w": 1638,
+    "h": 1157,
+    "a": "2,23",
+    "practica": false
+   },
+   {
+    "id": "v0-3",
+    "titulo": "La pirámide normativa",
+    "w": 1638,
+    "h": 1157,
+    "a": "1,81",
+    "practica": false
+   },
+   {
+    "id": "v0-4",
+    "titulo": "Reglamentos y decisiones del Gobierno",
+    "w": 1638,
+    "h": 1157,
+    "a": "24,37,82,86",
+    "practica": false
+   },
+   {
+    "id": "v0-5",
+    "titulo": "Cómo se elabora una norma",
+    "w": 1638,
+    "h": 1157,
+    "a": "25-26,28,133",
+    "practica": false
+   },
+   {
+    "id": "v0-6",
+    "titulo": "El decreto legislativo",
+    "w": 1638,
+    "h": 1157,
+    "a": "81-85",
+    "practica": false
+   },
+   {
+    "id": "v0-7",
+    "titulo": "El decreto-ley y frente a frente con el decreto legislativo",
+    "w": 1638,
+    "h": 1157,
+    "a": "81,86",
+    "practica": false
+   },
+   {
+    "id": "v0-8",
+    "titulo": "Práctica y trampas",
+    "w": 1638,
+    "h": 1157,
+    "a": "1,81",
+    "practica": true
+   }
+  ]
+ },
+ {
+  "id": "b1",
+  "nombre": "Quién actúa y derechos",
+  "arts": "Introducción y arts. 1 a 5, 7, 8, 13 a 15, 18 a 20 y 53",
+  "paginas": [
+   {
+    "id": "v1-1",
+    "titulo": "El arranque de la ley",
+    "w": 1638,
+    "h": 1157,
+    "a": "1-2,34,127-133",
+    "practica": false
+   },
+   {
+    "id": "v1-2",
+    "titulo": "¿A quién se aplica la ley?",
+    "w": 1638,
+    "h": 1157,
+    "a": "2",
+    "practica": false
+   },
+   {
+    "id": "v1-3",
+    "titulo": "¿Puede actuar ante la administración?",
+    "w": 1638,
+    "h": 1157,
+    "a": "3-5,13",
+    "practica": false
+   },
+   {
+    "id": "v1-4",
+    "titulo": "¿Es interesado?",
+    "w": 1638,
+    "h": 1157,
+    "a": "3-4,8,18,53",
+    "practica": false
+   },
+   {
+    "id": "v1-5",
+    "titulo": "¿Hay que acreditar la representación?",
+    "w": 1638,
+    "h": 1157,
+    "a": "5-6",
+    "practica": false
+   },
+   {
+    "id": "v1-6",
+    "titulo": "Varios y nuevos interesados",
+    "w": 1638,
+    "h": 1157,
+    "a": "7-8,18",
+    "practica": false
+   },
+   {
+    "id": "v1-7",
+    "titulo": "Derechos: art. 13 frente a art. 53",
+    "w": 1638,
+    "h": 1157,
+    "a": "3-4,13-14,24,53,98",
+    "practica": false
+   },
+   {
+    "id": "v1-8",
+    "titulo": "¿Obligado a relacionarse electrónicamente?",
+    "w": 1638,
+    "h": 1157,
+    "a": "14,41",
+    "practica": false
+   },
+   {
+    "id": "v1-9",
+    "titulo": "La lengua del procedimiento",
+    "w": 1638,
+    "h": 1157,
+    "a": "13,15",
+    "practica": false
+   },
+   {
+    "id": "v1-10",
+    "titulo": "Colaborar, comparecer y responder",
+    "w": 1638,
+    "h": 1157,
+    "a": "1,13,18-20,71,100",
+    "practica": false
+   },
+   {
+    "id": "v1-11",
+    "titulo": "¿Ley o reglamento?",
+    "w": 1638,
+    "h": 1157,
+    "a": "1,3,14,19,21,24,30,35,41,47",
+    "practica": false
+   },
+   {
+    "id": "v1-12",
+    "titulo": "Práctica y trampas",
+    "w": 1638,
+    "h": 1157,
+    "a": "7-8",
+    "practica": true
+   }
+  ]
+ },
+ {
+  "id": "b2",
+  "nombre": "Obligación de resolver y silencio",
+  "arts": "Arts. 21 a 25",
+  "paginas": [
+   {
+    "id": "v2-1",
+    "titulo": "La obligación de resolver",
+    "w": 1638,
+    "h": 1157,
+    "a": "21,25",
+    "practica": false
+   },
+   {
+    "id": "v2-2",
+    "titulo": "El silencio en los procedimientos a solicitud",
+    "w": 1638,
+    "h": 1157,
+    "a": "24,106",
+    "practica": false
+   },
+   {
+    "id": "v2-3",
+    "titulo": "Qué valor tiene el silencio",
+    "w": 1638,
+    "h": 1157,
+    "a": "4,24",
+    "practica": false
+   },
+   {
+    "id": "v2-4",
+    "titulo": "Procedimientos de oficio y caducidad",
+    "w": 1638,
+    "h": 1157,
+    "a": "25,95",
+    "practica": false
+   },
+   {
+    "id": "v2-5",
+    "titulo": "Obligación de resolver",
+    "w": 1638,
+    "h": 1157,
+    "a": "21,23,25",
+    "practica": false
+   },
+   {
+    "id": "v2-6",
+    "titulo": "Silencio administrativo",
+    "w": 1638,
+    "h": 1157,
+    "a": "24-25,29,95",
+    "practica": false
+   },
+   {
+    "id": "v2-7",
+    "titulo": "El reloj: plazo, suspensión y ampliación",
+    "w": 1638,
+    "h": 1157,
+    "a": "21-23,87",
+    "practica": false
+   }
+  ]
+ },
+ {
+  "id": "b3",
+  "nombre": "El tiempo",
+  "arts": "Arts. 21.5, 22, 23 y 29 a 33",
+  "paginas": [
+   {
+    "id": "v3-1",
+    "titulo": "Cómputo de plazos",
+    "w": 1638,
+    "h": 1157,
+    "a": "29-30,43",
+    "practica": false
+   },
+   {
+    "id": "v3-2",
+    "titulo": "El tiempo en el procedimiento",
+    "w": 1638,
+    "h": 1157,
+    "a": "21-23,32-33",
+    "practica": false
+   },
+   {
+    "id": "v3-3",
+    "titulo": "Suspensión del plazo para resolver",
+    "w": 1638,
+    "h": 1157,
+    "a": "22-23,39,68,87",
+    "practica": false
+   }
+  ]
+ },
+ {
+  "id": "b4",
+  "nombre": "Requisitos y validez del acto",
+  "arts": "Arts. 35, 47 a 52 y, en la hoja de test, 106 a 111",
+  "paginas": [
+   {
+    "id": "v4-1",
+    "titulo": "Motivación",
+    "w": 1638,
+    "h": 1157,
+    "a": "22-23,32-33,35,56",
+    "practica": false
+   },
+   {
+    "id": "v4-2",
+    "titulo": "Nulo, anulable o válido",
+    "w": 1638,
+    "h": 1159,
+    "a": "1,47-48,52",
+    "practica": false
+   },
+   {
+    "id": "v4-3",
+    "titulo": "Los nulos de pleno derecho",
+    "w": 1638,
+    "h": 1159,
+    "a": "39,47",
+    "practica": false
+   },
+   {
+    "id": "v4-4",
+    "titulo": "Los anulables y la frontera",
+    "w": 1638,
+    "h": 1159,
+    "a": "48,52",
+    "practica": false
+   },
+   {
+    "id": "v4-5",
+    "titulo": "Cómo decidir ante un caso",
+    "w": 1638,
+    "h": 1159,
+    "a": "49-52",
+    "practica": false
+   },
+   {
+    "id": "v4-6",
+    "titulo": "Salvar lo viciado",
+    "w": 1638,
+    "h": 1159,
+    "a": "39,49-52",
+    "practica": false
+   },
+   {
+    "id": "v4-7",
+    "titulo": "La vía: ¿cómo se ataca?",
+    "w": 1638,
+    "h": 1159,
+    "a": "106-109",
+    "practica": true
+   },
+   {
+    "id": "v4-8",
+    "titulo": "Práctica y trampas",
+    "w": 1638,
+    "h": 1159,
+    "a": "35,47-52",
+    "practica": true
+   },
+   {
+    "id": "v4-9",
+    "titulo": "El vicio: ¿nulo, anulable o error?",
+    "w": 1638,
+    "h": 1159,
+    "a": "39,47-48",
+    "practica": true
+   },
+   {
+    "id": "v4-10",
+    "titulo": "Salvar lo posible y poner límites",
+    "w": 1638,
+    "h": 1159,
+    "a": "49-52,108,110-111",
+    "practica": true
+   }
+  ]
+ },
+ {
+  "id": "b5",
+  "nombre": "Eficacia y notificación",
+  "arts": "Arts. 38 a 46",
+  "paginas": [
+   {
+    "id": "v5-1",
+    "titulo": "Eficacia del acto administrativo",
+    "w": 1638,
+    "h": 1157,
+    "a": "37-39",
+    "practica": false
+   },
+   {
+    "id": "v5-2",
+    "titulo": "Notificación: plazo y contenido",
+    "w": 1638,
+    "h": 1157,
+    "a": "40-41",
+    "practica": false
+   },
+   {
+    "id": "v5-3",
+    "titulo": "Notificación en papel",
+    "w": 1638,
+    "h": 1157,
+    "a": "30,40-44",
+    "practica": false
+   },
+   {
+    "id": "v5-4",
+    "titulo": "Notificación electrónica",
+    "w": 1638,
+    "h": 1157,
+    "a": "41,43",
+    "practica": false
+   },
+   {
+    "id": "v5-5",
+    "titulo": "Notificación infructuosa o publicación",
+    "w": 1638,
+    "h": 1157,
+    "a": "40,44-46",
+    "practica": false
+   }
+  ]
+ },
+ {
+  "id": "b6",
+  "nombre": "Iniciación y medidas provisionales",
+  "arts": "Arts. 54 a 74",
+  "paginas": [
+   {
+    "id": "v6-1",
+    "titulo": "Eje de la iniciación",
+    "w": 1638,
+    "h": 1157,
+    "a": "21,54-69",
+    "practica": false
+   },
+   {
+    "id": "v6-2",
+    "titulo": "Iniciación de oficio",
+    "w": 1638,
+    "h": 1159,
+    "a": "54-74",
+    "practica": false
+   },
+   {
+    "id": "v6-3",
+    "titulo": "Solicitud: subsanar o mejorar",
+    "w": 1638,
+    "h": 1157,
+    "a": "14,21,32,66-69",
+    "practica": false
+   },
+   {
+    "id": "v6-4",
+    "titulo": "Medidas provisionales",
+    "w": 1638,
+    "h": 1159,
+    "a": "54-74",
+    "practica": false
+   },
+   {
+    "id": "v6-5",
+    "titulo": "La vida de una medida provisional",
+    "w": 1638,
+    "h": 1157,
+    "a": "54-74",
+    "practica": false
+   },
+   {
+    "id": "v6-6",
+    "titulo": "Expediente y ordenación",
+    "w": 1638,
+    "h": 1157,
+    "a": "22,68,70-74",
+    "practica": false
+   }
+  ]
+ },
+ {
+  "id": "b7",
+  "nombre": "Subsanación e instrucción",
+  "arts": "Arts. 68, 73, 75 a 83 y 87",
+  "paginas": [
+   {
+    "id": "v7-1",
+    "titulo": "Art. 68 frente a art. 73",
+    "w": 1638,
+    "h": 1157,
+    "a": "21,66-68,73",
+    "practica": false
+   },
+   {
+    "id": "v7-2",
+    "titulo": "¿Qué me piden?",
+    "w": 1638,
+    "h": 1157,
+    "a": "21,68,73",
+    "practica": false
+   },
+   {
+    "id": "v7-3",
+    "titulo": "Tres solicitudes, tres reglas",
+    "w": 1638,
+    "h": 1157,
+    "a": "14,21-22,30,68,73",
+    "practica": false
+   },
+   {
+    "id": "v7-4",
+    "titulo": "Las trampas del test",
+    "w": 1638,
+    "h": 1157,
+    "a": "14,68",
+    "practica": false
+   },
+   {
+    "id": "v7-5",
+    "titulo": "Eje de la instrucción",
+    "w": 1638,
+    "h": 1157,
+    "a": "75-83",
+    "practica": false
+   },
+   {
+    "id": "v7-6",
+    "titulo": "¿Cabe recurso contra el acuerdo?",
+    "w": 1638,
+    "h": 1157,
+    "a": "23-24,32-33,35,56-57",
+    "practica": false
+   },
+   {
+    "id": "v7-7",
+    "titulo": "La instrucción: el mapa y todos los plazos",
+    "w": 1638,
+    "h": 1159,
+    "a": "75-83,87",
+    "practica": true
+   },
+   {
+    "id": "v7-8",
+    "titulo": "Alegaciones y prueba",
+    "w": 1638,
+    "h": 1159,
+    "a": "75-78",
+    "practica": true
+   },
+   {
+    "id": "v7-9",
+    "titulo": "Audiencia, información pública y art. 87",
+    "w": 1638,
+    "h": 1159,
+    "a": "79,81-83,87",
+    "practica": true
+   },
+   {
+    "id": "v7-10",
+    "titulo": "Checklist y práctica",
+    "w": 1638,
+    "h": 1159,
+    "a": "87",
+    "practica": true
+   },
+   {
+    "id": "v7-11",
+    "titulo": "Prueba e informes",
+    "w": 1638,
+    "h": 1157,
+    "a": "77-81",
+    "practica": false
+   },
+   {
+    "id": "v7-12",
+    "titulo": "Alegar, audiencia, información pública",
+    "w": 1638,
+    "h": 1157,
+    "a": "32,76,82-83",
+    "practica": false
+   }
+  ]
+ },
+ {
+  "id": "b8",
+  "nombre": "Terminar sin resolver",
+  "arts": "Arts. 25, 84 y 93 a 95",
+  "paginas": [
+   {
+    "id": "v8-1",
+    "titulo": "Terminar sin resolver sobre el fondo",
+    "w": 1638,
+    "h": 1159,
+    "a": "35,93-95",
+    "practica": false
+   },
+   {
+    "id": "v8-2",
+    "titulo": "Qué pasa cuando un interesado desiste o renuncia",
+    "w": 1638,
+    "h": 1159,
+    "a": "5,94",
+    "practica": false
+   },
+   {
+    "id": "v8-3",
+    "titulo": "La caducidad",
+    "w": 1638,
+    "h": 1159,
+    "a": "25,73,95",
+    "practica": false
+   },
+   {
+    "id": "v8-4",
+    "titulo": "Caducidad o prescripción: ¿qué ha muerto?",
+    "w": 1638,
+    "h": 1159,
+    "a": "21-25,84,89,95",
+    "practica": false
+   },
+   {
+    "id": "v8-5",
+    "titulo": "Árbol de decisión",
+    "w": 1638,
+    "h": 1159,
+    "a": "21-25,95",
+    "practica": false
+   },
+   {
+    "id": "v8-6",
+    "titulo": "Las dos caducidades, una al lado de la otra",
+    "w": 1638,
+    "h": 1159,
+    "a": "25,95",
+    "practica": false
+   },
+   {
+    "id": "v8-7",
+    "titulo": "La trampa del art. 95.3 y práctica",
+    "w": 1638,
+    "h": 1159,
+    "a": "21-24,95",
+    "practica": false
+   }
+  ]
+ },
+ {
+  "id": "b9",
+  "nombre": "Resolver: sancionador y patrimonial",
+  "arts": "Arts. 85 y 88 a 92",
+  "paginas": [
+   {
+    "id": "v9-1",
+    "titulo": "La resolución: lo que decide y cómo se dicta",
+    "w": 1638,
+    "h": 1159,
+    "a": "29,35,88-89",
+    "practica": false
+   },
+   {
+    "id": "v9-2",
+    "titulo": "Sancionador I: archivo y propuesta de resolución",
+    "w": 1638,
+    "h": 1159,
+    "a": "89",
+    "practica": false
+   },
+   {
+    "id": "v9-3",
+    "titulo": "Sancionador II: la resolución",
+    "w": 1638,
+    "h": 1159,
+    "a": "38-39,77,88-90,98,114",
+    "practica": false
+   },
+   {
+    "id": "art85",
+    "existente": true
+   },
+   {
+    "id": "art85",
+    "existente": true
+   },
+   {
+    "id": "art85",
+    "existente": true
+   },
+   {
+    "id": "art85",
+    "existente": true
+   },
+   {
+    "id": "v9-8",
+    "titulo": "Responsabilidad patrimonial y visión de conjunto",
+    "w": 1638,
+    "h": 1159,
+    "a": "24-25,32,34,81,88-92",
+    "practica": false
+   },
+   {
+    "id": "v9-9",
+    "titulo": "Sancionador y patrimonial",
+    "w": 1638,
+    "h": 1157,
+    "a": "1,3,24-25,34-35,53,55,60-61,63-65,67,77,81-82,85-86",
+    "practica": false
+   },
+   {
+    "id": "v9-10",
+    "titulo": "El procedimiento sancionador de principio a fin",
+    "w": 1638,
+    "h": 1159,
+    "a": "25,56,62-64,85,89-90,98",
+    "practica": true
+   },
+   {
+    "id": "v9-11",
+    "titulo": "El acuerdo de iniciación",
+    "w": 1638,
+    "h": 1159,
+    "a": "56,64,85",
+    "practica": true
+   },
+   {
+    "id": "v9-12",
+    "titulo": "Después de la resolución, y práctica",
+    "w": 1638,
+    "h": 1159,
+    "a": "25,90,95,98",
+    "practica": true
+   },
+   {
+    "id": "v9-13",
+    "titulo": "Responsabilidad patrimonial: ¿se puede reclamar?",
+    "w": 1638,
+    "h": 1159,
+    "a": "32,65-67",
+    "practica": true
+   },
+   {
+    "id": "v9-14",
+    "titulo": "Instrucción: qué informes y en qué orden",
+    "w": 1638,
+    "h": 1159,
+    "a": "32,80-82",
+    "practica": true
+   },
+   {
+    "id": "v9-15",
+    "titulo": "Checklist y práctica",
+    "w": 1638,
+    "h": 1159,
+    "a": "25",
+    "practica": true
+   },
+   {
+    "id": "v9-16",
+    "titulo": "Bonificación y complementarias",
+    "w": 1638,
+    "h": 1157,
+    "a": "21,64,84-87",
+    "practica": false
+   },
+   {
+    "id": "v9-17",
+    "titulo": "De la instrucción a la resolución",
+    "w": 1638,
+    "h": 1159,
+    "a": "85,89-90",
+    "practica": true
+   },
+   {
+    "id": "v9-18",
+    "titulo": "Resolver: cuándo, qué dice, silencio y quién resuelve",
+    "w": 1638,
+    "h": 1159,
+    "a": "22,24,32,34,81,88,91-92",
+    "practica": true
+   }
+  ]
+ },
+ {
+  "id": "b10",
+  "nombre": "Tramitación simplificada y ejecución",
+  "arts": "Arts. 96 a 105",
+  "paginas": [
+   {
+    "id": "v10-1",
+    "titulo": "Ordinario frente a simplificado: trámite por trámite",
+    "w": 1638,
+    "h": 1159,
+    "a": "68,75-83,87-88,96",
+    "practica": true
+   },
+   {
+    "id": "v10-2",
+    "titulo": "El eje: del inicio a los informes",
+    "w": 1638,
+    "h": 1159,
+    "a": "10,66,68",
+    "practica": true
+   },
+   {
+    "id": "v10-3",
+    "titulo": "El eje: de la información pública a resolver",
+    "w": 1638,
+    "h": 1159,
+    "a": "96",
+    "practica": true
+   },
+   {
+    "id": "v10-4",
+    "titulo": "Cómo se entra y cómo se vuelve al ordinario",
+    "w": 1638,
+    "h": 1159,
+    "a": "7,96",
+    "practica": true
+   },
+   {
+    "id": "v10-5",
+    "titulo": "El dictamen del Consejo de Estado y práctica",
+    "w": 1638,
+    "h": 1159,
+    "a": "22,81,96",
+    "practica": false
+   },
+   {
+    "id": "v10-6",
+    "titulo": "Práctica y trampas",
+    "w": 1638,
+    "h": 1159,
+    "a": "96",
+    "practica": true
+   },
+   {
+    "id": "v10-7",
+    "titulo": "Del título a la ejecución forzosa",
+    "w": 1638,
+    "h": 1159,
+    "a": "90,97-104",
+    "practica": false
+   },
+   {
+    "id": "v10-8",
+    "titulo": "Los cuatro medios de ejecución forzosa",
+    "w": 1638,
+    "h": 1159,
+    "a": "100-104",
+    "practica": false
+   },
+   {
+    "id": "v10-9",
+    "titulo": "Multa coercitiva, compulsión y entrada en domicilio",
+    "w": 1638,
+    "h": 1159,
+    "a": "18,100,103-104",
+    "practica": false
+   },
+   {
+    "id": "v10-10",
+    "titulo": "Resumen, acciones posesorias y práctica",
+    "w": 1638,
+    "h": 1159,
+    "a": "100-105",
+    "practica": false
+   },
+   {
+    "id": "v10-11",
+    "titulo": "Tramitación simplificada",
+    "w": 1638,
+    "h": 1159,
+    "a": "96",
+    "practica": false
+   },
+   {
+    "id": "v10-12",
+    "titulo": "Plazo y trámites",
+    "w": 1638,
+    "h": 1159,
+    "a": "68,96",
+    "practica": false
+   }
+  ]
+ },
+ {
+  "id": "b11",
+  "nombre": "Revisión de oficio y recursos",
+  "arts": "Arts. 106 a 126",
+  "paginas": [
+   {
+    "id": "v11-1",
+    "titulo": "Revisión de oficio",
+    "w": 1638,
+    "h": 1159,
+    "a": "47-48,106-126",
+    "practica": false
+   },
+   {
+    "id": "v11-2",
+    "titulo": "La declaración de nulidad",
+    "w": 1638,
+    "h": 1159,
+    "a": "32,34,47,106-108",
+    "practica": false
+   },
+   {
+    "id": "v11-3",
+    "titulo": "Lesividad, revocación y rectificación",
+    "w": 1638,
+    "h": 1159,
+    "a": "47,82,106-107,109,111",
+    "practica": false
+   },
+   {
+    "id": "v11-4",
+    "titulo": "¿Qué vía uso? ¿quién revisa?",
+    "w": 1638,
+    "h": 1159,
+    "a": "47,91,111",
+    "practica": false
+   },
+   {
+    "id": "v11-5",
+    "titulo": "Límites, plazos y práctica",
+    "w": 1638,
+    "h": 1159,
+    "a": "110",
+    "practica": false
+   },
+   {
+    "id": "v11-6",
+    "titulo": "¿Qué se puede recurrir y cuándo se acaba la vía?",
+    "w": 1638,
+    "h": 1159,
+    "a": "112-114",
+    "practica": true
+   },
+   {
+    "id": "v11-7",
+    "titulo": "Alzada, reposición y revisión: lado a lado",
+    "w": 1638,
+    "h": 1159,
+    "a": "121-126",
+    "practica": true
+   },
+   {
+    "id": "v11-8",
+    "titulo": "¿Qué recurso cabe? recorrido y reglas comunes",
+    "w": 1638,
+    "h": 1159,
+    "a": "112-120",
+    "practica": true
+   },
+   {
+    "id": "v11-9",
+    "titulo": "Práctica y trampas",
+    "w": 1638,
+    "h": 1159,
+    "a": "24",
+    "practica": true
+   }
+  ]
+ },
+ {
+  "id": "b12",
+  "nombre": "Hacer normas y disposiciones",
+  "arts": "Arts. 127 a 133 y disposiciones adicionales, transitorias y finales",
+  "paginas": [
+   {
+    "id": "v12-1",
+    "titulo": "Quién hace normas",
+    "w": 1638,
+    "h": 1157,
+    "a": "47,127-128",
+    "practica": false
+   },
+   {
+    "id": "v12-2",
+    "titulo": "Los seis principios de buena regulación",
+    "w": 1638,
+    "h": 1157,
+    "a": "7,129",
+    "practica": false
+   },
+   {
+    "id": "v12-3",
+    "titulo": "Revisar, publicar, planificar y participar",
+    "w": 1638,
+    "h": 1157,
+    "a": "2,26,130-133",
+    "practica": false
+   },
+   {
+    "id": "v12-4",
+    "titulo": "Disposiciones y régimen transitorio",
+    "w": 1638,
+    "h": 1157,
+    "a": "127-133",
+    "practica": false
+   },
+   {
+    "id": "v12-5",
+    "titulo": "Práctica y trampas",
+    "w": 1638,
+    "h": 1157,
+    "a": "2",
+    "practica": true
+   }
+  ]
+ },
+ {
+  "id": "anexo",
+  "nombre": "Plazos y fechas",
+  "arts": "Repaso transversal",
+  "paginas": [
+   {
+    "id": "va-1",
+    "titulo": "Cómo se cuentan los plazos",
+    "w": 1638,
+    "h": 1157,
+    "a": "29-33,73",
+    "practica": false
+   },
+   {
+    "id": "va-2",
+    "titulo": "Iniciación e instrucción",
+    "w": 1638,
+    "h": 1157,
+    "a": "",
+    "practica": false
+   },
+   {
+    "id": "va-3",
+    "titulo": "Terminar, notificar y el silencio",
+    "w": 1638,
+    "h": 1157,
+    "a": "",
+    "practica": false
+   },
+   {
+    "id": "va-4",
+    "titulo": "Responsabilidad patrimonial",
+    "w": 1638,
+    "h": 1157,
+    "a": "22",
+    "practica": false
+   },
+   {
+    "id": "va-5",
+    "titulo": "Recursos y revisión",
+    "w": 1638,
+    "h": 1157,
+    "a": "46",
+    "practica": false
+   },
+   {
+    "id": "va-6",
+    "titulo": "Por número",
+    "w": 1638,
+    "h": 1157,
+    "a": "",
+    "practica": false
+   },
+   {
+    "id": "va-7",
+    "titulo": "Las trampas del test",
+    "w": 1638,
+    "h": 1157,
+    "a": "",
+    "practica": false
+   },
+   {
+    "id": "va-8",
+    "titulo": "¿Desde cuándo? las fechas que cuentan",
+    "w": 1638,
+    "h": 1159,
+    "a": "21,30,39-43,68",
+    "practica": true
+   },
+   {
+    "id": "va-9",
+    "titulo": "Presentar una solicitud: ¿qué fecha cuenta?",
+    "w": 1638,
+    "h": 1159,
+    "a": "14,16,21,31,66,68",
+    "practica": true
+   },
+   {
+    "id": "va-10",
+    "titulo": "¿Desde cuándo se entiende notificado?",
+    "w": 1638,
+    "h": 1157,
+    "a": "40-44",
+    "practica": true
+   },
+   {
+    "id": "va-11",
+    "titulo": "¿Cumple con resolver y notificar a tiempo?",
+    "w": 1638,
+    "h": 1159,
+    "a": "21-22,24-25,40,43",
+    "practica": true
+   },
+   {
+    "id": "va-12",
+    "titulo": "Practica: ¿qué fecha cuenta?",
+    "w": 1638,
+    "h": 1159,
+    "a": "68",
+    "practica": true
+   }
+  ]
+ }
+]

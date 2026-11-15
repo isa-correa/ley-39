@@ -38,7 +38,18 @@ Los supuestos de cada tema salen en tres grupos: Ejercicios de clase, Exámenes 
 
 La pantalla principal tiene tres pestañas: Examen, Supuestos y Apuntes. Apuntes muestra los esquemas ordenados como el temario, con visor de zoom y arrastre, buscador por tema o por artículo y el botón «Consultar apuntes» en la justificación de las preguntas que tienen esquema.
 
-Los esquemas son PDF en `tools/apuntes/`. `python3 tools/esquemas.py` (necesita PyMuPDF) los pasa a imágenes en `img/esquemas/` y genera `data/esquemas.js`. Para añadir uno, se mete el PDF, se da de alta en `ESQ` (título, artículos y bloque) y se listan en `PREGUNTAS` los ids de las preguntas que lo enseñan (o una regla que los saque del artículo que cita su precepto, como en los de subsanación y plazos). Quedan por añadir los esquemas nuevos de los apuntes completos. Hoy hay tres: art. 85 (terminación en los sancionadores), art. 68 frente a art. 73 (subsanación y trámites) y repaso de plazos. Si una pregunta tiene más de un apunte, el visor pone abajo a la izquierda un botón por apunte (además de las flechas de arriba, que pasan de página). El campo `mas` de un esquema añade artículos solo para el buscador.
+Los esquemas son PDF en `tools/apuntes/`. `python3 tools/esquemas.py` (necesita PyMuPDF) los pasa a imágenes en `img/esquemas/` y genera `data/esquemas.js`. Para añadir uno, se mete el PDF, se da de alta en `ESQ` (título, artículos y bloque) y se listan en `PREGUNTAS` los ids de las preguntas que lo enseñan (o una regla que los saque del artículo que cita su precepto, como en los de subsanación y plazos). Hoy hay tres: art. 85 (terminación en los sancionadores), art. 68 frente a art. 73 (subsanación y trámites) y repaso de plazos. Si una pregunta tiene más de un apunte, el visor pone abajo a la izquierda un botón por apunte (además de las flechas de arriba, que pasan de página). El campo `mas` de un esquema añade artículos solo para el buscador.
+
+## Volumen por bloques (tools/volumen.py)
+
+Además de los tres esquemas de `tools/apuntes/`, la web lleva el volumen «Ley 39/2015 por bloques» (Fuentes del Derecho, bloques 1 a 12 y anexo de plazos y fechas: 122 hojas). Se importa con:
+
+```bash
+python3 -I tools/volumen.py /ruta/a/Ley39_Apuntes   # copia las hojas a img/esquemas/v-*.webp y escribe tools/volumen.json
+python3 tools/esquemas.py                           # regenera data/esquemas.js con todo
+```
+
+Cada hoja es un apunte y cubre los artículos que cita su texto, o los de su bloque si no cita ninguno. Las hojas de práctica salen en Apuntes pero no cuelgan de ninguna pregunta. Las de Fuentes del Derecho (bloque 0) solo se enseñan en preguntas de fuentes, y el resto solo en preguntas de la Ley 39/2015. Cada pregunta muestra hasta 5 apuntes (`MAX_POR_PREGUNTA`), primero los esquemas de siempre. Quedan fuera las 4 hojas de texto del volumen (cómo usarlo, método del supuesto y dos de señuelos), que remiten a páginas del PDF.
 
 ## Movimiento
 

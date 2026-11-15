@@ -491,7 +491,7 @@
     var h = "";
     vis.forEach(function (x) {
       var clave = "a-" + x.b.id, abierto = buscando || !!temasAbiertos[clave];
-      var num = ("0" + (parseInt(x.b.id, 10) + 1)).slice(-2);
+      var num = x.b.etq || ("0" + (parseInt(x.b.id, 10) + 1)).slice(-2);
       h += '<div class="tema tema-ap"><div class="tema-cab sin-check"><button type="button" class="tema-abrir" data-a="tema-abrir" data-v="' + clave + '" aria-expanded="' + abierto + '" aria-controls="t-' + clave + '"><b class="ap-num" aria-hidden="true">' + num + "</b><span>" + esc(x.b.nombre) + "<small>" + plural(x.n, "apunte", "apuntes") + " · " + esc(x.b.desc) + "</small></span>" + ICONOS.flecha + "</button></div>";
       h += '<div class="tema-dentro" id="t-' + clave + '"' + (abierto ? "" : " hidden") + ">";
       x.grupos.forEach(function (g) {
@@ -507,7 +507,7 @@
   function formApuntes() {
     if (!window.APUNTES || !window.ESQUEMAS || !Object.keys(window.ESQUEMAS).length) return '<div class="panel"><div><h2>Apuntes</h2><p class="nota">Todavía no hay apuntes. Aquí irán los esquemas del temario, ordenados por bloques y con un buscador por tema o por artículo.</p></div></div>';
     var total = Object.keys(ESQUEMAS).length;
-    var h = '<div class="panel"><div><h2>Apuntes</h2><p class="nota">' + total + " esquemas ordenados como el temario. Se ven siempre en horizontal: arrastra para moverte y usa la rueda o los dedos para acercar.</p></div>";
+    var h = '<div class="panel"><div><h2>Apuntes</h2><p class="nota">' + total + " apuntes: primero los esquemas ordenados como el temario y después el volumen por bloques, con sus hojas de práctica. Se ven siempre en horizontal: arrastra para moverte y usa la rueda o los dedos para acercar.</p></div>";
     h += '<label class="buscar"><span class="solo-lector">Buscar un apunte</span><input type="search" data-a="busca-apuntes" autocomplete="off" placeholder="Busca por tema o por artículo, por ejemplo 21 o silencio" value="' + esc(busqueda) + '"></label>';
     h += '<p class="nota" id="apuntes-cuenta" role="status">' + (busqueda.trim() ? "" : "") + "</p>";
     h += '<div class="temas" id="apuntes-lista">' + htmlApuntes() + "</div></div>";
