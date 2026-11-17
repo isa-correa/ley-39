@@ -1,0 +1,546 @@
+{
+ "calendarios": {
+  "cal2026a": {
+   "titulo": "Calendario 2026 (febrero, marzo, mayo y julio)",
+   "year": 2026,
+   "meses": [
+    2,
+    3,
+    5,
+    7
+   ],
+   "festivos": [
+    "2026-05-01"
+   ],
+   "nota": "Solo se marcan los festivos nacionales. Los domingos también van en rojo."
+  },
+  "cal2026b": {
+   "titulo": "Calendario 2026 (julio a noviembre)",
+   "year": 2026,
+   "meses": [
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "festivos": [
+    "2026-08-15",
+    "2026-10-12",
+    "2026-11-01"
+   ],
+   "nota": "Solo se marcan los festivos nacionales. Los domingos también van en rojo."
+  }
+ },
+ "caso": {
+  "id": "ref-12",
+  "titulo": "Refuerzo nº 12 - Supuesto práctico: autorización de un quiosco, silencio y recurso (25 preguntas)",
+  "texto": "Dª Elena Maroto, persona física, y la sociedad Artesanías de la Sierra, S. L., representada por su administrador único, D. Pablo Sanz, quieren instalar cada una un quiosco de temporada para vender productos artesanos en una zona de dominio público de un parque nacional.\nAmbas piden la autorización preceptiva al Organismo Autónomo Parques Nacionales, adscrito al Ministerio para la Transición Ecológica y el Reto Demográfico. Las solicitudes se dirigen a la Subdirectora General de Uso Público, que es el órgano competente para tramitar y resolver. Su superior jerárquico es el Director del Organismo, máximo órgano de dirección. Una ley sectorial dice que estos procedimientos se rigen por la Ley 39/2015, de 1 de octubre, y fija un plazo máximo de cinco meses para resolver y notificar. No dice nada sobre el sentido del silencio.\nEl lunes 9 de febrero de 2026, Dª Elena presentó su solicitud en el registro electrónico de la Comunidad de Madrid. Entró en el registro electrónico del Organismo el lunes 16 de febrero.\nEl lunes 23 de febrero, D. Pablo presentó la solicitud de la sociedad directamente en el registro electrónico del Organismo, sin acreditar que podía representarla. Se le requirió para que lo hiciera y recibió el requerimiento el miércoles 4 de marzo. Lo cumplió el jueves 12 de marzo.\nEl jueves 5 de marzo, la Subdirección envió a ambas la comunicación del art. 21.4 de la Ley 39/2015.\nEl viernes 20 de marzo se notificó a ambos el acuerdo por el que la Subdirectora acumulaba de oficio los dos procedimientos, por identidad sustancial.\nEl lunes 27 de julio, sin haber recibido ninguna notificación, la sociedad entiende que su solicitud está estimada por silencio e instala el quiosco. Dª Elena entiende que la suya está desestimada por silencio y, el viernes 7 de agosto, presenta en el registro electrónico del Organismo un recurso administrativo contra el acto presunto.\nSalvo que una pregunta diga otra cosa, no se suspendió ni se amplió ningún plazo y no se notificó resolución expresa. A efectos de plazos, solo son inhábiles los sábados, los domingos y los festivos nacionales que aparecen en el calendario."
+ },
+ "preguntas": [
+  {
+   "n": 1,
+   "enunciado": "¿Desde qué fecha se cuenta el plazo máximo para resolver y notificar en el procedimiento de Dª Elena?",
+   "opciones": [
+    "Desde el lunes 9 de febrero de 2026, fecha en que presentó la solicitud en el registro de la Comunidad de Madrid.",
+    "Desde el lunes 16 de febrero de 2026, fecha en que la solicitud entró en el registro electrónico del Organismo.",
+    "Desde el jueves 5 de marzo de 2026, fecha en que se le envió la comunicación del art. 21.4.",
+    "Desde el viernes 20 de marzo de 2026, fecha en que se le notificó el acuerdo de acumulación."
+   ],
+   "bloque": "actividad",
+   "precepto": "Art. 21.3.b) de la Ley 39/2015",
+   "correcta": 1,
+   "justificaciones": [
+    "No. Presentar en otro registro vale para que tú no pierdas plazo, pero el plazo de la Administración no cuenta desde ahí. Cuenta desde la entrada en el registro del órgano competente (**art. 21.3.b**).",
+    "Es esta. En los procedimientos iniciados a solicitud del interesado, el plazo máximo se cuenta desde la fecha en que la solicitud **entra en el registro electrónico de la Administración u Organismo competente para su tramitación** (**art. 21.3.b**). Aquí es el 16 de febrero, no el 9.",
+    "No. La comunicación del art. 21.4 solo informa del plazo y del silencio. No mueve el inicio del cómputo.",
+    "No. La acumulación junta los expedientes, pero no cambia la fecha de inicio de cada plazo. Cada procedimiento conserva la suya."
+   ],
+   "ojo": "Dª Elena presentó el 9, pero la solicitud llegó al registro del Organismo el 16. Para contar el plazo de la Administración manda la segunda fecha."
+  },
+  {
+   "n": 2,
+   "enunciado": "Si no se suspendió ni se amplió ningún plazo, ¿cuál fue el último día del plazo máximo para resolver y notificar en el procedimiento de Dª Elena?",
+   "opciones": [
+    "El jueves 9 de julio de 2026.",
+    "El viernes 17 de julio de 2026.",
+    "El jueves 16 de julio de 2026.",
+    "El jueves 23 de julio de 2026."
+   ],
+   "bloque": "plazos",
+   "precepto": "Arts. 21.3.b) y 30.4 de la Ley 39/2015",
+   "correcta": 2,
+   "justificaciones": [
+    "No. Es contar cinco meses desde el 9 de febrero, el día en que presentó en otro registro. El plazo cuenta desde la entrada en el registro del Organismo, el 16 de febrero (**art. 21.3.b**).",
+    "No. Es sumar un día de más. Los meses se cuentan de fecha a fecha (**art. 30.4**): el plazo acaba el mismo día del mes de vencimiento, no el siguiente.",
+    "Es esta. La solicitud entró el 16 de febrero y el plazo es de cinco meses. Se cuenta desde el día siguiente y **acaba el mismo día en el mes de vencimiento** (**art. 30.4**): el 16 de julio, jueves y hábil.",
+    "No. Ese es el último día del plazo de la sociedad, cuya solicitud entró el 23 de febrero. No el de Dª Elena."
+   ],
+   "calendario": "cal2026a"
+  },
+  {
+   "n": 3,
+   "enunciado": "¿Y en el procedimiento de la sociedad? ¿Cuál fue el último día del plazo máximo, teniendo en cuenta que los dos procedimientos se acumularon?",
+   "opciones": [
+    "El jueves 23 de julio de 2026.",
+    "El jueves 16 de julio de 2026, para que los dos procedimientos acaben a la vez.",
+    "El jueves 20 de agosto de 2026, cinco meses después del acuerdo de acumulación.",
+    "El martes 4 de agosto de 2026, cinco meses después del requerimiento para acreditar la representación."
+   ],
+   "bloque": "plazos",
+   "precepto": "Arts. 21.3.b), 30.4 y 57 de la Ley 39/2015",
+   "correcta": 0,
+   "justificaciones": [
+    "Es esta. La solicitud de la sociedad entró en el registro del Organismo el 23 de febrero. Cinco meses de fecha a fecha (**art. 30.4**) llevan al 23 de julio, jueves y hábil. Que se acumulara con otro procedimiento no cambia su plazo.",
+    "No. La acumulación no iguala los plazos: cada procedimiento sigue contando desde su propia fecha de entrada en el registro (**art. 21.3.b**).",
+    "No. El acuerdo de acumulación es un acto de trámite. No inicia ningún plazo: el de la sociedad ya llevaba contando desde el 23 de febrero.",
+    "No. El requerimiento para acreditar la representación no reinicia el plazo. Como mucho permite suspenderlo mientras se cumple (**art. 22.1.a**)."
+   ],
+   "ojo": "Acumular es tramitar juntos, no fundir los plazos en uno solo.",
+   "calendario": "cal2026a"
+  },
+  {
+   "n": 4,
+   "enunciado": "El viernes 20 de marzo se notificó a los interesados el acuerdo de acumulación de los dos procedimientos. Según el art. 57 de la Ley 39/2015, ¿qué recurso cabe contra ese acuerdo?",
+   "opciones": [
+    "Recurso de alzada ante el Director del Organismo, en el plazo de un mes.",
+    "Recurso potestativo de reposición ante la Subdirectora, en el plazo de un mes.",
+    "Solo recurso contencioso-administrativo, directamente.",
+    "Ninguno: contra el acuerdo de acumulación no procede recurso alguno."
+   ],
+   "bloque": "iniciacion",
+   "precepto": "Art. 57 de la Ley 39/2015",
+   "correcta": 3,
+   "justificaciones": [
+    "No. El **art. 57** cierra la puerta a todo recurso, y la alzada es un recurso.",
+    "No. Misma razón: el **art. 57** dice que no procede recurso alguno, y la reposición lo es.",
+    "No. El art. 57 dice “recurso alguno”, sin distinguir. Y la acumulación es un acto de trámite, no una resolución que ponga fin al procedimiento.",
+    "Es esta. El **art. 57** termina diciendo: “Contra el acuerdo de acumulación no procederá recurso alguno”. Para acumular hacen falta dos cosas: **identidad sustancial o íntima conexión** y que sea **el mismo órgano** quien tramite y resuelva. Aquí se cumplen las dos: la Subdirectora tramita y resuelve ambos procedimientos. Y puede acordarlo de oficio o a instancia de parte."
+   ],
+   "ojo": "Fíjate en la palabra “alguno”: no hay recurso de ninguna clase contra la acumulación."
+  },
+  {
+   "n": 5,
+   "enunciado": "La Subdirección envió a ambos interesados la comunicación del art. 21.4 el jueves 5 de marzo. ¿La envió dentro de plazo?",
+   "opciones": [
+    "Fuera de plazo para los dos.",
+    "Fuera de plazo para Dª Elena, pero en plazo para la sociedad.",
+    "En plazo para los dos.",
+    "En plazo para Dª Elena, pero fuera de plazo para la sociedad."
+   ],
+   "bloque": "actividad",
+   "precepto": "Arts. 21.4 y 30.2 de la Ley 39/2015",
+   "correcta": 1,
+   "justificaciones": [
+    "No. Para la sociedad iba en plazo: su solicitud entró el 23 de febrero y el plazo acababa el lunes 9 de marzo.",
+    "Es esta. La comunicación debe enviarse **dentro de los diez días siguientes** a la entrada de la solicitud en el registro electrónico del Organismo (**art. 21.4**), y son días hábiles (**art. 30.2**). La solicitud de Dª Elena entró el 16 de febrero: el plazo acabó el lunes 2 de marzo, y el 5 llegó tarde. La de la sociedad entró el 23 de febrero: el plazo acababa el lunes 9 de marzo, y el 5 iba bien.",
+    "No. Para Dª Elena iba tarde: su plazo acabó el lunes 2 de marzo.",
+    "No. Es al revés. Dª Elena es la que entró antes (16 de febrero), así que su plazo acabó antes."
+   ],
+   "ojo": "Los diez días se cuentan desde la entrada en el registro del Organismo, no desde la presentación en otro registro.",
+   "calendario": "cal2026a"
+  },
+  {
+   "n": 6,
+   "enunciado": "Imagina que Dª Elena y la sociedad hubieran firmado una única solicitud conjunta (la normativa reguladora no lo prohíbe) y que después solo la sociedad desistiera. Según los arts. 66.2 y 94.2 de la Ley 39/2015, ¿qué ocurriría?",
+   "opciones": [
+    "El procedimiento terminaría para ambas, salvo que Dª Elena pidiera continuarlo en el plazo de diez días.",
+    "El procedimiento terminaría para ambas, porque una solicitud conjunta no se puede dividir.",
+    "El desistimiento solo afectaría a la sociedad, y el procedimiento seguiría para Dª Elena.",
+    "El desistimiento no produciría efectos hasta que Dª Elena lo aceptara."
+   ],
+   "bloque": "finalizacion",
+   "precepto": "Arts. 66.2 y 94.2 de la Ley 39/2015",
+   "correcta": 2,
+   "justificaciones": [
+    "No. Esos diez días son para **terceros interesados personados** (**art. 94.4**). Dª Elena no es tercera: es cosolicitante.",
+    "No. El **art. 94.2** dice justo lo contrario: aunque la solicitud sea una sola, el desistimiento solo afecta a quien lo formula.",
+    "Es esta. Varias personas pueden pedir lo mismo en una sola solicitud (**art. 66.2**). Pero, si el escrito de iniciación lo formulan dos o más, el **art. 94.2** dice que el desistimiento o la renuncia “sólo afectará a aquellos que la hubiesen formulado”.",
+    "No. Todo interesado puede desistir por sí mismo (**art. 94.1**). No necesita el visto bueno de los demás."
+   ],
+   "ojo": "La Administración podría limitar los efectos del desistimiento y seguir adelante si hubiera interés general (art. 94.5), pero no es lo que pregunta el enunciado."
+  },
+  {
+   "n": 7,
+   "enunciado": "D. Pablo presentó la solicitud de la sociedad sin acreditar que podía representarla. Según el art. 5 de la Ley 39/2015, ¿qué consecuencia tiene esa falta?",
+   "opciones": [
+    "No impide tener por realizado el acto, siempre que se acredite la representación en el plazo de diez días que debe conceder el órgano (o más, si las circunstancias lo requieren).",
+    "La solicitud se tiene por no presentada y la sociedad debe presentar otra, con nueva fecha de entrada.",
+    "La solicitud queda inadmitida y la falta ya no se puede subsanar.",
+    "Se presume la representación, porque presentar una solicitud es un acto de mero trámite."
+   ],
+   "bloque": "interesados",
+   "precepto": "Art. 5.6 de la Ley 39/2015",
+   "correcta": 0,
+   "justificaciones": [
+    "Es esta. El **art. 5.6** dice que la falta o insuficiente acreditación de la representación “no impedirá que se tenga por realizado el acto”, siempre que se aporte o se subsane en el plazo de **diez días** que debe conceder el órgano, o uno superior si hace falta. Así se conserva la fecha de entrada del 23 de febrero.",
+    "No. Es justo lo que evita el art. 5.6: no se pierde la solicitud, se da un plazo para arreglarlo.",
+    "No. La falta se puede subsanar (**art. 5.6**). Inadmitir de entrada sería más duro de lo que dice la ley.",
+    "No. La presunción de representación solo vale para actos y gestiones de **mero trámite**. Formular una solicitud no lo es: ahí hay que acreditarla (**art. 5.3**)."
+   ],
+   "ojo": "Lo de mero trámite se presume. Solicitar, recurrir, desistir o renunciar en nombre de otro exige acreditar la representación."
+  },
+  {
+   "n": 8,
+   "enunciado": "El requerimiento para que la sociedad acreditara la representación se recibió el miércoles 4 de marzo. Si el plazo concedido fue el de diez días del art. 5.6, ¿cuál era el último día para cumplirlo?",
+   "opciones": [
+    "El sábado 14 de marzo de 2026.",
+    "El lunes 16 de marzo de 2026.",
+    "El jueves 19 de marzo de 2026.",
+    "El miércoles 18 de marzo de 2026."
+   ],
+   "bloque": "plazos",
+   "precepto": "Arts. 5.6 y 30.2 de la Ley 39/2015",
+   "correcta": 3,
+   "justificaciones": [
+    "No. Son diez días naturales. Los plazos por días son **hábiles**, salvo que una ley diga otra cosa (**art. 30.2**). Y el 14 de marzo, además, es sábado.",
+    "No. Es contar diez días naturales (hasta el sábado 14) y pasar el plazo al lunes. Pero los diez días son hábiles, y salen otros.",
+    "No. Es pasarse un día. Los diez días hábiles empiezan a contar el día siguiente al de la recepción (**art. 30.3**), y el décimo es el 18.",
+    "Es esta. Se cuentan **diez días hábiles** desde el día siguiente a la recepción (**arts. 5.6, 30.2 y 30.3**): jueves 5 y viernes 6 (2), del lunes 9 al viernes 13 (7), y lunes 16, martes 17 y miércoles 18 (10). Termina el miércoles 18 de marzo."
+   ],
+   "calendario": "cal2026a"
+  },
+  {
+   "n": 9,
+   "enunciado": "La sociedad cumplió el requerimiento el jueves 12 de marzo. Según el art. 22 de la Ley 39/2015, ¿qué podía hacer el Organismo con el plazo máximo para resolver?",
+   "opciones": [
+    "Suspenderlo automáticamente, sin necesidad de acuerdo, hasta el 18 de marzo, fin del plazo concedido.",
+    "Podía suspenderlo desde el 4 de marzo hasta el 12 de marzo, fecha en que se cumplió el requerimiento.",
+    "Podía suspenderlo desde el 4 de marzo hasta el 18 de marzo, aunque el requerimiento se cumpliera antes.",
+    "No podía suspenderlo, porque el requerimiento de subsanación nunca suspende el plazo máximo."
+   ],
+   "bloque": "actividad",
+   "precepto": "Art. 22.1.a) de la Ley 39/2015",
+   "correcta": 1,
+   "justificaciones": [
+    "No. Falla por dos lados. La suspensión por requerimiento es potestativa (“se podrá suspender”, **art. 22.1.a**), no automática. Y llega hasta el cumplimiento, no hasta el final del plazo concedido.",
+    "Es esta. El **art. 22.1.a** permite suspender “por el tiempo que medie entre la notificación del requerimiento y su efectivo cumplimiento por el destinatario”. Aquí, del 4 al 12 de marzo. El plazo concedido solo sirve “en su defecto”, si el destinatario no cumple.",
+    "No. El fin del plazo concedido solo cuenta si el requerimiento no se cumple. Si se cumple antes, la suspensión acaba en ese momento.",
+    "No. Sí puede: es precisamente el primer supuesto de suspensión del **art. 22.1**, letra a)."
+   ],
+   "ojo": "Truco: en el art. 22.1 el plazo “se podrá” suspender, en el 22.2 “se suspenderá”. La subsanación va en el 22.1."
+  },
+  {
+   "n": 10,
+   "enunciado": "Si se hubieran agotado los medios personales y materiales, ¿qué podría hacer la Subdirectora con el plazo máximo del procedimiento de Dª Elena, según el art. 23 de la Ley 39/2015?",
+   "opciones": [
+    "Nada: los plazos máximos solo se pueden suspender, nunca ampliar.",
+    "Ampliarlo hasta la mitad del plazo establecido, es decir, dos meses y medio, y contra el acuerdo cabría recurso de alzada.",
+    "Ampliarlo de forma motivada y excepcional, sin que la ampliación supere el plazo establecido para el procedimiento. Contra el acuerdo no cabría recurso alguno.",
+    "Ampliarlo sin motivar y sin límite, porque basta con haber agotado los medios."
+   ],
+   "bloque": "actividad",
+   "precepto": "Art. 23 de la Ley 39/2015",
+   "correcta": 2,
+   "justificaciones": [
+    "No. Existe la ampliación (**art. 23**), aparte de la suspensión del art. 22. Son dos figuras distintas.",
+    "No. El tope no es la mitad, sino el plazo establecido para el procedimiento. Y contra el acuerdo no cabe ningún recurso (**art. 23.2**).",
+    "Es esta. El **art. 23.1** permite ampliar “excepcionalmente”, “de manera motivada”, cuando se han agotado los medios del art. 21.5, y sin que la ampliación sea superior al plazo establecido: aquí, cinco meses como máximo. El acuerdo se notifica a los interesados y **no cabe recurso** (**art. 23.2**).",
+    "No. Tiene que ser excepcional, estar motivada y respetar el tope del plazo establecido."
+   ],
+   "ojo": "Suspender (art. 22) es parar el reloj. Ampliar (art. 23) es alargar el plazo."
+  },
+  {
+   "n": 11,
+   "enunciado": "Imagina que el lunes 31 de agosto de 2026 se hubiera notificado a la sociedad una resolución expresa de la Subdirectora que denegaba su solicitud. ¿Cuál sería el último día para interponer contra ella el recurso administrativo que procede?",
+   "opciones": [
+    "El miércoles 30 de septiembre de 2026.",
+    "El jueves 1 de octubre de 2026.",
+    "El lunes 2 de noviembre de 2026.",
+    "No tendría plazo: podría interponerlo en cualquier momento."
+   ],
+   "bloque": "recursos",
+   "precepto": "Arts. 122.1 y 30.4 de la Ley 39/2015",
+   "correcta": 0,
+   "justificaciones": [
+    "Es esta. El recurso de alzada tiene **un mes** si el acto es expreso (**art. 122.1**). Se cuenta desde el día siguiente a la notificación, de fecha a fecha. Y si el mes de vencimiento no tiene el día equivalente (septiembre no tiene 31), el plazo acaba **el último día del mes** (**art. 30.4**): el miércoles 30 de septiembre.",
+    "No. Es pasarse un día. Septiembre solo tiene 30 días, así que el plazo acaba el 30 y no salta a octubre.",
+    "No. Son dos meses, el plazo del recurso contencioso-administrativo contra un acto expreso. En vía administrativa, el recurso de alzada tiene un mes.",
+    "No. Poder recurrir en cualquier momento es propio del acto **presunto**, no de la resolución expresa (**art. 122.1**, segundo párrafo)."
+   ],
+   "ojo": "Cuando el mes de vencimiento no tiene el día equivalente, el plazo se queda en el último día de ese mes.",
+   "calendario": "cal2026b"
+  },
+  {
+   "n": 12,
+   "enunciado": "Imagina que la solicitud de la sociedad no hubiera concretado la petición (art. 66.1.c) y que la sociedad no lo hubiera subsanado tras el requerimiento. Según los arts. 68.1 y 21.1 de la Ley 39/2015, ¿qué tendría que hacer la Administración?",
+   "opciones": [
+    "Desestimar la solicitud por silencio, sin más trámite.",
+    "Archivar el expediente sin dictar resolución, porque basta con que pase el plazo.",
+    "Declarar la caducidad del procedimiento tras tres meses de paralización.",
+    "Tenerla por desistida de su petición, previa resolución que declare esa circunstancia con indicación de los hechos y las normas aplicables."
+   ],
+   "bloque": "iniciacion",
+   "precepto": "Arts. 68.1 y 21.1 de la Ley 39/2015",
+   "correcta": 3,
+   "justificaciones": [
+    "No. Si no se subsana, la solicitud no se desestima: se tiene por desistida (**art. 68.1**).",
+    "No. Hace falta **resolución expresa** (**arts. 68.1 y 21.1**). No vale archivar por inercia.",
+    "No. La caducidad del **art. 95** es para procedimientos paralizados por causa imputable al interesado, con advertencia previa de tres meses. No es la consecuencia de no subsanar una solicitud.",
+    "Es esta. El **art. 68.1** manda requerir al interesado para que subsane en diez días, “con indicación de que, si así no lo hiciera, se le tendrá por desistido de su petición, previa resolución” dictada en los términos del **art. 21**. Esa resolución consiste en “la declaración de la circunstancia que concurra” (aquí, el desistimiento), con los hechos producidos y las normas aplicables."
+   ],
+   "ojo": "No subsanar lleva al desistimiento, no a la desestimación ni a la caducidad."
+  },
+  {
+   "n": 13,
+   "enunciado": "Dª Elena eligió presentar su solicitud por vía electrónica. ¿Puede pedir ahora que las notificaciones del procedimiento se le practiquen en papel?",
+   "opciones": [
+    "No: quien presenta por vía electrónica queda obligado a ese medio durante todo el procedimiento.",
+    "Sí: es persona física y puede elegir el medio y cambiarlo en cualquier momento, comunicándolo a la Administración.",
+    "Sí, pero solo antes de que se dicte la resolución y con autorización del Director del Organismo.",
+    "No: todas las personas físicas están obligadas por ley a relacionarse electrónicamente con la Administración."
+   ],
+   "bloque": "interesados",
+   "precepto": "Arts. 14.1 y 41.1 de la Ley 39/2015",
+   "correcta": 1,
+   "justificaciones": [
+    "No. Haber presentado electrónicamente no te ata: el **art. 14.1** deja cambiar el medio en cualquier momento.",
+    "Es esta. El **art. 14.1** dice que las personas físicas pueden elegir en todo momento si se comunican por medios electrónicos o no, salvo que estén obligadas, y que pueden modificar esa elección. El **art. 41.1** lo repite para las notificaciones: quien no está obligado puede decidir y comunicar en cualquier momento que las notificaciones sucesivas se practiquen o dejen de practicarse por medios electrónicos.",
+    "No. No hace falta ninguna autorización, y no hay un momento límite.",
+    "No. Los obligados siempre son los del **art. 14.2** (personas jurídicas, entidades sin personalidad jurídica, colegiados en su actividad profesional, sus representantes y los empleados públicos). Una persona física no lo está, salvo que un reglamento lo imponga a su colectivo (**art. 14.3**)."
+   ]
+  },
+  {
+   "n": 14,
+   "enunciado": "Imagina que D. Pablo hubiera presentado la solicitud de la sociedad en papel, en una oficina de asistencia en materia de registros. Según el art. 68.4 de la Ley 39/2015, ¿qué tendría que hacer la Administración y qué fecha valdría como fecha de presentación?",
+   "opciones": [
+    "Tenerla por presentada en papel, con la fecha de ese día, porque la oficina digitaliza lo que se presenta de forma presencial.",
+    "Requerir a la sociedad para que la presente electrónicamente, pero la fecha de presentación seguiría siendo la del papel.",
+    "Requerir a la sociedad para que la subsane presentándola electrónicamente. La fecha de presentación sería la de la subsanación.",
+    "Rechazarla de plano: la sociedad tendría que empezar de nuevo y no habría requerimiento."
+   ],
+   "bloque": "iniciacion",
+   "precepto": "Arts. 14.2.a) y 68.4 de la Ley 39/2015",
+   "correcta": 2,
+   "justificaciones": [
+    "No. La oficina digitaliza los documentos (**art. 16.5**), pero eso no vale para una persona jurídica: está obligada a relacionarse electrónicamente.",
+    "No. Es la parte que cambia. Según el **art. 68.4**, la fecha de presentación es la de la subsanación, no la del papel.",
+    "Es esta. Las personas jurídicas están obligadas a relacionarse electrónicamente (**art. 14.2.a**). Si presentan en papel, se les requiere para que subsanen presentándola por vía electrónica, y “se considerará como fecha de presentación de la solicitud aquella en la que haya sido realizada la subsanación” (**art. 68.4**).",
+    "No. No se rechaza de plano: la ley manda requerir para subsanar (**art. 68.4**)."
+   ],
+   "ojo": "Si presentas en papel siendo un obligado, pierdes la fecha del papel: vale la de la subsanación."
+  },
+  {
+   "n": 15,
+   "enunciado": "El lunes 27 de julio la sociedad entendió estimada su solicitud por silencio e instaló el quiosco. Conforme al art. 24 de la Ley 39/2015, ¿actuó correctamente?",
+   "opciones": [
+    "No: estimar su solicitud supondría transferirle facultades sobre el dominio público, y en esos casos el silencio es desestimatorio.",
+    "No, porque el 27 de julio todavía no había vencido el plazo máximo para resolver.",
+    "Sí, porque vencido el plazo máximo sin notificación toda solicitud se entiende estimada por silencio.",
+    "Sí, siempre que hubiera pedido antes el certificado acreditativo del silencio."
+   ],
+   "bloque": "actividad",
+   "precepto": "Art. 24.1 de la Ley 39/2015",
+   "correcta": 0,
+   "justificaciones": [
+    "Es esta. El **art. 24.1**, segundo párrafo, dice que el silencio es desestimatorio cuando la estimación tendría como consecuencia que se transfieran al solicitante o a terceros facultades relativas al **dominio público**. Un quiosco en dominio público de un parque nacional es exactamente eso.",
+    "No. El plazo sí había vencido: acabó el 23 de julio. El fallo no está en el plazo, sino en el sentido del silencio.",
+    "No. La regla general es el silencio estimatorio (**art. 24.1**, primer párrafo), pero tiene excepciones, y el dominio público es una de ellas.",
+    "No. El certificado solo acredita el silencio que se haya producido. Si el silencio es negativo, no autoriza a construir nada."
+   ],
+   "ojo": "Antes de aplicar la regla general del silencio estimatorio, mira siempre las excepciones del art. 24.1."
+  },
+  {
+   "n": 16,
+   "enunciado": "Si el silencio hubiera sido estimatorio, ¿qué consideración tendría según el art. 24.2 de la Ley 39/2015?",
+   "opciones": [
+    "La de una simple presunción, que la Administración puede ignorar al resolver.",
+    "La de un acto provisional, que solo produce efectos cuando se expide el certificado.",
+    "La de un acto de trámite, que no pone fin al procedimiento.",
+    "La de acto administrativo finalizador del procedimiento, a todos los efectos."
+   ],
+   "bloque": "actividad",
+   "precepto": "Art. 24.2 de la Ley 39/2015",
+   "correcta": 3,
+   "justificaciones": [
+    "No. Un silencio estimatorio no es una presunción que se pueda ignorar. Tiene efectos plenos, y la resolución expresa posterior solo puede confirmarlo (**art. 24.3.a**).",
+    "No. El certificado solo sirve para acreditar el silencio. El acto produce efectos desde que vence el plazo máximo (**art. 24.4**).",
+    "No. Es al revés: el silencio estimatorio pone fin al procedimiento.",
+    "Es esta. El **art. 24.2** dice que la estimación por silencio “tiene a todos los efectos la consideración de acto administrativo finalizador del procedimiento”. La desestimación, en cambio, tiene “los solos efectos” de permitir recurrir, como le pasa a Dª Elena."
+   ]
+  },
+  {
+   "n": 17,
+   "enunciado": "El jueves 30 de julio la Subdirectora quiere dictar resolución expresa en el procedimiento de la sociedad. Conforme al art. 24.3 de la Ley 39/2015, ¿qué puede hacer?",
+   "opciones": [
+    "Nada: vencido el plazo máximo ya no puede resolver, y la resolución sería nula.",
+    "Resolver con total libertad, sin vinculación alguna al sentido del silencio, porque este es desestimatorio.",
+    "Resolver solo si confirma el silencio, es decir, si deniega la solicitud.",
+    "Resolver solo si estima la solicitud, porque la Administración no puede perjudicar a la sociedad una vez vencido el plazo."
+   ],
+   "bloque": "actividad",
+   "precepto": "Art. 24.3 de la Ley 39/2015",
+   "correcta": 1,
+   "justificaciones": [
+    "No. La obligación de resolver sigue viva aunque venza el plazo (**art. 21.1**), y la resolución tardía no es nula por eso.",
+    "Es esta. Cuando el silencio es **desestimatorio**, la resolución expresa posterior al vencimiento del plazo se adopta “sin vinculación alguna al sentido del silencio” (**art. 24.3.b**). Puede estimar o denegar.",
+    "No. Esa limitación (resolver solo si confirma) es del silencio **estimatorio** (**art. 24.3.a**). Aquí el silencio es negativo.",
+    "No. Nada obliga a estimar. Con silencio desestimatorio, la Administración tiene las manos libres (**art. 24.3.b**)."
+   ],
+   "ojo": "Silencio positivo: la resolución tardía solo puede confirmarlo. Silencio negativo: la Administración resuelve como quiera."
+  },
+  {
+   "n": 18,
+   "enunciado": "Si el Organismo hubiera cumplido el art. 24.4 de la Ley 39/2015, ¿hasta qué día habría tenido para expedir de oficio el certificado acreditativo del silencio producido en el procedimiento de la sociedad?",
+   "opciones": [
+    "El viernes 7 de agosto de 2026.",
+    "El viernes 14 de agosto de 2026.",
+    "El jueves 13 de agosto de 2026.",
+    "El lunes 17 de agosto de 2026."
+   ],
+   "bloque": "plazos",
+   "precepto": "Arts. 24.4 y 30.2 de la Ley 39/2015",
+   "correcta": 2,
+   "justificaciones": [
+    "No. Son quince días naturales (del 24 de julio al 7 de agosto). Los plazos por días son hábiles (**art. 30.2**).",
+    "No. Es pasarse un día: el décimo quinto día hábil, empezando el 24 de julio, es el 13 de agosto.",
+    "Es esta. De oficio, el certificado se expide en **quince días desde que expira el plazo máximo para resolver** (**art. 24.4**). El plazo acabó el 23 de julio. Quince días hábiles desde el 24 de julio: del 24 al 31 (6), del 3 al 7 de agosto (11) y del 10 al 13 (15). Jueves 13 de agosto.",
+    "No. Es contar desde el 27 de julio, el día en que la sociedad actuó. Pero de oficio el plazo cuenta desde que expira el plazo máximo. Solo si el interesado lo **pide**, cuenta desde el día siguiente a la entrada de su petición en el registro."
+   ],
+   "ojo": "Dos relojes distintos: de oficio, desde que vence el plazo para resolver. A petición del interesado, desde el día siguiente a que su petición entre en el registro.",
+   "calendario": "cal2026b"
+  },
+  {
+   "n": 19,
+   "enunciado": "Imagina que Dª Elena hubiera elegido recibir las notificaciones por vía electrónica y que el lunes 3 de agosto se puso a su disposición en la sede electrónica una notificación que ella no abrió. Según el art. 43 de la Ley 39/2015, ¿cuándo se entiende rechazada?",
+   "opciones": [
+    "El jueves 13 de agosto de 2026, al pasar diez días naturales desde la puesta a disposición.",
+    "El lunes 17 de agosto de 2026, al pasar diez días hábiles desde la puesta a disposición.",
+    "El lunes 3 de agosto de 2026, el mismo día en que se puso a su disposición.",
+    "Nunca: mientras no acceda a su contenido, la notificación no se entiende rechazada."
+   ],
+   "bloque": "actos",
+   "precepto": "Art. 43.2 de la Ley 39/2015",
+   "correcta": 0,
+   "justificaciones": [
+    "Es esta. Cuando la notificación electrónica es obligatoria o ha sido **expresamente elegida** por el interesado, se entiende **rechazada** al pasar **diez días naturales** desde la puesta a disposición sin acceder a su contenido (**art. 43.2**, segundo párrafo). Del 3 al 13 de agosto. Con el rechazo se da el trámite por efectuado y el procedimiento sigue (**art. 41.5**).",
+    "No. Son diez días **naturales**, no hábiles (**art. 43.2**). Es aplicar por costumbre la regla general del art. 30.2, que aquí no vale.",
+    "No. La puesta a disposición no es un rechazo. Hay que esperar los diez días.",
+    "No. Si no accede, la notificación se entiende rechazada a los diez días naturales, y eso es lo que permite seguir el procedimiento."
+   ],
+   "ojo": "Tres momentos distintos: la puesta a disposición (la Administración cumple, art. 43.3), el acceso (notificación practicada) y los diez días naturales sin acceder (rechazo).",
+   "calendario": "cal2026b"
+  },
+  {
+   "n": 20,
+   "enunciado": "Si la Subdirectora acordara abrir un período de información pública en el procedimiento de Dª Elena, ¿qué dice el art. 83 de la Ley 39/2015?",
+   "opciones": [
+    "Basta con notificarlo a los interesados: no hace falta publicar anuncio.",
+    "Quien comparece en el trámite pasa a ser interesado, y quien no comparece pierde el derecho a recurrir la resolución.",
+    "El plazo para formular alegaciones será de diez a quince días.",
+    "Se publica un anuncio en el diario oficial correspondiente, y el plazo para formular alegaciones no puede ser inferior a veinte días."
+   ],
+   "bloque": "instruccion",
+   "precepto": "Art. 83 de la Ley 39/2015",
+   "correcta": 3,
+   "justificaciones": [
+    "No. La información pública es para que “cualquier persona” pueda examinar el expediente, y por eso se publica un anuncio en el diario oficial (**art. 83.2**).",
+    "No. Dos errores. Comparecer no da por sí solo la condición de interesado, y no comparecer **no impide recurrir** la resolución (**art. 83.3**).",
+    "No. Esos diez a quince días son los del trámite de **audiencia** (**art. 82.2**). En información pública el mínimo es mayor.",
+    "Es esta. El **art. 83.2** dice que se publica un anuncio en el diario oficial correspondiente y que el plazo para alegar “en ningún caso podrá ser inferior a veinte días”."
+   ],
+   "ojo": "Audiencia: de 10 a 15 días. Información pública: 20 días como mínimo."
+  },
+  {
+   "n": 21,
+   "enunciado": "Al preparar la resolución, la Subdirectora observa una cuestión conexa que ninguno de los dos interesados había planteado. Según el art. 88 de la Ley 39/2015, ¿puede pronunciarse sobre ella?",
+   "opciones": [
+    "No: la resolución solo puede decidir lo que piden los interesados.",
+    "Sí, poniéndola antes de manifiesto a los interesados por un plazo no superior a quince días, para que aleguen y aporten pruebas.",
+    "Sí, sin necesidad de ponerla de manifiesto, porque la resolución decide también las cuestiones derivadas del procedimiento.",
+    "Sí, pero solo si los interesados dan su consentimiento expreso."
+   ],
+   "bloque": "finalizacion",
+   "precepto": "Art. 88.1 de la Ley 39/2015",
+   "correcta": 1,
+   "justificaciones": [
+    "No. El **art. 88.1** dice que la resolución decide las cuestiones planteadas por los interesados “y aquellas otras derivadas del mismo”. Las conexas no planteadas también se pueden resolver, con un trámite previo.",
+    "Es esta. Para las **cuestiones conexas** no planteadas, el órgano competente puede pronunciarse “poniéndolo antes de manifiesto” a los interesados por un plazo **no superior a quince días**, para que formulen alegaciones y aporten pruebas (**art. 88.1**, segundo párrafo).",
+    "No. Falla lo de “sin ponerla de manifiesto”. Con las cuestiones conexas hay que dar traslado a los interesados antes de resolver.",
+    "No. No hace falta su consentimiento: basta con darles ese plazo para alegar."
+   ],
+   "ojo": "Lo que la resolución no puede hacer es empeorar la situación inicial del solicitante (art. 88.2)."
+  },
+  {
+   "n": 22,
+   "enunciado": "Señale cuál de los siguientes NO es un derecho de los interesados en el procedimiento administrativo, según el art. 53.1 de la Ley 39/2015:",
+   "opciones": [
+    "Conocer, en cualquier momento, el estado de la tramitación y el sentido del silencio que corresponda si no se resuelve en plazo.",
+    "No presentar datos y documentos no exigidos por las normas aplicables que ya estén en poder de las Administraciones o hayan sido elaborados por éstas.",
+    "Aportar documentos y formular alegaciones en cualquier fase del procedimiento, incluso después del trámite de audiencia.",
+    "Actuar asistidos de asesor cuando lo consideren conveniente en defensa de sus intereses."
+   ],
+   "bloque": "iniciacion",
+   "precepto": "Art. 53.1 de la Ley 39/2015",
+   "correcta": 2,
+   "justificaciones": [
+    "Es verdadera, así que no se marca. Es el **art. 53.1.a**: el interesado puede conocer el estado de la tramitación, y también el sentido del silencio que corresponda.",
+    "Es verdadera, así que no se marca. Es el **art. 53.1.d**: no hay que presentar lo que ya tiene o ha elaborado la Administración.",
+    "Esta es la falsa, y por eso es la que hay que marcar. El **art. 53.1.e** reconoce el derecho a aportar documentos y alegaciones “en cualquier fase del procedimiento **anterior al trámite de audiencia**”. Después, las alegaciones se hacen dentro del propio trámite de audiencia (**art. 82**).",
+    "Es verdadera, así que no se marca. Es el **art. 53.1.g**."
+   ],
+   "ojo": "Lee bien el enunciado: pide la que NO es un derecho. La trampa está en “incluso después del trámite de audiencia”."
+  },
+  {
+   "n": 23,
+   "enunciado": "Si se ordenara a la sociedad retirar el quiosco por ser ilegal y no lo hiciera, ¿qué medio de ejecución forzosa podría aplicar la Administración, previo apercibimiento, y a costa de quién?",
+   "opciones": [
+    "La ejecución subsidiaria: retirarlo ella misma o a través de otra persona, a costa de la sociedad.",
+    "La ejecución subsidiaria, pero a costa de la propia Administración, sin poder reclamar el importe.",
+    "La compulsión directa sobre la persona del administrador, porque es la medida más eficaz.",
+    "Solo el apremio sobre el patrimonio, porque es el único medio para actos que no son personalísimos."
+   ],
+   "bloque": "finalizacion",
+   "precepto": "Arts. 99, 100 y 102 de la Ley 39/2015",
+   "correcta": 0,
+   "justificaciones": [
+    "Es esta. Retirar un quiosco no es un acto personalísimo: lo puede hacer otro. Por eso cabe la **ejecución subsidiaria** (**art. 102**): la Administración lo hace “por sí o a través de las personas que determine, **a costa del obligado**”. El importe puede liquidarse de forma provisional y exigirse antes, a reserva de la liquidación definitiva (**art. 102.4**). Siempre, previo apercibimiento (**art. 99**).",
+    "No. Es “a costa del obligado” (**art. 102.2**). La Administración no asume el coste.",
+    "No. La compulsión (**art. 104**) es para obligaciones personalísimas de no hacer o soportar, y solo si la ley lo autoriza. Retirar un quiosco lo puede hacer otro.",
+    "No. El apremio (**art. 101**) es para cantidades líquidas: pagar. Retirar un quiosco no es pagar. Además, para un acto que puede hacer otro caben la ejecución subsidiaria y la multa coercitiva (**art. 103.1.c**)."
+   ],
+   "ojo": "Lo que puede hacer otro admite dos vías: ejecución subsidiaria y multa coercitiva. Fíjate en la palabra “solo”."
+  },
+  {
+   "n": 24,
+   "enunciado": "Dª Elena presentó el 7 de agosto un recurso administrativo contra el acto presunto. ¿Qué recurso procede y quién lo resuelve?",
+   "opciones": [
+    "Recurso potestativo de reposición, que resuelve la propia Subdirectora.",
+    "Recurso de alzada, que resuelve la Subdirectora, porque fue ella quien dictó el acto.",
+    "Recurso extraordinario de revisión, que resuelve el Director del Organismo.",
+    "Recurso de alzada, que resuelve el Director del Organismo, superior jerárquico de la Subdirectora."
+   ],
+   "bloque": "recursos",
+   "precepto": "Arts. 114.2.d), 121 y 123.1 de la Ley 39/2015",
+   "correcta": 3,
+   "justificaciones": [
+    "No. La reposición es para actos que **ponen fin a la vía administrativa** (**art. 123.1**), y el de la Subdirectora no la agota: tiene superior jerárquico.",
+    "No. Es alzada, pero la resuelve el **superior jerárquico** del órgano que dictó el acto (**art. 121.1**), no ese mismo órgano. Eso es lo que pasa en la reposición.",
+    "No. El recurso extraordinario de revisión solo cabe contra actos firmes en vía administrativa y por causas tasadas (**art. 125.1**). No es el recurso normal contra un acto presunto reciente.",
+    "Es esta. La Subdirectora no es el máximo órgano de dirección del Organismo y tiene superior jerárquico, así que su acto (también el presunto) no pone fin a la vía administrativa (**art. 114**). Cabe **alzada** ante el superior jerárquico, el Director (**art. 121.1**). Se puede presentar ante el órgano que dictó el acto o ante el competente para resolver (**art. 121.2**)."
+   ],
+   "ojo": "La pista está en el caso: la Subdirectora no es el máximo órgano de dirección. Si fuera el Director, el acto agotaría la vía administrativa y no habría alzada."
+  },
+  {
+   "n": 25,
+   "enunciado": "Continuando con el recurso de Dª Elena, presentado el viernes 7 de agosto de 2026 en el registro electrónico del Organismo, ¿cuándo termina el plazo máximo para dictar y notificar su resolución y qué efecto tendría el silencio?",
+   "opciones": [
+    "El sábado 7 de noviembre de 2026. Desestimatorio.",
+    "El lunes 9 de noviembre de 2026. Desestimatorio.",
+    "El lunes 9 de noviembre de 2026. Estimatorio.",
+    "El lunes 7 de septiembre de 2026. Desestimatorio."
+   ],
+   "bloque": "recursos",
+   "precepto": "Arts. 122.2, 30.4, 30.5 y 24.1 de la Ley 39/2015",
+   "correcta": 1,
+   "justificaciones": [
+    "No. El efecto es correcto, pero la fecha no. El 7 de noviembre es sábado, y si el último día es inhábil el plazo pasa al primer día hábil siguiente (**art. 30.5**).",
+    "Es esta. El recurso de alzada se resuelve en **tres meses** (**art. 122.2**). Del 7 de agosto, de fecha a fecha, sale el sábado 7 de noviembre, que pasa al **lunes 9** (**arts. 30.4 y 30.5**). El silencio es desestimatorio: la excepción del “doble silencio positivo” (**art. 24.1**, tercer párrafo) no se aplica a las materias del párrafo anterior, y aquí la solicitud afectaba al dominio público.",
+    "No. La fecha es correcta, pero el silencio no. Estimar un recurso de alzada contra una desestimación presunta solo es posible fuera de las materias del **art. 24.1**, segundo párrafo, y el dominio público es una de ellas.",
+    "No. Es contar un mes, el plazo del recurso de reposición (**art. 124.2**). La alzada tiene tres meses."
+   ],
+   "ojo": "El doble silencio positivo solo existe en la alzada contra una desestimación presunta y fuera de las materias del segundo párrafo del art. 24.1. Aquí falla porque es dominio público.",
+   "calendario": "cal2026b"
+  }
+ ]
+}
